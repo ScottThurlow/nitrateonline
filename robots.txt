@@ -4,5 +4,6 @@ Disallow: /_borders
 Disallow: /_errors
 Disallow: /mediabar
 Disallow: /search
+Disallow: /BingSiteAuth.xml
 
 Sitemap: https://nitrateonline.com/sitemap.xml
