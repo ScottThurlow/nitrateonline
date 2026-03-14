@@ -8,6 +8,23 @@
     <meta name="robots" content="noindex,follow">
     <title>Links - Nitrate Online</title>
     <link rel="stylesheet" type="text/css" href="global.css">
+    <script language="JavaScript">
+    <!--
+    function no_navigate(url) { window.navigate(url) }
+    function hiLiteOn(imgName) { if (document.images) { hiLiteImage = eval(imgName + "HiLite.src"); document[imgName].src = hiLiteImage } }
+    function hiLiteOff(imgName) { if (document.images) { originalImage = eval(imgName + "White.src"); document[imgName].src = originalImage } }
+    if (document.images) {
+      homeWhite = new Image(120, 30); homeWhite.src = "/images/homeWhite.gif"
+      homeHiLite = new Image(120, 30); homeHiLite.src = "/images/homeHiLite.gif"
+      featuresWhite = new Image(84, 30); featuresWhite.src = "/images/featuresWhite.gif"
+      featuresHiLite = new Image(84, 30); featuresHiLite.src = "/images/featuresHiLite.gif"
+      archiveWhite = new Image(78, 30); archiveWhite.src = "/images/archiveWhite.gif"
+      archiveHiLite = new Image(78, 30); archiveHiLite.src = "/images/archiveHiLite.gif"
+      storeWhite = new Image(63, 30); storeWhite.src = "/images/storeWhite.gif"
+      storeHiLite = new Image(63, 30); storeHiLite.src = "/images/storeHiLite.gif"
+    }
+    //-->
+    </script>
     <style fprolloverstyle>
         A { text-decoration: none; }
         A:hover { color: #FF0000; text-decoration: underline; }
@@ -44,6 +61,19 @@
 </head>
 
 <body link="#006666" vlink="#006666" alink="#006666" topmargin="0" leftmargin="0">
+
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
+      <tr>
+        <td><a href="default.htm" target="_top"><img src="/images/nitrateonline.gif" border="0" width="359" height="53" alt="Nitrate Online"></a></td>
+        <td align="right" valign="bottom"><img src="/images/slogan.gif" width="241" height="26" alt="Movie Reviews and More..."></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="default.htm" target="_top" onmouseover="hiLiteOn('home')" onmouseout="hiLiteOff('home')"><img src="/images/homeWhite.gif" name="home" border="0" width="120" height="30" alt="Home"></a><a href="default.htm#features" target="_top" onmouseover="hiLiteOn('features')" onmouseout="hiLiteOff('features')"><img src="/images/featuresWhite.gif" name="features" border="0" width="84" height="30" alt="Features"></a><a href="archive.html" target="_top" onmouseover="hiLiteOn('archive')" onmouseout="hiLiteOff('archive')"><img src="/images/archiveWhite.gif" name="archive" border="0" width="78" height="30" alt="Archive"></a><a href="store.html" target="_top" onmouseover="hiLiteOn('store')" onmouseout="hiLiteOff('store')"><img src="/images/storeWhite.gif" name="store" border="0" width="63" height="30" alt="Store"></a>
+        </td>
+      </tr>
+    </table>
+
     <table border="0" cellspacing="0" cellpadding="0">
         <tr>
             <td>
@@ -92,6 +122,25 @@
             </td>
         </tr>
     </table>
+
+    <p>&nbsp;</p>
+
+    <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+      <tr>
+        <td width="100%" height="4" valign="bottom">
+          <p align="center"><b><a href="default.htm" target="_top"><font face="Verdana" color="#666666" size="2">home</font></a></b>
+          <font face="Verdana" color="#666666" size="2">
+          |<b> <a href="default.htm#features" target="_top">features</a> </b>|<b> <a href="default.htm#reviews" target="_top">reviews</a>
+          </b>|<b> <a href="archive.html" target="_top">archive</a> </b>|<b> <a href="store.html" target="_top">store</a>
+          </b>|<b> <a href="links.html" target="_top">links</a>
+          </b>|<b> <a href="aboutus.html" target="_top">about</a></b></font><font face="Verdana" size="1" color="#666666"><b><br>
+          </b><br>
+          www.nitrateonline.com&nbsp; Copyright &copy; 1996-2004 by Nitrate
+          Productions, Inc. All Rights Reserved.</font></p>
+        </td>
+      </tr>
+    </table>
+
 </body>
 
 </html>
