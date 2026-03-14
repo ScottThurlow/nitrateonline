@@ -9,83 +9,86 @@
     <title>Links - Nitrate Online</title>
     <link rel="stylesheet" type="text/css" href="global.css">
     <style fprolloverstyle>
-        A:hover { color: #FF0000 }
-        /* Forces content to the absolute left and standardizes spacing */
-        ul { 
-            margin-top: 5px; 
-            margin-bottom: 25px; 
-            padding-left: 1.2em; /* Minimal padding for bullet points */
-            margin-left: 0; 
-        } 
-        li { margin-bottom: 4px; }
-        body { margin-left: 0; padding-left: 0; }
+        A { text-decoration: none; }
+        A:hover { color: #FF0000; text-decoration: underline; }
+        
+        /* Layout resets */
+        body { margin: 0; padding: 20px; font-family: Verdana, sans-serif; }
+        table { border-collapse: collapse; width: 100%; }
+        
+        /* Section Heading Style - Flush Left */
+        .section-head { 
+            padding-left: 0; 
+            padding-top: 30px; 
+            padding-bottom: 10px;
+            font-size: 1.5em;
+            color: #008000;
+        }
+        
+        /* Link Row Style - 5 space equivalent indent, no bullets */
+        .link-row { 
+            padding-left: 30px; /* Precise 5-space equivalent indent */
+            padding-bottom: 6px;
+            display: block;
+            font-size: 0.85em;
+        }
+
+        .main-title {
+            letter-spacing: 2pt;
+            font-size: 2.5em;
+            color: #000000;
+            display: block;
+            padding-bottom: 5px;
+        }
     </style>
 </head>
 
 <body link="#006666" vlink="#006666" alink="#006666" topmargin="0" leftmargin="0">
-    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <table border="0" cellspacing="0" cellpadding="0">
         <tr>
-            <td valign="bottom">
-                <span style="letter-spacing: 2pt"><font color="#000000" face="Verdana" size="6">links</font></span>
-                <hr size="1">
+            <td>
+                <span class="main-title">links</span>
+                <hr size="1" color="#000000">
             </td>
         </tr>
 
+        <tr><td class="section-head">film festivals</td></tr>
         <tr>
-            <td valign="top">
-                <font face="Verdana" size="5" color="#008000">film festivals</font>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <ul>
-                    <li><font face="Verdana" size="2"><a href="https://www.filmfest-berlin.de/" target="_top">Berlin International Film Festival</a> (Berlin, Germany)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://filmfestdc.org/" target="_top">FilmFest DC</a> (Washington DC, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.filmfestivals.com" target="_top">Film Festivals.com</a> (Paris, France)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.italianfilm.com" target="_top">Italian Film Festival of Marin County</a> (Marin County, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.filmlinc.com/nyff/nyff.htm" target="_top">New York Film Festival</a> (New York, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.psfilmfest.org" target="_top">Palm Springs International Film Festival</a> (Palm Springs, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.siff.net" target="_top">Seattle International Film Festival</a> (Seattle, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://tiff.net" target="_top">Toronto International Film Festival</a> (Toronto, Canada)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://viff.org" target="_top">Vancouver International Film Festival</a> (Vancouver, Canada)</font></li>
-                </ul>
+            <td>
+                <span class="link-row"><a href="https://www.filmfest-berlin.de/" target="_top">Berlin International Film Festival</a> (Berlin, Germany)</span>
+                <span class="link-row"><a href="https://filmfestdc.org/" target="_top">FilmFest DC</a> (Washington DC, USA)</span>
+                <span class="link-row"><a href="https://www.filmfestivals.com" target="_top">Film Festivals.com</a> (Paris, France)</span>
+                <span class="link-row"><a href="https://www.italianfilm.com" target="_top">Italian Film Festival of Marin County</a> (Marin County, USA)</span>
+                <span class="link-row"><a href="https://www.filmlinc.com/nyff/nyff.htm" target="_top">New York Film Festival</a> (New York, USA)</span>
+                <span class="link-row"><a href="https://www.psfilmfest.org" target="_top">Palm Springs International Film Festival</a> (Palm Springs, USA)</span>
+                <span class="link-row"><a href="https://www.siff.net" target="_top">Seattle International Film Festival</a> (Seattle, USA)</span>
+                <span class="link-row"><a href="https://tiff.net" target="_top">Toronto International Film Festival</a> (Toronto, Canada)</span>
+                <span class="link-row"><a href="https://viff.org" target="_top">Vancouver International Film Festival</a> (Vancouver, Canada)</span>
             </td>
         </tr>
 
+        <tr><td class="section-head">movie related</td></tr>
         <tr>
-            <td valign="top">
-                <font face="Verdana" size="5" color="#008000">movie related</font>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <ul>
-                    <li><font face="Verdana" size="2"><a href="https://www.amctv.com/" target="_top">American Movie Classics</a> (Woodbury, NY, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.filmlinc.com/" target="_top">Film Society of Lincoln Center</a> (New York, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="http://www.ifctv.com/" target="_top">Independent Film Channel</a> (Woodbury, NY, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.imdb.com" target="_top">Internet Movie Database</a> (<a href="http://us.imdb.com" target="_top">US</a> or <a href="http://uk.imdb.com" target="_top">UK</a>)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.metacritic.com" target="_top">Metacritic</a></font></li>
-                    <li><font face="Verdana" size="2"><a href="https://mrqe.com" target="_top">Movie Review Query Engine</a> (Pittsburgh, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="http://lcweb.loc.gov/film/" target="_top">National Film Preservation Board</a></font></li>
-                    <li><font face="Verdana" size="2"><a href="http://www.filmpreservation.org/" target="_top">National Film Preservation Foundation</a></font></li>
-                </ul>
+            <td>
+                <span class="link-row"><a href="https://www.amctv.com/" target="_top">American Movie Classics</a> (Woodbury, NY, USA)</span>
+                <span class="link-row"><a href="https://www.filmlinc.com/" target="_top">Film Society of Lincoln Center</a> (New York, USA)</span>
+                <span class="link-row"><a href="http://www.ifctv.com/" target="_top">Independent Film Channel</a> (Woodbury, NY, USA)</span>
+                <span class="link-row"><a href="https://www.imdb.com" target="_top">Internet Movie Database</a> (<a href="http://us.imdb.com" target="_top">US</a> or <a href="http://uk.imdb.com" target="_top">UK</a>)</span>
+                <span class="link-row"><a href="https://www.metacritic.com" target="_top">Metacritic</a></span>
+                <span class="link-row"><a href="https://mrqe.com" target="_top">Movie Review Query Engine</a> (Pittsburgh, USA)</span>
+                <span class="link-row"><a href="http://lcweb.loc.gov/film/" target="_top">National Film Preservation Board</a></span>
+                <span class="link-row"><a href="http://www.filmpreservation.org/" target="_top">National Film Preservation Foundation</a></span>
             </td>
         </tr>
 
+        <tr><td class="section-head">other</td></tr>
         <tr>
-            <td valign="top">
-                <font face="Verdana" size="5" color="#008000">other</font>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <ul>
-                    <li><font face="Verdana" size="2"><a href="https://www.emaf.de/" target="_top">European Media Arts Festival</a> (Osnabrück, Germany)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://www.cascadepbs.org/" target="_top">KTCS TV</a> (Seattle, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="http://www.ovationtv.com" target="_top">Ovation TV</a></font></li>
-                    <li><font face="Verdana" size="2"><a href="http://www.weta.org" target="_top">WETA TV</a> (Washington DC, USA)</font></li>
-                    <li><font face="Verdana" size="2"><a href="https://lastfallback.org" target="_top">Last Fall Back Act — Washington State citizens' initiative to permanently end the clock change</a> (Bellevue, WA, USA)</font></li>
-                </ul>
+            <td>
+                <span class="link-row"><a href="https://www.emaf.de/" target="_top">European Media Arts Festival</a> (Osnabrück, Germany)</span>
+                <span class="link-row"><a href="https://www.cascadepbs.org/" target="_top">KTCS TV</a> (Seattle, USA)</span>
+                <span class="link-row"><a href="http://www.ovationtv.com" target="_top">Ovation TV</a></span>
+                <span class="link-row"><a href="http://www.weta.org" target="_top">WETA TV</a> (Washington DC, USA)</span>
+                <span class="link-row"><a href="https://lastfallback.org" target="_top">Last Fall Back Act - Washington State citizens' initiative to permanently end the clock change</a> (Bellevue, WA, USA)</span>
             </td>
         </tr>
     </table>
