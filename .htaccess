@@ -1780,6 +1780,47 @@ DirectoryIndex index.html
   # Store item paths
   RewriteRule ^storeitm/.*$ / [R=301,L]
 
+  # Deleted year-folder store/home-video pages
+  RewriteRule ^1999/store0299\.html$ / [R=301,L]
+  RewriteRule ^1999/store0399\.html$ / [R=301,L]
+  RewriteRule ^1999/store0699\.html$ / [R=301,L]
+  RewriteRule ^1999/store0899\.html$ / [R=301,L]
+  RewriteRule ^1999/store0999\.html$ / [R=301,L]
+  RewriteRule ^1999/store1099\.html$ / [R=301,L]
+  RewriteRule ^1999/store1299\.html$ / [R=301,L]
+  RewriteRule ^2000/store0100\.html$ / [R=301,L]
+  RewriteRule ^2000/store0200\.html$ / [R=301,L]
+  RewriteRule ^2000/store0300\.html$ / [R=301,L]
+  RewriteRule ^2000/store0400\.html$ / [R=301,L]
+  RewriteRule ^2000/store0500\.html$ / [R=301,L]
+  RewriteRule ^2000/store0600\.html$ / [R=301,L]
+  RewriteRule ^2000/store0700\.html$ / [R=301,L]
+  RewriteRule ^2000/store0800\.html$ / [R=301,L]
+  RewriteRule ^2000/store1000-2\.html$ / [R=301,L]
+  RewriteRule ^2000/store1000\.html$ / [R=301,L]
+  RewriteRule ^2000/store1100\.html$ / [R=301,L]
+  RewriteRule ^2000/store1200\.html$ / [R=301,L]
+  RewriteRule ^2001/store0101\.html$ / [R=301,L]
+  RewriteRule ^2001/store0201\.html$ / [R=301,L]
+  RewriteRule ^2001/store0301\.html$ / [R=301,L]
+  RewriteRule ^2001/store0401\.html$ / [R=301,L]
+  RewriteRule ^2001/store0501\.html$ / [R=301,L]
+  RewriteRule ^2001/store0601\.html$ / [R=301,L]
+  RewriteRule ^2001/store0701\.html$ / [R=301,L]
+  RewriteRule ^2001/store0801\.html$ / [R=301,L]
+  RewriteRule ^2001/store1001\.html$ / [R=301,L]
+  RewriteRule ^2001/store1201\.html$ / [R=301,L]
+  RewriteRule ^2002/store0302\.html$ / [R=301,L]
+
+  # .htm → .html redirects for renamed files
+  RewriteRule ^1998/rwaterboy\.htm$ /1998/rwaterboy.html [R=301,L]
+  RewriteRule ^1998/rzeroeff\.htm$ /1998/rzeroeff.html [R=301,L]
+  RewriteRule ^1999/ridealhub\.htm$ /1999/ridealhub.html [R=301,L]
+  RewriteRule ^2002/fsiff02-indx\.htm$ /2002/fsiff02-indx.html [R=301,L]
+  RewriteRule ^2002/ftiff02-indx\.htm$ /2002/ftiff02-indx.html [R=301,L]
+  RewriteRule ^2003/fsiff03-indx\.htm$ /2003/fsiff03-indx.html [R=301,L]
+  RewriteRule ^2003/ftiff03-indx\.htm$ /2003/ftiff03-indx.html [R=301,L]
+
 </IfModule>
 
 # Custom error pages
