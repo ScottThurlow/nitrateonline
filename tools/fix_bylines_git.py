@@ -58,10 +58,10 @@ def git_show(path: str) -> str | None:
     try:
         result = subprocess.run(
             ['git', 'show', f'{ORIG_COMMIT}:{path}'],
-            capture_output=True, text=True, cwd=ROOT
+            capture_output=True, cwd=ROOT
         )
         if result.returncode == 0:
-            return result.stdout
+            return result.stdout.decode('windows-1252', errors='replace')
     except Exception:
         pass
     return None
