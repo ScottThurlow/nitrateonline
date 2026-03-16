@@ -14,7 +14,9 @@
       "Bash(echo \"=== $f ===\")",
       "Read(//Users/scott/Code/nitrateonline/**)",
       "Bash(git -C /Users/scott/Code/nitrateonline status --short)",
-      "Bash(git branch:*)"
+      "Bash(git branch:*)",
+      "Bash(grep -E '^[rf][a-z].*\\\\.html?$')",
+      "Bash(grep -E '^[rf].*\\\\.html?$')"
     ]
   }
 }
