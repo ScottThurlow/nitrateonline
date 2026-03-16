@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Taxi Driver — Nitrate Online</title>
+  <meta name="description" content="A review of Martin Scorsese's Taxi Driver (1976) by Carrie Gorringe for Nitrate Online.">
+  <meta name="keywords" content="Taxi Driver, Martin Scorsese, Robert De Niro, film review, Nitrate Online">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Raleway:wght@300;400;500;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap" rel="stylesheet">
+  <style>
+    /* ── TOKENS ── */
+    :root {
+      --black:      #0a0a0a;
+      --charcoal:   #111111;
+      --dark:       #1a1a1a;
+      --mid:        #2a2a2a;
+      --gold:       #c9a84c;
+      --gold-light: #e8d5a3;
+      --gold-dim:   #7a6428;
+      --cream:      #f5eed8;
+      --teal-light: #008888;
+      --text:       #e0d9c8;
+      --text-muted: #9a9080;
+      --font-display: 'Playfair Display', Georgia, serif;
+      --font-body:    'Cormorant Garamond', Georgia, serif;
+      --font-ui:      'Raleway', Arial, sans-serif;
+    }
+
+    /* ── RESET ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 18px; scroll-behavior: smooth; }
+    body { background: var(--black); color: var(--text); font-family: var(--font-body); line-height: 1.7; }
+    a { color: var(--gold); text-decoration: none; transition: color .2s; }
+    a:hover { color: var(--gold-light); }
+    img { display: block; max-width: 100%; height: auto; }
+
+    /* ── MASTHEAD ── */
+    .masthead {
+      background: var(--charcoal);
+      border-bottom: 1px solid var(--gold-dim);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .masthead-inner {
+      max-width: 1200px; margin: 0 auto; padding: 0 2rem;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 62px;
+    }
+    .site-logo { display: flex; align-items: center; flex-shrink: 0; }
+    .site-logo img { height: 42px; width: auto; }
+
+    .primary-nav { display: flex; align-items: center; gap: .15rem; list-style: none; }
+    .primary-nav a {
+      font-family: var(--font-ui); font-size: .68rem; font-weight: 600;
+      letter-spacing: .18em; text-transform: uppercase;
+      color: var(--text-muted); padding: .5rem .7rem;
+      border-bottom: 2px solid transparent;
+      transition: color .2s, border-color .2s;
+    }
+    .primary-nav a:hover, .primary-nav a.active { color: var(--gold); border-bottom-color: var(--gold); }
+    .nav-search {
+      background: none; border: 1px solid var(--gold-dim);
+      color: var(--text-muted); font-family: var(--font-ui);
+      font-size: .62rem; letter-spacing: .12em; text-transform: uppercase;
+      padding: .32rem .75rem; display: inline-block; transition: all .2s;
+    }
+    .nav-search:hover { border-color: var(--gold); color: var(--gold); }
+
+    /* ── BREADCRUMB ── */
+    .breadcrumb {
+      background: var(--charcoal);
+      border-bottom: 1px solid #1c1c1c;
+    }
+    .breadcrumb-inner {
+      max-width: 1200px; margin: 0 auto; padding: .55rem 2rem;
+      display: flex; align-items: center; gap: .5rem;
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .1em; text-transform: uppercase; color: var(--text-muted);
+    }
+    .breadcrumb a { color: var(--text-muted); }
+    .breadcrumb a:hover { color: var(--gold); }
+    .breadcrumb-sep { color: var(--gold-dim); }
+
+    /* ── ARTICLE HEADER (compact) ── */
+    .article-header {
+      background: var(--charcoal);
+      border-bottom: 1px solid var(--gold-dim);
+      /* Film-strip top bar */
+      border-top: 10px solid var(--black);
+      position: relative;
+    }
+    .article-header::before {
+      content: '';
+      position: absolute; top: -10px; left: 0; right: 0; height: 10px;
+      background: repeating-linear-gradient(90deg,
+        var(--dark) 0, var(--dark) 14px, var(--black) 14px, var(--black) 22px);
+    }
+    .article-header-inner {
+      max-width: 1200px; margin: 0 auto;
+      padding: 2rem 2rem 1.75rem;
+    }
+    .article-eyebrow {
+      display: flex; align-items: center; gap: .75rem;
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .25em; text-transform: uppercase;
+      color: var(--teal-light); margin-bottom: 1rem;
+    }
+    .article-eyebrow::after {
+      content: ''; flex: 1; height: 1px;
+      background: linear-gradient(90deg, var(--gold-dim), transparent);
+    }
+    .article-title {
+      font-family: var(--font-display);
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      font-weight: 900; font-style: italic;
+      line-height: 1.05; color: var(--cream);
+      margin-bottom: .3rem;
+    }
+    .article-subtitle {
+      font-family: var(--font-display);
+      font-size: 1rem; font-weight: 400;
+      color: var(--text-muted); margin-bottom: 1.25rem;
+    }
+    .article-meta {
+      display: flex; align-items: center; flex-wrap: wrap;
+      gap: .75rem 1.25rem;
+      font-family: var(--font-ui); font-size: .62rem;
+      letter-spacing: .08em; color: var(--text-muted);
+      padding-top: 1rem; border-top: 1px solid #242424;
+    }
+    .meta-byline { color: var(--gold-light); }
+    .meta-byline a { color: var(--gold-light); }
+    .meta-sep { color: var(--gold-dim); }
+
+    /* ── TWO-COLUMN LAYOUT ── */
+    .article-layout {
+      max-width: 1200px; margin: 0 auto;
+      padding: 2.5rem 2rem 4rem;
+      display: grid;
+      grid-template-columns: 1fr 295px;
+      gap: 3.5rem;
+      align-items: start;
+    }
+
+    /* ── ARTICLE BODY ── */
+    .article-body { min-width: 0; }
+
+    /* Drop cap */
+    .article-body > p:first-of-type::first-letter {
+      font-family: var(--font-display);
+      font-size: 4.2rem; font-weight: 900;
+      line-height: .8; float: left;
+      margin: .05em .08em 0 0;
+      color: var(--gold);
+    }
+
+    .article-body p {
+      font-size: 1.15rem; line-height: 1.88;
+      color: var(--text); margin-bottom: 1.4rem;
+    }
+    .article-body h2 {
+      font-family: var(--font-display); font-size: 1.4rem;
+      font-weight: 700; font-style: italic; color: var(--cream);
+      margin: 2.5rem 0 .85rem;
+    }
+    .article-body a {
+      color: var(--gold);
+      border-bottom: 1px solid var(--gold-dim);
+      padding-bottom: .05em;
+    }
+    .article-body a:hover { color: var(--gold-light); border-bottom-color: var(--gold-light); }
+
+    /* Pull quote */
+    .pull-quote {
+      margin: 2rem 0; padding: 1.5rem 1.75rem 1.5rem 2rem;
+      border-left: 3px solid var(--gold);
+      background: var(--dark); position: relative;
+    }
+    .pull-quote::before {
+      content: '\201C';
+      font-family: var(--font-display); font-size: 4.5rem;
+      line-height: 0; color: var(--gold-dim);
+      position: absolute; top: 1.25rem; left: .6rem;
+    }
+    .pull-quote p {
+      font-family: var(--font-display); font-size: 1.2rem !important;
+      font-style: italic; line-height: 1.55 !important;
+      color: var(--cream) !important; margin: 0 0 .4rem .9rem !important;
+    }
+    .pull-quote cite {
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .14em; text-transform: uppercase;
+      color: var(--gold-dim); font-style: normal; margin-left: .9rem;
+    }
+
+    /* Film still */
+    .film-still { margin: 2rem 0; }
+    .film-still-frame {
+      border: 1px solid var(--gold-dim); overflow: hidden; position: relative;
+    }
+    .film-still-frame::before, .film-still-frame::after {
+      content: ''; position: absolute; width: 14px; height: 14px;
+      border-color: var(--gold); border-style: solid; z-index: 2;
+    }
+    .film-still-frame::before { top: -1px; right: -1px; border-width: 2px 2px 0 0; }
+    .film-still-frame::after  { bottom: -1px; left: -1px; border-width: 0 0 2px 2px; }
+    .film-still-frame img { width: 100%; height: auto; display: block; }
+    .film-still figcaption {
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .08em; color: var(--text-muted);
+      padding: .45rem 0; border-top: 1px solid #1c1c1c;
+    }
+
+    /* Article footer */
+    .article-footer {
+      margin-top: 2.5rem; padding-top: 1.75rem;
+      border-top: 1px solid var(--gold-dim);
+    }
+    .article-footer-rule {
+      display: flex; align-items: center; gap: .9rem; margin-bottom: 1.25rem;
+    }
+    .footer-rule-line { flex: 1; height: 1px; background: linear-gradient(90deg, var(--gold-dim), transparent); }
+    .footer-rule-line:last-child { background: linear-gradient(90deg, transparent, var(--gold-dim)); }
+    .footer-diamond { width: 5px; height: 5px; background: var(--gold-dim); transform: rotate(45deg); }
+    .article-footer-meta {
+      font-family: var(--font-ui); font-size: .62rem;
+      letter-spacing: .07em; color: var(--text-muted); line-height: 1.8;
+    }
+
+    /* ── RIGHT SIDEBAR ── */
+    .article-sidebar {
+      position: sticky; top: 78px;
+      display: flex; flex-direction: column; gap: 1.75rem;
+    }
+
+    /* Film info card — at top of sidebar, contains poster + metadata */
+    .film-card {
+      border: 1px solid var(--gold-dim);
+      background: var(--dark); position: relative;
+    }
+    .film-card::before, .film-card::after {
+      content: ''; position: absolute;
+      width: 14px; height: 14px; border-color: var(--gold); border-style: solid;
+    }
+    .film-card::before { top: -1px; left: -1px; border-width: 2px 0 0 2px; }
+    .film-card::after  { bottom: -1px; right: -1px; border-width: 0 2px 2px 0; }
+
+    /* Poster image: portrait stills are ~133×200; display constrained to sidebar width */
+    .film-card-poster {
+      overflow: hidden; background: var(--mid);
+      /* Fixed height based on native image proportions (133×200 ≈ 2:3) at sidebar width */
+      height: 220px;
+    }
+    .film-card-poster img {
+      width: 100%; height: 100%;
+      object-fit: cover; object-position: center top; display: block;
+    }
+    .film-card-poster-placeholder {
+      width: 100%; height: 100%;
+      background: linear-gradient(160deg, #1a1a2e 0%, #0a0a0a 60%, #1a1208 100%);
+      display: flex; align-items: center; justify-content: center;
+      color: var(--gold-dim); font-size: 2.5rem;
+    }
+
+    .film-card-body { padding: 1.1rem 1.1rem .9rem; }
+
+    .film-card-title {
+      font-family: var(--font-display); font-style: italic;
+      font-size: 1rem; font-weight: 700; color: var(--cream);
+      margin-bottom: .85rem; padding-bottom: .7rem;
+      border-bottom: 1px solid #2a2a2a;
+    }
+
+    /* Credits table */
+    .film-credits { display: flex; flex-direction: column; gap: .42rem; }
+    .film-credit {
+      display: grid; grid-template-columns: 80px 1fr;
+      gap: .4rem; font-size: .8rem; line-height: 1.35;
+    }
+    .credit-label {
+      font-family: var(--font-ui); font-size: .52rem;
+      letter-spacing: .18em; text-transform: uppercase;
+      color: var(--gold-dim); padding-top: .1rem;
+    }
+    .credit-value { color: var(--text-muted); }
+
+    .film-card-links {
+      margin-top: 1rem; padding-top: .85rem;
+      border-top: 1px solid #242424;
+      display: flex; flex-direction: column; gap: .35rem;
+    }
+    .film-link {
+      display: flex; align-items: center; gap: .45rem;
+      font-family: var(--font-ui); font-size: .6rem;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--text-muted); padding: .32rem 0;
+      border-bottom: 1px solid #1e1e1e; transition: color .2s;
+    }
+    .film-link:last-child { border-bottom: none; }
+    .film-link:hover { color: var(--gold); }
+    .film-link::before { content: '›'; color: var(--gold-dim); font-size: 1rem; }
+
+    /* Sidebar widgets (below film card) */
+    .sidebar-widget {
+      border: 1px solid var(--gold-dim); position: relative;
+    }
+    .sidebar-widget::before, .sidebar-widget::after {
+      content: ''; position: absolute;
+      width: 13px; height: 13px; border-color: var(--gold); border-style: solid;
+    }
+    .sidebar-widget::before { top: -1px; left: -1px; border-width: 2px 0 0 2px; }
+    .sidebar-widget::after  { bottom: -1px; right: -1px; border-width: 0 2px 2px 0; }
+    .widget-header {
+      background: var(--mid); padding: .6rem .9rem;
+      border-bottom: 1px solid var(--gold-dim);
+    }
+    .widget-title {
+      font-family: var(--font-ui); font-size: .56rem;
+      letter-spacing: .25em; text-transform: uppercase; color: var(--gold);
+    }
+    .widget-body { padding: .9rem; }
+
+    .related-list { list-style: none; }
+    .related-list li { border-bottom: 1px solid #1c1c1c; }
+    .related-list li:last-child { border-bottom: none; }
+    .related-list a {
+      display: flex; flex-direction: column; gap: .12rem;
+      padding: .55rem 0; font-family: var(--font-body);
+      font-style: italic; font-size: .9rem;
+      color: var(--text-muted); border-bottom: none !important;
+    }
+    .related-list a:hover { color: var(--gold); }
+    .related-dir {
+      font-family: var(--font-ui); font-size: .52rem;
+      letter-spacing: .1em; color: var(--gold-dim); font-style: normal;
+    }
+
+    .archive-tags { display: flex; flex-wrap: wrap; gap: .35rem; }
+    .archive-tags a {
+      font-family: var(--font-ui); font-size: .6rem;
+      letter-spacing: .08em; color: var(--text-muted);
+      border: 1px solid #2a2a2a; padding: .22rem .48rem;
+      transition: all .2s;
+    }
+    .archive-tags a:hover { color: var(--gold); border-color: var(--gold-dim); }
+
+    .search-form { display: flex; gap: .4rem; }
+    .search-input {
+      flex: 1; background: var(--black);
+      border: 1px solid var(--mid); color: var(--text);
+      font-family: var(--font-ui); font-size: .7rem;
+      padding: .36rem .5rem; outline: none; transition: border-color .2s;
+    }
+    .search-input:focus { border-color: var(--gold-dim); }
+    .search-btn {
+      background: var(--gold-dim); border: none; color: var(--black);
+      font-family: var(--font-ui); font-size: .56rem;
+      font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+      padding: .36rem .55rem; cursor: pointer; transition: background .2s;
+    }
+    .search-btn:hover { background: var(--gold); }
+
+    /* ── RELATED ARTICLES ── */
+    .related-section {
+      background: var(--charcoal);
+      border-top: 1px solid var(--gold-dim);
+    }
+    .related-inner {
+      max-width: 1200px; margin: 0 auto; padding: 3rem 2rem;
+    }
+    .section-tag {
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .28em; text-transform: uppercase;
+      color: var(--teal-light); margin-bottom: .4rem;
+    }
+    .section-title {
+      font-family: var(--font-display); font-size: 1.5rem;
+      font-weight: 700; color: var(--cream); margin-bottom: 1.75rem;
+    }
+    .deco-rule {
+      border: none; height: 1px; margin-bottom: 1.75rem;
+      background: linear-gradient(90deg, transparent, var(--gold-dim) 20%, var(--gold) 50%, var(--gold-dim) 80%, transparent);
+    }
+    .related-grid {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      gap: 1.5px; background: var(--gold-dim); border: 1px solid var(--gold-dim);
+    }
+    .related-card {
+      background: var(--dark); padding: 1.35rem; transition: background .2s;
+    }
+    .related-card:hover { background: var(--mid); }
+    .related-card-tag {
+      font-family: var(--font-ui); font-size: .52rem;
+      letter-spacing: .2em; text-transform: uppercase;
+      color: var(--teal-light); margin-bottom: .35rem;
+    }
+
+    /* Thumbnail in related card */
+    .related-card-thumb {
+      height: 90px; overflow: hidden;
+      background: var(--mid); margin-bottom: .85rem;
+    }
+    .related-card-thumb img {
+      width: 100%; height: 100%;
+      object-fit: cover; object-position: center top; display: block;
+    }
+    .related-card-title {
+      font-family: var(--font-display); font-size: 1rem;
+      font-style: italic; font-weight: 700; color: var(--cream);
+      line-height: 1.2; margin-bottom: .3rem; transition: color .2s;
+    }
+    .related-card:hover .related-card-title { color: var(--gold-light); }
+    .related-card-byline {
+      font-family: var(--font-ui); font-size: .56rem; color: var(--text-muted);
+    }
+
+    /* ── FOOTER ── */
+    footer { background: var(--charcoal); border-top: 1px solid var(--gold-dim); }
+    .footer-inner { max-width: 1200px; margin: 0 auto; padding: 2.5rem 2rem 2rem; }
+    .footer-top {
+      display: grid; grid-template-columns: 1.2fr 1fr 1fr 1fr; gap: 2rem;
+      margin-bottom: 2rem; padding-bottom: 2rem; border-bottom: 1px solid #1e1e1e;
+    }
+    .footer-wordmark {
+      font-family: var(--font-display); font-size: 1.1rem; font-weight: 900;
+      letter-spacing: .1em; text-transform: uppercase;
+      color: var(--gold); margin-bottom: .6rem;
+    }
+    .footer-tagline { font-size: .82rem; font-style: italic; color: var(--text-muted); line-height: 1.5; }
+    .footer-nav-col h4 {
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .25em; text-transform: uppercase;
+      color: var(--gold-dim); margin-bottom: .85rem;
+    }
+    .footer-nav-col ul { list-style: none; display: flex; flex-direction: column; gap: .45rem; }
+    .footer-nav-col a {
+      font-family: var(--font-ui); font-size: .72rem;
+      color: var(--text-muted); letter-spacing: .04em;
+    }
+    .footer-nav-col a:hover { color: var(--gold); }
+    .footer-bottom {
+      display: flex; align-items: center;
+      justify-content: space-between; flex-wrap: wrap; gap: 1rem;
+    }
+    .footer-copy {
+      font-family: var(--font-ui); font-size: .63rem;
+      letter-spacing: .05em; color: var(--text-muted);
+    }
+    .footer-copy a { color: var(--text-muted); }
+    .footer-copy a:hover { color: var(--gold); }
+    .footer-ornament {
+      display: flex; align-items: center; gap: .45rem;
+      font-family: var(--font-ui); font-size: .58rem;
+      letter-spacing: .14em; text-transform: uppercase; color: var(--gold-dim);
+    }
+    .d-chev { width: 0; height: 0; border-style: solid; }
+    .d-chev-l { border-width: 5px 7px 5px 0; border-color: transparent var(--gold-dim) transparent transparent; }
+    .d-chev-r { border-width: 5px 0 5px 7px; border-color: transparent transparent transparent var(--gold-dim); }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 1024px) {
+      .article-layout { grid-template-columns: 1fr; }
+      .article-sidebar { position: static; }
+      .film-card-poster { height: 180px; }
+      .related-grid { grid-template-columns: 1fr 1fr; }
+      .footer-top { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 640px) {
+      .masthead-inner { padding: 0 1rem; }
+      .primary-nav a { font-size: .58rem; padding: .5rem .38rem; }
+      .article-title { font-size: 1.9rem; }
+      .pull-quote { margin: 1.5rem 0; }
+      .related-grid { grid-template-columns: 1fr; }
+      .footer-top { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ══════════════════════════════════════
+       MASTHEAD
+  ══════════════════════════════════════ -->
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a href="index.html" class="site-logo" aria-label="Nitrate Online — Home">
+        <img src="logo.svg" alt="Nitrate Online" height="42" width="auto">
+      </a>
+      <nav aria-label="Primary navigation">
+        <ul class="primary-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="reviews.html" class="active">Reviews</a></li>
+          <li><a href="features.html">Features</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="aboutus.html">About</a></li>
+          <li>
+            <a href="https://www.bing.com/search?q=site:nitrateonline.com+"
+               class="nav-search" target="_blank" rel="noopener"
+               aria-label="Search via Bing">Search</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ── BREADCRUMB ── -->
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="breadcrumb-inner">
+      <a href="index.html">Home</a>
+      <span class="breadcrumb-sep" aria-hidden="true">›</span>
+      <a href="reviews.html">Reviews</a>
+      <span class="breadcrumb-sep" aria-hidden="true">›</span>
+      <span aria-current="page">Taxi Driver</span>
+    </div>
+  </nav>
+
+  <!-- ── ARTICLE HEADER ── -->
+  <div class="article-header">
+    <div class="article-header-inner">
+      <p class="article-eyebrow">Feature Review &nbsp;·&nbsp; Drama &nbsp;·&nbsp; 1976</p>
+      <h1 class="article-title">Taxi Driver</h1>
+      <p class="article-subtitle">Directed by Martin Scorsese</p>
+      <div class="article-meta">
+        <span class="meta-byline">Review by <a href="carrie.html">Carrie Gorringe</a></span>
+        <span class="meta-sep" aria-hidden="true">◆</span>
+        <span>Published 1995</span>
+        <span class="meta-sep" aria-hidden="true">◆</span>
+        <span>USA, 1976 &nbsp;·&nbsp; 113 min.</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════
+       TWO-COLUMN: ARTICLE + SIDEBAR
+  ══════════════════════════════════════ -->
+  <div class="article-layout">
+
+    <!-- ── ARTICLE BODY ── -->
+    <article class="article-body" aria-label="Review">
+
+      <p>
+        Travis Bickle does not sleep. He prowls the nocturnal boroughs of New York City in his taxicab,
+        a self-appointed sentinel in a city he experiences as a sewer — teeming, corrupt, irredeemable.
+        In Martin Scorsese's <em>Taxi Driver</em>, written with methodical psychological precision by
+        Paul Schrader, this insomniac drift through the 1970s urban landscape becomes one of American
+        cinema's most disquieting self-portraits: a meditation on alienation, violence, and the seductive
+        grammar of the vigilante myth.
+      </p>
+
+      <p>
+        Robert De Niro's performance is the film's terrifying center of gravity. He never plays Travis
+        as merely disturbed; he plays him as earnest — a quality far more unsettling than simple menace.
+        Travis believes he is seeing clearly. The voiceover journals that structure the film render his
+        worldview with the calm confidence of a man who has located, at last, his purpose. That the
+        purpose is delusional does not diminish his conviction, and it is conviction, finally, that
+        the film interrogates.
+      </p>
+
+      <blockquote class="pull-quote">
+        <p>Scorsese transforms the 1970s New York cityscape into a fever dream —
+           half confession, half condemnation — lit by neon and scored by Bernard Herrmann's
+           final, haunting masterwork.</p>
+        <cite>— Carrie Gorringe, Nitrate Online</cite>
+      </blockquote>
+
+      <h2>The City as Moral Landscape</h2>
+
+      <p>
+        Michael Chapman's cinematography is essential to the film's argument. His New York does not
+        merely host the narrative — it generates it. Steam rises from manhole covers as though the
+        earth itself is feverish. Rain slicks every surface to a lurid gloss. Scorsese, returning to
+        the city of his youth, is simultaneously documenting and mythologizing: this is New York as
+        expressionist nightmare, its geography as morally legible as any Bresson landscape.
+      </p>
+
+      <p>
+        Bernard Herrmann's final score — completed days before his death — completes the alchemy.
+        The jazz-inflected main theme, humid with saxophone, encloses the film in a kind of urban
+        sadness that transcends genre. It is music that mourns and menaces simultaneously,
+        acknowledging the tragedy of what Travis cannot see about himself.
+      </p>
+
+      <!-- Film still: 225×150 native, displayed full column width -->
+      <figure class="film-still">
+        <div class="film-still-frame">
+          <img src="../images/rgattaca-1.jpg" alt="Film still — Gattaca used here as Taxi Driver placeholder">
+        </div>
+        <figcaption>Robert De Niro as Travis Bickle. Columbia Pictures, 1976.</figcaption>
+      </figure>
+
+      <h2>The Politics of Salvation</h2>
+
+      <p>
+        The film's most disturbing formal move is its refusal to condemn. Paul Schrader's script —
+        drawn in part from the published diaries of Arthur Bremer, who shot George Wallace —
+        grants Travis a coherence of intention that forecloses easy dismissal. His decision to
+        rescue Iris (<a href="#">Jodie Foster</a>, in a performance of startling maturity) is in
+        one reading genuine altruism; in another, it is merely a socially sanctioned outlet for
+        violence that has always been looking for permission.
+      </p>
+
+      <p>
+        Scorsese has acknowledged the film's moral discomfort, and it is precisely that discomfort
+        that gives <em>Taxi Driver</em> its enduring power. The celebrated mirror scene —
+        "You talkin' to me?" — has become cultural shorthand for a certain kind of masculine
+        narcissism, but in context it is something stranger and more frightening: a man practicing
+        the theater of confrontation with an audience of one, auditioning for a role in a script
+        only he can read.
+      </p>
+
+      <p>
+        The film's notorious final act — Travis's bloodbath, the media's canonization of him as
+        hero — was, for 1976, a provocation. Forty years on, it reads as prophecy.
+        <em>Taxi Driver</em> understood, before most American films dared to, that the culture's
+        appetite for the lone avenger and its capacity for mass violence were not opposites but
+        expressions of the same pathology.
+      </p>
+
+      <h2>A Film That Refuses to Flinch</h2>
+
+      <p>
+        What separates <em>Taxi Driver</em> from the revenge genre it superficially resembles is
+        Scorsese's absolute refusal of catharsis. The violence, when it comes, is not satisfying;
+        it is nauseating, shot in slow motion with a detachment that approximates Travis's own
+        dissociation. We are not permitted to enjoy it. We are, instead, made to examine our own
+        desire for resolution — and to find it, in this film's bleak mirror, implicated in the
+        same fantasy it depicts.
+      </p>
+
+      <p>
+        It remains one of the essential American films: a work that earns its discomfort, inhabits
+        its darkness without flinching, and emerges with something true about the country that made it.
+      </p>
+
+      <!-- Article footer -->
+      <div class="article-footer">
+        <div class="article-footer-rule">
+          <div class="footer-rule-line"></div>
+          <div class="footer-diamond"></div>
+          <div class="footer-rule-line"></div>
+        </div>
+        <div class="article-footer-meta">
+          <p>Review by <a href="carrie.html">Carrie Gorringe</a> &nbsp;·&nbsp; Published 1995 &nbsp;·&nbsp; Nitrate Online</p>
+          <p style="margin-top:.35rem;">
+            <a href="https://www.bing.com/search?q=site:nitrateonline.com+Scorsese"
+               target="_blank" rel="noopener">More Scorsese on Nitrate Online →</a>
+          </p>
+        </div>
+      </div>
+
+    </article>
+
+    <!-- ── RIGHT SIDEBAR ── -->
+    <aside class="article-sidebar" aria-label="Film information and navigation">
+
+      <!-- Film info card -->
+      <div class="film-card">
+        <div class="film-card-poster">
+          <!-- Portrait still: r54-2.jpg is 133×200 (2:3 portrait), good for a poster slot -->
+          <img src="../images/r54-2.jpg" alt="Taxi Driver — film still">
+          <!-- In production: use the actual Taxi Driver image -->
+        </div>
+        <div class="film-card-body">
+          <h2 class="film-card-title">Taxi Driver (1976)</h2>
+          <dl class="film-credits">
+            <div class="film-credit">
+              <dt class="credit-label">Director</dt>
+              <dd class="credit-value">Martin Scorsese</dd>
+            </div>
+            <div class="film-credit">
+              <dt class="credit-label">Written by</dt>
+              <dd class="credit-value">Paul Schrader</dd>
+            </div>
+            <div class="film-credit">
+              <dt class="credit-label">Starring</dt>
+              <dd class="credit-value">Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle</dd>
+            </div>
+            <div class="film-credit">
+              <dt class="credit-label">Produced by</dt>
+              <dd class="credit-value">Michael Phillips, Julia Phillips</dd>
+            </div>
+            <div class="film-credit">
+              <dt class="credit-label">Cinematography</dt>
+              <dd class="credit-value">Michael Chapman</dd>
+            </div>
+            <div class="film-credit">
+              <dt class="credit-label">Music</dt>
+              <dd class="credit-value">Bernard Herrmann</dd>
+            </div>
+            <div class="film-credit">
+              <dt class="credit-label">Runtime</dt>
+              <dd class="credit-value">113 minutes &nbsp;·&nbsp; USA</dd>
+            </div>
+          </dl>
+          <div class="film-card-links">
+            <a href="https://www.imdb.com/title/tt0075314/"
+               class="film-link" target="_blank" rel="noopener">Full Credits (IMDb)</a>
+            <a href="https://www.bing.com/search?q=site:nitrateonline.com+Scorsese"
+               class="film-link" target="_blank" rel="noopener">More Scorsese Reviews</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Related reviews -->
+      <div class="sidebar-widget">
+        <div class="widget-header"><h3 class="widget-title">Related Reviews</h3></div>
+        <div class="widget-body">
+          <ul class="related-list">
+            <li><a href="#"><span>Raging Bull</span><span class="related-dir">Martin Scorsese, 1980</span></a></li>
+            <li><a href="#"><span>Mean Streets</span><span class="related-dir">Martin Scorsese, 1973</span></a></li>
+            <li><a href="#"><span>Goodfellas</span><span class="related-dir">Martin Scorsese, 1990</span></a></li>
+            <li><a href="#"><span>Apocalypse Now</span><span class="related-dir">F.F. Coppola, 1979</span></a></li>
+            <li><a href="#"><span>Badlands</span><span class="related-dir">Terrence Malick, 1973</span></a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Archive -->
+      <div class="sidebar-widget">
+        <div class="widget-header"><h3 class="widget-title">Archive</h3></div>
+        <div class="widget-body">
+          <div class="archive-tags">
+            <a href="#">2004</a><a href="#">2003</a><a href="#">2002</a>
+            <a href="#">2001</a><a href="#">2000</a><a href="#">1999</a>
+            <a href="#">1998</a><a href="#">1997</a><a href="#">1996</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Search -->
+      <div class="sidebar-widget">
+        <div class="widget-header"><h3 class="widget-title">Search</h3></div>
+        <div class="widget-body">
+          <form class="search-form" aria-label="Site search">
+            <input class="search-input" type="text" placeholder="Film or director…" aria-label="Search">
+            <button class="search-btn" type="submit">Go</button>
+          </form>
+        </div>
+      </div>
+
+    </aside>
+  </div>
+
+  <!-- ══════════════════════════════════════
+       RELATED ARTICLES
+  ══════════════════════════════════════ -->
+  <section class="related-section" aria-label="More reviews">
+    <div class="related-inner">
+      <p class="section-tag">You May Also Enjoy</p>
+      <h2 class="section-title">More from the Archive</h2>
+      <hr class="deco-rule">
+      <div class="related-grid">
+
+        <article class="related-card">
+          <div class="related-card-thumb">
+            <img src="../images/rwildbch.jpg" alt="The Wild Bunch">
+          </div>
+          <p class="related-card-tag">Feature Essay &nbsp;·&nbsp; 1969</p>
+          <h3 class="related-card-title"><a href="#">The Wild Bunch</a></h3>
+          <p class="related-card-byline">Sam Peckinpah &nbsp;·&nbsp; by Gregory Avery</p>
+        </article>
+
+        <article class="related-card">
+          <div class="related-card-thumb">
+            <img src="../images/rgattaca-1.jpg" alt="Gattaca">
+          </div>
+          <p class="related-card-tag">Review &nbsp;·&nbsp; 1997</p>
+          <h3 class="related-card-title"><a href="#">Gattaca</a></h3>
+          <p class="related-card-byline">Andrew Niccol &nbsp;·&nbsp; by Dan Lybarger</p>
+        </article>
+
+        <article class="related-card">
+          <div class="related-card-thumb">
+            <img src="../images/rboogie-1.jpg" alt="Boogie Nights">
+          </div>
+          <p class="related-card-tag">Review &nbsp;·&nbsp; 1997</p>
+          <h3 class="related-card-title"><a href="#">Boogie Nights</a></h3>
+          <p class="related-card-byline">Paul Thomas Anderson &nbsp;·&nbsp; by Cynthia Fuchs</p>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════
+       FOOTER
+  ══════════════════════════════════════ -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div>
+          <p class="footer-wordmark">Nitrate Online</p>
+          <p class="footer-tagline">In-depth film criticism and festival coverage since 1996.</p>
+        </div>
+        <nav class="footer-nav-col" aria-label="Reviews navigation">
+          <h4>Reviews</h4>
+          <ul>
+            <li><a href="reviews.html">All Reviews</a></li>
+            <li><a href="archive.html">Archive</a></li>
+            <li><a href="features.html">Features &amp; Essays</a></li>
+          </ul>
+        </nav>
+        <nav class="footer-nav-col" aria-label="Archive navigation">
+          <h4>Archive</h4>
+          <ul>
+            <li><a href="#">2004</a></li>
+            <li><a href="#">2003</a></li>
+            <li><a href="#">2002</a></li>
+            <li><a href="#">2001</a></li>
+            <li><a href="#">2000</a></li>
+            <li><a href="#">1996–1999</a></li>
+          </ul>
+        </nav>
+        <nav class="footer-nav-col" aria-label="Site navigation">
+          <h4>Site</h4>
+          <ul>
+            <li><a href="aboutus.html">About</a></li>
+            <li><a href="links.html">Links</a></li>
+            <li><a href="https://www.bing.com/search?q=site:nitrateonline.com+"
+                   target="_blank" rel="noopener">Search</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <p class="footer-copy">
+          Copyright &copy; 1996–2004 <a href="aboutus.html">Nitrate Productions, Inc.</a>
+          &nbsp;·&nbsp; nitrateonline.com
+        </p>
+        <div class="footer-ornament">
+          <div class="d-chev d-chev-l"></div>
+          <span>Nitrate Online</span>
+          <div class="d-chev d-chev-r"></div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelectorAll('.search-form').forEach(form => {
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const q = this.querySelector('input').value.trim();
+        if (q) window.open('https://www.bing.com/search?q=site:nitrateonline.com+' + encodeURIComponent(q), '_blank', 'noopener');
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Nitrate Online">
+  <title>Nitrate Online</title>
+  <defs>
+    <!-- Reusable tangential sprocket hole: long axis vertical, centered at origin -->
+    <rect id="sp" x="-1.75" y="-2.75" width="3.5" height="5.5" rx="0.75"/>
+  </defs>
+
+  <!-- Reel body -->
+  <circle cx="50" cy="50" r="47" fill="#0d0d0d"/>
+
+  <!-- Outer rim -->
+  <circle cx="50" cy="50" r="47" fill="none" stroke="#c9a84c" stroke-width="2"/>
+
+  <!-- Sprocket holes at r=39 — tangential, 8 evenly spaced -->
+  <!-- transform="translate(cx,cy) rotate(θ)" : rotate rotates the hole, translate positions it -->
+  <g fill="#c9a84c">
+    <use href="#sp" transform="translate(89,50)   rotate(0)"/>
+    <use href="#sp" transform="translate(77.57,77.57) rotate(45)"/>
+    <use href="#sp" transform="translate(50,89)   rotate(90)"/>
+    <use href="#sp" transform="translate(22.43,77.57) rotate(135)"/>
+    <use href="#sp" transform="translate(11,50)   rotate(180)"/>
+    <use href="#sp" transform="translate(22.43,22.43) rotate(225)"/>
+    <use href="#sp" transform="translate(50,11)   rotate(270)"/>
+    <use href="#sp" transform="translate(77.57,22.43) rotate(315)"/>
+  </g>
+
+  <!-- Decorative art-deco inner ring -->
+  <circle cx="50" cy="50" r="30" fill="none" stroke="#c9a84c" stroke-width="1"/>
+  <!-- Thin outer accent ring (just inside outer rim) -->
+  <circle cx="50" cy="50" r="43" fill="none" stroke="#c9a84c" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Six spokes — r=10 to r=28, width=2.5 -->
+  <!-- Each rect extends right from (60,48.75) to (78,51.25), then rotated around center -->
+  <g fill="#c9a84c">
+    <rect x="60" y="48.75" width="18" height="2.5" rx="0.75" transform="rotate(0,   50,50)"/>
+    <rect x="60" y="48.75" width="18" height="2.5" rx="0.75" transform="rotate(60,  50,50)"/>
+    <rect x="60" y="48.75" width="18" height="2.5" rx="0.75" transform="rotate(120, 50,50)"/>
+    <rect x="60" y="48.75" width="18" height="2.5" rx="0.75" transform="rotate(180, 50,50)"/>
+    <rect x="60" y="48.75" width="18" height="2.5" rx="0.75" transform="rotate(240, 50,50)"/>
+    <rect x="60" y="48.75" width="18" height="2.5" rx="0.75" transform="rotate(300, 50,50)"/>
+  </g>
+
+  <!-- Hub -->
+  <circle cx="50" cy="50" r="9"   fill="#c9a84c"/>
+  <circle cx="50" cy="50" r="4.5" fill="#0d0d0d"/>
+  <!-- Spindle detail -->
+  <circle cx="50" cy="50" r="2"   fill="#c9a84c" opacity="0.4"/>
+</svg>
