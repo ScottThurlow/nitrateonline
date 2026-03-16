@@ -13,7 +13,8 @@
       "Bash(/dev/null done:*)",
       "Bash(echo \"=== $f ===\")",
       "Read(//Users/scott/Code/nitrateonline/**)",
-      "Bash(git -C /Users/scott/Code/nitrateonline status --short)"
+      "Bash(git -C /Users/scott/Code/nitrateonline status --short)",
+      "Bash(git branch:*)"
     ]
   }
 }
