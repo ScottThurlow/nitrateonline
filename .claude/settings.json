@@ -12,7 +12,8 @@
       "Bash(do find:*)",
       "Bash(/dev/null done:*)",
       "Bash(echo \"=== $f ===\")",
-      "Read(//Users/scott/Code/nitrateonline/**)"
+      "Read(//Users/scott/Code/nitrateonline/**)",
+      "Bash(git -C /Users/scott/Code/nitrateonline status --short)"
     ]
   }
 }
