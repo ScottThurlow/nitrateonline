@@ -24,10 +24,32 @@
 /* ── RESET ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 18px; scroll-behavior: smooth; }
-body { background: var(--black); color: var(--text); font-family: var(--font-body); line-height: 1.7; }
+body { background: var(--black); color: var(--text); font-family: var(--font-body); line-height: 1.7; -webkit-text-size-adjust: 100%; }
 a { color: var(--gold); text-decoration: none; transition: color .2s; }
 a:hover { color: var(--gold-light); }
 img { display: block; max-width: 100%; height: auto; }
+
+/* ── FOCUS STYLES (keyboard accessibility) ── */
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+a:focus-visible { outline-offset: 3px; }
+button:focus-visible { outline-offset: 2px; }
+input:focus-visible, select:focus-visible, textarea:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 0;
+}
+
+/* ── SKIP-TO-CONTENT ── */
+.skip-link {
+  position: absolute; top: -100%; left: 50%; transform: translateX(-50%);
+  background: var(--gold); color: var(--black); font-family: var(--font-ui);
+  font-size: .75rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  padding: .6rem 1.2rem; z-index: 200; text-decoration: none;
+  transition: top .15s;
+}
+.skip-link:focus { top: 0; }
 
 /* ── MASTHEAD ── */
 .masthead {
@@ -607,4 +629,29 @@ footer { background: var(--charcoal); border-top: 1px solid var(--gold-dim); mar
   .archive-tags a { padding: .35rem .55rem; }
   .archive-year-list a { padding: .6rem 0; }
   .footer-nav-col a { padding: .3rem 0; display: inline-block; }
+}
+
+/* ════════════════════════════════════════
+   REDUCED MOTION
+════════════════════════════════════════ */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+  html { scroll-behavior: auto; }
+}
+
+/* ════════════════════════════════════════
+   PRINT STYLES
+════════════════════════════════════════ */
+@media print {
+  body { background: #fff; color: #000; font-size: 12pt; line-height: 1.5; }
+  .masthead, .nav-toggle, .breadcrumb, .sidebar, .article-sidebar,
+  .archive-sidebar, .deco-divider, .hero-ornament, .footer-ornament,
+  .search-form, .search-btn, .related-section, .skip-link { display: none !important; }
+  a { color: #000; text-decoration: underline; }
+  a[href]::after { content: " (" attr(href) ")"; font-size: .8em; color: #555; }
+  a[href^="/"]::after { content: " (nitrateonline.com" attr(href) ")"; }
+  a[href^="#"]::after, nav a[href]::after { content: none; }
+  .article-body img, .card-image img { max-width: 300px; }
+  footer { border-top: 1px solid #ccc; margin-top: 2rem; padding-top: 1rem; }
+  .footer-copy { color: #555; }
 }
