@@ -418,10 +418,7 @@ FOOTER_TMPL = '''\
         <p class="footer-copy">
           Copyright &copy; 1996–2004
           <a href="{root}aboutus.html">Nitrate Productions, Inc.</a>
-          &nbsp;·&nbsp; nitrateonline.com
-        </p>
-        <p class="footer-copy footer-cc">
-          <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> &nbsp;·&nbsp; Content may be shared with attribution
+          &nbsp;·&nbsp; <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a>
         </p>
         <div class="footer-ornament">
           <div class="d-chev d-chev-l"></div>
