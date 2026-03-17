@@ -275,7 +275,7 @@ img { display: block; max-width: 100%; height: auto; }
 /* Article body */
 .article-body { min-width: 0; }
 .article-body > p:first-of-type::first-letter {
-  font-family: var(--font-display); font-size: 4.2rem; font-weight: 900;
+  font-family: var(--font-display); font-size: 5rem; font-weight: 900;
   line-height: .8; float: left; margin: .05em .08em 0 0; color: var(--gold);
 }
 .article-body p { font-size: 1.15rem; line-height: 1.55; color: var(--text); margin-bottom: 1.4rem; }
