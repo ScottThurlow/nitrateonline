@@ -1,5 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=$HOME/public_html/nitrateonline.com/
+    - BRANCH=$(git rev-parse --abbrev-ref HEAD)
+    - if [ "$BRANCH" = "ppe" ]; then export DEPLOYPATH=$HOME/public_html/ppe.nitrateonline.com/; else export DEPLOYPATH=$HOME/public_html/nitrateonline.com/; fi
     - /bin/cp -R .htaccess * $DEPLOYPATH
