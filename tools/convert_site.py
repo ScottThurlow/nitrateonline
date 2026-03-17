@@ -420,6 +420,9 @@ FOOTER_TMPL = '''\
           <a href="{root}aboutus.html">Nitrate Productions, Inc.</a>
           &nbsp;·&nbsp; nitrateonline.com
         </p>
+        <p class="footer-copy footer-cc">
+          <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> &nbsp;·&nbsp; Content may be shared with attribution
+        </p>
         <div class="footer-ornament">
           <div class="d-chev d-chev-l"></div>
           <span>Nitrate Online</span>
