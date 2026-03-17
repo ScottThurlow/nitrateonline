@@ -514,7 +514,7 @@ def render_review_page(meta: dict, body_html: str, year: str, filename: str,
 
     page_url = f'https://nitrateonline.com/{year}/{filename}'
     og_type = 'article'
-    og_image = 'https://nitrateonline.com/images/og-default.svg'
+    og_image = 'https://nitrateonline.com/images/og-default.png'
 
     return f'''<!DOCTYPE html>
 <html lang="en">
