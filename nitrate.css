@@ -276,7 +276,7 @@ img { display: block; max-width: 100%; height: auto; }
 .article-body { min-width: 0; }
 .article-body > p:first-of-type::first-letter {
   font-family: var(--font-display); font-weight: 900; color: var(--gold);
-  initial-letter: 3; margin-right: .08em;
+  initial-letter: 3 2; margin-right: .08em;
 }
 @supports not (initial-letter: 3) {
   .article-body > p:first-of-type::first-letter {
