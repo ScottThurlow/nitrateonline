@@ -387,7 +387,19 @@ input:focus-visible, select:focus-visible, textarea:focus-visible {
 .film-credit { display: grid; grid-template-columns: 80px 1fr; gap: .4rem; font-size: .8rem; line-height: 1.35; }
 .credit-label { font-family: var(--font-ui); font-size: .52rem; letter-spacing: .18em; text-transform: uppercase; color: var(--gold-dim); padding-top: .1rem; }
 .credit-value { color: var(--text-muted); }
-.film-card-links { margin-top: 1rem; padding-top: .85rem; border-top: 1px solid #242424; display: flex; flex-direction: column; gap: .35rem; }
+/* Film ratings badges */
+.film-card-ratings {
+  display: flex; gap: .4rem; flex-wrap: wrap;
+  margin-top: .85rem; padding-top: .75rem; border-top: 1px solid #242424;
+}
+.film-rating {
+  font-family: var(--font-ui); font-size: .54rem; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--cream); background: var(--mid);
+  padding: .2rem .45rem; border: 1px solid #333;
+}
+
+.film-card-links { margin-top: .75rem; padding-top: .75rem; border-top: 1px solid #242424; display: flex; flex-direction: column; gap: .35rem; }
 .film-link {
   display: flex; align-items: center; gap: .45rem;
   font-family: var(--font-ui); font-size: .6rem; letter-spacing: .1em;
