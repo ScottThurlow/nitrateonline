@@ -512,6 +512,10 @@ def render_review_page(meta: dict, body_html: str, year: str, filename: str,
     masthead = MASTHEAD_TMPL.format(root=root)
     footer = FOOTER_TMPL.format(root=root)
 
+    page_url = f'https://nitrateonline.com/{year}/{filename}'
+    og_type = 'article'
+    og_image = 'https://nitrateonline.com/images/og-default.svg'
+
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -519,11 +523,20 @@ def render_review_page(meta: dict, body_html: str, year: str, filename: str,
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title_e} — Nitrate Online</title>
   <meta name="description" content="{desc_e}">
+  <meta name="robots" content="index, follow">
   <link rel="icon" href="{root}favicon.svg" type="image/svg+xml">
+  <link rel="canonical" href="{page_url}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="{FONTS_URL}" rel="stylesheet">
   <link rel="stylesheet" href="{root}nitrate.css">
+  <meta property="og:site_name" content="Nitrate Online">
+  <meta property="og:type" content="{og_type}">
+  <meta property="og:url" content="{page_url}">
+  <meta property="og:title" content="{title_e}">
+  <meta property="og:description" content="{desc_e}">
+  <meta property="og:image" content="{og_image}">
+  <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
 
