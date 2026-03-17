@@ -1,1 +1,3 @@
 .DS_Store
+.tmdb_api_key
+tmdb_data/
