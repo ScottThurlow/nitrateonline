@@ -1,5 +1,10 @@
 RewriteEngine On
 
+# Block search engine indexing on PPE
+<If "%{HTTP_HOST} == 'ppe.nitrateonline.com'">
+  Header set X-Robots-Tag "noindex, nofollow"
+</If>
+
 # 1. Redirect HTTP → HTTPS
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
