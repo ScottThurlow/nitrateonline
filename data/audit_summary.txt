@@ -1,0 +1,26 @@
+============================================================
+NITRATE ONLINE PAGE QUALITY AUDIT SUMMARY
+============================================================
+Total files audited:       1842
+Files with issues:         505
+Files without issues:      1337
+Total issues found:        1324
+
+ISSUE COUNTS BY TYPE:
+----------------------------------------
+  missing_imdb_link                439
+  missing_poster_reference         429
+  missing_director                 309
+  thin_content                     104
+  empty_content                     43
+
+TOP 10 MOST COMMON ISSUES:
+----------------------------------------
+  missing_imdb_link                439
+  missing_poster_reference         429
+  missing_director                 309
+  thin_content                     104
+  empty_content                     43
+
+Full details: /Users/scott/Code/nitrateonline/data/audit_report.csv
+============================================================
