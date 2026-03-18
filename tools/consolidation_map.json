@@ -1,0 +1,614 @@
+{
+  "r12monky": {
+    "title": "Twelve Monkeys",
+    "release_year": "1995",
+    "keep_year": "1996",
+    "keep_file": "1996/r12monky.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/r12monky.html"
+    ]
+  },
+  "raceven": {
+    "title": "Ace Ventura II - When Nature Calls",
+    "release_year": null,
+    "keep_year": "1997",
+    "keep_file": "1997/raceven.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/raceven.html"
+    ]
+  },
+  "ralien": {
+    "title": "Alien Resurrection",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/ralien.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/ralien.html"
+    ]
+  },
+  "ramistad": {
+    "title": "Amistad",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/ramistad.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/ramistad.html"
+    ]
+  },
+  "ranimal": {
+    "title": "The Animal",
+    "release_year": "2000",
+    "keep_year": "2001",
+    "keep_file": "2001/ranimal.html",
+    "remove_years": [
+      "2004"
+    ],
+    "remove_files": [
+      "2004/ranimal.html"
+    ]
+  },
+  "rapostle": {
+    "title": "The Apostle",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rapostle.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rapostle.html"
+    ]
+  },
+  "rapower": {
+    "title": "Absolute Power",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rapower.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rapower.html"
+    ]
+  },
+  "rbarbwir": {
+    "title": "Barb Wire",
+    "release_year": "1996",
+    "keep_year": "1996",
+    "keep_file": "1996/rbarbwir.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rbarbwir.html"
+    ]
+  },
+  "rbarrow": {
+    "title": "Broken Arrow",
+    "release_year": "1996",
+    "keep_year": "1996",
+    "keep_file": "1996/rbarrow.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rbarrow.html"
+    ]
+  },
+  "rbatman": {
+    "title": "Batman &amp; Robin",
+    "release_year": null,
+    "keep_year": "1997",
+    "keep_file": "1997/rbatman.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rbatman.html"
+    ]
+  },
+  "rbfwedding": {
+    "title": "My Best Friend&#x27;s Wedding",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rbfwedding.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rbfwedding.html"
+    ]
+  },
+  "rboogie": {
+    "title": "Boogie Nights",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rboogie.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rboogie.html"
+    ]
+  },
+  "rconair": {
+    "title": "Con Air",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rconair.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rconair.html"
+    ]
+  },
+  "rcontact": {
+    "title": "Contact",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rcontact.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rcontact.html"
+    ]
+  },
+  "rcopland": {
+    "title": "Cop Land",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rcopland.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rcopland.html"
+    ]
+  },
+  "rct": {
+    "title": "Conspiracy Theory",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rct.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rct.html"
+    ]
+  },
+  "rdadetown": {
+    "title": "Dadetown",
+    "release_year": "1995",
+    "keep_year": "1996",
+    "keep_file": "1996/rdadetown.html",
+    "remove_years": [
+      "1997"
+    ],
+    "remove_files": [
+      "1997/rdadetown.html"
+    ]
+  },
+  "rdancer": {
+    "title": "Dancer in the Dark",
+    "release_year": "2002",
+    "keep_year": "2000",
+    "keep_file": "2000/rdancer.html",
+    "remove_years": [
+      "2003"
+    ],
+    "remove_files": [
+      "2003/rdancer.html"
+    ]
+  },
+  "revita": {
+    "title": "Evita",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/revita.html",
+    "remove_years": [
+      "1996"
+    ],
+    "remove_files": [
+      "1996/revita.html"
+    ]
+  },
+  "rfaceoff": {
+    "title": "Face/Off",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rfaceoff.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rfaceoff.html"
+    ]
+  },
+  "rfifthe": {
+    "title": "The Fifth Element",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rfifthe.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rfifthe.html"
+    ]
+  },
+  "rfirstcon": {
+    "title": "Star Trek: First Contact",
+    "release_year": "1996",
+    "keep_year": "1996",
+    "keep_file": "1996/rfirstcon.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rfirstcon.html"
+    ]
+  },
+  "rgattaca": {
+    "title": "Gattaca",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rgattaca.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rgattaca.html"
+    ]
+  },
+  "rgldneye": {
+    "title": "GoldenEye",
+    "release_year": "1995",
+    "keep_year": "1997",
+    "keep_file": "1997/rgldneye.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rgldneye.html"
+    ]
+  },
+  "rgod": {
+    "title": "Playing God",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rgod.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rgod.html"
+    ]
+  },
+  "rgoodas": {
+    "title": "As Good As It Gets",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rgoodas.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rgoodas.html"
+    ]
+  },
+  "rharry": {
+    "title": "Deconstructing Harry",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rharry.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rharry.html"
+    ]
+  },
+  "rhereafter": {
+    "title": "The Sweet Hereafter",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rhereafter.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rhereafter.html"
+    ]
+  },
+  "rhorse": {
+    "title": "Year of the Horse",
+    "release_year": "1926",
+    "keep_year": "1997",
+    "keep_file": "1997/rhorse.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rhorse.html"
+    ]
+  },
+  "rinout": {
+    "title": "In &amp; Out",
+    "release_year": null,
+    "keep_year": "1997",
+    "keep_file": "1997/rinout.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rinout.html"
+    ]
+  },
+  "rjackal": {
+    "title": "The Jackal",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rjackal.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rjackal.html"
+    ]
+  },
+  "rjackieb": {
+    "title": "Jackie Brown",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rjackieb.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rjackieb.html"
+    ]
+  },
+  "rkolya": {
+    "title": "Kolya",
+    "release_year": "1996",
+    "keep_year": "1996",
+    "keep_file": "1996/rkolya.html",
+    "remove_years": [
+      "1997"
+    ],
+    "remove_files": [
+      "1997/rkolya.html"
+    ]
+  },
+  "rlapromesse": {
+    "title": "La Promesse",
+    "release_year": "1996",
+    "keep_year": "1996",
+    "keep_file": "1996/rlapromesse.html",
+    "remove_years": [
+      "1997"
+    ],
+    "remove_files": [
+      "1997/rlapromesse.html"
+    ]
+  },
+  "rlovely": {
+    "title": "She&#x27;s So Lovely",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rlovely.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rlovely.html"
+    ]
+  },
+  "rmib": {
+    "title": "Men in Black",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rmib.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rmib.html"
+    ]
+  },
+  "rmousehunt": {
+    "title": "Mouse Hunt",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rmousehunt.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rmousehunt.html"
+    ]
+  },
+  "rnixon": {
+    "title": "Nixon",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rnixon.html",
+    "remove_years": [
+      "1996"
+    ],
+    "remove_files": [
+      "1996/rnixon.html"
+    ]
+  },
+  "rpeacemaker": {
+    "title": "The Peacemaker",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rpeacemaker.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rpeacemaker.html"
+    ]
+  },
+  "rpicperfect": {
+    "title": "Picture Perfect",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rpicperfect.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rpicperfect.html"
+    ]
+  },
+  "rrainmaker": {
+    "title": "John Grisham&#x27;s The Rainmaker",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rrainmaker.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rrainmaker.html"
+    ]
+  },
+  "rscream": {
+    "title": "Scream 2",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rscream.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rscream.html"
+    ]
+  },
+  "rsense": {
+    "title": "Sense and Sensibility",
+    "release_year": "1995",
+    "keep_year": "1996",
+    "keep_file": "1996/rsense.html",
+    "remove_years": [
+      "1997"
+    ],
+    "remove_files": [
+      "1997/rsense.html"
+    ]
+  },
+  "rshowgrl": {
+    "title": "Showgirls",
+    "release_year": "1995",
+    "keep_year": "1997",
+    "keep_file": "1997/rshowgrl.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rshowgrl.html"
+    ]
+  },
+  "rspawn": {
+    "title": "Spawn",
+    "release_year": "1998",
+    "keep_year": "1998",
+    "keep_file": "1998/rspawn.html",
+    "remove_years": [
+      "1997"
+    ],
+    "remove_files": [
+      "1997/rspawn.html"
+    ]
+  },
+  "rspeed2": {
+    "title": "Speed 2",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rspeed2.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rspeed2.html"
+    ]
+  },
+  "rsummer": {
+    "title": "I Know What You Did Last Summer",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rsummer.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rsummer.html"
+    ]
+  },
+  "rswingers": {
+    "title": "Swingers",
+    "release_year": "2002",
+    "keep_year": "1996",
+    "keep_file": "1996/rswingers.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rswingers.html"
+    ]
+  },
+  "rtodiefor": {
+    "title": "Review: To Die For",
+    "release_year": null,
+    "keep_year": "1996",
+    "keep_file": "1996/rtodiefor.html",
+    "remove_years": [
+      "1997"
+    ],
+    "remove_files": [
+      "1997/rtodiefor.html"
+    ]
+  },
+  "rtowong": {
+    "title": "Too Wong Foo",
+    "release_year": null,
+    "keep_year": "1997",
+    "keep_file": "1997/rtowong.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rtowong.html"
+    ]
+  },
+  "rwag": {
+    "title": "Wag The Dog",
+    "release_year": "1997",
+    "keep_year": "1997",
+    "keep_file": "1997/rwag.html",
+    "remove_years": [
+      "1998"
+    ],
+    "remove_files": [
+      "1998/rwag.html"
+    ]
+  }
+}
