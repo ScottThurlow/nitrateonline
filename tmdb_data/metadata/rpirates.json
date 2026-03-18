@@ -1,0 +1,292 @@
+{
+  "tmdb_id": 22,
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "release_date": "2003-07-09",
+  "runtime": 143,
+  "tagline": "Prepare to be blown out of the water.",
+  "overview": "When wily Captain Barbossa steals Jack Sparrow's ship and kidnaps the governor's beautiful daughter, Elizabeth, her childhood friend Will Turner joins forces with Jack to save her and recapture Jack's ship, the Black Pearl.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gore Verbinski"
+  ],
+  "writers": [
+    {
+      "name": "Terry Rossio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Terry Rossio",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Stuart Beattie",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Jay Wolpert",
+      "job": "Screenstory"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Chad Oman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Deason",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Hendricks",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Johnny Depp",
+      "character": "Jack Sparrow",
+      "order": 0
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Barbossa",
+      "order": 1
+    },
+    {
+      "name": "Orlando Bloom",
+      "character": "Will Turner",
+      "order": 2
+    },
+    {
+      "name": "Keira Knightley",
+      "character": "Elizabeth Swann",
+      "order": 3
+    },
+    {
+      "name": "Jack Davenport",
+      "character": "Norrington",
+      "order": 4
+    },
+    {
+      "name": "Jonathan Pryce",
+      "character": "Governor Weatherby Swann",
+      "order": 5
+    },
+    {
+      "name": "Lee Arenberg",
+      "character": "Pintel",
+      "order": 6
+    },
+    {
+      "name": "Mackenzie Crook",
+      "character": "Ragetti",
+      "order": 7
+    },
+    {
+      "name": "Damian O'Hare",
+      "character": "Lt. Gillette",
+      "order": 8
+    },
+    {
+      "name": "Giles New",
+      "character": "Murtogg",
+      "order": 9
+    }
+  ],
+  "poster_path": "/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+  "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+  "budget": 140000000,
+  "revenue": 655011224,
+  "vote_average": 7.8,
+  "vote_count": 21973,
+  "imdb_id": "tt0325980",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "Atp"
+    },
+    {
+      "country": "AT",
+      "rating": "10"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CL",
+      "rating": "TE"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IS",
+      "rating": "10"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PE",
+      "rating": "Apt"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "TW",
+      "rating": "保護級"
+    },
+    {
+      "country": "UA",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

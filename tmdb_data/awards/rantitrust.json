@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 4 nominations total",
+  "rated": "PG-13",
+  "released": "12 Jan 2001",
+  "runtime": "108 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Peter Howitt",
+  "writer": "Howard Franklin",
+  "actors": "Ryan Phillippe, Tim Robbins, Rachael Leigh Cook",
+  "plot": "This movie is the fictional story of computer programming genius Milo Hoffman after graduating from Stanford and getting out into the competitive world of computer software. In his contemplation of where to begin his career, he is contacted by Gary Winston whose character is loosely based on Bill Gates. Winston is the CEO of a company called NURV, and they are on the brink of completing the global communication's system, Synapse. They need Hoffman to help them meet their launch date, so after much thought and with the full support of his girlfriend Alice, he accepts the job. Tragedy soon after strikes and Milo becomes suspicious of the company he has been wrapped up in. He learns that trusting anyone could be a mistake, and that nothing is as it seems.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "31",
+  "imdb_rating": "6.1",
+  "imdb_votes": "30,960",
+  "box_office": "$11,328,094",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "23%",
+      "link": "https://www.rottentomatoes.com/search?search=Antitrust"
+    },
+    {
+      "source": "Metacritic",
+      "value": "31/100",
+      "link": "https://www.metacritic.com/search/Antitrust/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0218817/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0218817/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9989"
+  }
+}

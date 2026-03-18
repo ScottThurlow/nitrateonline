@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "24 Sep 1999",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama",
+  "director": "Lawrence Kasdan",
+  "writer": "Lawrence Kasdan",
+  "actors": "Loren Dean, Hope Davis, Jason Lee",
+  "plot": "The story of two Mumfords - one a small town, the other a man. Mumford, the town, is full of people with problems, from a teenage girl who is unhappy with her looks to a local billionaire, \"the king of modems\", who would trade everything away if he could. So when Micky Mumford, the man, turns out to be a psychologist with slightly unusual methods he soon finds a spot in people's heart as someone to whom they can tell their secrets. But Micky too has a secret, and that one's about to hunt him down.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.8",
+  "imdb_votes": "9,668",
+  "box_office": "$4,555,459",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=Mumford"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Mumford/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0140397/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0140397/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24071"
+  }
+}

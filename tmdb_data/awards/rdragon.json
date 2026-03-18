@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 wins & 10 nominations total",
+  "rated": "R",
+  "released": "04 Oct 2002",
+  "runtime": "124 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Brett Ratner",
+  "writer": "Thomas Harris, Ted Tally",
+  "actors": "Anthony Hopkins, Edward Norton, Ralph Fiennes",
+  "plot": "After escaping death by the skin of his teeth while on the hunt for the elusive madman, Dr Hannibal Lecter, the now-retired and emotionally scarred FBI agent, Will Graham, finds himself back in action. Reluctantly, as yet another monstrous serial killer known as \"The Tooth Fairy\" terrorises Baltimore, Graham turns to Lecter, the evil mastermind who's been under lock and key for three long years, to lend a hand in this challenging and time-sensitive case. But, to delve deep into the demented mind of a killer, one must first face his inner demons, and Will already knows that his insane imprisoned assistant is a gifted manipulator. Can Graham find the horrifying Red Dragon in time before another family suffers?",
+  "language": "English, French",
+  "country": "Germany, United States",
+  "metascore": "60",
+  "imdb_rating": "7.2",
+  "imdb_votes": "309,919",
+  "box_office": "$93,149,898",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Red+Dragon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Red+Dragon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0289765/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0289765/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9533"
+  }
+}

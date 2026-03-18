@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 2 Oscars. 25 wins & 71 nominations total",
+  "rated": "R",
+  "released": "03 Jan 2003",
+  "runtime": "125 min",
+  "genre": "Drama",
+  "director": "Alexander Payne",
+  "writer": "Louis Begley, Alexander Payne, Jim Taylor",
+  "actors": "Jack Nicholson, Hope Davis, Dermot Mulroney",
+  "plot": "Warren Schmidt (Jack Nicholson) has led a safe, predictable life working in the insurance industry in Omaha, Nebraska for many years, yet now faces retirement. At the same time, he is forced to take a hard look at his wife, his life, and his relationship with his estranged daughter. An often hilarious series of events follow as Schmidt embarks on an unpredictable RV journey to attend his daughter's wedding in Denver, Colorado.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "85",
+  "imdb_rating": "7.2",
+  "imdb_votes": "137,739",
+  "box_office": "$65,016,287",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=About+Schmidt"
+    },
+    {
+      "source": "Metacritic",
+      "value": "85/100",
+      "link": "https://www.metacritic.com/search/About+Schmidt/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0257360/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0257360/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2755"
+  }
+}

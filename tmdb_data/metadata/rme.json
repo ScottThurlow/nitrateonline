@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 26290,
+  "title": "Me Without You",
+  "original_title": "Me Without You",
+  "release_date": "2001-11-01",
+  "runtime": 107,
+  "tagline": "...best friends forever?",
+  "overview": "During a long, hot summer in seventies London, young neighbors Holly and Marina make a childhood pact to be friends forever. For Marina, troubled, fiercely independent, determined to try everything, Holly stays the only constant in a life of divorcing parents, experimental drugs and fashionable self-destruction. But for Holly, a friendship that has never been equal gradually starts to feel like a trap.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Momentum Pictures",
+      "country": "CA"
+    },
+    {
+      "name": "Fireworks Pictures",
+      "country": "CA"
+    },
+    {
+      "name": "Road Movies",
+      "country": "DE"
+    },
+    {
+      "name": "Wave Pictures",
+      "country": "DK"
+    },
+    {
+      "name": "British Screen",
+      "country": "GB"
+    },
+    {
+      "name": "MEDIA Programme of the European Union",
+      "country": "BE"
+    },
+    {
+      "name": "Dakota Films",
+      "country": "GB"
+    },
+    {
+      "name": "Isle of Man Film Commission",
+      "country": ""
+    },
+    {
+      "name": "BSB",
+      "country": "GB"
+    },
+    {
+      "name": "Capitol Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Sandra Goldbacher"
+  ],
+  "writers": [
+    {
+      "name": "Sandra Goldbacher",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Laurence Coriat",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Finola Dwyer",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Olsberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Christian",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anna Friel",
+      "character": "Marina",
+      "order": 0
+    },
+    {
+      "name": "Michelle Williams",
+      "character": "Holly",
+      "order": 1
+    },
+    {
+      "name": "Oliver Milburn",
+      "character": "Nat",
+      "order": 2
+    },
+    {
+      "name": "Trudie Styler",
+      "character": "Linda",
+      "order": 3
+    },
+    {
+      "name": "Marianne Denicourt",
+      "character": "Isabel",
+      "order": 4
+    },
+    {
+      "name": "Steve John Shepherd",
+      "character": "Carl",
+      "order": 5
+    },
+    {
+      "name": "Allan Corduner",
+      "character": "Max",
+      "order": 6
+    },
+    {
+      "name": "Nicky Henson",
+      "character": "Ray",
+      "order": 7
+    },
+    {
+      "name": "Kyle MacLachlan",
+      "character": "Daniel",
+      "order": 8
+    },
+    {
+      "name": "Deborah Findlay",
+      "character": "Judith",
+      "order": 9
+    }
+  ],
+  "poster_path": "/424IEKHWFSH9TNBzNLcwCVzjpDs.jpg",
+  "backdrop_path": "/2nAmg0N5rG88tHCckbbCBWuG8F1.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.45,
+  "vote_count": 60,
+  "imdb_id": "tt0263725",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

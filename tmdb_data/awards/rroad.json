@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "19 wins & 11 nominations total",
+  "rated": "G",
+  "released": "15 Jun 2001",
+  "runtime": "89 min",
+  "genre": "Drama, Romance",
+  "director": "Yimou Zhang",
+  "writer": "Shi Bao",
+  "actors": "Ziyi Zhang, Honglei Sun, Hao Zheng",
+  "plot": "City businessman Luo Yusheng returns to his home village in North China for the funeral of his father, the village teacher. He finds his elderly mother insisting that all the traditional burial customs be observed, despite the fact that times have changed so much, and that it involves many people carrying his father's body back to the village - the road home. As Yusheng debates the complications involved in organising such a big feat, he remembers the magical story of how his father and mother first met and got together.",
+  "language": "Mandarin",
+  "country": "China",
+  "metascore": "71",
+  "imdb_rating": "7.7",
+  "imdb_votes": "14,155",
+  "box_office": "$1,280,490",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Road+Home"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/The+Road+Home/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0235060/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0235060/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12276"
+  }
+}

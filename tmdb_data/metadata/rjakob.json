@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 2290,
+  "title": "Jakob the Liar",
+  "original_title": "Jakob the Liar",
+  "release_date": "1999-09-16",
+  "runtime": 120,
+  "tagline": "When all hope was lost, he invented it.",
+  "overview": "In 1944 Poland, a Jewish shop keeper named Jakob is summoned to ghetto headquarters after being caught out after curfew. While waiting for the German Kommondant, Jakob overhears a German radio broadcast about Russian troop movements. Returned to the ghetto, the shopkeeper shares his information with a friend and then rumors fly that there is a secret radio within the ghetto.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Global Medien KG",
+      "country": "DE"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Blue Wolf",
+      "country": ""
+    },
+    {
+      "name": "Kasso Productions",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Peter Kassovitz"
+  ],
+  "writers": [
+    {
+      "name": "Jurek Becker",
+      "job": "Novel"
+    },
+    {
+      "name": "Didier Decoin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Kassovitz",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Steven Haft",
+      "job": "Producer"
+    },
+    {
+      "name": "Marsha Garces Williams",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "character": "Jakob Heym",
+      "order": 0
+    },
+    {
+      "name": "Liev Schreiber",
+      "character": "Mischa",
+      "order": 1
+    },
+    {
+      "name": "Hannah Taylor-Gordon",
+      "character": "Lina Kronstein",
+      "order": 2
+    },
+    {
+      "name": "Alan Arkin",
+      "character": "Max Frankfurter",
+      "order": 3
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Avron",
+      "order": 4
+    },
+    {
+      "name": "Bob Balaban",
+      "character": "Kowalsky",
+      "order": 5
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "character": "Prof. Dr. Kirschbaum",
+      "order": 6
+    },
+    {
+      "name": "Éva Igó",
+      "character": "Lina's Mother",
+      "order": 7
+    },
+    {
+      "name": "István Bálint",
+      "character": "Lina's Father",
+      "order": 8
+    },
+    {
+      "name": "Mark Margolis",
+      "character": "Fajngold",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vvwsvPyQFuQbKKfzNgoRhAcL5ml.jpg",
+  "backdrop_path": "/h3j41S9qKLy4Wk0Dx53nkmcfs2W.jpg",
+  "budget": 45000000,
+  "revenue": 4956701,
+  "vote_average": 6.7,
+  "vote_count": 397,
+  "imdb_id": "tt0120716",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

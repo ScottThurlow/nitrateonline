@@ -1,0 +1,156 @@
+{
+  "tmdb_id": 26149,
+  "title": "Music of the Heart",
+  "original_title": "Music of the Heart",
+  "release_date": "1999-10-29",
+  "runtime": 124,
+  "tagline": "She gave them a gift they could never imagine. They gave the system a fight it would never forget.",
+  "overview": "After Roberta Guaspari separates from her husband, she receives encouragement from her mother to take up a job of a music teacher at the Central Park East School in East Harlem.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Craven-Maddalena Films",
+      "country": ""
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Wes Craven"
+  ],
+  "writers": [
+    {
+      "name": "Pamela Gray",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Susan Kaplan",
+      "job": "Producer"
+    },
+    {
+      "name": "Marianne Maddalena",
+      "job": "Producer"
+    },
+    {
+      "name": "Allan Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter Scheuer",
+      "job": "Producer"
+    },
+    {
+      "name": "Amy Slotnick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Meryl Streep",
+      "character": "Roberta",
+      "order": 0
+    },
+    {
+      "name": "Aidan Quinn",
+      "character": "Brian",
+      "order": 1
+    },
+    {
+      "name": "Angela Bassett",
+      "character": "Janet",
+      "order": 2
+    },
+    {
+      "name": "Gloria Estefan",
+      "character": "Isabel",
+      "order": 3
+    },
+    {
+      "name": "Cloris Leachman",
+      "character": "Assunta",
+      "order": 4
+    },
+    {
+      "name": "Josh Pais",
+      "character": "Dennis",
+      "order": 5
+    },
+    {
+      "name": "Jane Leeves",
+      "character": "Dorothea",
+      "order": 6
+    },
+    {
+      "name": "Kieran Culkin",
+      "character": "Lexi at 15",
+      "order": 7
+    },
+    {
+      "name": "Charlie Hofheimer",
+      "character": "Nick at 17",
+      "order": 8
+    },
+    {
+      "name": "Jay O. Sanders",
+      "character": "Dan Paxton",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yKbzT8q9b65hc1eIZxuRsLxopi7.jpg",
+  "backdrop_path": "/1RQj9GlPMU1iHoGVDal3G5NOQRF.jpg",
+  "budget": 27000000,
+  "revenue": 14859394,
+  "vote_average": 6.7,
+  "vote_count": 219,
+  "imdb_id": "tt0166943",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

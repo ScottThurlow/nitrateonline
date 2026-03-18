@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 27103,
+  "title": "My Life in Pink",
+  "original_title": "Ma vie en rose",
+  "release_date": "1997-05-28",
+  "runtime": 88,
+  "tagline": "Sometimes you just have to be yourself.",
+  "overview": "Ludovic is waiting for a miracle. With six-year-old certainty, she believes she was meant to be a little girl -- and that the mistake will soon be corrected. But where she expects the miraculous, Ludo finds only rejection, isolation, and guilt -- as the intense reactions of family, friends, and neighbors strip away every innocent lace and bauble.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Haut et Court",
+      "country": "FR"
+    },
+    {
+      "name": "La Sept Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "TF1 Films Production",
+      "country": "FR"
+    },
+    {
+      "name": "WFE Production",
+      "country": "BE"
+    },
+    {
+      "name": "RTBF",
+      "country": "BE"
+    },
+    {
+      "name": "Freeway Films",
+      "country": "GB"
+    },
+    {
+      "name": "CAB Productions",
+      "country": "CH"
+    }
+  ],
+  "director": [
+    "Alain Berliner"
+  ],
+  "writers": [
+    {
+      "name": "Chris Vander Stappen",
+      "job": "Story"
+    },
+    {
+      "name": "Chris Vander Stappen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alain Berliner",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carole Scotta",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Georges Du Fresne",
+      "character": "Ludovic Fabre",
+      "order": 0
+    },
+    {
+      "name": "Michèle Laroque",
+      "character": "Hanna Fabre",
+      "order": 1
+    },
+    {
+      "name": "Jean-Philippe Écoffey",
+      "character": "Pierre Fabre",
+      "order": 2
+    },
+    {
+      "name": "Hélène Vincent",
+      "character": "Élisabeth",
+      "order": 3
+    },
+    {
+      "name": "Cristine Barget",
+      "character": "Zoé Fabre",
+      "order": 4
+    },
+    {
+      "name": "Daniel Hanssens",
+      "character": "Albert",
+      "order": 5
+    },
+    {
+      "name": "Laurence Bibot",
+      "character": "Lisette",
+      "order": 6
+    },
+    {
+      "name": "Julien Rivière",
+      "character": "Jérôme",
+      "order": 7
+    },
+    {
+      "name": "Jean-François Gallotte",
+      "character": "Jeannot",
+      "order": 8
+    },
+    {
+      "name": "Gregory Diallo",
+      "character": "Thom Fabre",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4SwZaSDy1DR80QXKdvp6iSTawK2.jpg",
+  "backdrop_path": "/nfj0CWrBw6lRjPb1yUSqxGjgudt.jpg",
+  "budget": 3200000,
+  "revenue": 7100000,
+  "vote_average": 6.883,
+  "vote_count": 107,
+  "imdb_id": "tt0119590",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

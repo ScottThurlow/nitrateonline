@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "21 Mar 2003",
+  "runtime": "134 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Lawrence Kasdan",
+  "writer": "Stephen King, William Goldman, Lawrence Kasdan",
+  "actors": "Morgan Freeman, Thomas Jane, Jason Lee",
+  "plot": "Four childhood friends, Jonesy, Beaver, Pete and Henry all share a special secret. Each year, they take a trip into Maine woods. This year is different. A blizzard occurs, and they recover a man found wandering around. Unbeknownst to them, this wandering individual isn't the only being to be found. Now they must act fast to stop the outbreak developing and to prevent the world from its doom.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "35",
+  "imdb_rating": "5.5",
+  "imdb_votes": "100,049",
+  "box_office": "$33,715,436",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "27%",
+      "link": "https://www.rottentomatoes.com/search?search=Dreamcatcher"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/Dreamcatcher/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0285531/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0285531/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6171"
+  }
+}

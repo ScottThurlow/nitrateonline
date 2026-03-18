@@ -1,0 +1,174 @@
+{
+  "tmdb_id": 11978,
+  "title": "Men of Honor",
+  "original_title": "Men of Honor",
+  "release_date": "2000-09-13",
+  "runtime": 129,
+  "tagline": "History is made by those who break the rules.",
+  "overview": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Tillman Jr."
+  ],
+  "writers": [
+    {
+      "name": "Scott Marshall Smith",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bill Badalato",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Cosby",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stan Robertson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Teitel",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "character": "Master Chief Leslie W. Sunday ('Billy')",
+      "order": 0
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Senior Chief Carl Brashear",
+      "order": 1
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Gwen Sunday",
+      "order": 2
+    },
+    {
+      "name": "Aunjanue Ellis-Taylor",
+      "character": "Jo",
+      "order": 3
+    },
+    {
+      "name": "Hal Holbrook",
+      "character": "'Mr. Pappy'",
+      "order": 4
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "GM1 Snowhill",
+      "order": 5
+    },
+    {
+      "name": "Powers Boothe",
+      "character": "Captain Pullman",
+      "order": 6
+    },
+    {
+      "name": "David Keith",
+      "character": "Captain Hartigan",
+      "order": 7
+    },
+    {
+      "name": "Dulé Hill",
+      "character": "Red Tail",
+      "order": 8
+    },
+    {
+      "name": "Holt McCallany",
+      "character": "MM1 Dylan Rourke",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wNUAnXV1mzOOfvnVBIYsalkk078.jpg",
+  "backdrop_path": "/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+  "budget": 32000000,
+  "revenue": 82300000,
+  "vote_average": 7.48,
+  "vote_count": 2458,
+  "imdb_id": "tt0203019",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

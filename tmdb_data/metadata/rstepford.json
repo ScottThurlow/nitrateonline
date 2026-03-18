@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 9890,
+  "title": "The Stepford Wives",
+  "original_title": "The Stepford Wives",
+  "release_date": "2004-06-10",
+  "runtime": 93,
+  "tagline": "The wives of Stepford have a secret.",
+  "overview": "What does it take to become a Stepford wife, a woman perfect beyond belief? Ask the Stepford husbands, who've created this high-tech, terrifying little town.",
+  "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    },
+    {
+      "name": "De Line Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Frank Oz"
+  ],
+  "writers": [
+    {
+      "name": "Paul Rudnick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ira Levin",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ron Bozman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Keri Selig",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Edgar J. Scherick",
+      "job": "Producer"
+    },
+    {
+      "name": "Donald De Line",
+      "job": "Producer"
+    },
+    {
+      "name": "Gabriel Grunfeld",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicole Kidman",
+      "character": "Joanna Eberhart",
+      "order": 0
+    },
+    {
+      "name": "Matthew Broderick",
+      "character": "Walter Kresby",
+      "order": 1
+    },
+    {
+      "name": "Bette Midler",
+      "character": "Bobbie Markowitz",
+      "order": 2
+    },
+    {
+      "name": "Glenn Close",
+      "character": "Claire Wellington",
+      "order": 3
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Mike Wellington",
+      "order": 4
+    },
+    {
+      "name": "Roger Bart",
+      "character": "Roger Bannister",
+      "order": 5
+    },
+    {
+      "name": "David Marshall Grant",
+      "character": "Jerry Harmon",
+      "order": 6
+    },
+    {
+      "name": "Jon Lovitz",
+      "character": "Dave Markowitz",
+      "order": 7
+    },
+    {
+      "name": "Dylan Hartigan",
+      "character": "Pete Kresby",
+      "order": 8
+    },
+    {
+      "name": "Fallon Brooking",
+      "character": "Kimberly Kresby",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ygr0Wlmm1KmE16TUefNitIscVBG.jpg",
+  "backdrop_path": "/rjUeBEhX3xZ5gN5RNcCwUDGHCqx.jpg",
+  "budget": 90000000,
+  "revenue": 102000000,
+  "vote_average": 5.681,
+  "vote_count": 1402,
+  "imdb_id": "tt0327162",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12A"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins & 10 nominations",
+  "rated": "R",
+  "released": "20 Oct 2000",
+  "runtime": "135 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Spike Lee",
+  "writer": "Spike Lee",
+  "actors": "Damon Wayans, Savion Glover, Jada Pinkett Smith",
+  "plot": "Dark, biting satire of the television industry, focusing on an Ivy League educated black writer at a major network. Frustrated that his ideas for a \"Cosby Show\"-esque take on the black family have been rejected by network brass, he devises an outlandish scheme: reviving the minstrel show. This is the hook: Instead of white actors in black face, the show stars black actors in even blacker face. The show becomes an instant smash, but with the success also come repercussions for all involved.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.7",
+  "imdb_votes": "12,538",
+  "box_office": "$2,274,979",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=Bamboozled"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Bamboozled/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0215545/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0215545/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24664"
+  }
+}

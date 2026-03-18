@@ -1,0 +1,270 @@
+{
+  "tmdb_id": 824,
+  "title": "Moulin Rouge!",
+  "original_title": "Moulin Rouge!",
+  "release_date": "2001-05-18",
+  "runtime": 128,
+  "tagline": "No laws. No limits. One rule. Never fall in love.",
+  "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Music"
+  ],
+  "spoken_languages": [
+    "French",
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Bazmark",
+      "country": "AU"
+    }
+  ],
+  "director": [
+    "Baz Luhrmann"
+  ],
+  "writers": [
+    {
+      "name": "Baz Luhrmann",
+      "job": "Writer"
+    },
+    {
+      "name": "Craig Pearce",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Baz Luhrmann",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred Baron",
+      "job": "Producer"
+    },
+    {
+      "name": "Martin Brown",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ewan McGregor",
+      "character": "Christian",
+      "order": 0
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Satine",
+      "order": 1
+    },
+    {
+      "name": "John Leguizamo",
+      "character": "Toulouse-Lautrec",
+      "order": 2
+    },
+    {
+      "name": "Jim Broadbent",
+      "character": "Harold Zidler",
+      "order": 3
+    },
+    {
+      "name": "Richard Roxburgh",
+      "character": "The Duke",
+      "order": 4
+    },
+    {
+      "name": "Garry McDonald",
+      "character": "The Doctor",
+      "order": 5
+    },
+    {
+      "name": "Jacek Koman",
+      "character": "The Unconscious Argentinean",
+      "order": 6
+    },
+    {
+      "name": "Matthew Whittet",
+      "character": "Satie",
+      "order": 7
+    },
+    {
+      "name": "Kerry Walker",
+      "character": "Marie",
+      "order": 8
+    },
+    {
+      "name": "Caroline O'Connor",
+      "character": "Nini Legs in the Air",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+  "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+  "budget": 52500000,
+  "revenue": 179213434,
+  "vote_average": 7.534,
+  "vote_count": 4791,
+  "imdb_id": "tt0203009",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "K12"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IL",
+      "rating": "14"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "MY",
+      "rating": "18SX"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    },
+    {
+      "country": "ZA",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

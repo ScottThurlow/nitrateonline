@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 wins & 3 nominations",
+  "rated": "Not Rated",
+  "released": "27 Oct 1999",
+  "runtime": "141 min",
+  "genre": "Drama, Mystery",
+  "director": "Bruno Dumont",
+  "writer": "Bruno Dumont",
+  "actors": "Emmanuel Schotté, Séverine Caneele, Philippe Tullier",
+  "plot": "In a town near Lille, melancholy police superintendent Pharaon De Winter lives with his mother. An 11-year-old girl has been raped and murdered. Over the next week, De Winter investigates and grieves, his face nearly expressionless. He bikes, he gardens. He accompanies his neighbors, Joseph and Domino, to dinner and to the seaside; he even observes them in vigorous if not rough coitus. For Domino, sex seems her way of connecting. Does she fancy Pharaon? A plowed field, the sea, Pharaon's flowers, the pudenda of Domino and of the ravaged girl - this mix of images of beauty, evil, and possibility assaults Pharaon as he tries to do his job and hold on to his humanity.",
+  "language": "French, English",
+  "country": "France",
+  "metascore": "77",
+  "imdb_rating": "6.9",
+  "imdb_votes": "5,171",
+  "box_office": "$113,495",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Humanity"
+    },
+    {
+      "source": "Metacritic",
+      "value": "77/100",
+      "link": "https://www.metacritic.com/search/Humanity/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0197569/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0197569/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/65296"
+  }
+}

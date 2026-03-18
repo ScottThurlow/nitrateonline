@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "11 wins & 4 nominations",
+  "rated": "Not Rated",
+  "released": "13 Sep 2000",
+  "runtime": "80 min",
+  "genre": "Drama, War",
+  "director": "Bahman Ghobadi",
+  "writer": "Bahman Ghobadi",
+  "actors": "Ayoub Ahmadi, Rojin Younessi, Amaneh Ekhtiar-dini",
+  "plot": "After their father dies, a family of five are forced to survive on their own in a Kurdish village on the border of Iran and Iraq. Matters are made worse when 12 year old Ayoub, the new head of the family, is told that his handicapped brother, Madi, needs an immediate operation in order to remain alive. This heartbreaking tale shows the lengths to which a family will go in order to survive in the harshest of conditions, where even the horses are fed liquor in order to work.",
+  "language": "Kurdish, Persian",
+  "country": "Iran, France",
+  "metascore": "78",
+  "imdb_rating": "7.7",
+  "imdb_votes": "9,152",
+  "box_office": "$587,654",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Time+for+Drunken+Horses"
+    },
+    {
+      "source": "Metacritic",
+      "value": "78/100",
+      "link": "https://www.metacritic.com/search/A+Time+for+Drunken+Horses/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0259072/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0259072/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/29270"
+  }
+}

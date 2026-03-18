@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 2 Oscars. 16 wins & 30 nominations total",
+  "rated": "R",
+  "released": "26 Jan 2001",
+  "runtime": "92 min",
+  "genre": "Drama, Horror",
+  "director": "E. Elias Merhige",
+  "writer": "Steven Katz",
+  "actors": "John Malkovich, Willem Dafoe, Udo Kier",
+  "plot": "Shadow of the Vampire is a film about the making of a German all time classic silent horror-movie from 1922 called Nosferatu-Eine Symphonie des Grauens (Nosferatu-a Symphony of Horror). The production of Nosferatu had to deal with a lot of strange things (some crew members disappeared, some died). This movie focuses on the difficult relationship between Murnau, the director, and Schreck, the lead actor.",
+  "language": "English, German, Luxembourgish",
+  "country": "United Kingdom, Luxembourg, Spain, United States",
+  "metascore": "71",
+  "imdb_rating": "6.9",
+  "imdb_votes": "47,183",
+  "box_office": "$8,293,784",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=Shadow+of+the+Vampire"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Shadow+of+the+Vampire/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0189998/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0189998/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10873"
+  }
+}

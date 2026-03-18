@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "05 Feb 1999",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Mark Tarlov",
+  "writer": "Judith Roberts",
+  "actors": "Sarah Michelle Gellar, Sean Patrick Flanery, Patricia Clarkson",
+  "plot": "A department store executive (Flanery) tries to resist falling in love with a young woman (Gellar), who he believes has possessed magical powers after inheriting a restaurant.",
+  "language": "English, French",
+  "country": "Germany, United States",
+  "metascore": "27",
+  "imdb_rating": "5.2",
+  "imdb_votes": "15,404",
+  "box_office": "$4,398,989",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "16%",
+      "link": "https://www.rottentomatoes.com/search?search=Simply+Irresistible"
+    },
+    {
+      "source": "Metacritic",
+      "value": "27/100",
+      "link": "https://www.metacritic.com/search/Simply+Irresistible/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0145893/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0145893/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16172"
+  }
+}

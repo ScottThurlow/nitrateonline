@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 1 Oscar. 3 wins & 10 nominations total",
+  "rated": "R",
+  "released": "23 Mar 2001",
+  "runtime": "122 min",
+  "genre": "Biography, Drama",
+  "director": "Ed Harris",
+  "writer": "Steven Naifeh, Gregory White Smith, Barbara Turner",
+  "actors": "Ed Harris, Marcia Gay Harden, Robert Knott",
+  "plot": "A film about the life and career of the American painter, Jackson Pollock.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "77",
+  "imdb_rating": "7.0",
+  "imdb_votes": "30,008",
+  "box_office": "$8,598,593",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=Pollock"
+    },
+    {
+      "source": "Metacritic",
+      "value": "77/100",
+      "link": "https://www.metacritic.com/search/Pollock/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0183659/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0183659/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12509"
+  }
+}

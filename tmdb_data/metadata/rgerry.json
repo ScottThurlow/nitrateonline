@@ -1,0 +1,88 @@
+{
+  "tmdb_id": 1956,
+  "title": "Gerry",
+  "original_title": "Gerry",
+  "release_date": "2002-09-20",
+  "runtime": 103,
+  "tagline": "The desert can be a silent world.",
+  "overview": "Two friends named Gerry become lost in the desert after taking a wrong turn. Their attempts to find their way home only lead them into further trouble.",
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "My Cactus",
+      "country": "US"
+    },
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    },
+    {
+      "name": "Tango Films",
+      "country": "AR"
+    }
+  ],
+  "director": [
+    "Gus Van Sant"
+  ],
+  "writers": [
+    {
+      "name": "Casey Affleck",
+      "job": "Writer"
+    },
+    {
+      "name": "Matt Damon",
+      "job": "Writer"
+    },
+    {
+      "name": "Gus Van Sant",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dany Wolf",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Casey Affleck",
+      "character": "Gerry",
+      "order": 0
+    },
+    {
+      "name": "Matt Damon",
+      "character": "Gerry",
+      "order": 1
+    }
+  ],
+  "poster_path": "/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg",
+  "backdrop_path": "/zZ6I4kmBSKcA3r4LcvP1ya4Vkmh.jpg",
+  "budget": 3500000,
+  "revenue": 255000,
+  "vote_average": 6.076,
+  "vote_count": 343,
+  "imdb_id": "tt0302674",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

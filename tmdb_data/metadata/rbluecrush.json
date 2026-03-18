@@ -1,0 +1,164 @@
+{
+  "tmdb_id": 9266,
+  "title": "Blue Crush",
+  "original_title": "Blue Crush",
+  "release_date": "2002-08-16",
+  "runtime": 104,
+  "tagline": "If you want to feel the rush, you have to take the risk.",
+  "overview": "Nothing gets between Anne Marie and her board. Living in a beach shack with three roommates, she is up before dawn every morning to conquer the waves and count the days until the Pipe Masters competition. Having transplanted herself to Hawaii with no one's blessing but her own, Anne Marie finds all she needs in the adrenaline-charged surf scene - until pro quarterback Matt Tollman comes along...",
+  "genres": [
+    "Adventure",
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Shutt/Jones Productions",
+      "country": ""
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Mikona Productions",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "John Stockwell"
+  ],
+  "writers": [
+    {
+      "name": "Lizzy Weiss",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Stockwell",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Karen Kehela Sherwood",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Buffy Shutt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Louis G. Friedman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Bosworth",
+      "character": "Anne Marie Chadwick",
+      "order": 0
+    },
+    {
+      "name": "Matthew Davis",
+      "character": "Matt Tollman",
+      "order": 1
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "character": "Eden",
+      "order": 2
+    },
+    {
+      "name": "Sanoe Lake",
+      "character": "Lena",
+      "order": 3
+    },
+    {
+      "name": "Mika Boorem",
+      "character": "Penny Chadwick",
+      "order": 4
+    },
+    {
+      "name": "Chris Taloa",
+      "character": "Drew",
+      "order": 5
+    },
+    {
+      "name": "Kala Alexander",
+      "character": "Kala",
+      "order": 6
+    },
+    {
+      "name": "Ruben Tejada",
+      "character": "JJ",
+      "order": 7
+    },
+    {
+      "name": "Kaupena Miranda",
+      "character": "Kaupena",
+      "order": 8
+    },
+    {
+      "name": "Asa Aquino",
+      "character": "Asa",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iZSw0JVG0cIFuZoTHuQU3nmGT4k.jpg",
+  "backdrop_path": "/xsVMKdSndUKid3Xm3Tudf5bcOlv.jpg",
+  "budget": 25000000,
+  "revenue": 51842679,
+  "vote_average": 6.0,
+  "vote_count": 561,
+  "imdb_id": "tt0300532",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

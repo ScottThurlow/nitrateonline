@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "8 nominations total",
+  "rated": "R",
+  "released": "12 Nov 1999",
+  "runtime": "130 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Kevin Smith",
+  "writer": "Kevin Smith",
+  "actors": "Ben Affleck, Matt Damon, Linda Fiorentino",
+  "plot": "An abortion clinic worker with a special heritage is enlisted to prevent two angels from reentering Heaven and thus undoing the fabric of the universe. Along the way, she is aided by two prophets, Jay and Silent Bob. With the help of Rufus, the 13th Apostle, they must stop those who stand in their way and prevent the angels from entering Heaven.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "7.3",
+  "imdb_votes": "239,103",
+  "box_office": "$32,846,695",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Dogma"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Dogma/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120655/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120655/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1832"
+  }
+}

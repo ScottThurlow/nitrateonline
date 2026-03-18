@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 4107,
+  "title": "Bloody Sunday",
+  "original_title": "Bloody Sunday",
+  "release_date": "2002-01-25",
+  "runtime": 107,
+  "tagline": "",
+  "overview": "The dramatised story of the Irish civil rights protest march on January 30 1972 which ended in a massacre by British troops.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "Irish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Granada Television",
+      "country": "GB"
+    },
+    {
+      "name": "Portman Entertainment Group",
+      "country": ""
+    },
+    {
+      "name": "Fís Éireann/Screen Ireland",
+      "country": "IE"
+    },
+    {
+      "name": "Hell's Kitchen",
+      "country": "IE"
+    }
+  ],
+  "director": [
+    "Paul Greengrass"
+  ],
+  "writers": [
+    {
+      "name": "Paul Greengrass",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Redhead",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Sheridan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Nesbitt",
+      "character": "Ivan Cooper",
+      "order": 0
+    },
+    {
+      "name": "Allan Gildea",
+      "character": "Kevin McCorry",
+      "order": 1
+    },
+    {
+      "name": "Gerard Crossan",
+      "character": "Eamonn McCann",
+      "order": 2
+    },
+    {
+      "name": "Mary Moulds",
+      "character": "Bernadette Devlin",
+      "order": 3
+    },
+    {
+      "name": "Carmel McCallion",
+      "character": "Bridget Bond",
+      "order": 4
+    },
+    {
+      "name": "Tim Pigott-Smith",
+      "character": "Major General Ford",
+      "order": 5
+    },
+    {
+      "name": "Nicholas Farrell",
+      "character": "Brigadier Maclellan",
+      "order": 6
+    },
+    {
+      "name": "Christopher Villiers",
+      "character": "Major Steele",
+      "order": 7
+    },
+    {
+      "name": "James Hewitt",
+      "character": "Colonel Tugwell",
+      "order": 8
+    },
+    {
+      "name": "Declan Duddy",
+      "character": "Gerry Donaghy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oqdQMDJucR7R0ol0LFvzmqcDyEb.jpg",
+  "backdrop_path": "/eMiRBwTf7wWyuGCrDI9yHKOoPH8.jpg",
+  "budget": 0,
+  "revenue": 773228,
+  "vote_average": 7.255,
+  "vote_count": 339,
+  "imdb_id": "tt0280491",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,220 @@
+{
+  "tmdb_id": 1090,
+  "title": "The Thirteenth Floor",
+  "original_title": "The Thirteenth Floor",
+  "release_date": "1999-04-16",
+  "runtime": 100,
+  "tagline": "Question reality.",
+  "overview": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Centropolis Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Josef Rusnak"
+  ],
+  "writers": [
+    {
+      "name": "Daniel F. Galouye",
+      "job": "Novel"
+    },
+    {
+      "name": "Josef Rusnak",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ravel Centeno-Rodriguez",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Helga Ballhaus",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Ballhaus",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roland Emmerich",
+      "job": "Producer"
+    },
+    {
+      "name": "Ute Emmerich",
+      "job": "Producer"
+    },
+    {
+      "name": "Marco Weber",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Craig Bierko",
+      "character": "Douglas Hall",
+      "order": 0
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "character": "Hannon Fuller",
+      "order": 1
+    },
+    {
+      "name": "Gretchen Mol",
+      "character": "Jane Fuller",
+      "order": 2
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "character": "Whitney",
+      "order": 3
+    },
+    {
+      "name": "Dennis Haysbert",
+      "character": "Det. Larry McBain",
+      "order": 4
+    },
+    {
+      "name": "Steven Schub",
+      "character": "Det. Zev Bernstein",
+      "order": 5
+    },
+    {
+      "name": "Jeremy Roberts",
+      "character": "Tom Jones",
+      "order": 6
+    },
+    {
+      "name": "Rif Hutton",
+      "character": "Joe",
+      "order": 7
+    },
+    {
+      "name": "Leon Rippy",
+      "character": "Jane's Lawyer",
+      "order": 8
+    },
+    {
+      "name": "Janet MacLachlan",
+      "character": "Ellen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+  "backdrop_path": "/nJ0jz1J3zNja31UEMeklhgFeMw5.jpg",
+  "budget": 16000000,
+  "revenue": 18564088,
+  "vote_average": 7.047,
+  "vote_count": 1479,
+  "imdb_id": "tt0139809",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "6+"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MY",
+      "rating": "18SG"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "NC16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

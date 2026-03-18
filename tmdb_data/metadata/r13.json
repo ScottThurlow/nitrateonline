@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 10096,
+  "title": "13 Going on 30",
+  "original_title": "13 Going on 30",
+  "release_date": "2004-04-13",
+  "runtime": 98,
+  "tagline": "For some, 13 feels like it was just yesterday. For Jenna, it was.",
+  "overview": "After total humiliation at her thirteenth birthday party, Jenna Rink wants to just hide until she's thirty. Thanks to some magic wishing dust, Jenna's prayer has been answered. With a knockout body, a fabulous wardrobe, an athlete boyfriend, a dream job, and superstar friends, this can't be a better life. But soon Jenna realizes that adult life isn’t as easy as she hoped for.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Roth/Arnold Productions",
+      "country": ""
+    },
+    {
+      "name": "Gina Matthews Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Winick"
+  ],
+  "writers": [
+    {
+      "name": "Josh Goldsmith",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cathy Yuspa",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Donna Roth",
+      "job": "Producer"
+    },
+    {
+      "name": "Gina Matthews",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Kolsrud",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Susan Arnold",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Garner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Garner",
+      "character": "Jenna Rink",
+      "order": 0
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Matt Flamhaff",
+      "order": 1
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Lucy Wyman",
+      "order": 2
+    },
+    {
+      "name": "Andy Serkis",
+      "character": "Richard Kneeland",
+      "order": 3
+    },
+    {
+      "name": "Kathy Baker",
+      "character": "Bev Rink",
+      "order": 4
+    },
+    {
+      "name": "Phil Reeves",
+      "character": "Wayne Rink",
+      "order": 5
+    },
+    {
+      "name": "Sam Ball",
+      "character": "Alex Carlson",
+      "order": 6
+    },
+    {
+      "name": "Marcia DeBonis",
+      "character": "Arlene",
+      "order": 7
+    },
+    {
+      "name": "Christa B. Allen",
+      "character": "Young Jenna",
+      "order": 8
+    },
+    {
+      "name": "Sean Marquette",
+      "character": "Young Matt",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+  "backdrop_path": "/gBwujuep3xyjkPVbcLfhZ9sOHLP.jpg",
+  "budget": 37000000,
+  "revenue": 96458118,
+  "vote_average": 6.767,
+  "vote_count": 5477,
+  "imdb_id": "tt0337563",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

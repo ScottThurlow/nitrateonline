@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 2 Oscars. 10 wins & 31 nominations total",
+  "rated": "R",
+  "released": "20 Mar 1998",
+  "runtime": "143 min",
+  "genre": "Comedy, Drama",
+  "director": "Mike Nichols",
+  "writer": "Joe Klein, Elaine May",
+  "actors": "John Travolta, Emma Thompson, Kathy Bates",
+  "plot": "Jack Stanton is running for president. The election is seen through the eyes of young Henry Burton. Along the way Stanton must deal with a sex scandal.",
+  "language": "English, Hebrew, Spanish",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "metascore": "70",
+  "imdb_rating": "6.7",
+  "imdb_votes": "31,019",
+  "box_office": "$39,001,187",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=Primary+Colors"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Primary+Colors/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119942/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119942/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9440"
+  }
+}

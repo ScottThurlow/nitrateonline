@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 4 nominations total",
+  "rated": "PG-13",
+  "released": "21 Feb 2003",
+  "runtime": "219 min",
+  "genre": "Biography, Drama, History",
+  "director": "Ron Maxwell",
+  "writer": "Jeff Shaara, Ron Maxwell",
+  "actors": "Stephen Lang, Robert Duvall, Jeff Daniels",
+  "plot": "The rise and fall of confederate general Thomas \"Stonewall\" Jackson, as he meets with military success against the Union from 1861 to 1863, when he is accidentally killed by his own soldiers.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "30",
+  "imdb_rating": "6.2",
+  "imdb_votes": "17,679",
+  "box_office": "$12,882,934",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "8%",
+      "link": "https://www.rottentomatoes.com/search?search=Gods+and+Generals"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/Gods+and+Generals/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0279111/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0279111/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16072"
+  }
+}

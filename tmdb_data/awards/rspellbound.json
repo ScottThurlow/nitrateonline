@@ -1,0 +1,40 @@
+{
+  "year": "2024",
+  "awards": "3 nominations total",
+  "rated": "PG",
+  "released": "22 Nov 2024",
+  "runtime": "109 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Vicky Jenson",
+  "writer": "Vicky Jenson, Lauren Hynek, Elizabeth Martin",
+  "actors": "Rachel Zegler, John Lithgow, Jenifer Lewis",
+  "plot": "Ellian is a tenacious princess who must go on a daring quest to save her family and kingdom after a mysterious spell transforms her parents, the King and Queen of Lumbria, into monsters.",
+  "language": "English",
+  "country": "Spain, United States",
+  "metascore": "54",
+  "imdb_rating": "5.5",
+  "imdb_votes": "8,275",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "48%",
+      "link": "https://www.rottentomatoes.com/search?search=Spellbound"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/Spellbound/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt7215232/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt7215232/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/592983"
+  }
+}

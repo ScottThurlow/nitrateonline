@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "04 May 2001",
+  "runtime": "101 min",
+  "genre": "Comedy, Drama, History",
+  "director": "Rob Sitch",
+  "writer": "Santo Cilauro, Tom Gleisner, Jane Kennedy",
+  "actors": "Sam Neill, Billy Mitchell, Roz Hammond",
+  "plot": "In the days before the July 19, 1969 space mission that marked humankind's first steps on the moon, NASA was working with a group of Australian technicians who had agreed to rig up a satellite interface. That the Aussies placed the satellite dish smack dab in the middle of an Australian sheep farm in the boondocks town of Parkes was just one of the reasons that NASA was concerned. Based on a true story, The Dish takes a smart, witty, comical look at the differing cultural attitudes between Australia and the U.S. while revisiting one of the greatest events in history.",
+  "language": "English",
+  "country": "Australia, South Africa",
+  "metascore": "74",
+  "imdb_rating": "7.2",
+  "imdb_votes": "17,341",
+  "box_office": "$2,552,992",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "96%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Dish"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/The+Dish/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0205873/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0205873/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/5257"
+  }
+}

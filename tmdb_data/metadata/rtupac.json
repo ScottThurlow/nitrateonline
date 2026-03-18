@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 21525,
+  "title": "Tupac: Resurrection",
+  "original_title": "Tupac: Resurrection",
+  "release_date": "2003-11-14",
+  "runtime": 112,
+  "tagline": "In his own words",
+  "overview": "Home movies, photographs, and recited poetry illustrate the life of Tupac Shakur, one of the most beloved, revolutionary, and volatile hip-hop MCs of all time.",
+  "genres": [
+    "Music",
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Amaru Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lauren Lazin"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Karolyn Ali",
+      "job": "Producer"
+    },
+    {
+      "name": "David Gale",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tupac Shakur",
+      "character": "Himself (archive footage)",
+      "order": 0
+    },
+    {
+      "name": "Afeni Shakur",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Snoop Dogg",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Dr. Dre",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "50 Cent",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Eminem",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Suge Knight",
+      "character": "Self (archival)",
+      "order": 6
+    },
+    {
+      "name": "Jada Pinkett Smith",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "Ice-T",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Marlon Wayans",
+      "character": "Self (archival)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dGJxjq8npqFZtuAtGsyjntip7uh.jpg",
+  "backdrop_path": "/7J1uNQ2pGvHMzXzD2uePRUBI63m.jpg",
+  "budget": 300000,
+  "revenue": 7808524,
+  "vote_average": 7.9,
+  "vote_count": 168,
+  "imdb_id": "tt0343121",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

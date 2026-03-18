@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 1550,
+  "title": "Pieces of April",
+  "original_title": "Pieces of April",
+  "release_date": "2003-10-17",
+  "runtime": 81,
+  "tagline": "She's the one in every family.",
+  "overview": "Quirky and rebellious April Burns lives with her boyfriend in a low-rent New York City apartment miles away from her emotionally distant family. But when she discovers that her mother has a fatal form of breast cancer, she invites the clan to her place for Thanksgiving. While her father struggles to drive her family into the city, April -- an inexperienced cook -- runs into kitchen trouble and must ask a neighbor for help.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Mandarin",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    },
+    {
+      "name": "InDigEnt",
+      "country": "US"
+    },
+    {
+      "name": "Kalkaska Productions",
+      "country": "US"
+    },
+    {
+      "name": "United Artists",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Hedges"
+  ],
+  "writers": [
+    {
+      "name": "Peter Hedges",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alexis Alexanian",
+      "job": "Producer"
+    },
+    {
+      "name": "John S. Lyons",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Winick",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Sloss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Katie Holmes",
+      "character": "April Burns",
+      "order": 0
+    },
+    {
+      "name": "Derek Luke",
+      "character": "Bobby",
+      "order": 1
+    },
+    {
+      "name": "Patricia Clarkson",
+      "character": "Joy Burns",
+      "order": 2
+    },
+    {
+      "name": "Oliver Platt",
+      "character": "Jim Burns",
+      "order": 3
+    },
+    {
+      "name": "Alison Pill",
+      "character": "Beth Burns",
+      "order": 4
+    },
+    {
+      "name": "John Gallagher Jr.",
+      "character": "Timmy Burns",
+      "order": 5
+    },
+    {
+      "name": "Alice Drummond",
+      "character": "Grandma Dottie",
+      "order": 6
+    },
+    {
+      "name": "Lillias White",
+      "character": "Evette",
+      "order": 7
+    },
+    {
+      "name": "Isiah Whitlock Jr.",
+      "character": "Eugene",
+      "order": 8
+    },
+    {
+      "name": "Vitali Baganov",
+      "character": "Half Asleep Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qm3jGZwz2UkwwEFEFzSot8T0pz1.jpg",
+  "backdrop_path": "/jcue2THX5mjQFV7EXqoQyXyLlbR.jpg",
+  "budget": 300000,
+  "revenue": 0,
+  "vote_average": 6.5,
+  "vote_count": 264,
+  "imdb_id": "tt0311648",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

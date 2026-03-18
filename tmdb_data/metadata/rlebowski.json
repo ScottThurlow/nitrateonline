@@ -1,0 +1,218 @@
+{
+  "tmdb_id": 115,
+  "title": "The Big Lebowski",
+  "original_title": "The Big Lebowski",
+  "release_date": "1998-03-06",
+  "runtime": 117,
+  "tagline": "Times like these call for a Big Lebowski.",
+  "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hebrew",
+    "Spanish",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Joel Coen"
+  ],
+  "writers": [
+    {
+      "name": "Ethan Coen",
+      "job": "Writer"
+    },
+    {
+      "name": "Joel Coen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ethan Coen",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Bevan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeff Bridges",
+      "character": "The Dude",
+      "order": 0
+    },
+    {
+      "name": "John Goodman",
+      "character": "Walter Sobchak",
+      "order": 1
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Maude Lebowski",
+      "order": 2
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Donny",
+      "order": 3
+    },
+    {
+      "name": "David Huddleston",
+      "character": "The Big Lebowski",
+      "order": 4
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Brandt",
+      "order": 5
+    },
+    {
+      "name": "Tara Reid",
+      "character": "Bunny Lebowski",
+      "order": 6
+    },
+    {
+      "name": "Philip Moon",
+      "character": "Treehorn Thug",
+      "order": 7
+    },
+    {
+      "name": "Mark Pellegrino",
+      "character": "Treehorn Thug",
+      "order": 8
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Nihilist",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+  "backdrop_path": "/hXsy4XCCHrUk81XoRhcooyWejao.jpg",
+  "budget": 15000000,
+  "revenue": 47010480,
+  "vote_average": 7.84,
+  "vote_count": 12004,
+  "imdb_id": "tt0118715",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "LT",
+      "rating": "N-18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

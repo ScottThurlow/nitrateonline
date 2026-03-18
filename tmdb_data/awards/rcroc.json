@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination total",
+  "rated": "PG",
+  "released": "12 Jul 2002",
+  "runtime": "90 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "John Stainton",
+  "writer": "John Stainton, Holly Goldberg Sloan",
+  "actors": "Steve Irwin, Terri Irwin, Magda Szubanski",
+  "plot": "Aussie adventurer Steve Irwin aka The Crocodile Hunter has avoided the death-roll and nabbed another feisty croc, hoping to save it from poachers. What Steve doesn't know is that the crocodile has innocently swallowed a top secret US satellite beacon, and the poachers are actually American special agents sent to retrieve it. Crikey! In the Outback and through the bush with his wife Terri's ever-present commentary ringing out over the countryside (\"That was a close one, Steve!\"), the Crocodile Hunter is out to save the gorgeous croc and relocate him. It won't be easy, but if he can handle bird-eating spiders and venomous snakes without getting bitten, gun-wielding agents shouldn't be too much of a problem.",
+  "language": "English",
+  "country": "Australia, United States",
+  "metascore": "50",
+  "imdb_rating": "5.4",
+  "imdb_votes": "8,353",
+  "box_office": "$28,442,574",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Crocodile+Hunter%3A+Collision+Course"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/The+Crocodile+Hunter%3A+Collision+Course/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0305396/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0305396/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17043"
+  }
+}

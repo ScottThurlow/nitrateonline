@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 31932,
+  "title": "City of Ghosts",
+  "original_title": "City of Ghosts",
+  "release_date": "2002-09-10",
+  "runtime": 116,
+  "tagline": "Where you go when you can't turn back.",
+  "overview": "A con man  who is on the run from law enforcement in the U.S. travels to Cambodia to collect his share in an insurance scam but discovers more than he bargained for.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Khmer",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Matt Dillon"
+  ],
+  "writers": [
+    {
+      "name": "Barry Gifford",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Matt Dillon",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Willi Bär",
+      "job": "Producer"
+    },
+    {
+      "name": "Deepak Nayar",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Sferrazza",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Cerenzie",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Dillon",
+      "character": "Jimmy",
+      "order": 0
+    },
+    {
+      "name": "James Caan",
+      "character": "Marvin",
+      "order": 1
+    },
+    {
+      "name": "Natascha McElhone",
+      "character": "Sophie",
+      "order": 2
+    },
+    {
+      "name": "Gérard Depardieu",
+      "character": "Emile",
+      "order": 3
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "Joseph Kaspar",
+      "order": 4
+    },
+    {
+      "name": "Rose Byrne",
+      "character": "Sabrina",
+      "order": 5
+    },
+    {
+      "name": "Shawn Andrews",
+      "character": "Robbie",
+      "order": 6
+    },
+    {
+      "name": "Christopher Curry",
+      "character": "Larry Luckman",
+      "order": 7
+    },
+    {
+      "name": "Pok Panhavicyetr",
+      "character": "Dr Bopha",
+      "order": 8
+    },
+    {
+      "name": "Leo Fitzpatrick",
+      "character": "(Uncredited)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1nZbFdgEjJELfbZeXWLjXx5evHa.jpg",
+  "backdrop_path": "/kS7B1EXg9HT4dzD71MDMfNBhEIH.jpg",
+  "budget": 17500000,
+  "revenue": 1277187,
+  "vote_average": 5.8,
+  "vote_count": 91,
+  "imdb_id": "tt0164003",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

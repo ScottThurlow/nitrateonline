@@ -1,0 +1,221 @@
+{
+  "tmdb_id": 1734,
+  "title": "The Mummy Returns",
+  "original_title": "The Mummy Returns",
+  "release_date": "2001-05-04",
+  "runtime": 130,
+  "tagline": "Adventure is reborn.",
+  "overview": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Arabic"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    },
+    {
+      "name": "Imhotep Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Stephen Sommers"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Sommers",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James Jacks",
+      "job": "Producer"
+    },
+    {
+      "name": "Sean Daniel",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Zepfel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Ducsay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brendan Fraser",
+      "character": "Rick O'Connell",
+      "order": 0
+    },
+    {
+      "name": "Rachel Weisz",
+      "character": "Evelyn O'Connell / Nefertiri",
+      "order": 1
+    },
+    {
+      "name": "John Hannah",
+      "character": "Jonathan Carnahan",
+      "order": 2
+    },
+    {
+      "name": "Oded Fehr",
+      "character": "Ardeth Bay",
+      "order": 3
+    },
+    {
+      "name": "Arnold Vosloo",
+      "character": "Imhotep",
+      "order": 4
+    },
+    {
+      "name": "Patricia Velásquez",
+      "character": "Meela / Anck-Su-Namun",
+      "order": 5
+    },
+    {
+      "name": "Freddie Boath",
+      "character": "Alex O'Connell",
+      "order": 6
+    },
+    {
+      "name": "Dwayne Johnson",
+      "character": "Mathayus / The Scorpion King",
+      "order": 7
+    },
+    {
+      "name": "Alun Armstrong",
+      "character": "Baltus Hafez",
+      "order": 8
+    },
+    {
+      "name": "Adewale Akinnuoye-Agbaje",
+      "character": "Lock-Nah",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+  "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+  "budget": 98000000,
+  "revenue": 443280904,
+  "vote_average": 6.4,
+  "vote_count": 7544,
+  "imdb_id": "tt0209163",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-11"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

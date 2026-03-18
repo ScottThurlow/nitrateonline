@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "1 win",
+  "rated": "Not Rated",
+  "released": "25 Apr 1999",
+  "runtime": "82 min",
+  "genre": "Documentary",
+  "director": "Timothy B. Johnson",
+  "writer": "N/A",
+  "actors": "Rich Kronfeld, Dennis Balthaser, Bob Barnes",
+  "plot": "Rich Kronfeld travels to Roswell, New Mexico for the 50th anniversary festival of the alleged alien spaceship crash. Rich's goal in attending the festival is to be abducted by aliens, or at least get some information on how to go about doing it. While he doesn't get abducted in the course of this documentary, he does get a good look at the pop-culture phenomenon that Roswell has become, along with all the ways people have found to make a buck off the whole thing.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.2",
+  "imdb_votes": "157",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=Six+Days+in+Roswell"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0177227/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0177227/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/245260"
+  }
+}

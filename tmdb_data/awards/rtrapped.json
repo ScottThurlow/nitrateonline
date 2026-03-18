@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "20 Sep 2002",
+  "runtime": "106 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Luis Mandoki",
+  "writer": "Greg Iles",
+  "actors": "Kevin Bacon, Charlize Theron, Courtney Love",
+  "plot": "When their daughter is abducted and taken for ransom by a gang of serial kidnappers, a young doctor and his wife find themselves held hostage while a 24-hour plan to extort their money is set into motion. Now, with time running out and the health of their asthmatic daughter at serious risk, they find themselves in a life-and-death race against the clock as the \"perfect crime\" begins spiraling towards an unthinkable, terrifying and deadly conclusion.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "42",
+  "imdb_rating": "6.1",
+  "imdb_votes": "26,706",
+  "box_office": "$7,073,251",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "17%",
+      "link": "https://www.rottentomatoes.com/search?search=Trapped"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Trapped/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0280380/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0280380/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9039"
+  }
+}

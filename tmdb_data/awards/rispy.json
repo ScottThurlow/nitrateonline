@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 6 nominations total",
+  "rated": "PG-13",
+  "released": "01 Nov 2002",
+  "runtime": "97 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Betty Thomas",
+  "writer": "Morton S. Fine, David Friedkin, Marianne Wibberley",
+  "actors": "Eddie Murphy, Owen Wilson, Famke Janssen",
+  "plot": "When the Switchblade, the most sophisticated prototype stealth fighter created yet, is stolen from the U.S. government, one of the United States' top spies, Alex Scott, is called to action. What he doesn't expect is to get teamed up with a cocky civilian, World Class Boxing Champion Kelly Robinson, on a dangerous top secret espionage mission. Their assignment: using equal parts skill and humor, catch Arnold Gundars, one of the world's most successful illegal arms dealers, and foil his treacherous plans for the plane.",
+  "language": "English, Hungarian, Russian",
+  "country": "United States",
+  "metascore": "35",
+  "imdb_rating": "5.4",
+  "imdb_votes": "54,769",
+  "box_office": "$33,561,137",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=I+Spy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/I+Spy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0297181/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0297181/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8427"
+  }
+}

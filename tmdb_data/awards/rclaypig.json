@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "25 Sep 1998",
+  "runtime": "104 min",
+  "genre": "Comedy, Crime",
+  "director": "David Dobkin",
+  "writer": "Matthew L. Healy",
+  "actors": "Joaquin Phoenix, Vince Vaughn, Janeane Garofalo",
+  "plot": "Clay is a young man in a small town who witnesses his friend kill himself because of the on-going affair that Clay was having with the man's wife. Feeling guilty, Clay now resists the widow when she presses him to continue with their sexual affairs. Clay befriends a troubling serial killer.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "46",
+  "imdb_rating": "6.6",
+  "imdb_votes": "12,538",
+  "box_office": "$1,794,086",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=Clay+Pigeons"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/Clay+Pigeons/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118863/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118863/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/26618"
+  }
+}

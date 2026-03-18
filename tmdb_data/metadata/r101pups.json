@@ -1,0 +1,207 @@
+{
+  "tmdb_id": 11674,
+  "title": "101 Dalmatians",
+  "original_title": "101 Dalmatians",
+  "release_date": "1996-11-27",
+  "runtime": 103,
+  "tagline": "So many dogs. So little time.",
+  "overview": "An evil, high-fashion designer plots to steal Dalmatian puppies in order to make an extravagant fur coat, but instead creates an extravagant mess.",
+  "genres": [
+    "Family",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Great Oaks Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Wizzer Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Stephen Herek"
+  ],
+  "writers": [
+    {
+      "name": "John Hughes",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Molina",
+      "job": "Creative Producer"
+    },
+    {
+      "name": "Dodie Smith",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Edward S. Feldman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Hughes",
+      "job": "Producer"
+    },
+    {
+      "name": "Ricardo Mestres",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Glenn Close",
+      "character": "Cruella de Vil",
+      "order": 0
+    },
+    {
+      "name": "Jeff Daniels",
+      "character": "Roger",
+      "order": 1
+    },
+    {
+      "name": "Joely Richardson",
+      "character": "Anita",
+      "order": 2
+    },
+    {
+      "name": "Joan Plowright",
+      "character": "Nanny",
+      "order": 3
+    },
+    {
+      "name": "Hugh Laurie",
+      "character": "Jasper",
+      "order": 4
+    },
+    {
+      "name": "Mark Williams",
+      "character": "Horace",
+      "order": 5
+    },
+    {
+      "name": "John Shrapnel",
+      "character": "Skinner",
+      "order": 6
+    },
+    {
+      "name": "Tim McInnerny",
+      "character": "Alonzo",
+      "order": 7
+    },
+    {
+      "name": "Hugh Fraser",
+      "character": "Frederick",
+      "order": 8
+    },
+    {
+      "name": "Zohren Weiss",
+      "character": "Herbert",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+  "backdrop_path": "/yqh3mb9jd3GTTs09ZlnW4mxS95z.jpg",
+  "budget": 54000000,
+  "revenue": 320689294,
+  "vote_average": 5.94,
+  "vote_count": 3591,
+  "imdb_id": "tt0115433",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "G"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

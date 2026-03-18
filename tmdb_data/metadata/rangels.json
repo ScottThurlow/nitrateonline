@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 444459,
+  "title": "National Theatre Live: Angels In America — Part One: Millennium Approaches",
+  "original_title": "National Theatre Live: Angels In America — Part One: Millennium Approaches",
+  "release_date": "2017-07-20",
+  "runtime": 185,
+  "tagline": "A Gay Fantasia On National Themes",
+  "overview": "The National Theatre's live theatrical production of Tony Kushner's two-part play 'Angels In America' about New Yorkers grappling with the AIDS crisis during the mid-1980s.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "National Theatre",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Marianne Elliott"
+  ],
+  "writers": [
+    {
+      "name": "Tony Kushner",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Flo Buckeridge",
+      "job": "Producer"
+    },
+    {
+      "name": "Kate Moore",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Andrew Garfield",
+      "character": "Prior Walter/The Man In The Park",
+      "order": 0
+    },
+    {
+      "name": "Nathan Lane",
+      "character": "Roy M. Cohn/Prior 2",
+      "order": 1
+    },
+    {
+      "name": "Susan Brown",
+      "character": "Hannah Pitt/Rabbi Chemelwitz/Roy's Doctor/Ethel Rosenberg",
+      "order": 2
+    },
+    {
+      "name": "Denise Gough",
+      "character": "Harper Pitt/Martin Heller",
+      "order": 3
+    },
+    {
+      "name": "Amanda Lawrence",
+      "character": "The Angel/The Voice/Nurse Emily/Sister Chapter/Homeless Woman",
+      "order": 4
+    },
+    {
+      "name": "James McArdle",
+      "character": "Louis Ironson",
+      "order": 5
+    },
+    {
+      "name": "Nathan Stewart-Jarrett",
+      "character": "Belize/Mr. Lies",
+      "order": 6
+    },
+    {
+      "name": "Russell Tovey",
+      "character": "Joseph Pitt/Prior 1/The Eskimo",
+      "order": 7
+    },
+    {
+      "name": "Stuart Angell",
+      "character": "Angel Shadow",
+      "order": 8
+    },
+    {
+      "name": "Laura Caldow",
+      "character": "Angel Shadow",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pNfcp8uewaExjhVxRE37YCVYteV.jpg",
+  "backdrop_path": "/y0U6G434XjrDA9XIUZp0B78tRJR.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 8.1,
+  "vote_count": 16,
+  "imdb_id": "tt6846664",
+  "certifications": [],
+  "status": "Released"
+}

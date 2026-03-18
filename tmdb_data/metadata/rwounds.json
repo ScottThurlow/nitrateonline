@@ -1,0 +1,180 @@
+{
+  "tmdb_id": 10877,
+  "title": "Exit Wounds",
+  "original_title": "Exit Wounds",
+  "release_date": "2001-03-16",
+  "runtime": 101,
+  "tagline": "This is gonna hurt",
+  "overview": "Maverick cop Orin Boyd always brings down the domestic terrorists he tracks, but he ruffles feathers with his unorthodox techniques -- and soon finds himself reassigned to the toughest district in Detroit. When he discovers a group of detectives secretly operating a drug ring, Boyd joins forces with an unlikely ally -- gangster Latrell Walker -- to bring down the rotten cops.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Silver Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrzej Bartkowiak"
+  ],
+  "writers": [
+    {
+      "name": "Richard D'Ovidio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ed Horowitz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Westermann",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Cracchiolo",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steven Seagal",
+      "character": "Orin Boyd",
+      "order": 0
+    },
+    {
+      "name": "DMX",
+      "character": "Latrell Walker",
+      "order": 1
+    },
+    {
+      "name": "Isaiah Washington",
+      "character": "George Clark",
+      "order": 2
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "T.K. Johnson",
+      "order": 3
+    },
+    {
+      "name": "Bill Duke",
+      "character": "Chief Hinges",
+      "order": 4
+    },
+    {
+      "name": "Michael Jai White",
+      "character": "Lewis Strutt",
+      "order": 5
+    },
+    {
+      "name": "Jill Hennessy",
+      "character": "Annette Mulcahy",
+      "order": 6
+    },
+    {
+      "name": "Tom Arnold",
+      "character": "Henry Wayne",
+      "order": 7
+    },
+    {
+      "name": "Bruce McGill",
+      "character": "Frank Daniels",
+      "order": 8
+    },
+    {
+      "name": "David Vadim",
+      "character": "Matt Montini",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tGIJhBejmredgUZRNdteZyiahag.jpg",
+  "backdrop_path": "/4oYN6hr7AjMhmgaZ0tWjVOkfX75.jpg",
+  "budget": 33000000,
+  "revenue": 79958599,
+  "vote_average": 5.805,
+  "vote_count": 547,
+  "imdb_id": "tt0242445",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

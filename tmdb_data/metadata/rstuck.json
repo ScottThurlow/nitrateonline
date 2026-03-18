@@ -1,0 +1,191 @@
+{
+  "tmdb_id": 1792,
+  "title": "Stuck on You",
+  "original_title": "Stuck on You",
+  "release_date": "2003-12-10",
+  "runtime": 119,
+  "tagline": "Brothers that are stuck together...stick together.",
+  "overview": "In Martha's Vineyard, Mass., conjoined twins Walt and Bob Tenor make the best of their handicap by being the fastest grill cooks in town. While outgoing Walt hopes to one day become a famous actor, shy Bob prefers to stay out of the spotlight. When a fading Hollywood actress, Cher, decides to get her show \"Honey and the Beaze\" cancelled, she hires Walt -- and his brotherly appendage -- as her costars. But their addition surprisingly achieves the opposite.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Conundrum Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bobby Farrelly",
+    "Peter Farrelly"
+  ],
+  "writers": [
+    {
+      "name": "Peter Farrelly",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bobby Farrelly",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Charles B. Wessler",
+      "job": "Story"
+    },
+    {
+      "name": "Bennett Yellin",
+      "job": "Story"
+    },
+    {
+      "name": "Bobby Farrelly",
+      "job": "Story"
+    },
+    {
+      "name": "Peter Farrelly",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Farrelly",
+      "job": "Producer"
+    },
+    {
+      "name": "Bradley Thomas",
+      "job": "Producer"
+    },
+    {
+      "name": "Bobby Farrelly",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles B. Wessler",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc S. Fischer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Bob",
+      "order": 0
+    },
+    {
+      "name": "Greg Kinnear",
+      "character": "Walt",
+      "order": 1
+    },
+    {
+      "name": "Eva Mendes",
+      "character": "April",
+      "order": 2
+    },
+    {
+      "name": "Wen Yann Shih",
+      "character": "May",
+      "order": 3
+    },
+    {
+      "name": "Pat Crawford Brown",
+      "character": "Mimmy",
+      "order": 4
+    },
+    {
+      "name": "Ray 'Rocket' Valliere",
+      "character": "Rocket",
+      "order": 5
+    },
+    {
+      "name": "Tommy Songin",
+      "character": "Tommy",
+      "order": 6
+    },
+    {
+      "name": "Terence Bernie Hines",
+      "character": "Moe",
+      "order": 7
+    },
+    {
+      "name": "Cher",
+      "character": "Cher",
+      "order": 8
+    },
+    {
+      "name": "Jackie Flynn",
+      "character": "Howard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/g0juCGmr9LVKOSSJiv8o5O8yL8b.jpg",
+  "backdrop_path": "/bj4VHJFQOWXKgnvFrlHoBeOLU3M.jpg",
+  "budget": 55000000,
+  "revenue": 65784503,
+  "vote_average": 5.348,
+  "vote_count": 705,
+  "imdb_id": "tt0338466",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

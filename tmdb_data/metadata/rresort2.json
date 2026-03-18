@@ -1,0 +1,91 @@
+{
+  "tmdb_id": 222761,
+  "title": "Tropic of Desire",
+  "original_title": "Tropic of Desire",
+  "release_date": "1979-06-15",
+  "runtime": 87,
+  "tagline": "Every man has a price and his is paid by the hour.",
+  "overview": "A male hustler drifts into Key West, where he becomes involved in a series of steamy interludes with disreputable locals intertwined in various political intrigues.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Butterflies Ltd. Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Cash Baxter"
+  ],
+  "writers": [
+    {
+      "name": "Tony Crechelas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "George Edwards",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry B. Wheeler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Collins",
+      "character": "Numie Chase",
+      "order": 0
+    },
+    {
+      "name": "Roxanne Gregory",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Barbara Baxley",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Eartha Kitt",
+      "character": "Lola",
+      "order": 3
+    },
+    {
+      "name": "Pat Carroll",
+      "character": "Tangerine",
+      "order": 4
+    },
+    {
+      "name": "Tom Ewell",
+      "character": "Hadley Crabtree",
+      "order": 5
+    },
+    {
+      "name": "Don Porter",
+      "character": "Commodore Phillips",
+      "order": 6
+    },
+    {
+      "name": "Ted Richert",
+      "character": "Ralph",
+      "order": 7
+    }
+  ],
+  "poster_path": "/d6lmgCZJdvZEduAlLba33TZAJRT.jpg",
+  "backdrop_path": "/4DPMKNKY0gI0ZKnBgTcwI1S0hu4.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.4,
+  "vote_count": 4,
+  "imdb_id": "tt1824929",
+  "certifications": [],
+  "status": "Released"
+}

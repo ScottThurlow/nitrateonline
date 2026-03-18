@@ -1,0 +1,52 @@
+{
+  "tmdb_id": 20303,
+  "title": "Life and Debt",
+  "original_title": "Life and Debt",
+  "release_date": "2001-04-22",
+  "runtime": 86,
+  "tagline": "",
+  "overview": "Life and Debt is a 2001 American documentary film that examines the economic and social situation in Jamaica, and specifically how the International Monetary Fund and the World Bank's structural adjustment policies have impacted the island.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tuff Gong Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stephanie Black"
+  ],
+  "writers": [
+    {
+      "name": "Jamaica Kincaid",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stephanie Black",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Belinda Becker",
+      "character": "Narrator (voice)",
+      "order": 0
+    }
+  ],
+  "poster_path": "/5IYvqrrDRtEUiGS8M6w1GxGDdrM.jpg",
+  "backdrop_path": "/vQLoppJjj8embOsZXUviFzb0RCc.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.2,
+  "vote_count": 14,
+  "imdb_id": "tt0284262",
+  "certifications": [],
+  "status": "Released"
+}

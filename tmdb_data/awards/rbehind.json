@@ -1,0 +1,40 @@
+{
+  "year": "2014",
+  "awards": "5 nominations total",
+  "rated": "PG-13",
+  "released": "03 Oct 2014",
+  "runtime": "110 min",
+  "genre": "Action, Fantasy, Sci-Fi",
+  "director": "Vic Armstrong",
+  "writer": "Paul Lalonde, John Patus, Tim LaHaye",
+  "actors": "Nicolas Cage, Lea Thompson, Cassi Thomson",
+  "plot": "Left Behind finds commercial airline pilot Ray Steele (Nicholas Cage) struggling to keep his passengers calm and his plane afloat after the Biblical Rapture strikes mid-flight. Meanwhile, GWN reporter Cameron \"Buck\" Williams (Chad Michael Murray) becomes Ray's reluctant co-pilot, and Ray's terrified daughter Chloe (Cassi Thompson) braves the chaos of the city streets in search of her brother and mother..",
+  "language": "English",
+  "country": "United States, Canada, Japan, United Kingdom",
+  "metascore": "12",
+  "imdb_rating": "3.1",
+  "imdb_votes": "43,657",
+  "box_office": "$14,019,924",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "0%",
+      "link": "https://www.rottentomatoes.com/search?search=Left+Behind"
+    },
+    {
+      "source": "Metacritic",
+      "value": "12/100",
+      "link": "https://www.metacritic.com/search/Left+Behind/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt2467046/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt2467046/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/218043"
+  }
+}

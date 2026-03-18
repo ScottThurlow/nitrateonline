@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "23 May 1997",
+  "runtime": "100 min",
+  "genre": "Comedy, Romance",
+  "director": "Griffin Dunne",
+  "writer": "Robert Gordon",
+  "actors": "Meg Ryan, Matthew Broderick, Kelly Preston",
+  "plot": "Good-natured astronomer Sam is devastated when the love of his life, Linda, leaves him for a suave Frenchman named Anton. He therefore does what every other normal dumpee would do; go to New York and set up home in the abandoned building opposite his ex-girlfriend's apartment, intent on winning her back and waiting until she decides to leave her current lover. What Sam does not count on is being joined several weeks later by ultra hip tomboy Maggie, a photographer and motor-cyclist who is determined to get revenge on Anton, her ex-fiance. Hostile at first, the two of them eventually join forces in an attempt to separate the couple, and ruin Anton's life. However, complications ensue when Sam and Maggie start falling for each other.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "6.1",
+  "imdb_votes": "26,026",
+  "box_office": "$34,673,095",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=Addicted+to+Love"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Addicted+to+Love/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118556/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118556/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2058"
+  }
+}

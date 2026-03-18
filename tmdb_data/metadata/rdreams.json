@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 12159,
+  "title": "What Dreams May Come",
+  "original_title": "What Dreams May Come",
+  "release_date": "1998-10-02",
+  "runtime": 113,
+  "tagline": "After life there is more. The end is just the beginning.",
+  "overview": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he dies, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Interscope Communications",
+      "country": "US"
+    },
+    {
+      "name": "Metafilmics",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Vincent Ward"
+  ],
+  "writers": [
+    {
+      "name": "Richard Matheson",
+      "job": "Novel"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ronald Bass",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stephen Deutsch",
+      "job": "Producer"
+    },
+    {
+      "name": "Barnet Bain",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Kroopf",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Erica Huggins",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "character": "Chris Nielsen",
+      "order": 0
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Albert Lewis",
+      "order": 1
+    },
+    {
+      "name": "Annabella Sciorra",
+      "character": "Annie Collins-Nielsen",
+      "order": 2
+    },
+    {
+      "name": "Josh Paddock",
+      "character": "Ian Nielsen",
+      "order": 3
+    },
+    {
+      "name": "Jessica Brooks Grant",
+      "character": "Marie Nielsen",
+      "order": 4
+    },
+    {
+      "name": "Max von Sydow",
+      "character": "The Tracker",
+      "order": 5
+    },
+    {
+      "name": "Wilma Bonet",
+      "character": "Angie",
+      "order": 6
+    },
+    {
+      "name": "Lucinda Jenney",
+      "character": "Mrs. Jacobs",
+      "order": 7
+    },
+    {
+      "name": "Rosalind Chao",
+      "character": "Leona",
+      "order": 8
+    },
+    {
+      "name": "Matt Salinger",
+      "character": "Reverend Hanley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
+  "backdrop_path": "/586n41CjDveXtwmQgP41YtyHKUV.jpg",
+  "budget": 85000000,
+  "revenue": 71485043,
+  "vote_average": 7.197,
+  "vote_count": 2449,
+  "imdb_id": "tt0120889",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "od 12 lat"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

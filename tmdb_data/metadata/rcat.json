@@ -1,0 +1,233 @@
+{
+  "tmdb_id": 10588,
+  "title": "The Cat in the Hat",
+  "original_title": "The Cat in the Hat",
+  "release_date": "2003-11-21",
+  "runtime": 82,
+  "tagline": "Don't mess with the hat.",
+  "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Brian Grazer Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bo Welch"
+  ],
+  "writers": [
+    {
+      "name": "Dr. Seuss",
+      "job": "Book"
+    },
+    {
+      "name": "Alec Berg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Mandel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeff Schaffer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Karen Kehela Sherwood",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eric McLeod",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Maureen Peyrot",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gregg Taylor",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Myers",
+      "character": "The Cat",
+      "order": 0
+    },
+    {
+      "name": "Dakota Fanning",
+      "character": "Sally Walden",
+      "order": 1
+    },
+    {
+      "name": "Spencer Breslin",
+      "character": "Conrad Walden",
+      "order": 2
+    },
+    {
+      "name": "Kelly Preston",
+      "character": "Joan Walden",
+      "order": 3
+    },
+    {
+      "name": "Alec Baldwin",
+      "character": "Larry Quinn",
+      "order": 4
+    },
+    {
+      "name": "Amy Hill",
+      "character": "Mrs. Kwan",
+      "order": 5
+    },
+    {
+      "name": "Sean Hayes",
+      "character": "Mr. Humberfloob / Fish (voice)",
+      "order": 6
+    },
+    {
+      "name": "Danielle Chuchran",
+      "character": "Thing One",
+      "order": 7
+    },
+    {
+      "name": "Taylor Rice",
+      "character": "Thing One",
+      "order": 8
+    },
+    {
+      "name": "Brittany Oaks",
+      "character": "Thing Two",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+  "backdrop_path": "/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
+  "budget": 109000000,
+  "revenue": 133800000,
+  "vote_average": 5.291,
+  "vote_count": 1764,
+  "imdb_id": "tt0312528",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "ATP"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

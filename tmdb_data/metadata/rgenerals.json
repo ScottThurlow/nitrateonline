@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 16072,
+  "title": "Gods and Generals",
+  "original_title": "Gods and Generals",
+  "release_date": "2003-02-21",
+  "runtime": 219,
+  "tagline": "The nation's heart was touched by...",
+  "overview": "The film centers mostly around the personal and professional life of Thomas \"Stonewall\" Jackson, a brilliant if eccentric Confederate general, from the outbreak of the American Civil War until its halfway point.",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Turner Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Antietam Filmworks",
+      "country": ""
+    },
+    {
+      "name": "Esparza / Katz Productions",
+      "country": "US"
+    },
+    {
+      "name": "Neufeld/Rehme Productions",
+      "country": "US"
+    },
+    {
+      "name": "Mace Neufeld Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ronald F. Maxwell"
+  ],
+  "writers": [
+    {
+      "name": "Ronald F. Maxwell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeff Shaara",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ronald F. Maxwell",
+      "job": "Producer"
+    },
+    {
+      "name": "Moctesuma Esparza",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Katz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mace Neufeld",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Rehme",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Turner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Stephen Lang",
+      "character": "Lt. Gen. Thomas Stonewall Jackson",
+      "order": 0
+    },
+    {
+      "name": "Jeff Daniels",
+      "character": "Lt. Col. Joshua Lawrence Chamberlain",
+      "order": 1
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Gen. Robert E. Lee",
+      "order": 2
+    },
+    {
+      "name": "Kevin Conway",
+      "character": "Sgt. Buster Kilrain",
+      "order": 3
+    },
+    {
+      "name": "C. Thomas Howell",
+      "character": "Sgt. Thomas Chamberlain",
+      "order": 4
+    },
+    {
+      "name": "Jeremy London",
+      "character": "Capt. Alexander 'Sandie' Pendleton",
+      "order": 5
+    },
+    {
+      "name": "Matt Letscher",
+      "character": "Col. Adelbert Ames",
+      "order": 6
+    },
+    {
+      "name": "Brian Mallon",
+      "character": "Maj. Gen. Winfield Scott Hancock",
+      "order": 7
+    },
+    {
+      "name": "Bo Brinkman",
+      "character": "Maj. Walter Taylor",
+      "order": 8
+    },
+    {
+      "name": "Bruce Boxleitner",
+      "character": "Lt. Gen. James Longstreet",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tvRgz24ZuekCjeOROuN9MgVZLa5.jpg",
+  "backdrop_path": "/zIvABsW1PhqLfbMGRuPqd6th8Dx.jpg",
+  "budget": 56000000,
+  "revenue": 12900000,
+  "vote_average": 6.309,
+  "vote_count": 191,
+  "imdb_id": "tt0279111",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

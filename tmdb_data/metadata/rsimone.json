@@ -1,0 +1,153 @@
+{
+  "tmdb_id": 9296,
+  "title": "S1m0ne",
+  "original_title": "S1m0ne",
+  "release_date": "2002-08-23",
+  "runtime": 117,
+  "tagline": "A star is... created.",
+  "overview": "The career of a disillusioned producer, who is desperate for a hit, is endangered when his star walks off the film set. Forced to think fast, the producer decides to digitally create an actress \"Simone\" to sub for the star — the first totally believable synthetic actress.",
+  "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Niccol Films",
+      "country": ""
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Niccol"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Niccol",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynn Harris",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bradley Cramp",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Niccol",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Al Pacino",
+      "character": "Viktor Taransky",
+      "order": 0
+    },
+    {
+      "name": "Rachel Roberts",
+      "character": "S1m0ne",
+      "order": 1
+    },
+    {
+      "name": "Catherine Keener",
+      "character": "Elaine Christian",
+      "order": 2
+    },
+    {
+      "name": "Evan Rachel Wood",
+      "character": "Lainey Christian Taransky",
+      "order": 3
+    },
+    {
+      "name": "Jay Mohr",
+      "character": "Hal Sinclair",
+      "order": 4
+    },
+    {
+      "name": "Winona Ryder",
+      "character": "Nicola Anders",
+      "order": 5
+    },
+    {
+      "name": "Jason Schwartzman",
+      "character": "Milton",
+      "order": 6
+    },
+    {
+      "name": "Elias Koteas",
+      "character": "Hank Alano",
+      "order": 7
+    },
+    {
+      "name": "Rebecca Romijn",
+      "character": "Faith",
+      "order": 8
+    },
+    {
+      "name": "James Gleason",
+      "character": "Reporter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mdHEOCSGPvwa9pYiV1ZDZ1ihj42.jpg",
+  "backdrop_path": "/pc3GErXMuP9Uol3pPc6Tk5TwWwP.jpg",
+  "budget": 10000000,
+  "revenue": 19576023,
+  "vote_average": 5.97,
+  "vote_count": 971,
+  "imdb_id": "tt0258153",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

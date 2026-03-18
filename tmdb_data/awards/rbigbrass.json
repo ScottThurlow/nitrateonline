@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "1 win & 3 nominations",
+  "rated": "R",
+  "released": "23 Jun 2000",
+  "runtime": "104 min",
+  "genre": "Drama",
+  "director": "George Hickenlooper",
+  "writer": "Orson Welles, Oja Kodar, F.X. Feeney",
+  "actors": "William Hurt, Nigel Hawthorne, Miranda Richardson",
+  "plot": "Blake Pellarin is on the campaign trail to become Governor of the state of Missouri. While making a stop in St. Louis, a chance encounter brings his past back to haunt him. Will the truth ruin his chances for office or will he land the \"Big Brass Ring\"?",
+  "language": "English, French, Latin",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.3",
+  "imdb_votes": "844",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Big+Brass+Ring"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0115675/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0115675/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/63108"
+  }
+}

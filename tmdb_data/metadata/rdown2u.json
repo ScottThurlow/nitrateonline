@@ -1,0 +1,141 @@
+{
+  "tmdb_id": 10472,
+  "title": "Down to You",
+  "original_title": "Down to You",
+  "release_date": "2000-01-21",
+  "runtime": 91,
+  "tagline": "A new comedy about giving first love a second chance.",
+  "overview": "College coeds in New York City, Al, the son of a celebrity chef, and Imogen, a talented artist, become smitten the second they lay eyes on one another at a bar. However, the road to happiness is not a smooth one. Outside forces, including a predatory porn star who wants to lure Al into her bed, threaten to pull apart the young lovers before their romance has a chance to really flourish.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kris Isacsson"
+  ],
+  "writers": [
+    {
+      "name": "Kris Isacsson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kris Isacsson",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jason Kliot",
+      "job": "Producer"
+    },
+    {
+      "name": "Joana Vicente",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bobby Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeremy Kramer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "character": "Alfred 'Al' Connelly",
+      "order": 0
+    },
+    {
+      "name": "Julia Stiles",
+      "character": "Imogen",
+      "order": 1
+    },
+    {
+      "name": "Selma Blair",
+      "character": "Cyrus",
+      "order": 2
+    },
+    {
+      "name": "Shawn Hatosy",
+      "character": "Eddie Hicks",
+      "order": 3
+    },
+    {
+      "name": "Zak Orth",
+      "character": "Monk Jablonski",
+      "order": 4
+    },
+    {
+      "name": "Ashton Kutcher",
+      "character": "Jim Morrison",
+      "order": 5
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Lana",
+      "order": 6
+    },
+    {
+      "name": "Henry Winkler",
+      "character": "Chef Ray",
+      "order": 7
+    },
+    {
+      "name": "Lucie Arnaz",
+      "character": "Judy Connelly",
+      "order": 8
+    },
+    {
+      "name": "Lauren German",
+      "character": "Lovestruck Woman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pqEEtX4S8j2XqZ9JAD97fz2DPkV.jpg",
+  "backdrop_path": "/mtyKhSQ6UrUGVlZxx4lCgXqpim5.jpg",
+  "budget": 9000000,
+  "revenue": 0,
+  "vote_average": 5.2,
+  "vote_count": 260,
+  "imdb_id": "tt0186975",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

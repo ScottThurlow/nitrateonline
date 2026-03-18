@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 Oscar. 13 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "20 Feb 1998",
+  "runtime": "134 min",
+  "genre": "Drama",
+  "director": "Robert Duvall",
+  "writer": "Robert Duvall",
+  "actors": "Robert Duvall, Todd Allen, Paul Bagget",
+  "plot": "Eulis 'Sonny' Dewey is a preacher from Texas living a happy life with his beautiful wife Jessie. Suddenly his stable world crumbles: Jessie is having an affair with young minister Horace. Sonny gets enraged and hits Horace with a softball bat, putting him into a coma. After that he leaves town, takes a new name, 'Apostle E.F.' and goes to Louisiana. There he starts to work as a mechanic for local radio station owner Elmo, and Elmo lets him preach on the radio. E.F. starts to preach everywhere: on the radio, on the streets, and with his new friend, Reverend Blackwell he starts a campaign to renovate an old church.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "83",
+  "imdb_rating": "7.2",
+  "imdb_votes": "15,127",
+  "box_office": "$19,868,354",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Apostle"
+    },
+    {
+      "source": "Metacritic",
+      "value": "83/100",
+      "link": "https://www.metacritic.com/search/The+Apostle/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118632/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118632/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2895"
+  }
+}

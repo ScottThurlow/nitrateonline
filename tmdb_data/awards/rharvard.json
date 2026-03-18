@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination total",
+  "rated": "PG-13",
+  "released": "13 Sep 2002",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime",
+  "director": "Bruce McCulloch",
+  "writer": "Martin Hynes, Peter Tolan",
+  "actors": "Jason Lee, Tom Green, Leslie Mann",
+  "plot": "A man turns to a life of crime to pay for his niece's tuition for her first year at a prestigious university. His girlfriend also wants him to pay $30,000 for the down payment on a house; and his buddy is a bad influence on him.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "25",
+  "imdb_rating": "5.1",
+  "imdb_votes": "14,134",
+  "box_office": "$14,036,406",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "9%",
+      "link": "https://www.rottentomatoes.com/search?search=Stealing+Harvard"
+    },
+    {
+      "source": "Metacritic",
+      "value": "25/100",
+      "link": "https://www.metacritic.com/search/Stealing+Harvard/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0265808/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0265808/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12770"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "tmdb_id": 1933,
+  "title": "The Others",
+  "original_title": "The Others",
+  "release_date": "2001-08-02",
+  "runtime": 101,
+  "tagline": "Sooner or later they’ll find you.",
+  "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cruise/Wagner Productions",
+      "country": "US"
+    },
+    {
+      "name": "Sogecine",
+      "country": "ES"
+    },
+    {
+      "name": "Las Producciones del Escorpión",
+      "country": "ES"
+    }
+  ],
+  "director": [
+    "Alejandro Amenábar"
+  ],
+  "writers": [
+    {
+      "name": "Alejandro Amenábar",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Fernando Bovaira",
+      "job": "Producer"
+    },
+    {
+      "name": "José Luis Cuerda",
+      "job": "Producer"
+    },
+    {
+      "name": "Sunmin Park",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Cruise",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rick Schwartz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paula Wagner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicole Kidman",
+      "character": "Grace Stewart",
+      "order": 0
+    },
+    {
+      "name": "Alakina Mann",
+      "character": "Anne Stewart",
+      "order": 1
+    },
+    {
+      "name": "James Bentley",
+      "character": "Nicholas Stewart",
+      "order": 2
+    },
+    {
+      "name": "Fionnula Flanagan",
+      "character": "Mrs. Bertha Mills",
+      "order": 3
+    },
+    {
+      "name": "Eric Sykes",
+      "character": "Mr. Edmund Tuttle",
+      "order": 4
+    },
+    {
+      "name": "Christopher Eccleston",
+      "character": "Charles Stewart",
+      "order": 5
+    },
+    {
+      "name": "Elaine Cassidy",
+      "character": "Lydia",
+      "order": 6
+    },
+    {
+      "name": "Renée Asherson",
+      "character": "Old Lady",
+      "order": 7
+    },
+    {
+      "name": "Gordon Reid",
+      "character": "Assistant",
+      "order": 8
+    },
+    {
+      "name": "Keith Allen",
+      "character": "Mr. Marlish",
+      "order": 9
+    }
+  ],
+  "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+  "backdrop_path": "/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
+  "budget": 17000000,
+  "revenue": 210002906,
+  "vote_average": 7.6,
+  "vote_count": 7043,
+  "imdb_id": "tt0230600",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IS",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "LT",
+      "rating": "N-16"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "MY",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PE",
+      "rating": "14"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

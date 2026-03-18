@@ -1,0 +1,125 @@
+{
+  "tmdb_id": 13369,
+  "title": "Empire",
+  "original_title": "Empire",
+  "release_date": "2002-12-06",
+  "runtime": 99,
+  "tagline": "Two worlds collide.",
+  "overview": "Big time drug dealer Victor Rosa is looking to get out of the game and sees his chance with a big deal with a new friend who happens to be a Wall St. stockbroker. Thinking this will be his chance to go out on top, Victor soon finds out that he's been double crossed and his last option is to get revenge.",
+  "genres": [
+    "Crime",
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Bigel / Mailer Films",
+      "country": "US"
+    },
+    {
+      "name": "Arenas",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Franc. Reyes"
+  ],
+  "writers": [
+    {
+      "name": "Franc. Reyes",
+      "job": "Writer"
+    },
+    {
+      "name": "Craig Garcia",
+      "job": "Script Consultant"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Daniel Bigel",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Mailer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Leguizamo",
+      "character": "Victor Rosa",
+      "order": 0
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "character": "Jack",
+      "order": 1
+    },
+    {
+      "name": "Denise Richards",
+      "character": "Trish",
+      "order": 2
+    },
+    {
+      "name": "Vincent Laresca",
+      "character": "Jimmy",
+      "order": 3
+    },
+    {
+      "name": "Isabella Rossellini",
+      "character": "La Colombiana",
+      "order": 4
+    },
+    {
+      "name": "Delilah Cotto",
+      "character": "Carmen",
+      "order": 5
+    },
+    {
+      "name": "Nestor Serrano",
+      "character": "Rafael Menendez",
+      "order": 6
+    },
+    {
+      "name": "Treach",
+      "character": "Chedda",
+      "order": 7
+    },
+    {
+      "name": "Rafael Báez",
+      "character": "Jay",
+      "order": 8
+    },
+    {
+      "name": "Fat Joe",
+      "character": "Tito Severe",
+      "order": 9
+    }
+  ],
+  "poster_path": "/m6XxaRLltWox4C9pykjUILrlGp9.jpg",
+  "backdrop_path": "/jGheQEEJKXbHYP6XoxgHEi88vLS.jpg",
+  "budget": 4000000,
+  "revenue": 18591272,
+  "vote_average": 6.091,
+  "vote_count": 110,
+  "imdb_id": "tt0262396",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

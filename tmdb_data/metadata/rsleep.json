@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 125093,
+  "title": "Too Much Sleep",
+  "original_title": "Too Much Sleep",
+  "release_date": "1997-03-07",
+  "runtime": 88,
+  "tagline": "",
+  "overview": "While riding the bus one day, night watchman Jack Crawford gets distracted by a beautiful girl and has his gun stolen. To get it back, he enlists the help of local wise guy, Eddie, and their search reveals the bizarre characters lurking in the strange underworld of a sleepy New Jersey suburb.",
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Arrowhead Productions",
+      "country": ""
+    },
+    {
+      "name": "Open City Films",
+      "country": "US"
+    },
+    {
+      "name": "Angelika Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "David Maquiling"
+  ],
+  "writers": [
+    {
+      "name": "David Maquiling",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barney Oldfield",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jason Kliot",
+      "job": "Producer"
+    },
+    {
+      "name": "Angelika Sale",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joana Vicente",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marc Palmieri",
+      "character": "Jack Crawford",
+      "order": 0
+    },
+    {
+      "name": "Pasquale Gaeta",
+      "character": "Eddie DeLuca",
+      "order": 1
+    },
+    {
+      "name": "Nicol Zanzarella",
+      "character": "Kate",
+      "order": 2
+    },
+    {
+      "name": "Philip Galinsky",
+      "character": "Andrew",
+      "order": 3
+    },
+    {
+      "name": "Judy Sabo Podinker",
+      "character": "Judy",
+      "order": 4
+    },
+    {
+      "name": "Mary Ann Riel",
+      "character": "Sandy",
+      "order": 5
+    },
+    {
+      "name": "Jon Steinberg",
+      "character": "Frankie",
+      "order": 6
+    },
+    {
+      "name": "R.G. Rader",
+      "character": "Jonathan",
+      "order": 7
+    },
+    {
+      "name": "Ruth Kaye",
+      "character": "Gert",
+      "order": 8
+    },
+    {
+      "name": "Jon Langione",
+      "character": "Tom Coffee",
+      "order": 9
+    }
+  ],
+  "poster_path": "/365O8F3lr39Pw6FSWl2LmKiL9Ex.jpg",
+  "backdrop_path": "/oJ58Id8umlulx9e74YNizYwrM4t.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "imdb_id": "tt0120352",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

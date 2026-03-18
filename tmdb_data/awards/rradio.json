@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 5 nominations total",
+  "rated": "PG",
+  "released": "24 Oct 2003",
+  "runtime": "109 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Michael Tollin",
+  "writer": "Mike Rich, Gary Smith",
+  "actors": "Cuba Gooding Jr., Ed Harris, Debra Winger",
+  "plot": "Set in 1976, real life Coach Jones befriends mentally disabled black student, Radio. They then form a friendship and bond over the football season. Though things take a turn for the worst when certain fans and parents feel that Radio is a distraction, and is getting in the way of the team succeeding.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "6.9",
+  "imdb_votes": "46,347",
+  "box_office": "$52,333,738",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "34%",
+      "link": "https://www.rottentomatoes.com/search?search=Radio"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Radio/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0316465/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0316465/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13920"
+  }
+}

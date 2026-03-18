@@ -1,0 +1,75 @@
+{
+  "tmdb_id": 53198,
+  "title": "My Voyage to Italy",
+  "original_title": "Il mio viaggio in Italia",
+  "release_date": "1999-09-11",
+  "runtime": 246,
+  "tagline": "",
+  "overview": "World-renowned director Martin Scorsese narrates this journey through his favorites in Italian cinema.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "German",
+    "French",
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "MediaTrade",
+      "country": "IT"
+    },
+    {
+      "name": "Cappa Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Martin Scorsese"
+  ],
+  "writers": [
+    {
+      "name": "Kent Jones",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Raffaele Donato",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Martin Scorsese",
+      "job": "Writer"
+    },
+    {
+      "name": "Suso Cecchi d'Amico",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barbara De Fina",
+      "job": "Producer"
+    },
+    {
+      "name": "Giorgio Armani",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Martin Scorsese",
+      "character": "Self - Host",
+      "order": 0
+    }
+  ],
+  "poster_path": "/xnnhwq6VYN0D96n5zMUa0XmOiLu.jpg",
+  "backdrop_path": "/aOEsoi4PLECCsoNH0XQajlwupf6.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.58,
+  "vote_count": 69,
+  "imdb_id": "tt0173772",
+  "certifications": [],
+  "status": "Released"
+}

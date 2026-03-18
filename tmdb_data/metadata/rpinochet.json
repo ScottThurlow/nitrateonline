@@ -1,0 +1,48 @@
+{
+  "tmdb_id": 113369,
+  "title": "The Pinochet Case",
+  "original_title": "Le cas Pinochet",
+  "release_date": "2001-10-10",
+  "runtime": 110,
+  "tagline": "",
+  "overview": "True story of the saga that was hoped to be the long-awaited justice brought to bear upon Augosto Pinochet, Chilean dictator from 1973 to 1990. In September 1998, Pinochet flew to London on a pleasure trip but experienced back pain and underwent an operation in the London Clinic. Upon waking, he was arrested by Scotland Yard. Could it be that this was to become the first Latin American dictator to answer for crimes while serving as Head of State? After 500 days of house arrest, he nevertheless eventually returned unscathed to Chile, despite the compelling case built against him before &amp; during this period by a young Spanish prosecutor, Carlos Castresana.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Patricio Guzmán"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Yves Jeanneau",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Augusto Pinochet",
+      "character": "Self (archive footage)",
+      "order": 0
+    },
+    {
+      "name": "Margaret Thatcher",
+      "character": "Self (archive footage)",
+      "order": 1
+    }
+  ],
+  "poster_path": "/pXVhGP3vUJpGswnzo0Jc69ckfB8.jpg",
+  "backdrop_path": "/z9AprLN6tUxtG2atflAsprcAo1S.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.8,
+  "vote_count": 9,
+  "imdb_id": "tt0294431",
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,134 @@
+{
+  "tmdb_id": 13982,
+  "title": "8 Heads in a Duffel Bag",
+  "original_title": "8 Heads in a Duffel Bag",
+  "release_date": "1997-04-18",
+  "runtime": 95,
+  "tagline": "A mindless comedy.",
+  "overview": "Mafia hitman Tommy Spinelli is flying to San Diego with a bag that holds eight severed heads, which he's bringing to his superiors to prove that some troublesome rival mobsters are permanently out of the picture. When his bag gets accidentally switched at the airport, Tommy must track down his duffel bag and the 8 heads it contains.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Adventure",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Steve Stabler Productions",
+      "country": "US"
+    },
+    {
+      "name": "Orion Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Brad Krevoy Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tom Schulman"
+  ],
+  "writers": [
+    {
+      "name": "Tom Schulman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeff Ivers",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Bertolli",
+      "job": "Producer"
+    },
+    {
+      "name": "Brad Krevoy",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Stabler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joe Pesci",
+      "character": "Tommy",
+      "order": 0
+    },
+    {
+      "name": "Andy Comeau",
+      "character": "Charlie",
+      "order": 1
+    },
+    {
+      "name": "Kristy Swanson",
+      "character": "Laurie",
+      "order": 2
+    },
+    {
+      "name": "George Hamilton",
+      "character": "Dick",
+      "order": 3
+    },
+    {
+      "name": "Dyan Cannon",
+      "character": "Annette",
+      "order": 4
+    },
+    {
+      "name": "David Spade",
+      "character": "Ernie",
+      "order": 5
+    },
+    {
+      "name": "Todd Louiso",
+      "character": "Steve",
+      "order": 6
+    },
+    {
+      "name": "Anthony Mangano",
+      "character": "Rico",
+      "order": 7
+    },
+    {
+      "name": "Joe Basile",
+      "character": "Benny",
+      "order": 8
+    },
+    {
+      "name": "Ernestine Mercer",
+      "character": "Fern",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dbjS5UH7JvsQwSLMYMY5GQOSwv1.jpg",
+  "backdrop_path": "/vPIrxnLMIpSQBPN0g0hWBUsxWyL.jpg",
+  "budget": 3000000,
+  "revenue": 3602884,
+  "vote_average": 5.0,
+  "vote_count": 175,
+  "imdb_id": "tt0118541",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

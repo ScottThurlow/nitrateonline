@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 586,
+  "title": "Wag the Dog",
+  "original_title": "Wag the Dog",
+  "release_date": "1997-12-25",
+  "runtime": 97,
+  "tagline": "A comedy about truth, justice and other special effects.",
+  "overview": "During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Albanian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    },
+    {
+      "name": "Baltimore Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Punch Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Barry Levinson"
+  ],
+  "writers": [
+    {
+      "name": "Hilary Henkin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Mamet",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Larry Beinhart",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert De Niro",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Levinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jane Rosenthal",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ezra Swerdlow",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dustin Hoffman",
+      "character": "Stanley Motss",
+      "order": 0
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Conrad Brean",
+      "order": 1
+    },
+    {
+      "name": "Anne Heche",
+      "character": "Winifred Ames",
+      "order": 2
+    },
+    {
+      "name": "Woody Harrelson",
+      "character": "Sergeant William Schumann",
+      "order": 3
+    },
+    {
+      "name": "Denis Leary",
+      "character": "Fad King",
+      "order": 4
+    },
+    {
+      "name": "Willie Nelson",
+      "character": "Johnny Dean",
+      "order": 5
+    },
+    {
+      "name": "Andrea Martin",
+      "character": "Liz Butsky",
+      "order": 6
+    },
+    {
+      "name": "Kirsten Dunst",
+      "character": "Tracy Lime",
+      "order": 7
+    },
+    {
+      "name": "William H. Macy",
+      "character": "CIA Agent Charles Young",
+      "order": 8
+    },
+    {
+      "name": "David Koechner",
+      "character": "Director",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jC6cxfuhCFRHqOE7qCT6w6x31n4.jpg",
+  "backdrop_path": "/17XYjWuk0chzJe3obHdGAjt3MK3.jpg",
+  "budget": 15000000,
+  "revenue": 64256513,
+  "vote_average": 6.9,
+  "vote_count": 1038,
+  "imdb_id": "tt0120885",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

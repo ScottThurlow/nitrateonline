@@ -1,0 +1,146 @@
+{
+  "tmdb_id": 9452,
+  "title": "Bulworth",
+  "original_title": "Bulworth",
+  "release_date": "1998-05-15",
+  "runtime": 108,
+  "tagline": "Brace yourself. This politician is about to tell the truth!",
+  "overview": "A suicidally disillusioned liberal politician puts a contract out on himself and takes the opportunity to be bluntly honest with his voters by affecting the rhythms and speech of hip-hop music and culture.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Crime",
+    "Thriller",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Mulholland Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Warren Beatty"
+  ],
+  "writers": [
+    {
+      "name": "Warren Beatty",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeremy Pikser",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Warren Beatty",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Pieter Jan Brugge",
+      "job": "Producer"
+    },
+    {
+      "name": "Warren Beatty",
+      "job": "Producer"
+    },
+    {
+      "name": "Lauren Shuler Donner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Warren Beatty",
+      "character": "Jay Bulworth",
+      "order": 0
+    },
+    {
+      "name": "Halle Berry",
+      "character": "Nina",
+      "order": 1
+    },
+    {
+      "name": "Kimberly Deauna Adams",
+      "character": "Denisha",
+      "order": 2
+    },
+    {
+      "name": "Vinny Argiro",
+      "character": "Debate Director",
+      "order": 3
+    },
+    {
+      "name": "Sean Astin",
+      "character": "Gary",
+      "order": 4
+    },
+    {
+      "name": "Kirk Baltz",
+      "character": "Debate Producer",
+      "order": 5
+    },
+    {
+      "name": "Ernie Lee Banks",
+      "character": "Leroy",
+      "order": 6
+    },
+    {
+      "name": "Amiri Baraka",
+      "character": "Rastaman",
+      "order": 7
+    },
+    {
+      "name": "Christine Baranski",
+      "character": "Constance Bulworth",
+      "order": 8
+    },
+    {
+      "name": "Adilah Barnes",
+      "character": "Mrs. Brown",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gR9jZ7W2d28aSa2Yimz797VNXRh.jpg",
+  "backdrop_path": "/zoflkUluMA01vxvifWqhmr4sA2q.jpg",
+  "budget": 30000000,
+  "revenue": 29202884,
+  "vote_average": 6.3,
+  "vote_count": 262,
+  "imdb_id": "tt0118798",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

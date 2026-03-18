@@ -1,0 +1,108 @@
+{
+  "tmdb_id": 125325,
+  "title": "You Laugh",
+  "original_title": "Tu ridi",
+  "release_date": "1998-09-06",
+  "runtime": 99,
+  "tagline": "",
+  "overview": "Two segments: In the first one Felice, a baritone who has had to give up his career because of a heart condition and now works as an accountant at the Opera, inexplicably spends his nights laughing in his sleep. When his best friend, a cripple, takes his life and his wife abandons him Felice decides to die himself. In the second segment two kidnappings in Sicily, the second of which took place a century before the present one, are compared.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Dania Film",
+      "country": "IT"
+    },
+    {
+      "name": "Filmtre",
+      "country": "IT"
+    },
+    {
+      "name": "RAI",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Paolo Taviani",
+    "Vittorio Taviani"
+  ],
+  "writers": [
+    {
+      "name": "Paolo Taviani",
+      "job": "Writer"
+    },
+    {
+      "name": "Vittorio Taviani",
+      "job": "Writer"
+    },
+    {
+      "name": "Luigi Pirandello",
+      "job": "Story"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Antonio Albanese",
+      "character": "Felice Tespini",
+      "order": 0
+    },
+    {
+      "name": "Giuseppe Cederna",
+      "character": "Tobia Rambaldi",
+      "order": 1
+    },
+    {
+      "name": "Luca Zingaretti",
+      "character": "Gino Migliori",
+      "order": 2
+    },
+    {
+      "name": "Dario Cantarelli",
+      "character": "Dottore",
+      "order": 3
+    },
+    {
+      "name": "Elena Ghiaurov",
+      "character": "Marika",
+      "order": 4
+    },
+    {
+      "name": "Sabrina Ferilli",
+      "character": "Nora",
+      "order": 5
+    },
+    {
+      "name": "Turi Ferro",
+      "character": "Il Dottor Ballarò",
+      "order": 6
+    },
+    {
+      "name": "Lello Arena",
+      "character": "Rocco",
+      "order": 7
+    },
+    {
+      "name": "Steve Spedicato",
+      "character": "Vincenzo Gangemi",
+      "order": 8
+    },
+    {
+      "name": "Ludovico Caldarera",
+      "character": "Chiche",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jrUgTfCuN4SBCSVE8KJTdwEp8oN.jpg",
+  "backdrop_path": "/8QWbZIEPBPMuigshSFL29J77YJy.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.2,
+  "vote_count": 9,
+  "imdb_id": "tt0140638",
+  "status": "Released"
+}

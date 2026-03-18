@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "30 Jan 1998",
+  "runtime": "116 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Jake Kasdan",
+  "writer": "Jake Kasdan",
+  "actors": "Bill Pullman, Ben Stiller, Ryan O'Neal",
+  "plot": "Daryl Zero is a private investigator. Along with his assistant, Steve Arlo he solves impossible crimes and puzzles. Though a master investigator, when he is not working, Zero doesn't know what to do with himself. He has no social skills, writes bad music, and drives Arlo crazy. In his latest case, Zero must find out who is blackmailing a rich executive, and when his client won't tell him, why. The only problem with this case is Zero has done something he's never done before: got emotionally involved.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.9",
+  "imdb_votes": "15,527",
+  "box_office": "$2,087,471",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=Zero+Effect"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120906/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120906/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16148"
+  }
+}

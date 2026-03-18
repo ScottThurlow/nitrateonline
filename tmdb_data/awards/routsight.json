@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 2 Oscars. 13 wins & 15 nominations total",
+  "rated": "R",
+  "released": "26 Jun 1998",
+  "runtime": "123 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Steven Soderbergh",
+  "writer": "Elmore Leonard, Scott Frank",
+  "actors": "George Clooney, Jennifer Lopez, Ving Rhames",
+  "plot": "A career bank robber busts out of jail (Clooney) with the help of his buddy (Rhames) and kidnaps a US Marshal (Lopez) in the process. When the two cons head for Detroit to pull off their final big scam, the Marshal is put on their case but she finds she is attracted to one of them and has second thoughts about bringing them in.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "84",
+  "imdb_rating": "7.0",
+  "imdb_votes": "103,728",
+  "box_office": "$37,562,568",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=Out+of+Sight"
+    },
+    {
+      "source": "Metacritic",
+      "value": "84/100",
+      "link": "https://www.metacritic.com/search/Out+of+Sight/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120780/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120780/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1389"
+  }
+}

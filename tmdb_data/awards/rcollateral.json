@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "08 Feb 2002",
+  "runtime": "108 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Andrew Davis",
+  "writer": "Ronald Roose, David Griffiths, Peter Griffiths",
+  "actors": "Arnold Schwarzenegger, John Leguizamo, Francesca Neri",
+  "plot": "Firefighter Gordon Brewer is plunged into the complex and dangerous world of international terrorism after he loses his wife and child in a bombing credited to Claudio \"The Wolf\" Perrini. Frustrated with the official investigation and haunted by the thought that the man responsible for murdering his family might never be brought to justice, Brewer takes matters into his own hands and tracks his quarry ultimately to Colombia.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "metascore": "33",
+  "imdb_rating": "5.5",
+  "imdb_votes": "80,474",
+  "box_office": "$40,077,257",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=Collateral+Damage"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/Collateral+Damage/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0233469/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0233469/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9884"
+  }
+}

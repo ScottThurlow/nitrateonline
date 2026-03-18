@@ -1,0 +1,192 @@
+{
+  "tmdb_id": 1389,
+  "title": "Out of Sight",
+  "original_title": "Out of Sight",
+  "release_date": "1998-06-26",
+  "runtime": 123,
+  "tagline": "Opposites attract.",
+  "overview": "Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves … and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Soderbergh"
+  ],
+  "writers": [
+    {
+      "name": "Elmore Leonard",
+      "job": "Novel"
+    },
+    {
+      "name": "Scott Frank",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    },
+    {
+      "name": "John Hardy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Sonnenfeld",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "George Clooney",
+      "character": "Jack Foley",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Lopez",
+      "character": "Karen Sisco",
+      "order": 1
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Buddy Bragg",
+      "order": 2
+    },
+    {
+      "name": "Don Cheadle",
+      "character": "Maurice 'Snoopy' Miller",
+      "order": 3
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Glenn Michaels",
+      "order": 4
+    },
+    {
+      "name": "Dennis Farina",
+      "character": "Marshall Sisco",
+      "order": 5
+    },
+    {
+      "name": "Catherine Keener",
+      "character": "Adele Delisi",
+      "order": 6
+    },
+    {
+      "name": "Isaiah Washington",
+      "character": "Kenneth",
+      "order": 7
+    },
+    {
+      "name": "Albert Brooks",
+      "character": "Richard Ripley",
+      "order": 8
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "José 'Chino' Chirino",
+      "order": 9
+    }
+  ],
+  "poster_path": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+  "backdrop_path": "/fsUaDSKP9Vl1tewpUUnKsBOiOfR.jpg",
+  "budget": 48000000,
+  "revenue": 77745966,
+  "vote_average": 6.674,
+  "vote_count": 1372,
+  "imdb_id": "tt0120780",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

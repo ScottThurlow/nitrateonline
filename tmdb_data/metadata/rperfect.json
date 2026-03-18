@@ -1,0 +1,191 @@
+{
+  "tmdb_id": 13505,
+  "title": "The Perfect Score",
+  "original_title": "The Perfect Score",
+  "release_date": "2004-01-30",
+  "runtime": 93,
+  "tagline": "The S.A.T is hard to take. It's even harder to steal.",
+  "overview": "Six high school seniors decide to break into the Princeton Testing Center so they can steal the answers to their upcoming SAT tests and all get perfect scores.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Tollin/Robbins Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brian Robbins"
+  ],
+  "writers": [
+    {
+      "name": "Marc Hyman",
+      "job": "Writer"
+    },
+    {
+      "name": "Jon Zack",
+      "job": "Writer"
+    },
+    {
+      "name": "Mark Schwahn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Marc Hyman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jon Zack",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Producer"
+    },
+    {
+      "name": "Donald J. Lee Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Robbins",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Tollin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chris Evans",
+      "character": "Kyle",
+      "order": 0
+    },
+    {
+      "name": "Bryan Greenberg",
+      "character": "Matty Matthews",
+      "order": 1
+    },
+    {
+      "name": "Scarlett Johansson",
+      "character": "Francesca Curtis",
+      "order": 2
+    },
+    {
+      "name": "Erika Christensen",
+      "character": "Anna Ross",
+      "order": 3
+    },
+    {
+      "name": "Darius Miles",
+      "character": "Desmond",
+      "order": 4
+    },
+    {
+      "name": "Leonardo Nam",
+      "character": "Roy",
+      "order": 5
+    },
+    {
+      "name": "Matthew Lillard",
+      "character": "Larry",
+      "order": 6
+    },
+    {
+      "name": "Tyra Ferrell",
+      "character": "Desmond's Mother",
+      "order": 7
+    },
+    {
+      "name": "Vanessa Angel",
+      "character": "Anita Donlee",
+      "order": 8
+    },
+    {
+      "name": "Bill Mackenzie",
+      "character": "Lobby Guard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xflTliVBvCztaLzTJx9luHnSqwD.jpg",
+  "backdrop_path": "/6I9r2ZTp2ZtNjD4hYD62UHF0fDn.jpg",
+  "budget": 0,
+  "revenue": 10900000,
+  "vote_average": 5.823,
+  "vote_count": 504,
+  "imdb_id": "tt0314498",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

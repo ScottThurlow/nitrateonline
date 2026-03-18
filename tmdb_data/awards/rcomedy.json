@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 nominations",
+  "rated": "R",
+  "released": "18 Aug 2000",
+  "runtime": "115 min",
+  "genre": "Comedy, Documentary",
+  "director": "Spike Lee",
+  "writer": "Cedric The Entertainer, Steve Harvey, D.L. Hughley",
+  "actors": "Steve Harvey, D.L. Hughley, Cedric The Entertainer",
+  "plot": "February 26 and 27, 2000, the Original Kings of Comedy play Charlotte, NC. The themes are Blacks and Whites, men and women, old-school and hip-hop. Steve Harvey emcees, celebrates '70s music and lyrics of love, and pokes at folks in the front row. D.L. Hughley mines racial differences and talks about his marriage. Cedric the Entertainer riffs on a Black president and on being grown up. Bernie Mac, who says he expresses what's in the back of our minds, closes with reflections on being 42 (new aspects to his sex life and his attitude toward children). Spike Lee's camera takes us backstage and off-stage with the Kings and into the crowd where everyone's laughing.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "6.8",
+  "imdb_votes": "6,140",
+  "box_office": "$38,182,790",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Original+Kings+of+Comedy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/The+Original+Kings+of+Comedy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0236388/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0236388/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/23618"
+  }
+}

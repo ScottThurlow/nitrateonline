@@ -1,0 +1,260 @@
+{
+  "tmdb_id": 598,
+  "title": "City of God",
+  "original_title": "Cidade de Deus",
+  "release_date": "2002-08-30",
+  "runtime": 129,
+  "tagline": "If you run, the beast catches you; if you stay, the beast eats you.",
+  "overview": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_companies": [
+    {
+      "name": "O2 Filmes",
+      "country": "BR"
+    },
+    {
+      "name": "VideoFilmes",
+      "country": "BR"
+    },
+    {
+      "name": "Wild Bunch",
+      "country": "FR"
+    },
+    {
+      "name": "Hank Levine Film & Music",
+      "country": "DE"
+    },
+    {
+      "name": "Globo Filmes",
+      "country": "BR"
+    },
+    {
+      "name": "Lumière",
+      "country": "BR"
+    }
+  ],
+  "director": [
+    "Fernando Meirelles",
+    "Kátia Lund"
+  ],
+  "writers": [
+    {
+      "name": "Bráulio Mantovani",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paulo Lins",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrea Barata Ribeiro",
+      "job": "Producer"
+    },
+    {
+      "name": "Mauricio Andrade Ramos",
+      "job": "Producer"
+    },
+    {
+      "name": "Elisa Tolomelli",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bel Berlinck",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Beauchamps",
+      "job": "Producer"
+    },
+    {
+      "name": "Daniel Filho",
+      "job": "Producer"
+    },
+    {
+      "name": "Hank Levine",
+      "job": "Producer"
+    },
+    {
+      "name": "Vincent Maraval",
+      "job": "Producer"
+    },
+    {
+      "name": "Donald Ranvaud",
+      "job": "Producer"
+    },
+    {
+      "name": "Juliette Renaud",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter Salles",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alexandre Rodrigues",
+      "character": "Buscapé - Rocket",
+      "order": 0
+    },
+    {
+      "name": "Leandro Firmino",
+      "character": "Zé Pequeno - Li'l Zé",
+      "order": 1
+    },
+    {
+      "name": "Phellipe Haagensen",
+      "character": "Bené - Benny",
+      "order": 2
+    },
+    {
+      "name": "Douglas Silva",
+      "character": "Dadinho - Li'l Dice",
+      "order": 3
+    },
+    {
+      "name": "Jonathan Haagensen",
+      "character": "Cabeleira - Shaggy",
+      "order": 4
+    },
+    {
+      "name": "Matheus Nachtergaele",
+      "character": "Sandro Cenoura - Carrot",
+      "order": 5
+    },
+    {
+      "name": "Seu Jorge",
+      "character": "Mané Galinha - Knockout Ned",
+      "order": 6
+    },
+    {
+      "name": "Jefechander Suplino",
+      "character": "Alicate - Clipper",
+      "order": 7
+    },
+    {
+      "name": "Alice Braga",
+      "character": "Angélica",
+      "order": 8
+    },
+    {
+      "name": "Emerson Gomes",
+      "character": "Barbantinho - Stringy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+  "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+  "budget": 3300000,
+  "revenue": 30641770,
+  "vote_average": 8.427,
+  "vote_count": 8059,
+  "imdb_id": "tt0317248",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "K18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IT",
+      "rating": "18+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

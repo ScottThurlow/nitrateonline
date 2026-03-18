@@ -1,0 +1,177 @@
+{
+  "tmdb_id": 12660,
+  "title": "Charlotte Gray",
+  "original_title": "Charlotte Gray",
+  "release_date": "2001-12-28",
+  "runtime": 121,
+  "tagline": "The story of an ordinary woman in an extraordinary time.",
+  "overview": "This is a drama set in Nazi-occupied France at the height of World War II. Charlotte Gray tells the compelling story of a young Scottish woman working with the French Resistance in the hope of rescuing her lover, a missing RAF pilot. Based on the best-selling novel by Sebastian Faulks.",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance",
+    "War"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ecosse Films",
+      "country": "GB"
+    },
+    {
+      "name": "Pod Films",
+      "country": ""
+    },
+    {
+      "name": "Senator Film",
+      "country": "DE"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Charlotte Gray Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gillian Armstrong"
+  ],
+  "writers": [
+    {
+      "name": "Sebastian Faulks",
+      "job": "Novel"
+    },
+    {
+      "name": "Jeremy Brock",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Bernstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sarah Curtis",
+      "job": "Producer"
+    },
+    {
+      "name": "Douglas Rae",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Webster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hanno Huth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elinor Day",
+      "job": "Producer"
+    },
+    {
+      "name": "Catherine Kerr",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cate Blanchett",
+      "character": "Charlotte Gray",
+      "order": 0
+    },
+    {
+      "name": "Billy Crudup",
+      "character": "Julien Levade",
+      "order": 1
+    },
+    {
+      "name": "Michael Gambon",
+      "character": "Levade",
+      "order": 2
+    },
+    {
+      "name": "Rupert Penry-Jones",
+      "character": "Peter Gregory",
+      "order": 3
+    },
+    {
+      "name": "Anton Lesser",
+      "character": "Renech",
+      "order": 4
+    },
+    {
+      "name": "James Fleet",
+      "character": "Richard Cannerly",
+      "order": 5
+    },
+    {
+      "name": "Abigail Cruttenden",
+      "character": "Daisy",
+      "order": 6
+    },
+    {
+      "name": "Charlotte McDougall",
+      "character": "Sally",
+      "order": 7
+    },
+    {
+      "name": "Robert Hands",
+      "character": "Borowski",
+      "order": 8
+    },
+    {
+      "name": "Nicholas Farrell",
+      "character": "Mr. Jackson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6RnRclsipl3cZKnDfsu0MrqWCwI.jpg",
+  "backdrop_path": "/9jo4LVTFj1zKk9nCzulUiGWSnB.jpg",
+  "budget": 0,
+  "revenue": 741394,
+  "vote_average": 6.142,
+  "vote_count": 182,
+  "imdb_id": "tt0245046",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

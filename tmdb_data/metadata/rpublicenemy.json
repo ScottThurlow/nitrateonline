@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 33171,
+  "title": "Public Enemy",
+  "original_title": "공공의 적",
+  "release_date": "2002-01-25",
+  "runtime": 138,
+  "tagline": "Lawless cops and a savage killer battle to the bitter end!",
+  "overview": "A notorious dirty cop makes an honest attempt to catch a serial killer who even murdered his own parents.",
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Korean"
+  ],
+  "production_companies": [
+    {
+      "name": "Cinema Service",
+      "country": "KR"
+    }
+  ],
+  "director": [
+    "Kang Woo-suk"
+  ],
+  "writers": [
+    {
+      "name": "Kim Hyeon-jeong",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jung Yoon-sup",
+      "job": "Writer"
+    },
+    {
+      "name": "Baek Seung-jae",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chae Yoon-suk",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lee Min-ho",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sul Kyung-gu",
+      "character": "Kang Chul-joong",
+      "order": 0
+    },
+    {
+      "name": "Lee Sung-jae",
+      "character": "Jo Kyu-hwan",
+      "order": 1
+    },
+    {
+      "name": "Kang Shin-il",
+      "character": "Eom Chung-il",
+      "order": 2
+    },
+    {
+      "name": "Kim Jung-hak",
+      "character": "Kim Young-soo",
+      "order": 3
+    },
+    {
+      "name": "Do Yong-gu",
+      "character": "Detective Nam",
+      "order": 4
+    },
+    {
+      "name": "Ahn Nae-sang",
+      "character": "Detective Lee",
+      "order": 5
+    },
+    {
+      "name": "Lee Moon-sik",
+      "character": "Lee Ahn-soo",
+      "order": 6
+    },
+    {
+      "name": "Sung Ji-ru",
+      "character": "Dae-kil",
+      "order": 7
+    },
+    {
+      "name": "Yoo Hai-jin",
+      "character": "Yong-man",
+      "order": 8
+    },
+    {
+      "name": "Lee Kan-hee",
+      "character": "Mrs. Jo",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7xNVM4UmFm27UUr52q7cxwYrrrW.jpg",
+  "backdrop_path": "/hwGA0G51VXwEtlqqaUERXtQxHh.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.147,
+  "vote_count": 68,
+  "imdb_id": "tt0306909",
+  "certifications": [
+    {
+      "country": "KR",
+      "rating": "19"
+    }
+  ],
+  "status": "Released"
+}

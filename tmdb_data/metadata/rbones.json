@@ -1,0 +1,133 @@
+{
+  "tmdb_id": 11380,
+  "title": "Bones",
+  "original_title": "Bones",
+  "release_date": "2001-10-24",
+  "runtime": 97,
+  "tagline": "This Dogg's got a bone to pick.",
+  "overview": "Over 20 years after his death, local legend and benefactor Jimmy Bones returns as a ghost to get revenge on those who killed him and restore his neighborhood.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Crime",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "The Lloyd Segan Company",
+      "country": ""
+    },
+    {
+      "name": "Heller Highwater Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ernest R. Dickerson"
+  ],
+  "writers": [
+    {
+      "name": "Tim Metcalfe",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Adam Simon",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Heller",
+      "job": "Producer"
+    },
+    {
+      "name": "Lloyd Segan",
+      "job": "Producer"
+    },
+    {
+      "name": "Rupert Harvey",
+      "job": "Producer"
+    },
+    {
+      "name": "Carolyn Manetti",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Snoop Dogg",
+      "character": "Jimmy Bones",
+      "order": 0
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Pearl",
+      "order": 1
+    },
+    {
+      "name": "Bianca Lawson",
+      "character": "Cynthia",
+      "order": 2
+    },
+    {
+      "name": "Khalil Kain",
+      "character": "Patrick",
+      "order": 3
+    },
+    {
+      "name": "Michael T. Weiss",
+      "character": "Al Lupovich",
+      "order": 4
+    },
+    {
+      "name": "Clifton Powell",
+      "character": "Jeremiah Peet",
+      "order": 5
+    },
+    {
+      "name": "Ricky Harris",
+      "character": "Eddie Mack",
+      "order": 6
+    },
+    {
+      "name": "Merwin Mondesir",
+      "character": "Bill",
+      "order": 7
+    },
+    {
+      "name": "Sean Amsing",
+      "character": "Maurice",
+      "order": 8
+    },
+    {
+      "name": "Katharine Isabelle",
+      "character": "Tia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7UOHEPTQMaiwaI14CGxd5yFAPMZ.jpg",
+  "backdrop_path": "/mtgLSNVYWVvyPnASaW5cmcXDvZz.jpg",
+  "budget": 10000000,
+  "revenue": 7316658,
+  "vote_average": 4.9,
+  "vote_count": 167,
+  "imdb_id": "tt0166110",
+  "certifications": [
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

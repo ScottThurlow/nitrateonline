@@ -1,0 +1,58 @@
+{
+  "tmdb_id": 1319276,
+  "title": "Broken Wings",
+  "original_title": "Broken Wings",
+  "release_date": "2022-10-21",
+  "runtime": 14,
+  "tagline": "",
+  "overview": "A psychiatrist and his patient engage in a deep conversation about the philosophy of good and evil and the remote possibility of the existence of God. The patient's dark past comes to light, putting the very reality of the conversation to the test.",
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Carlos Albero"
+  ],
+  "writers": [
+    {
+      "name": "Carlos Albero",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carlos Albero",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Karina Kolokolchykova",
+      "character": "Nadia",
+      "order": 0
+    },
+    {
+      "name": "Jonathan D. Mellor",
+      "character": "Psychiatrist",
+      "order": 1
+    },
+    {
+      "name": "Chema Abellón",
+      "character": "Ex-husband",
+      "order": 2
+    }
+  ],
+  "poster_path": "/t2htEDsojRDirtX6Q1EEoR77YAV.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": null,
+  "certifications": [],
+  "status": "Released"
+}

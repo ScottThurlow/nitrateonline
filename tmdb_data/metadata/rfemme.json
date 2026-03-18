@@ -1,0 +1,158 @@
+{
+  "tmdb_id": 9280,
+  "title": "Femme Fatale",
+  "original_title": "Femme Fatale",
+  "release_date": "2002-04-30",
+  "runtime": 114,
+  "tagline": "Nothing is more desirable or more deadly than a woman with a secret.",
+  "overview": "A $10-million diamond rip-off, a stolen identity, a new life married to a diplomat. Laure Ash has risked big, won big. But then a tabloid shutterbug snaps her picture in Paris, and suddenly, enemies from Laure's secret past know who and where she is. And they all want their share of the diamond heist. Or her life. Or both.",
+  "genres": [
+    "Mystery",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    },
+    {
+      "name": "Quinta Communications",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Brian De Palma"
+  ],
+  "writers": [
+    {
+      "name": "Brian De Palma",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tarak Ben Ammar",
+      "job": "Producer"
+    },
+    {
+      "name": "Marina Gefter",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Lombardo",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rebecca Romijn",
+      "character": "Laure Ash / Lily Watts",
+      "order": 0
+    },
+    {
+      "name": "Antonio Banderas",
+      "character": "Nicolas Bardo",
+      "order": 1
+    },
+    {
+      "name": "Peter Coyote",
+      "character": "Watts",
+      "order": 2
+    },
+    {
+      "name": "Ériq Ebouaney",
+      "character": "Black Tie",
+      "order": 3
+    },
+    {
+      "name": "Édouard Montoute",
+      "character": "Racine",
+      "order": 4
+    },
+    {
+      "name": "Rie Rasmussen",
+      "character": "Veronica",
+      "order": 5
+    },
+    {
+      "name": "Thierry Frémont",
+      "character": "Serra",
+      "order": 6
+    },
+    {
+      "name": "Gregg Henry",
+      "character": "Shiff",
+      "order": 7
+    },
+    {
+      "name": "Fiona Curzon",
+      "character": "Stanfield Phillips",
+      "order": 8
+    },
+    {
+      "name": "Daniel Milgram",
+      "character": "Pierre / Bartender",
+      "order": 9
+    }
+  ],
+  "poster_path": "/i2OgxmZVbIsJxaLiYMjCSewsLty.jpg",
+  "backdrop_path": "/rc0n0PItBZK4ptPNEuSRv83Noee.jpg",
+  "budget": 35000000,
+  "revenue": 16800000,
+  "vote_average": 6.151,
+  "vote_count": 644,
+  "imdb_id": "tt0280665",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

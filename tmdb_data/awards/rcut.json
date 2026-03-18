@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 2 nominations",
+  "rated": "R",
+  "released": "31 Oct 2003",
+  "runtime": "119 min",
+  "genre": "Mystery, Thriller",
+  "director": "Jane Campion",
+  "writer": "Jane Campion, Susanna Moore, Stavros Kazantzidis",
+  "actors": "Meg Ryan, Mark Ruffalo, Jennifer Jason Leigh",
+  "plot": "Frankie Avery is a NYC teacher who embarks on a relationship with NYPD Detective Malloy, who, along with his partner, is investigating the murder of a young woman, part of whose body was found in the garden outside of Frannie's apartment. Malloy believes this murder is the work of a serial killer. Beyond the murder investigation, she continues her association with Malloy despite her catching him in a lie which may have dangerous implications. As the relationship contributes, she discovers more evidence pointing to him being the serial killer.",
+  "language": "English",
+  "country": "United Kingdom, Australia, France, United States",
+  "metascore": "47",
+  "imdb_rating": "5.4",
+  "imdb_votes": "26,960",
+  "box_office": "$4,750,602",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=In+the+Cut"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/In+the+Cut/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0199626/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0199626/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10944"
+  }
+}

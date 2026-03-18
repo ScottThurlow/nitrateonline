@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 4421,
+  "title": "G.I. Jane",
+  "original_title": "G.I. Jane",
+  "release_date": "1997-08-19",
+  "runtime": 125,
+  "tagline": "Failure is not an option.",
+  "overview": "In response to political pressure from Senator Lillian DeHaven, the U.S. Navy begins a program that would allow for the eventual integration of women into its combat services. The program begins with a single trial candidate, Lieutenant Jordan O'Neil, who is chosen specifically for her femininity. O'Neil enters the grueling Navy SEAL training program under the command of Master Chief John James Urgayle, who unfairly pushes O'Neil until her determination wins his respect.",
+  "genres": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Caravan Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Largo Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Trap-Two-Zero Productions",
+      "country": ""
+    },
+    {
+      "name": "Roger Birnbaum Productions",
+      "country": "US"
+    },
+    {
+      "name": "Moving Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Free Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ridley Scott"
+  ],
+  "writers": [
+    {
+      "name": "Danielle Alexandra",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Twohy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Danielle Alexandra",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Suzanne Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Demi Moore",
+      "job": "Producer"
+    },
+    {
+      "name": "Ridley Scott",
+      "job": "Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Danielle Alexandra",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julie Bergman Sender",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Zarpas",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Demi Moore",
+      "character": "Lt. Jordan O'Neil",
+      "order": 0
+    },
+    {
+      "name": "Viggo Mortensen",
+      "character": "Master Chief John James Urgayle",
+      "order": 1
+    },
+    {
+      "name": "Morris Chestnut",
+      "character": "McCool",
+      "order": 2
+    },
+    {
+      "name": "Josh Hopkins",
+      "character": "Flea",
+      "order": 3
+    },
+    {
+      "name": "David Vadim",
+      "character": "Cortez",
+      "order": 4
+    },
+    {
+      "name": "Jim Caviezel",
+      "character": "Slovnik",
+      "order": 5
+    },
+    {
+      "name": "Boyd Kestner",
+      "character": "Wickwire",
+      "order": 6
+    },
+    {
+      "name": "Kevin Gage",
+      "character": "Instructor Pyro",
+      "order": 7
+    },
+    {
+      "name": "David Warshofsky",
+      "character": "Instructor Johns",
+      "order": 8
+    },
+    {
+      "name": "Jason Beghe",
+      "character": "Royce",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6yBgZJYqaR4XkxwjsB9tS4GK1ZN.jpg",
+  "backdrop_path": "/bs65jUGHevSDmfKF5LgVyWtPK4o.jpg",
+  "budget": 50000000,
+  "revenue": 48169156,
+  "vote_average": 6.463,
+  "vote_count": 1819,
+  "imdb_id": "tt0119173",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

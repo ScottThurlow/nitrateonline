@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Won 1 Oscar. 12 wins & 13 nominations total",
+  "rated": "R",
+  "released": "10 Nov 1995",
+  "runtime": "95 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Woody Allen, Mira Sorvino, Pamela Blair",
+  "plot": "Lenny and Amanda have an adopted son Max who turns out to be brilliant. Lenny becomes obsessed with finding Max's real parents because he believes that they too must be brilliant. When he finds that Linda Ash is Max' real mother, Lenny is disappointed. Linda is a prostitute and porn star. On top of that, she is quite possibly the dumbest person Lenny has ever met. Interwoven is a Greek chorus linking the story with the story of Oedipus.",
+  "language": "English, Latin",
+  "country": "United States, Netherlands",
+  "metascore": "60",
+  "imdb_rating": "7.0",
+  "imdb_votes": "44,807",
+  "box_office": "$6,468,498",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=Mighty+Aphrodite"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Mighty+Aphrodite/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0113819/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0113819/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11448"
+  }
+}

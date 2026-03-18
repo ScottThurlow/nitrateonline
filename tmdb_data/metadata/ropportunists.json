@@ -1,0 +1,141 @@
+{
+  "tmdb_id": 45905,
+  "title": "The Opportunists",
+  "original_title": "The Opportunists",
+  "release_date": "2000-05-17",
+  "runtime": 90,
+  "tagline": "When crime is all you know, you've got to take what you can.",
+  "overview": "Vic is a struggling auto mechanic with a safe-cracking past and a lot of debt. His girlfriend runs a bar and offers to loan him the money she's saved for remodeling, but Vic is reluctant to take it. When a long-lost cousin from Ireland shows up on his doorstep, the two team up for one last heist.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Flashpoint",
+      "country": "GB"
+    },
+    {
+      "name": "Eureka Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Clinica Estetico",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Myles Connell"
+  ],
+  "writers": [
+    {
+      "name": "Myles Connell",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan Demme",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Beau Rogers",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Forrest",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Saraf",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John S. Lyons",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward Saxon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tim Perell",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christopher Walken",
+      "character": "Vic Kelly",
+      "order": 0
+    },
+    {
+      "name": "Peter McDonald",
+      "character": "Michael Lawler",
+      "order": 1
+    },
+    {
+      "name": "Anne Pitoniak",
+      "character": "Aunt Dee",
+      "order": 2
+    },
+    {
+      "name": "Kate Burton",
+      "character": "Rest Home Sister",
+      "order": 3
+    },
+    {
+      "name": "Jim Mayzik",
+      "character": "Rest Home Priest",
+      "order": 4
+    },
+    {
+      "name": "Vera Farmiga",
+      "character": "Miriam Kelly",
+      "order": 5
+    },
+    {
+      "name": "Donal Logue",
+      "character": "Pat Duffy",
+      "order": 6
+    },
+    {
+      "name": "Cyndi Lauper",
+      "character": "Sally Mahon",
+      "order": 7
+    },
+    {
+      "name": "Paul D'Amato",
+      "character": "Dylan",
+      "order": 8
+    },
+    {
+      "name": "Wally Dunn",
+      "character": "Harry",
+      "order": 9
+    }
+  ],
+  "poster_path": "/o3ahlEqcwxxlVWPnEHTIzYMdwhQ.jpg",
+  "backdrop_path": "/13dZPwTQAXpQHmxG1ETIZ9vf4xM.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.7,
+  "vote_count": 19,
+  "imdb_id": "tt0138681",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

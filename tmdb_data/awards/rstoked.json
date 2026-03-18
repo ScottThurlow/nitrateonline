@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "25 Jun 2004",
+  "runtime": "82 min",
+  "genre": "Documentary, Sport",
+  "director": "Helen Stickler",
+  "writer": "Helen Stickler",
+  "actors": "Mark 'Gator' Rogowski, Stacy Peralta, Tony Hawk",
+  "plot": "STOKED tells the story of 80s skateboarding icon and convicted rapist and murderer Mark \"Gator\" Rogowski. Spanning a decade from the early 80s to early 90s, STOKED is the fascinating character study of a young man's development, couched within the social and historical framework of skateboarding's biggest era. STOKED takes a trip to the 'in-your-face' era of 80s youth pop culture, exploring the mechanism of fame and its darker consequences in one man. A thoughtful and energetic look back at the apex of punk rock, neon jams, and the early days of MTV, the archival documentary follows skateboarding from its grass roots in Southern California backyards to an international phenomenon. Featuring skateboarding legends such as Tony Hawk, Stacy Peralta, Lance Mountain, Steve Caballero, and testimony from Mark \"Gator\" Rogowski from behind bars, STOKED dramatically reveals for the first time the factors leading to a star's tragic fall from grace, and the unyielding spirit that allows skateboarding to reinvent itself.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "7.1",
+  "imdb_votes": "1,157",
+  "box_office": "$150,268",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Stoked%3A+The+Rise+and+Fall+of+Gator"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Stoked%3A+The+Rise+and+Fall+of+Gator/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0271211/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0271211/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/33255"
+  }
+}

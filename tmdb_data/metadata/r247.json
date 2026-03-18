@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 22913,
+  "title": "TwentyFourSeven",
+  "original_title": "TwentyFourSeven",
+  "release_date": "1998-04-03",
+  "runtime": 96,
+  "tagline": "Everybody wants to be somebody.",
+  "overview": "In a typical English working-class town, the juveniles have nothing more to do than hang around in gangs. One day, Alan Darcy, a highly motivated man with the same kind of youth experience, starts trying to get the young people off the street and into doing something they can believe in: Boxing. Darcy opens a boxing club, aiming to bring the rival gangs together.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Scala Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Shane Meadows"
+  ],
+  "writers": [
+    {
+      "name": "Paul Fraser",
+      "job": "Writer"
+    },
+    {
+      "name": "Shane Meadows",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "George Faber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Imogen West",
+      "job": "Producer"
+    },
+    {
+      "name": "Nik Powell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David M. Thompson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stephen Woolley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bob Hoskins",
+      "character": "Alan Darcy",
+      "order": 0
+    },
+    {
+      "name": "Danny Nussbaum",
+      "character": "Tim",
+      "order": 1
+    },
+    {
+      "name": "Bruce Jones",
+      "character": "Geoff",
+      "order": 2
+    },
+    {
+      "name": "Annette Badland",
+      "character": "Pat",
+      "order": 3
+    },
+    {
+      "name": "Frank Harper",
+      "character": "Ronnie Marsh",
+      "order": 4
+    },
+    {
+      "name": "Darren O. Campbell",
+      "character": "Daz (as Darren Campbell)",
+      "order": 5
+    },
+    {
+      "name": "Karl Collins",
+      "character": "Stuart",
+      "order": 6
+    },
+    {
+      "name": "Justin Brady",
+      "character": "Gadget",
+      "order": 7
+    },
+    {
+      "name": "Jimmy Hynd",
+      "character": "Meggy",
+      "order": 8
+    },
+    {
+      "name": "Johann Myers",
+      "character": "Benny",
+      "order": 9
+    }
+  ],
+  "poster_path": "/g5rd7ljbR0VVcK7m2ogrMa4E0fE.jpg",
+  "backdrop_path": "/sHgs1XWYsCjRgQ6d5jlMA3d636w.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.218,
+  "vote_count": 39,
+  "imdb_id": "tt0120391",
+  "status": "Released"
+}

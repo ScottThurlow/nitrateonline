@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 27637,
+  "title": "Horst Schlämmer - Isch kandidiere!",
+  "original_title": "Horst Schlämmer - Isch kandidiere!",
+  "release_date": "2009-08-20",
+  "runtime": 96,
+  "tagline": "",
+  "overview": "So far he has earned his living as deputy editor-in-chief at the Grevenbroicher Tagblatt, but actually Horst Schlämmer had always guessed: he was destined for something bigger - too much bigger. Without further ado, he therefore quits his old job, founds his very own party and thus starts his rush to the chancellor's office. While the election machinery is quickly started and soon picks up speed, only two questions remain unanswered: Is Horst Schlämmer ready for Germany? And is Germany ready for him?",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Telemaz",
+      "country": "DE"
+    },
+    {
+      "name": "Bluverde F.V.T.",
+      "country": "DE"
+    },
+    {
+      "name": "ZDF",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Angelo Colagrossi"
+  ],
+  "writers": [
+    {
+      "name": "Angelo Colagrossi",
+      "job": "Idea"
+    },
+    {
+      "name": "Hape Kerkeling",
+      "job": "Idea"
+    },
+    {
+      "name": "Ludwig Berndl",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Angelo Colagrossi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hape Kerkeling",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jens Teutsch-Majowski",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Angelo Colagrossi",
+      "job": "Producer"
+    },
+    {
+      "name": "Barbara Kranz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gabriele Reuter",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hape Kerkeling",
+      "character": "Horst Schlämmer / Uschi Blum / Gisela / Angela Merkel / Ronald Profalla / Ulla Schmidt",
+      "order": 0
+    },
+    {
+      "name": "Alexandra Kamp",
+      "character": "Alexandra Kamp",
+      "order": 1
+    },
+    {
+      "name": "Simon Gosejohann",
+      "character": "Ulf 'Ulle' Polle",
+      "order": 2
+    },
+    {
+      "name": "Maren Kroymann",
+      "character": "Renate Hammelböck",
+      "order": 3
+    },
+    {
+      "name": "Norbert Heisterkamp",
+      "character": "Günni",
+      "order": 4
+    },
+    {
+      "name": "Thomas Loibl",
+      "character": "Griebe",
+      "order": 5
+    },
+    {
+      "name": "Soogi Kang",
+      "character": "Mother",
+      "order": 6
+    },
+    {
+      "name": "Tung Mingh Nguyen",
+      "character": "Schlämmer's Son",
+      "order": 7
+    },
+    {
+      "name": "Guido Broscheit",
+      "character": "Actor On Filmset",
+      "order": 8
+    },
+    {
+      "name": "Max Urlacher",
+      "character": "Doctor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5rHIjPFK8iG8mabnguMJCWAS3ao.jpg",
+  "backdrop_path": "/vrXM77bpRNPJ9VBWRRTGUGigBpG.jpg",
+  "budget": 0,
+  "revenue": 12789786,
+  "vote_average": 4.75,
+  "vote_count": 56,
+  "imdb_id": "tt1462050",
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 Oscar. 1 win & 20 nominations total",
+  "rated": "R",
+  "released": "22 May 1998",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Warren Beatty",
+  "writer": "Warren Beatty, Jeremy Pikser",
+  "actors": "Warren Beatty, Halle Berry, Kimberly Deauna Adams",
+  "plot": "Senator Jay Bulworth is facing speculation-induced financial ruin, so he puts out a contract on his own life in order to collect a large, new insurance policy for his family. Living each moment on borrowed time, he suddenly begins spouting raw, unfiltered--and sometimes offensive in word but satirical in spirit -- thoughts to shocked audiences and handlers in the speech of hip-hop music and culture. His newfound uninhibitedness and new relationship with Nina carry him on a journey of political and spiritual renewal.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "75",
+  "imdb_rating": "6.8",
+  "imdb_votes": "27,597",
+  "box_office": "$26,528,185",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=Bulworth"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/Bulworth/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118798/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118798/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9452"
+  }
+}

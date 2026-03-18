@@ -1,0 +1,92 @@
+{
+  "tmdb_id": 1311564,
+  "title": "Pachinko Battle Royale",
+  "original_title": "パチンコ バトル・ロワイアル",
+  "release_date": "2001-08-25",
+  "runtime": 83,
+  "tagline": "",
+  "overview": "An original comedy drama in which many members of Takeshi’s Gundan appear. In 200X, in order to eliminate the indignation of the people who lost in pachinko, \"The new century pachinko reform was promulgated and the winning rate seemed to increase. However, because there is no end to those who lose, a ridiculous law has been enacted!",
+  "genres": [
+    "Comedy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Transformer, Inc.",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Kanta Tagawa"
+  ],
+  "writers": [
+    {
+      "name": "Kanta Tagawa",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Fumitsugu Yamaguchi",
+      "job": "Producer"
+    },
+    {
+      "name": "Eisuke Ishige",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kunihiro Matsumura",
+      "character": "",
+      "order": 0
+    },
+    {
+      "name": "Tsumami Edamame",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Natsume Kai",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Atsuko Sakuraba",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Rakkyo Ide",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "The Great Gidayû",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Yakan Nabe",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Hikomaro",
+      "character": "",
+      "order": 7
+    }
+  ],
+  "poster_path": "/3oUdbfmIbiKgGW5IRUprWAQ4nDR.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": null,
+  "certifications": [],
+  "status": "Released"
+}

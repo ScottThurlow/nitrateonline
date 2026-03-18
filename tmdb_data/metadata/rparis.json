@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 33302,
+  "title": "The Girl from Paris",
+  "original_title": "Une hirondelle a fait le printemps",
+  "release_date": "2001-09-05",
+  "runtime": 103,
+  "tagline": "",
+  "overview": "A woman in her thirties gets tired of life in Paris and decides to leave and become a farmer.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "Cofimage 12",
+      "country": ""
+    },
+    {
+      "name": "Artémis Productions",
+      "country": "BE"
+    },
+    {
+      "name": "M.S. Productions",
+      "country": ""
+    },
+    {
+      "name": "Mars Films",
+      "country": "FR"
+    },
+    {
+      "name": "PROCIREP",
+      "country": "FR"
+    },
+    {
+      "name": "Canal+",
+      "country": "FR"
+    },
+    {
+      "name": "Nord-Ouest Films",
+      "country": "FR"
+    },
+    {
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Christian Carion"
+  ],
+  "writers": [
+    {
+      "name": "Eric Assous",
+      "job": "Writer"
+    },
+    {
+      "name": "Christian Carion",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Christophe Rossignon",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michel Serrault",
+      "character": "Adrien Rochas",
+      "order": 0
+    },
+    {
+      "name": "Mathilde Seigner",
+      "character": "Sandrine Dumez",
+      "order": 1
+    },
+    {
+      "name": "Jean-Paul Roussillon",
+      "character": "Jean Farjon",
+      "order": 2
+    },
+    {
+      "name": "Frédéric Pierrot",
+      "character": "Gérard Chauvin",
+      "order": 3
+    },
+    {
+      "name": "Marc Berman",
+      "character": "Stéphane",
+      "order": 4
+    },
+    {
+      "name": "Françoise Bette",
+      "character": "Sandrine's mother",
+      "order": 5
+    },
+    {
+      "name": "Christophe Rossignon",
+      "character": "Business farmer",
+      "order": 6
+    },
+    {
+      "name": "Roland Chalosse",
+      "character": "Barman",
+      "order": 7
+    },
+    {
+      "name": "Achiles Francisco Varas dell'Aquila",
+      "character": "Barfly",
+      "order": 8
+    },
+    {
+      "name": "Christian Carion",
+      "character": "Man with portable",
+      "order": 9
+    }
+  ],
+  "poster_path": "/muykQb9inG47Wi0Cs9FsV91PgT7.jpg",
+  "backdrop_path": "/9HWi6I95CKNT8QXsqGe8kwTA27R.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.392,
+  "vote_count": 83,
+  "imdb_id": "tt0240149",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

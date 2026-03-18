@@ -1,0 +1,85 @@
+{
+  "tmdb_id": 277882,
+  "title": "Half Past Autumn: The Life and Works of Gordon Parks",
+  "original_title": "Half Past Autumn: The Life and Works of Gordon Parks",
+  "release_date": "2000-11-30",
+  "runtime": 91,
+  "tagline": "",
+  "overview": "An intimate look at the life and career of Gordon Parks a true Renaissance man who has excelled as a photographer, novelist, journalist, poet, musician and filmmaker.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [],
+  "production_companies": [
+    {
+      "name": "HBO Films",
+      "country": "US"
+    },
+    {
+      "name": "Mundy Lane Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Craig Rice"
+  ],
+  "writers": [
+    {
+      "name": "Lou Potter",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "St. Clair Bourne",
+      "job": "Producer"
+    },
+    {
+      "name": "Cecil Cox",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sheila Nevins",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Craig Rice",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Denzel Washington",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gordon Parks",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Narrator",
+      "order": 1
+    },
+    {
+      "name": "Gloria Vanderbilt",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Flávio da Silva",
+      "character": "Self",
+      "order": 3
+    }
+  ],
+  "poster_path": "/4irlDHU928tNoSrrY7NEBr6hacy.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "imdb_id": "tt0265218",
+  "certifications": [],
+  "status": "Released"
+}

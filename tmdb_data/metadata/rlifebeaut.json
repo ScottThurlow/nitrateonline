@@ -1,0 +1,193 @@
+{
+  "tmdb_id": 637,
+  "title": "Life Is Beautiful",
+  "original_title": "La vita è bella",
+  "release_date": "1997-12-20",
+  "runtime": 116,
+  "tagline": "An unforgettable fable that proves love, family and imagination conquer all.",
+  "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [],
+  "production_companies": [
+    {
+      "name": "Mario e Vittorio Cecchi Gori - C.E.I.A.D.",
+      "country": "IT"
+    },
+    {
+      "name": "Melampo Cinematografica",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Roberto Benigni"
+  ],
+  "writers": [
+    {
+      "name": "Roberto Benigni",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Vincenzo Cerami",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Roberto Benigni",
+      "job": "Story"
+    },
+    {
+      "name": "Vincenzo Cerami",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gianluigi Braschi",
+      "job": "Producer"
+    },
+    {
+      "name": "Elda Ferri",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Cotone",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Roberto Benigni",
+      "character": "Guido",
+      "order": 0
+    },
+    {
+      "name": "Nicoletta Braschi",
+      "character": "Dora",
+      "order": 1
+    },
+    {
+      "name": "Giorgio Cantarini",
+      "character": "Giosué",
+      "order": 2
+    },
+    {
+      "name": "Giustino Durano",
+      "character": "Zio",
+      "order": 3
+    },
+    {
+      "name": "Sergio Bini Bustric",
+      "character": "Ferruccio",
+      "order": 4
+    },
+    {
+      "name": "Marisa Paredes",
+      "character": "Dora's Mother",
+      "order": 5
+    },
+    {
+      "name": "Horst Buchholz",
+      "character": "Doctor Lessing",
+      "order": 6
+    },
+    {
+      "name": "Lidia Alfonsi",
+      "character": "Mrs. Guicciardini",
+      "order": 7
+    },
+    {
+      "name": "Giuliana Lojodice",
+      "character": "School Principal",
+      "order": 8
+    },
+    {
+      "name": "Amerigo Fontani",
+      "character": "Rodolfo",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+  "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+  "budget": 20000000,
+  "revenue": 230098753,
+  "vote_average": 8.439,
+  "vote_count": 13852,
+  "imdb_id": "tt0118799",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,174 @@
+{
+  "tmdb_id": 18316,
+  "title": "Black Dog",
+  "original_title": "Black Dog",
+  "release_date": "1998-05-01",
+  "runtime": 88,
+  "tagline": "The rules of the road are simple. Don't turn back.",
+  "overview": "An ex-con takes a job driving a truck cross country. What he doesn't know is that the truck is filled with illegal weapons and now he must fight to survive and save his family.",
+  "genres": [
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Prelude Pictures",
+      "country": "US"
+    },
+    {
+      "name": "UGC PH",
+      "country": "FR"
+    },
+    {
+      "name": "Tele München",
+      "country": "DE"
+    },
+    {
+      "name": "BBC",
+      "country": "GB"
+    },
+    {
+      "name": "Marubeni",
+      "country": "JP"
+    },
+    {
+      "name": "TOHO-TOWA",
+      "country": "JP"
+    },
+    {
+      "name": "Mace Neufeld Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Hooks"
+  ],
+  "writers": [
+    {
+      "name": "William Mickelberry",
+      "job": "Writer"
+    },
+    {
+      "name": "Dan Vining",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Raffaella De Laurentiis",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Ilitch Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark W. Koch",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Saphier",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Levinsohn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mace Neufeld",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Rehme",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patrick Swayze",
+      "character": "Jack Crews",
+      "order": 0
+    },
+    {
+      "name": "Meat Loaf",
+      "character": "Red",
+      "order": 1
+    },
+    {
+      "name": "Randy Travis",
+      "character": "Earl",
+      "order": 2
+    },
+    {
+      "name": "Gabriel Casseus",
+      "character": "Sonny",
+      "order": 3
+    },
+    {
+      "name": "Graham Beckel",
+      "character": "Cutler",
+      "order": 4
+    },
+    {
+      "name": "Brenda Strong",
+      "character": "Melanie",
+      "order": 5
+    },
+    {
+      "name": "Rusty De Wees",
+      "character": "Junior",
+      "order": 6
+    },
+    {
+      "name": "Brian Vincent",
+      "character": "Wes",
+      "order": 7
+    },
+    {
+      "name": "Cyril O'Reilly",
+      "character": "Vince",
+      "order": 8
+    },
+    {
+      "name": "Erin Broderick",
+      "character": "Tracy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8hvt4L3EXWq3ANutok32ODQIGwV.jpg",
+  "backdrop_path": "/g3OIqGPv36wGfe86NPjzWpAmQ7Y.jpg",
+  "budget": 30000000,
+  "revenue": 12951088,
+  "vote_average": 6.396,
+  "vote_count": 284,
+  "imdb_id": "tt0120610",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

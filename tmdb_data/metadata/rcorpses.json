@@ -1,0 +1,104 @@
+{
+  "tmdb_id": 2662,
+  "title": "House of 1000 Corpses",
+  "original_title": "House of 1000 Corpses",
+  "release_date": "2003-04-11",
+  "runtime": 89,
+  "tagline": "The most shocking tale of carnage ever seen.",
+  "overview": "Two teenage couples traveling across the backwoods of Texas searching for urban legends of serial killers end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Spectacle Entertainment Group",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Zombie"
+  ],
+  "writers": [
+    {
+      "name": "Rob Zombie",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andy Gould",
+      "job": "Producer"
+    },
+    {
+      "name": "Andy Given",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Guy Oseary",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sid Haig",
+      "character": "Captain Spaulding",
+      "order": 0
+    },
+    {
+      "name": "Bill Moseley",
+      "character": "Otis B. Driftwood",
+      "order": 1
+    },
+    {
+      "name": "Sheri Moon Zombie",
+      "character": "Baby Firefly",
+      "order": 2
+    },
+    {
+      "name": "Karen Black",
+      "character": "Mother Firefly",
+      "order": 3
+    },
+    {
+      "name": "Erin Daniels",
+      "character": "Denise Willis",
+      "order": 4
+    },
+    {
+      "name": "Chris Hardwick",
+      "character": "Jerry Goldsmith",
+      "order": 5
+    },
+    {
+      "name": "Rainn Wilson",
+      "character": "Bill Hudley",
+      "order": 6
+    },
+    {
+      "name": "Jennifer Jostyn",
+      "character": "Mary Knowles",
+      "order": 7
+    },
+    {
+      "name": "Tom Towles",
+      "character": "Lieutenant George Wydell",
+      "order": 8
+    },
+    {
+      "name": "Walton Goggins",
+      "character": "Deputy Steve Naish",
+      "order": 9
+    }
+  ],
+  "poster_path": "/29c2qgXmSREosLBevOILEuMWzQC.jpg",
+  "backdrop_path": "/fGTQXeEbUFWHK7FlJk1Hgc2AHmF.jpg",
+  "budget": 7000000,
+  "revenue": 17949758,
+  "vote_average": 6.191,
+  "vote_count": 1723,
+  "imdb_id": "tt0251736",
+  "status": "Released"
+}

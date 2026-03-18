@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "2 wins total",
+  "rated": "PG-13",
+  "released": "14 Mar 1998",
+  "runtime": "85 min",
+  "genre": "Comedy, Drama",
+  "director": "Julia Sweeney",
+  "writer": "Julia Sweeney",
+  "actors": "Julia Sweeney, Quentin Tarantino",
+  "plot": "Julia Sweeney tells the viewers the monologue about the hard time in her life when her brother fought with cancer and she was also diagnosed with a rare form of cancer.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.2",
+  "imdb_votes": "1,030",
+  "box_office": "$55,970",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=God+Said%2C+%27Ha%21%27"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119207/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119207/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/82865"
+  }
+}

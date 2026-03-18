@@ -1,0 +1,121 @@
+{
+  "tmdb_id": 49267,
+  "title": "Just One Time",
+  "original_title": "Just One Time",
+  "release_date": "1999-09-13",
+  "runtime": 104,
+  "tagline": "A Formula for Fantasy",
+  "overview": "When the fiancé of a fireman reluctantly agrees to participate in a ménage à trois with another woman, she does so on the condition that he reciprocate the favor with another man, which ultimately puts their impending marriage in jeopardy.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Code Red Film",
+      "country": "US"
+    },
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Danger Filmworks",
+      "country": ""
+    },
+    {
+      "name": "Strand Releasing",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lane Janger"
+  ],
+  "writers": [
+    {
+      "name": "Lane Janger",
+      "job": "Writer"
+    },
+    {
+      "name": "Jennifer Vandever",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lane Janger",
+      "job": "Producer"
+    },
+    {
+      "name": "Jasmine Kosovic",
+      "job": "Producer"
+    },
+    {
+      "name": "Exile Ramirez",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lane Janger",
+      "character": "Anthony",
+      "order": 0
+    },
+    {
+      "name": "Joelle Carter",
+      "character": "Amy",
+      "order": 1
+    },
+    {
+      "name": "Guillermo Díaz",
+      "character": "Victor",
+      "order": 2
+    },
+    {
+      "name": "Jennifer Esposito",
+      "character": "Michelle",
+      "order": 3
+    },
+    {
+      "name": "David Lee Russek",
+      "character": "Dom",
+      "order": 4
+    },
+    {
+      "name": "Vincent Laresca",
+      "character": "Nick",
+      "order": 5
+    },
+    {
+      "name": "Domenick Lombardozzi",
+      "character": "Cyrill",
+      "order": 6
+    },
+    {
+      "name": "Lázaro Pérez",
+      "character": "Luis",
+      "order": 7
+    },
+    {
+      "name": "Lynn Cohen",
+      "character": "Sophia",
+      "order": 8
+    },
+    {
+      "name": "Achilles Tsakiridis",
+      "character": "Mr. Zafiris",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cAdV1mRjpkrqp8Y72iRH3khJQZH.jpg",
+  "backdrop_path": "/gtHBcZWZ31wvgT1rj7luhTehKeV.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.7,
+  "vote_count": 20,
+  "imdb_id": "tt0168912",
+  "status": "Released"
+}

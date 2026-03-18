@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins total",
+  "rated": "R",
+  "released": "25 Aug 1999",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Michael Rymer",
+  "writer": "Michael Henry Brown, Paul Aaron",
+  "actors": "Lloyd Adams, Philip Akin, Anna Carolina Arias",
+  "plot": "Jeff Cole is a recent graduate of the Cincinnati police academy who dreams of working undercover. His wish is granted and through success is given the task of taking down state-wide crack dealer Dwayne Gittens aka \"God\". Gittens is known as a family man and a man of the people, contributing to his community and helping those in need. However, there is another side to him, a ruthless leader of a criminal empire who will torture or kill anyone without question. Over time, Cole develops a close friendship with Gittens. Cole's superiors worry that the line between cop and bad guy is getting blurred and that both identities are becoming one. Cole's loyalties are put to the ultimate test just as there is enough evidence to take Gittens down for good.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "53",
+  "imdb_rating": "6.2",
+  "imdb_votes": "7,386",
+  "box_office": "$14,011,454",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "39%",
+      "link": "https://www.rottentomatoes.com/search?search=In+Too+Deep"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/In+Too+Deep/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160401/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160401/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22314"
+  }
+}

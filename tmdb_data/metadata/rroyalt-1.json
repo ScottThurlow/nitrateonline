@@ -1,0 +1,63 @@
+{
+  "tmdb_id": 687170,
+  "title": "The Peter Bradley Show: 'The Royal Tenenbaums'",
+  "original_title": "The Peter Bradley Show: 'The Royal Tenenbaums'",
+  "release_date": "2002-07-09",
+  "runtime": 26,
+  "tagline": "",
+  "overview": "Apparently an attempt to parody the \"Charlie Rose\" show, here host Peter Bradley interviews 6 (well, 5, since one doesn't show up) of the bit players from \"The Royal Tenenbaums.\"",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Antonio Ferrera"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Kumar Pallana",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Dipak Pallana",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Stephen Dignan",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Brian Tenenbaum",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Sanjay Mathew",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Larry Pine",
+      "character": "Peter Bradley",
+      "order": 5
+    }
+  ],
+  "poster_path": "/2H0tDTOaplSXMgBsg64e79J1cWp.jpg",
+  "backdrop_path": "/zrkw8R3mEne3ncgOz4T0frLwl65.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": null,
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "3 wins & 2 nominations total",
+  "rated": "PG",
+  "released": "26 Nov 1997",
+  "runtime": "93 min",
+  "genre": "Comedy, Family, Sci-Fi",
+  "director": "Les Mayfield",
+  "writer": "Samuel W. Taylor, John Hughes, Bill Walsh",
+  "actors": "Robin Williams, Marcia Gay Harden, Christopher McDonald",
+  "plot": "Having already missed his wedding to his beautiful sweetheart, Sara, twice, the happy, absent-minded professor, Dr Phillip Brainard, is struggling to come up with a brilliant invention to save Medfield College from closure. However, as good things come to those who wait, the eccentric inventor stumbles upon an innovative but highly unstable formula for \"Flubber\", a mysterious rubber-like hybrid elastomer that can lift objects, bouncing and stretching as if it had a mind of its own. Of course, this unique but untamed creation catches the attention of a ruthless rival who is bent on getting his hands on the extraordinary substance. But first, he will have to catch it. Can Dr Brainard protect his invention?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "5.3",
+  "imdb_votes": "99,482",
+  "box_office": "$92,977,226",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "24%",
+      "link": "https://www.rottentomatoes.com/search?search=Flubber"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Flubber/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119137/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119137/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9574"
+  }
+}

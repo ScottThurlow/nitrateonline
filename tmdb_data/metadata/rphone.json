@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 1817,
+  "title": "Phone Booth",
+  "original_title": "Phone Booth",
+  "release_date": "2003-01-06",
+  "runtime": 81,
+  "tagline": "No options. No lies. No fear. No deals. Just keep talking.",
+  "overview": "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Swahili"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Zucker/Netter Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Schumacher"
+  ],
+  "writers": [
+    {
+      "name": "Larry Cohen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Zucker",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Kurdyla",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gil Netter",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Colin Farrell",
+      "character": "Stu Shepard",
+      "order": 0
+    },
+    {
+      "name": "Kiefer Sutherland",
+      "character": "The Caller",
+      "order": 1
+    },
+    {
+      "name": "Forest Whitaker",
+      "character": "Captain Ramey",
+      "order": 2
+    },
+    {
+      "name": "Radha Mitchell",
+      "character": "Kelly Shepard",
+      "order": 3
+    },
+    {
+      "name": "Katie Holmes",
+      "character": "Pamela McFadden",
+      "order": 4
+    },
+    {
+      "name": "Paula Jai Parker",
+      "character": "Felicia",
+      "order": 5
+    },
+    {
+      "name": "Arian Ash",
+      "character": "Corky",
+      "order": 6
+    },
+    {
+      "name": "Tia Texada",
+      "character": "Asia",
+      "order": 7
+    },
+    {
+      "name": "John Enos III",
+      "character": "Leon",
+      "order": 8
+    },
+    {
+      "name": "Richard T. Jones",
+      "character": "Sergeant Cole",
+      "order": 9
+    }
+  ],
+  "poster_path": "/r6lIwPKVDa6Q76qH2TbIBqPhXL3.jpg",
+  "backdrop_path": "/iYOEONglnxIsykyOGfzyc01fyg4.jpg",
+  "budget": 13000000,
+  "revenue": 97837138,
+  "vote_average": 6.861,
+  "vote_count": 4068,
+  "imdb_id": "tt0183649",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "30 Aug 2002",
+  "runtime": "102 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Neil LaBute",
+  "writer": "A.S. Byatt, David Henry Hwang, Laura Jones",
+  "actors": "Gwyneth Paltrow, Aaron Eckhart, Jeremy Northam",
+  "plot": "Roland Michell is an American scholar trying to make it in the difficult world of British Academia. He has yet to break out from under his mentor's shadow until he finds a pair of love letters that once belonged to one of his idols, a famous Victorian poet. Michell, after some sleuthing, narrows down the suspects to a woman not his wife, another well known Victorian poet. Roland enlists the aid of a Dr. Maud Bailey, an expert on the life of the woman in question. Together they piece together the story of a forbidden love affair, and discover one of their own. They also find themselves in a battle to hold on to their discovery before it falls into the hands of their rival, Fergus Wolfe.",
+  "language": "English, French",
+  "country": "United Kingdom, United States",
+  "metascore": "52",
+  "imdb_rating": "6.3",
+  "imdb_votes": "13,788",
+  "box_office": "$10,113,733",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Possession"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Possession/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0256276/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0256276/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/30072"
+  }
+}

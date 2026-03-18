@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 2997,
+  "title": "The Lost World",
+  "original_title": "The Lost World",
+  "release_date": "1998-10-13",
+  "runtime": 97,
+  "tagline": "The Original Adventure To A World Like No Other",
+  "overview": "A scientist discovers dinosaurs on a remote plateau in Mongolia.",
+  "genres": [
+    "TV Movie",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Trimark Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bob Keen"
+  ],
+  "writers": [
+    {
+      "name": "Jean LaFleur",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Léopold St-Pierre",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Murray Shostak",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny Rossner",
+      "job": "Producer"
+    },
+    {
+      "name": "Omar Kaczmarczyk",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry Barnholtz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Landis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patrick Bergin",
+      "character": "Challenger",
+      "order": 0
+    },
+    {
+      "name": "Jayne Heitmeyer",
+      "character": "Amanda White",
+      "order": 1
+    },
+    {
+      "name": "Julian Casey",
+      "character": "Malone",
+      "order": 2
+    },
+    {
+      "name": "David Nerman",
+      "character": "John Roxton",
+      "order": 3
+    },
+    {
+      "name": "Michael Sinelnikoff",
+      "character": "Summerlee",
+      "order": 4
+    },
+    {
+      "name": "Gregoriane Minot Payeur",
+      "character": "Djena",
+      "order": 5
+    },
+    {
+      "name": "Jack Langedijk",
+      "character": "Maple White",
+      "order": 6
+    },
+    {
+      "name": "Russell Yuen",
+      "character": "Azbek",
+      "order": 7
+    },
+    {
+      "name": "James Bradford",
+      "character": "Lord Thomas",
+      "order": 8
+    },
+    {
+      "name": "Jacques Lessard",
+      "character": "Oscar Perreault",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pTOoIVMCEMLgnhotdD1gGdhyPO2.jpg",
+  "backdrop_path": "/tJXDQyjsvN7AES2qXh7OaSXOvWU.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.619,
+  "vote_count": 21,
+  "imdb_id": "tt0138581",
+  "certifications": [
+    {
+      "country": "SK",
+      "rating": "15"
+    }
+  ],
+  "status": "Released"
+}

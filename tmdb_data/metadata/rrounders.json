@@ -1,0 +1,205 @@
+{
+  "tmdb_id": 10220,
+  "title": "Rounders",
+  "original_title": "Rounders",
+  "release_date": "1998-09-11",
+  "runtime": 121,
+  "tagline": "Trust everyone... But always cut the cards.",
+  "overview": "Poker addict Mike McDermott knows the game inside out, but loses his money one night in a game to Russian-American gangster Teddy KGB. Promising his partner Jo he'll give up, he meets up with best friend Lester 'Worm' Murphy, just out of prison and owing lots of money to the wrong kind of people. McDermott becomes his co-guarantor and now there's only one way to raise the money, the pair have to get back into the game.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Russian",
+    "English",
+    "Hebrew"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Spanky Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Dahl"
+  ],
+  "writers": [
+    {
+      "name": "David Levien",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian Koppelman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ted Demme",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Stillerman",
+      "job": "Producer"
+    },
+    {
+      "name": "Bobby Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kerry Orent",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Mike McDermott",
+      "order": 0
+    },
+    {
+      "name": "Edward Norton",
+      "character": "Lester 'Worm' Murphy",
+      "order": 1
+    },
+    {
+      "name": "John Turturro",
+      "character": "Joey Knish",
+      "order": 2
+    },
+    {
+      "name": "Gretchen Mol",
+      "character": "Jo",
+      "order": 3
+    },
+    {
+      "name": "John Malkovich",
+      "character": "Teddy KGB",
+      "order": 4
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Petra",
+      "order": 5
+    },
+    {
+      "name": "Martin Landau",
+      "character": "Abe Petrovsky",
+      "order": 6
+    },
+    {
+      "name": "Michael Rispoli",
+      "character": "Grama",
+      "order": 7
+    },
+    {
+      "name": "Goran Višnjić",
+      "character": "Maurice",
+      "order": 8
+    },
+    {
+      "name": "Mal Z. Lawrence",
+      "character": "Irving",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+  "backdrop_path": "/tgRQsrjBKdic7llxhI7pqLJb8kS.jpg",
+  "budget": 12000000,
+  "revenue": 22912409,
+  "vote_average": 7.011,
+  "vote_count": 1881,
+  "imdb_id": "tt0128442",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "NC-16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

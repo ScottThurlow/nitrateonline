@@ -1,0 +1,35 @@
+{
+  "year": "2001",
+  "awards": "8 nominations total",
+  "rated": "R",
+  "released": "31 Oct 2001",
+  "runtime": "98 min",
+  "genre": "Fantasy, Horror, Mystery",
+  "director": "Stuart Gordon",
+  "writer": "H.P. Lovecraft, Dennis Paoli",
+  "actors": "Ezra Godden, Francisco Rabal, Raquel Meroño",
+  "plot": "Based on a short story by H.P. Lovecraft, the undisputed master of the macabre, Dagon tells the story of Paul Marsh, a young man who discovers that the truth will not set him free instead it condemns him to a waking nightmare of unrelenting horror. A boating accident off the coast of Spain sends Paul and his girlfriend Barbara to the decrepit fishing village of Imboca looking for help. As night falls, people start to disappear and things not quite human start to appear. Paul finds himself pursued by the entire town. Running for his life, he uncovers Imboca's dark secret: that they pray to Dagon, a monstrous god of the sea. And Dagon's unholy offspring are freakish half-human creatures on the loose in Imboca...",
+  "language": "English, Galician, Spanish",
+  "country": "Spain",
+  "metascore": "N/A",
+  "imdb_rating": "6.2",
+  "imdb_votes": "22,379",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=Dagon"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0264508/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0264508/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10836"
+  }
+}

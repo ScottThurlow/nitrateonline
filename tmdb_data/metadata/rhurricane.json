@@ -1,0 +1,202 @@
+{
+  "tmdb_id": 10400,
+  "title": "The Hurricane",
+  "original_title": "The Hurricane",
+  "release_date": "1999-09-17",
+  "runtime": 146,
+  "tagline": "His greatest fight was for justice.",
+  "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Rudy Langlois Productions",
+      "country": ""
+    },
+    {
+      "name": "Azoff Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Norman Jewison"
+  ],
+  "writers": [
+    {
+      "name": "Armyan Bernstein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rubin 'Hurricane' Carter",
+      "job": "Novel"
+    },
+    {
+      "name": "Dan Gordon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Terry Swinton",
+      "job": "Book"
+    },
+    {
+      "name": "Sam Chaiton",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Norman Jewison",
+      "job": "Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Producer"
+    },
+    {
+      "name": "John Ketcham",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Teitler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Abraham",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Irving Azoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rudy Langlais",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Thomas A. Bliss",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denzel Washington",
+      "character": "Rubin \"Hurricane\" Carter",
+      "order": 0
+    },
+    {
+      "name": "Vicellous Shannon",
+      "character": "Lesra Martin",
+      "order": 1
+    },
+    {
+      "name": "Deborah Kara Unger",
+      "character": "Lisa Peters",
+      "order": 2
+    },
+    {
+      "name": "Liev Schreiber",
+      "character": "Sam Chaiton",
+      "order": 3
+    },
+    {
+      "name": "John Hannah",
+      "character": "Terry",
+      "order": 4
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "Della Pesca",
+      "order": 5
+    },
+    {
+      "name": "Debbi Morgan",
+      "character": "Mae Thelma",
+      "order": 6
+    },
+    {
+      "name": "Clancy Brown",
+      "character": "Lt. Jimmy Williams",
+      "order": 7
+    },
+    {
+      "name": "David Paymer",
+      "character": "Myron Bedlock",
+      "order": 8
+    },
+    {
+      "name": "Harris Yulin",
+      "character": "Leon Friedman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zhnxjsNnnpsBMF5V1H7Pzkec45Y.jpg",
+  "backdrop_path": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+  "budget": 50000000,
+  "revenue": 73956241,
+  "vote_average": 7.429,
+  "vote_count": 1497,
+  "imdb_id": "tt0174856",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

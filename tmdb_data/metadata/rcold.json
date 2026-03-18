@@ -1,0 +1,201 @@
+{
+  "tmdb_id": 2289,
+  "title": "Cold Mountain",
+  "original_title": "Cold Mountain",
+  "release_date": "2003-12-24",
+  "runtime": 154,
+  "tagline": "Find your way home.",
+  "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+  "genres": [
+    "War",
+    "History",
+    "Adventure",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Mirage Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Castel Film",
+      "country": "RO"
+    },
+    {
+      "name": "Cattleya",
+      "country": "IT"
+    },
+    {
+      "name": "Bona Fide Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Anthony Minghella"
+  ],
+  "writers": [
+    {
+      "name": "Anthony Minghella",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Charles Frazier",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "William Horberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Sydney Pollack",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jude Law",
+      "character": "Inman",
+      "order": 0
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Ada Monroe",
+      "order": 1
+    },
+    {
+      "name": "Renée Zellweger",
+      "character": "Ruby Thewes",
+      "order": 2
+    },
+    {
+      "name": "Eileen Atkins",
+      "character": "Maddy",
+      "order": 3
+    },
+    {
+      "name": "Brendan Gleeson",
+      "character": "Stobrod Thewes",
+      "order": 4
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Reverend Veasey",
+      "order": 5
+    },
+    {
+      "name": "Natalie Portman",
+      "character": "Sara",
+      "order": 6
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Junior",
+      "order": 7
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "Reverend Monroe",
+      "order": 8
+    },
+    {
+      "name": "Ray Winstone",
+      "character": "Teague",
+      "order": 9
+    }
+  ],
+  "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+  "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+  "budget": 79000000,
+  "revenue": 173013509,
+  "vote_average": 6.9,
+  "vote_count": 1940,
+  "imdb_id": "tt0159365",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

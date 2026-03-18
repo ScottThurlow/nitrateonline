@@ -1,0 +1,35 @@
+{
+  "year": "2002",
+  "awards": "1 nomination",
+  "rated": "Not Rated",
+  "released": "12 Oct 2003",
+  "runtime": "89 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Brad Fraser",
+  "writer": "Brad Fraser",
+  "actors": "Troy Ruptash, Vince Corazza, Lynda Boyd",
+  "plot": "David is a painter with painter's block who takes a job as a waiter to get some inspiration. He falls for hunky diner owner Matt, who falls just as hard back. But Violet, Matt's wife is a complicating factor! Toss in David's best friends a dying pre-op transsexual best friend and an aging, bitter, fag-hag journalist. Will David break up Matt's marriage? Will Violet learn the truth? Will David or Matt learn the true meaning of love?",
+  "language": "English",
+  "country": "Canada",
+  "metascore": "N/A",
+  "imdb_rating": "6.2",
+  "imdb_votes": "640",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "20%",
+      "link": "https://www.rottentomatoes.com/search?search=Leaving+Metropolis"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295526/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295526/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/123864"
+  }
+}

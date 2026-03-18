@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 5 nominations",
+  "rated": "Unrated",
+  "released": "22 Jan 2003",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama",
+  "director": "Jia Zhang-ke",
+  "writer": "Jia Zhang-ke",
+  "actors": "Wei Wei Zhao, Qiong Wu, Tao Zhao",
+  "plot": "Two unemployed slackers, neither with job prospects nor motivation, hang out in sheltered town in China trying to make sense of their aimless and uncertain futures. As youths, they struggle for individual freedom and the social responsibility that comes along with it.",
+  "language": "Mandarin, English",
+  "country": "China, Japan, South Korea, France",
+  "metascore": "61",
+  "imdb_rating": "6.8",
+  "imdb_votes": "2,616",
+  "box_office": "$11,254",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=Unknown+Pleasures"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Unknown+Pleasures/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0318025/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0318025/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/80243"
+  }
+}

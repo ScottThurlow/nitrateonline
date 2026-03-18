@@ -1,0 +1,138 @@
+{
+  "tmdb_id": 36210,
+  "title": "Not One Less",
+  "original_title": "一个都不能少",
+  "release_date": "1999-10-30",
+  "runtime": 106,
+  "tagline": "In her village, she was the teacher. In the city, she discovered how much she had to learn.",
+  "overview": "Set in the People's Republic of China during the 1990s, the film centers on a 13-year-old substitute teacher, Wei Minzhi, in the Chinese countryside. Called in to substitute for a village teacher for one month, Wei is told not to lose any students.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Guangxi Film Studio",
+      "country": "CN"
+    },
+    {
+      "name": "Bejing New Picture Distribution Company",
+      "country": ""
+    },
+    {
+      "name": "Film Productions Asia",
+      "country": ""
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "CP Film Production Asia",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Zhang Yimou"
+  ],
+  "writers": [
+    {
+      "name": "Xiangsheng Shi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Zhang Weiping",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Zhang Weiping",
+      "job": "Producer"
+    },
+    {
+      "name": "Yu Zhao",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Wei Minzhi",
+      "character": "Wei Minzhi",
+      "order": 0
+    },
+    {
+      "name": "Zhang Huike",
+      "character": "Zhang Huike",
+      "order": 1
+    },
+    {
+      "name": "Tian Zhenda",
+      "character": "Village Chief",
+      "order": 2
+    },
+    {
+      "name": "Gao Enman",
+      "character": "Teacher Gao",
+      "order": 3
+    },
+    {
+      "name": "Sun Zhimei",
+      "character": "Sun Zhimei",
+      "order": 4
+    },
+    {
+      "name": "Feng Yuying",
+      "character": "TV Receptionist",
+      "order": 5
+    },
+    {
+      "name": "Li Fanfan",
+      "character": "TV Host",
+      "order": 6
+    },
+    {
+      "name": "Zhang Yichang",
+      "character": "Mr. Zhang",
+      "order": 7
+    },
+    {
+      "name": "Zhanqing Xu",
+      "character": "Brick Factory Owner",
+      "order": 8
+    },
+    {
+      "name": "Liu Hanzhi",
+      "character": "Zhang Huike's Mother",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eERKaWCIRh3a8rPjUu1z34OYZD8.jpg",
+  "backdrop_path": "/3YtzK8eWLjJ23xxXqkqxtaSnKYE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.5,
+  "vote_count": 189,
+  "imdb_id": "tt0209189",
+  "certifications": [
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

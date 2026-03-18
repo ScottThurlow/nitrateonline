@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 21972,
+  "title": "Like Mike",
+  "original_title": "Like Mike",
+  "release_date": "2002-07-03",
+  "runtime": 99,
+  "tagline": "Think like Mike, achieve like Mike, be like Mike.",
+  "overview": "Calvin and his friends, who all live in an orphanage, find old shoes with the faded letters MJ connected to a powerline. One stormy night, they go to get the shoes when Calvin and the shoes are struck by lightning. Calvin now has unbelievable basketball powers and has the chance to play for the NBA.",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Heller Highwater Productions",
+      "country": "US"
+    },
+    {
+      "name": "NBA Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Josephson Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Like Mike Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Schultz"
+  ],
+  "writers": [
+    {
+      "name": "Michael Elliot",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jordan Moffet",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Heller",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Josephson",
+      "job": "Producer"
+    },
+    {
+      "name": "Gregg Winik",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Silver",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Shad Moss",
+      "character": "Calvin Cambridge",
+      "order": 0
+    },
+    {
+      "name": "Morris Chestnut",
+      "character": "Tracey Reynolds",
+      "order": 1
+    },
+    {
+      "name": "Jonathan Lipnicki",
+      "character": "Murph",
+      "order": 2
+    },
+    {
+      "name": "Anne Meara",
+      "character": "Sister Theresa",
+      "order": 3
+    },
+    {
+      "name": "Jesse Plemons",
+      "character": "Ox",
+      "order": 4
+    },
+    {
+      "name": "Brenda Song",
+      "character": "Reg Stevens",
+      "order": 5
+    },
+    {
+      "name": "Julius Ritter",
+      "character": "Marlon",
+      "order": 6
+    },
+    {
+      "name": "Crispin Glover",
+      "character": "Stan Bittleman",
+      "order": 7
+    },
+    {
+      "name": "Robert Forster",
+      "character": "Coach Wagner",
+      "order": 8
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Frank Bernard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/egRPomqjD4g2Ojwc7WKaHoylys5.jpg",
+  "backdrop_path": "/lh0uM88KjXsmRzWXUGAGWJ0AOJR.jpg",
+  "budget": 30000000,
+  "revenue": 62300000,
+  "vote_average": 6.1,
+  "vote_count": 562,
+  "imdb_id": "tt0308506",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

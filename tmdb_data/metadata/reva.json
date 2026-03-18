@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 26454,
+  "title": "Deliver Us from Eva",
+  "original_title": "Deliver Us from Eva",
+  "release_date": "2003-02-07",
+  "runtime": 105,
+  "tagline": "Lead us into temptation but...",
+  "overview": "Eva Dandridge has been in charge of her younger sisters ever since their parents died many years ago. She is a very uptight young woman who constantly meddles in the affairs of her sisters and their significant others. Her brothers-in-law, who are tired of Eva interfering in their lives, decide to set her up with someone so she can leave them alone. They end up paying Ray, the local \"playboy,\" $5,000 to date her. The plan goes by smoothly, but trouble comes when Ray actually falls in love with Eva.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Focus Features",
+      "country": "US"
+    },
+    {
+      "name": "Baltimore Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Spring Creek Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Hardwick"
+  ],
+  "writers": [
+    {
+      "name": "James Iver Mattson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "B.E. Brauner",
+      "job": "Story"
+    },
+    {
+      "name": "James Iver Mattson",
+      "job": "Story"
+    },
+    {
+      "name": "B.E. Brauner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gary Hardwick",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paula Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry Levinson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Len Amato",
+      "job": "Producer"
+    },
+    {
+      "name": "Paddy Cullen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "LL Cool J",
+      "character": "Ray Adams",
+      "order": 0
+    },
+    {
+      "name": "Gabrielle Union",
+      "character": "Evangeline 'Eva' Dandrige",
+      "order": 1
+    },
+    {
+      "name": "Essence Atkins",
+      "character": "Kareenah Dandridge",
+      "order": 2
+    },
+    {
+      "name": "Robinne Lee",
+      "character": "Bethany Dandridge",
+      "order": 3
+    },
+    {
+      "name": "Meagan Good",
+      "character": "Jacqui Dandrige",
+      "order": 4
+    },
+    {
+      "name": "Duane Martin",
+      "character": "Michael",
+      "order": 5
+    },
+    {
+      "name": "Mel Jackson",
+      "character": "Timothy",
+      "order": 6
+    },
+    {
+      "name": "Dartanyan Edmonds",
+      "character": "Darrell",
+      "order": 7
+    },
+    {
+      "name": "Kym Whitley",
+      "character": "Ormandy",
+      "order": 8
+    },
+    {
+      "name": "Royale Watkins",
+      "character": "Telly",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mkCC7wOJ0C1gfEt44ca25x8xTdL.jpg",
+  "backdrop_path": "/lv9RXjNmzPBiVIzOrXSExIesdSY.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.352,
+  "vote_count": 88,
+  "imdb_id": "tt0301181",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

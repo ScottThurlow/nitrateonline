@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 33644,
+  "title": "How Stella Got Her Groove Back",
+  "original_title": "How Stella Got Her Groove Back",
+  "release_date": "1998-08-14",
+  "runtime": 124,
+  "tagline": "Sometimes you have to break the rules to free your heart.",
+  "overview": "Through good times and bad, Stella and Delilah have always had each other. Now, Stella's so busy building a life that she's forgotten how to really live. But Delilah is about to change all that. What starts as a quick trip to Jamaica, ends as an exhilarating voyage of self discovery as Stella learns to open her heart and find love – even if it's with a man 20 years her junior.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Rodney Sullivan"
+  ],
+  "writers": [
+    {
+      "name": "Terry McMillan",
+      "job": "Writer"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Deborah Schindler",
+      "job": "Producer"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terry McMillan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jennifer Ogden",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Angela Bassett",
+      "character": "Stella Payne",
+      "order": 0
+    },
+    {
+      "name": "Taye Diggs",
+      "character": "Winston Shakespeare",
+      "order": 1
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "character": "Delilah Abraham",
+      "order": 2
+    },
+    {
+      "name": "Regina King",
+      "character": "Vanessa",
+      "order": 3
+    },
+    {
+      "name": "Suzzanne Douglas",
+      "character": "Angela",
+      "order": 4
+    },
+    {
+      "name": "Michael J. Pagan",
+      "character": "Quincy Payne",
+      "order": 5
+    },
+    {
+      "name": "Sicily Johnson",
+      "character": "Chantel",
+      "order": 6
+    },
+    {
+      "name": "Richard Lawson",
+      "character": "Jack",
+      "order": 7
+    },
+    {
+      "name": "Barry Shabaka Henley",
+      "character": "Buddy",
+      "order": 8
+    },
+    {
+      "name": "Lee Weaver",
+      "character": "Nate",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ygmuaJDLYxWJo8eNhq0A63hagrQ.jpg",
+  "backdrop_path": "/sW9lF5r5riUk6X1Dgy6xsnVaMSP.jpg",
+  "budget": 20000000,
+  "revenue": 37672350,
+  "vote_average": 5.78,
+  "vote_count": 123,
+  "imdb_id": "tt0120703",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

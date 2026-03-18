@@ -1,0 +1,156 @@
+{
+  "tmdb_id": 20649,
+  "title": "Clockers",
+  "original_title": "Clockers",
+  "release_date": "1995-09-15",
+  "runtime": 128,
+  "tagline": "When there’s murder on the streets, everyone is a suspect.",
+  "overview": "Strike is a young city drug pusher under the tutelage of drug lord Rodney Little. When a night manager at a fast-food restaurant is found with four bullets in his body, Strike’s older brother turns himself in as the killer. Detective Rocco Klein doesn’t buy the story, however, setting out to find the truth, and it seems that all the fingers point toward Strike & Rodney.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "40 Acres and a Mule Filmworks",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Spike Lee"
+  ],
+  "writers": [
+    {
+      "name": "Richard Price",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Spike Lee",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Richard Price",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Spike Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "Martin Scorsese",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Kilik",
+      "job": "Producer"
+    },
+    {
+      "name": "Monty Ross",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rosalie Swedlin",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Harvey Keitel",
+      "character": "Det. Rocco Klein",
+      "order": 0
+    },
+    {
+      "name": "John Turturro",
+      "character": "Det. Larry Mazilli",
+      "order": 1
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Rodney Little",
+      "order": 2
+    },
+    {
+      "name": "Mekhi Phifer",
+      "character": "Ronald 'Strike' Dunham",
+      "order": 3
+    },
+    {
+      "name": "Isaiah Washington",
+      "character": "Victor Dunham",
+      "order": 4
+    },
+    {
+      "name": "Keith David",
+      "character": "André the Giant",
+      "order": 5
+    },
+    {
+      "name": "Peewee Love",
+      "character": "Tyrone 'Shorty' Jeeter",
+      "order": 6
+    },
+    {
+      "name": "Regina Taylor",
+      "character": "Iris Jeeter",
+      "order": 7
+    },
+    {
+      "name": "Thomas Jefferson Byrd",
+      "character": "Errol Barnes",
+      "order": 8
+    },
+    {
+      "name": "Sticky Fingaz",
+      "character": "Scientific",
+      "order": 9
+    }
+  ],
+  "poster_path": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+  "backdrop_path": "/xhYs4yaBnDNM3utncVzLmFVpAmK.jpg",
+  "budget": 25000000,
+  "revenue": 13100000,
+  "vote_average": 6.704,
+  "vote_count": 348,
+  "imdb_id": "tt0112688",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

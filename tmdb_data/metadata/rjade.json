@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 2779,
+  "title": "The Curse of the Jade Scorpion",
+  "original_title": "The Curse of the Jade Scorpion",
+  "release_date": "2001-08-10",
+  "runtime": 103,
+  "tagline": "Love stings",
+  "overview": "CW Briggs is a veteran insurance investigator, with many successes. Betty Ann Fitzgerald is a new employee in the company he works for, with the task of reorganizing the office. They don't like each other - or at least that's what they think. During a night out with the rest of the office employees, they go to watch Voltan, a magician who secretly hypnotizes both of them.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "VCL Communications",
+      "country": "DE"
+    },
+    {
+      "name": "Gravier Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Woody Allen"
+  ],
+  "writers": [
+    {
+      "name": "Woody Allen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Letty Aronson",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Tenenbaum",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dan Aykroyd",
+      "character": "Chris Magruder",
+      "order": 0
+    },
+    {
+      "name": "Helen Hunt",
+      "character": "Betty Ann Fitzgerald",
+      "order": 1
+    },
+    {
+      "name": "Woody Allen",
+      "character": "CW Briggs",
+      "order": 2
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Laura Kensington",
+      "order": 3
+    },
+    {
+      "name": "David Ogden Stiers",
+      "character": "Voltan",
+      "order": 4
+    },
+    {
+      "name": "Brian Markinson",
+      "character": "Al",
+      "order": 5
+    },
+    {
+      "name": "John Tormey",
+      "character": "Sam",
+      "order": 6
+    },
+    {
+      "name": "John Schuck",
+      "character": "Mize",
+      "order": 7
+    },
+    {
+      "name": "Elizabeth Berkley",
+      "character": "Jill",
+      "order": 8
+    },
+    {
+      "name": "Kaili Vernoff",
+      "character": "Rosie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mfvWefUp09oaLLxb8KhsvUYi7mX.jpg",
+  "backdrop_path": "/vq4vYFV0TWCCovAFLcdZLCo4Qud.jpg",
+  "budget": 33000000,
+  "revenue": 18914307,
+  "vote_average": 6.599,
+  "vote_count": 821,
+  "imdb_id": "tt0256524",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

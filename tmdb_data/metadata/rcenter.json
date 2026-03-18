@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 32590,
+  "title": "The Center of the World",
+  "original_title": "The Center of the World",
+  "release_date": "2001-04-19",
+  "runtime": 88,
+  "tagline": "",
+  "overview": "A couple checks into a suite in Las Vegas. In flashbacks we see that he's a computer whiz on the verge of becoming a dot.com millionaire, she's a lap dancer at a club. He's depressed, withdrawing from work, missing meetings with investors. He wants a connection, so he offers her $10,000 to spend three nights with him in Vegas, and she accepts with conditions. Is mutual attraction stirring?",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Redeemable Features",
+      "country": "US"
+    },
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Wayne Wang"
+  ],
+  "writers": [
+    {
+      "name": "Wayne Wang",
+      "job": "Story"
+    },
+    {
+      "name": "Miranda July",
+      "job": "Story"
+    },
+    {
+      "name": "Paul Auster",
+      "job": "Story"
+    },
+    {
+      "name": "Siri Hustvedt",
+      "job": "Story"
+    },
+    {
+      "name": "Ellen Benjamin Wong",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wayne Wang",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Newman",
+      "job": "Producer"
+    },
+    {
+      "name": "Greg Johnson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ira Deutchman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Molly Parker",
+      "character": "Florence",
+      "order": 0
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "character": "Richard Longman",
+      "order": 1
+    },
+    {
+      "name": "Carla Gugino",
+      "character": "Jerri",
+      "order": 2
+    },
+    {
+      "name": "Shane Edelman",
+      "character": "Porter",
+      "order": 3
+    },
+    {
+      "name": "Karry Brown",
+      "character": "Lap Dancer",
+      "order": 4
+    },
+    {
+      "name": "Alisha Klass",
+      "character": "Pandora Stripper",
+      "order": 5
+    },
+    {
+      "name": "Mel Gorham",
+      "character": "Roxanne",
+      "order": 6
+    },
+    {
+      "name": "Lisa Newlan",
+      "character": "Porn Site Woman",
+      "order": 7
+    },
+    {
+      "name": "Jason McCabe",
+      "character": "Pete",
+      "order": 8
+    },
+    {
+      "name": "Travis Miljan",
+      "character": "Dog Owner",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lmcabkCsSQ08yll4dIVclWc2RSX.jpg",
+  "backdrop_path": "/pSha2CdgzmhUpMWrlksAjoYqGde.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.036,
+  "vote_count": 83,
+  "imdb_id": "tt0240402",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    }
+  ],
+  "status": "Released"
+}

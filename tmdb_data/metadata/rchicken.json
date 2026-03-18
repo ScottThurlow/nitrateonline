@@ -1,0 +1,277 @@
+{
+  "tmdb_id": 7443,
+  "title": "Chicken Run",
+  "original_title": "Chicken Run",
+  "release_date": "2000-06-23",
+  "runtime": 84,
+  "tagline": "There's nothing more determined than poultry with a plan.",
+  "overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Aardman",
+      "country": "GB"
+    },
+    {
+      "name": "DreamWorks Animation",
+      "country": "US"
+    },
+    {
+      "name": "Pathé",
+      "country": "FR"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Lord",
+    "Nick Park"
+  ],
+  "writers": [
+    {
+      "name": "Nick Park",
+      "job": "Story"
+    },
+    {
+      "name": "Peter Lord",
+      "job": "Story"
+    },
+    {
+      "name": "Karey Kirkpatrick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Randy Cartwright",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Vicky Jenson",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Robert Koo",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Kelly Asbury",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Brenda Chapman",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Serguei Kouchnerov",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Jurgen Gross",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Simon Wells",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Catherine Yuh Rader",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Damian Neary",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nick Park",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Lord",
+      "job": "Producer"
+    },
+    {
+      "name": "David Sproxton",
+      "job": "Producer"
+    },
+    {
+      "name": "Jake Eberts",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jacky Priddle",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Rose",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Sawalha",
+      "character": "Ginger (voice)",
+      "order": 0
+    },
+    {
+      "name": "Mel Gibson",
+      "character": "Rocky (voice)",
+      "order": 1
+    },
+    {
+      "name": "Imelda Staunton",
+      "character": "Bunty (voice)",
+      "order": 2
+    },
+    {
+      "name": "Jane Horrocks",
+      "character": "Babs (voice)",
+      "order": 3
+    },
+    {
+      "name": "Lynn Ferguson",
+      "character": "Mac (voice)",
+      "order": 4
+    },
+    {
+      "name": "Miranda Richardson",
+      "character": "Mrs. Tweedy (voice)",
+      "order": 5
+    },
+    {
+      "name": "Tony Haygarth",
+      "character": "Mr. Tweedy (voice)",
+      "order": 6
+    },
+    {
+      "name": "Benjamin Whitrow",
+      "character": "Fowler (voice)",
+      "order": 7
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Nick (voice)",
+      "order": 8
+    },
+    {
+      "name": "Phil Daniels",
+      "character": "Fetcher (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+  "backdrop_path": "/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+  "budget": 45000000,
+  "revenue": 224834564,
+  "vote_average": 6.836,
+  "vote_count": 5351,
+  "imdb_id": "tt0120630",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "10"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7i"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

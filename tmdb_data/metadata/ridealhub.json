@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 24137,
+  "title": "An Ideal Husband",
+  "original_title": "An Ideal Husband",
+  "release_date": "1999-01-14",
+  "runtime": 97,
+  "tagline": "He just doesn't know it yet.",
+  "overview": "Sir Robert Chiltern is a successful government minister, well-off and with a loving wife. All this is threatened when Mrs Cheveley appears in London with damning evidence of a past misdeed. Sir Robert turns for help to his friend Lord Goring, an apparently idle philanderer and the despair of his father. Goring knows the lady of old, and, for him, takes the whole thing pretty seriously.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fragile Films",
+      "country": "GB"
+    },
+    {
+      "name": "Icon Productions",
+      "country": "US"
+    },
+    {
+      "name": "Pathé",
+      "country": "FR"
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Oliver Parker"
+  ],
+  "writers": [
+    {
+      "name": "Oliver Parker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Oscar Wilde",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ralph Kamp",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Susan B. Landau",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrea Calderwood",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Uri Fruchtmann",
+      "job": "Producer"
+    },
+    {
+      "name": "Barnaby Thompson",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Davey",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cate Blanchett",
+      "character": "Lady Gertrude Chiltern",
+      "order": 0
+    },
+    {
+      "name": "Minnie Driver",
+      "character": "Miss Mabel Chiltern",
+      "order": 1
+    },
+    {
+      "name": "Rupert Everett",
+      "character": "Lord Arthur Goring",
+      "order": 2
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Mrs. Laura Cheveley",
+      "order": 3
+    },
+    {
+      "name": "Jeremy Northam",
+      "character": "Sir Robert Chiltern",
+      "order": 4
+    },
+    {
+      "name": "Peter Vaughan",
+      "character": "Phipps",
+      "order": 5
+    },
+    {
+      "name": "Ben Pullen",
+      "character": "Tommy Trafford",
+      "order": 6
+    },
+    {
+      "name": "Marsha Fitzalan",
+      "character": "Countess",
+      "order": 7
+    },
+    {
+      "name": "Lindsay Duncan",
+      "character": "Lady Markby",
+      "order": 8
+    },
+    {
+      "name": "John Wood",
+      "character": "Lord Caversham",
+      "order": 9
+    }
+  ],
+  "poster_path": "/Aac3Kw7qAszSotkTNle4bvu3uuH.jpg",
+  "backdrop_path": "/ttAOV3BdJoPwYPExHw4dW4TN72P.jpg",
+  "budget": 14000000,
+  "revenue": 18500000,
+  "vote_average": 6.461,
+  "vote_count": 219,
+  "imdb_id": "tt0122541",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

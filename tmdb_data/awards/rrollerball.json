@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "5 wins & 3 nominations",
+  "rated": "PG-13",
+  "released": "08 Feb 2002",
+  "runtime": "98 min",
+  "genre": "Action, Sci-Fi, Sport",
+  "director": "John McTiernan",
+  "writer": "William Harrison, Larry Ferguson, John Pogue",
+  "actors": "Chris Klein, Jean Reno, LL Cool J",
+  "plot": "In this fast action-packed thriller, Jonathan (Chris Klein), Marcus (LL Cool J), and Aurora (Rebecca Romijn) compete in a dangerous, fierce sport called Rollerball. Although, Jonathan and Marcus try to quit, cruel and vindictive promoter Alexi Petrovich (Jean Reno) encourages them to still participate. Petrovich sends his men to attack them while they are on a trip, but Jonathan survives. In the end during a game of Rollberball, Petrovich attempts a public execution of Jonathan, but the question is will Jonathan get revenge.",
+  "language": "English, Russian, French, Arabic, Korean, German, Japanese",
+  "country": "United States, Germany, Canada, Japan",
+  "metascore": "14",
+  "imdb_rating": "3.1",
+  "imdb_votes": "30,030",
+  "box_office": "$18,990,798",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "56%",
+      "link": "https://www.rottentomatoes.com/search?search=Rollerball"
+    },
+    {
+      "source": "Metacritic",
+      "value": "14/100",
+      "link": "https://www.metacritic.com/search/Rollerball/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0246894/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0246894/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11535"
+  }
+}

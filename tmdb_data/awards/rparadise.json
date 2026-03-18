@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "3 wins & 1 nomination total",
+  "rated": "R",
+  "released": "22 Jan 1999",
+  "runtime": "101 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Larry Clark",
+  "writer": "Eddie Little, Christopher Landon, Stephen Chin",
+  "actors": "James Woods, Melanie Griffith, Vincent Kartheiser",
+  "plot": "In the hope of a big score, two junkie couples team up to commit various drug robberies which go disastrously wrong, leading to dissent, violence, and murder.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.5",
+  "imdb_votes": "9,403",
+  "box_office": "$1,036,818",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=Another+Day+in+Paradise"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0127722/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0127722/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/36136"
+  }
+}

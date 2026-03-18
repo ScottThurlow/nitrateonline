@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 9 nominations total",
+  "rated": "R",
+  "released": "10 Jan 2003",
+  "runtime": "105 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Joe Carnahan",
+  "writer": "Joe Carnahan",
+  "actors": "Ray Liotta, Jason Patric, Chi McBride",
+  "plot": "An undercover narc dies, the investigation stalls, so the Detroit P.D. brings back Nick Tellis, fired 18-months ago when a stray bullet hits a pregnant woman. Tellis teams with Henry Oak, a friend of the dead narc and an aggressive cop constantly under the scrutiny of internal affairs. They follow leads, informants turn up dead, Nick's wife is unhappy he's back on the street, Henry's protective of the dead cop's wife. Nick reads and re-reads the case file, broods, watches Oak's heavy-handed style, sometimes joining in. The brass want to close out the case, Nick and Henry stay on it, and bits of evidence point them to an auto body shop. What actually happened; will Nick ever know?",
+  "language": "English, Spanish",
+  "country": "Germany, Canada, United States",
+  "metascore": "70",
+  "imdb_rating": "7.1",
+  "imdb_votes": "44,653",
+  "box_office": "$10,465,659",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Narc"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Narc/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0272207/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0272207/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11022"
+  }
+}

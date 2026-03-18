@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 10383,
+  "title": "Lost Souls",
+  "original_title": "Lost Souls",
+  "release_date": "2000-10-13",
+  "runtime": 97,
+  "tagline": "They've had their 2000 years... now it's our turn.",
+  "overview": "A young woman becomes aware of a conspiracy to enable the Devil to walk the Earth in human form. To defeat the prophesy, she must convince a respected New York crime journalist, who is devoid of faith, that he is in fact the target of the conspiracy.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Avery Pix",
+      "country": "US"
+    },
+    {
+      "name": "Prufrock Pictures",
+      "country": ""
+    },
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Janusz Kamiński"
+  ],
+  "writers": [
+    {
+      "name": "Betsy Stahl",
+      "job": "Story"
+    },
+    {
+      "name": "Pierce Gardner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pierce Gardner",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Meg Ryan",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Donna Langley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nina R. Sadowsky",
+      "job": "Producer"
+    },
+    {
+      "name": "Pierce Gardner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Betsy Stahl",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Winona Ryder",
+      "character": "Maya Larkin",
+      "order": 0
+    },
+    {
+      "name": "Ben Chaplin",
+      "character": "Peter Kelson",
+      "order": 1
+    },
+    {
+      "name": "Sarah Wynter",
+      "character": "Claire Van Owen",
+      "order": 2
+    },
+    {
+      "name": "Anna Gunn",
+      "character": "Sally Prescott",
+      "order": 3
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Father James",
+      "order": 4
+    },
+    {
+      "name": "John Hurt",
+      "character": "Father Lareaux",
+      "order": 5
+    },
+    {
+      "name": "K.K. Dodds",
+      "character": "Deputy",
+      "order": 6
+    },
+    {
+      "name": "Elias Koteas",
+      "character": "John Townsend",
+      "order": 7
+    },
+    {
+      "name": "John Diehl",
+      "character": "Henry Birdson",
+      "order": 8
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Dr. Allen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9DOq3KqGrNbqa3z5M8iDJ2wuaxJ.jpg",
+  "backdrop_path": "/gGTzXQsIeVTLoqihn7fcJk9GFnI.jpg",
+  "budget": 50000000,
+  "revenue": 31355910,
+  "vote_average": 5.0,
+  "vote_count": 197,
+  "imdb_id": "tt0160484",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

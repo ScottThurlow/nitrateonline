@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "19 wins & 3 nominations total",
+  "rated": "PG-13",
+  "released": "12 May 2000",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Roger Christian",
+  "writer": "Corey Mandell, J.D. Shapiro, L. Ron Hubbard",
+  "actors": "John Travolta, Forest Whitaker, Barry Pepper",
+  "plot": "In the year 3000, humanity is no match for the Psychlos, a greedy, manipulative race on a quest for ultimate profit. Led by the seductive and powerful Terl, the Psychlos are stripping Earth of its resources, using the broken remnants of humanity as slaves. What is left of the human race has reverted to a primitive state, believing the invaders to be demons and technology to be evil. After humanity has all but given up any hope of freeing themselves from alien oppression, a young man named Tyler decides to leave his desolate home high in the Rocky Mountains to discover the truth, whereupon he is captured and enslaved. It is then that he decides to fight back, leading his fellow man in one final struggle for freedom.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "9",
+  "imdb_rating": "2.5",
+  "imdb_votes": "85,609",
+  "box_office": "$21,471,685",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "2.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "3%",
+      "link": "https://www.rottentomatoes.com/search?search=Battlefield+Earth"
+    },
+    {
+      "source": "Metacritic",
+      "value": "9/100",
+      "link": "https://www.metacritic.com/search/Battlefield+Earth/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0185183/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0185183/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/5491"
+  }
+}

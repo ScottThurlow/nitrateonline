@@ -1,0 +1,141 @@
+{
+  "tmdb_id": 10388,
+  "title": "The Limey",
+  "original_title": "The Limey",
+  "release_date": "1999-10-08",
+  "runtime": 89,
+  "tagline": "Tell him I'm coming.",
+  "overview": "The Limey follows Wilson, a tough English ex-con who travels to Los Angeles to avenge his daughter's death. Upon arrival, Wilson goes to task battling Valentine and an army of L.A.'s toughest criminals, hoping to find clues and piece together what happened. After surviving a near-death beating, getting thrown from a building and being chased down a dangerous mountain road, the Englishman decides to dole out some bodily harm of his own.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Soderbergh"
+  ],
+  "writers": [
+    {
+      "name": "Lem Dobbs",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Hardy",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Kramer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Terence Stamp",
+      "character": "Wilson",
+      "order": 0
+    },
+    {
+      "name": "Lesley Ann Warren",
+      "character": "Elaine",
+      "order": 1
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Eduardo Roel",
+      "order": 2
+    },
+    {
+      "name": "Barry Newman",
+      "character": "Jim Avery",
+      "order": 3
+    },
+    {
+      "name": "Joe Dallesandro",
+      "character": "Uncle John",
+      "order": 4
+    },
+    {
+      "name": "Nicky Katt",
+      "character": "Stacy the Hitman",
+      "order": 5
+    },
+    {
+      "name": "Peter Fonda",
+      "character": "Terry Valentine",
+      "order": 6
+    },
+    {
+      "name": "Amelia Heinle",
+      "character": "Adhara",
+      "order": 7
+    },
+    {
+      "name": "Melissa George",
+      "character": "Jennifer 'Jenny' Wilson",
+      "order": 8
+    },
+    {
+      "name": "William Lucking",
+      "character": "Warehouse Foreman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/efAnFInZYrenNvBlLIXN2oLYyNc.jpg",
+  "backdrop_path": "/mKm56aTBr34ciZTpTWX6WoPubUY.jpg",
+  "budget": 10000000,
+  "revenue": 3204663,
+  "vote_average": 6.537,
+  "vote_count": 488,
+  "imdb_id": "tt0165854",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

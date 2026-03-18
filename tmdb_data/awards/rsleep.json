@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "23 Mar 2001",
+  "runtime": "88 min",
+  "genre": "Comedy, Mystery",
+  "director": "David Maquiling",
+  "writer": "David Maquiling",
+  "actors": "Marc Palmieri, Pasquale Gaeta, Nicol Zanzarella",
+  "plot": "While riding the bus one day, night watchman Jack Crawford gets distracted by a beautiful girl and has his gun stolen. To get it back, he enlists the help of local wise guy, Eddie, and their search reveals the bizarre characters lurking in the strange underworld of a sleepy New Jersey suburb.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "6.4",
+  "imdb_votes": "138",
+  "box_office": "$37,831",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=Too+Much+Sleep"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Too+Much+Sleep/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120352/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120352/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/125093"
+  }
+}

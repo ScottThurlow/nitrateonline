@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 5 nominations total",
+  "rated": "R",
+  "released": "04 Jun 1999",
+  "runtime": "126 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "John Sayles",
+  "writer": "John Sayles",
+  "actors": "David Strathairn, Mary Elizabeth Mastrantonio, Vanessa Martinez",
+  "plot": "Limbo tells the story of people trying to reinvent themselves in the Southeastern islands of Alaska. The story revolves around Joe Gastineau, a fisherman traumatised by an accident at sea years before, singer Donna de Angelo and her disaffected daughter Noelle who come into Joe's life. When Joe's fast-talking half-brother Bobby returns to town and asks Joe for a favor, the lives of the characters are changed forever.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "68",
+  "imdb_rating": "7.0",
+  "imdb_votes": "6,522",
+  "box_office": "$2,160,710",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Limbo"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Limbo/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0164085/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0164085/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/62676"
+  }
+}

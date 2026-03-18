@@ -1,0 +1,124 @@
+{
+  "tmdb_id": 45602,
+  "title": "Disappearing Acts",
+  "original_title": "Disappearing Acts",
+  "release_date": "2000-12-09",
+  "runtime": 115,
+  "tagline": "Real love. Real life.",
+  "overview": "A struggling construction worker and an aspiring musician find themselves falling in love.",
+  "genres": [
+    "TV Movie",
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Amen Ra Films",
+      "country": "US"
+    },
+    {
+      "name": "HBO",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gina Prince-Bythewood"
+  ],
+  "writers": [
+    {
+      "name": "Lisa Jones",
+      "job": "Writer"
+    },
+    {
+      "name": "Terry McMillan",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lydia Dean Pilcher",
+      "job": "Producer"
+    },
+    {
+      "name": "Kimiko Fox",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terry McMillan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wesley Snipes",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sanaa Lathan",
+      "character": "Zora Banks",
+      "order": 0
+    },
+    {
+      "name": "Wesley Snipes",
+      "character": "Franklin Swift",
+      "order": 1
+    },
+    {
+      "name": "Michael Imperioli",
+      "character": "Vinney",
+      "order": 2
+    },
+    {
+      "name": "Laz Alonso",
+      "character": "Moving Man",
+      "order": 3
+    },
+    {
+      "name": "Clark Johnson",
+      "character": "Jimmy",
+      "order": 4
+    },
+    {
+      "name": "Regina Hall",
+      "character": "Portia",
+      "order": 5
+    },
+    {
+      "name": "Lisa Arrindell",
+      "character": "Claudette",
+      "order": 6
+    },
+    {
+      "name": "Q-Tip",
+      "character": "Reggie Baptiste",
+      "order": 7
+    },
+    {
+      "name": "Dequan Henderson",
+      "character": "Marcus",
+      "order": 8
+    },
+    {
+      "name": "CCH Pounder",
+      "character": "Mrs. Swift",
+      "order": 9
+    }
+  ],
+  "poster_path": "/Anj9dYz1GazIpxEiBAnaRdBkdln.jpg",
+  "backdrop_path": "/lFlxgP7lyXS4I0GEpTxGqFg6Se9.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.1,
+  "vote_count": 42,
+  "imdb_id": "tt0243220",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

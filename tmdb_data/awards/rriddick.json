@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "11 Jun 2004",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "David Twohy",
+  "writer": "Jim Wheat, Ken Wheat, David Twohy",
+  "actors": "Vin Diesel, Judi Dench, Colm Feore",
+  "plot": "Richard Bruno Riddick (Vin Diesel), now a hunted man, finds himself in the middle of two opposing forces in a major crusade. Lord Marshal (Colm Feore) is a warrior priest who is the leader of a sect that is waging the tenth and perhaps final crusade five hundred years in the future. Aereon (Dame Judi Dench) is an ambassador from the Elemental race. She is an ethereal being who helps Riddick unearth his origins.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "6.6",
+  "imdb_votes": "249,300",
+  "box_office": "$57,761,012",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Chronicles+of+Riddick"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/The+Chronicles+of+Riddick/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0296572/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0296572/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2789"
+  }
+}

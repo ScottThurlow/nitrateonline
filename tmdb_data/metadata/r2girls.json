@@ -1,0 +1,98 @@
+{
+  "tmdb_id": 32456,
+  "title": "Two Girls and a Guy",
+  "original_title": "Two Girls and a Guy",
+  "release_date": "1998-04-24",
+  "runtime": 84,
+  "tagline": "Thanks to his two girlfriends, Blake is about to learn a new sexual position. Honesty.",
+  "overview": "Two women confront their boyfriend, a two-timing actor who professed eternal love to each.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Pressman Film",
+      "country": "US"
+    },
+    {
+      "name": "Muse Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Toback"
+  ],
+  "writers": [
+    {
+      "name": "James Toback",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Mailer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Daniel Bigel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Edward R. Pressman",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Hanley",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "character": "Blake",
+      "order": 0
+    },
+    {
+      "name": "Heather Graham",
+      "character": "Carla",
+      "order": 1
+    },
+    {
+      "name": "Natasha Gregson Wagner",
+      "character": "Lou",
+      "order": 2
+    },
+    {
+      "name": "Angel David",
+      "character": "Tommy",
+      "order": 3
+    },
+    {
+      "name": "Frederique van der Wal",
+      "character": "Carol",
+      "order": 4
+    }
+  ],
+  "poster_path": "/9Hj90OgXLBReJCAGqOOzzxjZfCh.jpg",
+  "backdrop_path": "/lauOVXEeFSCvCMTwSbR0ybAjElN.jpg",
+  "budget": 1000000,
+  "revenue": 2057193,
+  "vote_average": 5.2,
+  "vote_count": 106,
+  "imdb_id": "tt0124179",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

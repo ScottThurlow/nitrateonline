@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 4911,
+  "title": "Dark Blue",
+  "original_title": "Dark Blue",
+  "release_date": "2002-12-14",
+  "runtime": 118,
+  "tagline": "Sworn to protect. Sworn to serve. Sworn to secrecy.",
+  "overview": "Set during the Rodney King riots, a robbery homicide investigation triggers a series of events that will cause a corrupt LAPD officer to question his tactics.",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "IM Filmproduktion",
+      "country": "DE"
+    },
+    {
+      "name": "Cosmic Picture",
+      "country": "US"
+    },
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    },
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Shelton"
+  ],
+  "writers": [
+    {
+      "name": "David Ayer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Ellroy",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James Jacks",
+      "job": "Producer"
+    },
+    {
+      "name": "Sean Daniel",
+      "job": "Producer"
+    },
+    {
+      "name": "Caldecot Chubb",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Blocker",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kurt Russell",
+      "character": "Eldon Perry",
+      "order": 0
+    },
+    {
+      "name": "Scott Speedman",
+      "character": "Bobby Keough",
+      "order": 1
+    },
+    {
+      "name": "Michael Michele",
+      "character": "Beth Williamson",
+      "order": 2
+    },
+    {
+      "name": "Brendan Gleeson",
+      "character": "Jack van Meter",
+      "order": 3
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Arthur Holland",
+      "order": 4
+    },
+    {
+      "name": "Kurupt",
+      "character": "Darryl Orchard",
+      "order": 5
+    },
+    {
+      "name": "Dash Mihok",
+      "character": "Gary Sidwell",
+      "order": 6
+    },
+    {
+      "name": "Jonathan Banks",
+      "character": "James Barcomb",
+      "order": 7
+    },
+    {
+      "name": "Lolita Davidovich",
+      "character": "Sally Perry",
+      "order": 8
+    },
+    {
+      "name": "Khandi Alexander",
+      "character": "Janelle Holland",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ekW39lKhQ3L3rdOgzyF3d0CoPLV.jpg",
+  "backdrop_path": "/bl4OXajniUiTkgCgWbvXq7L5F2s.jpg",
+  "budget": 15000000,
+  "revenue": 12150301,
+  "vote_average": 6.231,
+  "vote_count": 363,
+  "imdb_id": "tt0279331",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "R"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

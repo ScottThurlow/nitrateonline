@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 8545,
+  "title": "Little Voice",
+  "original_title": "Little Voice",
+  "release_date": "1998-11-05",
+  "runtime": 97,
+  "tagline": "Finding your own voice can be magic.",
+  "overview": "After the death of her father, Little Voice or LV becomes a virtual recluse, never going out and hardly ever saying a word. She just sits in her bedroom listening to her father's collection of old records of Shirley Bassey, Marilyn Monroe and various other famous female singers. But at night time, LV sings, imitating these great singers with surprising accuracy. One night she is overheard by one of her mother's boyfriends, who happens to be a talent agent. He manages to convince her that her talent is special and arranges for her to perform at the local night club, but several problems arise.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Scala Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Mark Herman"
+  ],
+  "writers": [
+    {
+      "name": "Mark Herman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Cartwright",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Jim Cartwright",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Elizabeth Karlsen",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Woolley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nik Powell",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brenda Blethyn",
+      "character": "Mari Hoff",
+      "order": 0
+    },
+    {
+      "name": "Michael Caine",
+      "character": "Ray Say",
+      "order": 1
+    },
+    {
+      "name": "Ewan McGregor",
+      "character": "Billy",
+      "order": 2
+    },
+    {
+      "name": "Jane Horrocks",
+      "character": "LV",
+      "order": 3
+    },
+    {
+      "name": "Jim Broadbent",
+      "character": "Mr. Boo",
+      "order": 4
+    },
+    {
+      "name": "Annette Badland",
+      "character": "Sadie",
+      "order": 5
+    },
+    {
+      "name": "Philip Jackson",
+      "character": "George",
+      "order": 6
+    },
+    {
+      "name": "Adam Fogerty",
+      "character": "Bouncer",
+      "order": 7
+    },
+    {
+      "name": "Fred Feast",
+      "character": "Arthur",
+      "order": 8
+    },
+    {
+      "name": "Graham Turner",
+      "character": "LV's Dad",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7VxdMxSa3BEAvGl5nLvsgpBwrZH.jpg",
+  "backdrop_path": "/lwluU3TYXBL4AllSxhgqRlhGEIY.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.467,
+  "vote_count": 197,
+  "imdb_id": "tt0147004",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

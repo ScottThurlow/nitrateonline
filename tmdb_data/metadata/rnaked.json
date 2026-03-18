@@ -1,0 +1,103 @@
+{
+  "tmdb_id": 10855,
+  "title": "Naked Weapon",
+  "original_title": "赤裸特工",
+  "release_date": "2002-11-15",
+  "runtime": 90,
+  "tagline": "They will seduce you - just before they kill you!",
+  "overview": "A mysterious woman, known as Madame M, kidnaps forty pre-teen girls and transports them to a remote island to train them as the most deadly assassins. CIA operative Jack Chen follows the case for 6 years with no leads, but when a series of assassinations begin to occur, Jack suspects that Madame M is back in business.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Cantonese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Media Asia Films",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Tony Ching Siu-Tung"
+  ],
+  "writers": [
+    {
+      "name": "Wong Jing",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Chong",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wong Jing",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Maggie Q",
+      "character": "Charlene Ching",
+      "order": 0
+    },
+    {
+      "name": "Anya",
+      "character": "Katherine",
+      "order": 1
+    },
+    {
+      "name": "Daniel Wu",
+      "character": "Jack Chen",
+      "order": 2
+    },
+    {
+      "name": "Li Fei",
+      "character": "Jing",
+      "order": 3
+    },
+    {
+      "name": "Almen Wong Pui-Ha",
+      "character": "Madam M",
+      "order": 4
+    },
+    {
+      "name": "Andrew Lin Hoi",
+      "character": "Ryuichi",
+      "order": 5
+    },
+    {
+      "name": "Cheng Pei-Pei",
+      "character": "Faye Ching",
+      "order": 6
+    },
+    {
+      "name": "Monica Lo Suk-Yee",
+      "character": "Student Murdered in Cage",
+      "order": 7
+    },
+    {
+      "name": "Benny Lai Chun",
+      "character": "Tattooed Yakuza boss",
+      "order": 8
+    },
+    {
+      "name": "Dennis Chan Kwok-San",
+      "character": "Mr. Chan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bEkFMDlIosqroIO8yBBIKZWoGRh.jpg",
+  "backdrop_path": "/82kYHPzaE1Mv2MVnwmCYAqTDJQT.jpg",
+  "budget": 0,
+  "revenue": 78340,
+  "vote_average": 6.8,
+  "vote_count": 396,
+  "imdb_id": "tt0341495",
+  "status": "Released"
+}

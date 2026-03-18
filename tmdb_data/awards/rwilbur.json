@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "10 wins & 21 nominations",
+  "rated": "R",
+  "released": "08 Nov 2002",
+  "runtime": "109 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Lone Scherfig",
+  "writer": "Lone Scherfig, Anders Thomas Jensen",
+  "actors": "Jamie Sives, Adrian Rawlins, Shirley Henderson",
+  "plot": "The good-hearted Harbour has spent his whole life trying to take care of his motherless and suicidal little brother, Wilbur. The brothers are inseparable. When in their thirties, they lose their father and inherit his second-hand bookshop. One day Alice enters the shop with her little daughter. Alice is a cleaning lady at the nearby hospital and she sells the books that the patients leave behind. The daughter Mary yearns for a home where the books don't always get sold. Harbour falls in love with Alice and soon all four of them are closely intertwined in each other's lives - and perhaps even deaths.",
+  "language": "English",
+  "country": "Denmark, United Kingdom, Sweden, France",
+  "metascore": "69",
+  "imdb_rating": "6.8",
+  "imdb_votes": "8,116",
+  "box_office": "$235,294",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Wilbur+Wants+to+Kill+Himself"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Wilbur+Wants+to+Kill+Himself/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0329767/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0329767/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/156"
+  }
+}

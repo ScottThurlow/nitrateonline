@@ -1,0 +1,40 @@
+{
+  "year": "1973",
+  "awards": "Won 2 Oscars. 18 wins & 21 nominations total",
+  "rated": "R",
+  "released": "26 Dec 1973",
+  "runtime": "122 min",
+  "genre": "Horror",
+  "director": "William Friedkin",
+  "writer": "William Peter Blatty",
+  "actors": "Ellen Burstyn, Max von Sydow, Linda Blair",
+  "plot": "A visiting actress in Washington, D.C., notices dramatic and dangerous changes in the behavior and physical make-up of her 12-year-old daughter. Meanwhile, a young priest at nearby Georgetown University begins to doubt his faith while dealing with his mother's terminal sickness. And, book-ending the story, a frail, elderly priest recognizes the necessity for a show-down with an old demonic enemy.",
+  "language": "English, Latin, Greek, French, German, Arabic, Kurdish",
+  "country": "United States",
+  "metascore": "83",
+  "imdb_rating": "8.1",
+  "imdb_votes": "495,533",
+  "box_office": "$233,005,644",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Exorcist"
+    },
+    {
+      "source": "Metacritic",
+      "value": "83/100",
+      "link": "https://www.metacritic.com/search/The+Exorcist/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0070047/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0070047/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9552"
+  }
+}

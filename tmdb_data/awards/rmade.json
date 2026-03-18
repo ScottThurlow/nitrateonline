@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "31 Aug 2001",
+  "runtime": "95 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Jon Favreau",
+  "writer": "Jon Favreau",
+  "actors": "Vince Vaughn, Jon Favreau, Joe Goossen",
+  "plot": "Bobby is a struggling boxer and bodyguard for his stripper girlfriend. But he hates his work and wants to move up. So he agrees to go to New York City for his boss to help in the delivery for a money laundering scheme. His partner in crime is his best friend Ricky, an obnoxious loudmouth who has seen one too many mafia movies. Bobby tries to keep it cool and get the job done, but Ricky's antics threaten to blow the entire situation.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.3",
+  "imdb_votes": "19,745",
+  "box_office": "$5,313,300",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Made"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Made/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0227005/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0227005/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15745"
+  }
+}

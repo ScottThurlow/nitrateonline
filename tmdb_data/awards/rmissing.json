@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 wins & 8 nominations total",
+  "rated": "R",
+  "released": "26 Nov 2003",
+  "runtime": "137 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "Ron Howard",
+  "writer": "Thomas Eidson, Ken Kaufman",
+  "actors": "Tommy Lee Jones, Cate Blanchett, Evan Rachel Wood",
+  "plot": "In 19th-century New Mexico, a father (Tommy Lee Jones) comes back home, hoping to reconcile with his adult daughter Maggie (Cate Blanchett). Maggie's daughter is kidnapped, forcing father and estranged daughter to work together to get her back.",
+  "language": "English, Apache languages, Spanish",
+  "country": "United States",
+  "metascore": "55",
+  "imdb_rating": "6.5",
+  "imdb_votes": "41,447",
+  "box_office": "$27,011,180",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Missing"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/The+Missing/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0338188/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0338188/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12146"
+  }
+}

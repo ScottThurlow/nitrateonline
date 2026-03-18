@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 wins & 12 nominations total",
+  "rated": "R",
+  "released": "12 Sep 2003",
+  "runtime": "93 min",
+  "genre": "Horror",
+  "director": "Eli Roth",
+  "writer": "Eli Roth, Randy Pearlstein",
+  "actors": "Jordan Ladd, Rider Strong, James DeBello",
+  "plot": "College friends Paul, Karen, Bert, Marcy and Jeff rent an isolated cabin in the woods to spend a week together. When they arrive, a man contaminated with a weird disease asks them for help, but they panic and burn the man, who falls into the water reservoir and dies. The whole group, except Karen, makes a pact to drink only beer the rest of the week without knowing where the dead body is. When Karen drinks tap water and gets the disease, the group begins their journey to hell.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "5.6",
+  "imdb_votes": "88,312",
+  "box_office": "$21,158,188",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=Cabin+Fever"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Cabin+Fever/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0303816/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0303816/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11547"
+  }
+}

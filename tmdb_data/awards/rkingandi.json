@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "6 nominations",
+  "rated": "G",
+  "released": "19 Mar 1999",
+  "runtime": "88 min",
+  "genre": "Animation, Family, Fantasy",
+  "director": "Richard Rich",
+  "writer": "Oscar Hammerstein II, Arthur Rankin Jr., Peter Bakalian",
+  "actors": "Miranda Richardson, Martin Vidnovic, Christiane Noll",
+  "plot": "Traveling to the exotic kingdom of Siam, English schoolteacher Anna Leonowens soon discovers that her most difficult challenge is the stubborn, imperious King himself.",
+  "language": "English",
+  "country": "United States, South Korea, India, Hong Kong, United Kingdom, Canada",
+  "metascore": "29",
+  "imdb_rating": "4.4",
+  "imdb_votes": "4,372",
+  "box_office": "$11,993,021",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=The+King+and+I"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/The+King+and+I/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160429/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160429/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/47288"
+  }
+}

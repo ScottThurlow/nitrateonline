@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 376739,
+  "title": "Mark of Cain",
+  "original_title": "Czarny wąwóz",
+  "release_date": "1989-11-27",
+  "runtime": 101,
+  "tagline": "A historical adventure film about the betrayal of one’s own conscience.",
+  "overview": "In 1866, as Austria faces war with Prussia, 19-year-old Ludvík Machl joins a secret Czech resistance group. When he is caught with stolen funds and a weapon, the police commissioner spares him from prison on the condition that he work as an informant. Trapped by fear and betrayal, Ludvík is forced down a path that leads inexorably toward his own destruction.",
+  "genres": [
+    "Drama",
+    "History",
+    "Action"
+  ],
+  "spoken_languages": [
+    "Polish"
+  ],
+  "production_companies": [
+    {
+      "name": "Filmové studio Barrandov",
+      "country": "XC"
+    },
+    {
+      "name": "Zespół Filmowy \"Oko\"",
+      "country": "PL"
+    }
+  ],
+  "director": [
+    "Janusz Majewski"
+  ],
+  "writers": [
+    {
+      "name": "Josef Císař",
+      "job": "Creative Producer"
+    },
+    {
+      "name": "Vladimír Körner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Janusz Majewski",
+      "job": "Dialogue"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Olaf Lubaszenko",
+      "character": "Ludvík Machl",
+      "order": 0
+    },
+    {
+      "name": "Petr Čepek",
+      "character": "Capt. Truxa",
+      "order": 1
+    },
+    {
+      "name": "Wiktor Zborowski",
+      "character": "Capt. Truxa (voice)",
+      "order": 2
+    },
+    {
+      "name": "Anna Majcher",
+      "character": "Kitty",
+      "order": 3
+    },
+    {
+      "name": "Michał Pawlicki",
+      "character": "Count Rożyński",
+      "order": 4
+    },
+    {
+      "name": "Adam Ferency",
+      "character": "Roman Zalewski",
+      "order": 5
+    },
+    {
+      "name": "Jiří Kodet",
+      "character": "Commissioner Lottes",
+      "order": 6
+    },
+    {
+      "name": "Jerzy Kryszak",
+      "character": "Commissioner Lottes (voice)",
+      "order": 7
+    },
+    {
+      "name": "Sabina Laurinová",
+      "character": "Lotka",
+      "order": 8
+    },
+    {
+      "name": "Joanna Trzepiecińska",
+      "character": "Lotka (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cC4SNU82AK1gXtY9wy3UBF7Ddp6.jpg",
+  "backdrop_path": "/1wy9RyyySoTxhbvXeveBBMNLzMt.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0097139",
+  "certifications": [],
+  "status": "Released"
+}

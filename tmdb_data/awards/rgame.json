@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "7 nominations total",
+  "rated": "PG-13",
+  "released": "17 Sep 1999",
+  "runtime": "137 min",
+  "genre": "Drama, Romance, Sport",
+  "director": "Sam Raimi",
+  "writer": "Michael Shaara, Dana Stevens",
+  "actors": "Kevin Costner, Kelly Preston, John C. Reilly",
+  "plot": "A Detroit pitcher Billy Chapel, reflects on his life in major league baseball, after he finds out his girlfriend moves to London for a job. Thus forcing the ball player to analyze his life and how his career as a player, and his life without her will change, thus altering his priorities between his career winding to a close, choosing what his path will be, the love of baseball or the love of his life?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "43",
+  "imdb_rating": "6.6",
+  "imdb_votes": "39,393",
+  "box_office": "$35,188,640",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=For+Love+of+the+Game"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/For+Love+of+the+Game/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0126916/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0126916/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10390"
+  }
+}

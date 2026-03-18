@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "20 Feb 1998",
+  "runtime": "114 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Volker Schlöndorff",
+  "writer": "James Hadley Chase, E. Max Frye",
+  "actors": "Woody Harrelson, Elisabeth Shue, Gina Gershon",
+  "plot": "After being released from prison on a bum charge, Harry Barber is out for some payback to regain the two years he has lost. He is hired by Mrs. Malroux to fake the kidnapping of her stepdaughter (the daughter of a dying millionaire). He discovers that he is being set up on multiple levels and will soon face a longer prison sentence if he does not prove the truth to the police.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "43",
+  "imdb_rating": "6.1",
+  "imdb_votes": "8,777",
+  "box_office": "$5,878,911",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Palmetto"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/Palmetto/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120782/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120782/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/30949"
+  }
+}

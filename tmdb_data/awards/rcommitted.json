@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 2 nominations total",
+  "rated": "R",
+  "released": "18 Apr 2000",
+  "runtime": "98 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Lisa Krueger",
+  "writer": "Lisa Krueger",
+  "actors": "Heather Graham, Casey Affleck, Luke Wilson",
+  "plot": "The plot of \"Committed\" is centered around the story of an intense young woman, played by Graham, whose husband leaves her in order to find himself. She then follows him cross-country and when she catches up with him, complications arise.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "44",
+  "imdb_rating": "5.1",
+  "imdb_votes": "4,145",
+  "box_office": "$40,361",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=Committed"
+    },
+    {
+      "source": "Metacritic",
+      "value": "44/100",
+      "link": "https://www.metacritic.com/search/Committed/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0144142/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0144142/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/40562"
+  }
+}

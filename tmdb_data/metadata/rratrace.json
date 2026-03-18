@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 9896,
+  "title": "Rat Race",
+  "original_title": "Rat Race",
+  "release_date": "2001-08-17",
+  "runtime": 112,
+  "tagline": "563 miles. 9 people. $2 million. 1001 problems!",
+  "overview": "In an ensemble film about easy money, greed, manipulation and bad driving, a Las Vegas casino tycoon entertains his wealthiest high rollers -- a group that will bet on anything -- by pitting six ordinary people against each other in a wild dash for $2 million jammed into a locker hundreds of miles away. The tycoon and his wealthy friends monitor each racer's every move to keep track of their favorites. The only rule in this race is that there are no rules.",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fireworks Pictures",
+      "country": "CA"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    },
+    {
+      "name": "Zucker Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jerry Zucker"
+  ],
+  "writers": [
+    {
+      "name": "Andy Breckman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean Daniel",
+      "job": "Producer"
+    },
+    {
+      "name": "Janet Zucker",
+      "job": "Producer"
+    },
+    {
+      "name": "Jerry Zucker",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Vane",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James Jacks",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gloria Allred",
+      "character": "Gloria Allred",
+      "order": 0
+    },
+    {
+      "name": "Breckin Meyer",
+      "character": "Nick Schaffer",
+      "order": 1
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Owen Templeton",
+      "order": 2
+    },
+    {
+      "name": "Lanei Chapman",
+      "character": "Merrill Jennings",
+      "order": 3
+    },
+    {
+      "name": "Amy Smart",
+      "character": "Tracy Faucet",
+      "order": 4
+    },
+    {
+      "name": "Seth Green",
+      "character": "Duane Cody",
+      "order": 5
+    },
+    {
+      "name": "Vince Vieluf",
+      "character": "Blaine Cody",
+      "order": 6
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "character": "Vera Baker",
+      "order": 7
+    },
+    {
+      "name": "Rowan Atkinson",
+      "character": "Enrico Pollini",
+      "order": 8
+    },
+    {
+      "name": "John Cleese",
+      "character": "Donald P. Sinclair",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3dpim9bLdi5uh55idJ6HxA7eZH4.jpg",
+  "backdrop_path": "/vian6RN3bC4QdBQzY1wTmBkhxVQ.jpg",
+  "budget": 48000000,
+  "revenue": 85498534,
+  "vote_average": 6.283,
+  "vote_count": 1935,
+  "imdb_id": "tt0250687",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

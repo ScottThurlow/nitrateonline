@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Won 1 Oscar. 32 wins & 30 nominations total",
+  "rated": "R",
+  "released": "09 Feb 1996",
+  "runtime": "111 min",
+  "genre": "Drama, Romance",
+  "director": "Mike Figgis",
+  "writer": "John O'Brien, Mike Figgis",
+  "actors": "Nicolas Cage, Elisabeth Shue, Julian Sands",
+  "plot": "Because his wife left him and took his son with her, screenwriter Ben Sanderson has started drinking, a lot. He's getting more and more isolated and he troubles women in bars because he wants to have sex with them. When he gets fired, he decides to leave everything behind and move to Las Vegas and drink himself to death. In Las Vegas he meets Sera, a prostitute with some problems as well who he moves in with.",
+  "language": "English, Russian, Latvian",
+  "country": "United States",
+  "metascore": "82",
+  "imdb_rating": "7.5",
+  "imdb_votes": "142,636",
+  "box_office": "$32,029,928",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Leaving+Las+Vegas"
+    },
+    {
+      "source": "Metacritic",
+      "value": "82/100",
+      "link": "https://www.metacritic.com/search/Leaving+Las+Vegas/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0113627/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0113627/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/451"
+  }
+}

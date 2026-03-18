@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 win & 4 nominations total",
+  "rated": "R",
+  "released": "07 Aug 1998",
+  "runtime": "98 min",
+  "genre": "Crime, Mystery, Thriller",
+  "director": "Brian De Palma",
+  "writer": "Brian De Palma, David Koepp",
+  "actors": "Nicolas Cage, Gary Sinise, John Heard",
+  "plot": "Ricky Santoro is a flamboyant and corrupt Atlantic City cop with a dream: become so well connected that he can become mayor. In lieu of that, he'll settle for keeping his comfortable lifestyle. On the night of the heavyweight boxing championship, Rick becomes mixed up in the assassination of the Secretary of Defense, an assassination involving his best friend. Becoming the investigating officer in the case, Rick soon uncovers a conspiracy to kill the Secretary and a mysterious woman in white. The conspiracy was shocking, but not half as shocking as the identity of its mastermind.",
+  "language": "English, Czech",
+  "country": "United States, Canada",
+  "metascore": "52",
+  "imdb_rating": "6.1",
+  "imdb_votes": "91,526",
+  "box_office": "$55,591,409",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=Snake+Eyes"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Snake+Eyes/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120832/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120832/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8688"
+  }
+}

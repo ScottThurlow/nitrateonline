@@ -1,0 +1,133 @@
+{
+  "tmdb_id": 44674,
+  "title": "After Life",
+  "original_title": "Après la vie",
+  "release_date": "2003-01-08",
+  "runtime": 123,
+  "tagline": "",
+  "overview": "The final installment in director Lucas Belvaux's trilogy follows Pascal, a cop who sees a return to credibility in the capture of escaped convict Bruno--who in turn is harbored by Pascal's morphine-addicted wife Agnes. Pascal's already precarious ties to Agnes are strained further when he meets and falls for her fellow schoolteacher friend Cecile. With Pascal focused on Bruno and Cecile, Agnes is forced to find a fix on her own.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Agat Films & Cie / Ex Nihilo",
+      "country": "FR"
+    },
+    {
+      "name": "Canal+",
+      "country": "FR"
+    },
+    {
+      "name": "CNC",
+      "country": "FR"
+    },
+    {
+      "name": "Cofimage 12",
+      "country": ""
+    },
+    {
+      "name": "Entre Chien et Loup",
+      "country": "BE"
+    },
+    {
+      "name": "Eurimages",
+      "country": "FR"
+    },
+    {
+      "name": "Gimages 5",
+      "country": ""
+    },
+    {
+      "name": "Natexis Banques Populaires Images 2",
+      "country": ""
+    },
+    {
+      "name": "RTBF",
+      "country": "BE"
+    },
+    {
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Lucas Belvaux"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Dominique Blanc",
+      "character": "Agnès Manise",
+      "order": 0
+    },
+    {
+      "name": "Gilbert Melki",
+      "character": "Pascal Manise",
+      "order": 1
+    },
+    {
+      "name": "Ornella Muti",
+      "character": "Cécile Rivet",
+      "order": 2
+    },
+    {
+      "name": "Catherine Frot",
+      "character": "Jeanne Coste",
+      "order": 3
+    },
+    {
+      "name": "François Morel",
+      "character": "Alain Costes",
+      "order": 4
+    },
+    {
+      "name": "Lucas Belvaux",
+      "character": "Bruno Le Roux",
+      "order": 5
+    },
+    {
+      "name": "Jean-Baptiste Montagut",
+      "character": "Henri",
+      "order": 6
+    },
+    {
+      "name": "Bernard Mazzinghi",
+      "character": "Georges Colinet",
+      "order": 7
+    },
+    {
+      "name": "Patrick Descamps",
+      "character": "Jacquillat",
+      "order": 8
+    },
+    {
+      "name": "Yves Claessens",
+      "character": "Freddy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/c8WBA8OjyIYABpQsDHAmDdG4DHE.jpg",
+  "backdrop_path": "/katFlmJrs1WlUAEfkeb1VKQttiY.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.167,
+  "vote_count": 24,
+  "imdb_id": "tt0233230",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    }
+  ],
+  "status": "Released"
+}

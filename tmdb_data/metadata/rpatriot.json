@@ -1,0 +1,229 @@
+{
+  "tmdb_id": 2024,
+  "title": "The Patriot",
+  "original_title": "The Patriot",
+  "release_date": "2000-06-28",
+  "runtime": 165,
+  "tagline": "Before they were soldiers, they were family. Before they were legends, they were heroes. Before there was a nation, there was a fight for freedom.",
+  "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+  "genres": [
+    "Drama",
+    "History",
+    "War",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Centropolis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Global Medien KG",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Roland Emmerich"
+  ],
+  "writers": [
+    {
+      "name": "Robert Rodat",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dean Devlin",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Levinsohn",
+      "job": "Producer"
+    },
+    {
+      "name": "Roland Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ute Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Fay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "character": "Benjamin Martin",
+      "order": 0
+    },
+    {
+      "name": "Heath Ledger",
+      "character": "Gabriel Martin",
+      "order": 1
+    },
+    {
+      "name": "Joely Richardson",
+      "character": "Charlotte Selton",
+      "order": 2
+    },
+    {
+      "name": "Jason Isaacs",
+      "character": "Col. William Tavington",
+      "order": 3
+    },
+    {
+      "name": "Chris Cooper",
+      "character": "Col. Harry Burwell",
+      "order": 4
+    },
+    {
+      "name": "Tchéky Karyo",
+      "character": "Jean Villeneuve",
+      "order": 5
+    },
+    {
+      "name": "René Auberjonois",
+      "character": "Reverend Oliver",
+      "order": 6
+    },
+    {
+      "name": "Lisa Brenner",
+      "character": "Anne Howard",
+      "order": 7
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Gen. Cornwallis",
+      "order": 8
+    },
+    {
+      "name": "Donal Logue",
+      "character": "Dan Scott",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+  "backdrop_path": "/jSHHUHRcShP6DJbg0H2lO4A8m9x.jpg",
+  "budget": 110000000,
+  "revenue": 215294342,
+  "vote_average": 7.183,
+  "vote_count": 4235,
+  "imdb_id": "tt0187393",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

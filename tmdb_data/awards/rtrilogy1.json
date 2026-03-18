@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "8 wins & 4 nominations",
+  "rated": "R",
+  "released": "08 Jan 2003",
+  "runtime": "117 min",
+  "genre": "Thriller, Crime, Drama",
+  "director": "Lucas Belvaux",
+  "writer": "Lucas Belvaux",
+  "actors": "Catherine Frot, Lucas Belvaux, Dominique Blanc",
+  "plot": "After nearly fifteen years behind bars, lefty revolutionary Bruno escapes and heads back to Grenoble, France. His plan? Settle some old scores, hook up with his foxy ex-lover, and avoid the cop on his tail. An unexpected event, however, brings cop and crook closer than they ever could have expected.",
+  "language": "French",
+  "country": "France, Belgium",
+  "metascore": "75",
+  "imdb_rating": "6.9",
+  "imdb_votes": "1,255",
+  "box_office": "$65,172",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=Cavale"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/Cavale/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0233418/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0233418/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24259"
+  }
+}

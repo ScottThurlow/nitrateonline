@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 4 nominations",
+  "rated": "R",
+  "released": "08 Oct 1999",
+  "runtime": "111 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Hampton Fancher",
+  "writer": "Lew McCreary, Hampton Fancher",
+  "actors": "Owen Wilson, Sheryl Crow, Dwight Yoakam",
+  "plot": "A cold-blooded serial killer floats around the country and chooses his victims from people who complain about their lives and indicate a willingness to be killed. His murders are introduced with the killing of an asthmatic junkie. The killer settles into a seaside rooming house run by an unhappy married couple and waits for his next victims to unveil themselves. Dream cops plague his nights, while plotting his murders. Meanwhile, he also starts a relationship with a postal clerk.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.0",
+  "imdb_votes": "7,386",
+  "box_office": "$370,668",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Minus+Man"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/The+Minus+Man/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0151582/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0151582/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21719"
+  }
+}

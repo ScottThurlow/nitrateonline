@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 16311,
+  "title": "The Hard Word",
+  "original_title": "The Hard Word",
+  "release_date": "2002-05-30",
+  "runtime": 102,
+  "tagline": "In a word, they're gone",
+  "overview": "Three fraternal bank robbers, languishing in jail, discover a profitable (if not dodgy) way to spend their time. Crime can most certainly pay, if you \"know wot I mean?\" However when sex and greed rear-up between the good crims and the bad cops, the consequences are both bizarre and fatal.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Wildheart Films",
+      "country": ""
+    },
+    {
+      "name": "Alibi Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Scott Roberts"
+  ],
+  "writers": [
+    {
+      "name": "Scott Roberts",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Al Clark",
+      "job": "Producer"
+    },
+    {
+      "name": "Gareth Jones",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hilary Davis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Guy Pearce",
+      "character": "Dale",
+      "order": 0
+    },
+    {
+      "name": "Robert Taylor",
+      "character": "Frank",
+      "order": 1
+    },
+    {
+      "name": "Rachel Griffiths",
+      "character": "Carol",
+      "order": 2
+    },
+    {
+      "name": "Joel Edgerton",
+      "character": "Shane",
+      "order": 3
+    },
+    {
+      "name": "Damien Richardson",
+      "character": "Mal",
+      "order": 4
+    },
+    {
+      "name": "Rhondda Findleton",
+      "character": "Jane",
+      "order": 5
+    },
+    {
+      "name": "Kate Atkinson",
+      "character": "Pamela",
+      "order": 6
+    },
+    {
+      "name": "Vince Colosimo",
+      "character": "Kelly",
+      "order": 7
+    },
+    {
+      "name": "Paul Sonkkila",
+      "character": "O'Riordan",
+      "order": 8
+    },
+    {
+      "name": "Kim Gyngell",
+      "character": "Paul",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8VBfmU9y6rX2CdZzPHmZeOmXiLm.jpg",
+  "backdrop_path": "/tD6o7fUGS4MtseQi4W4rnhYRSZg.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.4,
+  "vote_count": 50,
+  "imdb_id": "tt0280490",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

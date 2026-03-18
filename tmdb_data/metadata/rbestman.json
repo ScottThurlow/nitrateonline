@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 16162,
+  "title": "The Best Man",
+  "original_title": "The Best Man",
+  "release_date": "1999-10-22",
+  "runtime": 120,
+  "tagline": "The flower arrangements have been ordered. The sleeping arrangements are still being worked out.",
+  "overview": "After writing a soon-to-be bestselling novel, writer and committed bachelor Harper attempts to hide the fact that his saucy new book is loosely based on the lives and loves of his tight-knit group of friends. Harper is set to be best man at his friend Lance's wedding, and all his friends will be in attendance. When an advance copy of the book makes its way into the hands of his ex-flame, Jordan, Harper attempts to keep it under wraps.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "40 Acres and a Mule Filmworks",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Malcolm D. Lee"
+  ],
+  "writers": [
+    {
+      "name": "Malcolm D. Lee",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bill Carraro",
+      "job": "Producer"
+    },
+    {
+      "name": "Sam Kitt",
+      "job": "Producer"
+    },
+    {
+      "name": "Spike Lee",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Taye Diggs",
+      "character": "Harper Stewart",
+      "order": 0
+    },
+    {
+      "name": "Morris Chestnut",
+      "character": "Lance Sullivan",
+      "order": 1
+    },
+    {
+      "name": "Nia Long",
+      "character": "Jordan Armstrong",
+      "order": 2
+    },
+    {
+      "name": "Harold Perrineau",
+      "character": "Julian Murch",
+      "order": 3
+    },
+    {
+      "name": "Terrence Howard",
+      "character": "Quentin",
+      "order": 4
+    },
+    {
+      "name": "Sanaa Lathan",
+      "character": "Robyn",
+      "order": 5
+    },
+    {
+      "name": "Regina Hall",
+      "character": "Candy",
+      "order": 6
+    },
+    {
+      "name": "Monica Calhoun",
+      "character": "Mia Morgan",
+      "order": 7
+    },
+    {
+      "name": "Jim Moody",
+      "character": "Uncle Skeeter",
+      "order": 8
+    },
+    {
+      "name": "Malcolm D. Lee",
+      "character": "Emcee",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ub2Njdn4kq49ndyg7QglnE8PUqT.jpg",
+  "backdrop_path": "/rptszjb9Cgx7hUXTxTmlh4ScD7m.jpg",
+  "budget": 9000000,
+  "revenue": 34573780,
+  "vote_average": 6.624,
+  "vote_count": 145,
+  "imdb_id": "tt0168501",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16 anos"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

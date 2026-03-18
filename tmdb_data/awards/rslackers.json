@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "01 Feb 2002",
+  "runtime": "86 min",
+  "genre": "Comedy, Romance",
+  "director": "Dewey Nicks",
+  "writer": "David H. Steinberg",
+  "actors": "Devon Sawa, Robert B. Martin Jr., Jason Segel",
+  "plot": "Dave, Sam and Jeff are about to graduate from Holden University with Honors in lying, cheating and scheming. The three roommates have proudly scammed their way through the last four years of college and now, during the final exams, these big-men-on-campus are about to be busted by the most unlikely dude in school.",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "12",
+  "imdb_rating": "5.3",
+  "imdb_votes": "15,379",
+  "box_office": "$5,285,941",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "11%",
+      "link": "https://www.rottentomatoes.com/search?search=Slackers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "12/100",
+      "link": "https://www.metacritic.com/search/Slackers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0240900/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0240900/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20009"
+  }
+}

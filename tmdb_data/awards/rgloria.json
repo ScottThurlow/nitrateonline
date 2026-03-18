@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "6 nominations",
+  "rated": "R",
+  "released": "22 Jan 1999",
+  "runtime": "108 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Sidney Lumet",
+  "writer": "John Cassavetes, Steve Antin",
+  "actors": "Sharon Stone, Jean-Luke Figueroa, Jeremy Northam",
+  "plot": "A street-wise, middle-aged moll named Gloria stands up against the mobs, which is complicated by a six-year-old urchin with a will of his own who she reluctantly takes under her wing after his family has been gunned down.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "26",
+  "imdb_rating": "5.1",
+  "imdb_votes": "6,365",
+  "box_office": "$4,197,729",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=Gloria"
+    },
+    {
+      "source": "Metacritic",
+      "value": "26/100",
+      "link": "https://www.metacritic.com/search/Gloria/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120683/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120683/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/45712"
+  }
+}

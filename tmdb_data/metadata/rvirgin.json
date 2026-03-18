@@ -1,0 +1,183 @@
+{
+  "tmdb_id": 1443,
+  "title": "The Virgin Suicides",
+  "original_title": "The Virgin Suicides",
+  "release_date": "2000-04-21",
+  "runtime": 97,
+  "tagline": "Beautiful, mysterious, haunting, invariably fatal. Just like life.",
+  "overview": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    },
+    {
+      "name": "Muse Productions",
+      "country": "US"
+    },
+    {
+      "name": "Eternity Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Sofia Coppola"
+  ],
+  "writers": [
+    {
+      "name": "Jeffrey Eugenides",
+      "job": "Novel"
+    },
+    {
+      "name": "Sofia Coppola",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dan Halsted",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Hanley",
+      "job": "Producer"
+    },
+    {
+      "name": "Julie Costanzo",
+      "job": "Producer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred Fuchs",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Willi Bär",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kirsten Dunst",
+      "character": "Lux Lisbon",
+      "order": 0
+    },
+    {
+      "name": "Josh Hartnett",
+      "character": "Trip Fontaine",
+      "order": 1
+    },
+    {
+      "name": "James Woods",
+      "character": "Mr. Lisbon",
+      "order": 2
+    },
+    {
+      "name": "Kathleen Turner",
+      "character": "Mrs. Lisbon",
+      "order": 3
+    },
+    {
+      "name": "Michael Paré",
+      "character": "Adult Trip Fontaine",
+      "order": 4
+    },
+    {
+      "name": "A. J. Cook",
+      "character": "Mary Lisbon",
+      "order": 5
+    },
+    {
+      "name": "Hanna Hall",
+      "character": "Cecilia Lisbon",
+      "order": 6
+    },
+    {
+      "name": "Leslie Hayman",
+      "character": "Therese Lisbon",
+      "order": 7
+    },
+    {
+      "name": "Chelse Swain",
+      "character": "Bonnie Lisbon",
+      "order": 8
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Narrator (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+  "backdrop_path": "/6b6UpsOXmjO8mJKYsGTG9HW49CN.jpg",
+  "budget": 6000000,
+  "revenue": 10409377,
+  "vote_average": 7.129,
+  "vote_count": 3556,
+  "imdb_id": "tt0159097",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

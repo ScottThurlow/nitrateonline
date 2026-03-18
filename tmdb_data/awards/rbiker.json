@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "31 Jan 2003",
+  "runtime": "110 min",
+  "genre": "Action, Drama",
+  "director": "Reggie Rock Bythewood",
+  "writer": "Michael Gougis, Craig Fernandez, Reggie Rock Bythewood",
+  "actors": "Laurence Fishburne, Derek Luke, Orlando Jones",
+  "plot": "A mythic motorcycle tale of father and son, this is the story of Manuel \"Smoke\" Galloway, also known as \"the King of Cali\", the president of a motorcycle club whose members are all African-American men, mostly white-collar workers who exchange their suits and ties at night and on weekends for leather outfits and motorcycle helmets. The focus of this story takes place at an annual drag-racing event in Fresno, as Manuel tries to retain his championship title.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "36",
+  "imdb_rating": "4.7",
+  "imdb_votes": "14,443",
+  "box_office": "$22,076,772",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=Biker+Boyz"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/Biker+Boyz/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0326769/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0326769/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12253"
+  }
+}

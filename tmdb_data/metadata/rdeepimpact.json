@@ -1,0 +1,216 @@
+{
+  "tmdb_id": 8656,
+  "title": "Deep Impact",
+  "original_title": "Deep Impact",
+  "release_date": "1998-05-08",
+  "runtime": 121,
+  "tagline": "Oceans rise. Cities fall. Hope survives.",
+  "overview": "A seven-mile-wide space rock is hurtling toward Earth, threatening to obliterate the planet. Now, it's up to the president of the United States to save the world. He appoints a tough-as-nails veteran astronaut to lead a joint American-Russian crew into space to destroy the comet before impact. Meanwhile, an enterprising reporter uses her smarts to uncover the scoop of the century.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "The Zanuck/Brown Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mimi Leder"
+  ],
+  "writers": [
+    {
+      "name": "Bruce Joel Rubin",
+      "job": "Writer"
+    },
+    {
+      "name": "Michael Tolkin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joan Bradshaw",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard D. Zanuck",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Duvall",
+      "character": "Capt. Spurgeon 'Fish' Tanner",
+      "order": 0
+    },
+    {
+      "name": "Téa Leoni",
+      "character": "Jenny Lerner",
+      "order": 1
+    },
+    {
+      "name": "Elijah Wood",
+      "character": "Leo Biederman",
+      "order": 2
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "character": "Robin Lerner",
+      "order": 3
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "President Tom Beck",
+      "order": 4
+    },
+    {
+      "name": "Maximilian Schell",
+      "character": "Jason Lerner",
+      "order": 5
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Alan Rittenhouse",
+      "order": 6
+    },
+    {
+      "name": "Ron Eldard",
+      "character": "Oren Monash",
+      "order": 7
+    },
+    {
+      "name": "Jon Favreau",
+      "character": "Gus Partenza",
+      "order": 8
+    },
+    {
+      "name": "Laura Innes",
+      "character": "Beth Stanley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg",
+  "backdrop_path": "/pWmJBkdb0EMb3PSd2f9wjza0krb.jpg",
+  "budget": 75000000,
+  "revenue": 349464664,
+  "vote_average": 6.23,
+  "vote_count": 3247,
+  "imdb_id": "tt0120647",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

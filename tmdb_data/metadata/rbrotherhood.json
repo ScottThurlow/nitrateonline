@@ -1,0 +1,223 @@
+{
+  "tmdb_id": 6312,
+  "title": "Brotherhood of the Wolf",
+  "original_title": "Le Pacte des loups",
+  "release_date": "2001-01-31",
+  "runtime": 151,
+  "tagline": "The year is 1766... The hunt for a killer has begun.",
+  "overview": "In 18th century France, the Chevalier de Fronsac and his Native American friend Mani are sent by the King to the Gevaudan province to investigate the killings of hundreds by a mysterious beast.",
+  "genres": [
+    "Adventure",
+    "Horror",
+    "Action",
+    "History"
+  ],
+  "spoken_languages": [
+    "German",
+    "French",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Davis Films",
+      "country": "FR"
+    },
+    {
+      "name": "Eskwad",
+      "country": "FR"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "TF1 Films Production",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Christophe Gans"
+  ],
+  "writers": [
+    {
+      "name": "Stéphane Cabel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Christophe Gans",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Samuel Hadida",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Grandpierre",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samuel Le Bihan",
+      "character": "Grégoire de Fronsac",
+      "order": 0
+    },
+    {
+      "name": "Vincent Cassel",
+      "character": "Jean-François de Morangias",
+      "order": 1
+    },
+    {
+      "name": "Émilie Dequenne",
+      "character": "Marianne de Morangias",
+      "order": 2
+    },
+    {
+      "name": "Monica Bellucci",
+      "character": "Sylvia",
+      "order": 3
+    },
+    {
+      "name": "Jérémie Renier",
+      "character": "Thomas d'Apcher",
+      "order": 4
+    },
+    {
+      "name": "Mark Dacascos",
+      "character": "Mani",
+      "order": 5
+    },
+    {
+      "name": "Jean Yanne",
+      "character": "Le Comte de Morangias",
+      "order": 6
+    },
+    {
+      "name": "Jean-François Stévenin",
+      "character": "Sardis",
+      "order": 7
+    },
+    {
+      "name": "Johan Leysen",
+      "character": "Beauterne",
+      "order": 8
+    },
+    {
+      "name": "Jacques Perrin",
+      "character": "Thomas Agé",
+      "order": 9
+    }
+  ],
+  "poster_path": "/Ahd4F7azhjsxgXYjVyFmVzJu9LB.jpg",
+  "backdrop_path": "/wxijmbo9Oy5L9M9e4K1QhXVBRgm.jpg",
+  "budget": 29000000,
+  "revenue": 70800000,
+  "vote_average": 6.724,
+  "vote_count": 1684,
+  "imdb_id": "tt0237534",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

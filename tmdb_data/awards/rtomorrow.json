@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "6 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "19 Dec 1997",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Roger Spottiswoode",
+  "writer": "Bruce Feirstein, Ian Fleming",
+  "actors": "Pierce Brosnan, Jonathan Pryce, Michelle Yeoh",
+  "plot": "Agent James Bond 007 (Pierce Brosnan) is on a mission which includes a media tycoon, his former lover and a Chinese Agent. Elliot Carver (Jonathan Pryce) wants to complete his global media empire, but in order for this to work, he must achieve broadcasting rights in China. Carver wants to start up World War III by starting a confrontation over British and Chinese waters. Bond gains the help of Wai Lin (Michelle Yeoh) on his quest to stop him, but how will Bond feel when he meets up with his former lover, Paris (Teri Hatcher), who is now Carver's wife.",
+  "language": "English, German, Danish, Mandarin, Cantonese",
+  "country": "United Kingdom, United States, Spain",
+  "metascore": "52",
+  "imdb_rating": "6.5",
+  "imdb_votes": "213,704",
+  "box_office": "$125,304,276",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=Tomorrow+Never+Dies"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Tomorrow+Never+Dies/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120347/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120347/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/714"
+  }
+}

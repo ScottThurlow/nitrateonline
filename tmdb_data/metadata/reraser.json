@@ -1,0 +1,208 @@
+{
+  "tmdb_id": 9268,
+  "title": "Eraser",
+  "original_title": "Eraser",
+  "release_date": "1996-06-21",
+  "runtime": 115,
+  "tagline": "He will erase your past to protect your future.",
+  "overview": "A Witness Protection specialist becomes suspicious of his co-workers when dealing with a case involving high-tech weapons.",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Kopelson Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chuck Russell"
+  ],
+  "writers": [
+    {
+      "name": "Tony Puryear",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Walon Green",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tony Puryear",
+      "job": "Writer"
+    },
+    {
+      "name": "Walon Green",
+      "job": "Writer"
+    },
+    {
+      "name": "Michael S. Chernuchin",
+      "job": "Writer"
+    },
+    {
+      "name": "Chris Buchinsky",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anne Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Chuck Russell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Tadross",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "character": "U.S. Marshal John 'The Eraser' Kruger",
+      "order": 0
+    },
+    {
+      "name": "Vanessa Williams",
+      "character": "Lee Cullen",
+      "order": 1
+    },
+    {
+      "name": "James Caan",
+      "character": "U.S. Marshal Robert Deguerin",
+      "order": 2
+    },
+    {
+      "name": "James Coburn",
+      "character": "WitSec Chief Beller",
+      "order": 3
+    },
+    {
+      "name": "Robert Pastorelli",
+      "character": "Johnny Casteleone",
+      "order": 4
+    },
+    {
+      "name": "James Cromwell",
+      "character": "William Donohue",
+      "order": 5
+    },
+    {
+      "name": "Danny Nucci",
+      "character": "WitSec Deputy Monroe",
+      "order": 6
+    },
+    {
+      "name": "Andy Romano",
+      "character": "Undersecretary of Defense Daniel Harper",
+      "order": 7
+    },
+    {
+      "name": "Nick Chinlund",
+      "character": "WitSec Agent Calderon",
+      "order": 8
+    },
+    {
+      "name": "Michael Papajohn",
+      "character": "WitSec Agent Schiffer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg",
+  "backdrop_path": "/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg",
+  "budget": 100000000,
+  "revenue": 242295562,
+  "vote_average": 6.1,
+  "vote_count": 1979,
+  "imdb_id": "tt0116213",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

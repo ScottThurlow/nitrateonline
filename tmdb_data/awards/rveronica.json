@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 14 nominations total",
+  "rated": "R",
+  "released": "17 Oct 2003",
+  "runtime": "98 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Joel Schumacher",
+  "writer": "Carol Doyle, Mary Agnes Donoghue",
+  "actors": "Cate Blanchett, Colin Farrell, Brenda Fricker",
+  "plot": "Based on a true story, this is about the Irish journalist Veronica Guerin (Cate Blanchett), a reporter for The Sunday Independent, who exposed some of Dublin's most powerful crime barons and drug lords in 1996. But later that year she was gunned down by assasins hired by the same criminal drug lords she exposed.",
+  "language": "English",
+  "country": "Ireland, United Kingdom, United States",
+  "metascore": "55",
+  "imdb_rating": "6.8",
+  "imdb_votes": "22,358",
+  "box_office": "$1,571,504",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=Veronica+Guerin"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Veronica+Guerin/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0312549/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0312549/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10629"
+  }
+}

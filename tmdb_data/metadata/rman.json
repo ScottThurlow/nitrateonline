@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 10778,
+  "title": "The Man Who Wasn't There",
+  "original_title": "The Man Who Wasn't There",
+  "release_date": "2001-10-26",
+  "runtime": 116,
+  "tagline": "",
+  "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "USA Films",
+      "country": "US"
+    },
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "Mike Zoss Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Coen"
+  ],
+  "writers": [
+    {
+      "name": "Joel Coen",
+      "job": "Writer"
+    },
+    {
+      "name": "Ethan Coen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric Fellner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tim Bevan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ethan Coen",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Coen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Ed Crane",
+      "order": 0
+    },
+    {
+      "name": "Frances McDormand",
+      "character": "Doris Crane",
+      "order": 1
+    },
+    {
+      "name": "Michael Badalucco",
+      "character": "Frank",
+      "order": 2
+    },
+    {
+      "name": "James Gandolfini",
+      "character": "Big Dave Brewster",
+      "order": 3
+    },
+    {
+      "name": "Katherine Borowitz",
+      "character": "Ann Nirdlinger Brewster",
+      "order": 4
+    },
+    {
+      "name": "Jon Polito",
+      "character": "Creighton Tolliver",
+      "order": 5
+    },
+    {
+      "name": "Scarlett Johansson",
+      "character": "Birdy Abundas",
+      "order": 6
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Walter Abundas",
+      "order": 7
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Freddy Riedenschneider",
+      "order": 8
+    },
+    {
+      "name": "Christopher Kriesa",
+      "character": "Officer Persky",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+  "backdrop_path": "/xwjVHxKKk2hb6CJX46U4Cv0Zq0a.jpg",
+  "budget": 20000000,
+  "revenue": 18918721,
+  "vote_average": 7.51,
+  "vote_count": 1723,
+  "imdb_id": "tt0243133",
+  "status": "Released"
+}

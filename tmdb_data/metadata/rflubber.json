@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 9574,
+  "title": "Flubber",
+  "original_title": "Flubber",
+  "release_date": "1997-11-26",
+  "runtime": 93,
+  "tagline": "Catch it if you can!",
+  "overview": "Professor Phillip Brainard, an absent minded professor, works with his assistant Weebo, trying to create a substance that's a new source of energy and that will save Medfield College where his sweetheart Sara is the president. He has missed his wedding twice, and on the afternoon of his third wedding, Professor Brainard creates flubber, which allows objects to fly through the air.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Great Oaks Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Les Mayfield"
+  ],
+  "writers": [
+    {
+      "name": "Bill Walsh",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Hughes",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Samuel W. Taylor",
+      "job": "Short Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ricardo Mestres",
+      "job": "Producer"
+    },
+    {
+      "name": "John Hughes",
+      "job": "Producer"
+    },
+    {
+      "name": "David Nicksay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "character": "Professor Philip Brainard",
+      "order": 0
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "character": "Dr. Sara Jean Reynolds",
+      "order": 1
+    },
+    {
+      "name": "Christopher McDonald",
+      "character": "Wilson Croft",
+      "order": 2
+    },
+    {
+      "name": "Raymond J. Barry",
+      "character": "Chester Hoenicker",
+      "order": 3
+    },
+    {
+      "name": "Clancy Brown",
+      "character": "Smith",
+      "order": 4
+    },
+    {
+      "name": "Nancy Olson",
+      "character": "Secretary at Ford Motor Company",
+      "order": 5
+    },
+    {
+      "name": "Ted Levine",
+      "character": "Wesson",
+      "order": 6
+    },
+    {
+      "name": "Wil Wheaton",
+      "character": "Bennett Hoenicker",
+      "order": 7
+    },
+    {
+      "name": "Edie McClurg",
+      "character": "Martha George",
+      "order": 8
+    },
+    {
+      "name": "Jodi Benson",
+      "character": "Weebo (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg",
+  "backdrop_path": "/iaAWeeZaWU7c1UHfxMOhqxLXAUp.jpg",
+  "budget": 80000000,
+  "revenue": 178000000,
+  "vote_average": 5.653,
+  "vote_count": 2520,
+  "imdb_id": "tt0119137",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

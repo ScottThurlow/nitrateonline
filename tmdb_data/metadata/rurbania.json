@@ -1,0 +1,112 @@
+{
+  "tmdb_id": 77332,
+  "title": "Urbania",
+  "original_title": "Urbania",
+  "release_date": "2000-01-24",
+  "runtime": 103,
+  "tagline": "Heard any good stories lately?",
+  "overview": "A series of urban legends take place around the life of a troubled man who is searching New York City for a mysterious stranger.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Mystery",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Jon Matthews"
+  ],
+  "writers": [
+    {
+      "name": "Jon Matthews",
+      "job": "Writer"
+    },
+    {
+      "name": "Daniel Reitz",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Escott",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "J. Todd Harris",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Matthews",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dan Futterman",
+      "character": "Charlie",
+      "order": 0
+    },
+    {
+      "name": "Sam Ball",
+      "character": "Dean",
+      "order": 1
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Brett",
+      "order": 2
+    },
+    {
+      "name": "Lothaire Bluteau",
+      "character": "Bill",
+      "order": 3
+    },
+    {
+      "name": "Josh Hamilton",
+      "character": "Matt",
+      "order": 4
+    },
+    {
+      "name": "Matt Keeslar",
+      "character": "Chris",
+      "order": 5
+    },
+    {
+      "name": "James Simon",
+      "character": "Sam",
+      "order": 6
+    },
+    {
+      "name": "Megan Dodds",
+      "character": "Deedee",
+      "order": 7
+    },
+    {
+      "name": "Gabriel Olds",
+      "character": "Ron",
+      "order": 8
+    },
+    {
+      "name": "Barbara Sukowa",
+      "character": "Clara - The Married Woman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bl2RsU7kzOm1AjZhCBepCxuFToY.jpg",
+  "backdrop_path": "/5vtH95kPCpZ2bkSWRrdGvfE7HqE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.459,
+  "vote_count": 37,
+  "imdb_id": "tt0182508",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

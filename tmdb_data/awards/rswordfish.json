@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "5 wins & 10 nominations total",
+  "rated": "R",
+  "released": "08 Jun 2001",
+  "runtime": "99 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Dominic Sena",
+  "writer": "Skip Woods",
+  "actors": "John Travolta, Hugh Jackman, Halle Berry",
+  "plot": "When the DEA shut down its dummy corporation operation codenamed SWORDFISH in 1986, they had generated $400 million which they let sit around; fifteen years of compound interest has swelled it to $9.5 billion. A covert counter-terrorist unit called Black Cell, headed by the duplicitious and suave Gabriel Shear, wants the money to help finance their raise-the-stakes vengeance war against international terrorism, but it's all locked away behind super-encryption. He brings in convicted hacker Stanley Jobson, who only wants to see his daughter Holly again but can't afford the legal fees, to slice into the government mainframes and get the money.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "32",
+  "imdb_rating": "6.5",
+  "imdb_votes": "202,348",
+  "box_office": "$69,772,969",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "27%",
+      "link": "https://www.rottentomatoes.com/search?search=Swordfish"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Swordfish/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0244244/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0244244/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9705"
+  }
+}

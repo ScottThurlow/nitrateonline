@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Won 1 Oscar. 50 wins & 37 nominations total",
+  "rated": "R",
+  "released": "05 Mar 2004",
+  "runtime": "99 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Denys Arcand",
+  "writer": "Denys Arcand",
+  "actors": "Rémy Girard, Dorothée Berryman, Stéphane Rousseau",
+  "plot": "In this belated sequel to 'The Decline of the American Empire', 50-something Montreal college professor Remy learns that he is dying of liver cancer. He decides to make amends to his family and friends before he dies. He first approaches his ex-wife Louise, who asks their estranged son Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the entire Canadian system in every way possible to help his father fight his terminal illness to the bitter end, while he tries to reunite his former friends, Pierre, Alain, Dominique, Diane, and Claude to see their old friend before he passes on.",
+  "language": "French, English",
+  "country": "Canada, France",
+  "metascore": "70",
+  "imdb_rating": "7.5",
+  "imdb_votes": "30,667",
+  "box_office": "$8,544,975",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Barbarian+Invasions"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/The+Barbarian+Invasions/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0338135/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0338135/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11042"
+  }
+}

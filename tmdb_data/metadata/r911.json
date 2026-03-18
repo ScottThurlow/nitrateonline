@@ -1,0 +1,186 @@
+{
+  "tmdb_id": 1926,
+  "title": "September 11",
+  "original_title": "11’09”01 - September 11",
+  "release_date": "2002-09-04",
+  "runtime": 134,
+  "tagline": "",
+  "overview": "An anthology of short films inspired by the events of the September 11 World Trade Center attacks.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Arabic",
+    "English",
+    "French",
+    "Hebrew",
+    "Hindi",
+    "Japanese",
+    "Persian",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Galatée Films",
+      "country": "FR"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Amos Gitai",
+    "Alejandro González Iñárritu",
+    "Shōhei Imamura",
+    "Ken Loach",
+    "Samira Makhmalbaf",
+    "Mira Nair",
+    "Idrissa Ouedraogo",
+    "Sean Penn",
+    "Danis Tanović",
+    "Youssef Chahine",
+    "Claude Lelouch"
+  ],
+  "writers": [
+    {
+      "name": "Youssef Chahine",
+      "job": "Writer"
+    },
+    {
+      "name": "Alain Brigand",
+      "job": "Idea"
+    },
+    {
+      "name": "Sabrina Dhawan",
+      "job": "Writer"
+    },
+    {
+      "name": "Amos Gitai",
+      "job": "Writer"
+    },
+    {
+      "name": "Alejandro González Iñárritu",
+      "job": "Writer"
+    },
+    {
+      "name": "Paul Laverty",
+      "job": "Writer"
+    },
+    {
+      "name": "Ken Loach",
+      "job": "Writer"
+    },
+    {
+      "name": "Claude Lelouch",
+      "job": "Writer"
+    },
+    {
+      "name": "Samira Makhmalbaf",
+      "job": "Writer"
+    },
+    {
+      "name": "Idrissa Ouedraogo",
+      "job": "Writer"
+    },
+    {
+      "name": "Sean Penn",
+      "job": "Writer"
+    },
+    {
+      "name": "Marie-Jose Sanselme",
+      "job": "Writer"
+    },
+    {
+      "name": "Danis Tanović",
+      "job": "Writer"
+    },
+    {
+      "name": "Daisuke Tengan",
+      "job": "Writer"
+    },
+    {
+      "name": "Pierre Uytterhoeven",
+      "job": "Writer"
+    },
+    {
+      "name": "Vladimir Vega",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alejandro González Iñárritu",
+      "job": "Producer"
+    },
+    {
+      "name": "Nicolas Mauvernay",
+      "job": "Producer"
+    },
+    {
+      "name": "Jacques Perrin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ernest Borgnine",
+      "character": "Old Man (segment \"USA\")",
+      "order": 0
+    },
+    {
+      "name": "Maryam Karimi",
+      "character": "Teacher (segment \"Iran\")",
+      "order": 1
+    },
+    {
+      "name": "Emmanuelle Laborit",
+      "character": "She (segment \"France\")",
+      "order": 2
+    },
+    {
+      "name": "Jérôme Horry",
+      "character": "Him (segment \"France\")",
+      "order": 3
+    },
+    {
+      "name": "Keren Mor",
+      "character": "Journalist (segment \"Israel\")",
+      "order": 4
+    },
+    {
+      "name": "Tomer Russo",
+      "character": "Paramedic (segment \"Israel\")",
+      "order": 5
+    },
+    {
+      "name": "Tanvi Azmi",
+      "character": "Talat Hamdani (segment \"India\")",
+      "order": 6
+    },
+    {
+      "name": "Kapil Bawa",
+      "character": "Salim Hamdani (segment \"India\")",
+      "order": 7
+    },
+    {
+      "name": "Tomorowo Taguchi",
+      "character": "Yukichi Furuhashi (segment \"Japan\")",
+      "order": 8
+    },
+    {
+      "name": "Kumiko Aso",
+      "character": "Sae Furuhashi (segment \"Japan\")",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gbOFmoHalRCZgePhSJLH1ChIn2q.jpg",
+  "backdrop_path": "/mpCIVcb4ywBGU6K0Qt1DCIcKoJp.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.412,
+  "vote_count": 119,
+  "imdb_id": "tt0328802",
+  "certifications": [],
+  "status": "Released"
+}

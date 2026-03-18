@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "08 Sep 2000",
+  "runtime": "119 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Christopher McQuarrie",
+  "writer": "Christopher McQuarrie",
+  "actors": "Ryan Phillippe, Benicio Del Toro, Juliette Lewis",
+  "plot": "Two petty, violent criminals kidnap a woman who is being paid $1million to be a surrogate mother. As the baby is for a gangster, the pair's demand for money sees several henchmen and assorted other ruthless characters head after them to Mexico. Bullets rather than talking are always going to settle this one.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "6.6",
+  "imdb_votes": "36,690",
+  "box_office": "$6,055,661",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "46%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Way+of+the+Gun"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/The+Way+of+the+Gun/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0202677/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0202677/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1619"
+  }
+}

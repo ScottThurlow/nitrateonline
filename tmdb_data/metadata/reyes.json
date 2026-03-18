@@ -1,0 +1,82 @@
+{
+  "tmdb_id": 15665,
+  "title": "The Eyes of Tammy Faye",
+  "original_title": "The Eyes of Tammy Faye",
+  "release_date": "2000-01-25",
+  "runtime": 79,
+  "tagline": "",
+  "overview": "A documentary look, mostly through the eyes of Tammy Faye Bakker Messner, at her rise and fall as a popular televangelist with husband Jim Bakker.",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cinemax",
+      "country": "US"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    },
+    {
+      "name": "World of Wonder",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Fenton Bailey",
+    "Randy Barbato"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "RuPaul",
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "name": "Tammy Faye Bakker",
+      "character": "Herself",
+      "order": 1
+    },
+    {
+      "name": "Jim Bakker",
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "name": "Mel White",
+      "character": "Self - Executive Director, Soul Force Ministry",
+      "order": 3
+    },
+    {
+      "name": "Roe Messner",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Jay Bakker",
+      "character": "Self",
+      "order": 5
+    }
+  ],
+  "poster_path": "/r84Qve8mVeDXBKnSnBSQIS2OaD.jpg",
+  "backdrop_path": "/xzCoEGF3wPRsz2tuCLb9pGLTRDp.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.182,
+  "vote_count": 22,
+  "imdb_id": "tt0233687",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "2003",
+  "awards": "13 wins & 24 nominations total",
+  "rated": "R",
+  "released": "17 Apr 2003",
+  "runtime": "85 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Johnnie To",
+  "writer": "Nai-Hoi Yau, Kin-Yee Au",
+  "actors": "Simon Yam, Suet Lam, Ruby Wong",
+  "plot": "When an obnoxious detective loses his gun to four young thugs, it's up to the P.T.U. (Police Tactical Unit) and their iron-willed leader to recover the weapon and clean up the mess before daybreak.",
+  "language": "Cantonese, English",
+  "country": "Hong Kong",
+  "metascore": "N/A",
+  "imdb_rating": "7.0",
+  "imdb_votes": "5,665",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "65%",
+      "link": "https://www.rottentomatoes.com/search?search=PTU"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250638/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250638/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/25536"
+  }
+}

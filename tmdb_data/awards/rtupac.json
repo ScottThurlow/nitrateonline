@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 1 Oscar. 7 nominations total",
+  "rated": "R",
+  "released": "14 Nov 2003",
+  "runtime": "112 min",
+  "genre": "Documentary, Biography, Music",
+  "director": "Lauren Lazin",
+  "writer": "N/A",
+  "actors": "Tupac Shakur, Rappin' 4-Tay, Conrad Bain",
+  "plot": "Home movies, photographs, and recited poetry illustrate the life of Tupac Shakur, one of the most beloved, revolutionary, and volatile hip-hop M.Cs. of all time.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "66",
+  "imdb_rating": "7.9",
+  "imdb_votes": "9,891",
+  "box_office": "$7,718,961",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Tupac%3A+Resurrection"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Tupac%3A+Resurrection/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0343121/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0343121/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21525"
+  }
+}

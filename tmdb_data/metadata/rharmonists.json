@@ -1,0 +1,161 @@
+{
+  "tmdb_id": 9524,
+  "title": "The Harmonists",
+  "original_title": "Comedian Harmonists",
+  "release_date": "1997-12-25",
+  "runtime": 126,
+  "tagline": "",
+  "overview": "Comedian Harmonists tells the story of a famous, German male sextet, five vocals and piano, the \"Comedian Harmonists\", from the day they meet first in 1927 to the day in 1934, when they become banned by the upcoming Nazis, because three of them are Jewish.",
+  "genres": [
+    "Music",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "German",
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Beta Film",
+      "country": "DE"
+    },
+    {
+      "name": "Senator Film",
+      "country": "DE"
+    },
+    {
+      "name": "Perathon Film-und Fernsehproduktions",
+      "country": "DE"
+    },
+    {
+      "name": "Dor Film",
+      "country": "AT"
+    },
+    {
+      "name": "Iduna Film Produktiongesellschaft",
+      "country": "DE"
+    },
+    {
+      "name": "Bavaria Film",
+      "country": "DE"
+    },
+    {
+      "name": "Televersal",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Joseph Vilsmaier"
+  ],
+  "writers": [
+    {
+      "name": "Klaus Richter",
+      "job": "Writer"
+    },
+    {
+      "name": "Jürgen Egger",
+      "job": "Writer"
+    },
+    {
+      "name": "Jürgen Büscher",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Reinhard Klooss",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny Krausz",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Sterr",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joseph Vilsmaier",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hanno Huth",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Becker",
+      "character": "Robert Biberti",
+      "order": 0
+    },
+    {
+      "name": "Heino Ferch",
+      "character": "Roman Cycowski",
+      "order": 1
+    },
+    {
+      "name": "Ulrich Noethen",
+      "character": "Harry Frommermann",
+      "order": 2
+    },
+    {
+      "name": "Heinrich Schafmeister",
+      "character": "Erich A. Collin",
+      "order": 3
+    },
+    {
+      "name": "Max Tidof",
+      "character": "Ari Leschnikoff",
+      "order": 4
+    },
+    {
+      "name": "Kai Wiesinger",
+      "character": "Erwin Bootz",
+      "order": 5
+    },
+    {
+      "name": "Meret Becker",
+      "character": "Erna Eggstein",
+      "order": 6
+    },
+    {
+      "name": "Katja Riemann",
+      "character": "Mary Cycowski",
+      "order": 7
+    },
+    {
+      "name": "Rolf Hoppe",
+      "character": "Julius Streicher",
+      "order": 8
+    },
+    {
+      "name": "Dana Vávrová",
+      "character": "Ursula Bootz",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9jUWDGEOZ6MFy9gSfYZ69KLjPLY.jpg",
+  "backdrop_path": "/c6IhEmdp2SYmUJDNIyJpQOtqeWK.jpg",
+  "budget": 0,
+  "revenue": 244523,
+  "vote_average": 6.674,
+  "vote_count": 66,
+  "imdb_id": "tt0128133",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "e 16"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    }
+  ],
+  "status": "Released"
+}

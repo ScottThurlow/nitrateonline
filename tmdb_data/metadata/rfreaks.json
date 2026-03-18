@@ -1,0 +1,205 @@
+{
+  "tmdb_id": 8869,
+  "title": "Eight Legged Freaks",
+  "original_title": "Eight Legged Freaks",
+  "release_date": "2002-07-17",
+  "runtime": 99,
+  "tagline": "Let the squashing begin!",
+  "overview": "The residents of a rural mining town discover that an unfortunate chemical spill has caused hundreds of little spiders to mutate overnight to the size of SUVs. It's then up to mining engineer Chris McCormack and Sheriff Sam Parker to mobilize an eclectic group of townspeople, including the Sheriff's young son, Mike, her daughter, Ashley, and paranoid radio announcer Harlan, into battle against the bloodthirsty eight-legged beasts.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Centropolis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Electric Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ellory Elkayem"
+  ],
+  "writers": [
+    {
+      "name": "Jesse Alexander",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ellory Elkayem",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ellory Elkayem",
+      "job": "Story"
+    },
+    {
+      "name": "Randy Kornfield",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Berman",
+      "job": "Producer"
+    },
+    {
+      "name": "Dean Devlin",
+      "job": "Producer"
+    },
+    {
+      "name": "Roland Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Fay",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Winther",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Arquette",
+      "character": "Chris McCormick",
+      "order": 0
+    },
+    {
+      "name": "Kari Wührer",
+      "character": "Samantha Parker",
+      "order": 1
+    },
+    {
+      "name": "Doug E. Doug",
+      "character": "Harlan Griffith",
+      "order": 2
+    },
+    {
+      "name": "Scarlett Johansson",
+      "character": "Ashley Parker",
+      "order": 3
+    },
+    {
+      "name": "Rick Overton",
+      "character": "Pete Willis",
+      "order": 4
+    },
+    {
+      "name": "Matt Czuchry",
+      "character": "Bret",
+      "order": 5
+    },
+    {
+      "name": "Riley Smith",
+      "character": "Randy",
+      "order": 6
+    },
+    {
+      "name": "Leon Rippy",
+      "character": "Wade",
+      "order": 7
+    },
+    {
+      "name": "Randi Klein",
+      "character": "Waitress #1",
+      "order": 8
+    },
+    {
+      "name": "Terey Summers",
+      "character": "Waitress #2",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5blAumPPS6vX6zcUlt9oIhOEheK.jpg",
+  "backdrop_path": "/hOVtpgal5wWHP8vDczrEzZXkOEV.jpg",
+  "budget": 30000000,
+  "revenue": 45900000,
+  "vote_average": 5.799,
+  "vote_count": 1327,
+  "imdb_id": "tt0271367",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

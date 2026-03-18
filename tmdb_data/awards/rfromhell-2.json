@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "15 nominations total",
+  "rated": "R",
+  "released": "19 Oct 2001",
+  "runtime": "122 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Albert Hughes, Allen Hughes",
+  "writer": "Alan Moore, Eddie Campbell, Terry Hayes",
+  "actors": "Johnny Depp, Heather Graham, Ian Holm",
+  "plot": "It is 1888 in London, and the unfortunate poor lead horrifying lives in the city's deadliest slum, Whitechapel. Harassed by gangs and forced to walk the streets for a living, Mary Kelly and her small group of companions trudge on through this daily misery, their only consolation being that things can't get any worse. Yet things somehow do when their friend Ann is kidnapped and they are drawn into a conspiracy with links higher up than they could possibly imagine. The kidnapping is soon followed by the gruesome murder of another woman, Polly, and it becomes apparent that they are being hunted down, one by one. Sinister even by Whitechapel standards, the murder grabs the attention of Inspector Fred Abberline, a brilliant yet troubled man whose police work is often aided by his psychic abilities. Abberline becomes deeply involved with the case, which takes on personal meaning to him when he and Mary begin to fall in love. But as he gets closer to the truth, Whitechapel becomes more and more dangerous for Abberline, Mary, and the other girls. Whoever is responsible for the grisly acts is not going to give up his secret without a fight. Will they be able to survive the avenging force that has been sent after them from Hell?",
+  "language": "English",
+  "country": "United States, United Kingdom, Czech Republic",
+  "metascore": "54",
+  "imdb_rating": "6.7",
+  "imdb_votes": "170,511",
+  "box_office": "$31,602,566",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "56%",
+      "link": "https://www.rottentomatoes.com/search?search=From+Hell"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/From+Hell/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120681/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120681/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/768"
+  }
+}

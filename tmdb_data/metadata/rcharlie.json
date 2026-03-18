@@ -1,0 +1,201 @@
+{
+  "tmdb_id": 13440,
+  "title": "The Truth About Charlie",
+  "original_title": "The Truth About Charlie",
+  "release_date": "2002-10-25",
+  "runtime": 104,
+  "tagline": "Everybody has a secret.",
+  "overview": "Regina meets charming Joshua while vacationing in Martinique, as she contemplates ending her whirlwind marriage to enigmatic Charlie. Upon her return to Paris, she finds that both her apartment and her bank account have been emptied, and her husband has been murdered. Stuck in ever-increasing danger and with four men pursuing her, another stranger offers assistance - but who can she trust?",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English",
+    "Arabic",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Clinica Estetico",
+      "country": "US"
+    },
+    {
+      "name": "Magnet Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Mediastream Zweite Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Jonathan Demme"
+  ],
+  "writers": [
+    {
+      "name": "Peter Stone",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jonathan Demme",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Schmidt",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jessica Bendinger",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Marcel Moussy",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "François Truffaut",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "David Goodis",
+      "job": "Novel"
+    },
+    {
+      "name": "Peter Stone",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Saraf",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward Saxon",
+      "job": "Producer"
+    },
+    {
+      "name": "Neda Armian",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Demme",
+      "job": "Producer"
+    },
+    {
+      "name": "Mishka Cheyko",
+      "job": "Producer"
+    },
+    {
+      "name": "Ilona Herzberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Thandiwe Newton",
+      "character": "Regina Lambert",
+      "order": 0
+    },
+    {
+      "name": "Mark Wahlberg",
+      "character": "Peter Joshua",
+      "order": 1
+    },
+    {
+      "name": "Tim Robbins",
+      "character": "Hamilton Bartholomew",
+      "order": 2
+    },
+    {
+      "name": "Christine Boisson",
+      "character": "Commandant Dominique",
+      "order": 3
+    },
+    {
+      "name": "LisaGay Hamilton",
+      "character": "Lola Jansco",
+      "order": 4
+    },
+    {
+      "name": "Park Joong-hoon",
+      "character": "Il-sang Lee",
+      "order": 5
+    },
+    {
+      "name": "Ted Levine",
+      "character": "Emil Zadapec",
+      "order": 6
+    },
+    {
+      "name": "Stephen Dillane",
+      "character": "Charlie Lambert",
+      "order": 7
+    },
+    {
+      "name": "Sakina Jaffrey",
+      "character": "Sylvia",
+      "order": 8
+    },
+    {
+      "name": "Simon Abkarian",
+      "character": "Lieutenant Dessalines",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kQ6SdbWStviMhTFt5tatjpGvRGV.jpg",
+  "backdrop_path": "/fGs4uCzpBcYBfqw4rINA7twHIGQ.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.804,
+  "vote_count": 193,
+  "imdb_id": "tt0270707",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "6 wins & 3 nominations",
+  "rated": "R",
+  "released": "30 Apr 1999",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Simon Shore",
+  "writer": "Patrick Wilde",
+  "actors": "Ben Silverstone, Brad Gorton, Charlotte Brittain",
+  "plot": "This tenderly romantic film tells the story of Steve, a young boy in a at secondary school, as he struggles with coming out and falling in love with John, the top athlete at school - who, amazingly, falls in love with him as well.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "14,824",
+  "box_office": "$1,152,979",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=Get+Real"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0162973/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0162973/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24584"
+  }
+}

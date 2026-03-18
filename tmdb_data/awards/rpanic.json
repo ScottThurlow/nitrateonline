@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 9 nominations total",
+  "rated": "R",
+  "released": "29 Mar 2002",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "David Fincher",
+  "writer": "David Koepp",
+  "actors": "Jodie Foster, Kristen Stewart, Forest Whitaker",
+  "plot": "Recently divorced Meg Altman and her daughter Sarah have bought a new home in New York. On their tour around the mansion, they come across the panic room. A room so secure, that no one can get in. When three burglars break in, Meg makes a move to the panic room. But all her troubles don't stop there. The criminals know where she is, and what they require the most in the house is in that very room.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "65",
+  "imdb_rating": "6.8",
+  "imdb_votes": "313,150",
+  "box_office": "$96,397,334",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=Panic+Room"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/Panic+Room/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0258000/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0258000/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4547"
+  }
+}

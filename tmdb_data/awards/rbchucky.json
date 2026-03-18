@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "5 wins & 7 nominations total",
+  "rated": "R",
+  "released": "16 Oct 1998",
+  "runtime": "89 min",
+  "genre": "Comedy, Horror, Thriller",
+  "director": "Ronny Yu",
+  "writer": "Don Mancini",
+  "actors": "Jennifer Tilly, Brad Dourif, Katherine Heigl",
+  "plot": "Chucky hooks up with another murderous doll, the bridal gown-clad Tiffany, for a Route 66 murder spree with their unwitting hosts, two eloping high-school graduates.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "48",
+  "imdb_rating": "5.6",
+  "imdb_votes": "68,028",
+  "box_office": "$32,400,658",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=Bride+of+Chucky"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Bride+of+Chucky/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0144120/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0144120/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11932"
+  }
+}

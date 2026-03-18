@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 3 wins & 16 nominations total",
+  "rated": "R",
+  "released": "10 May 2002",
+  "runtime": "124 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Adrian Lyne",
+  "writer": "Claude Chabrol, Alvin Sargent, William Broyles Jr.",
+  "actors": "Richard Gere, Diane Lane, Olivier Martinez",
+  "plot": "Connie Sumner has a loving husband, a beautiful home, and a wonderful son, but she wants more. When she's approached one day by a handsome stranger while trying to hail a taxi, she becomes obsessed with him and eventually starts an affair. But her selfish actions soon catch up with her...",
+  "language": "English, French",
+  "country": "United States, Germany, Switzerland",
+  "metascore": "63",
+  "imdb_rating": "6.7",
+  "imdb_votes": "106,118",
+  "box_office": "$52,775,765",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "51%",
+      "link": "https://www.rottentomatoes.com/search?search=Unfaithful"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Unfaithful/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250797/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250797/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2251"
+  }
+}

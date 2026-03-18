@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 9294,
+  "title": "Phenomenon",
+  "original_title": "Phenomenon",
+  "release_date": "1996-07-05",
+  "runtime": 123,
+  "tagline": "Some things in life just can't be explained.",
+  "overview": "An ordinary man sees a bright light descend from the sky, and discovers he now has super-intelligence and telekinesis.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jon Turteltaub"
+  ],
+  "writers": [
+    {
+      "name": "Gerald Di Pego",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barbara Boyle",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Taylor",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Newirth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan D. Krane",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "George Malley",
+      "order": 0
+    },
+    {
+      "name": "Kyra Sedgwick",
+      "character": "Lace Pennamin",
+      "order": 1
+    },
+    {
+      "name": "Forest Whitaker",
+      "character": "Nate Pope",
+      "order": 2
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Doc",
+      "order": 3
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "character": "Professor Ringold",
+      "order": 4
+    },
+    {
+      "name": "Richard Kiley",
+      "character": "Dr. Wellin",
+      "order": 5
+    },
+    {
+      "name": "David Gallagher",
+      "character": "Al",
+      "order": 6
+    },
+    {
+      "name": "Ashley Buccille",
+      "character": "Glory",
+      "order": 7
+    },
+    {
+      "name": "Tony Genaro",
+      "character": "Tito",
+      "order": 8
+    },
+    {
+      "name": "Sean O'Bryan",
+      "character": "Banes",
+      "order": 9
+    }
+  ],
+  "poster_path": "/p4CGc4HxuMCDoYC3yVsdAMQDzGo.jpg",
+  "backdrop_path": "/15JUzyooElSbMXXYl2gnHX62A7X.jpg",
+  "budget": 32000000,
+  "revenue": 152000000,
+  "vote_average": 6.47,
+  "vote_count": 1307,
+  "imdb_id": "tt0117333",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

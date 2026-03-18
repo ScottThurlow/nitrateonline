@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "17 Jan 2003",
+  "runtime": "101 min",
+  "genre": "Comedy, Romance",
+  "director": "Chris Koch",
+  "writer": "Greg Glienna, Pete Schwaba, Matt Tarses",
+  "actors": "Jason Lee, Julia Stiles, Selma Blair",
+  "plot": "When he wakes up the morning after his bachelor party in bed with a strange woman, a man presumes he must have cheated on his fiancée. Guilt leads him to try to cover it up in the week before the wedding, high jinks ensue.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "27",
+  "imdb_rating": "5.6",
+  "imdb_votes": "18,987",
+  "box_office": "$15,545,431",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Guy+Thing"
+    },
+    {
+      "source": "Metacritic",
+      "value": "27/100",
+      "link": "https://www.metacritic.com/search/A+Guy+Thing/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295289/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295289/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9582"
+  }
+}

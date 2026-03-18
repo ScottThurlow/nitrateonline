@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 3 Oscars. 9 wins & 23 nominations total",
+  "rated": "R",
+  "released": "28 Jun 2000",
+  "runtime": "165 min",
+  "genre": "Action, Drama, War",
+  "director": "Roland Emmerich",
+  "writer": "Robert Rodat",
+  "actors": "Mel Gibson, Heath Ledger, Joely Richardson",
+  "plot": "It is 1776 in colonial South Carolina. Benjamin Martin, a French-Indian war hero who is haunted by his past, now wants nothing more than to live peacefully on his small plantation, and wants no part of a war with the most powerful nation in the world, Great Britain. Meanwhile, his two eldest sons, Gabriel and Thomas, can't wait to enlist in the newly formed \"Continental Army.\" When South Carolina decides to join the rebellion against England, Gabriel immediately signs up to fight...without his father's permission. But when Colonel William Tavington, British dragoon, infamous for his brutal tactics, comes and burns the Martin Plantation to the ground, tragedy strikes. Benjamin quickly finds himself torn between protecting his family, and seeking revenge along with being a part of the birth of a new, young, and ambitious nation.",
+  "language": "English, French",
+  "country": "Germany, United States",
+  "metascore": "63",
+  "imdb_rating": "7.2",
+  "imdb_votes": "305,970",
+  "box_office": "$113,330,342",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Patriot"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/The+Patriot/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0187393/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0187393/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2024"
+  }
+}

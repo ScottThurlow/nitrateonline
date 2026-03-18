@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 33 wins & 35 nominations total",
+  "rated": "PG-13",
+  "released": "29 Aug 2003",
+  "runtime": "101 min",
+  "genre": "Drama, Family",
+  "director": "Niki Caro",
+  "writer": "Niki Caro, Witi Ihimaera",
+  "actors": "Keisha Castle-Hughes, Rawiri Paratene, Vicky Haughton",
+  "plot": "On the east coast of New Zealand, the Whangara people believe their presence there dates back a thousand years or more to a single ancestor, Paikea, who escaped death when his canoe capsized by riding to shore on the back of a whale. From then on, Whangara chiefs, always the first-born, always male, have been considered Paikea's direct descendants. Pai, an 11-year-old girl in a patriarchal New Zealand tribe, believes she is destined to be the new chief. But her grandfather Koro is bound by tradition to pick a male leader. Pai loves Koro more than anyone in the world, but she must fight him and a thousand years of tradition to fulfill her destiny.",
+  "language": "English, Maori",
+  "country": "New Zealand, Germany",
+  "metascore": "80",
+  "imdb_rating": "7.5",
+  "imdb_votes": "44,401",
+  "box_office": "$20,779,666",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Whale+Rider"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/Whale+Rider/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0298228/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0298228/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1088"
+  }
+}

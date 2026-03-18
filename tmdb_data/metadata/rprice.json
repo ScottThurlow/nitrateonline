@@ -1,0 +1,95 @@
+{
+  "tmdb_id": 53263,
+  "title": "Price of Glory",
+  "original_title": "Price of Glory",
+  "release_date": "2000-05-31",
+  "runtime": 118,
+  "tagline": "Sometimes the toughest battles are fought in your own family.",
+  "overview": "An ex-boxer, living with the knowledge that his fight career was cut short by a crooked manager, channels his bitter disappointment in a single-minded quest for boxing championships for his three sons. We see them in pee-wee Silver Glove matches with dad constantly pushing them. Ten years later, they're young men, with dad as both father and manager. A professional promoter, Nick Everson, wants to sign the boys, but dad rejects those offers. Then, in expressions of their varied relationships with their father, each son makes his own decisions. Can dad ever step aside, and can the family hold together?",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Carlos Ávila"
+  ],
+  "writers": [
+    {
+      "name": "Phil Berger",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Jimmy Smits",
+      "character": "Arturo Ortega",
+      "order": 0
+    },
+    {
+      "name": "Maria del Mar",
+      "character": "Rita Ortega",
+      "order": 1
+    },
+    {
+      "name": "Jon Seda",
+      "character": "Sonny Ortega",
+      "order": 2
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "character": "Jimmy Ortega",
+      "order": 3
+    },
+    {
+      "name": "Ernesto Hernández",
+      "character": "Johnny Ortega (as Ernesto Hernandez)",
+      "order": 4
+    },
+    {
+      "name": "Ron Perlman",
+      "character": "Nick Everson",
+      "order": 5
+    },
+    {
+      "name": "Paul Rodríguez",
+      "character": "Pepe",
+      "order": 6
+    },
+    {
+      "name": "Louis Mandylor",
+      "character": "Davey Lane",
+      "order": 7
+    },
+    {
+      "name": "Sal Lopez",
+      "character": "Hector Salmon",
+      "order": 8
+    },
+    {
+      "name": "Danielle Camastra",
+      "character": "Marielle Cruz",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yRFEv3c5uEVywcREzEL4FiwhX1p.jpg",
+  "backdrop_path": null,
+  "budget": 10000000,
+  "revenue": 0,
+  "vote_average": 4.5,
+  "vote_count": 9,
+  "imdb_id": "tt0188160",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

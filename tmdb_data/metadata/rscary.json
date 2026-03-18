@@ -1,0 +1,246 @@
+{
+  "tmdb_id": 4256,
+  "title": "Scary Movie 3",
+  "original_title": "Scary Movie 3",
+  "release_date": "2003-10-24",
+  "runtime": 84,
+  "tagline": "Great trilogies come in threes.",
+  "overview": "In the third installment of the Scary Movie franchise, news anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Brad Grey Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Zucker"
+  ],
+  "writers": [
+    {
+      "name": "Shawn Wayans",
+      "job": "Characters"
+    },
+    {
+      "name": "Marlon Wayans",
+      "job": "Characters"
+    },
+    {
+      "name": "Buddy Johnson",
+      "job": "Characters"
+    },
+    {
+      "name": "Phil Beauman",
+      "job": "Characters"
+    },
+    {
+      "name": "Jason Friedberg",
+      "job": "Characters"
+    },
+    {
+      "name": "Aaron Seltzer",
+      "job": "Characters"
+    },
+    {
+      "name": "Craig Mazin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pat Proft",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Narges Takesh",
+      "job": "Story Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert K. Weiss",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Rona",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brad Weston",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anna Faris",
+      "character": "Cindy Campbell",
+      "order": 0
+    },
+    {
+      "name": "Regina Hall",
+      "character": "Brenda Meeks",
+      "order": 1
+    },
+    {
+      "name": "Simon Rex",
+      "character": "George",
+      "order": 2
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "Mahalik",
+      "order": 3
+    },
+    {
+      "name": "Charlie Sheen",
+      "character": "Tom",
+      "order": 4
+    },
+    {
+      "name": "Leslie Nielsen",
+      "character": "President Baxter Harris",
+      "order": 5
+    },
+    {
+      "name": "Kevin Hart",
+      "character": "CJ",
+      "order": 6
+    },
+    {
+      "name": "Jeremy Piven",
+      "character": "Ross Giggins",
+      "order": 7
+    },
+    {
+      "name": "Pamela Anderson",
+      "character": "Becca",
+      "order": 8
+    },
+    {
+      "name": "Jenny McCarthy",
+      "character": "Kate",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lpNG1nx67rvYze1b1R9q0YoSzrC.jpg",
+  "backdrop_path": "/nF74HKjNe7X54XMcIc7ulK5InxR.jpg",
+  "budget": 45000000,
+  "revenue": 220673217,
+  "vote_average": 6.0,
+  "vote_count": 4394,
+  "imdb_id": "tt0306047",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

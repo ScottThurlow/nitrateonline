@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 nominations total",
+  "rated": "PG-13",
+  "released": "19 Apr 2002",
+  "runtime": "108 min",
+  "genre": "Comedy, Crime, Romance",
+  "director": "Peter Cattaneo",
+  "writer": "Ronan Bennett, Stephen Fry",
+  "actors": "Ron Cook, Frank Harper, James Nesbitt",
+  "plot": "Half-way through his 12-year prison sentence for an incompetent armed robbery, Jimmy Hands gets a lucky break: he's transferred to a prison from which he can probably escape. He convinces the governor to stage a musical in an old chapel next to the prison's outer wall. He rounds up volunteer actors and puts his escape plan into production. Two other barriers, besides the wall, confront him: the arrival of a nasty inmate, John Toombes, who insists on joining the escape, and Jimmy's feelings of attraction for Anabel, a social worker who agrees to appear in the play. Opening night approaches: is this Jimmy's breakout performance?",
+  "language": "English",
+  "country": "United Kingdom, Germany, United States",
+  "metascore": "48",
+  "imdb_rating": "6.2",
+  "imdb_votes": "2,325",
+  "box_office": "$54,606",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=Lucky+Break"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Lucky+Break/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0246134/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0246134/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/35944"
+  }
+}

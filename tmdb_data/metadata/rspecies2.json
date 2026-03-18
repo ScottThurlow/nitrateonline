@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 10216,
+  "title": "Species II",
+  "original_title": "Species II",
+  "release_date": "1998-04-10",
+  "runtime": 93,
+  "tagline": "Mating season begins...",
+  "overview": "Having just returned from a mission to Mars, Commander Ross isn't exactly himself. He's slowly becoming a terrifying alien entity with one goal -- to procreate with human women! When countless women suffer gruesome deaths after bearing half-alien offspring, scientist Laura Baker and hired assassin Press Lennox use Eve, a more tempered alien clone, to find Ross and his brood. Before long Eve escapes to mate with Ross.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "FGM Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Medak"
+  ],
+  "writers": [
+    {
+      "name": "Chris Brancato",
+      "job": "Writer"
+    },
+    {
+      "name": "Dennis Feldman",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Mancuso Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "Dennis Feldman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Madsen",
+      "character": "Press Lenox",
+      "order": 0
+    },
+    {
+      "name": "Natasha Henstridge",
+      "character": "Eve",
+      "order": 1
+    },
+    {
+      "name": "Marg Helgenberger",
+      "character": "Dr. Laura Baker",
+      "order": 2
+    },
+    {
+      "name": "Mykelti Williamson",
+      "character": "Dennis Gamble",
+      "order": 3
+    },
+    {
+      "name": "George Dzundza",
+      "character": "Colonel Burgess",
+      "order": 4
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Senator Ross",
+      "order": 5
+    },
+    {
+      "name": "Sarah Wynter",
+      "character": "Melissa",
+      "order": 6
+    },
+    {
+      "name": "Justin Lazard",
+      "character": "Patrick Ross",
+      "order": 7
+    },
+    {
+      "name": "Myriam Cyr",
+      "character": "Anne Sampas",
+      "order": 8
+    },
+    {
+      "name": "Baxter Harris",
+      "character": "Dr. Orinsky",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8LSBi0bHACZtIiVErUBQ2UXNYLA.jpg",
+  "backdrop_path": "/x0XakykB5NRwOv9QZT9oBJbXg29.jpg",
+  "budget": 35000000,
+  "revenue": 19200000,
+  "vote_average": 5.161,
+  "vote_count": 791,
+  "imdb_id": "tt0120841",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,194 @@
+{
+  "tmdb_id": 11397,
+  "title": "Not Another Teen Movie",
+  "original_title": "Not Another Teen Movie",
+  "release_date": "2001-12-07",
+  "runtime": 89,
+  "tagline": "They served you Breakfast. They gave you Pie. Now we’re gonna stuff your face.",
+  "overview": "On a bet, a gridiron hero at John Hughes High School sets out to turn a bespectacled plain Jane into a beautiful and popular prom queen in this outrageous send-up of the teen movies of the 1980s and '90s.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    },
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Gallen"
+  ],
+  "writers": [
+    {
+      "name": "Mike Bender",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Adam Jay Epstein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Phil Beauman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andrew Jacobson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Buddy Johnson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael I. Rachmil",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brad Luff",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chyler Leigh",
+      "character": "Janey Briggs",
+      "order": 0
+    },
+    {
+      "name": "Chris Evans",
+      "character": "Jake Wyler",
+      "order": 1
+    },
+    {
+      "name": "Jaime Pressly",
+      "character": "Priscilla",
+      "order": 2
+    },
+    {
+      "name": "Eric Christian Olsen",
+      "character": "Austin",
+      "order": 3
+    },
+    {
+      "name": "Mia Kirshner",
+      "character": "Catherine Wyler",
+      "order": 4
+    },
+    {
+      "name": "Deon Richmond",
+      "character": "Malik",
+      "order": 5
+    },
+    {
+      "name": "Eric Jungmann",
+      "character": "Ricky Lipman",
+      "order": 6
+    },
+    {
+      "name": "Ron Lester",
+      "character": "Reggie Ray",
+      "order": 7
+    },
+    {
+      "name": "Cody McMains",
+      "character": "Mitch Briggs",
+      "order": 8
+    },
+    {
+      "name": "Sam Huntington",
+      "character": "Ox",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9ZaGxvj1mqdKVLpSloq4mzS7SK6.jpg",
+  "backdrop_path": "/lyf1jjoMD1Pe7KD6KKEqL4Owgeb.jpg",
+  "budget": 16000000,
+  "revenue": 66468332,
+  "vote_average": 5.8,
+  "vote_count": 2247,
+  "imdb_id": "tt0277371",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 29270,
+  "title": "A Time for Drunken Horses",
+  "original_title": "Zamani barayé masti asbha",
+  "release_date": "2000-09-13",
+  "runtime": 80,
+  "tagline": "",
+  "overview": "After their father dies, a family of five children are forced to survive on their own in a Kurdish village on the border of Iran and Iraq.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "Kurdish"
+  ],
+  "production_companies": [
+    {
+      "name": "Bahman Ghobadi Films",
+      "country": "IR"
+    },
+    {
+      "name": "MK2 Films",
+      "country": "FR"
+    },
+    {
+      "name": "Farabi Cinema",
+      "country": "IR"
+    }
+  ],
+  "director": [
+    "Bahman Ghobadi"
+  ],
+  "writers": [
+    {
+      "name": "Bahman Ghobadi",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bahman Ghobadi",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ayoub Ahmadi",
+      "character": "Ayoub",
+      "order": 0
+    },
+    {
+      "name": "Rojin Younessi",
+      "character": "Rojin",
+      "order": 1
+    },
+    {
+      "name": "Amaneh Ekhtiar-dini",
+      "character": "Amaneh",
+      "order": 2
+    },
+    {
+      "name": "Madi Ekhtiar-dini",
+      "character": "Madi",
+      "order": 3
+    },
+    {
+      "name": "Kolsolum Ekhtiar-dini",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "Karim Ekhtiar-dini",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Rahman Salehi",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Osman Karimi",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Nezhad Ekhtiar-dini",
+      "character": "",
+      "order": 8
+    }
+  ],
+  "poster_path": "/hQv7sCP0FddDwVo243Fpf32u4uR.jpg",
+  "backdrop_path": "/glBc1m1X5sEzdqk6xmx4tc4ukYD.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.573,
+  "vote_count": 116,
+  "imdb_id": "tt0259072",
+  "certifications": [],
+  "status": "Released"
+}

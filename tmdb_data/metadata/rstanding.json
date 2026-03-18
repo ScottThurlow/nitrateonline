@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 30192,
+  "title": "Standing in the Shadows of Motown",
+  "original_title": "Standing in the Shadows of Motown",
+  "release_date": "2002-09-11",
+  "runtime": 116,
+  "tagline": "The soul behind the sound.",
+  "overview": "In 1959, Berry Gordy Jr. gathered the best musicians from Detroit's thriving jazz and blues scene to begin cutting songs for his new record company. Over a fourteen year period they were the heartbeat on every hit from Motown's Detroit era. By the end of their phenomenal run, this unheralded group of musicians had played on more number ones hits than the Beach Boys, the Rolling Stones, Elvis and the Beatles combined - which makes them the greatest hit machine in the history of popular music. They called themselves the Funk Brothers. Forty-one years after they played their first note on a Motown record and three decades since they were all together, the Funk Brothers reunited back in Detroit to play their music and tell their unforgettable story, with the help of archival footage, still photos, narration, interviews, re-creation scenes, 20 Motown master tracks, and twelve new live performances of Motown classics with the Brothers backing up contemporary performers.",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Elliott Scott Productions",
+      "country": ""
+    },
+    {
+      "name": "Rimshot",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Paul Justman"
+  ],
+  "writers": [
+    {
+      "name": "Walter Dallas",
+      "job": "Writer"
+    },
+    {
+      "name": "Alan Slutsky",
+      "job": "Novel"
+    },
+    {
+      "name": "Ntozake Shange",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Scott",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard 'Pistol' Allen",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Jack Ashford",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Bob Babbitt",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Benny 'Papa Zita' Benjamin",
+      "character": "Self (archive footage)",
+      "order": 3
+    },
+    {
+      "name": "Eddie 'Bongo' Brown",
+      "character": "Self (archive footage)",
+      "order": 4
+    },
+    {
+      "name": "Bootsy Collins",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Johnny Griffith",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Ben Harper",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "Joe Hunter",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "James Jamerson",
+      "character": "Self (archive footage)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rsOTrPTRhBgw5eWAgJISBMiIg5m.jpg",
+  "backdrop_path": "/6LAXVdzVLh26hKmTx6bBRpnPRmP.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.9,
+  "vote_count": 45,
+  "imdb_id": "tt0314725",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

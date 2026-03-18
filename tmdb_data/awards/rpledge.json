@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 6 nominations total",
+  "rated": "R",
+  "released": "19 Jan 2001",
+  "runtime": "124 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Sean Penn",
+  "writer": "Friedrich Dürrenmatt, Jerzy Kromolowski, Mary Olson-Kromolowski",
+  "actors": "Jack Nicholson, Benicio Del Toro, Patricia Clarkson",
+  "plot": "On the night he retires as a Reno, Nevada detective, Jerry Black (Jack Nicholson) pledges to the mother of a murdered girl that he will find the killer. Jerry doesn't believe the Police arrested the right man. He discovers that this is the third incident in the area in the recent past with victims young, blonde, pretty, and small for their ages. So he buys an old gas station in the mountains near the crimes in order to search for a tall man who drives a black station wagon, gives toy porcupines as gifts, and calls himself \"the wizard\", all clues from a drawing by the dead girl. Jerry's solitary life gives way to friendship with a woman and her small, blonde daughter. Has Jerry neglected something that may prove to be fatal?",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "71",
+  "imdb_rating": "6.7",
+  "imdb_votes": "72,050",
+  "box_office": "$19,733,089",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Pledge"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/The+Pledge/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0237572/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0237572/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/5955"
+  }
+}

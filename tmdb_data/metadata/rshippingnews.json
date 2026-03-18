@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 6440,
+  "title": "The Shipping News",
+  "original_title": "The Shipping News",
+  "release_date": "2001-12-18",
+  "runtime": 111,
+  "tagline": "Dive beneath the surface.",
+  "overview": "An emotionally-beaten man with his young daughter moves to his ancestral home in Newfoundland to reclaim his life.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lasse Hallström"
+  ],
+  "writers": [
+    {
+      "name": "Robert Nelson Jacobs",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Annie Proulx",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Linda Goldstein Knowlton",
+      "job": "Producer"
+    },
+    {
+      "name": "Irwin Winkler",
+      "job": "Producer"
+    },
+    {
+      "name": "Leslie Holleran",
+      "job": "Producer"
+    },
+    {
+      "name": "Meryl Poster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rob Cowan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Spacey",
+      "character": "Quoyle",
+      "order": 0
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Wavey Prowse",
+      "order": 1
+    },
+    {
+      "name": "Cate Blanchett",
+      "character": "Petal",
+      "order": 2
+    },
+    {
+      "name": "Judi Dench",
+      "character": "Agnis Hamm",
+      "order": 3
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "character": "Tert Card",
+      "order": 4
+    },
+    {
+      "name": "Scott Glenn",
+      "character": "Jack Buggit",
+      "order": 5
+    },
+    {
+      "name": "Rhys Ifans",
+      "character": "Beaufield Nutbeem",
+      "order": 6
+    },
+    {
+      "name": "Gordon Pinsent",
+      "character": "Billy Pretty",
+      "order": 7
+    },
+    {
+      "name": "Jason Behr",
+      "character": "Dennis Buggit",
+      "order": 8
+    },
+    {
+      "name": "Kate Moennig",
+      "character": "Grace Moosup",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3IdEZw4YN4NfvjLRyZVWpI0z2IH.jpg",
+  "backdrop_path": "/9gzaEGkgadqCRHbBhZie4qtOthQ.jpg",
+  "budget": 38000000,
+  "revenue": 24690441,
+  "vote_average": 6.376,
+  "vote_count": 408,
+  "imdb_id": "tt0120824",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

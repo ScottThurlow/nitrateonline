@@ -1,0 +1,110 @@
+{
+  "tmdb_id": 207625,
+  "title": "Such a Long Journey",
+  "original_title": "Such a Long Journey",
+  "release_date": "1998-09-13",
+  "runtime": 113,
+  "tagline": "A country on the brink of war...a family torn apart...and one man in the middle",
+  "overview": "The story, set in 1971 at the time of the war between India and Pakistan, is based on the novel of the same name by Rohinton Mistry, an Indian now living in Toronto.  \"Such a Long Journey\" takes place mostly in and around a large apartment complex, its courtyard and the street, which the municipal authorities want to widen so that even more choking diesel fumes can cloud the air. We meet the hero, Gustad (Roshan Seth), in the process of defending the old concrete wall that protects his courtyard from the street, and later he strikes a bargain with an itinerant artist (Ranjit Chowdhry), who covers the wall with paintings from every conceivable religious tradition, with the thought that all of the groups represented will join in defending the wall.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Amy International Artists",
+      "country": "GB"
+    },
+    {
+      "name": "The Film Works",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Sturla Gunnarsson"
+  ],
+  "writers": [
+    {
+      "name": "Sooni Taraporevala",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paul Stephens",
+      "job": "Producer"
+    },
+    {
+      "name": "Simon MacCorkindale",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Roshan Seth",
+      "character": "Gustad Noble",
+      "order": 0
+    },
+    {
+      "name": "Soni Razdan",
+      "character": "Dilnavaz Noble",
+      "order": 1
+    },
+    {
+      "name": "Om Puri",
+      "character": "Ghulam",
+      "order": 2
+    },
+    {
+      "name": "Naseeruddin Shah",
+      "character": "Jimmy Bilimoria",
+      "order": 3
+    },
+    {
+      "name": "Ranjit Chowdhry",
+      "character": "Pavement Artist",
+      "order": 4
+    },
+    {
+      "name": "Sam Dastor",
+      "character": "Dinshawji",
+      "order": 5
+    },
+    {
+      "name": "Kurush Deboo",
+      "character": "Tehmul",
+      "order": 6
+    },
+    {
+      "name": "Pearl Padamsee",
+      "character": "Mrs. Kutpitia",
+      "order": 7
+    },
+    {
+      "name": "Vrajesh Hirjee",
+      "character": "Sohrab Noble",
+      "order": 8
+    },
+    {
+      "name": "Kurush Dastur",
+      "character": "Darius Noble",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8lDyn3wj3X1X60PzZ5R7bp0bYPB.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.8,
+  "vote_count": 4,
+  "imdb_id": "tt0120848",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "14A"
+    }
+  ],
+  "status": "Released"
+}

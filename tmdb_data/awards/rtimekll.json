@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "7 wins & 12 nominations total",
+  "rated": "R",
+  "released": "24 Jul 1996",
+  "runtime": "149 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Joel Schumacher",
+  "writer": "John Grisham, Akiva Goldsman",
+  "actors": "Matthew McConaughey, Sandra Bullock, Samuel L. Jackson",
+  "plot": "When Tonya Hailey, an innocent little African-American girl is raped and beaten by 2 beer-guzzling rednecks, the town of Clanton, Mississippi is shocked. Her father Carl Lee Hailey is outraged, and figuring he could not see those boys set free, decides to take justice into his own hands and kills them in the court house, in front of numerous witnesses. Now it's up to Jake Brigance to get Carl Lee off the hook. He has people that help him, but he is up against tough D.A. Rufus Buckley. Will he be able to prove that a black man can get a fair trial in Mississippi?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "53",
+  "imdb_rating": "7.5",
+  "imdb_votes": "192,181",
+  "box_office": "$108,766,007",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Time+to+Kill"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/A+Time+to+Kill/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0117913/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0117913/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1645"
+  }
+}

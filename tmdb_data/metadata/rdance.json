@@ -1,0 +1,133 @@
+{
+  "tmdb_id": 17915,
+  "title": "Dance with Me",
+  "original_title": "Dance with Me",
+  "release_date": "1998-08-21",
+  "runtime": 126,
+  "tagline": "In the dance of life, love can happen in a heartbeat.",
+  "overview": "Young Cuban Rafael just buried his mother, and comes to Houston to meet his father John for the first time. The difficult part is that John doesn't know he is Rafael's father. John runs a dance studio, and everyone prepares for the World Open Dance championship in Las Vegas. It soon becomes clear Rafael is a very good dancer, and Ruby is the biggest hope for the studio at the championship.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mandalay Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Randa Haines"
+  ],
+  "writers": [
+    {
+      "name": "Daryl Matthews",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Shinya Egawa",
+      "job": "Producer"
+    },
+    {
+      "name": "Randa Haines",
+      "job": "Producer"
+    },
+    {
+      "name": "Lauren Weissman",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Zachary",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vanessa Williams",
+      "character": "Ruby Sinclair",
+      "order": 0
+    },
+    {
+      "name": "Chayanne",
+      "character": "Rafael Infante",
+      "order": 1
+    },
+    {
+      "name": "Kris Kristofferson",
+      "character": "John Burnett",
+      "order": 2
+    },
+    {
+      "name": "Joan Plowright",
+      "character": "Bea Johnson",
+      "order": 3
+    },
+    {
+      "name": "Jane Krakowski",
+      "character": "Patricia Black",
+      "order": 4
+    },
+    {
+      "name": "Beth Grant",
+      "character": "Lovejoy",
+      "order": 5
+    },
+    {
+      "name": "Victor Marcel",
+      "character": "Fernando",
+      "order": 6
+    },
+    {
+      "name": "Harry Groener",
+      "character": "Michael",
+      "order": 7
+    },
+    {
+      "name": "William Marquez",
+      "character": "Stephano",
+      "order": 8
+    },
+    {
+      "name": "Bill Applebaum",
+      "character": "Don Harrington",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zNUxfWLFGfM7IC7LpxZqWRCnVMK.jpg",
+  "backdrop_path": "/hZlrvm9wIRuHLXdN73XcFkznkWZ.jpg",
+  "budget": 0,
+  "revenue": 15923122,
+  "vote_average": 6.9,
+  "vote_count": 216,
+  "imdb_id": "tt0120576",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 72958,
+  "title": "The Clay Bird",
+  "original_title": "মাটির ময়না",
+  "release_date": "2002-11-08",
+  "runtime": 98,
+  "tagline": "",
+  "overview": "A family must come to grips with its culture, its faith, and the brutal political changes entering its small-town world.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_companies": [
+    {
+      "name": "MK2 Films",
+      "country": "FR"
+    },
+    {
+      "name": "Audiovision",
+      "country": "BD"
+    }
+  ],
+  "director": [
+    "Tareque Masud"
+  ],
+  "writers": [
+    {
+      "name": "Catherine Masud",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tareque Masud",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tareque Masud",
+      "job": "Dialogue"
+    },
+    {
+      "name": "Tareque Masud",
+      "job": "Story"
+    },
+    {
+      "name": "Tareque Masud",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nathalie Kreuther",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Catherine Masud",
+      "job": "Producer"
+    },
+    {
+      "name": "Marin Karmitz",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nurul Islam Bablu",
+      "character": "Anu",
+      "order": 0
+    },
+    {
+      "name": "Russell Farazi",
+      "character": "Rokon",
+      "order": 1
+    },
+    {
+      "name": "Jayanto Chattopadhyay",
+      "character": "Kazi",
+      "order": 2
+    },
+    {
+      "name": "Rokeya Prachy",
+      "character": "Ayesha",
+      "order": 3
+    },
+    {
+      "name": "Soaeb Islam",
+      "character": "Milon",
+      "order": 4
+    },
+    {
+      "name": "Lameesa Reemjheem",
+      "character": "Asma",
+      "order": 5
+    },
+    {
+      "name": "Moin Ahmed",
+      "character": "Ibrahim",
+      "order": 6
+    },
+    {
+      "name": "Moslemuddin",
+      "character": "Bakiullah Headmaster",
+      "order": 7
+    },
+    {
+      "name": "Abdul Karim",
+      "character": "Halim Mia",
+      "order": 8
+    },
+    {
+      "name": "Shah Alam Dewan",
+      "character": "Karim Boatman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lpuRN4Gh2jiKhwZeHEsKjgoHZ83.jpg",
+  "backdrop_path": "/eDhODQqXkYVDBbn4x2JaVBHcms.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.2,
+  "vote_count": 31,
+  "imdb_id": "tt0319836",
+  "certifications": [
+    {
+      "country": "BD",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

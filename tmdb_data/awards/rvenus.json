@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "8 wins & 3 nominations",
+  "rated": "R",
+  "released": "03 Feb 1999",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Tonie Marshall",
+  "writer": "Tonie Marshall, Jacques Audiard, Marion Vernoux",
+  "actors": "Nathalie Baye, Bulle Ogier, Samuel Le Bihan",
+  "plot": "Madam Nadine manages with pride the \"Vénus beauté\" Salon which offers relaxation, massage and make-up services. The owner and her three beauticians: Samantha, Marianne and Angèle are pros. Contrary to her friend Marianne, who still dreams of the big day, Angèle no longer believes in love. Marie, the youngest of the three employees, discovers love in the hands of a sixty year-old former pilot, who risks everything...",
+  "language": "French",
+  "country": "France",
+  "metascore": "64",
+  "imdb_rating": "6.3",
+  "imdb_votes": "4,443",
+  "box_office": "$465,080",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=Venus+Beauty+Institute"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/Venus+Beauty+Institute/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0174330/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0174330/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/33491"
+  }
+}

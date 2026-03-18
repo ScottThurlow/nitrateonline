@@ -1,0 +1,87 @@
+{
+  "tmdb_id": 1083264,
+  "title": "King of the Ants",
+  "original_title": "King of the Ants",
+  "release_date": "2003-12-12",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "College football drama.",
+  "genres": [
+    "Family",
+    "Adventure"
+  ],
+  "spoken_languages": [],
+  "production_companies": [],
+  "director": [
+    "Tedd Taskey",
+    "Michael Arabian"
+  ],
+  "writers": [
+    {
+      "name": "Tedd Taskey",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Tedd Taskey",
+      "character": "Michael",
+      "order": 0
+    },
+    {
+      "name": "Trie Donovan",
+      "character": "Brenda",
+      "order": 1
+    },
+    {
+      "name": "Ruben Paul",
+      "character": "Peter",
+      "order": 2
+    },
+    {
+      "name": "Patrick St. Esprit",
+      "character": "Sgt. Moorse",
+      "order": 3
+    },
+    {
+      "name": "Tiffany Fraser",
+      "character": "Leslie",
+      "order": 4
+    },
+    {
+      "name": "Ryan McPartlin",
+      "character": "Straff",
+      "order": 5
+    },
+    {
+      "name": "Ryan Cutrona",
+      "character": "Coach Brown",
+      "order": 6
+    },
+    {
+      "name": "Brenton Earley",
+      "character": "Trip",
+      "order": 7
+    },
+    {
+      "name": "Emilie Beck",
+      "character": "Karen",
+      "order": 8
+    },
+    {
+      "name": "Linda Kim",
+      "character": "Stacey",
+      "order": 9
+    }
+  ],
+  "poster_path": "/n73BNZUQ7hoQZusiV2b7sEGA0j2.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0308464",
+  "certifications": [],
+  "status": "Released"
+}

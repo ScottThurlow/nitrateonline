@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 5 Oscars. 61 wins & 105 nominations total",
+  "rated": "R",
+  "released": "05 May 2000",
+  "runtime": "155 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ridley Scott",
+  "writer": "David Franzoni, John Logan, William Nicholson",
+  "actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+  "plot": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.",
+  "language": "English",
+  "country": "United States, United Kingdom, Malta, Morocco",
+  "metascore": "67",
+  "imdb_rating": "8.5",
+  "imdb_votes": "1,831,468",
+  "box_office": "$187,705,427",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=Gladiator"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Gladiator/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0172495/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0172495/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/98"
+  }
+}

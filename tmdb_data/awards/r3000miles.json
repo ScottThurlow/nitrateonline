@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "13 nominations total",
+  "rated": "R",
+  "released": "23 Feb 2001",
+  "runtime": "125 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Demian Lichtenstein",
+  "writer": "Richard Recco, Demian Lichtenstein, Kevin Bernhardt",
+  "actors": "Kurt Russell, Kevin Costner, Courteney Cox",
+  "plot": "It was an ingenious enough plan: rob the Riviera Casino's count room during an Elvis impersonator convention. But Thomas Murphy decided to keep all the money for himself and shot all his partners, including recently-freed ex-con Michael Zane. With $3.2 million at stake, the Marshals Service closing in, and single mom Cybil Waingrow and her son Jesse constantly confounding things, Michael must track down Murphy.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "21",
+  "imdb_rating": "6.0",
+  "imdb_votes": "50,878",
+  "box_office": "$15,749,959",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=3000+Miles+to+Graceland"
+    },
+    {
+      "source": "Metacritic",
+      "value": "21/100",
+      "link": "https://www.metacritic.com/search/3000+Miles+to+Graceland/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0233142/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0233142/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12138"
+  }
+}

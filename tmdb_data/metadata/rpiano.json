@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 1791,
+  "title": "The Piano Teacher",
+  "original_title": "La Pianiste",
+  "release_date": "2001-09-05",
+  "runtime": 131,
+  "tagline": "",
+  "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Wega Film",
+      "country": "AT"
+    },
+    {
+      "name": "MK2 Films",
+      "country": "FR"
+    },
+    {
+      "name": "Les Films Alain Sarde",
+      "country": "FR"
+    },
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Michael Haneke"
+  ],
+  "writers": [
+    {
+      "name": "Michael Haneke",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Elfriede Jelinek",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Veit Heiduschka",
+      "job": "Producer"
+    },
+    {
+      "name": "Yvon Crenn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christine Gozlan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Katz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marin Karmitz",
+      "job": "Producer"
+    },
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Isabelle Huppert",
+      "character": "Erika Kohut",
+      "order": 0
+    },
+    {
+      "name": "Annie Girardot",
+      "character": "Erika's Mother",
+      "order": 1
+    },
+    {
+      "name": "Benoît Magimel",
+      "character": "Walter Klemmer",
+      "order": 2
+    },
+    {
+      "name": "Susanne Lothar",
+      "character": "Mme Schober",
+      "order": 3
+    },
+    {
+      "name": "Udo Samel",
+      "character": "Dr. George Blonskij",
+      "order": 4
+    },
+    {
+      "name": "Anna Sigalevitch",
+      "character": "Anna Schober",
+      "order": 5
+    },
+    {
+      "name": "Cornelia Köndgen",
+      "character": "Mme Gerda Blonskij",
+      "order": 6
+    },
+    {
+      "name": "Thomas Weinhappel",
+      "character": "Baritone",
+      "order": 7
+    },
+    {
+      "name": "Georg Friedrich",
+      "character": "L'homme en voiture",
+      "order": 8
+    },
+    {
+      "name": "Philipp Heiss",
+      "character": "Naprawnik",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+  "backdrop_path": "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+  "budget": 6200000,
+  "revenue": 6766708,
+  "vote_average": 7.3,
+  "vote_count": 1240,
+  "imdb_id": "tt0254686",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "UA",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 11 nominations total",
+  "rated": "R",
+  "released": "28 Sep 2001",
+  "runtime": "90 min",
+  "genre": "Comedy",
+  "director": "Ben Stiller",
+  "writer": "Drake Sather, Ben Stiller, John Hamburg",
+  "actors": "Ben Stiller, Owen Wilson, Christine Taylor",
+  "plot": "Derek Zoolander is VH1's three time male model of the year, but when Hansel wins the award instead, Zoolander's world becomes upside down. His friends disappear, his father is disappointed in him, and he feels that he's not good as a model anymore. But when evil fashion guru Mugatu hires Zoolander, he thinks his life has turned back round again, that is until he finds out that Mugatu has actually brainwashed him to kill the Prime Minister of Malaysia. Can Zoolander and his new friends find out how to prevent the incident before it's too late?",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "61",
+  "imdb_rating": "6.5",
+  "imdb_votes": "314,450",
+  "box_office": "$45,172,250",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Zoolander"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Zoolander/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0196229/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0196229/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9398"
+  }
+}

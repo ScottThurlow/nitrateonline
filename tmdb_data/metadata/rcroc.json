@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 17043,
+  "title": "The Crocodile Hunter: Collision Course",
+  "original_title": "The Crocodile Hunter: Collision Course",
+  "release_date": "2002-07-26",
+  "runtime": 90,
+  "tagline": "His First Big-Screen Adventure!",
+  "overview": "Steve Irwin, AKA The Crocodile Hunter, has avoided the death-roll and saved a croc from poachers. But what he doesn't know is that the crocodile has swallowed a top secret U.S. satellite beacon, and the poachers are actually American special agents sent to retrieve it.",
+  "genres": [
+    "Family",
+    "Adventure",
+    "Comedy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Winchester Films",
+      "country": "GB"
+    },
+    {
+      "name": "Best Picture Show Company, The",
+      "country": ""
+    },
+    {
+      "name": "Cheyenne Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Discovery Channel Pictures",
+      "country": ""
+    },
+    {
+      "name": "J&M Entertainment",
+      "country": "GB"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Stainton"
+  ],
+  "writers": [
+    {
+      "name": "John Stainton",
+      "job": "Writer"
+    },
+    {
+      "name": "Holly Goldberg Sloan",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Willis",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Judy Bailey",
+      "job": "Producer"
+    },
+    {
+      "name": "John Stainton",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Rifkin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Irwin",
+      "character": "Steve Irwin",
+      "order": 0
+    },
+    {
+      "name": "Terri Irwin",
+      "character": "Terri Irwin",
+      "order": 1
+    },
+    {
+      "name": "Magda Szubanski",
+      "character": "Brozzie Drewitt",
+      "order": 2
+    },
+    {
+      "name": "David Wenham",
+      "character": "Sam Flynn",
+      "order": 3
+    },
+    {
+      "name": "Lachy Hulme",
+      "character": "Robert Wheeler",
+      "order": 4
+    },
+    {
+      "name": "Aden Young",
+      "character": "Ron Buckwhiler",
+      "order": 5
+    },
+    {
+      "name": "Kenneth Ransom",
+      "character": "Vaughan Archer",
+      "order": 6
+    },
+    {
+      "name": "Kate Beahan",
+      "character": "Jo Buckley",
+      "order": 7
+    },
+    {
+      "name": "Steve Bastoni",
+      "character": "Deputy Director Reynolds",
+      "order": 8
+    },
+    {
+      "name": "Steven Vidler",
+      "character": "Deputy Director Ansell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gfgvfuce0SqF1IolIJYYBxteof0.jpg",
+  "backdrop_path": "/aA2vwXBjONLtInbR7i6OI4SuWOr.jpg",
+  "budget": 12000000,
+  "revenue": 33082548,
+  "vote_average": 5.4,
+  "vote_count": 109,
+  "imdb_id": "tt0305396",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

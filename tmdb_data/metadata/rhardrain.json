@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 11258,
+  "title": "Hard Rain",
+  "original_title": "Hard Rain",
+  "release_date": "1998-01-16",
+  "runtime": 97,
+  "tagline": "A simple plan. An instant fortune. Just add water.",
+  "overview": "An armored car driver tries to elude a gang of thieves while a flood ravages the countryside.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "UGC PH",
+      "country": "FR"
+    },
+    {
+      "name": "Marubeni",
+      "country": "JP"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Stargate Studios",
+      "country": ""
+    },
+    {
+      "name": "TOHO-TOWA",
+      "country": "JP"
+    },
+    {
+      "name": "BBC",
+      "country": "GB"
+    },
+    {
+      "name": "Tele München",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Mikael Salomon"
+  ],
+  "writers": [
+    {
+      "name": "Graham Yost",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Levinsohn",
+      "job": "Producer"
+    },
+    {
+      "name": "Ian Bryce",
+      "job": "Producer"
+    },
+    {
+      "name": "Art Levinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Allison Lyon Segan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Morgan Freeman",
+      "character": "Jim",
+      "order": 0
+    },
+    {
+      "name": "Christian Slater",
+      "character": "Tom",
+      "order": 1
+    },
+    {
+      "name": "Minnie Driver",
+      "character": "Karen",
+      "order": 2
+    },
+    {
+      "name": "Randy Quaid",
+      "character": "Sheriff Mike Collins",
+      "order": 3
+    },
+    {
+      "name": "Ed Asner",
+      "character": "Uncle Charlie",
+      "order": 4
+    },
+    {
+      "name": "Betty White",
+      "character": "Doreen Sears",
+      "order": 5
+    },
+    {
+      "name": "Richard Dysart",
+      "character": "Henry Sears",
+      "order": 6
+    },
+    {
+      "name": "Dann Florek",
+      "character": "Mr. Mehlor",
+      "order": 7
+    },
+    {
+      "name": "Michael A. Goorjian",
+      "character": "Kenny",
+      "order": 8
+    },
+    {
+      "name": "Ricky Harris",
+      "character": "Ray",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ggMcOVSax4lBXjYqqQUJLCtrar3.jpg",
+  "backdrop_path": "/tdo5GwYAsdRkYTTMpXM9aZu8DlH.jpg",
+  "budget": 70000000,
+  "revenue": 19900000,
+  "vote_average": 5.867,
+  "vote_count": 773,
+  "imdb_id": "tt0120696",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

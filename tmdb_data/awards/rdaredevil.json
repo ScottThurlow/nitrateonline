@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 wins & 17 nominations total",
+  "rated": "PG-13",
+  "released": "14 Feb 2003",
+  "runtime": "103 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Mark Steven Johnson",
+  "writer": "Mark Steven Johnson",
+  "actors": "Ben Affleck, Jennifer Garner, Colin Farrell",
+  "plot": "Fate deals young orphan Matt Murdock a strange hand when he is doused with hazardous waste. The accident leaves Matt blind but also gives him a heightened \"radar sense\" that allows him to \"see\" far better than any man. Years later Murdock has grown into a man and becomes a respected criminal attorney. But after he's done his \"day job\" Matt takes on a secret identity as \"The Man Without Fear,\" Daredevil, the masked avenger that patrols the neighborhood of Hell's Kitchen and New York City to combat the injustice that he cannot tackle in the courtroom.",
+  "language": "English, Greek, Italian",
+  "country": "United States, Switzerland",
+  "metascore": "42",
+  "imdb_rating": "5.3",
+  "imdb_votes": "239,118",
+  "box_office": "$102,543,518",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=Daredevil"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Daredevil/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0287978/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0287978/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9480"
+  }
+}

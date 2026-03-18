@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 16643,
+  "title": "Life or Something Like It",
+  "original_title": "Life or Something Like It",
+  "release_date": "2002-04-24",
+  "runtime": 103,
+  "tagline": "Destiny is what you make of it.",
+  "overview": "A reporter Lanie Kerrigan interviews a psychic homeless man for a fluff piece about a football game's score. Instead he tells her that her life has no meaning and is going to end in just a few days, which sparks her to action, trying to change the pattern of her life...",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "New Regency Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    }
+  ],
+  "director": [
+    "Stephen Herek"
+  ],
+  "writers": [
+    {
+      "name": "John Scott Shepherd",
+      "job": "Story"
+    },
+    {
+      "name": "John Scott Shepherd",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dana Stevens",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kenneth Atchity",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Teddy Zee",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chi-Li Wong",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Producer"
+    },
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "Toby Jaffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Ric Kidney",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Angelina Jolie",
+      "character": "Lanie Kerrigan",
+      "order": 0
+    },
+    {
+      "name": "Edward Burns",
+      "character": "Pete",
+      "order": 1
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Jack",
+      "order": 2
+    },
+    {
+      "name": "Christian Kane",
+      "character": "Cal Cooper",
+      "order": 3
+    },
+    {
+      "name": "Melissa Errico",
+      "character": "Andrea",
+      "order": 4
+    },
+    {
+      "name": "Lisa Thornhill",
+      "character": "Gwen",
+      "order": 5
+    },
+    {
+      "name": "Stockard Channing",
+      "character": "Deborah Connors",
+      "order": 6
+    },
+    {
+      "name": "Gregory Itzin",
+      "character": "Dennis",
+      "order": 7
+    },
+    {
+      "name": "Max Baker",
+      "character": "Vin",
+      "order": 8
+    },
+    {
+      "name": "Christopher Shyer",
+      "character": "Mark Laughlin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b9lUSfCjv8jjNRSsmk65HEV1Pv3.jpg",
+  "backdrop_path": "/AwkaTlvHAc5qQksrXg982CWMkYJ.jpg",
+  "budget": 40000000,
+  "revenue": 16872671,
+  "vote_average": 5.674,
+  "vote_count": 605,
+  "imdb_id": "tt0282687",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

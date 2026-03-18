@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 9684,
+  "title": "Sweet and Lowdown",
+  "original_title": "Sweet and Lowdown",
+  "release_date": "1999-12-03",
+  "runtime": 95,
+  "tagline": "",
+  "overview": "In the 1930s, jazz guitarist Emmet Ray idolizes Django Reinhardt, faces gangsters and falls in love with a mute woman.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Sweetland Films",
+      "country": ""
+    },
+    {
+      "name": "Jean Doumanian Productions",
+      "country": "US"
+    },
+    {
+      "name": "Magnolia Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Woody Allen"
+  ],
+  "writers": [
+    {
+      "name": "Woody Allen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean Doumanian",
+      "job": "Producer"
+    },
+    {
+      "name": "J.E. Beaucaire",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Emmet Ray",
+      "order": 0
+    },
+    {
+      "name": "Samantha Morton",
+      "character": "Hattie",
+      "order": 1
+    },
+    {
+      "name": "Anthony LaPaglia",
+      "character": "Al Torrio",
+      "order": 2
+    },
+    {
+      "name": "Uma Thurman",
+      "character": "Blanche Williams",
+      "order": 3
+    },
+    {
+      "name": "James Urbaniak",
+      "character": "Harry",
+      "order": 4
+    },
+    {
+      "name": "John Waters",
+      "character": "Mr. Haynes",
+      "order": 5
+    },
+    {
+      "name": "Gretchen Mol",
+      "character": "Ellie",
+      "order": 6
+    },
+    {
+      "name": "Denis O'Hare",
+      "character": "Jake",
+      "order": 7
+    },
+    {
+      "name": "Molly Price",
+      "character": "Ann",
+      "order": 8
+    },
+    {
+      "name": "Brian Markinson",
+      "character": "Bill Shields",
+      "order": 9
+    }
+  ],
+  "poster_path": "/23S5qa8j3ajYnERcYCqMLfSeOvw.jpg",
+  "backdrop_path": "/8D4in0vUmyzjMQHcIdQ8wyEmUca.jpg",
+  "budget": 29750000,
+  "revenue": 4525794,
+  "vote_average": 6.776,
+  "vote_count": 549,
+  "imdb_id": "tt0158371",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

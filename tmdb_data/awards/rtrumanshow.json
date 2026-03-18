@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 3 Oscars. 42 wins & 69 nominations total",
+  "rated": "PG",
+  "released": "05 Jun 1998",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama",
+  "director": "Peter Weir",
+  "writer": "Andrew Niccol",
+  "actors": "Jim Carrey, Ed Harris, Laura Linney",
+  "plot": "Since birth, a big fat lie defines the well-organised but humdrum life of the kind-hearted insurance salesman and ambitious explorer, Truman Burbank. Utterly unaware of the thousands of cleverly hidden cameras watching his every move, for nearly three decades, Truman's entire existence pivots around the will and the wild imagination of the ruthlessly manipulative television producer, Christof--the all-powerful TV-God of an extreme 24/7 reality show: The Truman Show. As a result, Truman's picturesque neighbourhood with the manicured lawns and the uncannily perfect residents is nothing but an elaborate state-of-the-art set, and the only truth he knows is what the worldwide television network and its deep financial interests dictate. Do lab rats know they are forever imprisoned?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "90",
+  "imdb_rating": "8.2",
+  "imdb_votes": "1,356,843",
+  "box_office": "$125,618,201",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Truman+Show"
+    },
+    {
+      "source": "Metacritic",
+      "value": "90/100",
+      "link": "https://www.metacritic.com/search/The+Truman+Show/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120382/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120382/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/37165"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 1 nomination.",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "N/A",
+  "genre": "Documentary, Short",
+  "director": "Lee Phillips",
+  "writer": "N/A",
+  "actors": "N/A",
+  "plot": "Documentary profiling the extraordinary lives and lifestyles of British sky-surfers Chris Gauge and Tim Porter.",
+  "language": "N/A",
+  "country": "UK",
+  "metascore": "N/A",
+  "imdb_rating": "7.8",
+  "imdb_votes": "41",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.8/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0257438/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0257438/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1614968"
+  }
+}

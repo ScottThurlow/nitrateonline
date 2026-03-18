@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 BAFTA Award13 wins & 7 nominations total",
+  "rated": "R",
+  "released": "26 Dec 1997",
+  "runtime": "88 min",
+  "genre": "Drama",
+  "director": "Alain Berliner",
+  "writer": "Chris Vander Stappen, Alain Berliner",
+  "actors": "Georges Du Fresne, Michèle Laroque, Jean-Philippe Écoffey",
+  "plot": "Ludovic is a transgender girl who is coming out. She talks of marrying her neighbor's son and can not understand why everyone is so surprised about it. Her family and neighbors struggle with her actions.",
+  "language": "French",
+  "country": "Belgium, France, United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "9,082",
+  "box_office": "$2,162,043",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "93%",
+      "link": "https://www.rottentomatoes.com/search?search=Ma+vie+en+rose"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119590/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119590/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/27103"
+  }
+}

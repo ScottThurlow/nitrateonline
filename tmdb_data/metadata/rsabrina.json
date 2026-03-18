@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 33271,
+  "title": "Sabrina Goes to Rome",
+  "original_title": "Sabrina Goes to Rome",
+  "release_date": "1998-10-04",
+  "runtime": 84,
+  "tagline": "",
+  "overview": "Sabrina goes to Rome, with Salem stowaway-ed in her backpack, to free her 16th-century aunt Sophia who was banished for divulging her powers to a non-witch.",
+  "genres": [
+    "TV Movie",
+    "Family",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Tibor Takács"
+  ],
+  "writers": [
+    {
+      "name": "Dan Berendsen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Melissa Joan Hart",
+      "job": "Producer"
+    },
+    {
+      "name": "Ovidio G. Assonitis",
+      "job": "Producer"
+    },
+    {
+      "name": "Stuart Bass",
+      "job": "Producer"
+    },
+    {
+      "name": "Kenneth R. Koch",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kenneth R. Koch",
+      "job": "Producer"
+    },
+    {
+      "name": "Paula Hart",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Melissa Joan Hart",
+      "character": "Sabrina / Sophie",
+      "order": 0
+    },
+    {
+      "name": "Eddie Mills",
+      "character": "Paul",
+      "order": 1
+    },
+    {
+      "name": "Tara Strong",
+      "character": "Gwen",
+      "order": 2
+    },
+    {
+      "name": "James Fields",
+      "character": "Travis",
+      "order": 3
+    },
+    {
+      "name": "Eric Alexander",
+      "character": "Alberto",
+      "order": 4
+    },
+    {
+      "name": "Nick Bakay",
+      "character": "Salem Saberhagen (voice)",
+      "order": 5
+    },
+    {
+      "name": "Richard Steven Horvitz",
+      "character": "Stonehenge (voice)",
+      "order": 6
+    },
+    {
+      "name": "Francesco Mazzini",
+      "character": "Mercutio",
+      "order": 7
+    },
+    {
+      "name": "Evelyn Furtak",
+      "character": "Mrs. Guadagno",
+      "order": 8
+    },
+    {
+      "name": "Robert Steiner",
+      "character": "Roberto",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zzJPgh0ntXQw5XEC6XFKTIU7LBl.jpg",
+  "backdrop_path": "/6j4KSnQnjvkQ0pEV5rMMcvHAXlp.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.992,
+  "vote_count": 125,
+  "imdb_id": "tt0165456",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    }
+  ],
+  "status": "Released"
+}

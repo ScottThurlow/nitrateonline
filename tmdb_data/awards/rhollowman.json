@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 1 Oscar. 7 wins & 15 nominations total",
+  "rated": "R",
+  "released": "04 Aug 2000",
+  "runtime": "112 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Paul Verhoeven",
+  "writer": "Gary Scott Thompson, Andrew W. Marlowe",
+  "actors": "Kevin Bacon, Elisabeth Shue, Josh Brolin",
+  "plot": "Having discovered they could turn animals invisible, a group of scientists test the subject on a human. Head of research, Dr. Sebastian Caine decides to use himself as the subject. After the experiment can't be reversed, it takes a toll on Caine's personality, causing him to hunt down and kill his colleagues",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "24",
+  "imdb_rating": "5.9",
+  "imdb_votes": "144,058",
+  "box_office": "$73,209,340",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=Hollow+Man"
+    },
+    {
+      "source": "Metacritic",
+      "value": "24/100",
+      "link": "https://www.metacritic.com/search/Hollow+Man/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0164052/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0164052/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9383"
+  }
+}

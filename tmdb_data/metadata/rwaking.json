@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 9081,
+  "title": "Waking Life",
+  "original_title": "Waking Life",
+  "release_date": "2001-10-19",
+  "runtime": 101,
+  "tagline": "Dreams. What are they? An escape from reality or reality itself?",
+  "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+  "genres": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    },
+    {
+      "name": "Thousand Words",
+      "country": "US"
+    },
+    {
+      "name": "Detour Filmproduction",
+      "country": "US"
+    },
+    {
+      "name": "Flat Black Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Richard Linklater"
+  ],
+  "writers": [
+    {
+      "name": "Richard Linklater",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tommy Pallotta",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonah Smith",
+      "job": "Producer"
+    },
+    {
+      "name": "Anne Walker-McBay",
+      "job": "Producer"
+    },
+    {
+      "name": "Palmer West",
+      "job": "Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Sloss",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ethan Hawke",
+      "character": "Jesse",
+      "order": 0
+    },
+    {
+      "name": "Julie Delpy",
+      "character": "Celine",
+      "order": 1
+    },
+    {
+      "name": "Wiley Wiggins",
+      "character": "Main Character",
+      "order": 2
+    },
+    {
+      "name": "Bill Wise",
+      "character": "Boat Car Guy",
+      "order": 3
+    },
+    {
+      "name": "Alex E. Jones",
+      "character": "Man in Car with P.A.",
+      "order": 4
+    },
+    {
+      "name": "Steven Soderbergh",
+      "character": "Interviewed on Television",
+      "order": 5
+    },
+    {
+      "name": "Ken Webster",
+      "character": "Bartender",
+      "order": 6
+    },
+    {
+      "name": "Charles Gunning",
+      "character": "Angry Man in Jail",
+      "order": 7
+    },
+    {
+      "name": "Lorelei Linklater",
+      "character": "Young Girl Playing Paper Game",
+      "order": 8
+    },
+    {
+      "name": "Trevor Jack Brooks",
+      "character": "Young Boy Playing Paper Game",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+  "backdrop_path": "/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+  "budget": 2000000,
+  "revenue": 3176880,
+  "vote_average": 7.476,
+  "vote_count": 928,
+  "imdb_id": "tt0243017",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

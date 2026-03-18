@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "10 Dec 1999",
+  "runtime": "88 min",
+  "genre": "Comedy, Romance",
+  "director": "Mike Mitchell",
+  "writer": "Harris Goldberg, Rob Schneider",
+  "actors": "Rob Schneider, William Forsythe, Eddie Griffin",
+  "plot": "Deuce Bigalow is a less than attractive, down on his luck aquarium cleaner. One day he runs into a male gigolo who asks him to look after his precious fish while he is away on business. However, he wrecks the house and needs quick money to repair it. The only way he can make it is to become a gigolo himself, taking on an unusual mix of female clients. He encounters a couple of problems, though. He falls in love with one of his unusual clients, and a sleazy police officer his hot on his trail.",
+  "language": "English, German, French, Japanese, Spanish",
+  "country": "United States",
+  "metascore": "30",
+  "imdb_rating": "5.7",
+  "imdb_votes": "82,494",
+  "box_office": "$65,538,755",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "23%",
+      "link": "https://www.rottentomatoes.com/search?search=Deuce+Bigalow%3A+Male+Gigolo"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/Deuce+Bigalow%3A+Male+Gigolo/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0205000/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0205000/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10402"
+  }
+}

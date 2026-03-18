@@ -1,0 +1,182 @@
+{
+  "tmdb_id": 12279,
+  "title": "Spy Kids 3-D: Game Over",
+  "original_title": "Spy Kids 3-D: Game Over",
+  "release_date": "2003-07-25",
+  "runtime": 84,
+  "tagline": "3rd Mission. 3rd Dimension.",
+  "overview": "Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.",
+  "genres": [
+    "Family",
+    "Action",
+    "Comedy",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Troublemaker Studios",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "writers": [
+    {
+      "name": "Robert Rodriguez",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elizabeth Avellan",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Daryl Sabara",
+      "character": "Juni Cortez",
+      "order": 0
+    },
+    {
+      "name": "Ricardo Montalban",
+      "character": "Grandfather",
+      "order": 1
+    },
+    {
+      "name": "Alexa PenaVega",
+      "character": "Carmen Cortez",
+      "order": 2
+    },
+    {
+      "name": "Sylvester Stallone",
+      "character": "Toymaker",
+      "order": 3
+    },
+    {
+      "name": "Courtney Jines",
+      "character": "Demetra",
+      "order": 4
+    },
+    {
+      "name": "Ryan Pinkston",
+      "character": "Arnold",
+      "order": 5
+    },
+    {
+      "name": "Robert Vito",
+      "character": "Rez",
+      "order": 6
+    },
+    {
+      "name": "Bobby Edner",
+      "character": "Francis",
+      "order": 7
+    },
+    {
+      "name": "Mike Judge",
+      "character": "Donnagon Giggles",
+      "order": 8
+    },
+    {
+      "name": "Salma Hayek Pinault",
+      "character": "Cesca Giggles",
+      "order": 9
+    }
+  ],
+  "poster_path": "/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg",
+  "backdrop_path": "/bmuTrxbPcr1nKCsV5YWWJi73PGR.jpg",
+  "budget": 38000000,
+  "revenue": 197101678,
+  "vote_average": 5.141,
+  "vote_count": 2343,
+  "imdb_id": "tt0338459",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IL",
+      "rating": "כל הגילים"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins & 5 nominations total",
+  "rated": "R",
+  "released": "04 Jul 2001",
+  "runtime": "83 min",
+  "genre": "Comedy, Horror",
+  "director": "Keenen Ivory Wayans",
+  "writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+  "actors": "Anna Faris, Marlon Wayans, Antony Acker",
+  "plot": "A group of teens including Cindy Campbell (Anna Faris) and Brenda Meeks (Regina Hall) are invited to spend a night in Hell House. Professor Oldman (Tim Curry) has convinced them it is for a school project, but the night won't go past quietly. Master Kane (Richard Moll) is long dead, but still plans on enjoying himself, especially with Alex Monday (Tori Spelling). When things really start getting bad, the gang must work together to find a way to capture this ghostly menace.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "29",
+  "imdb_rating": "5.4",
+  "imdb_votes": "190,597",
+  "box_office": "$71,308,997",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=Scary+Movie+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/Scary+Movie+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0257106/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0257106/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4248"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 2 Oscars. 17 wins & 47 nominations total",
+  "rated": "R",
+  "released": "22 Nov 2002",
+  "runtime": "123 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Julie Taymor",
+  "writer": "Hayden Herrera, Clancy Sigal, Diane Lake",
+  "actors": "Salma Hayek, Alfred Molina, Geoffrey Rush",
+  "plot": "\"Frida\" chronicles the life Frida Kahlo shared unflinchingly and openly with Diego Rivera, as the young couple took the art world by storm. From her complex and enduring relationship with her mentor and husband to her illicit and controversial affair with Leon Trotsky, to her provocative and romantic entanglements with women, Frida Kahlo lived a bold and uncompromising life as a political, artistic, and sexual revolutionary.",
+  "language": "English, Spanish, French, Russian",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "7.3",
+  "imdb_votes": "100,861",
+  "box_office": "$25,885,000",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Frida"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Frida/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120679/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120679/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1360"
+  }
+}

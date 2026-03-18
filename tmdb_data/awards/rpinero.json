@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "6 wins & 4 nominations",
+  "rated": "R",
+  "released": "12 Apr 2002",
+  "runtime": "103 min",
+  "genre": "Biography, Drama",
+  "director": "Leon Ichaso",
+  "writer": "Leon Ichaso",
+  "actors": "Benjamin Bratt, Giancarlo Esposito, Talisa Soto",
+  "plot": "\"Piñero\" tells the story of the explosive life of a Latino icon, the poet-playwright-actor Miguel Piñero, whose urban poetry is recognized as a pre-cursor to rap and hip-hop. After doing time in hard-core Sing-Sing for petty thefts and drug dealing, Piñero's prison experiences developed into the 1974 Tony-nominated play Short Eyes. The resulting notoriety and fame was too much for the Latino bad-boy genius who retreated to the darker corners of New York City.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "40",
+  "imdb_rating": "6.2",
+  "imdb_votes": "1,399",
+  "box_office": "$275,171",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=Pi%C3%B1ero"
+    },
+    {
+      "source": "Metacritic",
+      "value": "40/100",
+      "link": "https://www.metacritic.com/search/Pi%C3%B1ero/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0261066/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0261066/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/55479"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "3 wins & 6 nominations total",
+  "rated": "G",
+  "released": "12 Nov 1999",
+  "runtime": "96 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Kunihiko Yuyama",
+  "writer": "Satoshi Tajiri, Takeshi Shudô, Jun'ichi Masuda",
+  "actors": "Veronica Taylor, Rachael Lillis, Eric Stuart",
+  "plot": "When a group of scientists are offered funding into genetic research if they agree to try and clone the greatest ever Pokémon, Mew, the end result is success and Mewtwo is born. However Mewtwo is bitter about his purpose in life and kills his masters. In order to become the greatest he throws open a challenge to the world to battle him and his Pokémon. Ash and his friends are one of the few groups of trainers who pass the first test and prepare for battle. However they soon find out about further cloning and Mewtwo's ultimate plan for the earth.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "metascore": "35",
+  "imdb_rating": "6.3",
+  "imdb_votes": "49,565",
+  "box_office": "$85,744,662",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "17%",
+      "link": "https://www.rottentomatoes.com/search?search=Pok%C3%A9mon%3A+The+First+Movie+-+Mewtwo+Strikes+Back"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/Pok%C3%A9mon%3A+The+First+Movie+-+Mewtwo+Strikes+Back/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0190641/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0190641/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10228"
+  }
+}

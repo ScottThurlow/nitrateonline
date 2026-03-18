@@ -1,0 +1,260 @@
+{
+  "tmdb_id": 128,
+  "title": "Princess Mononoke",
+  "original_title": "もののけ姫",
+  "release_date": "1997-07-12",
+  "runtime": 134,
+  "tagline": "The fate of the world rests on the courage of one warrior.",
+  "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Animation"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Studio Ghibli",
+      "country": "JP"
+    },
+    {
+      "name": "dentsu",
+      "country": "JP"
+    },
+    {
+      "name": "Tokuma Shoten",
+      "country": "JP"
+    },
+    {
+      "name": "Nippon Television Network Corporation",
+      "country": "JP"
+    },
+    {
+      "name": "Nibariki",
+      "country": "JP"
+    },
+    {
+      "name": "TNDG",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Hayao Miyazaki"
+  ],
+  "writers": [
+    {
+      "name": "Hayao Miyazaki",
+      "job": "Original Story"
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Yutaka Narita",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Toshio Suzuki",
+      "job": "Producer"
+    },
+    {
+      "name": "Seiichiro Ujiie",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Seiji Okuda",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Yoji Matsuda",
+      "character": "Ashitaka (voice)",
+      "order": 0
+    },
+    {
+      "name": "Yuriko Ishida",
+      "character": "San / Kaya (voice)",
+      "order": 1
+    },
+    {
+      "name": "Yuko Tanaka",
+      "character": "Eboshi Gozen (voice)",
+      "order": 2
+    },
+    {
+      "name": "Kaoru Kobayashi",
+      "character": "Jikobo (voice)",
+      "order": 3
+    },
+    {
+      "name": "Masahiko Nishimura",
+      "character": "Kouroku (voice)",
+      "order": 4
+    },
+    {
+      "name": "Tsunehiko Kamijô",
+      "character": "Gonza (voice)",
+      "order": 5
+    },
+    {
+      "name": "Akihiro Miwa",
+      "character": "Mrs. Moro (voice)",
+      "order": 6
+    },
+    {
+      "name": "Mitsuko Mori",
+      "character": "Mrs. Hii (voice)",
+      "order": 7
+    },
+    {
+      "name": "Hisaya Morishige",
+      "character": "Chief of Affairs (voice)",
+      "order": 8
+    },
+    {
+      "name": "Sumi Shimamoto",
+      "character": "Toki (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+  "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+  "budget": 23500000,
+  "revenue": 176506186,
+  "vote_average": 8.325,
+  "vote_count": 8835,
+  "imdb_id": "tt0119698",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "ID",
+      "rating": "13+"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IL",
+      "rating": "All"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "MY",
+      "rating": "P13"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "TH",
+      "rating": "13"
+    },
+    {
+      "country": "TW",
+      "rating": "0+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

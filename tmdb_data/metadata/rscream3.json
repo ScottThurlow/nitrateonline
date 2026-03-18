@@ -1,0 +1,247 @@
+{
+  "tmdb_id": 4234,
+  "title": "Scream 3",
+  "original_title": "Scream 3",
+  "release_date": "2000-02-04",
+  "runtime": 116,
+  "tagline": "The most terrifying scream is always the last.",
+  "overview": "As bodies begin dropping around the Hollywood set of STAB 3, the third film based on the gruesome Woodsboro killings, Sidney and other survivors are once again terrorized by another Ghostface killer.",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Konrad Pictures",
+      "country": ""
+    },
+    {
+      "name": "Craven-Maddalena Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Wes Craven"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Williamson",
+      "job": "Characters"
+    },
+    {
+      "name": "Ehren Kruger",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marianne Maddalena",
+      "job": "Producer"
+    },
+    {
+      "name": "Cathy Konrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Kevin Williamson",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Arquette",
+      "character": "Dewey Riley",
+      "order": 0
+    },
+    {
+      "name": "Neve Campbell",
+      "character": "Sidney Prescott",
+      "order": 1
+    },
+    {
+      "name": "Courteney Cox",
+      "character": "Gale Weathers",
+      "order": 2
+    },
+    {
+      "name": "Patrick Dempsey",
+      "character": "Mark Kincaid",
+      "order": 3
+    },
+    {
+      "name": "Scott Foley",
+      "character": "Roman Bridger",
+      "order": 4
+    },
+    {
+      "name": "Lance Henriksen",
+      "character": "John Milton",
+      "order": 5
+    },
+    {
+      "name": "Matt Keeslar",
+      "character": "Tom Prinze",
+      "order": 6
+    },
+    {
+      "name": "Jenny McCarthy",
+      "character": "Sarah Darling",
+      "order": 7
+    },
+    {
+      "name": "Emily Mortimer",
+      "character": "Angelina Tyler",
+      "order": 8
+    },
+    {
+      "name": "Parker Posey",
+      "character": "Jennifer Jolie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+  "backdrop_path": "/AbFWty0o5nKGo4iLJaGRgqFtC8W.jpg",
+  "budget": 40000000,
+  "revenue": 161838076,
+  "vote_average": 6.005,
+  "vote_count": 3962,
+  "imdb_id": "tt0134084",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

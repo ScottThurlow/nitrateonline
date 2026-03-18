@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 11252,
+  "title": "Psycho",
+  "original_title": "Psycho",
+  "release_date": "1998-12-04",
+  "runtime": 104,
+  "tagline": "Check in. Relax. Take a shower.",
+  "overview": "A young female embezzler arrives at the Bates Motel, which has terrible secrets of its own.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gus Van Sant"
+  ],
+  "writers": [
+    {
+      "name": "Joseph Stefano",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Bloch",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gus Van Sant",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Dany Wolf",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vince Vaughn",
+      "character": "Norman Bates",
+      "order": 0
+    },
+    {
+      "name": "Anne Heche",
+      "character": "Marion Crane",
+      "order": 1
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Lila Crane",
+      "order": 2
+    },
+    {
+      "name": "Viggo Mortensen",
+      "character": "Samuel 'Sam' Loomis",
+      "order": 3
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Milton Arbogast",
+      "order": 4
+    },
+    {
+      "name": "Robert Forster",
+      "character": "Dr. Simon",
+      "order": 5
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Sheriff Chambers",
+      "order": 6
+    },
+    {
+      "name": "Anne Haney",
+      "character": "Mrs. Chambers",
+      "order": 7
+    },
+    {
+      "name": "Chad Everett",
+      "character": "Tom Cassidy",
+      "order": 8
+    },
+    {
+      "name": "Rance Howard",
+      "character": "Mr. Lowery",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6pQpZu6JjPsbHzjhG545OsjU2TG.jpg",
+  "backdrop_path": "/8mxJjrPymsCg4rJxmVNjXByQ2ee.jpg",
+  "budget": 25000000,
+  "revenue": 37100000,
+  "vote_average": 5.136,
+  "vote_count": 1032,
+  "imdb_id": "tt0155975",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

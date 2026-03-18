@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 win & 2 nominations total",
+  "rated": "R",
+  "released": "03 Oct 1997",
+  "runtime": "125 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Oliver Stone",
+  "writer": "John Ridley",
+  "actors": "Sean Penn, Jennifer Lopez, Nick Nolte",
+  "plot": "When Bobby's car breaks down in the desert while on the run from some of the bookies who have already taken two of his fingers, he becomes trapped in the nearby small town where the people are stranger than anyone he's encountered. After becoming involved with a (unbeknownst to him) young married woman, her husband hires Bobby to kill her. Later, she hires Bobby to kill the husband.",
+  "language": "English",
+  "country": "France, United States",
+  "metascore": "54",
+  "imdb_rating": "6.7",
+  "imdb_votes": "56,886",
+  "box_office": "$6,682,098",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=U+Turn"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/U+Turn/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120399/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120399/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10155"
+  }
+}

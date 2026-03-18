@@ -1,0 +1,93 @@
+{
+  "tmdb_id": 20322,
+  "title": "The Brothers",
+  "original_title": "The Brothers",
+  "release_date": "2001-03-23",
+  "runtime": 106,
+  "tagline": "There is nothing like a good woman to make a brother want to be a man.",
+  "overview": "This is the story of four African-American \"yuppies\" (a banker, a doctor, a lawyer, and a \"playboy\") who call themselves \"The Brothers\". When the playboy gets engaged, the other three friends find themselves having to come to terms with their own issues of commitment and honesty...",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Hardwick"
+  ],
+  "writers": [
+    {
+      "name": "Gary Hardwick",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Morris Chestnut",
+      "character": "Jackson Smith",
+      "order": 0
+    },
+    {
+      "name": "D.L. Hughley",
+      "character": "Derrick West",
+      "order": 1
+    },
+    {
+      "name": "Bill Bellamy",
+      "character": "Brian Palmer",
+      "order": 2
+    },
+    {
+      "name": "Shemar Moore",
+      "character": "Terry White",
+      "order": 3
+    },
+    {
+      "name": "Tatyana Ali",
+      "character": "Cherie Smith",
+      "order": 4
+    },
+    {
+      "name": "Jenifer Lewis",
+      "character": "Louise Smith",
+      "order": 5
+    },
+    {
+      "name": "Tamala Jones",
+      "character": "Sheila West",
+      "order": 6
+    },
+    {
+      "name": "Gabrielle Union",
+      "character": "Denise Johnson",
+      "order": 7
+    },
+    {
+      "name": "Clifton Powell",
+      "character": "Fred Smith",
+      "order": 8
+    },
+    {
+      "name": "Marla Gibbs",
+      "character": "Mary West",
+      "order": 9
+    }
+  ],
+  "poster_path": "/342I0mOBCNTzx4ls4GvIagfzu2m.jpg",
+  "backdrop_path": "/53nJUF7glpXU235vOVO9CMxKNRG.jpg",
+  "budget": 6000000,
+  "revenue": 27900000,
+  "vote_average": 6.5,
+  "vote_count": 52,
+  "imdb_id": "tt0250274",
+  "status": "Released"
+}

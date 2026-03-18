@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 270768,
+  "title": "Daredevil vs. Spider-Man",
+  "original_title": "Daredevil vs. Spider-Man",
+  "release_date": "2003-02-11",
+  "runtime": 80,
+  "tagline": "The ultimate battle for justice.",
+  "overview": "Spider-Man and Daredevil team up to fight Kingpin.",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Action",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Marvel Films",
+      "country": "US"
+    },
+    {
+      "name": "Marvel Entertainment Group",
+      "country": "US"
+    },
+    {
+      "name": "Kyokuichi-Tokyo Movie",
+      "country": "JP"
+    },
+    {
+      "name": "Tokyo Movie Shinsha",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Bob Richardson"
+  ],
+  "writers": [
+    {
+      "name": "Mark Hoffmeier",
+      "job": "Story"
+    },
+    {
+      "name": "Brooks Wachtel",
+      "job": "Writer"
+    },
+    {
+      "name": "Cynthia Harrison",
+      "job": "Writer"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Characters"
+    },
+    {
+      "name": "Steve Ditko",
+      "job": "Characters"
+    },
+    {
+      "name": "Sean Catherine Derek",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stan Lee",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ed Asner",
+      "character": "J. Jonah Jameson (voice)",
+      "order": 0
+    },
+    {
+      "name": "Dorian Harewood",
+      "character": "Tombstone (voice)",
+      "order": 1
+    },
+    {
+      "name": "Christopher Daniel Barnes",
+      "character": "Spider-Man/Peter Parker (voice)",
+      "order": 2
+    },
+    {
+      "name": "Sara Ballantine",
+      "character": "Mary Jane Watson (voice)",
+      "order": 3
+    },
+    {
+      "name": "Leigh-Allyn Baker",
+      "character": "Alisha Silvermain (voice)",
+      "order": 4
+    },
+    {
+      "name": "Maxwell Caulfield",
+      "character": "Alistair Smythe (voice)",
+      "order": 5
+    },
+    {
+      "name": "Linda Gary",
+      "character": "Tante May Parker (voice)",
+      "order": 6
+    },
+    {
+      "name": "Gary Imhoff",
+      "character": "Harry Osborn (voice)",
+      "order": 7
+    },
+    {
+      "name": "Roscoe Lee Browne",
+      "character": "Kingpin/Wilson Fisk (voice)",
+      "order": 8
+    }
+  ],
+  "poster_path": "/mEtyZBbVl0sx0y1blYuVDgeNLkr.jpg",
+  "backdrop_path": "/rRXye7JBRcKaqc0KfchNUCBNoDE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.5,
+  "vote_count": 117,
+  "imdb_id": "",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

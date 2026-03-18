@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "16 Jan 1998",
+  "runtime": "124 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Gregory Hoblit",
+  "writer": "Nicholas Kazan",
+  "actors": "Denzel Washington, John Goodman, Donald Sutherland",
+  "plot": "Det. John Hobbes is convinced that when killer Edgar Reese is executed, all of his troubles are over. But when people he knows and people on the street start to sing the same tune that Reese sang in the gas chamber, and those same people taunt him, he is told that maybe the cursed fallen angel Azazel is behind it all. Azazel is cursed to roam the Earth without a form, and he can switch bodies by any contact, making him hard to track. When Hobbes is forced to kill a man possessed by Azazel, he must clear his name while protecting his family and others from the evil, vengeful Azazel.",
+  "language": "English, Syriac, Assyrian Neo-Aramaic, Dutch",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "7.0",
+  "imdb_votes": "100,256",
+  "box_office": "$25,232,289",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=Fallen"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Fallen/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119099/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119099/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9411"
+  }
+}

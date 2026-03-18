@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 10878,
+  "title": "Saving Silverman",
+  "original_title": "Saving Silverman",
+  "release_date": "2001-02-09",
+  "runtime": 90,
+  "tagline": "They swore nothing would come between them. Then she came along.",
+  "overview": "A pair of buddies conspire to save their best friend from marrying the wrong woman, a cold-hearted beauty who snatches him from them and breaks up their Neil Diamond cover band.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Thai"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dennis Dugan"
+  ],
+  "writers": [
+    {
+      "name": "Hank Nelken",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Greg DePaul",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bernie Goldmann",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brad Luff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Ziegler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Zahn",
+      "character": "Wayne Lefessier",
+      "order": 0
+    },
+    {
+      "name": "Jack Black",
+      "character": "J.D. McNugent",
+      "order": 1
+    },
+    {
+      "name": "Jason Biggs",
+      "character": "Darren Silverman",
+      "order": 2
+    },
+    {
+      "name": "Amanda Peet",
+      "character": "Judith Fessbeggler",
+      "order": 3
+    },
+    {
+      "name": "Amanda Detmer",
+      "character": "Sandy",
+      "order": 4
+    },
+    {
+      "name": "R. Lee Ermey",
+      "character": "Coach",
+      "order": 5
+    },
+    {
+      "name": "Neil Diamond",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Kyle Gass",
+      "character": "Bar Dude",
+      "order": 7
+    },
+    {
+      "name": "Andrew McIlroy",
+      "character": "Waiter",
+      "order": 8
+    },
+    {
+      "name": "Norman Armour",
+      "character": "Minister",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5mq8J11266ZL7HCOwDGXoaU6eIO.jpg",
+  "backdrop_path": "/nBP8M28ig41ErPcQAHlkHoL6td3.jpg",
+  "budget": 22000000,
+  "revenue": 19351569,
+  "vote_average": 5.675,
+  "vote_count": 585,
+  "imdb_id": "tt0239948",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "9"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

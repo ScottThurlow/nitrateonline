@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "4 wins & 14 nominations total",
+  "rated": "PG-13",
+  "released": "23 Jul 1999",
+  "runtime": "113 min",
+  "genre": "Fantasy, Horror, Mystery",
+  "director": "Jan de Bont",
+  "writer": "David Self, Shirley Jackson",
+  "actors": "Liam Neeson, Catherine Zeta-Jones, Owen Wilson",
+  "plot": "A remake of the classic 1963 movie \"The Haunting\" about a team of paranormal experts who look into strange occurrences in an ill-fated house. Through the course of the night some will unravel, some will question, and all will fight for their lives as the house fights back.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "5.0",
+  "imdb_votes": "82,177",
+  "box_office": "$91,411,151",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "17%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Haunting"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/The+Haunting/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0171363/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0171363/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11618"
+  }
+}

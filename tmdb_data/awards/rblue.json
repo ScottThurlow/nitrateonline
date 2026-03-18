@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "17 Sep 1999",
+  "runtime": "93 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Les Mayfield",
+  "writer": "Michael Berry, John Blumenthal, Stephen Carpenter",
+  "actors": "Martin Lawrence, Luke Wilson, Peter Greene",
+  "plot": "Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an L.A.P.D. detective...",
+  "language": "English, Spanish",
+  "country": "United States, Germany",
+  "metascore": "46",
+  "imdb_rating": "6.4",
+  "imdb_votes": "93,094",
+  "box_office": "$68,518,533",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=Blue+Streak"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/Blue+Streak/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0181316/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0181316/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11001"
+  }
+}

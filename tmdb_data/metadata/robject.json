@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 17127,
+  "title": "The Object of My Affection",
+  "original_title": "The Object of My Affection",
+  "release_date": "1998-04-17",
+  "runtime": 111,
+  "tagline": "A love story that could only happen between best friends.",
+  "overview": "A pregnant New York social worker begins to develop romantic feelings for her gay best friend, and decides she'd rather raise her child with him, much to the dismay of her overbearing boyfriend.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Nicholas Hytner"
+  ],
+  "writers": [
+    {
+      "name": "Wendy Wasserstein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen McCauley",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Laurence Mark",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Aniston",
+      "character": "Nina Borowski",
+      "order": 0
+    },
+    {
+      "name": "Paul Rudd",
+      "character": "George Hanson",
+      "order": 1
+    },
+    {
+      "name": "Alan Alda",
+      "character": "Sidney Miller",
+      "order": 2
+    },
+    {
+      "name": "Nigel Hawthorne",
+      "character": "Rodney Fraser",
+      "order": 3
+    },
+    {
+      "name": "John Pankow",
+      "character": "Vince McBride",
+      "order": 4
+    },
+    {
+      "name": "Tim Daly",
+      "character": "Dr. Robert Joley",
+      "order": 5
+    },
+    {
+      "name": "Allison Janney",
+      "character": "Constance Miller",
+      "order": 6
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Frank Hanson",
+      "order": 7
+    },
+    {
+      "name": "Amo Gulinello",
+      "character": "Paul James",
+      "order": 8
+    },
+    {
+      "name": "Bruce Altman",
+      "character": "Dr. Goldstein",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2mA6QEdzhsftNIFV11SGsQLJvJR.jpg",
+  "backdrop_path": "/9ItSJKC4O77Uk2yULvSYdV6F171.jpg",
+  "budget": 15000000,
+  "revenue": 46900000,
+  "vote_average": 5.825,
+  "vote_count": 323,
+  "imdb_id": "tt0120772",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

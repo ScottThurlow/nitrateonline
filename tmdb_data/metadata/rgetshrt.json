@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 8012,
+  "title": "Get Shorty",
+  "original_title": "Get Shorty",
+  "release_date": "1995-10-20",
+  "runtime": 105,
+  "tagline": "Attitude plays a part.",
+  "overview": "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry's leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren't all that different.",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Barry Sonnenfeld"
+  ],
+  "writers": [
+    {
+      "name": "Elmore Leonard",
+      "job": "Novel"
+    },
+    {
+      "name": "Scott Frank",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Sonnenfeld",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "Chili Palmer",
+      "order": 0
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "Harry Zimm",
+      "order": 1
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Karen Flores",
+      "order": 2
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Martin Weir",
+      "order": 3
+    },
+    {
+      "name": "Dennis Farina",
+      "character": "Ray 'Bones' Barboni",
+      "order": 4
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Bo Catlett",
+      "order": 5
+    },
+    {
+      "name": "James Gandolfini",
+      "character": "Bear",
+      "order": 6
+    },
+    {
+      "name": "Jon Gries",
+      "character": "Ronnie Wingate",
+      "order": 7
+    },
+    {
+      "name": "Renee Props",
+      "character": "Nicki",
+      "order": 8
+    },
+    {
+      "name": "David Paymer",
+      "character": "Leo Devoe",
+      "order": 9
+    }
+  ],
+  "poster_path": "/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+  "backdrop_path": "/wiZT8DVmAZNwmqd8G3QjWZ1mpLB.jpg",
+  "budget": 30250000,
+  "revenue": 115101622,
+  "vote_average": 6.493,
+  "vote_count": 1187,
+  "imdb_id": "tt0113161",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

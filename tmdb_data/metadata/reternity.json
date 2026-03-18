@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 24858,
+  "title": "Eternity and a Day",
+  "original_title": "Μια αιωνιότητα και μια μέρα",
+  "release_date": "1998-10-23",
+  "runtime": 133,
+  "tagline": "How long will tomorrow last?",
+  "overview": "Famous writer Alexander contracts a terminal illness. He receives a letter from his wife describing a summer day 30 years ago, and leaves his seaside home to remember his past. This journey will allow him to wander between the past and the present, and encounter unexpected people, allowing him to collect unforgettable memories in the final moments of his life.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Greek",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Eurimages",
+      "country": "FR"
+    },
+    {
+      "name": "ARTE",
+      "country": "FR"
+    },
+    {
+      "name": "Paradis Films",
+      "country": "FR"
+    },
+    {
+      "name": "Istituto Luce Cinecittà",
+      "country": "IT"
+    },
+    {
+      "name": "Greek Film Centre",
+      "country": "GR"
+    },
+    {
+      "name": "La Sept Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Intermédias",
+      "country": ""
+    },
+    {
+      "name": "Theo Angelopoulos Films",
+      "country": "GR"
+    },
+    {
+      "name": "Classic Productions",
+      "country": "IT"
+    },
+    {
+      "name": "Canal+",
+      "country": "FR"
+    },
+    {
+      "name": "WDR",
+      "country": "DE"
+    },
+    {
+      "name": "ERT",
+      "country": "GR"
+    }
+  ],
+  "director": [
+    "Theo Angelopoulos"
+  ],
+  "writers": [
+    {
+      "name": "Tonino Guerra",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Petros Markaris",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Giorgio Silvagni",
+      "job": "Co-Writer"
+    },
+    {
+      "name": "Theo Angelopoulos",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Theo Angelopoulos",
+      "job": "Idea"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Theo Angelopoulos",
+      "job": "Producer"
+    },
+    {
+      "name": "Éric Heumann",
+      "job": "Producer"
+    },
+    {
+      "name": "Amedeo Pagani",
+      "job": "Producer"
+    },
+    {
+      "name": "Giorgio Silvagni",
+      "job": "Producer"
+    },
+    {
+      "name": "Foivi Oikonomopoulou",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruno Ganz",
+      "character": "Alexandros",
+      "order": 0
+    },
+    {
+      "name": "Fabrizio Bentivoglio",
+      "character": "The Poet",
+      "order": 1
+    },
+    {
+      "name": "Isabelle Renauld",
+      "character": "Anna",
+      "order": 2
+    },
+    {
+      "name": "Achileas Skevis",
+      "character": "The Child",
+      "order": 3
+    },
+    {
+      "name": "Alexandra Ladikou",
+      "character": "Anna's Mother",
+      "order": 4
+    },
+    {
+      "name": "Despina Bebedelli",
+      "character": "Alexandros' Mother",
+      "order": 5
+    },
+    {
+      "name": "Eleni Gerasimidou",
+      "character": "Ourania",
+      "order": 6
+    },
+    {
+      "name": "Iris Chatziantoniou",
+      "character": "Alexandros' Daughter",
+      "order": 7
+    },
+    {
+      "name": "Nikos Kouros",
+      "character": "Anna's Uncle",
+      "order": 8
+    },
+    {
+      "name": "Alekos Oudinotis",
+      "character": "Anna's Father",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wH8sfLJCqNjsIw8zkXpvxdSzj60.jpg",
+  "backdrop_path": "/hwo8xALeQiQsW31ZErCJvxpRdsV.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.8,
+  "vote_count": 211,
+  "imdb_id": "tt0156794",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    }
+  ],
+  "status": "Released"
+}

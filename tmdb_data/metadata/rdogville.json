@@ -1,0 +1,260 @@
+{
+  "tmdb_id": 553,
+  "title": "Dogville",
+  "original_title": "Dogville",
+  "release_date": "2003-05-21",
+  "runtime": 178,
+  "tagline": "A quiet little town not far from here.",
+  "overview": "A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town, she learns that their support has a price.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Zentropa Entertainments",
+      "country": "DK"
+    },
+    {
+      "name": "Isabella Films B.V.",
+      "country": "NL"
+    },
+    {
+      "name": "Something Else B.V.",
+      "country": ""
+    },
+    {
+      "name": "Memfis Film",
+      "country": "SE"
+    },
+    {
+      "name": "Trollhättan Film",
+      "country": "SE"
+    },
+    {
+      "name": "Pain Unlimited Filmproduktion",
+      "country": "DE"
+    },
+    {
+      "name": "Sigma Films",
+      "country": "GB"
+    },
+    {
+      "name": "Zoma Films",
+      "country": "GB"
+    },
+    {
+      "name": "Slot Machine",
+      "country": "FR"
+    },
+    {
+      "name": "Liberator Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Film i Väst",
+      "country": "SE"
+    },
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "France 3 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "WDR/Arte",
+      "country": "DE"
+    },
+    {
+      "name": "DR",
+      "country": "DK"
+    },
+    {
+      "name": "SVT",
+      "country": "SE"
+    },
+    {
+      "name": "NPS",
+      "country": "NL"
+    },
+    {
+      "name": "YLE",
+      "country": "FI"
+    },
+    {
+      "name": "Norsk TV2 AS",
+      "country": "NO"
+    },
+    {
+      "name": "Edith Film",
+      "country": "FI"
+    },
+    {
+      "name": "Spillefilmselskapet 4 1/2",
+      "country": ""
+    },
+    {
+      "name": "Fjeldabe Films AS",
+      "country": ""
+    },
+    {
+      "name": "Invicta Capital",
+      "country": "GB"
+    },
+    {
+      "name": "TV 1000 Sverige",
+      "country": "SE"
+    }
+  ],
+  "director": [
+    "Lars von Trier"
+  ],
+  "writers": [
+    {
+      "name": "Lars von Trier",
+      "job": "Writer"
+    },
+    {
+      "name": "Clare Saxby",
+      "job": "Script Editor"
+    },
+    {
+      "name": "E. Max Frye",
+      "job": "Script Consultant"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Vibeke Windeløv",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Aalbæk Jensen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Sterling",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicole Kidman",
+      "character": "Grace Margaret Mulligan",
+      "order": 0
+    },
+    {
+      "name": "Paul Bettany",
+      "character": "Tom Edison",
+      "order": 1
+    },
+    {
+      "name": "John Hurt",
+      "character": "Narrator (voice)",
+      "order": 2
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "Chuck",
+      "order": 3
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Tom Edison Sr.",
+      "order": 4
+    },
+    {
+      "name": "Patricia Clarkson",
+      "character": "Vera",
+      "order": 5
+    },
+    {
+      "name": "Ben Gazzara",
+      "character": "Jack McKay",
+      "order": 6
+    },
+    {
+      "name": "Chloë Sevigny",
+      "character": "Liz Henson",
+      "order": 7
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "character": "Martha",
+      "order": 8
+    },
+    {
+      "name": "James Caan",
+      "character": "The Big Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+  "backdrop_path": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+  "budget": 10000000,
+  "revenue": 16690617,
+  "vote_average": 7.755,
+  "vote_count": 2641,
+  "imdb_id": "tt0276919",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

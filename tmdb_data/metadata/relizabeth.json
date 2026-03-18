@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 4518,
+  "title": "Elizabeth",
+  "original_title": "Elizabeth",
+  "release_date": "1998-09-13",
+  "runtime": 123,
+  "tagline": "Declared illegitimate aged 3. Tried for treason aged 21. Crowned Queen aged 25.",
+  "overview": "The story of the ascension to the throne and the early reign of Queen Elizabeth the First, the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "Channel Four Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Shekhar Kapur"
+  ],
+  "writers": [
+    {
+      "name": "Michael Hirst",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tim Bevan",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Producer"
+    },
+    {
+      "name": "Alison Owen",
+      "job": "Producer"
+    },
+    {
+      "name": "Liza Chasin",
+      "job": "Producer"
+    },
+    {
+      "name": "Debra Hayward",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cate Blanchett",
+      "character": "Elizabeth I",
+      "order": 0
+    },
+    {
+      "name": "Joseph Fiennes",
+      "character": "Robert Dudley, Earl of Leicester",
+      "order": 1
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Sir Francis Walsingham",
+      "order": 2
+    },
+    {
+      "name": "Christopher Eccleston",
+      "character": "Duke of Norfolk",
+      "order": 3
+    },
+    {
+      "name": "John Gielgud",
+      "character": "The Pope",
+      "order": 4
+    },
+    {
+      "name": "Richard Attenborough",
+      "character": "Sir William Cecil",
+      "order": 5
+    },
+    {
+      "name": "Fanny Ardant",
+      "character": "Mary of Guise",
+      "order": 6
+    },
+    {
+      "name": "Éric Cantona",
+      "character": "Monsieur de Foix",
+      "order": 7
+    },
+    {
+      "name": "Vincent Cassel",
+      "character": "Duc d'Anjou",
+      "order": 8
+    },
+    {
+      "name": "Kathy Burke",
+      "character": "Queen Mary Tudor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qEk48VLOdibXFVIEzE9ETZUBcCs.jpg",
+  "backdrop_path": "/LTjGvAf92YLudl5zqJP9tHLuSo.jpg",
+  "budget": 30000000,
+  "revenue": 82150642,
+  "vote_average": 7.168,
+  "vote_count": 1482,
+  "imdb_id": "tt0127536",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

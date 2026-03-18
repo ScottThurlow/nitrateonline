@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 22908,
+  "title": "A Room for Romeo Brass",
+  "original_title": "A Room for Romeo Brass",
+  "release_date": "1999-08-23",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "Two twelve-year-old boys, Romeo and Gavin, undergo an extraordinary test of character and friendship when Morell, a naive but eccentric and dangerous stranger, comes between them. Morell befriends with the two boys and later asks them to help him pursue Romeo's beautiful elder sister. He gradually becomes more violent after she rejects him.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "Company Pictures",
+      "country": "GB"
+    },
+    {
+      "name": "Big Arty Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Shane Meadows"
+  ],
+  "writers": [
+    {
+      "name": "Robyn Slovo",
+      "job": "Story Editor"
+    },
+    {
+      "name": "Paul Fraser",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Shane Meadows",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Pattinson",
+      "job": "Producer"
+    },
+    {
+      "name": "George Faber",
+      "job": "Producer"
+    },
+    {
+      "name": "András Hámori",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David M. Thompson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Paddy Considine",
+      "character": "Morell",
+      "order": 0
+    },
+    {
+      "name": "Andrew Shim",
+      "character": "Romeo Brass",
+      "order": 1
+    },
+    {
+      "name": "Frank Harper",
+      "character": "Joe Brass",
+      "order": 2
+    },
+    {
+      "name": "Vicky McClure",
+      "character": "Ladine Brass",
+      "order": 3
+    },
+    {
+      "name": "Johann Myers",
+      "character": "Clifford",
+      "order": 4
+    },
+    {
+      "name": "Shane Meadows",
+      "character": "Male Nurse (credited as Shaun Fields)",
+      "order": 5
+    },
+    {
+      "name": "Bob Hoskins",
+      "character": "Steven Laws",
+      "order": 6
+    },
+    {
+      "name": "Ben Marshall",
+      "character": "Gavin 'Knocks' Woolley",
+      "order": 7
+    },
+    {
+      "name": "Darren O. Campbell",
+      "character": "Darren",
+      "order": 8
+    },
+    {
+      "name": "Martin Arrowsmith",
+      "character": "Dennis Wardrobe",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gLpv2UUf5We4sXDKdo11aFfnKgw.jpg",
+  "backdrop_path": "/uztdTUkWckVTrjQLWPE5YOttbxY.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.984,
+  "vote_count": 62,
+  "imdb_id": "tt0202559",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

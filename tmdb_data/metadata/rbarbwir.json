@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 11867,
+  "title": "Barb Wire",
+  "original_title": "Barb Wire",
+  "release_date": "1996-05-02",
+  "runtime": 98,
+  "tagline": "Don't call me babe!",
+  "overview": "A sexy nightclub owner, Barb Wire moonlights as a mercenary in Steel Harbor, one of the last free zones in the now fascist United States. When scientist Cora Devonshire wanders into Barb's establishment, she gets roped into a top-secret government plot involving biological weapons. Soon Barb is reunited with her old flame Axel Hood, who is now Cora's husband and a guerrilla fighter, resulting in plenty of tense action.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin",
+    "German",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Propaganda Films",
+      "country": "US"
+    },
+    {
+      "name": "Dark Horse Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Hogan"
+  ],
+  "writers": [
+    {
+      "name": "Chris Warner",
+      "job": "Comic Book"
+    },
+    {
+      "name": "Chuck Pfarrer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ilene Chaiken",
+      "job": "Story"
+    },
+    {
+      "name": "Chris Warner",
+      "job": "Characters"
+    },
+    {
+      "name": "Ilene Chaiken",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Heller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Todd Moyer",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Richardson",
+      "job": "Producer"
+    },
+    {
+      "name": "Brad Wyman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pamela Anderson",
+      "character": "Barbara Kopetski / Barb Wire",
+      "order": 0
+    },
+    {
+      "name": "Temuera Morrison",
+      "character": "Axel Hood",
+      "order": 1
+    },
+    {
+      "name": "Victoria Rowell",
+      "character": "Dr. Corrina Devonshire",
+      "order": 2
+    },
+    {
+      "name": "Jack Noseworthy",
+      "character": "Charlie Kopetski",
+      "order": 3
+    },
+    {
+      "name": "Udo Kier",
+      "character": "Curly",
+      "order": 4
+    },
+    {
+      "name": "Steve Railsback",
+      "character": "Colonel Pryzer",
+      "order": 5
+    },
+    {
+      "name": "Xander Berkeley",
+      "character": "Alexander Willis",
+      "order": 6
+    },
+    {
+      "name": "John Paxton",
+      "character": "Smooth",
+      "order": 7
+    },
+    {
+      "name": "Joey Sagal",
+      "character": "Fred the Bartender",
+      "order": 8
+    },
+    {
+      "name": "Candace Kita",
+      "character": "Dancer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eACq1joafhQTD12gGXNS13J06B.jpg",
+  "backdrop_path": "/o7bxmFoHfEP5JiBzVYY5QgLiSfU.jpg",
+  "budget": 9000000,
+  "revenue": 3793614,
+  "vote_average": 4.1,
+  "vote_count": 476,
+  "imdb_id": "tt0115624",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

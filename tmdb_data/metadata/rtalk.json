@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 64,
+  "title": "Talk to Her",
+  "original_title": "Hable con ella",
+  "release_date": "2002-03-15",
+  "runtime": 112,
+  "tagline": "",
+  "overview": "Two men share an odd friendship while they care for two women who are both in deep comas.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "El Deseo",
+      "country": "ES"
+    },
+    {
+      "name": "Atresmedia",
+      "country": "ES"
+    }
+  ],
+  "director": [
+    "Pedro Almodóvar"
+  ],
+  "writers": [
+    {
+      "name": "Pedro Almodóvar",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michel Ruben",
+      "job": "Producer"
+    },
+    {
+      "name": "Agustín Almodóvar",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leonor Watling",
+      "character": "Alicia",
+      "order": 0
+    },
+    {
+      "name": "Rosario Flores",
+      "character": "Lydia",
+      "order": 1
+    },
+    {
+      "name": "Javier Cámara",
+      "character": "Benigno",
+      "order": 2
+    },
+    {
+      "name": "Darío Grandinetti",
+      "character": "Marco",
+      "order": 3
+    },
+    {
+      "name": "Mariola Fuentes",
+      "character": "Rosa",
+      "order": 4
+    },
+    {
+      "name": "Geraldine Chaplin",
+      "character": "Katerina Bilova",
+      "order": 5
+    },
+    {
+      "name": "Pina Bausch",
+      "character": "Bailarine",
+      "order": 6
+    },
+    {
+      "name": "Malou Airaudo",
+      "character": "Bailarine",
+      "order": 7
+    },
+    {
+      "name": "Caetano Veloso",
+      "character": "Singer at Party",
+      "order": 8
+    },
+    {
+      "name": "Roberto Álvarez",
+      "character": "Doctor Vega",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg",
+  "backdrop_path": "/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+  "budget": 6500000,
+  "revenue": 64826117,
+  "vote_average": 7.577,
+  "vote_count": 1414,
+  "imdb_id": "tt0287467",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

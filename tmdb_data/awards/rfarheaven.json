@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 4 Oscars. 102 wins & 96 nominations total",
+  "rated": "PG-13",
+  "released": "10 Jan 2003",
+  "runtime": "107 min",
+  "genre": "Drama, Romance",
+  "director": "Todd Haynes",
+  "writer": "Todd Haynes",
+  "actors": "Julianne Moore, Dennis Quaid, Dennis Haysbert",
+  "plot": "Cathy is the perfect 50s housewife, living the perfect 50s life: healthy kids, successful husband, social prominence. Then one night she stumbles in on her husband Frank, kissing another man, and her tidy world starts spinning out of control. In her confusion and grief, she finds consolation in the friendship of their African-American gardener, Raymond - a socially taboo relationship that leads to the further disintegration of life as she knew it. Despite Cathy and Frank's struggle to keep their marriage afloat, the reality of his homosexuality and her feelings for Raymond open a painful, if more honest, chapter in their lives.",
+  "language": "English",
+  "country": "United States, France",
+  "metascore": "84",
+  "imdb_rating": "7.3",
+  "imdb_votes": "50,758",
+  "box_office": "$15,901,849",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "87%",
+      "link": "https://www.rottentomatoes.com/search?search=Far+from+Heaven"
+    },
+    {
+      "source": "Metacritic",
+      "value": "84/100",
+      "link": "https://www.metacritic.com/search/Far+from+Heaven/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0297884/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0297884/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10712"
+  }
+}

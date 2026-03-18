@@ -1,0 +1,64 @@
+{
+  "tmdb_id": 30140,
+  "title": "Rivers and Tides",
+  "original_title": "Rivers and Tides",
+  "release_date": "2001-02-13",
+  "runtime": 90,
+  "tagline": "Working with Time",
+  "overview": "Portrait of Andy Goldsworthy, an artist whose specialty is ephemeral sculptures made from elements of nature.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "YLE",
+      "country": "FI"
+    },
+    {
+      "name": "Mediopolis Film- und Fernsehproduktion",
+      "country": "DE"
+    },
+    {
+      "name": "Skyline Productions",
+      "country": "GB"
+    },
+    {
+      "name": "WDR",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Thomas Riedelsheimer"
+  ],
+  "writers": [
+    {
+      "name": "Thomas Riedelsheimer",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Annedore von Donop",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Andy Goldsworthy",
+      "character": "Himself",
+      "order": 0
+    }
+  ],
+  "poster_path": "/6KmRx9auUqQ2bHCPGi32TS5VSYh.jpg",
+  "backdrop_path": "/xX7Rjut5ox4CAO93qIBuumv8JeE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.3,
+  "vote_count": 42,
+  "imdb_id": "tt0307385",
+  "certifications": [],
+  "status": "Released"
+}

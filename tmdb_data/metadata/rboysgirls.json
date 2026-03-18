@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 10571,
+  "title": "Boys and Girls",
+  "original_title": "Boys and Girls",
+  "release_date": "2000-06-16",
+  "runtime": 94,
+  "tagline": "Warning: Sex Changes Everything",
+  "overview": "Ryan and Jennifer are opposites who definitely do not attract. At least that's what they always believed. When they met as twelve-year-olds, they disliked one another. When they met again as teenagers, they loathed each other. But when they meet in college, the uptight Ryan and the free-spirited Jennifer find that their differences bind them together and a rare friendship develops.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Punch 21 Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Robert Iscove"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Miller",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andrew Lowery",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jay Cohen",
+      "job": "Producer"
+    },
+    {
+      "name": "Lee Gottsegen",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeremy Kramer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Murray Schisgal",
+      "job": "Producer"
+    },
+    {
+      "name": "Jill Messick",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "character": "Ryan Walker",
+      "order": 0
+    },
+    {
+      "name": "Claire Forlani",
+      "character": "Jennifer Burrows",
+      "order": 1
+    },
+    {
+      "name": "Jason Biggs",
+      "character": "Hunter / Steve",
+      "order": 2
+    },
+    {
+      "name": "Amanda Detmer",
+      "character": "Amy",
+      "order": 3
+    },
+    {
+      "name": "Alyson Hannigan",
+      "character": "Betty",
+      "order": 4
+    },
+    {
+      "name": "Brendon Ryan Barrett",
+      "character": "Young Ryan Walker",
+      "order": 5
+    },
+    {
+      "name": "Gay Thomas Wilson",
+      "character": "N.Y. Flight Attendant",
+      "order": 6
+    },
+    {
+      "name": "Raquel Beaudene",
+      "character": "Young Jennifer Burrows",
+      "order": 7
+    },
+    {
+      "name": "David Smigelski",
+      "character": "Homecoming King",
+      "order": 8
+    },
+    {
+      "name": "Blake Shields",
+      "character": "Homecoming Knight",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gdVnV2wSESbgrXX4uRD3J0D8dBo.jpg",
+  "backdrop_path": "/drGRSAuWsB6iOR9USZPTTCAibJQ.jpg",
+  "budget": 16000000,
+  "revenue": 20627372,
+  "vote_average": 5.942,
+  "vote_count": 414,
+  "imdb_id": "tt0204175",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

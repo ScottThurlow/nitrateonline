@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 wins & 4 nominations total",
+  "rated": "R",
+  "released": "24 Nov 1999",
+  "runtime": "112 min",
+  "genre": "Crime, Drama",
+  "director": "Joel Schumacher",
+  "writer": "Joel Schumacher",
+  "actors": "Robert De Niro, Philip Seymour Hoffman, Barry Miller",
+  "plot": "Walt Koontz, a homophobic cop, ends up with paralyzed vocal cords because of an unfortunate stroke. His therapy includes singing lessons from a neighbor who is not only flamboyantly gay but also pre-operative transgender. Both of them are equally prejudiced; Koontz against non-heterosexuals and the neighbor against closed-minded straight people.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "6.4",
+  "imdb_votes": "20,695",
+  "box_office": "$4,488,529",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Flawless"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/Flawless/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0155711/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0155711/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/31582"
+  }
+}

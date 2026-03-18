@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "25 Dec 1998",
+  "runtime": "122 min",
+  "genre": "Comedy, Drama",
+  "director": "Anthony Drazan",
+  "writer": "David Rabe",
+  "actors": "Sean Penn, Kevin Spacey, Chazz Palminteri",
+  "plot": "Hurly-burly is an adaptation of David Rabe's well known play about the intersecting lives of several Hollywood players and wannabes whose personal lives threaten to veer into a catastrophe more interesting than anything they're peddling to the studios.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.8",
+  "imdb_votes": "10,572",
+  "box_office": "$1,798,862",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=Hurlyburly"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119336/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119336/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24525"
+  }
+}

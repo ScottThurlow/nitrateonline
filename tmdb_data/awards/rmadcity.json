@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "07 Nov 1997",
+  "runtime": "115 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Costa-Gavras",
+  "writer": "Tom Matthews, Eric Williams",
+  "actors": "John Travolta, Dustin Hoffman, Alan Alda",
+  "plot": "Sam Baily, upset over losing his job, takes a natural history museum hostage. Max Brackett, journalist, is in the museum when this occurs, and gets the scoop. The story spreads nation wide, and soon it is all anyone talks about. The story itself is the news, not the reason why or the real people behind it.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "45",
+  "imdb_rating": "6.3",
+  "imdb_votes": "21,798",
+  "box_office": "$10,541,523",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "30%",
+      "link": "https://www.rottentomatoes.com/search?search=Mad+City"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/Mad+City/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119592/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119592/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9770"
+  }
+}

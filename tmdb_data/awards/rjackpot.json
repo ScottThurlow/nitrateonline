@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 1 nomination",
+  "rated": "R",
+  "released": "27 Jul 2001",
+  "runtime": "97 min",
+  "genre": "Drama, Comedy",
+  "director": "Michael Polish",
+  "writer": "Mark Polish, Michael Polish",
+  "actors": "Jon Gries, Daryl Hannah, Garrett Morris",
+  "plot": "Sunny Holiday, an aspiring singing star, abandons his wife and young baby to set off on a nine-month tour of bleak western towns. He takes off with his road manager in a pink Chrysler in search of their own version of the American Dream: a country loving audience.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "5.5",
+  "imdb_votes": "605",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=Jackpot"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Jackpot/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0261755/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0261755/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/196859"
+  }
+}

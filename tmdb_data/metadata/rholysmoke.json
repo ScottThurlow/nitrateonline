@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 13787,
+  "title": "Holy Smoke",
+  "original_title": "Holy Smoke",
+  "release_date": "1999-09-04",
+  "runtime": 115,
+  "tagline": "He had only one thing on his mind... but so did she!",
+  "overview": "While on a journey of discovery in exotic India, beautiful young Ruth Barron falls under the influence of a charismatic religious guru. Her desperate parents then hire PJ Waters, a macho cult de-programmer who confronts Ruth in a remote desert hideaway. But PJ quickly learns that he's met his match in the sexy, intelligent and iron-willed Ruth.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Hindi",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Jan Chapman Productions",
+      "country": "AU"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jane Campion"
+  ],
+  "writers": [
+    {
+      "name": "Anna Campion",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jane Campion",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jan Chapman",
+      "job": "Producer"
+    },
+    {
+      "name": "Julie Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tabrez Noorani",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Turnbull",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Winslet",
+      "character": "Ruth Barron",
+      "order": 0
+    },
+    {
+      "name": "Harvey Keitel",
+      "character": "PJ Waters",
+      "order": 1
+    },
+    {
+      "name": "Julie Hamilton",
+      "character": "Mum",
+      "order": 2
+    },
+    {
+      "name": "Sophie Lee",
+      "character": "Yvonne",
+      "order": 3
+    },
+    {
+      "name": "Dan Wyllie",
+      "character": "Robbie",
+      "order": 4
+    },
+    {
+      "name": "Paul Goddard",
+      "character": "Tim",
+      "order": 5
+    },
+    {
+      "name": "Tim Robertson",
+      "character": "Dad",
+      "order": 6
+    },
+    {
+      "name": "George Mangos",
+      "character": "Yanni",
+      "order": 7
+    },
+    {
+      "name": "Kerry Walker",
+      "character": "Puss",
+      "order": 8
+    },
+    {
+      "name": "Leslie Dayman",
+      "character": "Bill-Bill",
+      "order": 9
+    }
+  ],
+  "poster_path": "/utBNYz1cX43SQKZFH1JmMZU34Dy.jpg",
+  "backdrop_path": "/2BzfOwehPOdnAm4puhTU52EIICr.jpg",
+  "budget": 15000000,
+  "revenue": 1765545,
+  "vote_average": 5.67,
+  "vote_count": 226,
+  "imdb_id": "tt0144715",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

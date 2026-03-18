@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "4 wins & 6 nominations total",
+  "rated": "PG-13",
+  "released": "30 Apr 1999",
+  "runtime": "113 min",
+  "genre": "Action, Crime, Romance",
+  "director": "Jon Amiel",
+  "writer": "Ron Bass, Michael Hertzberg, William Broyles Jr.",
+  "actors": "Sean Connery, Catherine Zeta-Jones, Ving Rhames",
+  "plot": "Following the theft of a highly-secured piece of artwork, an agent convinces her insurance agency employers to allow her to wriggle into the company of an aging but active master thief. Connery's burglar takes her on suspiciously and demands rigorous training before their first job together, stealing a highly-valued mask from a chichi party. Their deepening attraction and distrust could tear apart their partnership, but the promise of a bigger prize (some eight billion odd dollars) by Zeta-Jones keeps the game interesting. Only, who's playing with whom?",
+  "language": "English",
+  "country": "United Kingdom, Germany, United States, Malaysia",
+  "metascore": "54",
+  "imdb_rating": "6.3",
+  "imdb_votes": "129,352",
+  "box_office": "$87,704,396",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Entrapment"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/Entrapment/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0137494/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0137494/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1844"
+  }
+}

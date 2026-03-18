@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 1 BAFTA Award14 wins & 50 nominations total",
+  "rated": "PG",
+  "released": "15 Nov 2002",
+  "runtime": "161 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Chris Columbus",
+  "writer": "J.K. Rowling, Steve Kloves",
+  "actors": "Daniel Radcliffe, Rupert Grint, Emma Watson",
+  "plot": "Forced to spend his summer holidays with his muggle relations, Harry Potter (Daniel Radcliffe) gets a real shock when he gets a surprise visitor: Dobby (Toby Jones) the house-elf, who warns Harry against returning to Hogwarts, for terrible things are going to happen. Harry decides to ignore Dobby's warning and continues with his pre-arranged schedule. But at Hogwarts, strange and terrible things are indeed happening. Harry is suddenly hearing mysterious voices from inside the walls, muggle-born students are being attacked, and a message scrawled on the wall in blood puts everyone on his or her guard, \"The Chamber Of Secrets Has Been Opened. Enemies Of The Heir, Beware\".",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "metascore": "63",
+  "imdb_rating": "7.5",
+  "imdb_votes": "759,564",
+  "box_office": "$263,094,348",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=Harry+Potter+and+the+Chamber+of+Secrets"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Harry+Potter+and+the+Chamber+of+Secrets/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295297/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295297/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/672"
+  }
+}

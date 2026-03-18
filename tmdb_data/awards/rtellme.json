@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 5 nominations",
+  "rated": "R",
+  "released": "13 Nov 1999",
+  "runtime": "118 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Yun-hyeon Jang",
+  "writer": "Yun-hyeon Jang, Su-chang Kong, Eun-Ah In",
+  "actors": "Han Suk-kyu, Shim Eun-ha, Jang Hang-seon",
+  "plot": "In Seoul, mismatched parts of the severed corpses of three men are found in cars and bags left in public spaces. Detective Cho, who is under investigation of the Internal Affairs, is assigned to lead the investigation with his team. When the men's identities are discovered, the police find that artist Su-Yeon Chae, who lives with her friend Seungmin Oh, had been the men's lover. Detective Cho and his force protect Su-Yeon and follow the leads based on the information she tells, while the killer executes other victims. However, Cho discloses very dark secrets in the end, finding the real motives of the murderer.",
+  "language": "Korean",
+  "country": "South Korea",
+  "metascore": "61",
+  "imdb_rating": "6.4",
+  "imdb_votes": "3,175",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=Tell+Me+Something"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Tell+Me+Something/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0220806/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0220806/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16371"
+  }
+}

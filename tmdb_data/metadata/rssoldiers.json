@@ -1,0 +1,210 @@
+{
+  "tmdb_id": 11551,
+  "title": "Small Soldiers",
+  "original_title": "Small Soldiers",
+  "release_date": "1998-07-10",
+  "runtime": 110,
+  "tagline": "Big Movie.",
+  "overview": "When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joe Dante"
+  ],
+  "writers": [
+    {
+      "name": "Gavin Scott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Adam Rifkin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Terry Rossio",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Finnell",
+      "job": "Producer"
+    },
+    {
+      "name": "Colin Wilson",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gregory Smith",
+      "character": "Alan Abernathy",
+      "order": 0
+    },
+    {
+      "name": "Kirsten Dunst",
+      "character": "Christy Fimple",
+      "order": 1
+    },
+    {
+      "name": "Denis Leary",
+      "character": "Gil Mars",
+      "order": 2
+    },
+    {
+      "name": "Phil Hartman",
+      "character": "Phil Fimple",
+      "order": 3
+    },
+    {
+      "name": "David Cross",
+      "character": "Irwin Wayfair",
+      "order": 4
+    },
+    {
+      "name": "Jay Mohr",
+      "character": "Larry Benson",
+      "order": 5
+    },
+    {
+      "name": "Kevin Dunn",
+      "character": "Stuart Abernathy",
+      "order": 6
+    },
+    {
+      "name": "Ann Magnuson",
+      "character": "Irene Abernathy",
+      "order": 7
+    },
+    {
+      "name": "Wendy Schaal",
+      "character": "Marion Fimple",
+      "order": 8
+    },
+    {
+      "name": "Jacob Smith",
+      "character": "Timmy Fimple",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg",
+  "backdrop_path": "/gdQk5g4TC95957Xs4xGbcOBnG56.jpg",
+  "budget": 40000000,
+  "revenue": 54682547,
+  "vote_average": 6.553,
+  "vote_count": 2282,
+  "imdb_id": "tt0122718",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "13 wins & 4 nominations",
+  "rated": "Unrated",
+  "released": "11 Feb 2004",
+  "runtime": "101 min",
+  "genre": "Documentary, History, War",
+  "director": "Rithy Panh",
+  "writer": "Rithy Panh",
+  "actors": "Khieu 'Poev' Ches, Yeay Cheu, Nhem En",
+  "plot": "A unique documentary on the notorious S-21 prison, today the Tuol Sleng Genocide Museum in Phnom Penh, Cambodia, with testimony by the only surviving prisoners and former Khmer Rouge guards.",
+  "language": "Central Khmer, Vietnamese",
+  "country": "Cambodia, France, Belgium, Canada, Australia, Switzerland, Czech Republic, Finland",
+  "metascore": "75",
+  "imdb_rating": "7.2",
+  "imdb_votes": "1,183",
+  "box_office": "$22,606",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=S21%3A+The+Khmer+Rouge+Killing+Machine"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/S21%3A+The+Khmer+Rouge+Killing+Machine/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0368954/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0368954/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/43936"
+  }
+}

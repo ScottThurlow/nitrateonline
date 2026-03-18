@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 2 nominations",
+  "rated": "PG",
+  "released": "21 Jun 2002",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Oliver Parker",
+  "writer": "Oscar Wilde, Oliver Parker",
+  "actors": "Rupert Everett, Colin Firth, Frances O'Connor",
+  "plot": "Two young gentlemen living in 1890's England use the same pseudonym (\"Ernest\") on the sly, which is fine until they both fall in love with women using that name, which leads to a comedy of mistaken identities...",
+  "language": "English, German",
+  "country": "United Kingdom, United States",
+  "metascore": "60",
+  "imdb_rating": "6.8",
+  "imdb_votes": "25,047",
+  "box_office": "$8,384,929",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Importance+of+Being+Earnest"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/The+Importance+of+Being+Earnest/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0278500/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0278500/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9026"
+  }
+}

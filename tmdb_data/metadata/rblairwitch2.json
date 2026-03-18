@@ -1,0 +1,164 @@
+{
+  "tmdb_id": 11531,
+  "title": "Book of Shadows: Blair Witch 2",
+  "original_title": "Book of Shadows: Blair Witch 2",
+  "release_date": "2000-10-27",
+  "runtime": 90,
+  "tagline": "Evil Doesn't Die.",
+  "overview": "A group of college students decide to take part in a witch hunt tour inspired by a horror movie. As the adventure goes awry, the students realise that an evil being has followed them home.",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Haxan Films",
+      "country": "US"
+    },
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joe Berlinger"
+  ],
+  "writers": [
+    {
+      "name": "Joe Berlinger",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Daniel Myrick",
+      "job": "Characters"
+    },
+    {
+      "name": "Eduardo Sánchez",
+      "job": "Characters"
+    },
+    {
+      "name": "Dick Beebe",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Daniel Myrick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Carraro",
+      "job": "Producer"
+    },
+    {
+      "name": "Eduardo Sánchez",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kim Director",
+      "character": "Kim Diamond",
+      "order": 0
+    },
+    {
+      "name": "Jeffrey Donovan",
+      "character": "Jeffrey \"Jeff\" Patterson",
+      "order": 1
+    },
+    {
+      "name": "Erica Leerhsen",
+      "character": "Erica Geerson",
+      "order": 2
+    },
+    {
+      "name": "Tristine Skyler",
+      "character": "Tristen Ryler",
+      "order": 3
+    },
+    {
+      "name": "Stephen Barker Turner",
+      "character": "Stephen Ryan Parker",
+      "order": 4
+    },
+    {
+      "name": "Lanny Flaherty",
+      "character": "Sheriff Cravens",
+      "order": 5
+    },
+    {
+      "name": "Lauren Hulsey",
+      "character": "Eileen Treacle",
+      "order": 6
+    },
+    {
+      "name": "Raynor Scheine",
+      "character": "Rustin Parr",
+      "order": 7
+    },
+    {
+      "name": "Kennen Sisco",
+      "character": "Peggy",
+      "order": 8
+    },
+    {
+      "name": "Dina Napoli",
+      "character": "Reporter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/l1jF93S9FYbzp3Byh5VUA1KApSJ.jpg",
+  "backdrop_path": "/unVjWj6KsRXk67pEkBfxflpbyRV.jpg",
+  "budget": 15000000,
+  "revenue": 47737094,
+  "vote_average": 4.322,
+  "vote_count": 903,
+  "imdb_id": "tt0229260",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

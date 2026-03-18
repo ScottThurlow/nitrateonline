@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "6 wins & 5 nominations total",
+  "rated": "R",
+  "released": "04 Feb 2000",
+  "runtime": "116 min",
+  "genre": "Horror, Mystery",
+  "director": "Wes Craven",
+  "writer": "Kevin Williamson, Ehren Kruger",
+  "actors": "David Arquette, Neve Campbell, Courteney Cox",
+  "plot": "A new film is currently in production, and a killer is on the loose. The murders draw a reporter, ex-cop, and young woman to the set of the movie inspired by their life. They soon find out that they are dealing with a trilogy, and in a trilogy...anything can happen.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "5.7",
+  "imdb_votes": "178,300",
+  "box_office": "$89,143,175",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "45%",
+      "link": "https://www.rottentomatoes.com/search?search=Scream+3"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Scream+3/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134084/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134084/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4234"
+  }
+}

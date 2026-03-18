@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "7 wins & 3 nominations",
+  "rated": "PG-13",
+  "released": "12 Jul 2002",
+  "runtime": "141 min",
+  "genre": "Drama, Romance",
+  "director": "John Sayles",
+  "writer": "John Sayles",
+  "actors": "Angela Bassett, Edie Falco, Alex Lewis",
+  "plot": "A woman and her new husband returns to her hometown roots in coastal northern Florida, and must deal with family, business, and encroaching real estate development.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "6.8",
+  "imdb_votes": "4,270",
+  "box_office": "$3,065,921",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=Sunshine+State"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Sunshine+State/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0286179/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0286179/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/57022"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "12 Jul 2002",
+  "runtime": "86 min",
+  "genre": "Drama",
+  "director": "Richard Linklater",
+  "writer": "Stephen Belber",
+  "actors": "Ethan Hawke, Robert Sean Leonard, Uma Thurman",
+  "plot": "Three old high school friends meet in a Michigan motel room to dissect painful memories from their past.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "7.2",
+  "imdb_votes": "22,129",
+  "box_office": "$490,475",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Tape"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Tape/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0275719/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0275719/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/23949"
+  }
+}

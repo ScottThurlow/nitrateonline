@@ -1,0 +1,246 @@
+{
+  "tmdb_id": 818,
+  "title": "Austin Powers in Goldmember",
+  "original_title": "Austin Powers in Goldmember",
+  "release_date": "2002-07-26",
+  "runtime": 94,
+  "tagline": "The grooviest movie of the summer has a secret, baby!",
+  "overview": "The world's most shagadelic spy continues his fight against Dr. Evil. This time, the diabolical doctor and his clone, Mini-Me, team up with a new foe—'70s kingpin Goldmember. While pursuing the team of villains to stop them from world domination, Austin gets help from his dad and an old girlfriend.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese",
+    "German",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Eric's Boy",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Team Todd",
+      "country": "US"
+    },
+    {
+      "name": "Gratitude International",
+      "country": ""
+    },
+    {
+      "name": "Moving Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jay Roach"
+  ],
+  "writers": [
+    {
+      "name": "Michael McCullers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Myers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Myers",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric McLeod",
+      "job": "Producer"
+    },
+    {
+      "name": "Suzanne Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Demi Moore",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Myers",
+      "job": "Producer"
+    },
+    {
+      "name": "Jennifer Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "John S. Lyons",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Brener",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Myers",
+      "character": "Austin Powers / Dr. Evil / Goldmember / Fat Bastard",
+      "order": 0
+    },
+    {
+      "name": "Beyoncé",
+      "character": "Foxxy Cleopatra",
+      "order": 1
+    },
+    {
+      "name": "Seth Green",
+      "character": "Scott Evil",
+      "order": 2
+    },
+    {
+      "name": "Michael York",
+      "character": "Basil Exposition",
+      "order": 3
+    },
+    {
+      "name": "Robert Wagner",
+      "character": "Number Two",
+      "order": 4
+    },
+    {
+      "name": "Mindy Sterling",
+      "character": "Frau Farbissina",
+      "order": 5
+    },
+    {
+      "name": "Verne Troyer",
+      "character": "Mini-Me",
+      "order": 6
+    },
+    {
+      "name": "Michael Caine",
+      "character": "Nigel Powers",
+      "order": 7
+    },
+    {
+      "name": "Fred Savage",
+      "character": "Number Three",
+      "order": 8
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Dixie Normous",
+      "order": 9
+    }
+  ],
+  "poster_path": "/n8V61f1v7idya4WJzGEJNoIp9iL.jpg",
+  "backdrop_path": "/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg",
+  "budget": 63000000,
+  "revenue": 296938801,
+  "vote_average": 6.013,
+  "vote_count": 3371,
+  "imdb_id": "tt0295178",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 33430,
+  "title": "Twin Falls Idaho",
+  "original_title": "Twin Falls Idaho",
+  "release_date": "1999-07-30",
+  "runtime": 111,
+  "tagline": "A different kind of love story.",
+  "overview": "Francis and Blake Falls are Siamese twins who live in a neat little room in a rundown hotel. While sharing some organs, Blake is always fit and Francis is very sickly. Into their world comes a young lady, who turns their world upside down. She gets involved with Blake, and convinces the two to attend a Halloween party, where they can pass themselves off as wearing a costume. Eventually Francis becomes really ill, and they have to be separated. They then face the physical and mental strains that come from their proposed separation.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Free Range Films",
+      "country": "GB"
+    },
+    {
+      "name": "Fresh Produce Company",
+      "country": ""
+    },
+    {
+      "name": "Seattle Pacific Investments",
+      "country": ""
+    },
+    {
+      "name": "Sneak Preview Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Polish"
+  ],
+  "writers": [
+    {
+      "name": "Mark Polish",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marshall Persinger",
+      "job": "Producer"
+    },
+    {
+      "name": "Joyce Schweickert",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rena Ronson",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven J. Wolfe",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Polish",
+      "character": "Blake Falls",
+      "order": 0
+    },
+    {
+      "name": "Michael Polish",
+      "character": "Francis Falls",
+      "order": 1
+    },
+    {
+      "name": "Michele Hicks",
+      "character": "Penny",
+      "order": 2
+    },
+    {
+      "name": "Jon Gries",
+      "character": "Lawyer Jay Harrison",
+      "order": 3
+    },
+    {
+      "name": "Patrick Bauchau",
+      "character": "Miles, a Doctor",
+      "order": 4
+    },
+    {
+      "name": "Garrett Morris",
+      "character": "Jesus",
+      "order": 5
+    },
+    {
+      "name": "Lesley Ann Warren",
+      "character": "Francine",
+      "order": 6
+    },
+    {
+      "name": "William Katt",
+      "character": "Surgeon",
+      "order": 7
+    },
+    {
+      "name": "Teresa Hill",
+      "character": "Sissy",
+      "order": 8
+    },
+    {
+      "name": "Robert Beecher",
+      "character": "D'Walt, the Elevator Operator",
+      "order": 9
+    }
+  ],
+  "poster_path": "/boBbVY67YhGC4PWuqyQFysP3mN4.jpg",
+  "backdrop_path": "/hSMl003cRUPyZLttYe1PxyNHxcZ.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.9,
+  "vote_count": 47,
+  "imdb_id": "tt0162830",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

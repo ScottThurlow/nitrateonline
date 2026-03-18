@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 62361,
+  "title": "My Dinner with Jimi",
+  "original_title": "My Dinner with Jimi",
+  "release_date": "2003-02-16",
+  "runtime": 90,
+  "tagline": "",
+  "overview": " The story of the night The Turtles met The Beatles and Howard Kaylan had dinner with Jimi Hendrix.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fallout Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Rhino Entertainment Company",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Bill Fishman"
+  ],
+  "writers": [
+    {
+      "name": "Howard Kaylan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harold Bronson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Justin Henry",
+      "character": "Howard Kaylan",
+      "order": 0
+    },
+    {
+      "name": "Royale Watkins",
+      "character": "Jimi Hendrix",
+      "order": 1
+    },
+    {
+      "name": "Jason Boggs",
+      "character": "Mark Volman",
+      "order": 2
+    },
+    {
+      "name": "George Wendt",
+      "character": "Bill Uttley",
+      "order": 3
+    },
+    {
+      "name": "Brett Gilbert",
+      "character": "John Barbata",
+      "order": 4
+    },
+    {
+      "name": "Sean Maysonet",
+      "character": "Jim \"Tucko\" Tucker",
+      "order": 5
+    },
+    {
+      "name": "Kevin Cotteleer",
+      "character": "Jim Pons",
+      "order": 6
+    },
+    {
+      "name": "George Stanchev",
+      "character": "Al Nichol",
+      "order": 7
+    },
+    {
+      "name": "Jay Michael Ferguson",
+      "character": "Brian Jones",
+      "order": 8
+    },
+    {
+      "name": "Brian Groh",
+      "character": "John Lennon",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nEnKS339NdQyGg2nWKVagHgLoxw.jpg",
+  "backdrop_path": "/7ykiseLabTY6zYC8mzbqj94qu2f.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.3,
+  "vote_count": 3,
+  "imdb_id": "tt0277171",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "14A"
+    }
+  ],
+  "status": "Released"
+}

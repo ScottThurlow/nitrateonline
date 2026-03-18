@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 10 wins & 22 nominations total",
+  "rated": "G",
+  "released": "24 May 2002",
+  "runtime": "83 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Kelly Asbury, Lorna Cook",
+  "writer": "John Fusco",
+  "actors": "Matt Damon, James Cromwell, Daniel Studi",
+  "plot": "A captured mustang remains determined to return to his herd no matter what.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "52",
+  "imdb_rating": "7.2",
+  "imdb_votes": "92,551",
+  "box_office": "$73,280,117",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Spirit%3A+Stallion+of+the+Cimarron"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Spirit%3A+Stallion+of+the+Cimarron/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0166813/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0166813/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9023"
+  }
+}

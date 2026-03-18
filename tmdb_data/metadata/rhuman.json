@@ -1,0 +1,207 @@
+{
+  "tmdb_id": 10922,
+  "title": "The Human Stain",
+  "original_title": "The Human Stain",
+  "release_date": "2003-10-29",
+  "runtime": 106,
+  "tagline": "How far would you go to escape the past?",
+  "overview": "Coleman Silk is a worldly and admired professor who loses his job after unwittingly making a racial slur. To clear his name, Silk writes a book about the events with his friend and colleague Nathan Zuckerman, who in the process discovers a dark secret Silk has hidden his whole life. All the while, Silk engages in an affair with Faunia Farley, a younger woman whose tormented past threatens to unravel the layers of deception Silk has constructed.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cinepsilon",
+      "country": ""
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Cinerenta",
+      "country": "DE"
+    },
+    {
+      "name": "Stone Village Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Benton"
+  ],
+  "writers": [
+    {
+      "name": "Philip Roth",
+      "job": "Novel"
+    },
+    {
+      "name": "Nicholas Meyer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eberhard Kayser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andre Lamal",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Hutensky",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ron Bozman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Lucchesi",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Schwartz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Steindorff",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Ohoven",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anthony Hopkins",
+      "character": "Coleman Silk",
+      "order": 0
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Faunia Farley",
+      "order": 1
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Lester Farley",
+      "order": 2
+    },
+    {
+      "name": "Gary Sinise",
+      "character": "Nathan Zuckerman",
+      "order": 3
+    },
+    {
+      "name": "Wentworth Miller",
+      "character": "Young Coleman Silk",
+      "order": 4
+    },
+    {
+      "name": "Jacinda Barrett",
+      "character": "Steena Paulsson",
+      "order": 5
+    },
+    {
+      "name": "Harry Lennix",
+      "character": "Mr. Silk",
+      "order": 6
+    },
+    {
+      "name": "Clark Gregg",
+      "character": "Nelson Primus",
+      "order": 7
+    },
+    {
+      "name": "Anna Deavere Smith",
+      "character": "Mrs. Silk",
+      "order": 8
+    },
+    {
+      "name": "Lizan Mitchell",
+      "character": "Ernestine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zRgYzYpcXyXznlSc4swqNpXcnVs.jpg",
+  "backdrop_path": "/dCX2wx2z7KmizfQpJZRUrprW9j.jpg",
+  "budget": 30000000,
+  "revenue": 24900000,
+  "vote_average": 6.0,
+  "vote_count": 503,
+  "imdb_id": "tt0308383",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

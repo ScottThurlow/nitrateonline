@@ -1,0 +1,161 @@
+{
+  "tmdb_id": 13497,
+  "title": "Drumline",
+  "original_title": "Drumline",
+  "release_date": "2002-12-13",
+  "runtime": 118,
+  "tagline": "Half time is game time.",
+  "overview": "A talented street drummer from Harlem enrolls in a Southern university, expecting to lead its marching band's drumline to victory. He initially flounders in his new world, before realizing that it takes more than talent to reach the top.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Charles Stone III"
+  ],
+  "writers": [
+    {
+      "name": "Shawn Schepps",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tina Gordon",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jody Gerson",
+      "job": "Producer"
+    },
+    {
+      "name": "Dallas Austin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Timothy M. Bourne",
+      "job": "Producer"
+    },
+    {
+      "name": "Greg Mooradian",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wendy Finerman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nick Cannon",
+      "character": "Devon Miles",
+      "order": 0
+    },
+    {
+      "name": "Zoe Saldaña",
+      "character": "Laila",
+      "order": 1
+    },
+    {
+      "name": "Orlando Jones",
+      "character": "Dr. Lee",
+      "order": 2
+    },
+    {
+      "name": "Leonard Roberts",
+      "character": "Sean Taylor",
+      "order": 3
+    },
+    {
+      "name": "GQ",
+      "character": "Jayson",
+      "order": 4
+    },
+    {
+      "name": "Jason Weaver",
+      "character": "Ernest",
+      "order": 5
+    },
+    {
+      "name": "Earl Poitier",
+      "character": "Charles",
+      "order": 6
+    },
+    {
+      "name": "Candace Carey",
+      "character": "Diedre",
+      "order": 7
+    },
+    {
+      "name": "Shay Roundtree",
+      "character": "Big Rob",
+      "order": 8
+    },
+    {
+      "name": "Miguel A. Gaetan",
+      "character": "Trey",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zl7gdxYqKdFCioPT3DAkZR5DDUP.jpg",
+  "backdrop_path": "/46scrnII4tNzNQmeULCMCsCmgKA.jpg",
+  "budget": 20000000,
+  "revenue": 57600000,
+  "vote_average": 6.886,
+  "vote_count": 554,
+  "imdb_id": "tt0303933",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

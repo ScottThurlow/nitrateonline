@@ -1,0 +1,163 @@
+{
+  "tmdb_id": 12509,
+  "title": "Pollock",
+  "original_title": "Pollock",
+  "release_date": "2000-09-06",
+  "runtime": 132,
+  "tagline": "A true portrait of life and art.",
+  "overview": "In August of 1949, Life Magazine ran a banner headline that begged the question: \"Jackson Pollock: Is he the greatest living painter in the United States?\" The film is a look back into the life of an extraordinary man, a man who has fittingly been called \"an artist dedicated to concealment, a celebrity who nobody knew.\" As he struggled with self-doubt, engaging in a lonely tug-of-war between needing to express himself and wanting to shut the world out, Pollock began a downward spiral.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Zeke Productions",
+      "country": ""
+    },
+    {
+      "name": "Fred Berner Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ed Harris"
+  ],
+  "writers": [
+    {
+      "name": "Susan Emshwiller",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven Naifeh",
+      "job": "Novel"
+    },
+    {
+      "name": "Barbara Turner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gregory White Smith",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James Francis Trezza",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Kilik",
+      "job": "Producer"
+    },
+    {
+      "name": "Ed Harris",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Brant",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Fred Berner",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph Allen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ed Harris",
+      "character": "Jackson Pollock",
+      "order": 0
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "character": "Lee Krasner",
+      "order": 1
+    },
+    {
+      "name": "Tom Bower",
+      "character": "Dan Miller",
+      "order": 2
+    },
+    {
+      "name": "Jennifer Connelly",
+      "character": "Ruth Kligman",
+      "order": 3
+    },
+    {
+      "name": "Bud Cort",
+      "character": "Howard Putzel",
+      "order": 4
+    },
+    {
+      "name": "John Heard",
+      "character": "Tony Smith",
+      "order": 5
+    },
+    {
+      "name": "Val Kilmer",
+      "character": "Willem DeKooning",
+      "order": 6
+    },
+    {
+      "name": "David Leary",
+      "character": "Charles Pollock",
+      "order": 7
+    },
+    {
+      "name": "Robert Knott",
+      "character": "Sande Pollock",
+      "order": 8
+    },
+    {
+      "name": "Stephanie Seymour",
+      "character": "Helen Frankenthaler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/azsBSw2zw2uNHiCjTnbe9TJVEDB.jpg",
+  "backdrop_path": "/diLUnClHswIfhpJSjpblvSjWL9U.jpg",
+  "budget": 6000000,
+  "revenue": 10994533,
+  "vote_average": 6.665,
+  "vote_count": 342,
+  "imdb_id": "tt0183659",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

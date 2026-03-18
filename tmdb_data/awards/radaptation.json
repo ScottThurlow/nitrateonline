@@ -1,0 +1,35 @@
+{
+  "year": "1989",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "12 Aug 1989",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Eric Zala",
+  "writer": "Lawrence Kasdan (screenplay), George Lucas (story), Philip Kaufman (story)",
+  "actors": "Chris Strompolos, Angela Rodriguez, Michael Bales, Eric Zala",
+  "plot": "A shot-for-shot remake of Indiana Jones and the Raiders of the Lost Ark (1981), started by three 12-year-olds and completed over a period of six years.",
+  "language": "English",
+  "country": "USA",
+  "metascore": "N/A",
+  "imdb_rating": "8.2",
+  "imdb_votes": "673",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "100%",
+      "link": "https://www.rottentomatoes.com/search?search=Raiders+of+the+Lost+Ark%3A+The+Adaptation"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0772251/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0772251/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1147215"
+  }
+}

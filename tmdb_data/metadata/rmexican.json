@@ -1,0 +1,202 @@
+{
+  "tmdb_id": 6073,
+  "title": "The Mexican",
+  "original_title": "The Mexican",
+  "release_date": "2001-03-01",
+  "runtime": 123,
+  "tagline": "Love with the safety off.",
+  "overview": "Jerry Welbach, a reluctant bagman, has been given two ultimatums: The first is from his mob boss to travel to Mexico and retrieve a priceless antique pistol, known as \"the Mexican\"... or suffer the consequences. The second is from his girlfriend Samantha to end his association with the mob. Jerry figures alive and in trouble with Samantha is better than the more permanent alternative, so he heads south of the border.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Newmarket Films",
+      "country": "US"
+    },
+    {
+      "name": "Lawrence Bender Productions",
+      "country": "US"
+    },
+    {
+      "name": "Pistolero Productions",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gore Verbinski"
+  ],
+  "writers": [
+    {
+      "name": "J. H. Wyman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Baldecchi",
+      "job": "Producer"
+    },
+    {
+      "name": "Lawrence Bender",
+      "job": "Producer"
+    },
+    {
+      "name": "Aaron Ryder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Ball",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Tyrer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "J. H. Wyman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "character": "Jerry Welbach",
+      "order": 0
+    },
+    {
+      "name": "Julia Roberts",
+      "character": "Samantha Barzel",
+      "order": 1
+    },
+    {
+      "name": "James Gandolfini",
+      "character": "Winston Baldry",
+      "order": 2
+    },
+    {
+      "name": "J.K. Simmons",
+      "character": "Ted Slocum",
+      "order": 3
+    },
+    {
+      "name": "David Krumholtz",
+      "character": "Beck",
+      "order": 4
+    },
+    {
+      "name": "Bob Balaban",
+      "character": "Bernie Nayman",
+      "order": 5
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "Arnold Margolese",
+      "order": 6
+    },
+    {
+      "name": "Michael Cerveris",
+      "character": "Frank",
+      "order": 7
+    },
+    {
+      "name": "Richard Coca",
+      "character": "Car Thief #1",
+      "order": 8
+    },
+    {
+      "name": "Castulo Guerra",
+      "character": "Joe the Pawnshop Owner",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5GqF6rVjUW6CVTuj7w1A2JE49AF.jpg",
+  "backdrop_path": "/etJYRzgMpZQQaXmlJ2q0EwbjuZi.jpg",
+  "budget": 57000000,
+  "revenue": 147845033,
+  "vote_average": 5.948,
+  "vote_count": 1578,
+  "imdb_id": "tt0236493",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

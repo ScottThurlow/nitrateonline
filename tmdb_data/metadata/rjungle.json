@@ -1,0 +1,180 @@
+{
+  "tmdb_id": 14873,
+  "title": "The Jungle Book 2",
+  "original_title": "The Jungle Book 2",
+  "release_date": "2003-02-07",
+  "runtime": 72,
+  "tagline": "Feel the jungle beat",
+  "overview": "Mowgli has been living in the man-village with his little stepbrother Ranjan and his best friend Shanti. But the man-cub still has that jungle rhythm in his heart, and he misses his old buddies Baloo and Bagheera. When Mowgli wanders back to the wild for some swingin' fun, he soon finds the man-eating tiger Shere Khan is lurking in the shadows and planning his revenge.",
+  "genres": [
+    "Family",
+    "Animation",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DisneyToon Studios",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Trenbirth"
+  ],
+  "writers": [
+    {
+      "name": "Karl Geurs",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Roger S.H. Schulman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mary Thorne",
+      "job": "Producer"
+    },
+    {
+      "name": "Christopher Chase",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Haley Joel Osment",
+      "character": "Mowgli (voice)",
+      "order": 0
+    },
+    {
+      "name": "John Goodman",
+      "character": "Baloo (voice)",
+      "order": 1
+    },
+    {
+      "name": "Mae Whitman",
+      "character": "Shanti (voice)",
+      "order": 2
+    },
+    {
+      "name": "Connor Funk",
+      "character": "Ranjan (voice)",
+      "order": 3
+    },
+    {
+      "name": "Bob Joles",
+      "character": "Bagheera (voice)",
+      "order": 4
+    },
+    {
+      "name": "Tony Jay",
+      "character": "Shere Khan (voice)",
+      "order": 5
+    },
+    {
+      "name": "John Rhys-Davies",
+      "character": "Ranjan's Father (voice)",
+      "order": 6
+    },
+    {
+      "name": "Jim Cummings",
+      "character": "Kaa / Colonel Hathi / M.C. Monkey (voice)",
+      "order": 7
+    },
+    {
+      "name": "Phil Collins",
+      "character": "Lucky (voice)",
+      "order": 8
+    },
+    {
+      "name": "Jeff Bennett",
+      "character": "Additional Voices (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/21GanxizOIL1CN0HLx7j3je8k87.jpg",
+  "backdrop_path": "/bMcXBBkLHgh60Z8OnpIX4GdMN6m.jpg",
+  "budget": 20000000,
+  "revenue": 135700000,
+  "vote_average": 5.898,
+  "vote_count": 1186,
+  "imdb_id": "tt0283426",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

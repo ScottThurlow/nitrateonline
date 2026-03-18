@@ -1,0 +1,68 @@
+{
+  "tmdb_id": 32326,
+  "title": "The Cruise",
+  "original_title": "The Cruise",
+  "release_date": "1998-10-23",
+  "runtime": 76,
+  "tagline": "",
+  "overview": "Affectionate portrait of Timothy \"Speed\" Levitch, a tour guide for Manhattan's Gray Line double-decker buses.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Charter Films Inc.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Bennett Miller"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Bennett Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "J.B. Miller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Theodore Miller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Yamner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Timothy \"Speed\" Levitch",
+      "character": "Self",
+      "order": 0
+    }
+  ],
+  "poster_path": "/aTPN6ttUQqkqV6ZT762Ihc8hwKi.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.28,
+  "vote_count": 25,
+  "imdb_id": "tt0150230",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

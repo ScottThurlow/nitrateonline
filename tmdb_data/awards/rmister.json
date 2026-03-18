@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "26 Oct 2001",
+  "runtime": "109 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Christine Lahti",
+  "writer": "Jill Franklyn",
+  "actors": "Albert Brooks, Leelee Sobieski, Rutanya Alda",
+  "plot": "Jennifer does not fit in. A total misfit, she's as wacky as a teenager can be. Goth-ed out with multiple piercings, tattoos, and dyed hair, she listens to strange music, watches vintage TV, eats primarily chocolate, and self injures. But now high school is over and she needs a job. Can she possibly have anything in common with the overweight middle-aged man in the haberdashery window? He gives her a job, not to mention a real friendship.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "48",
+  "imdb_rating": "7.1",
+  "imdb_votes": "5,967",
+  "box_office": "$568,762",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=My+First+Mister"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/My+First+Mister/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0206963/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0206963/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/25641"
+  }
+}

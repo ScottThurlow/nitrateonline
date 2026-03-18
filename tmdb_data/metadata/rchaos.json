@@ -1,0 +1,134 @@
+{
+  "tmdb_id": 5289,
+  "title": "Chaos",
+  "original_title": "Chaos",
+  "release_date": "2005-01-17",
+  "runtime": 106,
+  "tagline": "When the system breaks down... someone is about to get rich.",
+  "overview": "In Seattle, detective Quentin Conners is unfairly suspended and his partner Jason York leaves the police force after a tragic shooting on Pearl Street Bridge, when the hostage and the criminal die. During a bank heist with a hostage situation, Conners is assigned in charge of the operation with the rookie Shane Dekker as his partner. The thieves, lead by Lorenz, apparently do not steal a penny from the bank. While chasing the gangsters, the police team disclose that they planted a virus in the system, stealing one billion dollars from the different accounts, using the principle of the Chaos Theory. Further, they find that Lorenz is killing his accomplices.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mobius International",
+      "country": "US"
+    },
+    {
+      "name": "Chaotic Productions",
+      "country": ""
+    },
+    {
+      "name": "Current Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Rampage Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Pierce-Williams",
+      "country": ""
+    },
+    {
+      "name": "Zero Gravity Management",
+      "country": "US"
+    },
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    },
+    {
+      "name": "Mobius Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Tony Giglio"
+  ],
+  "writers": [
+    {
+      "name": "Tony Giglio",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Derbas",
+      "job": "Producer"
+    },
+    {
+      "name": "Gavin Wilding",
+      "job": "Producer"
+    },
+    {
+      "name": "Huw Penallt Jones",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Statham",
+      "character": "Det. Quentin Conners",
+      "order": 0
+    },
+    {
+      "name": "Ryan Phillippe",
+      "character": "Det. Shane Dekker",
+      "order": 1
+    },
+    {
+      "name": "Wesley Snipes",
+      "character": "Lorenz / Jason York",
+      "order": 2
+    },
+    {
+      "name": "Henry Czerny",
+      "character": "Capt. Martin Jenkins",
+      "order": 3
+    },
+    {
+      "name": "Justine Waddell",
+      "character": "Det. Teddy Galloway",
+      "order": 4
+    },
+    {
+      "name": "Nicholas Lea",
+      "character": "Det. Vincent Durano",
+      "order": 5
+    },
+    {
+      "name": "Jessica Steen",
+      "character": "Karen Cross",
+      "order": 6
+    },
+    {
+      "name": "Rob LaBelle",
+      "character": "Bank Manager",
+      "order": 7
+    },
+    {
+      "name": "John Cassini",
+      "character": "Det. Bernie Callo",
+      "order": 8
+    },
+    {
+      "name": "Damon Johnson",
+      "character": "Brendan Dax",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fsqOoouBsNo69vbh2WG6PtpzGBa.jpg",
+  "backdrop_path": "/7hw6P8Xq8pNcIcuTknDIn5qcm3Y.jpg",
+  "budget": 30000000,
+  "revenue": 7000000,
+  "vote_average": 6.324,
+  "vote_count": 1126,
+  "imdb_id": "tt0402910",
+  "status": "Released"
+}

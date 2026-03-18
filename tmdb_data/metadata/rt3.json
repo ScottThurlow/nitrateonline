@@ -1,0 +1,272 @@
+{
+  "tmdb_id": 296,
+  "title": "Terminator 3: Rise of the Machines",
+  "original_title": "Terminator 3: Rise of the Machines",
+  "release_date": "2003-07-02",
+  "runtime": 109,
+  "tagline": "The Machines Will Rise.",
+  "overview": "It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor … just like he promised.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "IMF Internationale Medien und Film 3 & Produktions",
+      "country": "DE"
+    },
+    {
+      "name": "C2 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mostow/Lieberman Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Mostow"
+  ],
+  "writers": [
+    {
+      "name": "Michael Ferris",
+      "job": "Story"
+    },
+    {
+      "name": "Gale Anne Hurd",
+      "job": "Characters"
+    },
+    {
+      "name": "John Brancato",
+      "job": "Story"
+    },
+    {
+      "name": "John Brancato",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Ferris",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Cameron",
+      "job": "Characters"
+    },
+    {
+      "name": "Tedi Sarafian",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Colin Wilson",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel B. Michaels",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Kassar",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew G. Vajna",
+      "job": "Producer"
+    },
+    {
+      "name": "Hal Lieberman",
+      "job": "Producer"
+    },
+    {
+      "name": "Aslan Nadery",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dieter Nobbe",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Matthias Deyle",
+      "job": "Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gale Anne Hurd",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Volker Schauz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "character": "The Terminator",
+      "order": 0
+    },
+    {
+      "name": "Nick Stahl",
+      "character": "John Connor",
+      "order": 1
+    },
+    {
+      "name": "Claire Danes",
+      "character": "Kate Brewster",
+      "order": 2
+    },
+    {
+      "name": "Kristanna Loken",
+      "character": "T-X",
+      "order": 3
+    },
+    {
+      "name": "Earl Boen",
+      "character": "Dr. Peter Silberman",
+      "order": 4
+    },
+    {
+      "name": "David Andrews",
+      "character": "Robert Brewster",
+      "order": 5
+    },
+    {
+      "name": "Carolyn Hennesy",
+      "character": "Rich Woman",
+      "order": 6
+    },
+    {
+      "name": "Jay Acovone",
+      "character": "Cop - Westside Street",
+      "order": 7
+    },
+    {
+      "name": "Mark Famiglietti",
+      "character": "Scott Petersen",
+      "order": 8
+    },
+    {
+      "name": "Moira Sinise",
+      "character": "Betsy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nvsoLAclNfpyJSp73TiGKwZoqJW.jpg",
+  "backdrop_path": "/kbXMOnz2RhTSAbLtHX5hy5AXtwv.jpg",
+  "budget": 200000000,
+  "revenue": 435000000,
+  "vote_average": 6.183,
+  "vote_count": 7139,
+  "imdb_id": "tt0181852",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BG",
+      "rating": "D"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

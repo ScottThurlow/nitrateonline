@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 4614,
+  "title": "The Sum of All Fears",
+  "original_title": "The Sum of All Fears",
+  "release_date": "2002-05-31",
+  "runtime": 124,
+  "tagline": "27,000 nuclear weapons. One is missing.",
+  "overview": "When the president of Russia suddenly dies, a man whose politics are virtually unknown succeeds him. The change in political leaders sparks paranoia among American CIA officials, so CIA director Bill Cabot recruits a young analyst to supply insight and advice on the situation. Then the unthinkable happens: a nuclear bomb explodes in a U.S. city, and America is quick to blame the Russians.",
+  "genres": [
+    "Thriller",
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Arabic",
+    "English",
+    "Russian",
+    "Ukrainian",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mace Neufeld Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Phil Alden Robinson"
+  ],
+  "writers": [
+    {
+      "name": "Daniel Pyne",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Attanasio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom Clancy",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mace Neufeld",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Clancy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stratton Leopold",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "character": "Jack Ryan",
+      "order": 0
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "DCI William Cabot",
+      "order": 1
+    },
+    {
+      "name": "James Cromwell",
+      "character": "President Fowler",
+      "order": 2
+    },
+    {
+      "name": "Liev Schreiber",
+      "character": "John Clark",
+      "order": 3
+    },
+    {
+      "name": "Bridget Moynahan",
+      "character": "Dr. Cathy Muller",
+      "order": 4
+    },
+    {
+      "name": "Alan Bates",
+      "character": "Dressler",
+      "order": 5
+    },
+    {
+      "name": "Ciarán Hinds",
+      "character": "President Nemerov",
+      "order": 6
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Defense Secretary Becker",
+      "order": 7
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "Secretary of State Owens",
+      "order": 8
+    },
+    {
+      "name": "Bruce McGill",
+      "character": "National Security Advisor Revell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+  "backdrop_path": "/455z1puGQRuMKumAaDttSEEzqg1.jpg",
+  "budget": 68000000,
+  "revenue": 193921372,
+  "vote_average": 6.361,
+  "vote_count": 1912,
+  "imdb_id": "tt0164184",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

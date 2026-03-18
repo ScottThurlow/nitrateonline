@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 9583,
+  "title": "Divine Secrets of the Ya-Ya Sisterhood",
+  "original_title": "Divine Secrets of the Ya-Ya Sisterhood",
+  "release_date": "2002-06-07",
+  "runtime": 116,
+  "tagline": "The Secret Is Out.",
+  "overview": "In a sleepy Louisiana parish, a group of lifelong friends stage a rather unorthodox intervention to help a young playwright unravel the truth about her complicated mother and let go of her painful past.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "All Girl Productions",
+      "country": ""
+    },
+    {
+      "name": "Gaylord Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Callie Khouri"
+  ],
+  "writers": [
+    {
+      "name": "Rebecca Wells",
+      "job": "Novel"
+    },
+    {
+      "name": "Mark Andrus",
+      "job": "Adaptation"
+    },
+    {
+      "name": "Callie Khouri",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bonnie Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Hunt Lowry",
+      "job": "Producer"
+    },
+    {
+      "name": "E.K. Gaylord II",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mary McLaglen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bette Midler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lisa Stewart",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "character": "Sidda Walker",
+      "order": 0
+    },
+    {
+      "name": "Ellen Burstyn",
+      "character": "Vivi Abbott Walker",
+      "order": 1
+    },
+    {
+      "name": "Fionnula Flanagan",
+      "character": "Teensy Whitman",
+      "order": 2
+    },
+    {
+      "name": "James Garner",
+      "character": "Shep Walker",
+      "order": 3
+    },
+    {
+      "name": "Cherry Jones",
+      "character": "Buggy Abbott",
+      "order": 4
+    },
+    {
+      "name": "Ashley Judd",
+      "character": "Younger Vivi",
+      "order": 5
+    },
+    {
+      "name": "Shirley Knight",
+      "character": "Necie Kelleher",
+      "order": 6
+    },
+    {
+      "name": "Angus Macfadyen",
+      "character": "Connor McGill",
+      "order": 7
+    },
+    {
+      "name": "Maggie Smith",
+      "character": "Caro Bennett",
+      "order": 8
+    },
+    {
+      "name": "Jacqueline McKenzie",
+      "character": "Younger Teensy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hI05FJ8wgPROHQgLtfJ4ZuH3l4b.jpg",
+  "backdrop_path": "/nTB7rsZ1JTCrolj91bRBFgi9G4x.jpg",
+  "budget": 27000000,
+  "revenue": 73839240,
+  "vote_average": 6.103,
+  "vote_count": 253,
+  "imdb_id": "tt0279778",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

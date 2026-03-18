@@ -1,0 +1,209 @@
+{
+  "tmdb_id": 10137,
+  "title": "Stuart Little",
+  "original_title": "Stuart Little",
+  "release_date": "1999-12-17",
+  "runtime": 84,
+  "tagline": "The Little family just got bigger.",
+  "overview": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Franklin/Waterman Productions",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Global Medien KG",
+      "country": "DE"
+    },
+    {
+      "name": "Red Wagon Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Minkoff"
+  ],
+  "writers": [
+    {
+      "name": "Greg Brooker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "M. Night Shyamalan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "E.B. White",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Douglas Wick",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Waterman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeff Franklin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jason Clark",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael J. Fox",
+      "character": "Stuart Little (voice)",
+      "order": 0
+    },
+    {
+      "name": "Geena Davis",
+      "character": "Mrs. Little",
+      "order": 1
+    },
+    {
+      "name": "Hugh Laurie",
+      "character": "Mr. Little",
+      "order": 2
+    },
+    {
+      "name": "Jonathan Lipnicki",
+      "character": "George Little",
+      "order": 3
+    },
+    {
+      "name": "Nathan Lane",
+      "character": "Snowbell (voice)",
+      "order": 4
+    },
+    {
+      "name": "Chazz Palminteri",
+      "character": "Smokey (voice)",
+      "order": 5
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Monty (voice)",
+      "order": 6
+    },
+    {
+      "name": "Jim Doughan",
+      "character": "Lucky (voice) / Officer Allen",
+      "order": 7
+    },
+    {
+      "name": "David Alan Grier",
+      "character": "Red (voice)",
+      "order": 8
+    },
+    {
+      "name": "Bruno Kirby",
+      "character": "Mr. Stout (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/362lcwTJlNyAhitTlp2UraECISR.jpg",
+  "backdrop_path": "/dECKGAenue36W50HYhd3Jh1OJs.jpg",
+  "budget": 133000000,
+  "revenue": 300135367,
+  "vote_average": 6.067,
+  "vote_count": 4597,
+  "imdb_id": "tt0164912",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "G"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

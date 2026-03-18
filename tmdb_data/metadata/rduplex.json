@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 7288,
+  "title": "Duplex",
+  "original_title": "Duplex",
+  "release_date": "2003-09-26",
+  "runtime": 89,
+  "tagline": "Alex and Nancy finally found their dream home...and then they moved in.",
+  "overview": "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Flower Films",
+      "country": "US"
+    },
+    {
+      "name": "Red Hour",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Danny DeVito"
+  ],
+  "writers": [
+    {
+      "name": "Larry Doyle",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Drew Barrymore",
+      "job": "Producer"
+    },
+    {
+      "name": "Ben Stiller",
+      "job": "Producer"
+    },
+    {
+      "name": "Stuart Cornfeld",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeremy Kramer",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan C. Blomquist",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jennifer Wachtell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nancy Juvonen",
+      "job": "Producer"
+    },
+    {
+      "name": "Meryl Poster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard N. Gladstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "character": "Alex Rose",
+      "order": 0
+    },
+    {
+      "name": "Drew Barrymore",
+      "character": "Nancy Kendricks",
+      "order": 1
+    },
+    {
+      "name": "Eileen Essell",
+      "character": "Mrs. Connelly",
+      "order": 2
+    },
+    {
+      "name": "Harvey Fierstein",
+      "character": "Kenneth",
+      "order": 3
+    },
+    {
+      "name": "Justin Theroux",
+      "character": "Coop",
+      "order": 4
+    },
+    {
+      "name": "James Remar",
+      "character": "Chick",
+      "order": 5
+    },
+    {
+      "name": "Robert Wisdom",
+      "character": "Officer Dan",
+      "order": 6
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "character": "Jean",
+      "order": 7
+    },
+    {
+      "name": "Wallace Shawn",
+      "character": "Herman",
+      "order": 8
+    },
+    {
+      "name": "Maya Rudolph",
+      "character": "Tara",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mCQ4oO9djqcthBRD3ftTnR8qSP7.jpg",
+  "backdrop_path": "/peQaGE36oX0ClMj1xOPPzQxF1MM.jpg",
+  "budget": 40000000,
+  "revenue": 19322135,
+  "vote_average": 6.084,
+  "vote_count": 1767,
+  "imdb_id": "tt0266489",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

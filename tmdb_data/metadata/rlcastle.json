@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 2100,
+  "title": "The Last Castle",
+  "original_title": "The Last Castle",
+  "release_date": "2001-10-19",
+  "runtime": 131,
+  "tagline": "A Castle Can Only Have One King",
+  "overview": "A court-martialed general rallies together 1200 inmates to rise against the system that put him away.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Robert Lawrence Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rod Lurie"
+  ],
+  "writers": [
+    {
+      "name": "Graham Yost",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Scarpa",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Scarpa",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Don Zepfel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Lawrence",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Redford",
+      "character": "Lt. Gen. Eugene Irwin",
+      "order": 0
+    },
+    {
+      "name": "James Gandolfini",
+      "character": "Col. Winter",
+      "order": 1
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Yates",
+      "order": 2
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Gen. Wheeler",
+      "order": 3
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "character": "Cp. Ramov Aguilar",
+      "order": 4
+    },
+    {
+      "name": "Kristen Shaw",
+      "character": "Clerk (Staff Sgt.)",
+      "order": 5
+    },
+    {
+      "name": "Paul Calderon",
+      "character": "Dellwo",
+      "order": 6
+    },
+    {
+      "name": "Brian Goodman",
+      "character": "Beaupre",
+      "order": 7
+    },
+    {
+      "name": "Steve Burton",
+      "character": "Cap. Peretz",
+      "order": 8
+    },
+    {
+      "name": "Sam Ball",
+      "character": "Duffy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pYnUfauPVK6g8IRO2REYl4TUZ2p.jpg",
+  "backdrop_path": "/mYnCnyGxdtXo2PDhhyFT0er9sp5.jpg",
+  "budget": 72000000,
+  "revenue": 27642707,
+  "vote_average": 7.173,
+  "vote_count": 1393,
+  "imdb_id": "tt0272020",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

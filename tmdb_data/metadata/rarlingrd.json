@@ -1,0 +1,233 @@
+{
+  "tmdb_id": 1073,
+  "title": "Arlington Road",
+  "original_title": "Arlington Road",
+  "release_date": "1999-03-19",
+  "runtime": 117,
+  "tagline": "Fear Thy Neighbor.",
+  "overview": "Bedraggled college professor Michael Faraday has been vexed — and increasingly paranoid — since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begins to suspect there’s more to them than meets the eye.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Arlington Road Productions Corporation",
+      "country": ""
+    },
+    {
+      "name": "Gorai / Samuelson Productions",
+      "country": ""
+    },
+    {
+      "name": "Samuelson Productions",
+      "country": "US"
+    },
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Pellington"
+  ],
+  "writers": [
+    {
+      "name": "Ehren Kruger",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sigurjón Sighvatsson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Samuelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Samuelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Gorai",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeff Bridges",
+      "character": "Michael Faraday",
+      "order": 0
+    },
+    {
+      "name": "Tim Robbins",
+      "character": "Oliver Lang",
+      "order": 1
+    },
+    {
+      "name": "Joan Cusack",
+      "character": "Cheryl Lang",
+      "order": 2
+    },
+    {
+      "name": "Hope Davis",
+      "character": "Brooke Wolfe",
+      "order": 3
+    },
+    {
+      "name": "Robert Gossett",
+      "character": "FBI Agent Whit Carver",
+      "order": 4
+    },
+    {
+      "name": "Mason Gamble",
+      "character": "Brady Lang",
+      "order": 5
+    },
+    {
+      "name": "Spencer Treat Clark",
+      "character": "Grant Faraday",
+      "order": 6
+    },
+    {
+      "name": "Stanley Anderson",
+      "character": "Dr. Archer Scobee",
+      "order": 7
+    },
+    {
+      "name": "Lee Stringer",
+      "character": "Orderly",
+      "order": 8
+    },
+    {
+      "name": "Darryl Cox",
+      "character": "Troopmaster",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+  "backdrop_path": "/7qfRbS477Io8JnYz739P0aXbBVh.jpg",
+  "budget": 31000000,
+  "revenue": 41100000,
+  "vote_average": 7.022,
+  "vote_count": 1208,
+  "imdb_id": "tt0137363",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "KT/EA"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "TR",
+      "rating": "7+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

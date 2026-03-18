@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 13201,
+  "title": "Deuces Wild",
+  "original_title": "Deuces Wild",
+  "release_date": "2002-05-03",
+  "runtime": 96,
+  "tagline": "Before gangs had guns...they fought with guts.",
+  "overview": "In 1950s New York City, a bad and bloody gang war is about to erupt on the dysfunctional streets of Brooklyn between the Deuces and the vicious Vipers.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "CineWild",
+      "country": ""
+    },
+    {
+      "name": "Cinerenta",
+      "country": "DE"
+    },
+    {
+      "name": "Eternity Pictures",
+      "country": ""
+    },
+    {
+      "name": "Presto Productions",
+      "country": ""
+    },
+    {
+      "name": "The Antonia Company",
+      "country": ""
+    },
+    {
+      "name": "Unity Productions",
+      "country": ""
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Scott Kalvert"
+  ],
+  "writers": [
+    {
+      "name": "Paul Kimatian",
+      "job": "Writer"
+    },
+    {
+      "name": "Christopher Gambale",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eberhard Kayser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Cerenzie",
+      "job": "Producer"
+    },
+    {
+      "name": "Willi Bär",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred C. Caruso",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Ohoven",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Alexander Sferrazza",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Martin Scorsese",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Kimatian",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Stephen Dorff",
+      "character": "Leon",
+      "order": 0
+    },
+    {
+      "name": "Brad Renfro",
+      "character": "Bobby",
+      "order": 1
+    },
+    {
+      "name": "Fairuza Balk",
+      "character": "Annie",
+      "order": 2
+    },
+    {
+      "name": "Norman Reedus",
+      "character": "Marco",
+      "order": 3
+    },
+    {
+      "name": "Max Perlich",
+      "character": "Freddie",
+      "order": 4
+    },
+    {
+      "name": "Drea De Matteo",
+      "character": "Betsy",
+      "order": 5
+    },
+    {
+      "name": "Vincent Pastore",
+      "character": "Father Aldo",
+      "order": 6
+    },
+    {
+      "name": "Frankie Muniz",
+      "character": "Scooch",
+      "order": 7
+    },
+    {
+      "name": "Balthazar Getty",
+      "character": "Jimmy Pockets",
+      "order": 8
+    },
+    {
+      "name": "Nancy Cassaro",
+      "character": "Esther",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nyr9WT4mLYZHFRINuyWCQExV9ku.jpg",
+  "backdrop_path": "/3eyqLJpl6vDsXLTZnECXlR52pZQ.jpg",
+  "budget": 10000000,
+  "revenue": 6282446,
+  "vote_average": 5.523,
+  "vote_count": 107,
+  "imdb_id": "tt0231448",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

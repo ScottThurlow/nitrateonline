@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "13 nominations total",
+  "rated": "PG-13",
+  "released": "13 Dec 2002",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Charles Stone III",
+  "writer": "Shawn Schepps, Tina Gordon",
+  "actors": "Nick Cannon, Zoe Saldaña, Orlando Jones",
+  "plot": "A fish-out-of-water comedy about a talented street drummer from Harlem who enrolls in a Southern university, expecting to lead its marching band's drumline to victory. He initially flounders in his new world, before realizing that it takes more than talent to reach the top.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "63",
+  "imdb_rating": "6.0",
+  "imdb_votes": "37,118",
+  "box_office": "$56,399,184",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Drumline"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Drumline/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0303933/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0303933/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13497"
+  }
+}

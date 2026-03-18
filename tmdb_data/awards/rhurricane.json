@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 7 wins & 18 nominations total",
+  "rated": "R",
+  "released": "14 Jan 2000",
+  "runtime": "146 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Norman Jewison",
+  "writer": "Rubin 'Hurricane' Carter, Sam Chaiton, Terry Swinton",
+  "actors": "Denzel Washington, Vicellous Shannon, Deborah Kara Unger",
+  "plot": "This film tells the story of Rubin \"Hurricane\" Carter, an African-American man who rose above his troubled youth to become a top contender for the middle-weight boxing title. However, his dreams are shattered when he is accused of a triple murder, and is convicted to three natural-life terms. Despite becoming a cause celebre and his dogged efforts to prove his innocence through his autobiography, the years of fruitless efforts have left him discouraged. This changes when an African-American boy and his Canadian mentors read his book and are convinced of his innocence enough to work for his exoneration. However, what Hurricane and his friends learn is that this fight puts them against a racist establishment that profited from this travesty and have no intention of seeing it reversed.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "74",
+  "imdb_rating": "7.6",
+  "imdb_votes": "105,197",
+  "box_office": "$50,699,241",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Hurricane"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/The+Hurricane/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0174856/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0174856/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10400"
+  }
+}

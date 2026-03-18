@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 26180,
+  "title": "Excess Baggage",
+  "original_title": "Excess Baggage",
+  "release_date": "1997-08-29",
+  "runtime": 101,
+  "tagline": "A crash course in kidnappings, car thefts and other rituals of dating.",
+  "overview": "A rich brat fakes her own kidnapping, but in the process ends up locked in the trunk of a car that gets stolen.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Marco Brambilla"
+  ],
+  "writers": [
+    {
+      "name": "Max D. Adams",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alicia Silverstone",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Borden",
+      "job": "Producer"
+    },
+    {
+      "name": "Carolyn Kessler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alicia Silverstone",
+      "character": "Emily",
+      "order": 0
+    },
+    {
+      "name": "Benicio del Toro",
+      "character": "Vincent",
+      "order": 1
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Ray",
+      "order": 2
+    },
+    {
+      "name": "Jack Thompson",
+      "character": "Alexander",
+      "order": 3
+    },
+    {
+      "name": "Harry Connick Jr.",
+      "character": "Greg",
+      "order": 4
+    },
+    {
+      "name": "Nicholas Turturro",
+      "character": "Stick",
+      "order": 5
+    },
+    {
+      "name": "Michael Bowen",
+      "character": "Gus",
+      "order": 6
+    },
+    {
+      "name": "Robert Wisden",
+      "character": "Detective Sims",
+      "order": 7
+    },
+    {
+      "name": "Leland Orser",
+      "character": "Detective Barnaby",
+      "order": 8
+    },
+    {
+      "name": "Sally Kirkland",
+      "character": "Louise",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dfKaCA32iSkEQiu37drvIAZWZFz.jpg",
+  "backdrop_path": "/mfAyTW6lEMWulqocDbiPyfDcMRD.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.1,
+  "vote_count": 255,
+  "imdb_id": "tt0119086",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

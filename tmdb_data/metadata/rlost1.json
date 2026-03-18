@@ -1,0 +1,189 @@
+{
+  "tmdb_id": 153,
+  "title": "Lost in Translation",
+  "original_title": "Lost in Translation",
+  "release_date": "2003-09-18",
+  "runtime": 102,
+  "tagline": "Everyone wants to be found.",
+  "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Japanese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    },
+    {
+      "name": "Elemental Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Sofia Coppola"
+  ],
+  "writers": [
+    {
+      "name": "Sofia Coppola",
+      "job": "Writer"
+    },
+    {
+      "name": "T. Rafael Cimino",
+      "job": "Writers' Production"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ross Katz",
+      "job": "Producer"
+    },
+    {
+      "name": "Sofia Coppola",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred Roos",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bill Murray",
+      "character": "Bob Harris",
+      "order": 0
+    },
+    {
+      "name": "Scarlett Johansson",
+      "character": "Charlotte",
+      "order": 1
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "John",
+      "order": 2
+    },
+    {
+      "name": "Anna Faris",
+      "character": "Kelly",
+      "order": 3
+    },
+    {
+      "name": "Akiko Takeshita",
+      "character": "Ms. Kawasaki",
+      "order": 4
+    },
+    {
+      "name": "Kazuyoshi Minamimagoe",
+      "character": "Press Agent",
+      "order": 5
+    },
+    {
+      "name": "Kazuko Shibata",
+      "character": "Press Agent",
+      "order": 6
+    },
+    {
+      "name": "Take",
+      "character": "Press Agent",
+      "order": 7
+    },
+    {
+      "name": "Ryuichiro Baba",
+      "character": "Concierge",
+      "order": 8
+    },
+    {
+      "name": "Akira Yamaguchi",
+      "character": "Bellboy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+  "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+  "budget": 4000000,
+  "revenue": 119723856,
+  "vote_average": 7.383,
+  "vote_count": 7951,
+  "imdb_id": "tt0335266",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "1977",
+  "awards": "4 wins & 3 nominations",
+  "rated": "Not Rated",
+  "released": "03 Oct 1977",
+  "runtime": "129 min",
+  "genre": "Comedy, Drama, History",
+  "director": "Satyajit Ray",
+  "writer": "Munshi Premchand, Satyajit Ray, Shama Zaidi",
+  "actors": "Sanjeev Kumar, Saeed Jaffrey, Shabana Azmi",
+  "plot": "Wazed Ali Shah was the ruler of one of the last independent kingdoms of India. The British, intent on controlling this rich country, had sent General Outram on a secret mission to clear the way for an annexation. While pressure was mounting amidst intrigue and political maneuvers, Ali Shah composes poems and listens to music, secluded in his palace. The court was of no help, as exemplified by nobles Mir and Mirza, who, ignoring the situation of their country and all of their duties towards their families, spend their days playing endless parties of chess.",
+  "language": "Hindi, Urdu, English",
+  "country": "India",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "4,137",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Chess+Players"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0076696/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0076696/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/80556"
+  }
+}

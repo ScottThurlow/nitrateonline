@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 18828,
+  "title": "Double Take",
+  "original_title": "Double Take",
+  "release_date": "2001-01-12",
+  "runtime": 88,
+  "tagline": "One big shot. One big mouth. The switch is on.",
+  "overview": "A man on the run takes another man's passport, only to find himself stuck with the identity of a street hustler.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Permut Presentations",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Gallo"
+  ],
+  "writers": [
+    {
+      "name": "George Gallo",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Rotenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry Bernardi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brett Ratner",
+      "job": "Producer"
+    },
+    {
+      "name": "David Permut",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Orlando Jones",
+      "character": "Daryl Chase",
+      "order": 0
+    },
+    {
+      "name": "Eddie Griffin",
+      "character": "Freddy Tiffany",
+      "order": 1
+    },
+    {
+      "name": "Garcelle Beauvais",
+      "character": "Chloe",
+      "order": 2
+    },
+    {
+      "name": "Gary Grubbs",
+      "character": "Timothy Jarret McReady",
+      "order": 3
+    },
+    {
+      "name": "Daniel Roebuck",
+      "character": "Agent Norville",
+      "order": 4
+    },
+    {
+      "name": "Edward Herrmann",
+      "character": "Charles Allsworth",
+      "order": 5
+    },
+    {
+      "name": "Carlos Carrasco",
+      "character": "Capt. Garcia",
+      "order": 6
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Shari",
+      "order": 7
+    },
+    {
+      "name": "Sterling Macer Jr.",
+      "character": "Agent Gradney",
+      "order": 8
+    },
+    {
+      "name": "Benny Nieves",
+      "character": "Agent Martinez",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gNyudcF4Z8LVJn4IxauOptG6dcb.jpg",
+  "backdrop_path": "/e93Upxk1sCLdscVKD7pQNLiaqVI.jpg",
+  "budget": 24000000,
+  "revenue": 31600000,
+  "vote_average": 5.55,
+  "vote_count": 109,
+  "imdb_id": "tt0238948",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

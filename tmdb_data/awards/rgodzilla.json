@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "10 wins & 13 nominations total",
+  "rated": "PG-13",
+  "released": "20 May 1998",
+  "runtime": "139 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Roland Emmerich",
+  "writer": "Dean Devlin, Roland Emmerich, Ted Elliott",
+  "actors": "Matthew Broderick, Jean Reno, Maria Pitillo",
+  "plot": "In the wake of extensive nuclear testing in the South Pacific Ocean, the low-profile scientist, Niko Tatopoulos, is summoned by the U.S. Army to shed light on the mysterious attack on a fishing ship, and the ominous sightings of a gargantuan sea-dragon. Before long, a mutated scaly nightmare in the shape of Godzilla--a massive and all-powerful radioactive sauroid--threatens to level the rain-soaked New York City, against the backdrop of a crippling bureaucracy and the military's futile attempts to stop the invincible beast from the ocean. Now, it's up to Niko; the cryptic insurance agent, Philippe; the determined reporter, Audrey, and her brave cameraman, Victor, to put an end to Godzilla's reign of terror before it's too late. Is there a reason why Godzilla has chosen Manhattan for its den?",
+  "language": "English, French, Japanese, Russian, Spanish",
+  "country": "United States, Japan",
+  "metascore": "32",
+  "imdb_rating": "5.5",
+  "imdb_votes": "210,191",
+  "box_office": "$136,314,294",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "20%",
+      "link": "https://www.rottentomatoes.com/search?search=Godzilla"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Godzilla/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120685/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120685/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/929"
+  }
+}

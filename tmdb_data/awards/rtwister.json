@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "Nominated for 2 Oscars. 11 wins & 17 nominations total",
+  "rated": "PG-13",
+  "released": "10 May 1996",
+  "runtime": "113 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Jan de Bont",
+  "writer": "Michael Crichton, Anne-Marie Martin",
+  "actors": "Helen Hunt, Bill Paxton, Jami Gertz",
+  "plot": "TV weatherman Bill Harding is trying to get his tornado-hunter wife, Jo, to sign divorce papers so he can marry his girlfriend Melissa. But Mother Nature, in the form of a series of intense storms sweeping across Oklahoma, has other plans. Soon the three have joined the team of stormchasers as they attempt to insert a revolutionary measuring device into the very heart of several extremely violent tornados.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "68",
+  "imdb_rating": "6.6",
+  "imdb_votes": "249,196",
+  "box_office": "$241,830,615",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "68%",
+      "link": "https://www.rottentomatoes.com/search?search=Twister"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Twister/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0117998/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0117998/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/664"
+  }
+}

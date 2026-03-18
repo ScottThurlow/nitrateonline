@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 10678,
+  "title": "Bringing Down the House",
+  "original_title": "Bringing Down the House",
+  "release_date": "2003-03-07",
+  "runtime": 105,
+  "tagline": "Everything he needed to know about life, she learned in prison.",
+  "overview": "Uptight lawyer Peter Sanderson wants to dive back into dating after his divorce and has a hard time meeting the right women. He tries online dating and lucks out when he starts chatting with a fellow lawyer. The two agree to meet in the flesh, but the woman he meets — an escaped African-American convict named Charlene — is not what he expected. Peter is freaked out, but Charlene tries to convince him to take her case and prove her innocence. Along the way, she wreaks havoc on his middle-class life as he gets a lesson in learning to lighten up.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Hyde Park Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Mandeville Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Adam Shankman"
+  ],
+  "writers": [
+    {
+      "name": "Jason Filardi",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ashok Amritraj",
+      "job": "Producer"
+    },
+    {
+      "name": "Jane Bartelme",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Queen Latifah",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Hoberman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Martin",
+      "character": "Peter Sanderson",
+      "order": 0
+    },
+    {
+      "name": "Queen Latifah",
+      "character": "Charlene Morton",
+      "order": 1
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Howie Rottman",
+      "order": 2
+    },
+    {
+      "name": "Joan Plowright",
+      "character": "Mrs. Virginia Arness",
+      "order": 3
+    },
+    {
+      "name": "Jean Smart",
+      "character": "Kate Sanderson",
+      "order": 4
+    },
+    {
+      "name": "Kimberly J. Brown",
+      "character": "Sarah Sanderson",
+      "order": 5
+    },
+    {
+      "name": "Angus T. Jones",
+      "character": "Georgey Sanderson",
+      "order": 6
+    },
+    {
+      "name": "Missi Pyle",
+      "character": "Ashley",
+      "order": 7
+    },
+    {
+      "name": "Michael Rosenbaum",
+      "character": "Todd Gendler",
+      "order": 8
+    },
+    {
+      "name": "Betty White",
+      "character": "Mrs. Kline",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jic0ULHTcqQQaCSIEw6SAhHhIPA.jpg",
+  "backdrop_path": "/mRaNy8rNfxOpT0LrD3FIQztmpYL.jpg",
+  "budget": 20000000,
+  "revenue": 132700000,
+  "vote_average": 5.976,
+  "vote_count": 733,
+  "imdb_id": "tt0305669",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "20 Sep 2002",
+  "runtime": "132 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Shekhar Kapur",
+  "writer": "A.E.W. Mason, Michael Schiffer, Hossein Amini",
+  "actors": "Heath Ledger, Wes Bentley, Kate Hudson",
+  "plot": "Harry Feversham is a British Army officer. When his regiment is sent to fight in the Sudan, he resigns his commission. His three closest friends and fellow officers view him as a coward and each send him a white feather, a symbol of cowardice. His fiancée has the same view and does the same. Humiliated by this, Feversham sets off to the Sudan to redeem his honour.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "49",
+  "imdb_rating": "6.5",
+  "imdb_votes": "36,318",
+  "box_office": "$18,306,166",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Four+Feathers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/The+Four+Feathers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0240510/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0240510/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9093"
+  }
+}

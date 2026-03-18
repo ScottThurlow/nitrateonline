@@ -1,0 +1,206 @@
+{
+  "tmdb_id": 9352,
+  "title": "EuroTrip",
+  "original_title": "EuroTrip",
+  "release_date": "2004-02-20",
+  "runtime": 92,
+  "tagline": "No actual Europeans were harmed in the making of this film.",
+  "overview": "When Scott learns that his longtime cyber-buddy from Berlin is a gorgeous young woman, he and his friends embark on a trip across Europe.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Italian",
+    "Japanese",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "The Montecito Picture Company",
+      "country": "US"
+    },
+    {
+      "name": "Blue Sea Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jeff Schaffer"
+  ],
+  "writers": [
+    {
+      "name": "Alec Berg",
+      "job": "Writer"
+    },
+    {
+      "name": "David Mandel",
+      "job": "Writer"
+    },
+    {
+      "name": "Jeff Schaffer",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alec Berg",
+      "job": "Producer"
+    },
+    {
+      "name": "Daniel Goldberg",
+      "job": "Producer"
+    },
+    {
+      "name": "David Mandel",
+      "job": "Producer"
+    },
+    {
+      "name": "Jackie Marcus Schaffer",
+      "job": "Producer"
+    },
+    {
+      "name": "Joe Medjuck",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Pollock",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ivan Reitman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Scott Mechlowicz",
+      "character": "Scott Thomas",
+      "order": 0
+    },
+    {
+      "name": "Jacob Pitts",
+      "character": "Cooper Harris",
+      "order": 1
+    },
+    {
+      "name": "Michelle Trachtenberg",
+      "character": "Jenny",
+      "order": 2
+    },
+    {
+      "name": "Travis Wester",
+      "character": "Jamie",
+      "order": 3
+    },
+    {
+      "name": "Vinnie Jones",
+      "character": "Mad Maynard",
+      "order": 4
+    },
+    {
+      "name": "Lucy Lawless",
+      "character": "Madame Vandersexxx",
+      "order": 5
+    },
+    {
+      "name": "Jessica Boehrs",
+      "character": "Mieke",
+      "order": 6
+    },
+    {
+      "name": "Patrick Malahide",
+      "character": "Arthur Frommer",
+      "order": 7
+    },
+    {
+      "name": "Patrick Rapold",
+      "character": "Christoph",
+      "order": 8
+    },
+    {
+      "name": "Diedrich Bader",
+      "character": "Mugger",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iLdO4PwbZCCQSa9rchZMwuJm9xe.jpg",
+  "backdrop_path": "/evA6FciF3WGTixgoB931elOp73L.jpg",
+  "budget": 25000000,
+  "revenue": 22605153,
+  "vote_average": 6.617,
+  "vote_count": 2883,
+  "imdb_id": "tt0356150",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

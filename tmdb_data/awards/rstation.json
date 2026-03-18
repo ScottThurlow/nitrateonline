@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Won 1 BAFTA Award29 wins & 31 nominations total",
+  "rated": "R",
+  "released": "05 Dec 2003",
+  "runtime": "89 min",
+  "genre": "Comedy, Drama",
+  "director": "Tom McCarthy",
+  "writer": "Tom McCarthy",
+  "actors": "Peter Dinklage, Patricia Clarkson, Bobby Cannavale",
+  "plot": "When his only friend and co-worker dies, a young man born with dwarfism moves to an abandoned train depot in rural New Jersey. Though he tried to maintain a life of solitude, he is soon entangled with an artist who is struggling with a personal tragedy and an overly friendly Cuban hot-dog vendor.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "81",
+  "imdb_rating": "7.6",
+  "imdb_votes": "75,023",
+  "box_office": "$5,739,376",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Station+Agent"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/The+Station+Agent/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0340377/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0340377/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2056"
+  }
+}

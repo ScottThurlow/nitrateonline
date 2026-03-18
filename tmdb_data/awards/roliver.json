@@ -1,0 +1,40 @@
+{
+  "year": "1988",
+  "awards": "1 win & 2 nominations total",
+  "rated": "G",
+  "released": "18 Nov 1988",
+  "runtime": "74 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "George Scribner",
+  "writer": "Jim Cox, Tim Disney, James Mangold",
+  "actors": "Joey Lawrence, Billy Joel, Cheech Marin",
+  "plot": "Inspired by Charles Dickens' \"Oliver Twist\". A homeless kitten named Oliver, roams the streets of New York, where he is taken in by a gang of homeless mutts who survive by stealing from others. During one of these criminal acts, Oliver meets a wealthy young girl named Jenny Foxworth. This meeting will forever change his life.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "58",
+  "imdb_rating": "6.6",
+  "imdb_votes": "56,700",
+  "box_office": "$74,151,346",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=Oliver+%26+Company"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/Oliver+%26+Company/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0095776/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0095776/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12233"
+  }
+}

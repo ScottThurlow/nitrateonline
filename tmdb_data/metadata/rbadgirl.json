@@ -1,0 +1,156 @@
+{
+  "tmdb_id": 11853,
+  "title": "Bad Girls",
+  "original_title": "Bad Girls",
+  "release_date": "1994-04-22",
+  "runtime": 99,
+  "tagline": "It was a dangerous time to be a woman. And a good time to have friends.",
+  "overview": "Four former harlots try to leave the wild west (Colorado, to be exact) and head north to make a better life for themselves. Unfortunately someone from Cody's past won't let it happen that easily.",
+  "genres": [
+    "Romance",
+    "Western"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ruddy Morgan Organization, The",
+      "country": ""
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Kaplan"
+  ],
+  "writers": [
+    {
+      "name": "Ken Friedman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Albert S. Ruddy",
+      "job": "Story"
+    },
+    {
+      "name": "Charles Finch",
+      "job": "Story"
+    },
+    {
+      "name": "Gray Frederickson",
+      "job": "Story"
+    },
+    {
+      "name": "Yolande Turner",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Finch",
+      "job": "Producer"
+    },
+    {
+      "name": "Lynda Obst",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Albert S. Ruddy",
+      "job": "Producer"
+    },
+    {
+      "name": "Andre Morgan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Madeleine Stowe",
+      "character": "Cody Zamora",
+      "order": 0
+    },
+    {
+      "name": "Mary Stuart Masterson",
+      "character": "Anita Crown",
+      "order": 1
+    },
+    {
+      "name": "Andie MacDowell",
+      "character": "Eileen Spenser",
+      "order": 2
+    },
+    {
+      "name": "Drew Barrymore",
+      "character": "Lily Laronette",
+      "order": 3
+    },
+    {
+      "name": "James Russo",
+      "character": "Kid Jarrett",
+      "order": 4
+    },
+    {
+      "name": "James Le Gros",
+      "character": "William Tucker",
+      "order": 5
+    },
+    {
+      "name": "Robert Loggia",
+      "character": "Frank Jarrett",
+      "order": 6
+    },
+    {
+      "name": "Dermot Mulroney",
+      "character": "Josh McCoy",
+      "order": 7
+    },
+    {
+      "name": "Jim Beaver",
+      "character": "Pinkerton Detective Graves",
+      "order": 8
+    },
+    {
+      "name": "Nick Chinlund",
+      "character": "Pinkerton Detective O'Brady",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cXY79luLXt2dzUP2Tx601zpZFzK.jpg",
+  "backdrop_path": "/lliLm5qfg8lbTCMHSuZ2Dup5HCM.jpg",
+  "budget": 0,
+  "revenue": 15240435,
+  "vote_average": 5.4,
+  "vote_count": 260,
+  "imdb_id": "tt0109198",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

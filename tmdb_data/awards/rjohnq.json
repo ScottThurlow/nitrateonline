@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "15 Feb 2002",
+  "runtime": "116 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Nick Cassavetes",
+  "writer": "James Kearns",
+  "actors": "Denzel Washington, Robert Duvall, Gabriela Oltean",
+  "plot": "John Quincy Archibald's son Michael collapses while playing baseball as a result of heart failure. John rushes Michael to a hospital emergency room where he is informed that Michael's only hope is a transplant. Unfortunately, John's insurance won't cover his son's transplant. Out of options, John Q. takes the emergency room staff and patients hostage until hospital doctors agree to do the transplant.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "30",
+  "imdb_rating": "7.1",
+  "imdb_votes": "152,524",
+  "box_office": "$71,756,802",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "26%",
+      "link": "https://www.rottentomatoes.com/search?search=John+Q"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/John+Q/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0251160/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0251160/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8470"
+  }
+}

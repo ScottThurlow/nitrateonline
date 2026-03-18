@@ -1,0 +1,109 @@
+{
+  "tmdb_id": 15800,
+  "title": "Trekkies",
+  "original_title": "Trekkies",
+  "release_date": "1997-10-18",
+  "runtime": 86,
+  "tagline": "A hilarious look at the universe's most fervent fans.",
+  "overview": "Denise Crosby takes a first look at the huge fans of \"Star Trek\" from around America and how the series has affected and shaped their lives.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Neo Art & Logic",
+      "country": ""
+    },
+    {
+      "name": "Trekkies Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Roger Nygard"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "W.K. Border",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Leahy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joel Soisson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denise Crosby",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Barbara Adams",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Majel Barrett",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "James Doohan",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "DeForest Kelley",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Leonard Nimoy",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Michael Dorn",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "LeVar Burton",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "William Shatner",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Nichelle Nichols",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/o6MYZAcI2A7VfJkcIvCDbFPISLP.jpg",
+  "backdrop_path": "/7ueORrKG1Mf4ZpDFVsR83YslKR9.jpg",
+  "budget": 375000,
+  "revenue": 0,
+  "vote_average": 6.373,
+  "vote_count": 63,
+  "imdb_id": "tt0120370",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

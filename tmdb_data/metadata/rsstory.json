@@ -1,0 +1,226 @@
+{
+  "tmdb_id": 404,
+  "title": "The Straight Story",
+  "original_title": "The Straight Story",
+  "release_date": "1999-10-15",
+  "runtime": 112,
+  "tagline": "A true story that proves a little determination goes a very, very long way.",
+  "overview": "Retired farmer and widower Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Les Films Alain Sarde",
+      "country": "FR"
+    },
+    {
+      "name": "Picture Factory",
+      "country": "US"
+    },
+    {
+      "name": "Le Studio Canal+",
+      "country": "FR"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "David Lynch"
+  ],
+  "writers": [
+    {
+      "name": "John Roach",
+      "job": "Writer"
+    },
+    {
+      "name": "Mary Sweeney",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Pierre Edelman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Neal Edelstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Polaire",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mary Sweeney",
+      "job": "Producer"
+    },
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard Farnsworth",
+      "character": "Alvin",
+      "order": 0
+    },
+    {
+      "name": "Sissy Spacek",
+      "character": "Rose",
+      "order": 1
+    },
+    {
+      "name": "Jane Galloway Heitz",
+      "character": "Dorothy",
+      "order": 2
+    },
+    {
+      "name": "Joseph A. Carpenter",
+      "character": "Bud",
+      "order": 3
+    },
+    {
+      "name": "Donald Wiegert",
+      "character": "Sig",
+      "order": 4
+    },
+    {
+      "name": "Tracey Maloney",
+      "character": "Nurse",
+      "order": 5
+    },
+    {
+      "name": "Dan Flannery",
+      "character": "Doctor Gibbons",
+      "order": 6
+    },
+    {
+      "name": "Jennifer Edwards",
+      "character": "Brenda",
+      "order": 7
+    },
+    {
+      "name": "Ed Grennan",
+      "character": "Pete",
+      "order": 8
+    },
+    {
+      "name": "Jack Walsh",
+      "character": "Apple",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+  "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+  "budget": 10000000,
+  "revenue": 6418028,
+  "vote_average": 7.7,
+  "vote_count": 1752,
+  "imdb_id": "tt0166896",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "ATP"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "K"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "NZ",
+      "rating": "G"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "TR",
+      "rating": "10A"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

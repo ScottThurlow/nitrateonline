@@ -1,0 +1,174 @@
+{
+  "tmdb_id": 9909,
+  "title": "Dangerous Minds",
+  "original_title": "Dangerous Minds",
+  "release_date": "1995-08-11",
+  "runtime": 99,
+  "tagline": "She broke the rules... and changed their lives.",
+  "overview": "Former Marine Louanne Johnson lands a gig teaching in a pilot program for bright but underachieving teens at a notorious inner-city high school. After having a terrible first day, she decides she must throw decorum to the wind. When Johnson returns to the classroom, she does so armed with a no-nonsense attitude informed by her military training and a fearless determination to better the lives of her students -- no matter what the cost.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "country": "US"
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Via Rosa Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John N. Smith"
+  ],
+  "writers": [
+    {
+      "name": "Ronald Bass",
+      "job": "Screenplay"
+    },
+    {
+      "name": "LouAnne Johnson",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Don Simpson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Lucas Foster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kate Guinzburg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sandra Rabins",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Louanne Johnson",
+      "order": 0
+    },
+    {
+      "name": "George Dzundza",
+      "character": "Hal Griffith",
+      "order": 1
+    },
+    {
+      "name": "Courtney B. Vance",
+      "character": "Mr. George Grandey",
+      "order": 2
+    },
+    {
+      "name": "Robin Bartlett",
+      "character": "Mrs. Carla Nichols",
+      "order": 3
+    },
+    {
+      "name": "Beatrice Winde",
+      "character": "Mary Benton",
+      "order": 4
+    },
+    {
+      "name": "John Neville",
+      "character": "Waiter",
+      "order": 5
+    },
+    {
+      "name": "Lorraine Toussaint",
+      "character": "Irene Roberts",
+      "order": 6
+    },
+    {
+      "name": "Renoly Santiago",
+      "character": "Raul Sanchero",
+      "order": 7
+    },
+    {
+      "name": "Wade Dominguez",
+      "character": "Emilio Ramirez",
+      "order": 8
+    },
+    {
+      "name": "Bruklin Harris",
+      "character": "Callie Roberts",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg",
+  "backdrop_path": "/k28lTv01nuncbs9Y2WZh6FQunqv.jpg",
+  "budget": 23000000,
+  "revenue": 179519401,
+  "vote_average": 6.956,
+  "vote_count": 1241,
+  "imdb_id": "tt0112792",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

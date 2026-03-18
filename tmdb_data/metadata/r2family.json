@@ -1,0 +1,108 @@
+{
+  "tmdb_id": 63956,
+  "title": "Two Family House",
+  "original_title": "Two Family House",
+  "release_date": "2000-01-21",
+  "runtime": 104,
+  "tagline": "The only way to find out what you love is to risk everything you have.",
+  "overview": "Buddy Visalo (Michael Rispoli) is a factory worker, a frustrated crooner who once had a shot at the big time. Buddy's dreams of greatness have been reduced to an endless series of failed moneymaking schemes. His latest is buying a two-family house for him and his wife, Estelle (Katherine Narducci) and converting the ground floor into a neighborhood bar where he can perform. The wrench in the works is that he also inherits the upstairs tenants, Mary,a pregnant Irish girl fresh off the boat (Kelly Macdonald) and her abusive, alcoholic husband, Jim (Kevin Conway). As Buddy's gang of Italians tries to handle the situation, the girl goes into labor, and a baby is born, forcing them all to confront the limits of their tolerance and compassion.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [],
+  "production_companies": [
+    {
+      "name": "Filbert Steps Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Raymond De Felitta"
+  ],
+  "writers": [
+    {
+      "name": "Raymond De Felitta",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anne Harrison",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Klingenstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Kohlberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Brightman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Rispoli",
+      "character": "Buddy Visalo",
+      "order": 0
+    },
+    {
+      "name": "Kelly Macdonald",
+      "character": "Mary O'Neary",
+      "order": 1
+    },
+    {
+      "name": "Kathrine Narducci",
+      "character": "Estelle Visalo",
+      "order": 2
+    },
+    {
+      "name": "Kevin Conway",
+      "character": "Jim O'Neary",
+      "order": 3
+    },
+    {
+      "name": "Peggy Gormley",
+      "character": "Miss Dimunjik",
+      "order": 4
+    },
+    {
+      "name": "Matt Servitto",
+      "character": "Chipmunk",
+      "order": 5
+    },
+    {
+      "name": "Michele Santopietro",
+      "character": "Laura",
+      "order": 6
+    },
+    {
+      "name": "Louis Guss",
+      "character": "Donato",
+      "order": 7
+    },
+    {
+      "name": "Anthony Arkin",
+      "character": "Danny",
+      "order": 8
+    },
+    {
+      "name": "Saul Stein",
+      "character": "Anthony",
+      "order": 9
+    }
+  ],
+  "poster_path": "/g4U84VFQDvJeTwiQDhpI6bHWtGT.jpg",
+  "backdrop_path": "/Atj3YhSZDnmtaFP4GnsZwDCeBep.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.125,
+  "vote_count": 20,
+  "imdb_id": "tt0202641",
+  "certifications": [],
+  "status": "Released"
+}

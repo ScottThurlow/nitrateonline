@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 16885,
+  "title": "The General",
+  "original_title": "The General",
+  "release_date": "1998-05-01",
+  "runtime": 124,
+  "tagline": "The extraordinary true story of the rise and fall of the gangster, Martin Cahill.",
+  "overview": "The real-life story of Dublin folk hero and criminal Martin Cahill, who pulled off two daring robberies in Ireland with his team, but attracted unwanted attention from the police, the I.R.A., the U.V.F., and members of his own team.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Merlin Films",
+      "country": "IE"
+    },
+    {
+      "name": "J & M",
+      "country": ""
+    },
+    {
+      "name": "Fís Éireann/Screen Ireland",
+      "country": "IE"
+    }
+  ],
+  "director": [
+    "John Boorman"
+  ],
+  "writers": [
+    {
+      "name": "John Boorman",
+      "job": "Writer"
+    },
+    {
+      "name": "Paul Williams",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Boorman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brendan Gleeson",
+      "character": "Martin Cahill",
+      "order": 0
+    },
+    {
+      "name": "Adrian Dunbar",
+      "character": "Noel Curley",
+      "order": 1
+    },
+    {
+      "name": "Sean McGinley",
+      "character": "Gary",
+      "order": 2
+    },
+    {
+      "name": "Maria Doyle Kennedy",
+      "character": "Frances",
+      "order": 3
+    },
+    {
+      "name": "Angeline Ball",
+      "character": "Tina",
+      "order": 4
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Inspector Ned Kenny",
+      "order": 5
+    },
+    {
+      "name": "Eanna MacLiam",
+      "character": "Jimmy",
+      "order": 6
+    },
+    {
+      "name": "Tom Murphy",
+      "character": "Willie Byrne",
+      "order": 7
+    },
+    {
+      "name": "John Cronin",
+      "character": "Aiden",
+      "order": 8
+    },
+    {
+      "name": "Paul Hickey",
+      "character": "Anthony",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3UUR2Evm2JtC2odd2UMYgs9Yi1x.jpg",
+  "backdrop_path": "/2jY2PNtMalZbyZjQpGVzL7wP1AR.jpg",
+  "budget": 0,
+  "revenue": 1214198,
+  "vote_average": 6.68,
+  "vote_count": 122,
+  "imdb_id": "tt0120706",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "TV-14",
+  "released": "20 Jun 2003",
+  "runtime": "93 min",
+  "genre": "Documentary, Biography, History",
+  "director": "Martin Doblmeier",
+  "writer": "Martin Doblmeier",
+  "actors": "Klaus Maria Brandauer, Adele Schmidt, Richard Mancini",
+  "plot": "Portrait of Dietrich Bonhoeffer, the German theologian who was imprisoned and killed by the Nazis for plotting to assassinate Hitler, conveys the essence of a man and his world. Bonhoeffer's life is lyrically presented, with his friends and family shedding light on his breakaway seminary, his travels to America and Harlem, his calls to change the world for better, and his noble attempts to respond to Nazi Germany as a Christian.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.2",
+  "imdb_votes": "475",
+  "box_office": "$296,181",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Bonhoeffer"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0371583/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0371583/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/206065"
+  }
+}

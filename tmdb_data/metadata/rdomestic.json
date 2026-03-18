@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 11456,
+  "title": "Domestic Disturbance",
+  "original_title": "Domestic Disturbance",
+  "release_date": "2001-10-28",
+  "runtime": 89,
+  "tagline": "He will do anything to protect his family.",
+  "overview": "Frank Morrison is a divorced father with a 12-year-old son, Danny. His ex-wife Susan and son Danny now live with Rick Barnes, Susan's new husband. Danny, who has a reputation for telling lies, accuses his stepfather of committing a murder. Initially, no one believes his accusations, but then Frank becomes convinced and is the only one who believes him. Now, the father Danny trusts must protect him from the stepfather he fears.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Harold Becker"
+  ],
+  "writers": [
+    {
+      "name": "Lewis Colick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lewis Colick",
+      "job": "Story"
+    },
+    {
+      "name": "William S. Comanor",
+      "job": "Story"
+    },
+    {
+      "name": "Gary Drucker",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harold Becker",
+      "job": "Producer"
+    },
+    {
+      "name": "Donald De Line",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan D. Krane",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "Frank Morrison",
+      "order": 0
+    },
+    {
+      "name": "Matt O'Leary",
+      "character": "Danny Morrison",
+      "order": 1
+    },
+    {
+      "name": "Vince Vaughn",
+      "character": "Rick Barnes",
+      "order": 2
+    },
+    {
+      "name": "Teri Polo",
+      "character": "Susan",
+      "order": 3
+    },
+    {
+      "name": "Ruben Santiago-Hudson",
+      "character": "Sgt. Edgar Stevens",
+      "order": 4
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Ray Coleman",
+      "order": 5
+    },
+    {
+      "name": "Susan Floyd",
+      "character": "Diane",
+      "order": 6
+    },
+    {
+      "name": "Angelica Page",
+      "character": "Patty",
+      "order": 7
+    },
+    {
+      "name": "James Lashly",
+      "character": "Jason",
+      "order": 8
+    },
+    {
+      "name": "Rebecca Tilney",
+      "character": "Laurie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/quRhjnXAuIn04VmgM84nmKzt79J.jpg",
+  "backdrop_path": "/uKwQGbxSQ3VWfVRJWeZ7sNQlBJ5.jpg",
+  "budget": 75000000,
+  "revenue": 54300000,
+  "vote_average": 5.765,
+  "vote_count": 461,
+  "imdb_id": "tt0249478",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

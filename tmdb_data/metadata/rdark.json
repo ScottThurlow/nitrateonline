@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 10727,
+  "title": "Darkness Falls",
+  "original_title": "Darkness Falls",
+  "release_date": "2003-01-24",
+  "runtime": 86,
+  "tagline": "An eye for an eye. Your life for a tooth.",
+  "overview": "A vengeful spirit has taken the form of the Tooth Fairy to exact vengeance on the town that lynched her 150 years earlier. Her only opposition is the only child, now grown up, who has survived her before.",
+  "genres": [
+    "Thriller",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Distant Corners Entertainment Group Inc.",
+      "country": ""
+    },
+    {
+      "name": "Blue Star Productions",
+      "country": ""
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Morningstar Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Liebesman"
+  ],
+  "writers": [
+    {
+      "name": "James Vanderbilt",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Fasano",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joe Harris",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Derek Dauchy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lou Arkoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Hegeman",
+      "job": "Producer"
+    },
+    {
+      "name": "John Fasano",
+      "job": "Producer"
+    },
+    {
+      "name": "William Sherak",
+      "job": "Producer"
+    },
+    {
+      "name": "Jason Shuman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chaney Kley",
+      "character": "Kyle Walsh",
+      "order": 0
+    },
+    {
+      "name": "Emma Caulfield",
+      "character": "Caitlin Greene",
+      "order": 1
+    },
+    {
+      "name": "Lee Cormie",
+      "character": "Michael Greene",
+      "order": 2
+    },
+    {
+      "name": "Sullivan Stapleton",
+      "character": "Officer Matt Henry",
+      "order": 3
+    },
+    {
+      "name": "Emily Browning",
+      "character": "Young Caitlin Greene",
+      "order": 4
+    },
+    {
+      "name": "Angus Sampson",
+      "character": "Ray",
+      "order": 5
+    },
+    {
+      "name": "Grant Piro",
+      "character": "Larry Fleishman",
+      "order": 6
+    },
+    {
+      "name": "Steve Mouzakis",
+      "character": "Dr. Peter Murphy",
+      "order": 7
+    },
+    {
+      "name": "Peter Curtin",
+      "character": "Dr. Travis",
+      "order": 8
+    },
+    {
+      "name": "Kestie Morassi",
+      "character": "Nurse Lauren",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qoceKsM15yL5Tmyuhkdl7vM5Vi4.jpg",
+  "backdrop_path": "/ap5DOvqzyIld9VBZZ5Yuc251RJo.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.577,
+  "vote_count": 646,
+  "imdb_id": "tt0282209",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

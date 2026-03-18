@@ -1,0 +1,110 @@
+{
+  "tmdb_id": 13817,
+  "title": "Head On",
+  "original_title": "Head On",
+  "release_date": "1998-08-13",
+  "runtime": 104,
+  "tagline": "Full on. All night. Come on.",
+  "overview": "Nineteen-year-old Ari confronts both his sexuality and his Greek family. Ari despises his once-beloved parents, former radical activists, for having entombed themselves in insular tradition. Ari is obsessed with gay sex, although he does make an unenthusiastic attempt to satisfy the sister of one of his best friends. While all of this is going on, he's facing problems with his traditional Greek parents, who have no clue about his sexual activities.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Greek",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Head On Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Ana Kokkinos"
+  ],
+  "writers": [
+    {
+      "name": "Mira Robertson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Christos Tsiolkas",
+      "job": "Novel"
+    },
+    {
+      "name": "Ana Kokkinos",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andrew Bovell",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jane Scott",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alex Dimitriades",
+      "character": "Ari",
+      "order": 0
+    },
+    {
+      "name": "Paul Capsis",
+      "character": "Johnny",
+      "order": 1
+    },
+    {
+      "name": "Julian Garner",
+      "character": "Sean",
+      "order": 2
+    },
+    {
+      "name": "Elena Mandalis",
+      "character": "Betty",
+      "order": 3
+    },
+    {
+      "name": "Tony Nikolakopoulos",
+      "character": "Dimitri",
+      "order": 4
+    },
+    {
+      "name": "Damien Fotiou",
+      "character": "Joe",
+      "order": 5
+    },
+    {
+      "name": "Eugenia Fragos",
+      "character": "Sophia",
+      "order": 6
+    },
+    {
+      "name": "Dora Kaskanis",
+      "character": "Dina",
+      "order": 7
+    },
+    {
+      "name": "Alex Papps",
+      "character": "Peter",
+      "order": 8
+    },
+    {
+      "name": "Vassili Zappa",
+      "character": "Vassili",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7kOpfb9oCiDP7LUWbthZhzjnh1J.jpg",
+  "backdrop_path": "/bNC3u8M91LDvlgqZu83w47Xhez6.jpg",
+  "budget": 0,
+  "revenue": 378667,
+  "vote_average": 6.2,
+  "vote_count": 60,
+  "imdb_id": "tt0138487",
+  "status": "Released"
+}

@@ -1,0 +1,268 @@
+{
+  "tmdb_id": 141,
+  "title": "Donnie Darko",
+  "original_title": "Donnie Darko",
+  "release_date": "2001-01-19",
+  "runtime": 114,
+  "tagline": "28 days, 6 hours, 42 minutes, 12 seconds... that is when the world will end.",
+  "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Flower Films",
+      "country": "US"
+    },
+    {
+      "name": "Pandora Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Newmarket Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Richard Kelly"
+  ],
+  "writers": [
+    {
+      "name": "Richard Kelly",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Adam Fields",
+      "job": "Producer"
+    },
+    {
+      "name": "Sean McKittrick",
+      "job": "Producer"
+    },
+    {
+      "name": "Nancy Juvonen",
+      "job": "Producer"
+    },
+    {
+      "name": "Drew Barrymore",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Casey La Scala",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hunt Lowry",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Ball",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Tyrer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Aaron Ryder",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jake Gyllenhaal",
+      "character": "Donnie Darko",
+      "order": 0
+    },
+    {
+      "name": "Jena Malone",
+      "character": "Gretchen Ross",
+      "order": 1
+    },
+    {
+      "name": "James Duval",
+      "character": "Frank",
+      "order": 2
+    },
+    {
+      "name": "Drew Barrymore",
+      "character": "Karen Pomeroy",
+      "order": 3
+    },
+    {
+      "name": "Beth Grant",
+      "character": "Kitty Farmer",
+      "order": 4
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "character": "Elizabeth Darko",
+      "order": 5
+    },
+    {
+      "name": "Mary McDonnell",
+      "character": "Rose Darko",
+      "order": 6
+    },
+    {
+      "name": "Holmes Osborne",
+      "character": "Eddie Darko",
+      "order": 7
+    },
+    {
+      "name": "Noah Wyle",
+      "character": "Prof. Kenneth Monnitoff",
+      "order": 8
+    },
+    {
+      "name": "Katharine Ross",
+      "character": "Dr. Lilian Thurman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+  "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+  "budget": 4500000,
+  "revenue": 7500000,
+  "vote_average": 7.763,
+  "vote_count": 13250,
+  "imdb_id": "tt0246578",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG-12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "NC-16"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "TW",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

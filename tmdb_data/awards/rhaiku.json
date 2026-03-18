@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "22 Jan 2001",
+  "runtime": "88 min",
+  "genre": "Comedy",
+  "director": "Jacob Kornbluth, Josh Kornbluth",
+  "writer": "Josh Kornbluth, Jacob Kornbluth, John Bellucci",
+  "actors": "Josh Kornbluth, Warren Keith, Sarah Overman",
+  "plot": "Haiku Tunnel is a frenetic office comedy about a neurotic male secretary who is a terrific temp but a horrible perm. When his new boss (a tax attorney who just may be Satan) gives him 17 very important letters to mail out, he doesn't, and the ensuing complications bring him face-to-face with a lifetime of personal demons.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "51",
+  "imdb_rating": "6.1",
+  "imdb_votes": "1,349",
+  "box_office": "$92,723",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Haiku+Tunnel"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/Haiku+Tunnel/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0273253/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0273253/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/75386"
+  }
+}

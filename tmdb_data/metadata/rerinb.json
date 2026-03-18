@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 462,
+  "title": "Erin Brockovich",
+  "original_title": "Erin Brockovich",
+  "release_date": "2000-03-17",
+  "runtime": 131,
+  "tagline": "She brought a small town to its feet and a huge company to its knees.",
+  "overview": "A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Soderbergh"
+  ],
+  "writers": [
+    {
+      "name": "Susannah Grant",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Carla Santos Shamberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    },
+    {
+      "name": "John Hardy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Roberts",
+      "character": "Erin Brockovich",
+      "order": 0
+    },
+    {
+      "name": "Albert Finney",
+      "character": "Ed Masry",
+      "order": 1
+    },
+    {
+      "name": "Aaron Eckhart",
+      "character": "George",
+      "order": 2
+    },
+    {
+      "name": "Marg Helgenberger",
+      "character": "Donna Jensen",
+      "order": 3
+    },
+    {
+      "name": "Cherry Jones",
+      "character": "Pamela Duncan",
+      "order": 4
+    },
+    {
+      "name": "Veanne Cox",
+      "character": "Theresa Dallavale",
+      "order": 5
+    },
+    {
+      "name": "Conchata Ferrell",
+      "character": "Brenda",
+      "order": 6
+    },
+    {
+      "name": "Tracey Walter",
+      "character": "Charles Embry",
+      "order": 7
+    },
+    {
+      "name": "Peter Coyote",
+      "character": "Kurt Potter",
+      "order": 8
+    },
+    {
+      "name": "Michael Harney",
+      "character": "Pete Jensen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+  "backdrop_path": "/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+  "budget": 52000000,
+  "revenue": 256271286,
+  "vote_average": 7.439,
+  "vote_count": 3578,
+  "imdb_id": "tt0195685",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

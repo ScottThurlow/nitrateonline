@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 41417,
+  "title": "Firestorm",
+  "original_title": "Firestorm",
+  "release_date": "1998-01-08",
+  "runtime": 89,
+  "tagline": "Fight fire with fire.",
+  "overview": "Firefighter Jesse Graves has to save ornithologist Jennifer and other people caught in a forest fire, which was set up by the lawyer of convicted killer Earl Shaye, who escaped from the prison with several of his inmates posing as firefighters to recover $37,000,000 in stashed loot.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dean Semler"
+  ],
+  "writers": [
+    {
+      "name": "Chris Soth",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeph Loeb",
+      "job": "Producer"
+    },
+    {
+      "name": "Matthew Weisman",
+      "job": "Producer"
+    },
+    {
+      "name": "Thomas M. Hammel",
+      "job": "Producer"
+    },
+    {
+      "name": "Louise Rosner-Meyer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Howie Long",
+      "character": "Jessie Graves",
+      "order": 0
+    },
+    {
+      "name": "Scott Glenn",
+      "character": "Wynt Perkins",
+      "order": 1
+    },
+    {
+      "name": "Suzy Amis",
+      "character": "Jennifer",
+      "order": 2
+    },
+    {
+      "name": "William Forsythe",
+      "character": "Randall Shaye",
+      "order": 3
+    },
+    {
+      "name": "Christianne Hirt",
+      "character": "Monica",
+      "order": 4
+    },
+    {
+      "name": "Garwin Sanford",
+      "character": "Pete",
+      "order": 5
+    },
+    {
+      "name": "Sebastian Spence",
+      "character": "Cowboy",
+      "order": 6
+    },
+    {
+      "name": "Barry Pepper",
+      "character": "Packer",
+      "order": 7
+    },
+    {
+      "name": "Vladimir Kulich",
+      "character": "Karge",
+      "order": 8
+    },
+    {
+      "name": "Michael Greyeyes",
+      "character": "Andy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/joAzHTg4xoz56zQ7AntfTYENuAD.jpg",
+  "backdrop_path": "/gqySr87GFNjNX3sPwRAiPzt1O05.jpg",
+  "budget": 19000000,
+  "revenue": 8165212,
+  "vote_average": 5.2,
+  "vote_count": 71,
+  "imdb_id": "tt0120670",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

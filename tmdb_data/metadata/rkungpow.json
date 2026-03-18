@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 11891,
+  "title": "Kung Pow: Enter the Fist",
+  "original_title": "Kung Pow: Enter the Fist",
+  "release_date": "2002-01-25",
+  "runtime": 81,
+  "tagline": "If you've got an ass...he'll kick it!",
+  "overview": "A movie within a movie, created to spoof the martial arts genre. Writer/director Steve Oedekerk uses contemporary characters and splices them into a 1970s kung-fu film, weaving the new and old together.  As the main character, The Chosen One, Oedekerk sets off to avenge the deaths of his parents at the hands of kung-fu legend Master Pain. Along the way he encounters some strange characters.",
+  "genres": [
+    "Comedy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "O Entertainment",
+      "country": ""
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Oedekerk"
+  ],
+  "writers": [
+    {
+      "name": "Vann Sengchanh",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Koranda",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Marshal",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Oedekerk",
+      "character": "The Chosen One",
+      "order": 0
+    },
+    {
+      "name": "Lung Fei",
+      "character": "Master Pain (Betty) (archive footage)",
+      "order": 1
+    },
+    {
+      "name": "Leo Lee",
+      "character": "Young Master Pain",
+      "order": 2
+    },
+    {
+      "name": "Hsieh Ling-ling",
+      "character": "Ling (archive footage)",
+      "order": 3
+    },
+    {
+      "name": "Lau Kar-Wing",
+      "character": "Wimp Lo (archive footage)",
+      "order": 4
+    },
+    {
+      "name": "Lin Yan",
+      "character": "Dying Ling",
+      "order": 5
+    },
+    {
+      "name": "Chen Hui-Lou",
+      "character": "Master Tang (archive footage)",
+      "order": 6
+    },
+    {
+      "name": "Jennifer Tung",
+      "character": "Whoa",
+      "order": 7
+    },
+    {
+      "name": "Ming Lo",
+      "character": "Father",
+      "order": 8
+    },
+    {
+      "name": "Peggy Lu",
+      "character": "Mother",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gVsZ1hsJ9g11oCCav4N8ccp9bRw.jpg",
+  "backdrop_path": "/zvIhFx35lXEIO2OsVnrpReEH747.jpg",
+  "budget": 10000000,
+  "revenue": 17000000,
+  "vote_average": 6.394,
+  "vote_count": 727,
+  "imdb_id": "tt0240468",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

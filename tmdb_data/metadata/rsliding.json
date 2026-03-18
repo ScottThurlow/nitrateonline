@@ -1,0 +1,177 @@
+{
+  "tmdb_id": 10215,
+  "title": "Sliding Doors",
+  "original_title": "Sliding Doors",
+  "release_date": "1998-04-23",
+  "runtime": 99,
+  "tagline": "What if one split second sent your life in two completely different directions?",
+  "overview": "Helen, a London ad executive, is fired from her job and rushes out to catch a train, but, as she runs down, her life suddenly splits off. In one version she catches the train; in the second, she misses it. Her whole life changes in that one second, and the rest of the film depicts what happens in each scenario.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Mirage Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Howitt"
+  ],
+  "writers": [
+    {
+      "name": "Peter Howitt",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sydney Pollack",
+      "job": "Producer"
+    },
+    {
+      "name": "Philippa Braithwaite",
+      "job": "Producer"
+    },
+    {
+      "name": "William Horberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Helen Quilley",
+      "order": 0
+    },
+    {
+      "name": "John Hannah",
+      "character": "James Hamilton",
+      "order": 1
+    },
+    {
+      "name": "John Lynch",
+      "character": "Gerry",
+      "order": 2
+    },
+    {
+      "name": "Jeanne Tripplehorn",
+      "character": "Lydia",
+      "order": 3
+    },
+    {
+      "name": "Zara Turner",
+      "character": "Anna",
+      "order": 4
+    },
+    {
+      "name": "Douglas McFerran",
+      "character": "Russell",
+      "order": 5
+    },
+    {
+      "name": "Paul Brightwell",
+      "character": "Clive",
+      "order": 6
+    },
+    {
+      "name": "Nina Young",
+      "character": "Claudia",
+      "order": 7
+    },
+    {
+      "name": "Virginia McKenna",
+      "character": "James' Mother",
+      "order": 8
+    },
+    {
+      "name": "Kevin McNally",
+      "character": "Paul",
+      "order": 9
+    }
+  ],
+  "poster_path": "/s8VOVTywXZIIHqdEjkCZziH0ebq.jpg",
+  "backdrop_path": "/1dApwEEMrk7QnUb1EpyYWrG6nRh.jpg",
+  "budget": 6000000,
+  "revenue": 58809149,
+  "vote_average": 6.563,
+  "vote_count": 1402,
+  "imdb_id": "tt0120148",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

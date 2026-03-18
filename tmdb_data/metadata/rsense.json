@@ -1,0 +1,183 @@
+{
+  "tmdb_id": 4584,
+  "title": "Sense and Sensibility",
+  "original_title": "Sense and Sensibility",
+  "release_date": "1995-12-13",
+  "runtime": 136,
+  "tagline": "Lose your heart and come to your senses.",
+  "overview": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mirage Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ang Lee"
+  ],
+  "writers": [
+    {
+      "name": "Jane Austen",
+      "job": "Novel"
+    },
+    {
+      "name": "Emma Thompson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lindsay Doran",
+      "job": "Producer"
+    },
+    {
+      "name": "Sydney Pollack",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emma Thompson",
+      "character": "Elinor Dashwood",
+      "order": 0
+    },
+    {
+      "name": "Kate Winslet",
+      "character": "Marianne Dashwood",
+      "order": 1
+    },
+    {
+      "name": "Alan Rickman",
+      "character": "Colonel Christopher Brandon",
+      "order": 2
+    },
+    {
+      "name": "Hugh Grant",
+      "character": "Edward Ferrars",
+      "order": 3
+    },
+    {
+      "name": "Gemma Jones",
+      "character": "Mrs. Dashwood",
+      "order": 4
+    },
+    {
+      "name": "Greg Wise",
+      "character": "John Willoughby",
+      "order": 5
+    },
+    {
+      "name": "Elizabeth Spriggs",
+      "character": "Mrs. Jennings",
+      "order": 6
+    },
+    {
+      "name": "Imogen Stubbs",
+      "character": "Lucy Steele",
+      "order": 7
+    },
+    {
+      "name": "Harriet Walter",
+      "character": "Fanny Ferrars Dashwood",
+      "order": 8
+    },
+    {
+      "name": "James Fleet",
+      "character": "John Dashwood",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+  "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+  "budget": 16000000,
+  "revenue": 134582776,
+  "vote_average": 7.4,
+  "vote_count": 1812,
+  "imdb_id": "tt0114388",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "24 Sep 1999",
+  "runtime": "105 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Bruce Beresford",
+  "writer": "David Weisberg, Douglas Cook",
+  "actors": "Ashley Judd, Tommy Lee Jones, Bruce Greenwood",
+  "plot": "When Nick Parsons appears to be murdered his wife Libby is tried and convicted. Six years later Libby is paroled and is pursued by Travis Lehman (her parole officer) as she sets out to find her son and settle the score with Nick.",
+  "language": "English",
+  "country": "Germany, United States, Canada",
+  "metascore": "41",
+  "imdb_rating": "6.5",
+  "imdb_votes": "102,423",
+  "box_office": "$116,741,558",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "28%",
+      "link": "https://www.rottentomatoes.com/search?search=Double+Jeopardy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "41/100",
+      "link": "https://www.metacritic.com/search/Double+Jeopardy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0150377/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0150377/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10398"
+  }
+}

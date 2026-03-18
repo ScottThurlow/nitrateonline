@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "10 wins & 5 nominations",
+  "rated": "N/A",
+  "released": "08 Mar 2001",
+  "runtime": "74 min",
+  "genre": "Comedy, Drama",
+  "director": "Marzieh Makhmalbaf",
+  "writer": "Marzieh Makhmalbaf, Mohsen Makhmalbaf",
+  "actors": "Fatemeh Cherag Akhar, Hassan Nebhan, Shahr Banou Sisizadeh",
+  "plot": "A film comprised of three interconnected vignettes that depict women at three stages of life in Iran. The first part centers on a young girl on her ninth birthday who is told that she can no longer play with the boys she had been playing with only the day before because she is now a woman. Told from the perspective of a 9-year-old girl who does not feel like or know what the word \"woman\" refers to, we see how devastatingly this affects both the girl and the boy with whom she had been friends. The second part is about a young woman who decides to enter a bicycle race against her husband's wishes. As first, the husband and then increasing numbers of men from her village ride beside her on horseback to convince her to return home. The race begins to symbolize a freedom that she desperately wants from the limitations that have been placed on her. Finally, the third part shows us an old woman who has come into some money and is now free to do what she wants. The way she chooses to use this freedom, however, makes one wonder just how free she is.",
+  "language": "Persian",
+  "country": "Iran",
+  "metascore": "84",
+  "imdb_rating": "7.3",
+  "imdb_votes": "1,978",
+  "box_office": "$149,971",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Day+I+Became+a+Woman"
+    },
+    {
+      "source": "Metacritic",
+      "value": "84/100",
+      "link": "https://www.metacritic.com/search/The+Day+I+Became+a+Woman/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0260332/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0260332/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/44069"
+  }
+}

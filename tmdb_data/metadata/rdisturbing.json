@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 9424,
+  "title": "Disturbing Behavior",
+  "original_title": "Disturbing Behavior",
+  "release_date": "1998-07-24",
+  "runtime": 84,
+  "tagline": "In Cradle Bay it doesn’t matter if you’re not perfect.  You will be.",
+  "overview": "Steve Clark is a newcomer in the town of Cradle Bay, and he quickly realizes that there's something odd about his high school classmates. The clique known as the \"Blue Ribbons\" are the eerie embodiment of academic excellence and clean living. But, like the rest of the town, they're a little too perfect. When Steve's rebellious friend Gavin mysteriously joins their ranks, Steve searches for the truth with fellow misfit Rachel.",
+  "genres": [
+    "Mystery",
+    "Horror",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Beacon Communications",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow-Hoyts Film Partnership",
+      "country": "AU"
+    },
+    {
+      "name": "Behavioral Problem Productions Ltd.",
+      "country": ""
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Nutter"
+  ],
+  "writers": [
+    {
+      "name": "Scott Rosenberg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan Shestack",
+      "job": "Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Phillip B. Goldfine",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "C.O. Erickson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Marsden",
+      "character": "Steve Clark",
+      "order": 0
+    },
+    {
+      "name": "Katie Holmes",
+      "character": "Rachel Wagner",
+      "order": 1
+    },
+    {
+      "name": "Nick Stahl",
+      "character": "Gavin Strick",
+      "order": 2
+    },
+    {
+      "name": "Bruce Greenwood",
+      "character": "Dr. Edgar Caldicott",
+      "order": 3
+    },
+    {
+      "name": "William Sadler",
+      "character": "Newberry",
+      "order": 4
+    },
+    {
+      "name": "Chad Donella",
+      "character": "U.V.",
+      "order": 5
+    },
+    {
+      "name": "Katharine Isabelle",
+      "character": "Lindsay Clark",
+      "order": 6
+    },
+    {
+      "name": "Tobias Mehler",
+      "character": "Andy",
+      "order": 7
+    },
+    {
+      "name": "Steve Railsback",
+      "character": "Officer Cox",
+      "order": 8
+    },
+    {
+      "name": "Terry David Mulligan",
+      "character": "Mr. Clark",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uAhvaueOUUQ6ORCRdsJr1WXz1w0.jpg",
+  "backdrop_path": "/9bMAhzkuvwSXdxUIoFrYuAvkxDU.jpg",
+  "budget": 15000000,
+  "revenue": 17514980,
+  "vote_average": 5.782,
+  "vote_count": 409,
+  "imdb_id": "tt0134619",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

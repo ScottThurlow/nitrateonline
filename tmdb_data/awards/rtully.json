@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "5 wins & 6 nominations",
+  "rated": "R",
+  "released": "14 Apr 2000",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Hilary Birmingham",
+  "writer": "Hilary Birmingham, Matt Drake, Tom McNeal",
+  "actors": "Glenn Fitzgerald, Anson Mount, Bob Burrus",
+  "plot": "Tully Coates, Jr., with his good looks and chiseled body, is the local heartthrob, and while he has a new girlfriend virtually every night, he's incapable of getting close to anyone. His younger brother Earl, the shy and sensitive type, frequents the local revival house. The only common bond between these disparate siblings is Ella Smalley, an intelligent and even-tempered young woman who returns to their Nebraska hometown to intern at a local veterinarian's clinic. Meanwhile, their father, Tully, Sr., a rancher who gets by with the help of his two sons, carries a brooding sadness, a hint of past wounds too long in healing. The family dynamic is changed forever when several secrets surface.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.3",
+  "imdb_votes": "2,005",
+  "box_office": "$466,664",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Tully"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Tully/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0212604/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0212604/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20861"
+  }
+}

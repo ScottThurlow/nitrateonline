@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 6 nominations total",
+  "rated": "R",
+  "released": "12 Sep 2003",
+  "runtime": "102 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Robert Rodriguez",
+  "writer": "Robert Rodriguez",
+  "actors": "Antonio Banderas, Salma Hayek, Johnny Depp",
+  "plot": "Return of the mythic guitar-slinging hero, El Mariachi (Antonio Banderas), in the final installment of the Mariachi/Desperado trilogy. The saga continues as El Mariachi makes his way across a rugged landscape on the blood trail of Barrillo (Willem Dafoe), a cartel kingpin with one last score to settle who is planning a coup d'etat against the president of Mexico. Enlisted by Sands (Johnny Depp), a corrupt CIA agent, El Mariachi demands retribution.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.3",
+  "imdb_votes": "175,835",
+  "box_office": "$56,359,780",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=Once+Upon+a+Time+in+Mexico"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Once+Upon+a+Time+in+Mexico/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0285823/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0285823/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1428"
+  }
+}

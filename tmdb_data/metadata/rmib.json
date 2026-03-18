@@ -1,0 +1,238 @@
+{
+  "tmdb_id": 607,
+  "title": "Men in Black",
+  "original_title": "Men in Black",
+  "release_date": "1997-07-02",
+  "runtime": 98,
+  "tagline": "Protecting the Earth from the scum of the universe.",
+  "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Parkes+MacDonald Production",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Barry Sonnenfeld"
+  ],
+  "writers": [
+    {
+      "name": "Ed Solomon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lowell Cunningham",
+      "job": "Comic Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Steven Spielberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Producer"
+    },
+    {
+      "name": "Laurie MacDonald",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Kay",
+      "order": 0
+    },
+    {
+      "name": "Will Smith",
+      "character": "Jay",
+      "order": 1
+    },
+    {
+      "name": "Linda Fiorentino",
+      "character": "Laurel",
+      "order": 2
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "character": "Edgar",
+      "order": 3
+    },
+    {
+      "name": "Rip Torn",
+      "character": "Zed",
+      "order": 4
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Jeebs",
+      "order": 5
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "character": "Beatrice",
+      "order": 6
+    },
+    {
+      "name": "Mike Nussbaum",
+      "character": "Gentle Rosenburg",
+      "order": 7
+    },
+    {
+      "name": "Jon Gries",
+      "character": "Van Driver",
+      "order": 8
+    },
+    {
+      "name": "Sergio Calderón",
+      "character": "Jose",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+  "backdrop_path": "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
+  "budget": 90000000,
+  "revenue": 589390539,
+  "vote_average": 7.217,
+  "vote_count": 14648,
+  "imdb_id": "tt0119654",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,117 @@
+{
+  "tmdb_id": 2058,
+  "title": "Addicted to Love",
+  "original_title": "Addicted to Love",
+  "release_date": "1997-05-23",
+  "runtime": 100,
+  "tagline": "A Comedy About Lost Loves And Last Laughs",
+  "overview": "Good-natured astronomer Sam is devastated when the love of his life leaves him for a suave Frenchman. He therefore does what every other normal dumpee would do — go to New York and set up home in the abandoned building opposite his ex-girlfriend's apartment, wait until she decides to leave her current lover, and then win her back.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Outlaw Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Griffin Dunne"
+  ],
+  "writers": [
+    {
+      "name": "Robert Gordon",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Newmyer",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Meg Ryan",
+      "character": "Maggie",
+      "order": 0
+    },
+    {
+      "name": "Matthew Broderick",
+      "character": "Sam",
+      "order": 1
+    },
+    {
+      "name": "Kelly Preston",
+      "character": "Linda",
+      "order": 2
+    },
+    {
+      "name": "Tchéky Karyo",
+      "character": "Anton",
+      "order": 3
+    },
+    {
+      "name": "Maureen Stapleton",
+      "character": "Nana",
+      "order": 4
+    },
+    {
+      "name": "Nesbitt Blaisdell",
+      "character": "Ed Green",
+      "order": 5
+    },
+    {
+      "name": "Remak Ramsay",
+      "character": "Professor Wells",
+      "order": 6
+    },
+    {
+      "name": "Lee Wilkof",
+      "character": "Carl",
+      "order": 7
+    },
+    {
+      "name": "Dominick Dunne",
+      "character": "Matheson",
+      "order": 8
+    },
+    {
+      "name": "Susan Forristal",
+      "character": "Cecile",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sRfuSc6E9GvVaOHdPv4vG3ywfMw.jpg",
+  "backdrop_path": "/35b11n97MKmmkjJoJcx8tqHIVJ2.jpg",
+  "budget": 0,
+  "revenue": 34673095,
+  "vote_average": 6.145,
+  "vote_count": 437,
+  "imdb_id": "tt0118556",
+  "status": "Released"
+}

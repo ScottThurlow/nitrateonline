@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Nominated for 1 Oscar. 1 win & 11 nominations total",
+  "rated": "PG-13",
+  "released": "17 Nov 1995",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Rob Reiner",
+  "writer": "Aaron Sorkin",
+  "actors": "Michael Douglas, Annette Bening, Martin Sheen",
+  "plot": "Andrew Shepherd is approaching the end of his first term as President of the United States. He's a widower with a young daughter and has proved to be popular with the public. His election seems assured. That is until he meets Sydney Ellen Wade, a paid political activist working for an environmental lobby group. He's immediately smitten with her and after several amusing attempts, they finally manage to go on a date (which happens to be a State dinner for the visiting President of France). His relationship with Wade opens the door for his prime political opponent, Senator Bob Rumson, to launch an attack on the President's character, something he could not do in the previous election as Shepherd's wife had only recently died.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "metascore": "68",
+  "imdb_rating": "6.8",
+  "imdb_votes": "63,758",
+  "box_office": "$60,079,496",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=The+American+President"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/The+American+President/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0112346/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0112346/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9087"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 57450,
+  "title": "Holiday Heart",
+  "original_title": "Holiday Heart",
+  "release_date": "2000-12-10",
+  "runtime": 96,
+  "tagline": "He'll do anything in his power... to keep them together.",
+  "overview": "After losing his police officer lover, Christian drag queen Holiday Heart meets 12-year-old Niki and her drug-addicted mother, Wanda. Heart finds relief from heartache and a renewed sense of purpose when he steps in as a father figure to Niki and welcomes the two women into his life. But when Wanda becomes romantically involved with her drug dealer, Silas, it may endanger Niki and threaten to destroy the makeshift family.",
+  "genres": [
+    "Drama",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "MGM Television",
+      "country": "US"
+    },
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    },
+    {
+      "name": "Showtime Networks",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Townsend"
+  ],
+  "writers": [
+    {
+      "name": "Cheryl L. West",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Cheryl L. West",
+      "job": "Teleplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert De Niro",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brad Epstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jane Rosenthal",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ving Rhames",
+      "character": "Holiday Heart",
+      "order": 0
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Wanda Dean",
+      "order": 1
+    },
+    {
+      "name": "Jesika Reynolds",
+      "character": "Niki Dean",
+      "order": 2
+    },
+    {
+      "name": "Mykelti Williamson",
+      "character": "Silas",
+      "order": 3
+    },
+    {
+      "name": "Jonathan Wesley Wallace",
+      "character": "Jambalaya Blue",
+      "order": 4
+    },
+    {
+      "name": "Philip Maurice Hayes",
+      "character": "Sergeant",
+      "order": 5
+    },
+    {
+      "name": "Blu Mankuma",
+      "character": "Pastor Henry",
+      "order": 6
+    },
+    {
+      "name": "Ron Selmour",
+      "character": "LT",
+      "order": 7
+    },
+    {
+      "name": "Lorena Gale",
+      "character": "Mrs. Owens",
+      "order": 8
+    },
+    {
+      "name": "James Kidnie",
+      "character": "Penthouse M.C.",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rAh8a5dSYMBlmFiuYSo7O1ywJnE.jpg",
+  "backdrop_path": "/aHxOQES6VtnCiENdetVFN6uDYDr.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.81,
+  "vote_count": 21,
+  "imdb_id": "tt0250425",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

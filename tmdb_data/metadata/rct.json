@@ -1,0 +1,189 @@
+{
+  "tmdb_id": 8834,
+  "title": "Conspiracy Theory",
+  "original_title": "Conspiracy Theory",
+  "release_date": "1997-08-08",
+  "runtime": 135,
+  "tagline": "What if your most paranoid nightmares had just come true?",
+  "overview": "A man obsessed with conspiracy theories becomes a target after one of his theories turns out to be true. Unfortunately, in order to save himself, he has to figure out which theory it is.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Silver Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Donner/Shuler-Donner Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Richard Donner"
+  ],
+  "writers": [
+    {
+      "name": "Brian Helgeland",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Richard Donner",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Van Wyck",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "character": "Jerry Fletcher",
+      "order": 0
+    },
+    {
+      "name": "Julia Roberts",
+      "character": "Alice Sutton",
+      "order": 1
+    },
+    {
+      "name": "Patrick Stewart",
+      "character": "Dr. Jonas",
+      "order": 2
+    },
+    {
+      "name": "Cylk Cozart",
+      "character": "Agent Lowry",
+      "order": 3
+    },
+    {
+      "name": "Steve Kahan",
+      "character": "Mr. Wilson",
+      "order": 4
+    },
+    {
+      "name": "Terry Alexander",
+      "character": "Flip",
+      "order": 5
+    },
+    {
+      "name": "Alex McArthur",
+      "character": "Cynic",
+      "order": 6
+    },
+    {
+      "name": "Rod McLachlan",
+      "character": "Justice Guard",
+      "order": 7
+    },
+    {
+      "name": "Michael Potts",
+      "character": "Justice Guard",
+      "order": 8
+    },
+    {
+      "name": "Jim Sterling",
+      "character": "Justice Guard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sTyTKZVikQU6g50HE8HR1tBSRxj.jpg",
+  "backdrop_path": "/70tmPOoCJCciWaM1vDvXAi4w3Bc.jpg",
+  "budget": 75000000,
+  "revenue": 137000000,
+  "vote_average": 6.619,
+  "vote_count": 1604,
+  "imdb_id": "tt0118883",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

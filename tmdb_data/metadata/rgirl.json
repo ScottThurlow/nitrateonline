@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 10735,
+  "title": "What a Girl Wants",
+  "original_title": "What a Girl Wants",
+  "release_date": "2003-03-27",
+  "runtime": 105,
+  "tagline": "Trying to fit in. Born to stand out.",
+  "overview": "An American girl, Daphne, heads to Europe in search of the father she's never met. But instead of finding a British version of her bohemian mother, she learns the love of her mom's life is an uptight politician. The only problem now is that her long-lost dad is engaged to a fiercely territorial social climber with a daughter who makes Daphne's life miserable.",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Drama",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English",
+    "Portuguese"
+  ],
+  "production_companies": [
+    {
+      "name": "Sloane Square Films",
+      "country": ""
+    },
+    {
+      "name": "Di Novi Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gaylord Films",
+      "country": ""
+    },
+    {
+      "name": "Gerber Pictures",
+      "country": "US"
+    },
+    {
+      "name": "HSI Tomorrow Film",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dennie Gordon"
+  ],
+  "writers": [
+    {
+      "name": "William Douglas-Home",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Elizabeth Chandler",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jenny Bicks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Douglas-Home",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bill Gerber",
+      "job": "Producer"
+    },
+    {
+      "name": "E.K. Gaylord II",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hunt Lowry",
+      "job": "Producer"
+    },
+    {
+      "name": "Denise Di Novi",
+      "job": "Producer"
+    },
+    {
+      "name": "Alison Greenspan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Casey La Scala",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Amanda Bynes",
+      "character": "Daphne Reynolds",
+      "order": 0
+    },
+    {
+      "name": "Colin Firth",
+      "character": "Henry Dashwood",
+      "order": 1
+    },
+    {
+      "name": "Kelly Preston",
+      "character": "Libby Reynolds",
+      "order": 2
+    },
+    {
+      "name": "Eileen Atkins",
+      "character": "Jocelyn Dashwood",
+      "order": 3
+    },
+    {
+      "name": "Anna Chancellor",
+      "character": "Glynnis Payne",
+      "order": 4
+    },
+    {
+      "name": "Jonathan Pryce",
+      "character": "Alistair Payne",
+      "order": 5
+    },
+    {
+      "name": "Oliver James",
+      "character": "Ian Wallace",
+      "order": 6
+    },
+    {
+      "name": "Christina Cole",
+      "character": "Clarissa Payne",
+      "order": 7
+    },
+    {
+      "name": "James Greene",
+      "character": "Percy",
+      "order": 8
+    },
+    {
+      "name": "Ben Scholfield",
+      "character": "Armistead Stuart",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gGpMruX59KWNuAXgHpiAm8hiChw.jpg",
+  "backdrop_path": "/bZwUUgz0pgl1cEjcvpDSsBfYvzK.jpg",
+  "budget": 20000000,
+  "revenue": 50700000,
+  "vote_average": 6.304,
+  "vote_count": 1708,
+  "imdb_id": "tt0286788",
+  "certifications": [
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "SE",
+      "rating": "7 År"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

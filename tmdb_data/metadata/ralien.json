@@ -1,0 +1,208 @@
+{
+  "tmdb_id": 8078,
+  "title": "Alien Resurrection",
+  "original_title": "Alien Resurrection",
+  "release_date": "1997-11-12",
+  "runtime": 109,
+  "tagline": "It's already too late.",
+  "overview": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Brandywine Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jean-Pierre Jeunet"
+  ],
+  "writers": [
+    {
+      "name": "Dan O'Bannon",
+      "job": "Characters"
+    },
+    {
+      "name": "Ronald Shusett",
+      "job": "Characters"
+    },
+    {
+      "name": "Joss Whedon",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Walter Hill",
+      "job": "Producer"
+    },
+    {
+      "name": "Gordon Carroll",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Badalato",
+      "job": "Producer"
+    },
+    {
+      "name": "David Giler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sigourney Weaver",
+      "character": "Ripley",
+      "order": 0
+    },
+    {
+      "name": "Winona Ryder",
+      "character": "Call",
+      "order": 1
+    },
+    {
+      "name": "Dominique Pinon",
+      "character": "Vriess",
+      "order": 2
+    },
+    {
+      "name": "Ron Perlman",
+      "character": "Johner",
+      "order": 3
+    },
+    {
+      "name": "Gary Dourdan",
+      "character": "Christie",
+      "order": 4
+    },
+    {
+      "name": "Michael Wincott",
+      "character": "Elgyn",
+      "order": 5
+    },
+    {
+      "name": "Kim Flowers",
+      "character": "Hillard",
+      "order": 6
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "General Perez",
+      "order": 7
+    },
+    {
+      "name": "J.E. Freeman",
+      "character": "Dr. Wren",
+      "order": 8
+    },
+    {
+      "name": "Brad Dourif",
+      "character": "Gediman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+  "backdrop_path": "/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg",
+  "budget": 70000000,
+  "revenue": 162000000,
+  "vote_average": 6.164,
+  "vote_count": 5459,
+  "imdb_id": "tt0118583",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

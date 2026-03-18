@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 24982,
+  "title": "Ghosts of the Abyss",
+  "original_title": "Ghosts of the Abyss",
+  "release_date": "2003-04-10",
+  "runtime": 91,
+  "tagline": "The legend no one can forget has become the greatest 3D adventure ever filmed.",
+  "overview": "With a team of the world's foremost historic and marine experts as well as friend Bill Paxton, James Cameron embarks on an unscripted adventure back to the wreck of the Titanic where nearly 1,500 souls lost their lives almost a century ago.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Earthship Productions",
+      "country": "US"
+    },
+    {
+      "name": "Walden Media",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Cameron"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "James Cameron",
+      "job": "Producer"
+    },
+    {
+      "name": "Chuck Comisky",
+      "job": "Producer"
+    },
+    {
+      "name": "Giedra Rackauskas",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Janace Tashjian",
+      "job": "Producer"
+    },
+    {
+      "name": "John Bruno",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bill Paxton",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "John Broadwater",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "James Cameron",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Charles Pellegrino",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Lewis Abernathy",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Mike Cameron",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Ken Marschall",
+      "character": "Self / J. Bruce Ismay",
+      "order": 6
+    },
+    {
+      "name": "Don Lynch",
+      "character": "Self / Thomas Andrews",
+      "order": 7
+    },
+    {
+      "name": "Adriana Valdez",
+      "character": "Helen Churchill Candee",
+      "order": 8
+    },
+    {
+      "name": "Piper Gunnarson",
+      "character": "Madeleine Astor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+  "backdrop_path": "/us2aG5buhsLUYz4Npcx8i8HvSDs.jpg",
+  "budget": 13000000,
+  "revenue": 17040871,
+  "vote_average": 6.848,
+  "vote_count": 223,
+  "imdb_id": "tt0297144",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "10"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

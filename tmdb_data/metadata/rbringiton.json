@@ -1,0 +1,186 @@
+{
+  "tmdb_id": 1588,
+  "title": "Bring It On",
+  "original_title": "Bring It On",
+  "release_date": "2000-08-25",
+  "runtime": 99,
+  "tagline": "May the best moves win.",
+  "overview": "The Toro cheerleading squad from Rancho Carne High School in San Diego has got spirit, spunk, sass and a killer routine that's sure to land them the national championship trophy for the sixth year in a row. But for newly-elected team captain Torrance, the Toros' road to total cheer glory takes a shady turn when she discovers that their perfectly-choreographed routines were in fact stolen.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peyton Reed"
+  ],
+  "writers": [
+    {
+      "name": "Jessica Bendinger",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Abraham",
+      "job": "Producer"
+    },
+    {
+      "name": "Thomas A. Bliss",
+      "job": "Producer"
+    },
+    {
+      "name": "Max Wong",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caitlin Scanlon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paddy Cullen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kirsten Dunst",
+      "character": "Torrance Shipman",
+      "order": 0
+    },
+    {
+      "name": "Eliza Dushku",
+      "character": "Missy Pantone",
+      "order": 1
+    },
+    {
+      "name": "Jesse Bradford",
+      "character": "Cliff Pantone",
+      "order": 2
+    },
+    {
+      "name": "Gabrielle Union",
+      "character": "Isis",
+      "order": 3
+    },
+    {
+      "name": "Sherry Hursey",
+      "character": "Christine Shipman",
+      "order": 4
+    },
+    {
+      "name": "Holmes Osborne",
+      "character": "Bruce Shipman",
+      "order": 5
+    },
+    {
+      "name": "Clare Kramer",
+      "character": "Courtney",
+      "order": 6
+    },
+    {
+      "name": "Nicole Bilderback",
+      "character": "Whitney",
+      "order": 7
+    },
+    {
+      "name": "Tsianina Joelson",
+      "character": "Darcy",
+      "order": 8
+    },
+    {
+      "name": "Shamari DeVoe",
+      "character": "Lava",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+  "backdrop_path": "/3XpxR3cSQJou79KBQpPCcpZzmhj.jpg",
+  "budget": 28000000,
+  "revenue": 90449929,
+  "vote_average": 6.265,
+  "vote_count": 1825,
+  "imdb_id": "tt0204946",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

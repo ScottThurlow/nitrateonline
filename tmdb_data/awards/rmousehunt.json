@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "2 wins & 2 nominations total",
+  "rated": "PG",
+  "released": "19 Dec 1997",
+  "runtime": "98 min",
+  "genre": "Comedy",
+  "director": "Gore Verbinski",
+  "writer": "Adam Rifkin",
+  "actors": "Nathan Lane, Lee Evans, Vicki Lewis",
+  "plot": "A family film about a mouse that lives in an old house where the geriatric owner dies, and Ernie and Lars Smuntz have plans for, but they have trouble getting rid of the mouse. It's like Home Alone with a mouse.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "53",
+  "imdb_rating": "6.5",
+  "imdb_votes": "64,498",
+  "box_office": "$61,917,389",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "50%",
+      "link": "https://www.rottentomatoes.com/search?search=Mousehunt"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/Mousehunt/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119715/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119715/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6283"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "tmdb_id": 12107,
+  "title": "Nutty Professor II: The Klumps",
+  "original_title": "Nutty Professor II: The Klumps",
+  "release_date": "2000-07-27",
+  "runtime": 107,
+  "tagline": "The Klumps are back!",
+  "overview": "The hilarity begins when professor Sherman Klump finds romance with fellow DNA specialist, Denise Gaines, and discovers a brilliant formula that reverses aging. But Sherman's thin and obnoxious alter ego, Buddy Love, wants out...and a big piece of the action. And when Buddy gets loose, things get seriously nutty.",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Romance",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Eddie Murphy Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Segal"
+  ],
+  "writers": [
+    {
+      "name": "Barry W. Blaustein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Sheffield",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Weitz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chris Weitz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jerry Lewis",
+      "job": "Characters"
+    },
+    {
+      "name": "David Sheffield",
+      "job": "Story"
+    },
+    {
+      "name": "Barry W. Blaustein",
+      "job": "Story"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "job": "Story"
+    },
+    {
+      "name": "Zak Penn",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "James D. Brubaker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Karen Kehela Sherwood",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Lewis",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eddie Murphy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Shadyac",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "Sherman Klump / Buddy Love / Granny Klump / Mama Klump / Papa Klump / Young Papa Klump / Ernie Klump / Lance Perkins",
+      "order": 0
+    },
+    {
+      "name": "Janet Jackson",
+      "character": "Denise",
+      "order": 1
+    },
+    {
+      "name": "Larry Miller",
+      "character": "Dean Richmond",
+      "order": 2
+    },
+    {
+      "name": "John Ales",
+      "character": "Jason",
+      "order": 3
+    },
+    {
+      "name": "Richard Gant",
+      "character": "Denise's Father",
+      "order": 4
+    },
+    {
+      "name": "Anna Maria Horsford",
+      "character": "Denise's Mother",
+      "order": 5
+    },
+    {
+      "name": "Melinda McGraw",
+      "character": "Leanne Guilford",
+      "order": 6
+    },
+    {
+      "name": "Jamal Mixon",
+      "character": "Ernie Klump, Jr.",
+      "order": 7
+    },
+    {
+      "name": "Gabriel Williams",
+      "character": "Issac",
+      "order": 8
+    },
+    {
+      "name": "Chris Elliott",
+      "character": "Restaurant Manager",
+      "order": 9
+    }
+  ],
+  "poster_path": "/v8gI95Eio7kAjixyqYHxNKmJTmm.jpg",
+  "backdrop_path": "/i3oT0v1KVDZEq8oOZdAAqy78Vub.jpg",
+  "budget": 84000000,
+  "revenue": 123307945,
+  "vote_average": 5.016,
+  "vote_count": 1379,
+  "imdb_id": "tt0144528",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

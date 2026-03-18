@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 7 nominations total",
+  "rated": "PG",
+  "released": "29 Jul 1998",
+  "runtime": "128 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Nancy Meyers",
+  "writer": "Erich Kästner, David Swift, Nancy Meyers",
+  "actors": "Lindsay Lohan, Dennis Quaid, Natasha Richardson",
+  "plot": "When two pre-teens named Hallie and Annie meet through their summer camp, their two lives are rattled when they realize that they are identical twins. With parents, British mother aka famous dress designer Elizabeth and American father, a wine maker named Nick, living in two different sides of the universe, the girls decide to make an identity swap in hopes of spending time with their other parent. The girls later choose to inform their guardians of the swap while at a hotel in San Francisco, which later reunites the divorced pair and sends them back into remarriage with each other.",
+  "language": "English, French",
+  "country": "United States, United Kingdom",
+  "metascore": "63",
+  "imdb_rating": "6.7",
+  "imdb_votes": "165,056",
+  "box_office": "$66,308,518",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "87%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Parent+Trap"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/The+Parent+Trap/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120783/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120783/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9820"
+  }
+}

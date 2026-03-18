@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 889,
+  "title": "The Flintstones in Viva Rock Vegas",
+  "original_title": "The Flintstones in Viva Rock Vegas",
+  "release_date": "2000-04-28",
+  "runtime": 91,
+  "tagline": "Get ready to rock!",
+  "overview": "The Flintstones are at it again. The Flintstones and the Rubbles head for Rock Vegas with Fred hoping to court the lovely Wilma. Nothing will stand in the way of love, except for the conniving Chip Rockefeller who is the playboy born in Baysville but who has made it in the cutthroat town of Rock Vegas. Will Fred win Wilma's love?",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Hanna-Barbera Cartoons",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brian Levant"
+  ],
+  "writers": [
+    {
+      "name": "Deborah Kaplan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Harry Elfont",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Cash",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jack Epps Jr.",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Hanna",
+      "job": "Writer"
+    },
+    {
+      "name": "Joseph Barbera",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Cohen",
+      "job": "Producer"
+    },
+    {
+      "name": "Bart Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "William Hanna",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dennis E. Jones",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joseph Barbera",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Addy",
+      "character": "Fred Flintstone",
+      "order": 0
+    },
+    {
+      "name": "Stephen Baldwin",
+      "character": "Barney Rubble",
+      "order": 1
+    },
+    {
+      "name": "Kristen Johnston",
+      "character": "Wilma Slaghoople",
+      "order": 2
+    },
+    {
+      "name": "Jane Krakowski",
+      "character": "Betty O'Shale",
+      "order": 3
+    },
+    {
+      "name": "Joan Collins",
+      "character": "Pearl Slaghoople",
+      "order": 4
+    },
+    {
+      "name": "Thomas Gibson",
+      "character": "Chip Rockefeller",
+      "order": 5
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "The Great Gazoo / Mick Jagged",
+      "order": 6
+    },
+    {
+      "name": "Harvey Korman",
+      "character": "Colonel Slaghoople",
+      "order": 7
+    },
+    {
+      "name": "Alex Meneses",
+      "character": "Roxie",
+      "order": 8
+    },
+    {
+      "name": "John Taylor",
+      "character": "Keith Richrock",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qTcf60dqziF7xU2amxIIsvrnkTl.jpg",
+  "backdrop_path": "/ykE7sbGKNkOfzKqVYIWUvo40hFD.jpg",
+  "budget": 83000000,
+  "revenue": 59468275,
+  "vote_average": 4.774,
+  "vote_count": 794,
+  "imdb_id": "tt0158622",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,122 @@
+{
+  "tmdb_id": 42881,
+  "title": "Julien Donkey-Boy",
+  "original_title": "Julien Donkey-Boy",
+  "release_date": "1999-10-15",
+  "runtime": 100,
+  "tagline": "A fascinating journey into the mind of an adolescent schizophrenic.",
+  "overview": "Undiagnosed, untreated and generally untethered schizophrenic Julien lives with his pregnant younger sister, anorexic aspiring wrestler brother, sympathetic grandmother, and severely depressed and abusive German father.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "391 Productions",
+      "country": ""
+    },
+    {
+      "name": "Forensic Films",
+      "country": "US"
+    },
+    {
+      "name": "Independent Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Harmony Korine"
+  ],
+  "writers": [
+    {
+      "name": "Harmony Korine",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cary Woods",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Macaulay",
+      "job": "Producer"
+    },
+    {
+      "name": "Robin O'Hara",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ewen Bremner",
+      "character": "Julien",
+      "order": 0
+    },
+    {
+      "name": "Chloë Sevigny",
+      "character": "Pearl",
+      "order": 1
+    },
+    {
+      "name": "Werner Herzog",
+      "character": "Father",
+      "order": 2
+    },
+    {
+      "name": "Evan Neumann",
+      "character": "Chris",
+      "order": 3
+    },
+    {
+      "name": "Joyce Korine",
+      "character": "Grandmama",
+      "order": 4
+    },
+    {
+      "name": "Alvin Law",
+      "character": "Card-Playing Neighbor",
+      "order": 5
+    },
+    {
+      "name": "Brian Fisk",
+      "character": "Pond boy",
+      "order": 6
+    },
+    {
+      "name": "Miriram Martinez",
+      "character": "Teenage Girl",
+      "order": 7
+    },
+    {
+      "name": "Edgar Erikkson",
+      "character": "Bearded Man",
+      "order": 8
+    },
+    {
+      "name": "James Moix",
+      "character": "Dancing Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mK8pJA05Sdp3Hc4KWHMqhaMEbVW.jpg",
+  "backdrop_path": "/lbhrsVFcoU0A5d98BgOH0iJztdK.jpg",
+  "budget": 1300000,
+  "revenue": 80226,
+  "vote_average": 6.9,
+  "vote_count": 118,
+  "imdb_id": "tt0192194",
+  "certifications": [
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

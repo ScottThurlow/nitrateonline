@@ -1,0 +1,183 @@
+{
+  "tmdb_id": 12212,
+  "title": "Urban Legends: Final Cut",
+  "original_title": "Urban Legends: Final Cut",
+  "release_date": "2000-09-22",
+  "runtime": 98,
+  "tagline": "Legends never die.",
+  "overview": "The making of a horror movie takes on a terrifying reality for students at the most prestigious film school in the country. At Alpine University, someone is determined to win the best film award at any cost - even if it means eliminating the competition. No one is safe and everyone is a suspect.",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    },
+    {
+      "name": "Gina Matthews Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Ottman"
+  ],
+  "writers": [
+    {
+      "name": "Paul Harris Boardman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Scott Derrickson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Silvio Horta",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Nick Osborne",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gina Matthews",
+      "job": "Producer"
+    },
+    {
+      "name": "Brad Luff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Luke Rothschild",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Morrison",
+      "character": "Amy Mayfield",
+      "order": 0
+    },
+    {
+      "name": "Matthew Davis",
+      "character": "Travis / Trevor",
+      "order": 1
+    },
+    {
+      "name": "Hart Bochner",
+      "character": "Professor Solomon",
+      "order": 2
+    },
+    {
+      "name": "Loretta Devine",
+      "character": "Reese",
+      "order": 3
+    },
+    {
+      "name": "Joey Lawrence",
+      "character": "Graham",
+      "order": 4
+    },
+    {
+      "name": "Anson Mount",
+      "character": "Toby",
+      "order": 5
+    },
+    {
+      "name": "Jessica Cauffiel",
+      "character": "Sandra",
+      "order": 6
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "Stan",
+      "order": 7
+    },
+    {
+      "name": "Michael Bacall",
+      "character": "Dirk",
+      "order": 8
+    },
+    {
+      "name": "Eva Mendes",
+      "character": "Vanessa",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9kjGrnhMz37RYEd5BFcrU1qkPkl.jpg",
+  "backdrop_path": "/xH7ISsZtQ7prIpjHz8qbu4Wuud2.jpg",
+  "budget": 14000000,
+  "revenue": 38574362,
+  "vote_average": 4.9,
+  "vote_count": 512,
+  "imdb_id": "tt0192731",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

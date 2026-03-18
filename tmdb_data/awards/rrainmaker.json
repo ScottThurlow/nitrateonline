@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "2 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "21 Nov 1997",
+  "runtime": "135 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Francis Ford Coppola",
+  "writer": "John Grisham, Francis Ford Coppola, Michael Herr",
+  "actors": "Matt Damon, Danny DeVito, Claire Danes",
+  "plot": "Rudy Baylor is a young attorney out to make a difference in the justice system. He is also the only hope of an elderly couple after their corrupt insurance company refuses to pay out a claim that could save their child's life. In this judicial drama, Baylor rails against corporate lawyers, corrupt judges, and abusive husbands, all with the help of a fellow lawyer who hasn't even passed his bar exam. He is facing long odds in the courtroom - and this is only his first case.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "72",
+  "imdb_rating": "7.2",
+  "imdb_votes": "90,256",
+  "box_office": "$45,916,769",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Rainmaker"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/The+Rainmaker/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119978/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119978/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11975"
+  }
+}

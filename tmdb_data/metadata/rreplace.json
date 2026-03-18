@@ -1,0 +1,170 @@
+{
+  "tmdb_id": 10393,
+  "title": "The Replacements",
+  "original_title": "The Replacements",
+  "release_date": "2000-08-11",
+  "runtime": 118,
+  "tagline": "Throw the ball. Catch the girl. Keep it simple.",
+  "overview": "Maverick old-guard coach Jimmy McGinty is hired in the wake of a players' strike to help the Washington Sentinels advance to the playoffs. But that impossible dream hinges on whether his replacements can hunker down and do the job. So, McGinty dusts off his secret dossier of ex-players who never got a chance (or screwed up the one they were given) and knits together a bad-dream team of guys who just may give the Sentinels their title shot.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Bel Air Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Dylan Sellers Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Howard Deutch"
+  ],
+  "writers": [
+    {
+      "name": "Vince McKewin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dylan Sellers",
+      "job": "Producer"
+    },
+    {
+      "name": "Erwin Stoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Reuther",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeffrey Chernov",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "character": "Shane Falco",
+      "order": 0
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "Jimmy McGinty",
+      "order": 1
+    },
+    {
+      "name": "Brooke Langton",
+      "character": "Annabelle Farrell",
+      "order": 2
+    },
+    {
+      "name": "Orlando Jones",
+      "character": "Clifford Franklin",
+      "order": 3
+    },
+    {
+      "name": "Faizon Love",
+      "character": "Jamal Jackson",
+      "order": 4
+    },
+    {
+      "name": "Jon Favreau",
+      "character": "Daniel Bateman",
+      "order": 5
+    },
+    {
+      "name": "Rhys Ifans",
+      "character": "Nigel 'The Leg' Gruff",
+      "order": 6
+    },
+    {
+      "name": "Keith David",
+      "character": "Lindell",
+      "order": 7
+    },
+    {
+      "name": "Ace Yonamine",
+      "character": "Jumbo",
+      "order": 8
+    },
+    {
+      "name": "Troy Winbush",
+      "character": "Walter Cochran",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6qerI41HqkdRlio1sG0d5HLZcFN.jpg",
+  "backdrop_path": "/wH4M4wvSR2kQqomE3N9dTStJre8.jpg",
+  "budget": 50000000,
+  "revenue": 50054511,
+  "vote_average": 6.685,
+  "vote_count": 1046,
+  "imdb_id": "tt0191397",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

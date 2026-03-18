@@ -1,0 +1,178 @@
+{
+  "tmdb_id": 12138,
+  "title": "3000 Miles to Graceland",
+  "original_title": "3000 Miles to Graceland",
+  "release_date": "2001-02-23",
+  "runtime": 125,
+  "tagline": "Crime Is King",
+  "overview": "It was an ingenious enough plan: rob the Riviera Casino's count room during an Elvis impersonator convention. But Thomas Murphy decided to keep all the money for himself and shot all his partners, including recently-freed ex-con Michael Zane. With $3.2 million at stake, the Marshals Service closing in, Michael must track down Murphy.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Intertainment AG",
+      "country": "DE"
+    },
+    {
+      "name": "Lightstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Demian Lichtenstein"
+  ],
+  "writers": [
+    {
+      "name": "Richard Recco",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Demian Lichtenstein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Bernhardt",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Don Carmody",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tracee Stanley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Demian Lichtenstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Manes",
+      "job": "Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Spero",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kurt Russell",
+      "character": "Michael Zane",
+      "order": 0
+    },
+    {
+      "name": "Kevin Costner",
+      "character": "Thomas J. Murphy",
+      "order": 1
+    },
+    {
+      "name": "Courteney Cox",
+      "character": "Cybil Waingrow",
+      "order": 2
+    },
+    {
+      "name": "Christian Slater",
+      "character": "Hanson",
+      "order": 3
+    },
+    {
+      "name": "Kevin Pollak",
+      "character": "Damitry",
+      "order": 4
+    },
+    {
+      "name": "David Arquette",
+      "character": "Gus",
+      "order": 5
+    },
+    {
+      "name": "Jon Lovitz",
+      "character": "Jay Peterson",
+      "order": 6
+    },
+    {
+      "name": "Howie Long",
+      "character": "Jack",
+      "order": 7
+    },
+    {
+      "name": "Thomas Haden Church",
+      "character": "Quigley",
+      "order": 8
+    },
+    {
+      "name": "Bokeem Woodbine",
+      "character": "Franklin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nJgr5sGoXnsgZ0EVt80i6X9dQiA.jpg",
+  "backdrop_path": "/aSRfU8CIRXVhd7fPeuG0DbpAViI.jpg",
+  "budget": 62000000,
+  "revenue": 18720175,
+  "vote_average": 5.855,
+  "vote_count": 687,
+  "imdb_id": "tt0233142",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R18+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

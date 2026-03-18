@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 10029,
+  "title": "Very Bad Things",
+  "original_title": "Very Bad Things",
+  "release_date": "1998-09-11",
+  "runtime": 100,
+  "tagline": "They've been bad. Very bad.",
+  "overview": "Kyle Fisher has one last night to celebrate life as a single man before marrying Laura, so he sets out to Vegas with four of his best buddies. But a drug and alcohol filled night on the town with a stripper who goes all the way, turns into a cold night in the desert with shovels when the stripper goes all the way into a body bag after dying in their bathroom. And that's just the first of the bodies to pile up before Kyle can walk down the aisle...",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "VBT Productions",
+      "country": ""
+    },
+    {
+      "name": "Initial Entertainment Group",
+      "country": "US"
+    },
+    {
+      "name": "Interscope Communications",
+      "country": "US"
+    },
+    {
+      "name": "Ballpark Productions Partnership",
+      "country": ""
+    },
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Berg"
+  ],
+  "writers": [
+    {
+      "name": "Peter Berg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Diane Nabatoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Cindy Cowan",
+      "job": "Producer"
+    },
+    {
+      "name": "Christian Slater",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Schiffer",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Kroopf",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joanna Johnson",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael A. Helfant",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christian Slater",
+      "character": "Robert Boyd",
+      "order": 0
+    },
+    {
+      "name": "Cameron Diaz",
+      "character": "Laura Garrety",
+      "order": 1
+    },
+    {
+      "name": "Jon Favreau",
+      "character": "Kyle Fisher",
+      "order": 2
+    },
+    {
+      "name": "Leland Orser",
+      "character": "Charles Moore",
+      "order": 3
+    },
+    {
+      "name": "Jeremy Piven",
+      "character": "Michael Berkow",
+      "order": 4
+    },
+    {
+      "name": "Daniel Stern",
+      "character": "Adam Berkow",
+      "order": 5
+    },
+    {
+      "name": "Jeanne Tripplehorn",
+      "character": "Lois Berkow",
+      "order": 6
+    },
+    {
+      "name": "Rob Brownstein",
+      "character": "Man",
+      "order": 7
+    },
+    {
+      "name": "Blake Gibbons",
+      "character": "Suit",
+      "order": 8
+    },
+    {
+      "name": "Tyler Cole Malinger",
+      "character": "Timmy Berkow",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rYmyRxF5e9fBdgcQScKu0CUtMy5.jpg",
+  "backdrop_path": "/2hrgzOj35M3Fa3YFWiaAD2Ty6Hu.jpg",
+  "budget": 30000000,
+  "revenue": 9898412,
+  "vote_average": 6.263,
+  "vote_count": 675,
+  "imdb_id": "tt0124198",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

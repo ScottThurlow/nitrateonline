@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "2 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "06 Feb 2004",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama",
+  "director": "Kevin Rodney Sullivan",
+  "writer": "Mark Brown, Don D. Scott",
+  "actors": "Ice Cube, Cedric The Entertainer, Eve",
+  "plot": "The continuing adventures of the barbers at Calvin's Barbershop. Gina, a stylist at the beauty shop next door, is now trying to cut in on his business. Calvin is again struggling to keep his father's shop and traditions alive--this time against urban developers looking to replace mom and pop establishments with name-brand chains. The world changes, but some things never go out of style--from current events and politics to relationships and love, you can still say anything you want at the barbershop.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "59",
+  "imdb_rating": "5.7",
+  "imdb_votes": "16,597",
+  "box_office": "$65,111,277",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Barbershop+2%3A+Back+in+Business"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Barbershop+2%3A+Back+in+Business/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0337579/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0337579/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21301"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination total",
+  "rated": "PG-13",
+  "released": "25 Jan 2002",
+  "runtime": "81 min",
+  "genre": "Action, Comedy",
+  "director": "Steve Oedekerk",
+  "writer": "Steve Oedekerk",
+  "actors": "Steve Oedekerk, Fei Lung, Leo Lee",
+  "plot": "Kung Pow: Enter the Fist is a movie within a movie, created to spoof the martial arts genre. Writer/director Steve Oedekerk uses contemporary characters and splices them into a 1970s kung-fu film, weaving the new and old together. As the main character, The Chosen One, Oedekerk sets off to avenge the deaths of his parents at the hands of kung-fu legend Master Pain. Along the way, he encounters some strange characters, one of which is a cow trained in the martial arts.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "14",
+  "imdb_rating": "6.2",
+  "imdb_votes": "50,110",
+  "box_office": "$16,037,962",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=Kung+Pow%3A+Enter+the+Fist"
+    },
+    {
+      "source": "Metacritic",
+      "value": "14/100",
+      "link": "https://www.metacritic.com/search/Kung+Pow%3A+Enter+the+Fist/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0240468/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0240468/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11891"
+  }
+}

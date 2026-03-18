@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "PG",
+  "released": "21 Jan 2003",
+  "runtime": "89 min",
+  "genre": "Documentary, Music",
+  "director": "Godfrey Reggio",
+  "writer": "Godfrey Reggio",
+  "actors": "Belladonna, Marlon Brando, Elton John",
+  "plot": "In this cinematic concert, mesmerizing images are plucked from everyday reality, then visually altered with state-of-the-art digital techniques. The result is a chronicle of the shift from a world organized by the principles of nature to one dominated by technology, the synthetic and the virtual. Extremes of intimacy and spectacle, tragedy and hope fuse in a tidal wave of visuals and music, giving rise to a unique, artistic experience that reflects the vision of a brave new globalized world.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "59",
+  "imdb_rating": "6.4",
+  "imdb_votes": "6,460",
+  "box_office": "$133,058",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "48%",
+      "link": "https://www.rottentomatoes.com/search?search=Naqoyqatsi"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Naqoyqatsi/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0145937/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0145937/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21925"
+  }
+}

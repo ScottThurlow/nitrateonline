@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Won 1 Oscar. 28 wins & 44 nominations total",
+  "rated": "R",
+  "released": "19 Nov 1999",
+  "runtime": "105 min",
+  "genre": "Fantasy, Horror, Mystery",
+  "director": "Tim Burton",
+  "writer": "Washington Irving, Kevin Yagher, Andrew Kevin Walker",
+  "actors": "Johnny Depp, Christina Ricci, Miranda Richardson",
+  "plot": "The curse of The Headless Horseman (Christopher Walken) is the legacy of the small town of Sleepy Hollow. Spearheaded by the eager Constable Ichabod Crane (Johnny Depp) and his new world ways into the quagmire of secrets and murder, secrets once laid to rest, best forgotten and now reawakened, and he too, holding a dark secret of a past once gone.",
+  "language": "English, Latin",
+  "country": "United Kingdom, Germany, United States",
+  "metascore": "65",
+  "imdb_rating": "7.3",
+  "imdb_votes": "406,254",
+  "box_office": "$101,071,502",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=Sleepy+Hollow"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/Sleepy+Hollow/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0162661/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0162661/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2668"
+  }
+}

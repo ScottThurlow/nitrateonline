@@ -1,0 +1,235 @@
+{
+  "tmdb_id": 3131,
+  "title": "Gangs of New York",
+  "original_title": "Gangs of New York",
+  "release_date": "2002-12-14",
+  "runtime": 168,
+  "tagline": "America was born in the streets.",
+  "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+  "genres": [
+    "Drama",
+    "History",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Irish",
+    "Latin",
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Initial Entertainment Group",
+      "country": "US"
+    },
+    {
+      "name": "Alberto Grimaldi Productions",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Martin Scorsese"
+  ],
+  "writers": [
+    {
+      "name": "Jay Cocks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven Zaillian",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kenneth Lonergan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jay Cocks",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Maurizio Grimaldi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Hausman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Ovitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rick Yorn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Alberto Grimaldi",
+      "job": "Producer"
+    },
+    {
+      "name": "Barbara Phillips Marco",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "character": "Amsterdam Vallon",
+      "order": 0
+    },
+    {
+      "name": "Daniel Day-Lewis",
+      "character": "Bill 'The Butcher' Cutting",
+      "order": 1
+    },
+    {
+      "name": "Cameron Diaz",
+      "character": "Jenny Everdeane",
+      "order": 2
+    },
+    {
+      "name": "Jim Broadbent",
+      "character": "Boss Tweed",
+      "order": 3
+    },
+    {
+      "name": "John C. Reilly",
+      "character": "Happy Jack",
+      "order": 4
+    },
+    {
+      "name": "Henry Thomas",
+      "character": "Johnny Sirocco",
+      "order": 5
+    },
+    {
+      "name": "Liam Neeson",
+      "character": "'Priest' Vallon",
+      "order": 6
+    },
+    {
+      "name": "Brendan Gleeson",
+      "character": "Walter 'Monk' McGinn",
+      "order": 7
+    },
+    {
+      "name": "Gary Lewis",
+      "character": "McGloin",
+      "order": 8
+    },
+    {
+      "name": "Stephen Graham",
+      "character": "Shang",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+  "backdrop_path": "/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg",
+  "budget": 100000000,
+  "revenue": 193772504,
+  "vote_average": 7.313,
+  "vote_count": 7108,
+  "imdb_id": "tt0217505",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

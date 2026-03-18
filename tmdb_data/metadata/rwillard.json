@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 10929,
+  "title": "Willard",
+  "original_title": "Willard",
+  "release_date": "2003-03-14",
+  "runtime": 100,
+  "tagline": "When the cat's away, the rats will play.",
+  "overview": "Desperate for companionship, the repressed Willard befriends a group of rats that inhabit his late father's deteriorating mansion. In these furry creatures, Willard finds temporary refuge from daily abuse at the hands of his bedridden mother and his father's old partner, Frank. Soon it becomes clear that the brood of rodents is ready and willing to exact a vicious, deadly revenge on anyone who dares to bully their sensitive new master.",
+  "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hard Eight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Glen Morgan"
+  ],
+  "writers": [
+    {
+      "name": "Glen Morgan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gilbert Ralston",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Stephen Gilbert",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Glen Morgan",
+      "job": "Producer"
+    },
+    {
+      "name": "James Wong",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Brener",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Carraro",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Crispin Glover",
+      "character": "Willard Stiles",
+      "order": 0
+    },
+    {
+      "name": "R. Lee Ermey",
+      "character": "Mr. Martin",
+      "order": 1
+    },
+    {
+      "name": "Laura Harring",
+      "character": "Cathryn",
+      "order": 2
+    },
+    {
+      "name": "Jackie Burroughs",
+      "character": "Mrs. Stiles",
+      "order": 3
+    },
+    {
+      "name": "Ashlyn Gere",
+      "character": "Ms. Leach",
+      "order": 4
+    },
+    {
+      "name": "Laara Sadiq",
+      "character": "Janice Mantis",
+      "order": 5
+    },
+    {
+      "name": "William S. Taylor",
+      "character": "Mr. Garter",
+      "order": 6
+    },
+    {
+      "name": "Ty Olsson",
+      "character": "Officer Salmon",
+      "order": 7
+    },
+    {
+      "name": "Gus Lynch",
+      "character": "George Foxx",
+      "order": 8
+    },
+    {
+      "name": "David Parker",
+      "character": "Detective Boxer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hRVP8Ud9ehv7tp5WWQ4CHk2XNus.jpg",
+  "backdrop_path": "/xH9BdS2DzkX20Ly9FG8Iwczi3M.jpg",
+  "budget": 22000000,
+  "revenue": 8564586,
+  "vote_average": 6.133,
+  "vote_count": 358,
+  "imdb_id": "tt0310357",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

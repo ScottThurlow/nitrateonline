@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "8 nominations total",
+  "rated": "PG-13",
+  "released": "17 Nov 2000",
+  "runtime": "123 min",
+  "genre": "Action, Mystery, Sci-Fi",
+  "director": "Roger Spottiswoode",
+  "writer": "Cormac Wibberley, Marianne Wibberley",
+  "actors": "Arnold Schwarzenegger, Michael Rapaport, Tony Goldwyn",
+  "plot": "In the near future, cloning is now technically advanced, but human cloning is still illegal. Adam Gibson (Schwarzenegger) returns home after working with his friend Hank Morgan (Rapaport), only to find a clone of himself with his family. Before he has chance to find out the truth, he is attacked by a group who want him dead. Adam must escape and find out the truth from the creator of the clones, Michael Drucker (Goldwyn). Adam knows for sure he couldn't have been cloned, but isn't ready for what he's about to hear.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "5.9",
+  "imdb_votes": "132,219",
+  "box_office": "$34,604,280",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=The+6th+Day"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/The+6th+Day/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0216216/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0216216/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8452"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 843,
+  "title": "In the Mood for Love",
+  "original_title": "花樣年華",
+  "release_date": "2000-09-29",
+  "runtime": 99,
+  "tagline": "Feel the heat, keep the feeling burning, let the sensation explode.",
+  "overview": "Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Cantonese",
+    "French",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Block 2 Pictures",
+      "country": "HK"
+    },
+    {
+      "name": "Paradis Films",
+      "country": "FR"
+    },
+    {
+      "name": "Jet Tone Production",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Wong Kar-Wai"
+  ],
+  "writers": [
+    {
+      "name": "Wong Kar-Wai",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Liu Yichang",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wong Kar-Wai",
+      "job": "Producer"
+    },
+    {
+      "name": "Chan Ye-cheng",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Maggie Cheung",
+      "character": "Su Li-zhen",
+      "order": 0
+    },
+    {
+      "name": "Tony Leung Chiu-wai",
+      "character": "Chow Mo-wan",
+      "order": 1
+    },
+    {
+      "name": "Siu Ping-Lam",
+      "character": "Ah Ping",
+      "order": 2
+    },
+    {
+      "name": "Rebecca Pan",
+      "character": "Mrs. Suen",
+      "order": 3
+    },
+    {
+      "name": "Kelly Lai Chen",
+      "character": "Mr. Ho",
+      "order": 4
+    },
+    {
+      "name": "Joe Cheung Tung-Cho",
+      "character": "Man Living in Mr. Koo's Apartment",
+      "order": 5
+    },
+    {
+      "name": "Chan Man-Lei",
+      "character": "Mr. Koo",
+      "order": 6
+    },
+    {
+      "name": "Koo Kam-Wah",
+      "character": "Mrs. Koo",
+      "order": 7
+    },
+    {
+      "name": "Mama Hung",
+      "character": "Amah",
+      "order": 8
+    },
+    {
+      "name": "Paulyn Sun",
+      "character": "Mrs. Chow (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+  "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+  "budget": 3000000,
+  "revenue": 15867968,
+  "vote_average": 8.093,
+  "vote_count": 3182,
+  "imdb_id": "tt0118694",
+  "status": "Released"
+}

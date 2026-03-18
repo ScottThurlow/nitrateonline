@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win total",
+  "rated": "R",
+  "released": "05 Nov 1999",
+  "runtime": "138 min",
+  "genre": "Drama, Romance, War",
+  "director": "Ang Lee",
+  "writer": "Daniel Woodrell, James Schamus",
+  "actors": "Tobey Maguire, Skeet Ulrich, Jewel",
+  "plot": "Jake Roedel and Jack Bull Chiles are friends in Missouri when the Civil War starts. Women and Blacks have few rights. Jack Bull's dad is killed by Union soldiers, so the young men join the Bushwhackers, irregulars loyal to the South. One is a Black man, Daniel Holt, beholden to the man who bought his freedom. They skirmish then spend long hours hiding. Sue Lee, a young widow, brings them food. She and Jack Bull become lovers, and when he's grievously wounded, Jake escorts her south to a safe farm. The Bushwhackers, led by men set on revenge, make a raid into Kansas. At nineteen, Jake is ill at ease with war. As his friends die one after another, he must decide where honor lies.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "6.7",
+  "imdb_votes": "15,230",
+  "box_office": "$635,096",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "65%",
+      "link": "https://www.rottentomatoes.com/search?search=Ride+with+the+Devil"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Ride+with+the+Devil/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134154/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134154/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22267"
+  }
+}

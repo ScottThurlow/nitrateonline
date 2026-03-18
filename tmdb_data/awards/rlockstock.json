@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Won 1 BAFTA Award13 wins & 9 nominations total",
+  "rated": "R",
+  "released": "28 Aug 1998",
+  "runtime": "107 min",
+  "genre": "Comedy, Crime",
+  "director": "Guy Ritchie",
+  "writer": "Guy Ritchie",
+  "actors": "Jason Flemyng, Dexter Fletcher, Nick Moran",
+  "plot": "Four Jack-the-lads find themselves heavily - seriously heavily - in debt to an East End hard man and his enforcers after a crooked card game. Overhearing their neighbours in the next flat plotting to hold up a group of out-of-their-depth drug growers, our heroes decide to stitch up the robbers in turn. In a way the confusion really starts when a pair of antique double-barrelled shotguns go missing in a completely different scam.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "67",
+  "imdb_rating": "8.1",
+  "imdb_votes": "647,308",
+  "box_office": "$3,753,929",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "75%",
+      "link": "https://www.rottentomatoes.com/search?search=Lock%2C+Stock+and+Two+Smoking+Barrels"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Lock%2C+Stock+and+Two+Smoking+Barrels/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120735/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120735/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/100"
+  }
+}

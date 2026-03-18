@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "22 Mar 2002",
+  "runtime": "93 min",
+  "genre": "Comedy",
+  "director": "Wallace Wolodarsky",
+  "writer": "Joe Jarvis, Greg Coolidge",
+  "actors": "Barry Watson, Harland Williams, Michael Rosenbaum",
+  "plot": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
+  "language": "English, Indonesian",
+  "country": "United States",
+  "metascore": "25",
+  "imdb_rating": "5.5",
+  "imdb_votes": "16,849",
+  "box_office": "$10,200,032",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "12%",
+      "link": "https://www.rottentomatoes.com/search?search=Sorority+Boys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "25/100",
+      "link": "https://www.metacritic.com/search/Sorority+Boys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0279781/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0279781/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6020"
+  }
+}

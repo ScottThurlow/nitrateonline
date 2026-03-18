@@ -1,0 +1,219 @@
+{
+  "tmdb_id": 65,
+  "title": "8 Mile",
+  "original_title": "8 Mile",
+  "release_date": "2002-11-08",
+  "runtime": 111,
+  "tagline": "Every moment is another chance.",
+  "overview": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mikona Productions",
+      "country": "DE"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Curtis Hanson"
+  ],
+  "writers": [
+    {
+      "name": "Scott Silver",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Jimmy Iovine",
+      "job": "Producer"
+    },
+    {
+      "name": "Curtis Hanson",
+      "job": "Producer"
+    },
+    {
+      "name": "Gregory Goodman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jim Whitaker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Rosenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Carol Fenelon",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eminem",
+      "character": "Jimmy",
+      "order": 0
+    },
+    {
+      "name": "Kim Basinger",
+      "character": "Stephanie",
+      "order": 1
+    },
+    {
+      "name": "Mekhi Phifer",
+      "character": "Future",
+      "order": 2
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Alex",
+      "order": 3
+    },
+    {
+      "name": "Evan Jones",
+      "character": "Cheddar Bob",
+      "order": 4
+    },
+    {
+      "name": "Omar Benson Miller",
+      "character": "Sol George",
+      "order": 5
+    },
+    {
+      "name": "De'Angelo Wilson",
+      "character": "DJ IZ",
+      "order": 6
+    },
+    {
+      "name": "Eugene Byrd",
+      "character": "Wink",
+      "order": 7
+    },
+    {
+      "name": "Taryn Manning",
+      "character": "Janeane",
+      "order": 8
+    },
+    {
+      "name": "Larry Hudson",
+      "character": "Bouncer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+  "backdrop_path": "/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+  "budget": 41000000,
+  "revenue": 242875078,
+  "vote_average": 7.14,
+  "vote_count": 7724,
+  "imdb_id": "tt0298203",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-15"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

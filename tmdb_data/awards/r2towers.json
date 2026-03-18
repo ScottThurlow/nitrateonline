@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 2 Oscars. 132 wins & 139 nominations total",
+  "rated": "PG-13",
+  "released": "18 Dec 2002",
+  "runtime": "179 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen",
+  "plot": "The continuing quest of Frodo and the Fellowship to destroy the One Ring. Frodo and Sam discover they are being followed by the mysterious Gollum. Aragorn, the Elf archer Legolas, and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell.",
+  "language": "English, Sindarin, Old English",
+  "country": "New Zealand, United States",
+  "metascore": "87",
+  "imdb_rating": "8.8",
+  "imdb_votes": "1,939,468",
+  "box_office": "$350,104,956",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Lord+of+the+Rings%3A+The+Two+Towers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "87/100",
+      "link": "https://www.metacritic.com/search/The+Lord+of+the+Rings%3A+The+Two+Towers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0167261/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0167261/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/121"
+  }
+}

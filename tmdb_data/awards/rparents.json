@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 1 Oscar. 7 wins & 15 nominations total",
+  "rated": "PG-13",
+  "released": "06 Oct 2000",
+  "runtime": "108 min",
+  "genre": "Comedy, Romance",
+  "director": "Jay Roach",
+  "writer": "Greg Glienna, Mary Ruth Clarke, Jim Herzfeld",
+  "actors": "Ben Stiller, Robert De Niro, Teri Polo",
+  "plot": "A Jewish male nurse plans to ask his live-in girl friend to marry him. However, he learns that her strict father expects to be asked for his daughter's hand before she can accept. Thus begins the visit from Hell as the two travel to meet Mom and Dad, who turns out to be former CIA with a lie detector in the basement. Coincidentally, a sister also has announced her wedding to a young doctor. Of course everything that can go wrong, does, including the disappearance of Dad's beloved Himalayan cat, Jinxie.",
+  "language": "English, Thai, Spanish, Hebrew, French",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.0",
+  "imdb_votes": "375,598",
+  "box_office": "$166,244,045",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Meet+the+Parents"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Meet+the+Parents/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0212338/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0212338/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1597"
+  }
+}

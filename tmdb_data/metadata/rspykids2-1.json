@@ -1,0 +1,186 @@
+{
+  "tmdb_id": 9488,
+  "title": "Spy Kids 2: The Island of Lost Dreams",
+  "original_title": "Spy Kids 2: The Island of Lost Dreams",
+  "release_date": "2002-08-07",
+  "runtime": 100,
+  "tagline": "Little spies. Big attitudes.",
+  "overview": "Exploring the further adventures of Carmen and Juni Cortez, who have now joined the family spy business as Level 2 OSS agents. Their new mission is to save the world from a mad scientist living on a volcanic island populated by an imaginative menagerie of creatures. On this bizarre island, none of the Cortez's gadgets work and they must rely on their wits--and each other--to survive and save the day.",
+  "genres": [
+    "Family",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Troublemaker Studios",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "writers": [
+    {
+      "name": "Robert Rodriguez",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Elizabeth Avellan",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alexa PenaVega",
+      "character": "Carmen Cortez",
+      "order": 0
+    },
+    {
+      "name": "Daryl Sabara",
+      "character": "Juni Cortez",
+      "order": 1
+    },
+    {
+      "name": "Antonio Banderas",
+      "character": "Gregorio Cortez",
+      "order": 2
+    },
+    {
+      "name": "Carla Gugino",
+      "character": "Ingrid Cortez",
+      "order": 3
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Romero",
+      "order": 4
+    },
+    {
+      "name": "Mike Judge",
+      "character": "Donnagon",
+      "order": 5
+    },
+    {
+      "name": "Danny Trejo",
+      "character": "Machete",
+      "order": 6
+    },
+    {
+      "name": "Cheech Marin",
+      "character": "Felix Gumm",
+      "order": 7
+    },
+    {
+      "name": "Matt O'Leary",
+      "character": "Gary Giggles",
+      "order": 8
+    },
+    {
+      "name": "Emily Osment",
+      "character": "Gerti Giggles",
+      "order": 9
+    }
+  ],
+  "poster_path": "/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg",
+  "backdrop_path": "/5rKa5UKXnTdLsgY0mJbjAEQX3gB.jpg",
+  "budget": 38000000,
+  "revenue": 119723358,
+  "vote_average": 5.654,
+  "vote_count": 2318,
+  "imdb_id": "tt0287717",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IL",
+      "rating": "7+"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

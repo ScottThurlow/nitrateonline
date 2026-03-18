@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 17 nominations total",
+  "rated": "PG-13",
+  "released": "13 Sep 2002",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama",
+  "director": "Tim Story",
+  "writer": "Mark Brown, Don D. Scott, Marshall Todd",
+  "actors": "Ice Cube, Cedric The Entertainer, Eve",
+  "plot": "A day in the life of a barbershop on the south side of Chicago. Calvin, who inherited the struggling business from his deceased father, views the shop as nothing but a burden and waste of his time. After selling the shop to a local loan shark, Calvin slowly begins to see his father's vision and legacy and struggles with the notion that he just sold it out. The barbershop is filled with characters who share their stories, jokes, trials and tribulations. In the shop we find Eddie, an old barber with strong opinions and no customers. Jimmy is a highly educated barber with a superiority complex who can't stand Isaac, the new, white barber who just wants a shot at cutting some hair. Ricky is an ex-con with two strikes against him and is desperately trying to stay straight. Terri is a hard-edged woman who can't seem to leave her two-timing boyfriend. And lastly there's Dinka, a fellow barber who is madly in love with Terri but doesn't get the time of day.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "66",
+  "imdb_rating": "6.3",
+  "imdb_votes": "35,426",
+  "box_office": "$75,782,105",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=Barbershop"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Barbershop/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0303714/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0303714/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10611"
+  }
+}

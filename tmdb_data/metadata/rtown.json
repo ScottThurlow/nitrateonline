@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 24113,
+  "title": "Town & Country",
+  "original_title": "Town & Country",
+  "release_date": "2001-04-27",
+  "runtime": 104,
+  "tagline": "There's no such thing as a small affair.",
+  "overview": "Porter Stoddard is a well-known New York architect who is at a crossroads... a nexus where twists and turns lead to myriad missteps, some with his wife Ellie, others with longtime friends Mona and her husband Griffin. Deciding which direction to take often leads to unexpected encounters with hilarious consequences.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Simon Fields Productions",
+      "country": ""
+    },
+    {
+      "name": "Longfellow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "FR Productions",
+      "country": ""
+    },
+    {
+      "name": "Sidney Kimmel Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Chelsom"
+  ],
+  "writers": [
+    {
+      "name": "Buck Henry",
+      "job": "Writer"
+    },
+    {
+      "name": "Michael Laughlin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Simon Fields",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew S. Karsch",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred Roos",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynn Harris",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sidney Kimmel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cyrus Yavneh",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Warren Beatty",
+      "character": "Porter Stoddard",
+      "order": 0
+    },
+    {
+      "name": "Diane Keaton",
+      "character": "Ellie Stoddard",
+      "order": 1
+    },
+    {
+      "name": "Goldie Hawn",
+      "character": "Mona Morris",
+      "order": 2
+    },
+    {
+      "name": "Garry Shandling",
+      "character": "Griffin Morris",
+      "order": 3
+    },
+    {
+      "name": "Andie MacDowell",
+      "character": "Eugenie Clayborne",
+      "order": 4
+    },
+    {
+      "name": "Jenna Elfman",
+      "character": "Auburn",
+      "order": 5
+    },
+    {
+      "name": "Nastassja Kinski",
+      "character": "Alex",
+      "order": 6
+    },
+    {
+      "name": "Charlton Heston",
+      "character": "Mr. Clayborne",
+      "order": 7
+    },
+    {
+      "name": "Marian Seldes",
+      "character": "Eugenie's Mother",
+      "order": 8
+    },
+    {
+      "name": "Josh Hartnett",
+      "character": "Tom Stoddard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4ckfJA1zqdXG7ttBqGZ2A91YHQs.jpg",
+  "backdrop_path": "/hmKS6mItxewMUUgYMFl3M1fWJfB.jpg",
+  "budget": 90000000,
+  "revenue": 10372291,
+  "vote_average": 4.45,
+  "vote_count": 80,
+  "imdb_id": "tt0141907",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,206 @@
+{
+  "tmdb_id": 10625,
+  "title": "Mean Girls",
+  "original_title": "Mean Girls",
+  "release_date": "2004-04-30",
+  "runtime": 97,
+  "tagline": "Watch your back.",
+  "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Swahili",
+    "English",
+    "German",
+    "Vietnamese"
+  ],
+  "production_companies": [
+    {
+      "name": "Broadway Video",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "M.G. Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Waters"
+  ],
+  "writers": [
+    {
+      "name": "Tina Fey",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rosalind Wiseman",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lorne Michaels",
+      "job": "Producer"
+    },
+    {
+      "name": "Jill Messick",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lindsay Lohan",
+      "character": "Cady Heron",
+      "order": 0
+    },
+    {
+      "name": "Rachel McAdams",
+      "character": "Regina George",
+      "order": 1
+    },
+    {
+      "name": "Lizzy Caplan",
+      "character": "Janis Ian",
+      "order": 2
+    },
+    {
+      "name": "Lacey Chabert",
+      "character": "Gretchen Wieners",
+      "order": 3
+    },
+    {
+      "name": "Amanda Seyfried",
+      "character": "Karen Smith",
+      "order": 4
+    },
+    {
+      "name": "Daniel Franzese",
+      "character": "Damian",
+      "order": 5
+    },
+    {
+      "name": "Jonathan Bennett",
+      "character": "Aaron Samuels",
+      "order": 6
+    },
+    {
+      "name": "Rajiv Surendra",
+      "character": "Kevin Gnapoor",
+      "order": 7
+    },
+    {
+      "name": "Tina Fey",
+      "character": "Ms. Norbury",
+      "order": 8
+    },
+    {
+      "name": "Tim Meadows",
+      "character": "Mr. Duvall",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+  "backdrop_path": "/6DqzZaTAzFrT53JtRt3MLKs0Y9i.jpg",
+  "budget": 17000000,
+  "revenue": 130195052,
+  "vote_average": 7.2,
+  "vote_count": 9346,
+  "imdb_id": "tt0377092",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12A"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

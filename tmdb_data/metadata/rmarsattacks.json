@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 75,
+  "title": "Mars Attacks!",
+  "original_title": "Mars Attacks!",
+  "release_date": "1996-12-13",
+  "runtime": 106,
+  "tagline": "Nice planet. We'll take it!",
+  "overview": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Tim Burton Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tim Burton"
+  ],
+  "writers": [
+    {
+      "name": "Jonathan Gems",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tim Burton",
+      "job": "Producer"
+    },
+    {
+      "name": "Larry Franco",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jack Nicholson",
+      "character": "President Dale / Art Land",
+      "order": 0
+    },
+    {
+      "name": "Glenn Close",
+      "character": "Marsha Dale",
+      "order": 1
+    },
+    {
+      "name": "Annette Bening",
+      "character": "Barbara Land",
+      "order": 2
+    },
+    {
+      "name": "Pierce Brosnan",
+      "character": "Donald Kessler",
+      "order": 3
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Rude Gambler",
+      "order": 4
+    },
+    {
+      "name": "Martin Short",
+      "character": "Jerry Ross",
+      "order": 5
+    },
+    {
+      "name": "Sarah Jessica Parker",
+      "character": "Nathalie Lake",
+      "order": 6
+    },
+    {
+      "name": "Michael J. Fox",
+      "character": "Jason Stone",
+      "order": 7
+    },
+    {
+      "name": "Rod Steiger",
+      "character": "General Decker",
+      "order": 8
+    },
+    {
+      "name": "Tom Jones",
+      "character": "Tom Jones",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
+  "backdrop_path": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+  "budget": 70000000,
+  "revenue": 101371017,
+  "vote_average": 6.418,
+  "vote_count": 5805,
+  "imdb_id": "tt0116996",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

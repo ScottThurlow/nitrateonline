@@ -1,0 +1,129 @@
+{
+  "tmdb_id": 44412,
+  "title": "Company Man",
+  "original_title": "Company Man",
+  "release_date": "2000-03-09",
+  "runtime": 86,
+  "tagline": "International intelligence just got dumber.",
+  "overview": "In the 1960's, a school teacher pretends to be a CIA spy to get his nagging wife off his back. He helps a Russian ballet dancer defect and is then sent to Cuba to locate \"Agent X\" for the CIA.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Film Foundry Partners",
+      "country": "GB"
+    },
+    {
+      "name": "GreeneStreet Films",
+      "country": "US"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Wind Dancer Productions",
+      "country": ""
+    },
+    {
+      "name": "SKE Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Peter Askin",
+    "Douglas McGrath"
+  ],
+  "writers": [
+    {
+      "name": "Douglas McGrath",
+      "job": "Writer"
+    },
+    {
+      "name": "Peter Askin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Guy East",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Leed",
+      "job": "Producer"
+    },
+    {
+      "name": "John Penotti",
+      "job": "Producer"
+    },
+    {
+      "name": "James W. Skotchdopole",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Douglas McGrath",
+      "character": "Alan Quimp",
+      "order": 0
+    },
+    {
+      "name": "John Turturro",
+      "character": "Crocker Johnson",
+      "order": 1
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "General Batista",
+      "order": 2
+    },
+    {
+      "name": "Sigourney Weaver",
+      "character": "Daisy Quimp",
+      "order": 3
+    },
+    {
+      "name": "Anthony LaPaglia",
+      "character": "Fidel Castro",
+      "order": 4
+    },
+    {
+      "name": "Jeffrey Jones",
+      "character": "Senator Biggs",
+      "order": 5
+    },
+    {
+      "name": "Paul Guilfoyle",
+      "character": "Officer Hickle",
+      "order": 6
+    },
+    {
+      "name": "Denis Leary",
+      "character": "Officer Fry",
+      "order": 7
+    },
+    {
+      "name": "Ryan Phillippe",
+      "character": "Petrov",
+      "order": 8
+    },
+    {
+      "name": "Terry Beaver",
+      "character": "Mr. Judge",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qtHajQHigcU44j5DEgOdLbQev8u.jpg",
+  "backdrop_path": "/q100wrlBjRAWXaIqLo548htjvia.jpg",
+  "budget": 16000000,
+  "revenue": 146193,
+  "vote_average": 5.0,
+  "vote_count": 36,
+  "imdb_id": "tt0177650",
+  "status": "Released"
+}

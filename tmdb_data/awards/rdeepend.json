@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 wins & 20 nominations total",
+  "rated": "R",
+  "released": "31 Aug 2001",
+  "runtime": "101 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Scott McGehee, David Siegel",
+  "writer": "Elisabeth Sanxay Holding, Scott McGehee, David Siegel",
+  "actors": "Tilda Swinton, Goran Visnjic, Jonathan Tucker",
+  "plot": "With her husband perpetually away at work, a mother raises her children virtually alone. Her teenage son is testing the waters of the adult world, and early one morning she wakes to find the dead body of his gay lover on the beach of their rural lakeside home. What would you do? What is rational and what do you do to protect your child? How far do you go and when do you stop?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "78",
+  "imdb_rating": "6.5",
+  "imdb_votes": "12,495",
+  "box_office": "$8,823,109",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Deep+End"
+    },
+    {
+      "source": "Metacritic",
+      "value": "78/100",
+      "link": "https://www.metacritic.com/search/The+Deep+End/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250323/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250323/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24936"
+  }
+}

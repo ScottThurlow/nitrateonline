@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "11 Feb 2000",
+  "runtime": "90 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Higuchinsky",
+  "writer": "Junji Ito, Kengo Kaji, Takao Nitta",
+  "actors": "Eriko Hatsune, Fhi Fan, Hinako Saeki",
+  "plot": "In a small town in Japan, Kirie comes upon her boyfriend's father silently videotaping a snail. He seems unaware of her presence and she thinks no more of it. Later, the mans obsession with spirals becomes more and more bizarre, ending in his suicide in a washing machine which turn his body into a spiral. Soon other inhabitants become possesed with different forms of spirals, one student seems to be mutating into a snail, another's hair becomes strangely medusa-like. The entire town becomes possesed.",
+  "language": "Japanese",
+  "country": "Japan",
+  "metascore": "62",
+  "imdb_rating": "6.1",
+  "imdb_votes": "9,616",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=Spiral"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Spiral/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0244870/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0244870/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11366"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 1832,
+  "title": "Dogma",
+  "original_title": "Dogma",
+  "release_date": "1999-10-04",
+  "runtime": 130,
+  "tagline": "Get touched by an angel.",
+  "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "View Askew Productions",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Lionsgate",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Smith"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Smith",
+      "job": "Writer"
+    },
+    {
+      "name": "Gabbie Asher",
+      "job": "Script Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Mosier",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Gordon",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "character": "Bartleby",
+      "order": 0
+    },
+    {
+      "name": "Matt Damon",
+      "character": "Loki",
+      "order": 1
+    },
+    {
+      "name": "Linda Fiorentino",
+      "character": "Bethany",
+      "order": 2
+    },
+    {
+      "name": "Salma Hayek Pinault",
+      "character": "Serendipity",
+      "order": 3
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Azrael",
+      "order": 4
+    },
+    {
+      "name": "Jason Mewes",
+      "character": "Jay",
+      "order": 5
+    },
+    {
+      "name": "Alan Rickman",
+      "character": "Metatron",
+      "order": 6
+    },
+    {
+      "name": "Chris Rock",
+      "character": "Rufus",
+      "order": 7
+    },
+    {
+      "name": "George Carlin",
+      "character": "Cardinal Glick",
+      "order": 8
+    },
+    {
+      "name": "Bud Cort",
+      "character": "John Doe Jersey",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg",
+  "backdrop_path": "/nljRWpjfmqh5qYxcblFoazU5eYY.jpg",
+  "budget": 10000000,
+  "revenue": 33535478,
+  "vote_average": 6.924,
+  "vote_count": 2776,
+  "imdb_id": "tt0120655",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

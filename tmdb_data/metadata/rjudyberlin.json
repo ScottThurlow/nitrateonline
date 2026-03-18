@@ -1,0 +1,93 @@
+{
+  "tmdb_id": 36048,
+  "title": "Judy Berlin",
+  "original_title": "Judy Berlin",
+  "release_date": "1999-10-06",
+  "runtime": 93,
+  "tagline": "",
+  "overview": "Judy Berlin is an aspiring actress whose idealism is at odds with her small suburban community, where a solar eclipse induces town inhabitants (a lonely housewife, a frustrated schoolteacher, and a struggling filmmaker) to search for solace and understanding in themselves and one another.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Eric Mendelsohn"
+  ],
+  "writers": [
+    {
+      "name": "Eric Mendelsohn",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rocco Caruso",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Barbara Barrie",
+      "character": "Sue Berlin",
+      "order": 0
+    },
+    {
+      "name": "Bob Dishy",
+      "character": "Arthur Gold",
+      "order": 1
+    },
+    {
+      "name": "Edie Falco",
+      "character": "Judy Berlin",
+      "order": 2
+    },
+    {
+      "name": "Carlin Glynn",
+      "character": "Maddie",
+      "order": 3
+    },
+    {
+      "name": "Aaron Harnick",
+      "character": "David Gold",
+      "order": 4
+    },
+    {
+      "name": "Bette Henritze",
+      "character": "Dolores Engler",
+      "order": 5
+    },
+    {
+      "name": "Madeline Kahn",
+      "character": "Alice Gold",
+      "order": 6
+    },
+    {
+      "name": "Julie Kavner",
+      "character": "Marie",
+      "order": 7
+    },
+    {
+      "name": "Anne Meara",
+      "character": "Bea",
+      "order": 8
+    },
+    {
+      "name": "Novella Nelson",
+      "character": "Carol",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vBLRFlrUOvYM2dlDQx5oaZSTVnl.jpg",
+  "backdrop_path": "/5myaHfLX6blhGrjWNCVMQZB4NpE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.6,
+  "vote_count": 13,
+  "imdb_id": "tt0181618",
+  "certifications": [],
+  "status": "Released"
+}

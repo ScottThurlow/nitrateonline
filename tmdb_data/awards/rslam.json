@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "4 wins & 3 nominations",
+  "rated": "R",
+  "released": "07 Oct 1998",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Marc Levin",
+  "writer": "Marc Levin, Richard Stratton, Sonja Sohn",
+  "actors": "Saul Williams, Sonja Sohn, Bonz Malone",
+  "plot": "Slam tells the story of Ray Joshua, an original, gifted young MC trapped in a war-zone housing project known as Dodge City. Unable to find a job, Ray copes with the despair and poverty of his neighborhood by using his wits and verbal talent.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.0",
+  "imdb_votes": "2,490",
+  "box_office": "$1,009,819",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Slam"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Slam/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139615/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139615/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/37532"
+  }
+}

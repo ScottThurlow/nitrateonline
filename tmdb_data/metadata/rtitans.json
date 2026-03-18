@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 10637,
+  "title": "Remember the Titans",
+  "original_title": "Remember the Titans",
+  "release_date": "2000-09-29",
+  "runtime": 113,
+  "tagline": "History is written by the winners.",
+  "overview": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone – tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    },
+    {
+      "name": "Run It Up Productions Inc.",
+      "country": ""
+    },
+    {
+      "name": "Technical Black Films",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Boaz Yakin"
+  ],
+  "writers": [
+    {
+      "name": "Gregory Allen Howard",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Flynn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chad Oman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denzel Washington",
+      "character": "Coach Herman Boone",
+      "order": 0
+    },
+    {
+      "name": "Will Patton",
+      "character": "Coach Bill Yoast",
+      "order": 1
+    },
+    {
+      "name": "Wood Harris",
+      "character": "Julius Campbell",
+      "order": 2
+    },
+    {
+      "name": "Ryan Hurst",
+      "character": "Gerry Bertier",
+      "order": 3
+    },
+    {
+      "name": "Donald Faison",
+      "character": "Petey Jones",
+      "order": 4
+    },
+    {
+      "name": "Craig Kirkwood",
+      "character": "Jerry 'Rev' Harris",
+      "order": 5
+    },
+    {
+      "name": "Ethan Suplee",
+      "character": "Louie Lastik",
+      "order": 6
+    },
+    {
+      "name": "Kip Pardue",
+      "character": "Ronnie 'Sunshine' Bass",
+      "order": 7
+    },
+    {
+      "name": "Hayden Panettiere",
+      "character": "Sheryl Yoast",
+      "order": 8
+    },
+    {
+      "name": "Nicole Ari Parker",
+      "character": "Carol Boone",
+      "order": 9
+    }
+  ],
+  "poster_path": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+  "backdrop_path": "/7lwo8VLHD8Va49DKuszabpm41V9.jpg",
+  "budget": 30000000,
+  "revenue": 136700000,
+  "vote_average": 7.639,
+  "vote_count": 2884,
+  "imdb_id": "tt0210945",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IL",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

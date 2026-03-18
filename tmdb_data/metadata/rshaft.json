@@ -1,0 +1,219 @@
+{
+  "tmdb_id": 479,
+  "title": "Shaft",
+  "original_title": "Shaft",
+  "release_date": "2000-06-15",
+  "runtime": 99,
+  "tagline": "Still the man, any questions?",
+  "overview": "New York police detective John Shaft arrests Walter Wade Jr. for a racially motivated slaying. But the only eyewitness disappears, and Wade jumps bail for Switzerland. Two years later Wade returns to face trial, confident his money and influence will get him acquitted -- especially since he's paid a drug kingpin to kill the witness.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    },
+    {
+      "name": "New Deal Productions",
+      "country": "US"
+    },
+    {
+      "name": "Shaft Productions",
+      "country": "US"
+    },
+    {
+      "name": "Munich Film Partners & Company (MFP) GHS Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Singleton"
+  ],
+  "writers": [
+    {
+      "name": "John Singleton",
+      "job": "Story"
+    },
+    {
+      "name": "Shane Salerno",
+      "job": "Story"
+    },
+    {
+      "name": "Shane Salerno",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Singleton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Richard Price",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ernest Tidyman",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Roybal",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "John Singleton",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Hall",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Nicolaides",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samuel L. Jackson",
+      "character": "John Shaft",
+      "order": 0
+    },
+    {
+      "name": "Vanessa Williams",
+      "character": "Carmen Vasquez",
+      "order": 1
+    },
+    {
+      "name": "Jeffrey Wright",
+      "character": "Peoples Hernandez",
+      "order": 2
+    },
+    {
+      "name": "Christian Bale",
+      "character": "Walter Wade, Jr.",
+      "order": 3
+    },
+    {
+      "name": "Busta Rhymes",
+      "character": "Rasaan",
+      "order": 4
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "Jack Roselli",
+      "order": 5
+    },
+    {
+      "name": "Toni Collette",
+      "character": "Diane Palmieri",
+      "order": 6
+    },
+    {
+      "name": "Richard Roundtree",
+      "character": "\"Uncle\" John Shaft",
+      "order": 7
+    },
+    {
+      "name": "Ruben Santiago-Hudson",
+      "character": "Jimmy Groves",
+      "order": 8
+    },
+    {
+      "name": "Josef Sommer",
+      "character": "Curt Flemming",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5ncvnNPaN73cOqD4muE413sSOyY.jpg",
+  "backdrop_path": "/sblTwYXpm6Nrl4qewg3526lBdlK.jpg",
+  "budget": 46000000,
+  "revenue": 107626125,
+  "vote_average": 6.01,
+  "vote_count": 1412,
+  "imdb_id": "tt0162650",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

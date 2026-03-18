@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 39780,
+  "title": "Oscar and Lucinda",
+  "original_title": "Oscar and Lucinda",
+  "release_date": "1997-12-31",
+  "runtime": 132,
+  "tagline": "They dared to play the game of love, faith, and chance.",
+  "overview": "After a childhood of abuse by his evangelistic father, misfit Oscar Hopkins becomes an Anglican minister and develops a divine obsession with gambling. Lucinda Leplastrier is a rich Australian heiress shopping in London for materials for her newly acquired glass factory back home. Deciding to travel to Australia as a missionary, Oscar meets Lucinda aboard ship, and a mutual obsession blossoms. They make a wager that will alter each of their destinies.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Dalton Films",
+      "country": ""
+    },
+    {
+      "name": "Australian Film Finance Corporation",
+      "country": "AU"
+    }
+  ],
+  "director": [
+    "Gillian Armstrong"
+  ],
+  "writers": [
+    {
+      "name": "Peter Carey",
+      "job": "Novel"
+    },
+    {
+      "name": "Laura Jones",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robin Dalton",
+      "job": "Producer"
+    },
+    {
+      "name": "Timothy White",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ralph Fiennes",
+      "character": "Oscar Hopkins",
+      "order": 0
+    },
+    {
+      "name": "Cate Blanchett",
+      "character": "Lucinda Leplastrier",
+      "order": 1
+    },
+    {
+      "name": "Ciarán Hinds",
+      "character": "Reverend Dennis Hasset",
+      "order": 2
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Hugh Stratton",
+      "order": 3
+    },
+    {
+      "name": "Richard Roxburgh",
+      "character": "Mr. Jeffries",
+      "order": 4
+    },
+    {
+      "name": "Christian Manon",
+      "character": "Mr. Tomasetti",
+      "order": 5
+    },
+    {
+      "name": "Clive Russell",
+      "character": "Theophilus",
+      "order": 6
+    },
+    {
+      "name": "Barnaby Kay",
+      "character": "Wardley-Fish",
+      "order": 7
+    },
+    {
+      "name": "Linda Bassett",
+      "character": "Betty Stratton",
+      "order": 8
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Narrator (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9naDX3u4hsRM8jZ0Y7k5e2HAKmY.jpg",
+  "backdrop_path": "/fhvByI4cAMm2gSKgNm2GcTG2c01.jpg",
+  "budget": 16000000,
+  "revenue": 1897404,
+  "vote_average": 6.313,
+  "vote_count": 79,
+  "imdb_id": "tt0119843",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

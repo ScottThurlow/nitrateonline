@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 16148,
+  "title": "Zero Effect",
+  "original_title": "Zero Effect",
+  "release_date": "1998-01-30",
+  "runtime": 116,
+  "tagline": "The world's most private detective.",
+  "overview": "Daryl Zero is a private investigator and—along with his assistant, Steve Arlo—he solves impossible crimes and puzzles. Although Daryl's a master investigator, he doesn't know what to do with himself when he's not working; he has no social skills, writes bad music and drives Steve crazy.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Manifest Film Company",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jake Kasdan"
+  ],
+  "writers": [
+    {
+      "name": "Jake Kasdan",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Naomi Despres",
+      "job": "Producer"
+    },
+    {
+      "name": "Lisa Henson",
+      "job": "Producer"
+    },
+    {
+      "name": "Janet Yang",
+      "job": "Producer"
+    },
+    {
+      "name": "Jake Kasdan",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Behnke",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bill Pullman",
+      "character": "Daryl Zero",
+      "order": 0
+    },
+    {
+      "name": "Ben Stiller",
+      "character": "Steve Arlo",
+      "order": 1
+    },
+    {
+      "name": "Ryan O'Neal",
+      "character": "Gregory Stark",
+      "order": 2
+    },
+    {
+      "name": "Kim Dickens",
+      "character": "Gloria Sullivan",
+      "order": 3
+    },
+    {
+      "name": "Angela Featherstone",
+      "character": "Jess",
+      "order": 4
+    },
+    {
+      "name": "Hugh Ross",
+      "character": "Bill",
+      "order": 5
+    },
+    {
+      "name": "Sarah DeVincentis",
+      "character": "Daisy",
+      "order": 6
+    },
+    {
+      "name": "Matt O'Toole",
+      "character": "Kragan Vincent",
+      "order": 7
+    },
+    {
+      "name": "Michele Mariana",
+      "character": "Maid",
+      "order": 8
+    },
+    {
+      "name": "Robert Katims",
+      "character": "Gerald Auerbach",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yFALvZFwqnh5ESarNoVd5KtizCo.jpg",
+  "backdrop_path": "/y6cZEbWNtdUD6TW7H2M2ShuZcAs.jpg",
+  "budget": 5000000,
+  "revenue": 1980338,
+  "vote_average": 6.2,
+  "vote_count": 197,
+  "imdb_id": "tt0120906",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

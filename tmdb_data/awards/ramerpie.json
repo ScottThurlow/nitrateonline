@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "9 wins & 14 nominations total",
+  "rated": "R",
+  "released": "09 Jul 1999",
+  "runtime": "95 min",
+  "genre": "Comedy",
+  "director": "Paul Weitz",
+  "writer": "Adam Herz",
+  "actors": "Jason Biggs, Chris Klein, Thomas Ian Nicholas",
+  "plot": "Jim, Oz, Finch and Kevin are four friends who make a pact that before they graduate they will all lose their virginity. The hard job now is how to reach that goal by prom night. Whilst Oz begins singing to grab attention and Kevin tries to persuade his girlfriend, Finch tries any easy route of spreading rumors and Jim fails miserably. Whether it is being caught on top of a pie or on the Internet, Jim always ends up with his trusty sex advice from his father. Will they achieve their goal of getting laid by prom night? Or will they learn something much different?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "58",
+  "imdb_rating": "7.0",
+  "imdb_votes": "463,213",
+  "box_office": "$102,561,004",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=American+Pie"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/American+Pie/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0163651/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0163651/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2105"
+  }
+}

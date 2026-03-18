@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "4 wins & 5 nominations",
+  "rated": "N/A",
+  "released": "26 Feb 1999",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Roger Michell",
+  "writer": "Mary Costello, Anne Devlin",
+  "actors": "Julie Walters, Ciarán Hinds, Nuala O'Neill",
+  "plot": "Set in Belfast, Northern Ireland in 1972, the politically naïve Bernie McPhelimy (Dame Julie Walters) is trying to bring up a normal family in less than normal surroundings. Her best friend is accidentally shot and killed by the I.R.A., and her neighbors are constantly raided by the army. In this climate of fear and confusion, she dares to stand up and condemn the killings. Criticizing both factions equally, her public call for a ceasefire is interpreted by many as an attack against the I.R.A., and as her fledgling peace movement takes momentum, she and her family are placed in the frontline.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "73",
+  "imdb_rating": "6.4",
+  "imdb_votes": "463",
+  "box_office": "$65,793",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Titanic+Town"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Titanic+Town/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0127319/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0127319/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/83036"
+  }
+}

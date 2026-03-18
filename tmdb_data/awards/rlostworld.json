@@ -1,0 +1,30 @@
+{
+  "year": "1998",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "06 Nov 1999",
+  "runtime": "97 min",
+  "genre": "Adventure, Sci-Fi",
+  "director": "Bob Keen",
+  "writer": "Arthur Conan Doyle, Vince Di Clemente, Jean LaFleur",
+  "actors": "Patrick Bergin, Jayne Heitmeyer, Julian Casey",
+  "plot": "A scientist discovers dinosaurs on a remote plateau in Mongolia.",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "N/A",
+  "imdb_rating": "3.8",
+  "imdb_votes": "940",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.8/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0138581/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0138581/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2997"
+  }
+}

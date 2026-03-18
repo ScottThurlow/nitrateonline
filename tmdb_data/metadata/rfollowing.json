@@ -1,0 +1,98 @@
+{
+  "tmdb_id": 407215,
+  "title": "The Following Statement Came To Us",
+  "original_title": "جاءنا البيان التالي",
+  "release_date": "2001-06-12",
+  "runtime": 126,
+  "tagline": "",
+  "overview": "Nader saif eldeen and Afet elsherbiny are two competing Egyptians newspaper reporters who expose the truth but the Channel Manager rejects that for fear of government.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Arabic"
+  ],
+  "production_companies": [
+    {
+      "name": "M. H. R Films",
+      "country": "EG"
+    }
+  ],
+  "director": [
+    "Saeed Hamed"
+  ],
+  "writers": [
+    {
+      "name": "Mohamed Amin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mohamed Hassan Ramzy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mohamed Henedi",
+      "character": "Nader Saif al-Din",
+      "order": 0
+    },
+    {
+      "name": "Hanan Turk",
+      "character": "Effat al-Sherbini",
+      "order": 1
+    },
+    {
+      "name": "Lotfy Labib",
+      "character": "Fakhri Kamil",
+      "order": 2
+    },
+    {
+      "name": "Nehal Anbar",
+      "character": "Kamilia",
+      "order": 3
+    },
+    {
+      "name": "Ahmed Khalil",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "Mohamed Youssef",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Talaat Zakaria",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Salwa Mohamed Ali",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Amira Naif",
+      "character": "",
+      "order": 8
+    },
+    {
+      "name": "Hassan Al Deeb",
+      "character": "",
+      "order": 9
+    }
+  ],
+  "poster_path": "/f6rA8VqfTlo8USJr0vnWwI83g6D.jpg",
+  "backdrop_path": "/kADj6EdJdhZzkqh91iy6w0rSFIb.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.516,
+  "vote_count": 32,
+  "imdb_id": "tt0419765",
+  "certifications": [],
+  "status": "Released"
+}

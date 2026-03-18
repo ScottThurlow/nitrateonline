@@ -1,0 +1,153 @@
+{
+  "tmdb_id": 13908,
+  "title": "The Master of Disguise",
+  "original_title": "The Master of Disguise",
+  "release_date": "2002-08-02",
+  "runtime": 80,
+  "tagline": "1,000 faces...and not a single clue.",
+  "overview": "After the patriarch of the Disguisey family is kidnapped by Devlin Bowman in an attempt to steal the most precious treasures from around the world, Italian waiter Pistachio Disguisey utilizes his supernatural ability to disguise himself in an attempt to stop him.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Happy Madison Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Perry Andelin Blake"
+  ],
+  "writers": [
+    {
+      "name": "Dana Carvey",
+      "job": "Writer"
+    },
+    {
+      "name": "Harris Goldberg",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry Bernardi",
+      "job": "Producer"
+    },
+    {
+      "name": "Sidney Ganis",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Garner",
+      "job": "Producer"
+    },
+    {
+      "name": "Jack Giarraputo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alex Siskin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dana Carvey",
+      "character": "Pistachio Disguisey",
+      "order": 0
+    },
+    {
+      "name": "Brent Spiner",
+      "character": "Devlin Bowman",
+      "order": 1
+    },
+    {
+      "name": "Jennifer Esposito",
+      "character": "Jennifer Baker",
+      "order": 2
+    },
+    {
+      "name": "Harold Gould",
+      "character": "Grandfather Disguisey",
+      "order": 3
+    },
+    {
+      "name": "James Brolin",
+      "character": "Fabbrizio Disguisey",
+      "order": 4
+    },
+    {
+      "name": "Austin Wolff",
+      "character": "Barney Baker",
+      "order": 5
+    },
+    {
+      "name": "Edie McClurg",
+      "character": "Mother Disguisey",
+      "order": 6
+    },
+    {
+      "name": "Maria Canals-Barrera",
+      "character": "Sophia (as Maria Canals)",
+      "order": 7
+    },
+    {
+      "name": "Robert Machray",
+      "character": "Texas Man",
+      "order": 8
+    },
+    {
+      "name": "Michael Bailey Smith",
+      "character": "Henchman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/JFKuKJeHHFFVb0ubpkPIXmkIOg.jpg",
+  "backdrop_path": "/fRATaeFqwsaHJuC7ERsGzoYs2lU.jpg",
+  "budget": 16000000,
+  "revenue": 43400000,
+  "vote_average": 3.974,
+  "vote_count": 326,
+  "imdb_id": "tt0295427",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 12658,
+  "title": "Someone Like You...",
+  "original_title": "Someone Like You...",
+  "release_date": "2001-03-30",
+  "runtime": 97,
+  "tagline": "The story about the one that got away and the one she never saw coming.",
+  "overview": "Jane Goodale has everything going for her. She's a producer on a popular daytime talk show, and is in a hot romance with the show's dashing executive producer Ray. But when the relationship goes terribly awry, Jane begins an extensive study of the male animal, including her womanizing roommate Eddie. Jane puts her studies and romantic misadventure to use as a pseudonymous sex columnist -- and becomes a sensation.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Lynda Obst Productions",
+      "country": "US"
+    },
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tony Goldwyn"
+  ],
+  "writers": [
+    {
+      "name": "Elizabeth Chandler",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Laura Zigman",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jim Chory",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynda Obst",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ashley Judd",
+      "character": "Jane Goodale",
+      "order": 0
+    },
+    {
+      "name": "Greg Kinnear",
+      "character": "Ray Brown",
+      "order": 1
+    },
+    {
+      "name": "Hugh Jackman",
+      "character": "Eddie Alden",
+      "order": 2
+    },
+    {
+      "name": "Marisa Tomei",
+      "character": "Liz",
+      "order": 3
+    },
+    {
+      "name": "Ellen Barkin",
+      "character": "Diane Roberts",
+      "order": 4
+    },
+    {
+      "name": "Catherine Dent",
+      "character": "Alice, Jane's Sister",
+      "order": 5
+    },
+    {
+      "name": "Laura Regan",
+      "character": "Evelyn",
+      "order": 6
+    },
+    {
+      "name": "Peter Friedman",
+      "character": "Stephen, Alice's Husband",
+      "order": 7
+    },
+    {
+      "name": "Mireille Enos",
+      "character": "Yoga Instructor #1",
+      "order": 8
+    },
+    {
+      "name": "Colleen Camp",
+      "character": "Realtor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9cMkJSl2TI4xe8lKNFduinafKpe.jpg",
+  "backdrop_path": "/fRNNl8iLc4mpWy1C2JDIJdJxHQZ.jpg",
+  "budget": 23000000,
+  "revenue": 38689940,
+  "vote_average": 5.947,
+  "vote_count": 405,
+  "imdb_id": "tt0244970",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

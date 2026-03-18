@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 5 Oscars. 39 wins & 75 nominations total",
+  "rated": "R",
+  "released": "08 Feb 2002",
+  "runtime": "131 min",
+  "genre": "Crime, Drama",
+  "director": "Todd Field",
+  "writer": "Andre Dubus, Robert Festinger, Todd Field",
+  "actors": "Tom Wilkinson, Sissy Spacek, Nick Stahl",
+  "plot": "In idyllic Mid-Coast Maine, the Fowler family's only son Frank comes home from his freshman year at college for summer vacation. His mother Ruth, the school choir director, is unhappy with Frank dating soon-to-be divorced mother Natalie who is several years his senior, but Frank's father Matt, the town doctor, doesn't see a problem. While Frank considers holding off his future for Natalie, her jilted husband causes them all problems until an unthinkable tragedy shakes the community to its very core.",
+  "language": "English, Serbo-Croatian",
+  "country": "United States",
+  "metascore": "86",
+  "imdb_rating": "7.4",
+  "imdb_votes": "43,952",
+  "box_office": "$35,930,604",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "93%",
+      "link": "https://www.rottentomatoes.com/search?search=In+the+Bedroom"
+    },
+    {
+      "source": "Metacritic",
+      "value": "86/100",
+      "link": "https://www.metacritic.com/search/In+the+Bedroom/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0247425/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0247425/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1999"
+  }
+}

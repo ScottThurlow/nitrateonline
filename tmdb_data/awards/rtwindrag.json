@@ -1,0 +1,40 @@
+{
+  "year": "1992",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "09 Apr 1999",
+  "runtime": "104 min",
+  "genre": "Action, Comedy",
+  "director": "Ringo Lam, Hark Tsui",
+  "writer": "Barry Wong, Hark Tsui, Tung Cho 'Joe' Cheung",
+  "actors": "Jackie Chan, Maggie Cheung, Teddy Robin Kwan",
+  "plot": "On holidays in Hong Kong, Mrs Ma gives birth to identical twins. A criminal in the same hospital attempts to escape, taking one of the twins hostage. The child is lost during the confusion, and Mr and Mrs Ma return to New York with one child. Years later, John Ma is a famous conductor and pianist, unaware that his twin brother \"Boomer\" is a mechanic/race car driver/bodyguard in Hong Kong. When John travels to Hong Kong to give a concert, the twins get caught up in each other's business, about which they are anything but experts.",
+  "language": "Cantonese",
+  "country": "Hong Kong",
+  "metascore": "54",
+  "imdb_rating": "6.4",
+  "imdb_votes": "13,492",
+  "box_office": "$8,359,717",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=Twin+Dragons"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/Twin+Dragons/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0105399/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0105399/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18764"
+  }
+}

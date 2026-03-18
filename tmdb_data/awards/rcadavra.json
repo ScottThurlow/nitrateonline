@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 nominations",
+  "rated": "PG",
+  "released": "01 Sep 2001",
+  "runtime": "90 min",
+  "genre": "Comedy, Horror, Sci-Fi",
+  "director": "Larry Blamire",
+  "writer": "Larry Blamire",
+  "actors": "Larry Blamire, Fay Masterson, Brian Howe",
+  "plot": "A dedicated scientist, aided by his clueless wife, rolls up his shirt sleeves and tries to save the world from a radioactive monster, curious space aliens, an evil scientist and a crabby skeleton in this send-up of the best of the B movies of the 1950's.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "45",
+  "imdb_rating": "6.8",
+  "imdb_votes": "5,167",
+  "box_office": "$143,121",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Lost+Skeleton+of+Cadavra"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/The+Lost+Skeleton+of+Cadavra/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0307109/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0307109/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18841"
+  }
+}

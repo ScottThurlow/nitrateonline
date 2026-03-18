@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 24664,
+  "title": "Bamboozled",
+  "original_title": "Bamboozled",
+  "release_date": "2000-10-06",
+  "runtime": 136,
+  "tagline": "A Spectacular Film by Mr. Spike Lee",
+  "overview": "Frustrated when network brass reject his sitcom idea, producer Pierre Delacroix pitches the worst idea he can think of in an attempt to get fired: a 21st century minstrel show. The network not only airs it, but it becomes a smash hit.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "40 Acres and a Mule Filmworks",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Spike Lee"
+  ],
+  "writers": [
+    {
+      "name": "Spike Lee",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jon Kilik",
+      "job": "Producer"
+    },
+    {
+      "name": "Spike Lee",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Damon Wayans",
+      "character": "Pierre Delacroix",
+      "order": 0
+    },
+    {
+      "name": "Savion Glover",
+      "character": "Manray / Mantan",
+      "order": 1
+    },
+    {
+      "name": "Jada Pinkett Smith",
+      "character": "Sloan Hopkins",
+      "order": 2
+    },
+    {
+      "name": "Tommy Davidson",
+      "character": "Womack / Sleep'n Eat",
+      "order": 3
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "Thomas Dunwitty",
+      "order": 4
+    },
+    {
+      "name": "Thomas Jefferson Byrd",
+      "character": "Honeycutt",
+      "order": 5
+    },
+    {
+      "name": "Paul Mooney",
+      "character": "Junebug",
+      "order": 6
+    },
+    {
+      "name": "Gillian White",
+      "character": "Verna",
+      "order": 7
+    },
+    {
+      "name": "Susan Batson",
+      "character": "Orchid Dothan",
+      "order": 8
+    },
+    {
+      "name": "Yasiin Bey",
+      "character": "Mau Mau: Big Blak Afrika",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oAg1mUUxdWJNLa6t1gctbQhXHVN.jpg",
+  "backdrop_path": "/p7e7OZwPxDQTYE4l4EFuYkCloLU.jpg",
+  "budget": 10000000,
+  "revenue": 2463650,
+  "vote_average": 6.2,
+  "vote_count": 152,
+  "imdb_id": "tt0215545",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

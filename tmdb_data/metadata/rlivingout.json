@@ -1,0 +1,124 @@
+{
+  "tmdb_id": 46889,
+  "title": "Living Out Loud",
+  "original_title": "Living Out Loud",
+  "release_date": "1998-10-30",
+  "runtime": 100,
+  "tagline": "",
+  "overview": "Judith Moore is suddenly single after discovering her husband of fifteen years, a successful doctor, has been having an affair with a younger woman. Judith stews, plans, plots and fantasizes, but she can't decide what to do with her life until she goes out to a night club to see singer Liz Bailey, who is full of advice on life and love. While out on the town, Judith is suddenly kissed by a total stranger, which opens her eyes to new possibilities... which is when she notices Pat, the elevator operator in her building.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Richard LaGravenese"
+  ],
+  "writers": [
+    {
+      "name": "Richard LaGravenese",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Holly Hunter",
+      "character": "Judith Moore",
+      "order": 0
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Pat Francato",
+      "order": 1
+    },
+    {
+      "name": "Queen Latifah",
+      "character": "Liz Bailey",
+      "order": 2
+    },
+    {
+      "name": "Martin Donovan",
+      "character": "Robert Nelson",
+      "order": 3
+    },
+    {
+      "name": "Richard Schiff",
+      "character": "Phil Francato",
+      "order": 4
+    },
+    {
+      "name": "Elias Koteas",
+      "character": "The Kisser",
+      "order": 5
+    },
+    {
+      "name": "Suzanne Shepherd",
+      "character": "Mary",
+      "order": 6
+    },
+    {
+      "name": "Mariangela Pino",
+      "character": "Donna",
+      "order": 7
+    },
+    {
+      "name": "Eddie Cibrian",
+      "character": "The Masseur",
+      "order": 8
+    },
+    {
+      "name": "Clark Anderson",
+      "character": "Gary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uegG68vP7leUDQbG8fP4ihgTo0i.jpg",
+  "backdrop_path": "/V75E91kcObuMD83BcQXUE5IKei.jpg",
+  "budget": 12000000,
+  "revenue": 12902790,
+  "vote_average": 5.843,
+  "vote_count": 51,
+  "imdb_id": "tt0120722",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

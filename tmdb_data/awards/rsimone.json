@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "23 Aug 2002",
+  "runtime": "117 min",
+  "genre": "Comedy, Drama, Sci-Fi",
+  "director": "Andrew Niccol",
+  "writer": "Andrew Niccol",
+  "actors": "Al Pacino, Catherine Keener, Rachel Roberts",
+  "plot": "The career of a disillusioned producer, who is desperate for a hit, is endangered when his star walks off the film set. Forced to think fast, the producer decides to digitally create an actress \"Simone\" to sub for the star--the first totally believable synthetic actress. The \"actress\" becomes an overnight sensation, with a major singing career as well, and everyone thinks she's a real person. However, as Simone's fame skyrockets, he cannot bear to admit his fraud to himself or the world.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "6.1",
+  "imdb_votes": "63,655",
+  "box_office": "$9,688,676",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "50%",
+      "link": "https://www.rottentomatoes.com/search?search=S1m0ne"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/S1m0ne/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0258153/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0258153/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9296"
+  }
+}

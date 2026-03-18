@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "04 Dec 1998",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Fantasy",
+  "director": "Raúl Ruiz",
+  "writer": "Duane Poole",
+  "actors": "Anne Parillaud, William Baldwin, Lisanne Falk",
+  "plot": "In New York, Jessie Markham is raped by a man with mask and now she is recovering from the rape and an attempted suicide. However her mind is confused and she lives two realities. In one life, she is a newly wed with Brian spending honeymoon in Jamaica with the guest Paula snooping around the couple. In the other life, she is a hit woman that executes men and Laura is her client that wants Brian killed. Which life is real?",
+  "language": "English",
+  "country": "United States, Canada, United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "4.8",
+  "imdb_votes": "757",
+  "box_office": "$106,116",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=Shattered+Image"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0143874/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0143874/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/125762"
+  }
+}

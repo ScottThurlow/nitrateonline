@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 4599,
+  "title": "Raising Helen",
+  "original_title": "Raising Helen",
+  "release_date": "2004-05-27",
+  "runtime": 119,
+  "tagline": "Her uptown life gets turned inside out!",
+  "overview": "Helen Harris has a glamorous, big-city life working for one of New York's hottest modeling agencies. But suddenly her free-spirited life gets turned upside down when she must chose between the life she's always loved, and the new loves of her life!",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mandeville Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Garry Marshall"
+  ],
+  "writers": [
+    {
+      "name": "Jack Amiel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Begler",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Patrick J. Clifton",
+      "job": "Story"
+    },
+    {
+      "name": "Beth Rigazio",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ashok Amritraj",
+      "job": "Producer"
+    },
+    {
+      "name": "David Hoberman",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Iscovich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ellen H. Schwartz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Hudson",
+      "character": "Helen Harris",
+      "order": 0
+    },
+    {
+      "name": "John Corbett",
+      "character": "Pastor Dan Parker",
+      "order": 1
+    },
+    {
+      "name": "Joan Cusack",
+      "character": "Jenny Portman",
+      "order": 2
+    },
+    {
+      "name": "Hayden Panettiere",
+      "character": "Audrey Davis",
+      "order": 3
+    },
+    {
+      "name": "Spencer Breslin",
+      "character": "Henry Davis",
+      "order": 4
+    },
+    {
+      "name": "Abigail Breslin",
+      "character": "Sarah Davis",
+      "order": 5
+    },
+    {
+      "name": "Helen Mirren",
+      "character": "Dominique Courier",
+      "order": 6
+    },
+    {
+      "name": "Felicity Huffman",
+      "character": "Lindsay Davis",
+      "order": 7
+    },
+    {
+      "name": "Kevin Kilner",
+      "character": "Ed Portman",
+      "order": 8
+    },
+    {
+      "name": "Sakina Jaffrey",
+      "character": "Nilma Prasad",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ubZin4oGXYp6hCn3WU6nrBre62y.jpg",
+  "backdrop_path": "/lw5YfNEZaxWo7Q7sn76bLUlyAhi.jpg",
+  "budget": 50000000,
+  "revenue": 49700000,
+  "vote_average": 6.1,
+  "vote_count": 684,
+  "imdb_id": "tt0350028",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

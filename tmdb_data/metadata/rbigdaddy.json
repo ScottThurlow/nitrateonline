@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 9032,
+  "title": "Big Daddy",
+  "original_title": "Big Daddy",
+  "release_date": "1999-06-25",
+  "runtime": 93,
+  "tagline": "Nature called. Look who answered.",
+  "overview": "A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned. Now he's forced to grow up while navigating the challenges of fatherhood.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Out of the Blue... Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Jack Giarraputo Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dennis Dugan"
+  ],
+  "writers": [
+    {
+      "name": "Tim Herlihy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Franks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Franks",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sidney Ganis",
+      "job": "Producer"
+    },
+    {
+      "name": "Jack Giarraputo",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph M. Caracciolo Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Simonds",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Adam Sandler",
+      "character": "Sonny Koufax",
+      "order": 0
+    },
+    {
+      "name": "Cole Sprouse",
+      "character": "Julian McGrath",
+      "order": 1
+    },
+    {
+      "name": "Dylan Sprouse",
+      "character": "Julian McGrath",
+      "order": 2
+    },
+    {
+      "name": "Joey Lauren Adams",
+      "character": "Layla Maloney",
+      "order": 3
+    },
+    {
+      "name": "Josh Mostel",
+      "character": "Arthur Brooks",
+      "order": 4
+    },
+    {
+      "name": "Leslie Mann",
+      "character": "Corinne Maloney",
+      "order": 5
+    },
+    {
+      "name": "Jon Stewart",
+      "character": "Kevin Gerrity",
+      "order": 6
+    },
+    {
+      "name": "Allen Covert",
+      "character": "Phil D'Amato",
+      "order": 7
+    },
+    {
+      "name": "Jonathan Loughran",
+      "character": "Mike",
+      "order": 8
+    },
+    {
+      "name": "Peter Dante",
+      "character": "Tommy Grayton",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cqFnFg6YS8urJT6YC95IDkn0VHz.jpg",
+  "backdrop_path": "/4TPTiEzAeItjXxWaPZtpnMyexXN.jpg",
+  "budget": 34200000,
+  "revenue": 234801895,
+  "vote_average": 6.491,
+  "vote_count": 3485,
+  "imdb_id": "tt0142342",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

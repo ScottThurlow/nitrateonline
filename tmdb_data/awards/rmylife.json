@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "26 Aug 1999",
+  "runtime": "98 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Hugh Hudson",
+  "writer": "Denis Forman, Simon Donald",
+  "actors": "Colin Firth, Rosemary Harris, Irène Jacob",
+  "plot": "Memoir of the lives of a family growing up on a post World War I British estate headed up by a strong disciplinarian, her daughter, her inventor husband, their ten year old son and his older sister. Through the household comes a number of suitors hoping to impress the young woman, including an aviator. When the elder woman's son shows up at the estate with his French fiancé, everything gets thrown into turmoil. The young boy takes a sudden interest in her sexual allure and his father is disturbed by his own non-Victorian feelings.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.5",
+  "imdb_votes": "3,214",
+  "box_office": "$635,620",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=My+Life+So+Far"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120899/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120899/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/48958"
+  }
+}

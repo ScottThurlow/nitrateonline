@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Won 11 Oscars. 215 wins & 124 nominations total",
+  "rated": "PG-13",
+  "released": "17 Dec 2003",
+  "runtime": "201 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+  "plot": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Frodo and Sam reach Mordor in their quest to destroy the One Ring, while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+  "language": "English, Quenya, Old English, Sindarin",
+  "country": "New Zealand, United States",
+  "metascore": "94",
+  "imdb_rating": "9.0",
+  "imdb_votes": "2,142,025",
+  "box_office": "$386,975,644",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "9.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Lord+of+the+Rings%3A+The+Return+of+the+King"
+    },
+    {
+      "source": "Metacritic",
+      "value": "94/100",
+      "link": "https://www.metacritic.com/search/The+Lord+of+the+Rings%3A+The+Return+of+the+King/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0167260/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0167260/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/122"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 15186,
+  "title": "Full Frontal",
+  "original_title": "Full Frontal",
+  "release_date": "2002-08-02",
+  "runtime": 112,
+  "tagline": "Everybody needs a release.",
+  "overview": "A day in the life of a group of men and women in Hollywood, in the hours leading up to a friend's birthday party.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Populist Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Soderbergh"
+  ],
+  "writers": [
+    {
+      "name": "Coleman Hough",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gregory Jacobs",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Kramer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Duchovny",
+      "character": "Gus",
+      "order": 0
+    },
+    {
+      "name": "Nicky Katt",
+      "character": "Hitler",
+      "order": 1
+    },
+    {
+      "name": "Catherine Keener",
+      "character": "Lee",
+      "order": 2
+    },
+    {
+      "name": "Mary McCormack",
+      "character": "Linda",
+      "order": 3
+    },
+    {
+      "name": "David Hyde Pierce",
+      "character": "Carl",
+      "order": 4
+    },
+    {
+      "name": "Julia Roberts",
+      "character": "Francesca / Catherine",
+      "order": 5
+    },
+    {
+      "name": "Blair Underwood",
+      "character": "Calvin / Nicholas",
+      "order": 6
+    },
+    {
+      "name": "Enrico Colantoni",
+      "character": "Arty / Ed",
+      "order": 7
+    },
+    {
+      "name": "Erika Alexander",
+      "character": "Lucy",
+      "order": 8
+    },
+    {
+      "name": "Tracy Vilar",
+      "character": "Heather",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7FeoefSYELryi04Kz74xYTayPZk.jpg",
+  "backdrop_path": "/m2OFAqnsisznOp3gwwxofk3OQPN.jpg",
+  "budget": 2000000,
+  "revenue": 3438804,
+  "vote_average": 4.585,
+  "vote_count": 110,
+  "imdb_id": "tt0290212",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

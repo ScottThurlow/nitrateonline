@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "12 wins & 13 nominations",
+  "rated": "R",
+  "released": "06 Dec 2002",
+  "runtime": "115 min",
+  "genre": "Drama, War",
+  "director": "Atom Egoyan",
+  "writer": "Atom Egoyan",
+  "actors": "Charles Aznavour, Brent Carver, Eric Bogosian",
+  "plot": "People tell stories. In Toronto, an art historian lectures on Arshile Gorky (1904 -1948), an Armenian painter who lived through the Armenian Genocide in the Ottoman Empire. A director invites the historian to help him include Gorky's story in a film about the genocide and Turkish assault on the town of Van. The historian's family is under stress: her son is in love with his step-sister, who blames the historian for the death of her father. The daughter wants to revisit her father's death and change that story. An aging customs agent tells his son about his long interview with the historian's son, who has returned from Turkey with canisters of film. All the stories connect.",
+  "language": "English, Armenian, French, German, Turkish",
+  "country": "Canada, France",
+  "metascore": "62",
+  "imdb_rating": "6.3",
+  "imdb_votes": "14,848",
+  "box_office": "$1,555,959",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "55%",
+      "link": "https://www.rottentomatoes.com/search?search=Ararat"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Ararat/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0273435/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0273435/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16351"
+  }
+}

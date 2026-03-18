@@ -1,0 +1,117 @@
+{
+  "tmdb_id": 524,
+  "title": "Casino",
+  "original_title": "Casino",
+  "release_date": "1995-11-22",
+  "runtime": 179,
+  "tagline": "No one stays at the top forever.",
+  "overview": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Syalis DA",
+      "country": "FR"
+    },
+    {
+      "name": "Légende Films",
+      "country": "FR"
+    },
+    {
+      "name": "Cappa/De Fina Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Martin Scorsese"
+  ],
+  "writers": [
+    {
+      "name": "Nicholas Pileggi",
+      "job": "Novel"
+    },
+    {
+      "name": "Nicholas Pileggi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Martin Scorsese",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barbara De Fina",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "character": "Sam \"Ace\" Rothstein",
+      "order": 0
+    },
+    {
+      "name": "Sharon Stone",
+      "character": "Ginger McKenna",
+      "order": 1
+    },
+    {
+      "name": "Joe Pesci",
+      "character": "Nicky Santoro",
+      "order": 2
+    },
+    {
+      "name": "James Woods",
+      "character": "Lester Diamond",
+      "order": 3
+    },
+    {
+      "name": "Don Rickles",
+      "character": "Billy Sherbert",
+      "order": 4
+    },
+    {
+      "name": "Alan King",
+      "character": "Andy Stone",
+      "order": 5
+    },
+    {
+      "name": "Kevin Pollak",
+      "character": "Phillip Green",
+      "order": 6
+    },
+    {
+      "name": "L.Q. Jones",
+      "character": "Pat Webb",
+      "order": 7
+    },
+    {
+      "name": "Dick Smothers",
+      "character": "Senator",
+      "order": 8
+    },
+    {
+      "name": "Frank Vincent",
+      "character": "Frank Marino",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+  "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+  "budget": 50000000,
+  "revenue": 116112375,
+  "vote_average": 7.991,
+  "vote_count": 6423,
+  "imdb_id": "tt0112641",
+  "status": "Released"
+}

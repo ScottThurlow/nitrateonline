@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "23 Feb 2001",
+  "runtime": "93 min",
+  "genre": "Drama",
+  "director": "Adam Brooks",
+  "writer": "Jennifer Egan, Adam Brooks",
+  "actors": "Jordana Brewster, Cameron Diaz, Christopher Eccleston",
+  "plot": "In 1975, at age 18, Phoebe is unhappy. When she was about 10, her father died of leukemia; her older sister Faith became a political radical, left for Europe with her boyfriend Wolf, and commits suicide in Portugal a year later. Phoebe, who has romantic ideas about both her father and Faith, decides to trace Faith's steps, find Wolf, and learn what really happened. She finds Wolf in Paris, and he tells her stories of Faith's radical activities, including joining the Red Army in Berlin. Phoebe has visions of her sister, seems close to madness, and may be headed for suicide herself. It's the trip to the cliffs of Portugal that will make the difference: breakthrough or breakdown?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "40",
+  "imdb_rating": "5.5",
+  "imdb_votes": "3,213",
+  "box_office": "$77,578",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Invisible+Circus"
+    },
+    {
+      "source": "Metacritic",
+      "value": "40/100",
+      "link": "https://www.metacritic.com/search/The+Invisible+Circus/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0178642/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0178642/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18856"
+  }
+}

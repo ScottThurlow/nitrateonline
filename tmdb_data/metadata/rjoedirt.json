@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 10956,
+  "title": "Joe Dirt",
+  "original_title": "Joe Dirt",
+  "release_date": "2001-04-10",
+  "runtime": 91,
+  "tagline": "He came. He cleaned. He conquered.",
+  "overview": "Joe Dirt is a janitor with a mullet hairdo, acid-washed jeans and a dream to find the parents that he lost at the Grand Canyon when he was a belligerent, trailer park-raised eight-year-old. Now, blasting Van Halen in his jacked-up economy car, the irrepressibly optimistic Joe hits the road alone in search of his folks.",
+  "genres": [
+    "Mystery",
+    "Adventure",
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Happy Madison Productions",
+      "country": "US"
+    },
+    {
+      "name": "RSC Media",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Dennie Gordon"
+  ],
+  "writers": [
+    {
+      "name": "David Spade",
+      "job": "Writer"
+    },
+    {
+      "name": "Fred Wolf",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Simonds",
+      "job": "Producer"
+    },
+    {
+      "name": "Jack Giarraputo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Spade",
+      "character": "Joe Dirt",
+      "order": 0
+    },
+    {
+      "name": "Dennis Miller",
+      "character": "Zander Kelly",
+      "order": 1
+    },
+    {
+      "name": "Brittany Daniel",
+      "character": "Brandy",
+      "order": 2
+    },
+    {
+      "name": "Kid Rock",
+      "character": "Robby",
+      "order": 3
+    },
+    {
+      "name": "Adam Beach",
+      "character": "Kicking Wing",
+      "order": 4
+    },
+    {
+      "name": "Erik Per Sullivan",
+      "character": "Little Joe Dirt",
+      "order": 5
+    },
+    {
+      "name": "Jaime Pressly",
+      "character": "Jill",
+      "order": 6
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Clem",
+      "order": 7
+    },
+    {
+      "name": "Megan Taylor Harvey",
+      "character": "Joe's Little Sister",
+      "order": 8
+    },
+    {
+      "name": "Caroline Aaron",
+      "character": "Joe's Mom",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yykDEtHk6DMtZK8EaxW88YyQ054.jpg",
+  "backdrop_path": "/1g04YnMJQvWFRKOXJlUeZe1rOxF.jpg",
+  "budget": 17700000,
+  "revenue": 30987695,
+  "vote_average": 5.6,
+  "vote_count": 789,
+  "imdb_id": "tt0245686",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

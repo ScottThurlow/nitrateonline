@@ -1,0 +1,240 @@
+{
+  "tmdb_id": 12233,
+  "title": "Oliver & Company",
+  "original_title": "Oliver & Company",
+  "release_date": "1988-11-18",
+  "runtime": 74,
+  "tagline": "The first Disney movie with attitude.",
+  "overview": "A young cat named Oliver is left alone in a kitten box, while all the other young cats have new owners. A big dog named Dodger shows him how to get food and later Oliver lives with him, his owner Fagin and Fagin's other dogs Tito, Rita, Einstein, and Francis. Fagin has one problem besides being broke he owes a nasty man named Sykes a lot of money. If he can't pay it back he's in big trouble. While Oliver runs into a little girl named Jenny who becomes his new owner which he is happy with and later Sykes sees Jenny as the key for him to get his money.",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Silver Screen Partners III",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Scribner"
+  ],
+  "writers": [
+    {
+      "name": "Charles Dickens",
+      "job": "Novel"
+    },
+    {
+      "name": "Tim Disney",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Mangold",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Cox",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Roger Allers",
+      "job": "Story"
+    },
+    {
+      "name": "Peter Young",
+      "job": "Story"
+    },
+    {
+      "name": "Michael Cedeno",
+      "job": "Story"
+    },
+    {
+      "name": "David Michener",
+      "job": "Story"
+    },
+    {
+      "name": "Mike Gabriel",
+      "job": "Story"
+    },
+    {
+      "name": "Gary Trousdale",
+      "job": "Story"
+    },
+    {
+      "name": "Chris Bailey",
+      "job": "Story"
+    },
+    {
+      "name": "Kirk Wise",
+      "job": "Story"
+    },
+    {
+      "name": "Kevin Lima",
+      "job": "Story"
+    },
+    {
+      "name": "Vance Gerry",
+      "job": "Story"
+    },
+    {
+      "name": "Joe Ranft",
+      "job": "Story"
+    },
+    {
+      "name": "Leon Joosen",
+      "job": "Story"
+    },
+    {
+      "name": "Jim Mitchell",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kathleen Gavin",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joey Lawrence",
+      "character": "Oliver (voice)",
+      "order": 0
+    },
+    {
+      "name": "Billy Joel",
+      "character": "Dodger (voice)",
+      "order": 1
+    },
+    {
+      "name": "Cheech Marin",
+      "character": "Tito (voice)",
+      "order": 2
+    },
+    {
+      "name": "Richard Mulligan",
+      "character": "Einstein (voice)",
+      "order": 3
+    },
+    {
+      "name": "Roscoe Lee Browne",
+      "character": "Francis (voice)",
+      "order": 4
+    },
+    {
+      "name": "Sheryl Lee Ralph",
+      "character": "Rita (voice)",
+      "order": 5
+    },
+    {
+      "name": "Bette Midler",
+      "character": "Georgette (voice)",
+      "order": 6
+    },
+    {
+      "name": "Dom DeLuise",
+      "character": "Fagin (voice)",
+      "order": 7
+    },
+    {
+      "name": "Taurean Blacque",
+      "character": "Roscoe (voice)",
+      "order": 8
+    },
+    {
+      "name": "Carl Weintraub",
+      "character": "Desoto (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/x8XqdiZ0Oxu5iXF9SiFub9Lae8J.jpg",
+  "backdrop_path": "/k18aKqDPrbTsijtN9jRpnTHxQks.jpg",
+  "budget": 31000000,
+  "revenue": 121000000,
+  "vote_average": 6.7,
+  "vote_count": 1677,
+  "imdb_id": "tt0095776",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "UR"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "7 år"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

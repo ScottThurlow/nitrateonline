@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "8 wins & 12 nominations total",
+  "rated": "R",
+  "released": "10 Jul 1998",
+  "runtime": "84 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Darren Aronofsky",
+  "writer": "Darren Aronofsky, Sean Gullette, Eric Watson",
+  "actors": "Sean Gullette, Mark Margolis, Ben Shenkman",
+  "plot": "In NYC's Chinatown, recluse math genius Max (Sean Gullette) believes \"everything can be understood in terms of numbers,\" and he looks for a pattern in the system as he suffers headaches, plays Go with former teacher Sol Robeson (Mark Margolis), and fools around with an advanced computer system he's built in his apartment. Both a Wall Street company and a Hasidic sect take an interest in his work, but he's distracted by blackout attacks, hallucinations, and paranoid delusions..",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "metascore": "72",
+  "imdb_rating": "7.3",
+  "imdb_votes": "191,675",
+  "box_office": "$3,221,152",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=Pi"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Pi/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0138704/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0138704/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/473"
+  }
+}

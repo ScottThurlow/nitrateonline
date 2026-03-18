@@ -1,0 +1,161 @@
+{
+  "tmdb_id": 8874,
+  "title": "My Best Friend's Wedding",
+  "original_title": "My Best Friend's Wedding",
+  "release_date": "1997-06-19",
+  "runtime": 105,
+  "tagline": "Julianne fell in love with her best friend the day he decided to marry someone else.",
+  "overview": "When she receives word that her longtime platonic pal Michael O'Neal is getting married to debutante Kimberly Wallace, food critic Julianne Potter realizes her true feelings for Michael -- and sets out to sabotage the wedding.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Zucker Brothers Productions",
+      "country": ""
+    },
+    {
+      "name": "Predawn Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "P.J. Hogan"
+  ],
+  "writers": [
+    {
+      "name": "Ronald Bass",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ronald Bass",
+      "job": "Producer"
+    },
+    {
+      "name": "Jerry Zucker",
+      "job": "Producer"
+    },
+    {
+      "name": "Gil Netter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patricia Whitcher",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Roberts",
+      "character": "Julianne Potter",
+      "order": 0
+    },
+    {
+      "name": "Dermot Mulroney",
+      "character": "Michael O'Neal",
+      "order": 1
+    },
+    {
+      "name": "Cameron Diaz",
+      "character": "Kimmy Wallace",
+      "order": 2
+    },
+    {
+      "name": "Rupert Everett",
+      "character": "George Downes",
+      "order": 3
+    },
+    {
+      "name": "Philip Bosco",
+      "character": "Walter Wallace",
+      "order": 4
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "character": "Joe O'Neal",
+      "order": 5
+    },
+    {
+      "name": "Rachel Griffiths",
+      "character": "Samantha Newhouse",
+      "order": 6
+    },
+    {
+      "name": "Carrie Preston",
+      "character": "Amanda Newhouse",
+      "order": 7
+    },
+    {
+      "name": "Susan Sullivan",
+      "character": "Isabelle Wallace",
+      "order": 8
+    },
+    {
+      "name": "Christopher Masterson",
+      "character": "Scotty O'Neal",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+  "backdrop_path": "/naA6aqGYh8D8x2pODBAvFiqwuJh.jpg",
+  "budget": 38000000,
+  "revenue": 299288605,
+  "vote_average": 6.564,
+  "vote_count": 2847,
+  "imdb_id": "tt0119738",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

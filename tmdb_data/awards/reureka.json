@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "4 wins & 2 nominations",
+  "rated": "N/A",
+  "released": "29 Nov 2000",
+  "runtime": "217 min",
+  "genre": "Drama",
+  "director": "Shinji Aoyama",
+  "writer": "Shinji Aoyama",
+  "actors": "Kôji Yakusho, Aoi Miyazaki, Masaru Miyazaki",
+  "plot": "The traumatized survivors of a murderous bus hijacking come together and take a road trip to attempt to overcome their damaged selves. Meanwhile a serial killer is on the loose.",
+  "language": "Japanese",
+  "country": "Japan, France",
+  "metascore": "79",
+  "imdb_rating": "7.7",
+  "imdb_votes": "4,451",
+  "box_office": "$49,388",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Eureka"
+    },
+    {
+      "source": "Metacritic",
+      "value": "79/100",
+      "link": "https://www.metacritic.com/search/Eureka/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0243889/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0243889/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/38047"
+  }
+}

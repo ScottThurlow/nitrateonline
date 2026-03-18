@@ -1,0 +1,201 @@
+{
+  "tmdb_id": 2142,
+  "title": "Cop Land",
+  "original_title": "Cop Land",
+  "release_date": "1997-08-15",
+  "runtime": 104,
+  "tagline": "No One Is Above The Law.",
+  "overview": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Across the River Productions",
+      "country": ""
+    },
+    {
+      "name": "Woods Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Mangold"
+  ],
+  "writers": [
+    {
+      "name": "James Mangold",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cathy Konrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Ezra Swerdlow",
+      "job": "Producer"
+    },
+    {
+      "name": "Cary Woods",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Meryl Poster",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sylvester Stallone",
+      "character": "Sheriff Freddy Heflin",
+      "order": 0
+    },
+    {
+      "name": "Harvey Keitel",
+      "character": "Ray Donlan",
+      "order": 1
+    },
+    {
+      "name": "Ray Liotta",
+      "character": "Gary \"Figgsy\" Figgis",
+      "order": 2
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Lt. Moe Tilden",
+      "order": 3
+    },
+    {
+      "name": "Peter Berg",
+      "character": "Joey Randone",
+      "order": 4
+    },
+    {
+      "name": "Janeane Garofalo",
+      "character": "Deputy Cindy Betts",
+      "order": 5
+    },
+    {
+      "name": "Robert Patrick",
+      "character": "Jack Rucker",
+      "order": 6
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "Murray \"Superboy\" Babitch",
+      "order": 7
+    },
+    {
+      "name": "Annabella Sciorra",
+      "character": "Liz Randone",
+      "order": 8
+    },
+    {
+      "name": "Noah Emmerich",
+      "character": "Deputy Bill Geisler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dyOqXyPCQh8VF0KA5aelBCCQond.jpg",
+  "backdrop_path": "/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
+  "budget": 15000000,
+  "revenue": 63706632,
+  "vote_average": 6.797,
+  "vote_count": 1758,
+  "imdb_id": "tt0118887",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

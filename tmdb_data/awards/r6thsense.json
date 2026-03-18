@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 6 Oscars. 37 wins & 56 nominations total",
+  "rated": "PG-13",
+  "released": "06 Aug 1999",
+  "runtime": "107 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "M. Night Shyamalan",
+  "writer": "M. Night Shyamalan",
+  "actors": "Bruce Willis, Haley Joel Osment, Toni Collette",
+  "plot": "Malcom Crowe (Bruce Willis) is a child psychologist who receives an award on the same night that he is visited by a very unhappy ex-patient. After this encounter, Crowe takes on the task of curing a young boy with the same ills as the ex-patient (Donnie Wahlberg) . This boy \"sees dead people\". Crowe spends a lot of time with the boy much to the dismay of his wife (Olivia Williams). Cole's mom (Toni Collette) is at her wit's end with what to do about her son's increasing problems. Crowe is the boy's only hope.",
+  "language": "English, Latin, Spanish",
+  "country": "United States",
+  "metascore": "64",
+  "imdb_rating": "8.2",
+  "imdb_votes": "1,136,530",
+  "box_office": "$293,506,292",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Sixth+Sense"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/The+Sixth+Sense/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0167404/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0167404/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/745"
+  }
+}

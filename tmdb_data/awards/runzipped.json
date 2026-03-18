@@ -1,0 +1,35 @@
+{
+  "year": "2021",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "26 Oct 2021",
+  "runtime": "59 min",
+  "genre": "Documentary, Comedy",
+  "director": "Ben Turner, Gabe Turner",
+  "writer": "Erika Ehler, Spencer Millman, Steve Parry",
+  "actors": "Saweetie, Joel Kim Booster, Michelle Buteau",
+  "plot": "Rap superstar Saweetie hosts a celebration of sexual health and positivity, with help from expert educators, candid stand-ups and uninhibited puppets.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "3.3",
+  "imdb_votes": "451",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Sex%3A+Unzipped"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt15523050/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt15523050/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/890280"
+  }
+}

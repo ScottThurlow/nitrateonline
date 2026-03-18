@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 9844,
+  "title": "The Opposite of Sex",
+  "original_title": "The Opposite of Sex",
+  "release_date": "1998-05-22",
+  "runtime": 105,
+  "tagline": "You'll laugh, you'll cry, you'll be offended",
+  "overview": "A 16-year-old girl visits her gay half-brother and ends up seducing his boyfriend, thus wreaking havoc on all of their lives.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Rysher Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "David Kirkpatrick Productions",
+      "country": ""
+    },
+    {
+      "name": "Michael Besman Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Don Roos"
+  ],
+  "writers": [
+    {
+      "name": "Don Roos",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Besman",
+      "job": "Producer"
+    },
+    {
+      "name": "David Paul Kirkpatrick",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Lotfi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Danton",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christina Ricci",
+      "character": "Dedee Truitt",
+      "order": 0
+    },
+    {
+      "name": "Martin Donovan",
+      "character": "Bill Truitt",
+      "order": 1
+    },
+    {
+      "name": "Lisa Kudrow",
+      "character": "Lucia DeLury",
+      "order": 2
+    },
+    {
+      "name": "Lyle Lovett",
+      "character": "Carl Tippett",
+      "order": 3
+    },
+    {
+      "name": "Johnny Galecki",
+      "character": "Jason Bock",
+      "order": 4
+    },
+    {
+      "name": "William Lee Scott",
+      "character": "Randy \"One Ball\" Cates",
+      "order": 5
+    },
+    {
+      "name": "Ivan Sergei",
+      "character": "Matt Mateo",
+      "order": 6
+    },
+    {
+      "name": "Megan Blake",
+      "character": "Bobette",
+      "order": 7
+    },
+    {
+      "name": "Colin Ferguson",
+      "character": "Tom DeLury",
+      "order": 8
+    },
+    {
+      "name": "Dan Bucatinsky",
+      "character": "Timothy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/e0rNtvIlcd8c0WChSsVC0W8Bvlf.jpg",
+  "backdrop_path": "/fw4mgfiq01d0SQduEqKjnh3xzbs.jpg",
+  "budget": 5000000,
+  "revenue": 5879254,
+  "vote_average": 6.2,
+  "vote_count": 215,
+  "imdb_id": "tt0120777",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

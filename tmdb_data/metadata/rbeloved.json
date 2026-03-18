@@ -1,0 +1,161 @@
+{
+  "tmdb_id": 39437,
+  "title": "Beloved",
+  "original_title": "Beloved",
+  "release_date": "1998-10-16",
+  "runtime": 172,
+  "tagline": "The past has a life of its own.",
+  "overview": "After Paul D. finds his old slave friend Sethe in Ohio and moves in with her and her daughter Denver, a strange girl comes along by the name of \"Beloved\". Sethe and Denver take her in and then strange things start to happen...",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Horror",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Harpo Films",
+      "country": "US"
+    },
+    {
+      "name": "Clinica Estetico",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Demme"
+  ],
+  "writers": [
+    {
+      "name": "Toni Morrison",
+      "job": "Novel"
+    },
+    {
+      "name": "Adam Brooks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Richard LaGravenese",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Akosua Busia",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Oprah Winfrey",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward Saxon",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Goetzman",
+      "job": "Producer"
+    },
+    {
+      "name": "Kate Forte",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Demme",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Bozman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Oprah Winfrey",
+      "character": "Sethe",
+      "order": 0
+    },
+    {
+      "name": "Danny Glover",
+      "character": "Paul D",
+      "order": 1
+    },
+    {
+      "name": "Kimberly Elise",
+      "character": "Denver",
+      "order": 2
+    },
+    {
+      "name": "Thandiwe Newton",
+      "character": "Beloved",
+      "order": 3
+    },
+    {
+      "name": "LisaGay Hamilton",
+      "character": "Younger Sethe",
+      "order": 4
+    },
+    {
+      "name": "Beah Richards",
+      "character": "Baby Suggs",
+      "order": 5
+    },
+    {
+      "name": "Albert Hall",
+      "character": "Stamp Paid",
+      "order": 6
+    },
+    {
+      "name": "Irma P. Hall",
+      "character": "Ella",
+      "order": 7
+    },
+    {
+      "name": "Carol Jean Lewis",
+      "character": "Janey Wagon",
+      "order": 8
+    },
+    {
+      "name": "Kessia Embry",
+      "character": "Amy Denver",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bLZo9tJijRBbxHAxMNXhs51pvC8.jpg",
+  "backdrop_path": "/5v7vW8fRA70Y02FMB0W8ubCQebc.jpg",
+  "budget": 80000000,
+  "revenue": 22900000,
+  "vote_average": 5.8,
+  "vote_count": 106,
+  "imdb_id": "tt0120603",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

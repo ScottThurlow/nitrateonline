@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 nominations total",
+  "rated": "PG",
+  "released": "12 Feb 1999",
+  "runtime": "94 min",
+  "genre": "Comedy, Family, Sci-Fi",
+  "director": "Donald Petrie",
+  "writer": "John L. Greene, Sherri Stoner, Deanna Oliver",
+  "actors": "Christopher Lloyd, Jeff Daniels, Elizabeth Hurley",
+  "plot": "Life couldn't get much worse for News Producer Tim O'Hara. He humiliates the one he loves, Brace Channing and ends up getting fired by her father. Then, a Martian from Mars arrives in his home. The Martian adopts the name 'Uncle Martin' and becomes friends with Tim, whilst he fixes his ship. Unaware to Martin, Tim actually wants to reveal him to the world, but can he actually do that to his new friend and 'Uncle'?",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "33",
+  "imdb_rating": "5.1",
+  "imdb_votes": "14,969",
+  "box_office": "$36,850,101",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=My+Favorite+Martian"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/My+Favorite+Martian/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120764/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120764/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9849"
+  }
+}

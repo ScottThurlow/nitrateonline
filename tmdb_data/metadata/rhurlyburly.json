@@ -1,0 +1,215 @@
+{
+  "tmdb_id": 24525,
+  "title": "Hurlyburly",
+  "original_title": "Hurlyburly",
+  "release_date": "1998-12-25",
+  "runtime": 122,
+  "tagline": "Hollywood highs and L.A. lows",
+  "overview": "A group of actors and their casting agents try to find a direction in their lives whilst coming to terms with their personal problems and relationship conflicts.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fine Line Features",
+      "country": "US"
+    },
+    {
+      "name": "FilmColony",
+      "country": "US"
+    },
+    {
+      "name": "Storm Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Anthony Drazan"
+  ],
+  "writers": [
+    {
+      "name": "David Rabe",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "David Rabe",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nicholas Paleologos",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Frederick Zollo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Hamburger",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard N. Gladstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Carl Colpaert",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "H. Michael Heuser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Anthony Drazan",
+      "job": "Producer"
+    },
+    {
+      "name": "Lila Yacoub",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Eddie",
+      "order": 0
+    },
+    {
+      "name": "Kevin Spacey",
+      "character": "Mickey",
+      "order": 1
+    },
+    {
+      "name": "Robin Wright",
+      "character": "Darlene",
+      "order": 2
+    },
+    {
+      "name": "Chazz Palminteri",
+      "character": "Phil",
+      "order": 3
+    },
+    {
+      "name": "Garry Shandling",
+      "character": "Artie",
+      "order": 4
+    },
+    {
+      "name": "Anna Paquin",
+      "character": "Donna",
+      "order": 5
+    },
+    {
+      "name": "Meg Ryan",
+      "character": "Bonnie",
+      "order": 6
+    },
+    {
+      "name": "Gianna Palminteri",
+      "character": "Susie",
+      "order": 7
+    },
+    {
+      "name": "David Fabrizio",
+      "character": "Store Manager",
+      "order": 8
+    },
+    {
+      "name": "Kenny Vance",
+      "character": "Singer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wg7GBXBALHQ0tjmyMiwu5gcDss9.jpg",
+  "backdrop_path": "/f587vJ79gzfrpInN3uao8IzRzqQ.jpg",
+  "budget": 4000000,
+  "revenue": 1808004,
+  "vote_average": 5.491,
+  "vote_count": 106,
+  "imdb_id": "tt0119336",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "F"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "K18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 31582,
+  "title": "Flawless",
+  "original_title": "Flawless",
+  "release_date": "1999-11-26",
+  "runtime": 112,
+  "tagline": "Nobody's perfect. Everybody's flawless.",
+  "overview": "An ultraconservative police officer suffers a debilitating stroke and is assigned to a rehabilitative program that includes singing lessons - with the drag queen next door.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Schumacher"
+  ],
+  "writers": [
+    {
+      "name": "Joel Schumacher",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joel Schumacher",
+      "job": "Producer"
+    },
+    {
+      "name": "Neil Machlis",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jane Rosenthal",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "character": "Walt Koontz",
+      "order": 0
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Rusty",
+      "order": 1
+    },
+    {
+      "name": "Barry Miller",
+      "character": "Leonard Wilcox",
+      "order": 2
+    },
+    {
+      "name": "Chris Bauer",
+      "character": "Jacko",
+      "order": 3
+    },
+    {
+      "name": "Skipp Sudduth",
+      "character": "Tommy",
+      "order": 4
+    },
+    {
+      "name": "Wilson Jermaine Heredia",
+      "character": "Cha-Cha",
+      "order": 5
+    },
+    {
+      "name": "Nashom Benjamin",
+      "character": "Amazing Grace",
+      "order": 6
+    },
+    {
+      "name": "Scott Allen Cooper",
+      "character": "Ivana",
+      "order": 7
+    },
+    {
+      "name": "Rory Cochrane",
+      "character": "Pogo",
+      "order": 8
+    },
+    {
+      "name": "Daphne Rubin-Vega",
+      "character": "Tia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fkwkkUnaTmhaWt2OGBRepYr7yB5.jpg",
+  "backdrop_path": "/xyr80oscg6z6C1eVyNSYrsZXxBg.jpg",
+  "budget": 15000000,
+  "revenue": 4488529,
+  "vote_average": 6.192,
+  "vote_count": 292,
+  "imdb_id": "tt0155711",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

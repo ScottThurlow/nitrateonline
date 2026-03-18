@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 7 nominations total",
+  "rated": "R",
+  "released": "21 Nov 2003",
+  "runtime": "98 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Mathieu Kassovitz",
+  "writer": "Sebastian Gutierrez",
+  "actors": "Halle Berry, Penélope Cruz, Robert Downey Jr.",
+  "plot": "Dr. Miranda Grey is a psychiatrist who works in a penitentiary, in the mental institution sector. She is married with Dr. Douglas Grey, the chief of department where Dr. Pete Graham also works. Chloe Sava, a patient of Dr. Miranda formerly abused by her stepfather, claims that she is frequently raped by the devil in her cell. After leaving the asylum in a stormy night, Dr. Miranda has a car accident, and when she wakes up, she is an inmate of the institution, being accused of an horrible crime and having no memory of the incident.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "5.8",
+  "imdb_votes": "123,227",
+  "box_office": "$59,694,580",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=Gothika"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Gothika/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0348836/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0348836/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4970"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
+  "rated": "R",
+  "released": "15 Oct 1999",
+  "runtime": "139 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "David Fincher",
+  "writer": "Chuck Palahniuk, Jim Uhls",
+  "actors": "Brad Pitt, Edward Norton, Meat Loaf",
+  "plot": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "67",
+  "imdb_rating": "8.8",
+  "imdb_votes": "2,567,948",
+  "box_office": "$37,030,102",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Fight+Club"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Fight+Club/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0137523/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0137523/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/550"
+  }
+}

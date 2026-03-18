@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "04 Jan 2002",
+  "runtime": "95 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Gary Fleder",
+  "writer": "Philip K. Dick, Scott Rosenberg, Caroline Case",
+  "actors": "Shane Brolly, Vincent D'Onofrio, Gary Sinise",
+  "plot": "An exciting, action-packed sci-fi story from the author of Total Recall and Blade Runner, the thrilling Director's Cut of Impostor brings you Gary Sinise (Forrest Gump, Apollo 13), Madeleine Stowe (We Were Soldiers, Playing By Heart), Vincent D'Onofrio (The Cell, Men In Black) and Mekhi Phifer (O, 8 Mile) in a stellar cast. At a time when the earth has been at war with an alien force for over a decade, the latest work of lauded governmental scientist Spencer Olham (Sinise) promises to save the planet. But suddenly, Olham himself is accused of being an alien spy and is thrown headlong into a disorienting nightmare as a fugitive from the law. With blasts of adrenaline-fueled intensity, this futuristic thriller soars as Olham races to prove his identity to the world...and himself...in time to save all mankind.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "33",
+  "imdb_rating": "6.2",
+  "imdb_votes": "25,179",
+  "box_office": "$6,285,176",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=Impostor"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/Impostor/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160399/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160399/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4965"
+  }
+}

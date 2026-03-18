@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 30309,
+  "title": "Real Women Have Curves",
+  "original_title": "Real Women Have Curves",
+  "release_date": "2002-10-18",
+  "runtime": 86,
+  "tagline": "Real women take chances, have flaws, embrace life...",
+  "overview": "In East Los Angeles, an 18-year-old struggles between her ambitions of going to college and the desires of her domineering mother for her to get married, have children, and oversee the small, rundown family-owned textile factory.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "LaVoo Productions",
+      "country": ""
+    },
+    {
+      "name": "HBO Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Patricia Cardoso"
+  ],
+  "writers": [
+    {
+      "name": "George LaVoo",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Josefina Lopez",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Josefina Lopez",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Effie Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "George LaVoo",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "America Ferrera",
+      "character": "Ana Garcia",
+      "order": 0
+    },
+    {
+      "name": "Lupe Ontiveros",
+      "character": "Carmen Garcia",
+      "order": 1
+    },
+    {
+      "name": "Ingrid Oliu",
+      "character": "Estela Garcia",
+      "order": 2
+    },
+    {
+      "name": "George López",
+      "character": "Mr. Guzman",
+      "order": 3
+    },
+    {
+      "name": "Brian Sites",
+      "character": "Jimmy",
+      "order": 4
+    },
+    {
+      "name": "Soledad St. Hilaire",
+      "character": "Pancha",
+      "order": 5
+    },
+    {
+      "name": "Lourdes Perez Nido",
+      "character": "Rosali",
+      "order": 6
+    },
+    {
+      "name": "Jorge Cervera Jr.",
+      "character": "Raúl",
+      "order": 7
+    },
+    {
+      "name": "Felipe de Alba",
+      "character": "Grandfather",
+      "order": 8
+    },
+    {
+      "name": "José Gerardo Zamora Jr.",
+      "character": "Juan José",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ziemD3ATULYKt399FkO1ZhAwrOH.jpg",
+  "backdrop_path": "/qTuvOJ2UwyGsl9OrsYfVdoCxG6P.jpg",
+  "budget": 3000000,
+  "revenue": 7700000,
+  "vote_average": 6.08,
+  "vote_count": 100,
+  "imdb_id": "tt0296166",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

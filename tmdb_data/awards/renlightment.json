@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins",
+  "rated": "N/A",
+  "released": "20 Jan 2000",
+  "runtime": "109 min",
+  "genre": "Drama, Comedy",
+  "director": "Doris Dörrie",
+  "writer": "Doris Dörrie, Ruth Stadler",
+  "actors": "Uwe Ochsenknecht, Gustav-Peter Wöhler, Petra Zieser",
+  "plot": "Two very different brothers get together for a temporary stay in a Japanese zen monastry. The trip from Germany to Japan brings up some unexpected quests they have to manage. Soon both really have to leave their ordinary lifes behind and are on a voyage to themselves.",
+  "language": "German, Japanese, English",
+  "country": "Germany",
+  "metascore": "68",
+  "imdb_rating": "7.2",
+  "imdb_votes": "1,374",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=Enlightenment+Guaranteed"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Enlightenment+Guaranteed/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0177749/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0177749/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/29507"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "5 wins & 3 nominations",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "95 min",
+  "genre": "Drama, History",
+  "director": "Tareque Masud",
+  "writer": "Tareque Masud, Catherine Masud",
+  "actors": "Nurul Islam Bablu, Russell Farazi, Jayanto Chattopadhyay",
+  "plot": "A family must come to grips with its culture, its faith, and the brutal political changes entering its small-town world.",
+  "language": "Bengali",
+  "country": "Bangladesh",
+  "metascore": "75",
+  "imdb_rating": "8.4",
+  "imdb_votes": "4,199",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Clay+Bird"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/The+Clay+Bird/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0319836/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0319836/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/72958"
+  }
+}

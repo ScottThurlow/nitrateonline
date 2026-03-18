@@ -1,0 +1,187 @@
+{
+  "tmdb_id": 1548,
+  "title": "Ghost World",
+  "original_title": "Ghost World",
+  "release_date": "2001-07-20",
+  "runtime": 111,
+  "tagline": "Accentuate the negative.",
+  "overview": "Two quirky, cynical teenaged girls try to figure out what to do with their lives after high school graduation. After they play a prank on an eccentric, middle aged record collector, one of them befriends him, which causes a rift in the girls’ friendship.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mr. Mudd",
+      "country": "US"
+    },
+    {
+      "name": "Granada Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Capitol Films",
+      "country": "GB"
+    },
+    {
+      "name": "Advanced Medien",
+      "country": "DE"
+    },
+    {
+      "name": "Jersey Shore",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Terry Zwigoff"
+  ],
+  "writers": [
+    {
+      "name": "Daniel Clowes",
+      "job": "Comic Book"
+    },
+    {
+      "name": "Daniel Clowes",
+      "job": "Writer"
+    },
+    {
+      "name": "Terry Zwigoff",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Russell Smith",
+      "job": "Producer"
+    },
+    {
+      "name": "Lianne Halfon",
+      "job": "Producer"
+    },
+    {
+      "name": "John Malkovich",
+      "job": "Producer"
+    },
+    {
+      "name": "Pippa Cross",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Janette Day",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Thora Birch",
+      "character": "Enid",
+      "order": 0
+    },
+    {
+      "name": "Scarlett Johansson",
+      "character": "Rebecca",
+      "order": 1
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Seymour",
+      "order": 2
+    },
+    {
+      "name": "Brad Renfro",
+      "character": "Josh",
+      "order": 3
+    },
+    {
+      "name": "Illeana Douglas",
+      "character": "Roberta Allsworth",
+      "order": 4
+    },
+    {
+      "name": "Bob Balaban",
+      "character": "Enid's Dad",
+      "order": 5
+    },
+    {
+      "name": "Stacey Travis",
+      "character": "Dana",
+      "order": 6
+    },
+    {
+      "name": "Charles C. Stevenson Jr.",
+      "character": "Norman",
+      "order": 7
+    },
+    {
+      "name": "Dave Sheridan",
+      "character": "Doug",
+      "order": 8
+    },
+    {
+      "name": "Tom McGowan",
+      "character": "Joe",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+  "backdrop_path": "/6zIOO1NrTehQkDaNfvga4luSRQc.jpg",
+  "budget": 7000000,
+  "revenue": 8800000,
+  "vote_average": 7.09,
+  "vote_count": 1549,
+  "imdb_id": "tt0162346",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

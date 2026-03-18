@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 1 Oscar. 4 wins & 9 nominations total",
+  "rated": "PG-13",
+  "released": "04 Aug 2000",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Clint Eastwood",
+  "writer": "Ken Kaufman, Howard Klausner",
+  "actors": "Clint Eastwood, Tommy Lee Jones, Donald Sutherland",
+  "plot": "When a Russian satellite orbiting the Earth starts to veer off course. It seems like the guidance system in the satellite is of American origin. It's important to try and fix it before it comes into the atmosphere. N.A.S.A. man, Bob Gerson (James Cromwell) tries to find out who designed it, and discovers that it was designed by Frank Corvin (Clint Eastwood), an Air Force pilot who, forty years ago, was part of a team who was originally suppose to go to space, but when N.A.S.A. was formed and Gerson's influence, they were dropped. Gerson asks Frank to help, but Frank still holds a grudge. But after some prodding, he agrees but only if he and his team can go there so he can fix it. Gerson reluctantly agrees, so Frank recruits his former team members, \"Tank\" Sullivan (James Garner), Jerry O'Neill (Donald Sutherland), and \"Hawk\" Hawkins (Tommy Lee Jones) to join him. After some strenuous tests, they're cleared. And they go up with two other astronauts and check out the satellite and discover that they weren't told the whole truth.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "6.5",
+  "imdb_votes": "88,855",
+  "box_office": "$90,464,773",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=Space+Cowboys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Space+Cowboys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0186566/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0186566/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/5551"
+  }
+}

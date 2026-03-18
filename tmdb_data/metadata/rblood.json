@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 11368,
+  "title": "Blood Simple",
+  "original_title": "Blood Simple",
+  "release_date": "1985-01-18",
+  "runtime": 97,
+  "tagline": "Passion led to Adultery. Adultery led to Murder. It all seemed so simple...",
+  "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "River Road Productions",
+      "country": "US"
+    },
+    {
+      "name": "Foxton Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Coen"
+  ],
+  "writers": [
+    {
+      "name": "Joel Coen",
+      "job": "Writer"
+    },
+    {
+      "name": "Ethan Coen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ethan Coen",
+      "job": "Producer"
+    },
+    {
+      "name": "Daniel F. Bacaner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Getz",
+      "character": "Ray",
+      "order": 0
+    },
+    {
+      "name": "Frances McDormand",
+      "character": "Abby",
+      "order": 1
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "Julian Marty",
+      "order": 2
+    },
+    {
+      "name": "Samm-Art Williams",
+      "character": "Meurice",
+      "order": 3
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "character": "Private Detective",
+      "order": 4
+    },
+    {
+      "name": "Deborah Neumann",
+      "character": "Debra",
+      "order": 5
+    },
+    {
+      "name": "Raquel Gavia",
+      "character": "Landlady",
+      "order": 6
+    },
+    {
+      "name": "Van Brooks",
+      "character": "Man from Lubbock",
+      "order": 7
+    },
+    {
+      "name": "Señor Marco",
+      "character": "Mr. Garcia",
+      "order": 8
+    },
+    {
+      "name": "William Creamer",
+      "character": "Old Cracker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
+  "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+  "budget": 1500000,
+  "revenue": 4229114,
+  "vote_average": 7.253,
+  "vote_count": 1592,
+  "imdb_id": "tt0086979",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

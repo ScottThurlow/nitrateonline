@@ -1,0 +1,215 @@
+{
+  "tmdb_id": 2277,
+  "title": "Bicentennial Man",
+  "original_title": "Bicentennial Man",
+  "release_date": "1999-12-17",
+  "runtime": 131,
+  "tagline": "One robot's 200 year journey to become an ordinary man.",
+  "overview": "Richard Martin buys a gift, a new NDR-114 robot. The product is named Andrew by the youngest of the family's children. \"Bicentennial Man\" follows the life and times of Andrew, a robot purchased as a household appliance programmed to perform menial tasks. As Andrew begins to experience emotions and creative thought, the Martin family soon discovers they don't have an ordinary robot.",
+  "genres": [
+    "Science Fiction",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "1492 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Laurence Mark Productions",
+      "country": "US"
+    },
+    {
+      "name": "Radiant Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chris Columbus"
+  ],
+  "writers": [
+    {
+      "name": "Nicholas Kazan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Isaac Asimov",
+      "job": "Novel"
+    },
+    {
+      "name": "Robert Silverberg",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Barnathan",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Columbus",
+      "job": "Producer"
+    },
+    {
+      "name": "Gail Katz",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Kolsrud",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurence Mark",
+      "job": "Producer"
+    },
+    {
+      "name": "Neal Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "Wolfgang Petersen",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Radcliffe",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "character": "Andrew",
+      "order": 0
+    },
+    {
+      "name": "Embeth Davidtz",
+      "character": "Little Miss / Portia",
+      "order": 1
+    },
+    {
+      "name": "Sam Neill",
+      "character": "Sir",
+      "order": 2
+    },
+    {
+      "name": "Oliver Platt",
+      "character": "Rupert Burns",
+      "order": 3
+    },
+    {
+      "name": "Kiersten Warren",
+      "character": "Galatea Robotic / Human",
+      "order": 4
+    },
+    {
+      "name": "Wendy Crewson",
+      "character": "Ma'am",
+      "order": 5
+    },
+    {
+      "name": "Hallie Eisenberg",
+      "character": "Little Miss 7 yrs. old",
+      "order": 6
+    },
+    {
+      "name": "Lindze Letherman",
+      "character": "Miss 9 yrs. old",
+      "order": 7
+    },
+    {
+      "name": "Angela Landis",
+      "character": "Miss",
+      "order": 8
+    },
+    {
+      "name": "John Michael Higgins",
+      "character": "Bill Feingold",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wrs23eO0VEWwOQpXoOasMnlW9Y4.jpg",
+  "backdrop_path": "/aIVL5crQCBMPxKMoExiIsUDFPeR.jpg",
+  "budget": 100000000,
+  "revenue": 87423861,
+  "vote_average": 7.3,
+  "vote_count": 3833,
+  "imdb_id": "tt0182789",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

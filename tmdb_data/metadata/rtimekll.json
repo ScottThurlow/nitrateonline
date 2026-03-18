@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 1645,
+  "title": "A Time to Kill",
+  "original_title": "A Time to Kill",
+  "release_date": "1996-07-24",
+  "runtime": 149,
+  "tagline": "Experience a time you'll never forget.",
+  "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Schumacher"
+  ],
+  "writers": [
+    {
+      "name": "Akiva Goldsman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Grisham",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael G. Nathanson",
+      "job": "Producer"
+    },
+    {
+      "name": "Hunt Lowry",
+      "job": "Producer"
+    },
+    {
+      "name": "John Grisham",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew McConaughey",
+      "character": "Jake Brigance",
+      "order": 0
+    },
+    {
+      "name": "Sandra Bullock",
+      "character": "Ellen Roark",
+      "order": 1
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Carl Lee Hailey",
+      "order": 2
+    },
+    {
+      "name": "Kevin Spacey",
+      "character": "Rufus Buckley",
+      "order": 3
+    },
+    {
+      "name": "Ashley Judd",
+      "character": "Carla Brigance",
+      "order": 4
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "Lucien Wilbanks",
+      "order": 5
+    },
+    {
+      "name": "Oliver Platt",
+      "character": "Harry Rex Vonner",
+      "order": 6
+    },
+    {
+      "name": "Charles S. Dutton",
+      "character": "Ozzie Walls",
+      "order": 7
+    },
+    {
+      "name": "Brenda Fricker",
+      "character": "Ethel Twitty",
+      "order": 8
+    },
+    {
+      "name": "Kiefer Sutherland",
+      "character": "Freddie Lee Cobb",
+      "order": 9
+    }
+  ],
+  "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+  "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+  "budget": 40000000,
+  "revenue": 152266007,
+  "vote_average": 7.387,
+  "vote_count": 2888,
+  "imdb_id": "tt0117913",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IL",
+      "rating": "R"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15 År"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

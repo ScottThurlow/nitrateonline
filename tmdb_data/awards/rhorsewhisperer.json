@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 Oscar. 4 wins & 19 nominations total",
+  "rated": "PG-13",
+  "released": "15 May 1998",
+  "runtime": "169 min",
+  "genre": "Drama, Romance, Western",
+  "director": "Robert Redford",
+  "writer": "Nick Evans, Eric Roth, Richard LaGravenese",
+  "actors": "Robert Redford, Kristin Scott Thomas, Sam Neill",
+  "plot": "Teenager Grace MacLean (Scarlett Johansson) is riding her horse and is hit by a truck. To help heal her troubled and injured daughter, and horse, the mother, Annie MacLean (Dame Kristin Scott Thomas), takes them to Montana to recuperate at the ranch of Tom Booker (Robert Redford), a \"horse whisperer\", a horse healer of mystical talents. Annie proceeds to fall in love with him, as well.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "65",
+  "imdb_rating": "6.7",
+  "imdb_votes": "45,829",
+  "box_office": "$75,383,563",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Horse+Whisperer"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/The+Horse+Whisperer/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119314/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119314/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/547"
+  }
+}

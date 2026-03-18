@@ -1,0 +1,203 @@
+{
+  "tmdb_id": 11529,
+  "title": "Sweet Home Alabama",
+  "original_title": "Sweet Home Alabama",
+  "release_date": "2002-09-26",
+  "runtime": 108,
+  "tagline": "Sometimes What You're Looking For Is Right Where You Left It.",
+  "overview": "New York fashion designer, Melanie Carmichael suddenly finds herself engaged to the city's most eligible bachelor. But her past holds many secrets—including Jake, the redneck husband she married in high school, who refuses to divorce her. Bound and determined to end their contentious relationship once and for all, Melanie sneaks back home to Alabama to confront her past.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "D&D Films",
+      "country": ""
+    },
+    {
+      "name": "Pigeon Creek Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Andy Tennant"
+  ],
+  "writers": [
+    {
+      "name": "C. Jay Cox",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Douglas J. Eboch",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wink Mordaunt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jon Jashni",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stokely Chaffin",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Fottrell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Reese Witherspoon",
+      "character": "Melanie Smooter",
+      "order": 0
+    },
+    {
+      "name": "Josh Lucas",
+      "character": "Jake Perry",
+      "order": 1
+    },
+    {
+      "name": "Patrick Dempsey",
+      "character": "Andrew Hennings",
+      "order": 2
+    },
+    {
+      "name": "Candice Bergen",
+      "character": "Mayor Kate Hennings",
+      "order": 3
+    },
+    {
+      "name": "Mary Kay Place",
+      "character": "Pearl Smooter",
+      "order": 4
+    },
+    {
+      "name": "Fred Ward",
+      "character": "Earl Smooter",
+      "order": 5
+    },
+    {
+      "name": "Jean Smart",
+      "character": "Stella Kay Perry",
+      "order": 6
+    },
+    {
+      "name": "Ethan Embry",
+      "character": "Bobby Ray",
+      "order": 7
+    },
+    {
+      "name": "Melanie Lynskey",
+      "character": "Lurlynn",
+      "order": 8
+    },
+    {
+      "name": "Courtney Gains",
+      "character": "Sheriff Wade",
+      "order": 9
+    }
+  ],
+  "poster_path": "/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
+  "backdrop_path": "/xE0ouu4yVA4fBojdHg2UkfvRxY4.jpg",
+  "budget": 30000000,
+  "revenue": 180622424,
+  "vote_average": 6.411,
+  "vote_count": 1668,
+  "imdb_id": "tt0256415",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "LT",
+      "rating": "N-7"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

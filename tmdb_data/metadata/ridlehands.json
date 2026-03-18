@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 6552,
+  "title": "Idle Hands",
+  "original_title": "Idle Hands",
+  "release_date": "1999-04-30",
+  "runtime": 92,
+  "tagline": "The touching story of a boy and his right hand.",
+  "overview": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Licht/Mueller Film Corporation",
+      "country": ""
+    },
+    {
+      "name": "Team Todd",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rodman Flender"
+  ],
+  "writers": [
+    {
+      "name": "Terri Hughes",
+      "job": "Writer"
+    },
+    {
+      "name": "Ron Milbauer",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Suzanne Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Licht",
+      "job": "Producer"
+    },
+    {
+      "name": "Jennifer Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Sudzin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeffrey A. Mueller",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Devon Sawa",
+      "character": "Anton",
+      "order": 0
+    },
+    {
+      "name": "Seth Green",
+      "character": "Mick",
+      "order": 1
+    },
+    {
+      "name": "Elden Henson",
+      "character": "Pnub",
+      "order": 2
+    },
+    {
+      "name": "Jessica Alba",
+      "character": "Molly",
+      "order": 3
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Debi",
+      "order": 4
+    },
+    {
+      "name": "Jack Noseworthy",
+      "character": "Randy",
+      "order": 5
+    },
+    {
+      "name": "Christopher Hart",
+      "character": "The Hand",
+      "order": 6
+    },
+    {
+      "name": "Katie Wright",
+      "character": "Tanya",
+      "order": 7
+    },
+    {
+      "name": "Sean Whalen",
+      "character": "McMacy",
+      "order": 8
+    },
+    {
+      "name": "Nicholas Sadler",
+      "character": "Ruck",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mCO4gU1lkViGXTkoRBEYrvjDIJu.jpg",
+  "backdrop_path": "/vSX4JjjifAUnF4PD5J9czE4Fz0C.jpg",
+  "budget": 25000000,
+  "revenue": 4152230,
+  "vote_average": 6.176,
+  "vote_count": 724,
+  "imdb_id": "tt0138510",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

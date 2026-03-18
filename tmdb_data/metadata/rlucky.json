@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 35944,
+  "title": "Lucky Break",
+  "original_title": "Lucky Break",
+  "release_date": "2001-08-24",
+  "runtime": 107,
+  "tagline": "",
+  "overview": "Half-way through his 12-year prison sentence for an incompetent armed robbery, Jimmy Hands gets a lucky break: he's transferred to a prison from which he can probably escape. He convinces the governor to stage a musical in an old chapel next to the prison's outer wall. He rounds up volunteer actors and puts his escape plan into production. Two other barriers, besides the wall, confront him: the arrival of a nasty inmate, John Toombes, who insists on joining the escape, and Jimmy's feelings of attraction for Anabel, a social worker who agrees to appear in the play. Opening night approaches: is this Jimmy's breakout performance?",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Lucky Break Productions",
+      "country": ""
+    },
+    {
+      "name": "Fragile Films",
+      "country": "GB"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Senator Film",
+      "country": "DE"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Cattaneo"
+  ],
+  "writers": [
+    {
+      "name": "Ronan Bennett",
+      "job": "Writer"
+    },
+    {
+      "name": "Stephen Fry",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paul Webster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hanno Huth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Cattaneo",
+      "job": "Producer"
+    },
+    {
+      "name": "Barnaby Thompson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Nesbitt",
+      "character": "James 'Jimmy' Hands",
+      "order": 0
+    },
+    {
+      "name": "Olivia Williams",
+      "character": "Annabel",
+      "order": 1
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Cliff",
+      "order": 2
+    },
+    {
+      "name": "Christopher Plummer",
+      "character": "Graham Mortimer",
+      "order": 3
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "Roger",
+      "order": 4
+    },
+    {
+      "name": "Lennie James",
+      "character": "Rudy",
+      "order": 5
+    },
+    {
+      "name": "Ron Cook",
+      "character": "Perry",
+      "order": 6
+    },
+    {
+      "name": "Peter Wight",
+      "character": "George Barratt",
+      "order": 7
+    },
+    {
+      "name": "Celia Imrie",
+      "character": "Amy",
+      "order": 8
+    },
+    {
+      "name": "Raymond Waring",
+      "character": "Darren",
+      "order": 9
+    }
+  ],
+  "poster_path": "/63JHVXD2bkPBdIFgprqXKu3k8bw.jpg",
+  "backdrop_path": "/adVdIlj3YMGZIgOYRvqnplDgNa1.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.139,
+  "vote_count": 36,
+  "imdb_id": "tt0246134",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

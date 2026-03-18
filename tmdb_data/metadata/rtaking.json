@@ -1,0 +1,191 @@
+{
+  "tmdb_id": 11081,
+  "title": "Taking Lives",
+  "original_title": "Taking Lives",
+  "release_date": "2004-03-19",
+  "runtime": 103,
+  "tagline": "He would kill to be you.",
+  "overview": "Recruited to assist Montreal police in their desperate search for a serial killer who assumes the identities of his victims, FBI profiler Illeana Scott knows it's only a matter of time before the killer strikes again. Her most promising lead is a museum employee who might be the killer's only eyewitness.",
+  "genres": [
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Atmosphere Entertainment MM",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "D.J. Caruso"
+  ],
+  "writers": [
+    {
+      "name": "Jon Bokenkamp",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Pye",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Canton",
+      "job": "Producer"
+    },
+    {
+      "name": "Bernie Goldmann",
+      "job": "Producer"
+    },
+    {
+      "name": "Dana Goldberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Heyman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Angelina Jolie",
+      "character": "Illeana Scott",
+      "order": 0
+    },
+    {
+      "name": "Ethan Hawke",
+      "character": "James Costa",
+      "order": 1
+    },
+    {
+      "name": "Kiefer Sutherland",
+      "character": "Christopher Hart",
+      "order": 2
+    },
+    {
+      "name": "Gena Rowlands",
+      "character": "Mrs. Rebecca Asher",
+      "order": 3
+    },
+    {
+      "name": "Olivier Martinez",
+      "character": "Paquette",
+      "order": 4
+    },
+    {
+      "name": "Tchéky Karyo",
+      "character": "Leclair",
+      "order": 5
+    },
+    {
+      "name": "Jean-Hugues Anglade",
+      "character": "Duval",
+      "order": 6
+    },
+    {
+      "name": "Paul Dano",
+      "character": "Young Asher",
+      "order": 7
+    },
+    {
+      "name": "Justin Chatwin",
+      "character": "Matt Soulsby",
+      "order": 8
+    },
+    {
+      "name": "André Lacoste",
+      "character": "Cashier",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1JEt0qtEaYrJZuPeTArR691V256.jpg",
+  "backdrop_path": "/7IciAaJltRsOohcz2JlkupIF1s9.jpg",
+  "budget": 45000000,
+  "revenue": 65470529,
+  "vote_average": 6.377,
+  "vote_count": 1720,
+  "imdb_id": "tt0364045",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,30 @@
+{
+  "year": "1980",
+  "awards": "N/A",
+  "rated": "PG",
+  "released": "28 Mar 1980",
+  "runtime": "97 min",
+  "genre": "Comedy",
+  "director": "George Bloomfield",
+  "writer": "Robert Kaufman",
+  "actors": "Donald Sutherland, Suzanne Somers, Lawrence Dane",
+  "plot": "Suzanne Somers, an environmentally concerned lawyer, was hired by Donald Sutherland to halt the construction on a breeding ground of endangered species of seals. In HD.",
+  "language": "English",
+  "country": "Canada",
+  "metascore": "N/A",
+  "imdb_rating": "4.5",
+  "imdb_votes": "400",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.5/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0081246/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0081246/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/255837"
+  }
+}

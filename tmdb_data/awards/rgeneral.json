@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "10 wins & 14 nominations",
+  "rated": "R",
+  "released": "18 Dec 1998",
+  "runtime": "124 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "John Boorman",
+  "writer": "John Boorman, Paul Williams",
+  "actors": "Brendan Gleeson, Adrian Dunbar, Sean McGinley",
+  "plot": "In a town called Gravesend in south east England mischief lurks round every corner, a Gang from Riverview plot a cunning plan to otherthrow the village priest in Chalk. Dan wakefield and his men are in for more than they bargained for when it turns out the priest knows karate.",
+  "language": "English",
+  "country": "United Kingdom, Ireland",
+  "metascore": "81",
+  "imdb_rating": "7.2",
+  "imdb_votes": "9,363",
+  "box_office": "$1,214,198",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=The+General"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/The+General/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120706/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120706/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16885"
+  }
+}

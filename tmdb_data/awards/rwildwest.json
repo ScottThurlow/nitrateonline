@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "16 wins & 17 nominations total",
+  "rated": "PG-13",
+  "released": "30 Jun 1999",
+  "runtime": "106 min",
+  "genre": "Action, Comedy, Sci-Fi",
+  "director": "Barry Sonnenfeld",
+  "writer": "Jim Thomas, John Thomas, S.S. Wilson",
+  "actors": "Will Smith, Kevin Kline, Kenneth Branagh",
+  "plot": "Jim West is a guns-a-blazing former Civil War hero. Artemus Gordon is an inventive U.S. Marshal who excels in disguise. When the United States is threatened by psychotic Confederate Arliss Loveless, President Ulysses S Grant teams the duo up to bring him to justice. On a hazard-packed train journey from Washington, D.C. to Utah, West and Gordon must combine their skills to best Loveless and his diabolical machines.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "40",
+  "imdb_rating": "4.9",
+  "imdb_votes": "171,971",
+  "box_office": "$113,804,681",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "16%",
+      "link": "https://www.rottentomatoes.com/search?search=Wild+Wild+West"
+    },
+    {
+      "source": "Metacritic",
+      "value": "40/100",
+      "link": "https://www.metacritic.com/search/Wild+Wild+West/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120891/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120891/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8487"
+  }
+}

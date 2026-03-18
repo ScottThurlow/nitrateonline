@@ -1,0 +1,70 @@
+{
+  "tmdb_id": 82865,
+  "title": "God Said, 'Ha!'",
+  "original_title": "God Said, 'Ha!'",
+  "release_date": "1998-05-14",
+  "runtime": 85,
+  "tagline": "",
+  "overview": "Julia Sweeney tells the viewers the monologue about the hard time in her life when her brother fought with cancer and she was also diagnosed with a rare form of cancer.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Oh Brother Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Julia Sweeney"
+  ],
+  "writers": [
+    {
+      "name": "Julia Sweeney",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rana Joy Glickman",
+      "job": "Producer"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Sweeney",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Quentin Tarantino",
+      "character": "Self",
+      "order": 1
+    }
+  ],
+  "poster_path": "/urlVr0D7fCEVK4RU0BiMs7PB5eF.jpg",
+  "backdrop_path": "/m60F7zW9AGWNqERWdlNg6dZwzuJ.jpg",
+  "budget": 0,
+  "revenue": 55970,
+  "vote_average": 5.6,
+  "vote_count": 8,
+  "imdb_id": "tt0119207",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

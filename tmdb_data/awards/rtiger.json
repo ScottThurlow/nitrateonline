@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 4 Oscars. 102 wins & 132 nominations total",
+  "rated": "PG-13",
+  "released": "12 Jan 2001",
+  "runtime": "120 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ang Lee",
+  "writer": "Hui-Ling Wang, James Schamus, Kuo Jung Tsai",
+  "actors": "Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang",
+  "plot": "In early nineteenth-century China, in the waning years of the Qing dynasty, the renowned swordsman who yearns for enlightenment, Li Mu Bai, decides to give up his legendary Green Destiny sword: the sharp four-hundred-year-old blade of heroes. To mark the end of a blood-stained career, Li entrusts the excellent female warrior, Yu Shu Lien, with the precious weapon to deliver it to Governor Yu; however, once there, an audacious and nimble masked thief manages to steal it. As Shu Lien is hot on the trail of the skilled burglar, unrequited loves; fervent passions; an unconquerable desire for freedom, and bitter loose ends stand in the way. Can Mu Bai shake off his violent past?",
+  "language": "Mandarin",
+  "country": "Taiwan, China, Hong Kong, United States",
+  "metascore": "94",
+  "imdb_rating": "7.9",
+  "imdb_votes": "293,086",
+  "box_office": "$128,530,421",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "98%",
+      "link": "https://www.rottentomatoes.com/search?search=Crouching+Tiger%2C+Hidden+Dragon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "94/100",
+      "link": "https://www.metacritic.com/search/Crouching+Tiger%2C+Hidden+Dragon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0190332/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0190332/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/146"
+  }
+}

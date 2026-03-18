@@ -1,0 +1,96 @@
+{
+  "tmdb_id": 57400,
+  "title": "The Human Resources Manager",
+  "original_title": "שליחותו של הממונה על משאבי אנוש",
+  "release_date": "2010-12-15",
+  "runtime": 103,
+  "tagline": "",
+  "overview": "A tragic comedy centered on the HR manager of Israel's largest industrial bakery, who sets out to save the reputation of his business and prevent the publication of a defamatory article.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hebrew",
+    "Romanian"
+  ],
+  "production_companies": [
+    {
+      "name": "Libra Film",
+      "country": "RO"
+    },
+    {
+      "name": "2-Team Productions",
+      "country": "IL"
+    },
+    {
+      "name": "Pallas Film",
+      "country": "DE"
+    },
+    {
+      "name": "Pie Films",
+      "country": "IL"
+    },
+    {
+      "name": "EZ Films",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Eran Riklis"
+  ],
+  "writers": [
+    {
+      "name": "Noah Stollman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Mark Ivanir",
+      "character": "Le DHR",
+      "order": 0
+    },
+    {
+      "name": "Guri Alfi",
+      "character": "La \"fouine\"",
+      "order": 1
+    },
+    {
+      "name": "Noah Silver",
+      "character": "Le garçon",
+      "order": 2
+    },
+    {
+      "name": "Julian Negulesco",
+      "character": "Le vice-consul",
+      "order": 3
+    },
+    {
+      "name": "Bogdan Stanoevici",
+      "character": "L'ex-mari",
+      "order": 4
+    },
+    {
+      "name": "Irina Petrescu",
+      "character": "Grandmother",
+      "order": 5
+    },
+    {
+      "name": "Rosina Kambus",
+      "character": "The Israeli Consul",
+      "order": 6
+    }
+  ],
+  "poster_path": "/rOZ1K6pvG6bHBhzWp1zzpTLU4Qz.jpg",
+  "backdrop_path": "/40YjCOYTRiNjK8Z7SgsgUfzmuoY.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.2,
+  "vote_count": 27,
+  "imdb_id": "tt1311075",
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 3 nominations total",
+  "rated": "PG-13",
+  "released": "25 Jul 2003",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Jan de Bont",
+  "writer": "Dean Georgaris, Steven E. de Souza, James V. Hart",
+  "actors": "Angelina Jolie, Gerard Butler, Chris Barrie",
+  "plot": "Off the coast of the volcanic island of Santorini, the intrepid archaeologist, Lara Croft, makes the unexpected discovery of a throbbing golden orb able to guide its holder to the mythical Pandora's Box. As the legendary artefact contains ancient mysteries of unfathomable power, Lara needs to make sure it doesn't fall into the wrong hands, especially the unscrupulous former Nobel Prize winner and now a bio-weapons dealer, Jonathan Reiss. With the aid of the former agent, Terry Sheridan, the fearless adventurer travels the world in pursuit of the precious item; however, can she retrieve it in time to save the day?",
+  "language": "English, Mandarin, Swahili, Greek, Russian",
+  "country": "United Kingdom, Germany, Japan, Hong Kong, United States",
+  "metascore": "43",
+  "imdb_rating": "5.5",
+  "imdb_votes": "151,121",
+  "box_office": "$65,660,196",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "24%",
+      "link": "https://www.rottentomatoes.com/search?search=Lara+Croft%3A+Tomb+Raider+-+The+Cradle+of+Life"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/Lara+Croft%3A+Tomb+Raider+-+The+Cradle+of+Life/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0325703/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0325703/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1996"
+  }
+}

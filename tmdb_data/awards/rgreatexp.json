@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "30 Jan 1998",
+  "runtime": "111 min",
+  "genre": "Drama, Romance",
+  "director": "Alfonso Cuarón",
+  "writer": "Charles Dickens, Mitch Glazer",
+  "actors": "Ethan Hawke, Gwyneth Paltrow, Hank Azaria",
+  "plot": "Based on Charles Dickens' timeless tale, this is a story of the love of a man for an unreachable woman. Updated to modern-day New York City, the story concerns a man of modest background who falls in love with a rich girl. But when a mysterious benefactor greenlights the man to make his dreams come true, everything done has the ultimate goal of making Estella fall in love with him.",
+  "language": "English, French, Portuguese",
+  "country": "United States",
+  "metascore": "55",
+  "imdb_rating": "6.8",
+  "imdb_votes": "59,506",
+  "box_office": "$26,420,672",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=Great+Expectations"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Great+Expectations/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119223/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119223/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9410"
+  }
+}

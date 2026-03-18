@@ -1,0 +1,35 @@
+{
+  "year": "2003",
+  "awards": "1 win total",
+  "rated": "N/A",
+  "released": "07 Dec 2007",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Bill Fishman",
+  "writer": "Howard Kaylan",
+  "actors": "Justin Henry, Royale Watkins, Jason Boggs",
+  "plot": "Howard Kaylan, a singer for the rock band The Turtles, is about to marry his girlfriend and his band is traveling to England for the first time in the wake of the massive success of their hit single, \"Happy Together\", but fears that the band will not be well received in England. After the band's disastrous meeting with the Beatles, Kaylan has a life-changing dinner with guitarist Jimi Hendrix, whose band, the Jimi Hendrix Experience, is about to make their American debut, and Kaylan finds that Hendrix shares Kaylan's fears about his American debut.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.3",
+  "imdb_votes": "285",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=My+Dinner+with+Jimi"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0277171/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0277171/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/62361"
+  }
+}

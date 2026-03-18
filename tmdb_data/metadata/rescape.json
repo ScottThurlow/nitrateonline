@@ -1,0 +1,180 @@
+{
+  "tmdb_id": 10061,
+  "title": "Escape from L.A.",
+  "original_title": "Escape from L.A.",
+  "release_date": "1996-08-09",
+  "runtime": 101,
+  "tagline": "Snake is back.",
+  "overview": "Into the 9.6-quaked Los Angeles of 2013 comes Snake Plissken. His job: wade through L.A.'s ruined landmarks to retrieve a doomsday device.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Rysher Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Carpenter"
+  ],
+  "writers": [
+    {
+      "name": "John Carpenter",
+      "job": "Characters"
+    },
+    {
+      "name": "Debra Hill",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kurt Russell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Nick Castle",
+      "job": "Characters"
+    },
+    {
+      "name": "John Carpenter",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kurt Russell",
+      "job": "Producer"
+    },
+    {
+      "name": "Debra Hill",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kurt Russell",
+      "character": "Snake Plissken",
+      "order": 0
+    },
+    {
+      "name": "Stacy Keach",
+      "character": "Malloy",
+      "order": 1
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Eddie",
+      "order": 2
+    },
+    {
+      "name": "A. J. Langer",
+      "character": "Utopia",
+      "order": 3
+    },
+    {
+      "name": "Bruce Campbell",
+      "character": "Surgeon General of Beverly Hills",
+      "order": 4
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Hershe Las Palamas",
+      "order": 5
+    },
+    {
+      "name": "Peter Fonda",
+      "character": "Pipeline",
+      "order": 6
+    },
+    {
+      "name": "Georges Corraface",
+      "character": "Cuervo Jones",
+      "order": 7
+    },
+    {
+      "name": "Robert Carradine",
+      "character": "Skinhead",
+      "order": 8
+    },
+    {
+      "name": "Michelle Forbes",
+      "character": "Brazen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg",
+  "backdrop_path": "/wzC2p07FfCsOTLo2aUeGBUQhsHX.jpg",
+  "budget": 50000000,
+  "revenue": 42277365,
+  "vote_average": 5.874,
+  "vote_count": 1568,
+  "imdb_id": "tt0116225",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

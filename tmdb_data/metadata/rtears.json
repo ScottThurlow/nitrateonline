@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 9567,
+  "title": "Tears of the Sun",
+  "original_title": "Tears of the Sun",
+  "release_date": "2003-03-07",
+  "runtime": 121,
+  "tagline": "He was trained to follow orders. He became a hero by defying them.",
+  "overview": "Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists are forced to choose between their duty and their humanity, between following orders by ignoring the conflict that surrounds them, or finding the courage to follow their conscience and protect a group of innocent refugees. When the democratic government of Nigeria collapses and the country is taken over by a ruthless military dictator, Waters, a fiercely loyal and hardened veteran is dispatched on a routine mission to retrieve a Doctors Without Borders physician.",
+  "genres": [
+    "War",
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Cheyenne Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Michael Lobell Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Antoine Fuqua"
+  ],
+  "writers": [
+    {
+      "name": "Alex Lasker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Patrick Cirillo",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ian Bryce",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Lobell",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Rifkin",
+      "job": "Producer"
+    },
+    {
+      "name": "Joe Roth",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "Lieutenant A.K. Waters",
+      "order": 0
+    },
+    {
+      "name": "Monica Bellucci",
+      "character": "Dr. Lena Fiore Kendricks",
+      "order": 1
+    },
+    {
+      "name": "Cole Hauser",
+      "character": "James 'Red' Atkins",
+      "order": 2
+    },
+    {
+      "name": "Eamonn Walker",
+      "character": "Ellis 'Zee' Pettigrew",
+      "order": 3
+    },
+    {
+      "name": "Johnny Messner",
+      "character": "Kelly Lake",
+      "order": 4
+    },
+    {
+      "name": "Nick Chinlund",
+      "character": "Michael 'Slo' Slowenski",
+      "order": 5
+    },
+    {
+      "name": "Tom Skerritt",
+      "character": "Captain Bill Rhodes",
+      "order": 6
+    },
+    {
+      "name": "Akosua Busia",
+      "character": "Patience",
+      "order": 7
+    },
+    {
+      "name": "Peter Mensah",
+      "character": "Terwase",
+      "order": 8
+    },
+    {
+      "name": "Malick Bowens",
+      "character": "Colonel Idris Sadick",
+      "order": 9
+    }
+  ],
+  "poster_path": "/psP90zHD3ZYGLCLpt4B3MbtrlWr.jpg",
+  "backdrop_path": "/vUOyNqvRdXkQcOL24XHZYXGqeeO.jpg",
+  "budget": 75000000,
+  "revenue": 86500000,
+  "vote_average": 6.886,
+  "vote_count": 2565,
+  "imdb_id": "tt0314353",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

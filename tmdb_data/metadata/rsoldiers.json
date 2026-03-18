@@ -1,0 +1,202 @@
+{
+  "tmdb_id": 10590,
+  "title": "We Were Soldiers",
+  "original_title": "We Were Soldiers",
+  "release_date": "2002-03-01",
+  "runtime": 138,
+  "tagline": "Father, Husband, Brother. No Man is Just a Soldier.",
+  "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+  "genres": [
+    "Action",
+    "History",
+    "War"
+  ],
+  "spoken_languages": [
+    "English",
+    "Vietnamese",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Wheelhouse Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Motion Picture Production GmbH & Co. Erste KG",
+      "country": "DE"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Icon Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Randall Wallace"
+  ],
+  "writers": [
+    {
+      "name": "Randall Wallace",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Harold G. Moore",
+      "job": "Novel"
+    },
+    {
+      "name": "Joseph L. Galloway",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Davey",
+      "job": "Producer"
+    },
+    {
+      "name": "Randall Wallace",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Lemley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stephen McEveety",
+      "job": "Producer"
+    },
+    {
+      "name": "Arne Schmidt",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "character": "Lt. Col. Hal Moore",
+      "order": 0
+    },
+    {
+      "name": "Madeleine Stowe",
+      "character": "Julie Moore",
+      "order": 1
+    },
+    {
+      "name": "Greg Kinnear",
+      "character": "Maj. Bruce 'Snake' Crandall",
+      "order": 2
+    },
+    {
+      "name": "Sam Elliott",
+      "character": "Sgt. Maj. Basil Plumley",
+      "order": 3
+    },
+    {
+      "name": "Chris Klein",
+      "character": "2nd Lt. Jack Geoghegan",
+      "order": 4
+    },
+    {
+      "name": "Keri Russell",
+      "character": "Barbara Geoghegan",
+      "order": 5
+    },
+    {
+      "name": "Barry Pepper",
+      "character": "Joe Galloway",
+      "order": 6
+    },
+    {
+      "name": "Đơn Dương",
+      "character": "Lt. Col. Nguyen Huu An",
+      "order": 7
+    },
+    {
+      "name": "Ryan Hurst",
+      "character": "Sgt. Ernie Savage",
+      "order": 8
+    },
+    {
+      "name": "Robert Bagnell",
+      "character": "1st Lt. Charlie Hastings",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rpAMFrHHqpRCPbrBvYV9HHaVNB8.jpg",
+  "backdrop_path": "/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+  "budget": 75000000,
+  "revenue": 114660784,
+  "vote_average": 7.143,
+  "vote_count": 2227,
+  "imdb_id": "tt0277434",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

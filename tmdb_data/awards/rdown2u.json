@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 4 nominations total",
+  "rated": "PG-13",
+  "released": "21 Jan 2000",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Kris Isacsson",
+  "writer": "Kris Isacsson",
+  "actors": "Freddie Prinze Jr., Julia Stiles, Selma Blair",
+  "plot": "This light-hearted romantic comedy centers tells of love sought, found, lost, and found again, revolving around the lives of two college students in New York City. Sophomore Al Connelly meets the girl of his dreams, freshman Imogen, and true love abounds. The two engage on a whirlwind courtship--they pick a song, eat a cake together, even make love. But Imogen's fear of lost youth causes her to push away from Al, and they go their separate ways. Al attempts to rebound from the relationship, determined to forget Imogen, and he goes to desperate measures to do so. The story is told from the points of view of both Al and Imogen.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "13",
+  "imdb_rating": "5.0",
+  "imdb_votes": "16,088",
+  "box_office": "$20,069,008",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "3%",
+      "link": "https://www.rottentomatoes.com/search?search=Down+to+You"
+    },
+    {
+      "source": "Metacritic",
+      "value": "13/100",
+      "link": "https://www.metacritic.com/search/Down+to+You/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0186975/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0186975/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10472"
+  }
+}

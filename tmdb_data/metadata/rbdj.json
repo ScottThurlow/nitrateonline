@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 649,
+  "title": "Belle de Jour",
+  "original_title": "Belle de jour",
+  "release_date": "1967-05-24",
+  "runtime": 100,
+  "tagline": "Luis Bunuel's Masterpiece of Erotica!",
+  "overview": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "Mongolian",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Paris Films Productions",
+      "country": ""
+    },
+    {
+      "name": "Five Films",
+      "country": "IT"
+    },
+    {
+      "name": "Robert et Raymond Hakim",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Luis Buñuel"
+  ],
+  "writers": [
+    {
+      "name": "Joseph Kessel",
+      "job": "Author"
+    },
+    {
+      "name": "Luis Buñuel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jean-Claude Carrière",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Henri Baum",
+      "job": "Producer"
+    },
+    {
+      "name": "Raymond Hakim",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Hakim",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Catherine Deneuve",
+      "character": "Séverine Serizy",
+      "order": 0
+    },
+    {
+      "name": "Jean Sorel",
+      "character": "Pierre Serizy",
+      "order": 1
+    },
+    {
+      "name": "Michel Piccoli",
+      "character": "Henri Husson",
+      "order": 2
+    },
+    {
+      "name": "Geneviève Page",
+      "character": "Madame Anais",
+      "order": 3
+    },
+    {
+      "name": "Pierre Clémenti",
+      "character": "Marcel",
+      "order": 4
+    },
+    {
+      "name": "Françoise Fabian",
+      "character": "Charlotte",
+      "order": 5
+    },
+    {
+      "name": "Macha Méril",
+      "character": "Renée",
+      "order": 6
+    },
+    {
+      "name": "Muni",
+      "character": "Pallas",
+      "order": 7
+    },
+    {
+      "name": "Maria Latour",
+      "character": "Mathilde",
+      "order": 8
+    },
+    {
+      "name": "Claude Cerval",
+      "character": "The Driver (uncredited)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+  "backdrop_path": "/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.3,
+  "vote_count": 1004,
+  "imdb_id": "tt0061395",
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 win",
+  "rated": "R",
+  "released": "18 Apr 1997",
+  "runtime": "95 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Tom Schulman",
+  "writer": "Tom Schulman",
+  "actors": "Joe Pesci, Andy Comeau, Kristy Swanson",
+  "plot": "This is a very black comedy. A mob courier is hired to transport the heads of eight murder victims to a mob boss. However, the duffel bag gets mixed up with the bag of a college student who is off on a vacation in Mexico with his girlfriend and her parents. However, the mother is a recovering alcoholic whom everyone believes is delusional when she claims to have found heads.",
+  "language": "English, Spanish",
+  "country": "United States, United Kingdom",
+  "metascore": "15",
+  "imdb_rating": "5.4",
+  "imdb_votes": "11,299",
+  "box_office": "$3,602,884",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "7%",
+      "link": "https://www.rottentomatoes.com/search?search=8+Heads+in+a+Duffel+Bag"
+    },
+    {
+      "source": "Metacritic",
+      "value": "15/100",
+      "link": "https://www.metacritic.com/search/8+Heads+in+a+Duffel+Bag/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118541/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118541/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13982"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Won 1 Oscar. 35 wins & 56 nominations total",
+  "rated": "R",
+  "released": "19 Feb 1999",
+  "runtime": "124 min",
+  "genre": "Biography, Drama, History",
+  "director": "Shekhar Kapur",
+  "writer": "Michael Hirst",
+  "actors": "Cate Blanchett, Liz Giles, Rod Culbertson",
+  "plot": "This film details the ascension to the throne and the early reign of Queen Elizabeth the First, as played by Cate Blanchett. The main focus is the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+  "language": "English, French, Turkish",
+  "country": "United Kingdom, United States",
+  "metascore": "75",
+  "imdb_rating": "7.4",
+  "imdb_votes": "108,734",
+  "box_office": "$30,082,699",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Elizabeth"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/Elizabeth/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0127536/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0127536/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4518"
+  }
+}

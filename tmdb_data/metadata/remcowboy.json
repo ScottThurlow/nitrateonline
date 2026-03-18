@@ -1,0 +1,92 @@
+{
+  "tmdb_id": 278813,
+  "title": "Esmeraldero",
+  "original_title": "Esmeraldero",
+  "release_date": "2003-11-17",
+  "runtime": 0,
+  "tagline": "",
+  "overview": "The true story of the rise of a Japanese businessman from Los Angeles named Eishy Hayata from an Airline engineer into the legend of the Emerald world -- the Emerald Cowboy",
+  "genres": [
+    "Drama",
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Burn Pictures",
+      "country": ""
+    },
+    {
+      "name": "EGM Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Andrew Molina"
+  ],
+  "writers": [
+    {
+      "name": "Eishy Hayata",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Molina",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eishy Hayata",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Juan Pablo Shuk",
+      "character": "Chucho",
+      "order": 1
+    },
+    {
+      "name": "Lucho Velasco",
+      "character": "Young Eishy",
+      "order": 2
+    },
+    {
+      "name": "John K. Anderson",
+      "character": "Reportero",
+      "order": 3
+    },
+    {
+      "name": "Gustavo Angarita Jr.",
+      "character": "Montaño",
+      "order": 4
+    },
+    {
+      "name": "Carolina Lizarazo",
+      "character": "Aurelia",
+      "order": 5
+    },
+    {
+      "name": "Ricardo Wilke",
+      "character": "Dave",
+      "order": 6
+    },
+    {
+      "name": "Horacio Tavera",
+      "character": "Claudio",
+      "order": 7
+    }
+  ],
+  "poster_path": "/9BWWD8OzW77xUlehA9QhnhNuISy.jpg",
+  "backdrop_path": "/fmLxnOaK3OFSPCkYUGJW4bIk8FL.jpg",
+  "budget": 0,
+  "revenue": 101358,
+  "vote_average": 5.0,
+  "vote_count": 1,
+  "imdb_id": "tt0289176",
+  "certifications": [],
+  "status": "Released"
+}

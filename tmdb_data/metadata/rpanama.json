@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 2575,
+  "title": "The Tailor of Panama",
+  "original_title": "The Tailor of Panama",
+  "release_date": "2001-02-11",
+  "runtime": 109,
+  "tagline": "In a place this treacherous, what a good spy needs is a spy of his own.",
+  "overview": "A British spy is banished to Panama after having an affair with an ambassador's mistress. Once there he makes connection with a local tailor with a nefarious past and connections to all of the top political and gangster figures in Panama. The tailor also has a wife, who works for the Panamanian president and a huge debt. The mission is to learn what the President intends to do with the Canal.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Merlin Films",
+      "country": "IE"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Boorman"
+  ],
+  "writers": [
+    {
+      "name": "John le Carré",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John le Carré",
+      "job": "Novel"
+    },
+    {
+      "name": "John Boorman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andrew Davies",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Boorman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pierce Brosnan",
+      "character": "Andy Osnard",
+      "order": 0
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Harry Pendel",
+      "order": 1
+    },
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Louisa Pendel",
+      "order": 2
+    },
+    {
+      "name": "Leonor Varela",
+      "character": "Marta",
+      "order": 3
+    },
+    {
+      "name": "Brendan Gleeson",
+      "character": "Mickie Abraxas",
+      "order": 4
+    },
+    {
+      "name": "Harold Pinter",
+      "character": "Uncle Benny",
+      "order": 5
+    },
+    {
+      "name": "Catherine McCormack",
+      "character": "Francesca Deane",
+      "order": 6
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "character": "Mark Pendel",
+      "order": 7
+    },
+    {
+      "name": "Lola Boorman",
+      "character": "Sarah Pendel",
+      "order": 8
+    },
+    {
+      "name": "David Hayman",
+      "character": "Luxmore",
+      "order": 9
+    }
+  ],
+  "poster_path": "/na80ysnoCvoxwGTMWCWYvnmaDlz.jpg",
+  "backdrop_path": "/zKctuZIWdni1QxTEt4SsNyysdxW.jpg",
+  "budget": 21000000,
+  "revenue": 28000000,
+  "vote_average": 6.0,
+  "vote_count": 531,
+  "imdb_id": "tt0236784",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

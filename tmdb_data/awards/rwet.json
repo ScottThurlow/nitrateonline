@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "27 Jul 2001",
+  "runtime": "97 min",
+  "genre": "Comedy, Romance",
+  "director": "David Wain",
+  "writer": "Michael Showalter, David Wain",
+  "actors": "Janeane Garofalo, David Hyde Pierce, Michael Showalter",
+  "plot": "The setting is Camp Firewood, the year 1981. It's the last day before everyone goes back to the real world, but there's still a summer's worth of unfinished business to resolve. At the center of the action is camp director Beth, who struggles to keep order while she falls in love with the local astrophysics professor. He is busy trying to save the camp from a deadly piece of NASA's Skylab which is hurtling toward earth. All that, plus: a dangerous waterfall rescue, love triangles, misfits, cool kids, and talking vegetable cans. The questions will all be resolved, of course, at the big talent show at the end of the day.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "6.5",
+  "imdb_votes": "63,316",
+  "box_office": "$295,206",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "39%",
+      "link": "https://www.rottentomatoes.com/search?search=Wet+Hot+American+Summer"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Wet+Hot+American+Summer/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0243655/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0243655/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2171"
+  }
+}

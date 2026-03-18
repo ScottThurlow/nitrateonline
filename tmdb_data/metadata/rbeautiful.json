@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 15940,
+  "title": "Beautiful Creatures",
+  "original_title": "Beautiful Creatures",
+  "release_date": "2000-08-23",
+  "runtime": 85,
+  "tagline": "",
+  "overview": "When Petula and Dorothy cover up the accidental murder of one jerk boyfriend, they hatch a hilarious scheme to collect a huge ransom.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DNA Films",
+      "country": "GB"
+    },
+    {
+      "name": "DNA Pictures International",
+      "country": ""
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "Snakeman Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Bill Eagles"
+  ],
+  "writers": [
+    {
+      "name": "Simon Donald",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Simon Donald",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan J. Wands",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rachel Weisz",
+      "character": "Petula",
+      "order": 0
+    },
+    {
+      "name": "Susan Lynch",
+      "character": "Dorothy",
+      "order": 1
+    },
+    {
+      "name": "Iain Glen",
+      "character": "Tony",
+      "order": 2
+    },
+    {
+      "name": "Jake D'Arcy",
+      "character": "Train Guard",
+      "order": 3
+    },
+    {
+      "name": "Tom Mannion",
+      "character": "Brian McMinn",
+      "order": 4
+    },
+    {
+      "name": "Maurice Roëves",
+      "character": "Ronnie McMinn",
+      "order": 5
+    },
+    {
+      "name": "Pauline Lynch",
+      "character": "Sheena",
+      "order": 6
+    },
+    {
+      "name": "Alex Norton",
+      "character": "Det Insp Hepburn",
+      "order": 7
+    },
+    {
+      "name": "Ron Donachie",
+      "character": "Police Pathologist",
+      "order": 8
+    },
+    {
+      "name": "Joel Strachan",
+      "character": "Sergeant Binnie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zOKaYzY14ZpVy6nG4kAelyLZQ4Q.jpg",
+  "backdrop_path": "/PncTIHqTcartOXIvm3TopbL0d7.jpg",
+  "budget": 0,
+  "revenue": 313768,
+  "vote_average": 5.6,
+  "vote_count": 77,
+  "imdb_id": "tt0221889",
+  "status": "Released"
+}

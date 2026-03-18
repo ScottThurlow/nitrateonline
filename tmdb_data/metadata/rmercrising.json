@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 8838,
+  "title": "Mercury Rising",
+  "original_title": "Mercury Rising",
+  "release_date": "1998-04-03",
+  "runtime": 111,
+  "tagline": "Someone knows too much.",
+  "overview": "Renegade FBI agent Art Jeffries protects a nine-year-old autistic boy who has cracked the government's new \"unbreakable\" code.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Harold Becker"
+  ],
+  "writers": [
+    {
+      "name": "Ryne Douglas Pearson",
+      "job": "Novel"
+    },
+    {
+      "name": "Lawrence Konner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Rosenthal",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph Singer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ric Kidney",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Karen Kehela Sherwood",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "Art Jeffries",
+      "order": 0
+    },
+    {
+      "name": "Alec Baldwin",
+      "character": "Nicholas Kudrow",
+      "order": 1
+    },
+    {
+      "name": "Miko Hughes",
+      "character": "Simon Lynch",
+      "order": 2
+    },
+    {
+      "name": "Chi McBride",
+      "character": "Tommy B. Jordan",
+      "order": 3
+    },
+    {
+      "name": "Kim Dickens",
+      "character": "Stacey",
+      "order": 4
+    },
+    {
+      "name": "Robert Stanton",
+      "character": "Dean Crandell",
+      "order": 5
+    },
+    {
+      "name": "Bodhi Elfman",
+      "character": "Leo Pedranski",
+      "order": 6
+    },
+    {
+      "name": "Carrie Preston",
+      "character": "Emily Lang",
+      "order": 7
+    },
+    {
+      "name": "Lindsey Ginter",
+      "character": "Peter Burrell",
+      "order": 8
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Shayes",
+      "order": 9
+    }
+  ],
+  "poster_path": "/60AAso6I2TzQCy2SjqtzPni8csA.jpg",
+  "backdrop_path": "/5EkowLSlfQT50KbeHzhvbdyaIoI.jpg",
+  "budget": 60000000,
+  "revenue": 93100000,
+  "vote_average": 6.29,
+  "vote_count": 1630,
+  "imdb_id": "tt0120749",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

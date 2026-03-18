@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 1 nomination",
+  "rated": "R",
+  "released": "25 May 2001",
+  "runtime": "130 min",
+  "genre": "Drama, Romance",
+  "director": "James Ivory",
+  "writer": "Henry James, Ruth Prawer Jhabvala",
+  "actors": "Uma Thurman, Jeremy Northam, Kate Beckinsale",
+  "plot": "Adam Verver, a US billionaire in London, dotes on daughter Maggie, an innocent abroad. An impecunious Italian, Prince Amerigo, marries her even though her best friend, Charlotte Stant, an alabaster beauty with brains, no money, and a practical and romantic nature, is his lover. She and Amerigo keep it secret from Maggie that they know each other, so Maggie interests her widowed father in Charlotte, who is happy with the match because she wants to be close to Amerigo. Charlotte desires him, the lovers risk discovery, Amerigo longs for Italy, Maggie wants to spare her father pain, and Adam wants to return to America to build a museum. Amidst lies and artifice, what fate awaits adulterers?",
+  "language": "English",
+  "country": "United States, France, United Kingdom",
+  "metascore": "62",
+  "imdb_rating": "5.9",
+  "imdb_votes": "4,642",
+  "box_office": "$3,050,532",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "55%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Golden+Bowl"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/The+Golden+Bowl/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0200669/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0200669/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/29946"
+  }
+}

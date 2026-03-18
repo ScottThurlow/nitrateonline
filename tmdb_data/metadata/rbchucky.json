@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 11932,
+  "title": "Bride of Chucky",
+  "original_title": "Bride of Chucky",
+  "release_date": "1998-10-15",
+  "runtime": 89,
+  "tagline": "Chucky gets lucky.",
+  "overview": "Chucky is reborn when his old flame, Tiffany, rescues his battered doll parts from a police impound.",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Midwinter Productions Inc.",
+      "country": ""
+    },
+    {
+      "name": "David Kirschner Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ronny Yu"
+  ],
+  "writers": [
+    {
+      "name": "Don Mancini",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Don Mancini",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Don Mancini",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Corey Sienega",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Kirschner",
+      "job": "Producer"
+    },
+    {
+      "name": "Grace Gilroy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brad Dourif",
+      "character": "Chucky (voice)",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Tilly",
+      "character": "Tiffany",
+      "order": 1
+    },
+    {
+      "name": "Katherine Heigl",
+      "character": "Jade",
+      "order": 2
+    },
+    {
+      "name": "Nick Stabile",
+      "character": "Jesse",
+      "order": 3
+    },
+    {
+      "name": "Alexis Arquette",
+      "character": "Damien",
+      "order": 4
+    },
+    {
+      "name": "Gordon Michael Woolvett",
+      "character": "David",
+      "order": 5
+    },
+    {
+      "name": "John Ritter",
+      "character": "Chief Warren Kincaid",
+      "order": 6
+    },
+    {
+      "name": "Lawrence Dane",
+      "character": "Lt. Preston",
+      "order": 7
+    },
+    {
+      "name": "Michael Louis Johnson",
+      "character": "Norton",
+      "order": 8
+    },
+    {
+      "name": "James Gallanders",
+      "character": "Russ",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yaIPNOcC7ZRuwH3maNwP9qzIo5G.jpg",
+  "backdrop_path": "/fLTd0VxpijUt6Hm1QM2ehLpWPeu.jpg",
+  "budget": 25000000,
+  "revenue": 50688658,
+  "vote_average": 6.13,
+  "vote_count": 2079,
+  "imdb_id": "tt0144120",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

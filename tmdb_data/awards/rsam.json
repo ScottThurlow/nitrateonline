@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "7 nominations total",
+  "rated": "R",
+  "released": "02 Jul 1999",
+  "runtime": "142 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Spike Lee",
+  "writer": "Spike Lee, Victor Colicchio, Michael Imperioli",
+  "actors": "John Leguizamo, Adrien Brody, Mira Sorvino",
+  "plot": "Spike Lee's take on the \"Son of Sam\" murders in New York City during the summer of 1977 centering on the residents of an Italian-American Northeast Bronx neighborhood who live in fear and distrust of one another.",
+  "language": "English, Italian",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "6.7",
+  "imdb_votes": "43,268",
+  "box_office": "$19,288,130",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Summer+of+Sam/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0162677/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0162677/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10279"
+  }
+}

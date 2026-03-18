@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "5 wins & 8 nominations total",
+  "rated": "R",
+  "released": "27 Jun 2003",
+  "runtime": "102 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Scott Roberts",
+  "writer": "Scott Roberts",
+  "actors": "Guy Pearce, Rachel Griffiths, Joel Edgerton",
+  "plot": "Three fraternal bank robbers languishing in jail, discover a profitable (if not dodgy) way to spend their time. Crime can most certainly pay, if you \"know wot I mean?\" However when sex and greed rear-up between the good crims and the bad cops, the consequences are both bizarre and fatal.",
+  "language": "English",
+  "country": "Australia, United Kingdom",
+  "metascore": "51",
+  "imdb_rating": "6.0",
+  "imdb_votes": "3,979",
+  "box_office": "$426,880",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "38%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Hard+Word"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/The+Hard+Word/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0280490/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0280490/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16311"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "10 Apr 1998",
+  "runtime": "93 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Peter Medak",
+  "writer": "Dennis Feldman, Chris Brancato",
+  "actors": "Natasha Henstridge, Michael Madsen, Marg Helgenberger",
+  "plot": "Mykelti Williamson and Justin Lazard are a pair of astronauts who make the first successful manned mission to Mars. Lazard's character gets infected by an alien and slowly begins to mutate. When they get back to Earth all he has on his mind is to have sex with Henstridge!",
+  "language": "English",
+  "country": "United States",
+  "metascore": "19",
+  "imdb_rating": "4.5",
+  "imdb_votes": "33,623",
+  "box_office": "$19,221,939",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "9%",
+      "link": "https://www.rottentomatoes.com/search?search=Species+II"
+    },
+    {
+      "source": "Metacritic",
+      "value": "19/100",
+      "link": "https://www.metacritic.com/search/Species+II/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120841/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120841/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10216"
+  }
+}

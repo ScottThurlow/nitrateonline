@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total",
+  "rated": "PG-13",
+  "released": "09 Jul 2003",
+  "runtime": "143 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Gore Verbinski",
+  "writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+  "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+  "plot": "This swash-buckling tale follows the quest of Captain Jack Sparrow, a savvy pirate, and Will Turner, a resourceful blacksmith, as they search for Elizabeth Swann. Elizabeth, the daughter of the governor and the love of Will's life, has been kidnapped by the feared Captain Barbossa. Little do they know, but the fierce and clever Barbossa has been cursed. He, along with his large crew, are under an ancient curse, doomed for eternity to neither live, nor die. That is, unless a blood sacrifice is made.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "63",
+  "imdb_rating": "8.1",
+  "imdb_votes": "1,312,218",
+  "box_office": "$305,413,918",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=Pirates+of+the+Caribbean%3A+The+Curse+of+the+Black+Pearl"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Pirates+of+the+Caribbean%3A+The+Curse+of+the+Black+Pearl/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0325980/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0325980/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22"
+  }
+}

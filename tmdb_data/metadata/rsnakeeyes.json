@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 8688,
+  "title": "Snake Eyes",
+  "original_title": "Snake Eyes",
+  "release_date": "1998-08-07",
+  "runtime": 98,
+  "tagline": "Believe everything except your eyes.",
+  "overview": "All bets are off when shady homicide cop Rick Santoro witnesses a murder during a boxing match. Determined to solve the crime, he quickly learns that his search for answers will only uncover yet more questions in an ever-widening web of conspiracy, intrigue, and danger.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Czech",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DeBart",
+      "country": ""
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "GP Snake Eyes Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Brian De Palma"
+  ],
+  "writers": [
+    {
+      "name": "David Koepp",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian De Palma",
+      "job": "Story"
+    },
+    {
+      "name": "David Koepp",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian De Palma",
+      "job": "Producer"
+    },
+    {
+      "name": "Louis A. Stroller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Todd Garner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicolas Cage",
+      "character": "Rick Santoro",
+      "order": 0
+    },
+    {
+      "name": "Gary Sinise",
+      "character": "Kevin Dunne",
+      "order": 1
+    },
+    {
+      "name": "Carla Gugino",
+      "character": "Julia Costello",
+      "order": 2
+    },
+    {
+      "name": "John Heard",
+      "character": "Gilbert Powell",
+      "order": 3
+    },
+    {
+      "name": "Stan Shaw",
+      "character": "Lincoln Tyler",
+      "order": 4
+    },
+    {
+      "name": "Kevin Dunn",
+      "character": "Lou Logan",
+      "order": 5
+    },
+    {
+      "name": "Michael Rispoli",
+      "character": "Jimmy George",
+      "order": 6
+    },
+    {
+      "name": "Joel Fabiani",
+      "character": "Charles Kirkland",
+      "order": 7
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Cyrus",
+      "order": 8
+    },
+    {
+      "name": "David Anthony Higgins",
+      "character": "Ned Campbell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gsh9mQKRrr4M90XC9Rr0wxefc9u.jpg",
+  "backdrop_path": "/2MvYDk1CzVOffa6IoFjVrTR3Ow4.jpg",
+  "budget": 73000000,
+  "revenue": 103900000,
+  "vote_average": 6.183,
+  "vote_count": 1480,
+  "imdb_id": "tt0120832",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

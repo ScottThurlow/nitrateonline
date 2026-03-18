@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 18736,
+  "title": "The Lizzie McGuire Movie",
+  "original_title": "The Lizzie McGuire Movie",
+  "release_date": "2003-05-02",
+  "runtime": 94,
+  "tagline": "The only risk in taking an adventure is not taking it at all.",
+  "overview": "Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy with her class. And what was supposed to be only a normal trip, becomes a teenager's dream come true.",
+  "genres": [
+    "Family",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Teen Life Productions",
+      "country": ""
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jim Fall"
+  ],
+  "writers": [
+    {
+      "name": "Ed Decter",
+      "job": "Writer"
+    },
+    {
+      "name": "John J. Strauss",
+      "job": "Writer"
+    },
+    {
+      "name": "Susan Estelle Jansen",
+      "job": "Writer"
+    },
+    {
+      "name": "Terri Minsky",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stan Rogow",
+      "job": "Producer"
+    },
+    {
+      "name": "David Roessell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terri Minsky",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hilary Duff",
+      "character": "Lizzie McGuire / Isabella Parigi",
+      "order": 0
+    },
+    {
+      "name": "Adam Lamberg",
+      "character": "David Gordon",
+      "order": 1
+    },
+    {
+      "name": "Yani Gellman",
+      "character": "Paolo Valisari",
+      "order": 2
+    },
+    {
+      "name": "Alex Borstein",
+      "character": "Miss Ungermeyer",
+      "order": 3
+    },
+    {
+      "name": "Brendan Kelly",
+      "character": "Sergei",
+      "order": 4
+    },
+    {
+      "name": "Ashlie Brillault",
+      "character": "Kate Sanders",
+      "order": 5
+    },
+    {
+      "name": "Clayton Snyder",
+      "character": "Ethan Craft",
+      "order": 6
+    },
+    {
+      "name": "Jake Thomas",
+      "character": "Matt McGuire",
+      "order": 7
+    },
+    {
+      "name": "Jody Racicot",
+      "character": "Giorgio",
+      "order": 8
+    },
+    {
+      "name": "Hallie Todd",
+      "character": "Jo McGuire",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ecDrdzRhl01fck3Bwd3pn9Qm3Un.jpg",
+  "backdrop_path": "/hgzX6YBJXI4fvosxvjnPrAmWPNu.jpg",
+  "budget": 17000000,
+  "revenue": 55534455,
+  "vote_average": 6.322,
+  "vote_count": 1318,
+  "imdb_id": "tt0306841",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

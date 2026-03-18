@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "24 May 2002",
+  "runtime": "108 min",
+  "genre": "Documentary, Biography, Crime",
+  "director": "Nick Broomfield",
+  "writer": "N/A",
+  "actors": "The Notorious B.I.G., Tupac Shakur, Nick Broomfield",
+  "plot": "In 1997, rap superstars Tupac Shakur and Christopher Wallace (aka Biggie Smalls, The Notorious B.I.G.) were gunned down in separate incidents, the apparent victims of hip hop's infamous east-west rivalry. Nick Broomfield's film introduces Russell Poole, an ex-cop with damning evidence that suggests the LAPD deliberately fumbled the case to conceal connections between the police, LA gangs and Death Row Records, the label run by feared rap mogul Marion \"Suge\" Knight.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "63",
+  "imdb_rating": "6.7",
+  "imdb_votes": "5,056",
+  "box_office": "$94,874",
+  "dvd": "19 Nov 2016",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=Biggie+%26+Tupac"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Biggie+%26+Tupac/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0303356/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0303356/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/30586"
+  }
+}

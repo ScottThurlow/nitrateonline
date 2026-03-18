@@ -1,0 +1,129 @@
+{
+  "tmdb_id": 9683,
+  "title": "Bubble Boy",
+  "original_title": "Bubble Boy",
+  "release_date": "2001-08-24",
+  "runtime": 84,
+  "tagline": "Life is an adventure. Don't blow it.",
+  "overview": "Jimmy is a young man who was born without an immune system and has lived his life within a plastic bubble in his bedroom... who pines for the sweet caresses of girl-next-door Chloe. But when Chloe decides to marry her high school boyfriend, Jimmy – bubble suit and all – treks cross-country to stop her.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Bandeira Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Blair Hayes"
+  ],
+  "writers": [
+    {
+      "name": "Cinco Paul",
+      "job": "Writer"
+    },
+    {
+      "name": "Ken Daurio",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric McLeod",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Beau Flynn",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jake Gyllenhaal",
+      "character": "Jimmy Livingston",
+      "order": 0
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "character": "Mrs. Livingston",
+      "order": 1
+    },
+    {
+      "name": "Marley Shelton",
+      "character": "Chloe",
+      "order": 2
+    },
+    {
+      "name": "Danny Trejo",
+      "character": "Slim",
+      "order": 3
+    },
+    {
+      "name": "John Carroll Lynch",
+      "character": "Mr. Livingston",
+      "order": 4
+    },
+    {
+      "name": "Verne Troyer",
+      "character": "Dr. Phreak",
+      "order": 5
+    },
+    {
+      "name": "Dave Sheridan",
+      "character": "Mark",
+      "order": 6
+    },
+    {
+      "name": "Brian George",
+      "character": "Pushpop",
+      "order": 7
+    },
+    {
+      "name": "Patrick Cranshaw",
+      "character": "Pappy / Pippy",
+      "order": 8
+    },
+    {
+      "name": "Stephen Spinella",
+      "character": "Chicken Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tFwvUSc8g0HHvDOBQ2rvC9LWVSj.jpg",
+  "backdrop_path": "/vUq8oKAnONAbYxIDNw4CQcEuADd.jpg",
+  "budget": 0,
+  "revenue": 5007209,
+  "vote_average": 5.75,
+  "vote_count": 618,
+  "imdb_id": "tt0258470",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "7 wins & 18 nominations total",
+  "rated": "R",
+  "released": "06 Mar 1998",
+  "runtime": "117 min",
+  "genre": "Comedy, Crime",
+  "director": "Joel Coen, Ethan Coen",
+  "writer": "Ethan Coen, Joel Coen",
+  "actors": "Jeff Bridges, John Goodman, Julianne Moore",
+  "plot": "When \"the dude\" Lebowski is mistaken for a millionaire Lebowski, two thugs urinate on his rug to coerce him into paying a debt he knows nothing about. While attempting to gain recompense for the ruined rug from his wealthy counterpart, he accepts a one-time job with high pay-off. He enlists the help of his bowling buddy, Walter, a gun-toting Jewish-convert with anger issues. Deception leads to more trouble, and it soon seems that everyone from porn empire tycoons to nihilists want something from The Dude.",
+  "language": "English, German, Hebrew, Spanish",
+  "country": "United Kingdom, United States",
+  "metascore": "71",
+  "imdb_rating": "8.1",
+  "imdb_votes": "911,908",
+  "box_office": "$19,488,923",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Big+Lebowski"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/The+Big+Lebowski/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118715/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118715/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/115"
+  }
+}

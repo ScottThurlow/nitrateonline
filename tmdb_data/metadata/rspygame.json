@@ -1,0 +1,208 @@
+{
+  "tmdb_id": 1535,
+  "title": "Spy Game",
+  "original_title": "Spy Game",
+  "release_date": "2001-11-18",
+  "runtime": 126,
+  "tagline": "It's not how you play the game. It's how the game plays you.",
+  "overview": "On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Cantonese",
+    "English",
+    "German",
+    "Arabic",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "TOHO",
+      "country": "JP"
+    },
+    {
+      "name": "Kalima Productions",
+      "country": "DE"
+    },
+    {
+      "name": "Metropolitan Filmexport",
+      "country": "FR"
+    },
+    {
+      "name": "Douglas Wick Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tony Scott"
+  ],
+  "writers": [
+    {
+      "name": "Michael Frost Beckner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Arata",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Frost Beckner",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Abraham",
+      "job": "Producer"
+    },
+    {
+      "name": "Douglas Wick",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Redford",
+      "character": "Nathan Muir",
+      "order": 0
+    },
+    {
+      "name": "Brad Pitt",
+      "character": "Tom Bishop",
+      "order": 1
+    },
+    {
+      "name": "Catherine McCormack",
+      "character": "Elizabeth Hadley",
+      "order": 2
+    },
+    {
+      "name": "Stephen Dillane",
+      "character": "Charles Harker",
+      "order": 3
+    },
+    {
+      "name": "Larry Bryggman",
+      "character": "Troy Folger",
+      "order": 4
+    },
+    {
+      "name": "Marianne Jean-Baptiste",
+      "character": "Gladys Jennip",
+      "order": 5
+    },
+    {
+      "name": "Matthew Marsh",
+      "character": "Dr. Byars",
+      "order": 6
+    },
+    {
+      "name": "Todd Boyce",
+      "character": "Robert Aiken",
+      "order": 7
+    },
+    {
+      "name": "Michael Paul Chan",
+      "character": "Vincent Vy Ngo",
+      "order": 8
+    },
+    {
+      "name": "Garrick Hagon",
+      "character": "Cy Wilson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+  "backdrop_path": "/7Hfatv0lZkMyxw8UBZmiK2qSXDR.jpg",
+  "budget": 115000000,
+  "revenue": 143049560,
+  "vote_average": 6.914,
+  "vote_count": 2315,
+  "imdb_id": "tt0266987",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

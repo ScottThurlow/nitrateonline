@@ -1,0 +1,203 @@
+{
+  "tmdb_id": 10054,
+  "title": "Spy Kids",
+  "original_title": "Spy Kids",
+  "release_date": "2001-03-18",
+  "runtime": 88,
+  "tagline": "Real spies... only smaller",
+  "overview": "Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the \"family business.\"",
+  "genres": [
+    "Family",
+    "Action",
+    "Comedy",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Troublemaker Studios",
+      "country": "US"
+    },
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "writers": [
+    {
+      "name": "Marc Baird",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Rodriguez",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elizabeth Avellan",
+      "job": "Producer"
+    },
+    {
+      "name": "Cary Granat",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alexa PenaVega",
+      "character": "Carmen Cortez",
+      "order": 0
+    },
+    {
+      "name": "Daryl Sabara",
+      "character": "Juni Cortez",
+      "order": 1
+    },
+    {
+      "name": "Antonio Banderas",
+      "character": "Gregorio Cortez",
+      "order": 2
+    },
+    {
+      "name": "Carla Gugino",
+      "character": "Ingrid Cortez",
+      "order": 3
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Fegan Floop",
+      "order": 4
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Alexander Minion",
+      "order": 5
+    },
+    {
+      "name": "Teri Hatcher",
+      "character": "Ms. Gradenko",
+      "order": 6
+    },
+    {
+      "name": "Robert Patrick",
+      "character": "Mr. Lisp",
+      "order": 7
+    },
+    {
+      "name": "Dick Clark",
+      "character": "Financier",
+      "order": 8
+    },
+    {
+      "name": "George Clooney",
+      "character": "Devlin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+  "backdrop_path": "/wfStsmeSW7MtvYhD9Ac6ETXdbmx.jpg",
+  "budget": 35000000,
+  "revenue": 147934180,
+  "vote_average": 5.817,
+  "vote_count": 3664,
+  "imdb_id": "tt0227538",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IL",
+      "rating": "7+"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SK",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

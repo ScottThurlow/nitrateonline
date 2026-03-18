@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins",
+  "rated": "PG-13",
+  "released": "30 Mar 2001",
+  "runtime": "119 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Richard Dutcher",
+  "writer": "Richard Dutcher",
+  "actors": "Richard Dutcher, Wilford Brimley, Matthew A. Brown",
+  "plot": "Sheriff Wes Clayton is a compassionate lawman and a Mormon bishop in a quiet Mormon community called Brigham. The tranquil town is shaken to the core when a woman from California is found murdered near her car. Clayton, his young deputy, the town's retired sheriff and his shrewd secretary work with an FBI agent sent to investigate. As a civil and spiritual leader in the frightened town, Clayton must serve both justice and mercy to uncover the town's deepest secrets, find the murderer and keep Brigham from ripping itself apart.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.8",
+  "imdb_votes": "1,583",
+  "box_office": "$852,206",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Brigham+City"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Brigham+City/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0268200/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0268200/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/26791"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 575,
+  "title": "The Experiment",
+  "original_title": "Das Experiment",
+  "release_date": "2001-03-08",
+  "runtime": 120,
+  "tagline": "You are invited to participate",
+  "overview": "20 volunteers agree to take part in a seemingly well-paid experiment advertised by the university. It is supposed to be about aggressive behavior in an artificial prison situation. A journalist senses a story behind the ad and smuggles himself in among the test subjects. They are randomly divided into prisoners and guards. What seems like a game at the beginning soon turns into bloody seriousness.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Fanes Film",
+      "country": "DE"
+    },
+    {
+      "name": "Typhoon Film",
+      "country": "DE"
+    },
+    {
+      "name": "Senator Film",
+      "country": "DE"
+    },
+    {
+      "name": "Seven Pictures",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Oliver Hirschbiegel"
+  ],
+  "writers": [
+    {
+      "name": "Mario Giordano",
+      "job": "Novel"
+    },
+    {
+      "name": "Mario Giordano",
+      "job": "Writer"
+    },
+    {
+      "name": "Don Bohlinger",
+      "job": "Writer"
+    },
+    {
+      "name": "Christoph Darnstädt",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Friedrich Wildfeuer",
+      "job": "Producer"
+    },
+    {
+      "name": "Norbert Preuss",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Conrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Ulrike Leibfried",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Moritz Bleibtreu",
+      "character": "Tarek Fahd, Prisoner Nr. 77",
+      "order": 0
+    },
+    {
+      "name": "Christian Berkel",
+      "character": "Robert Steinhoff, Prisoner Nr. 38",
+      "order": 1
+    },
+    {
+      "name": "Justus von Dohnányi",
+      "character": "Berus",
+      "order": 2
+    },
+    {
+      "name": "Maren Eggert",
+      "character": "Dora",
+      "order": 3
+    },
+    {
+      "name": "Edgar Selge",
+      "character": "Professor Dr. Klaus Thon",
+      "order": 4
+    },
+    {
+      "name": "Andrea Sawatzki",
+      "character": "Dr. Jutta Grimm",
+      "order": 5
+    },
+    {
+      "name": "Oliver Stokowski",
+      "character": "Günther Schütte, Prisoner Nr. 82",
+      "order": 6
+    },
+    {
+      "name": "Wotan Wilke Möhring",
+      "character": "Joe Maier, Prisoner Nr. 69",
+      "order": 7
+    },
+    {
+      "name": "Nicki von Tempelhoff",
+      "character": "Kamps",
+      "order": 8
+    },
+    {
+      "name": "Timo Dierkes",
+      "character": "Eckert",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mfxXel8k2UWkgJ4MIsvVBsqnvFp.jpg",
+  "backdrop_path": "/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+  "budget": 0,
+  "revenue": 13782896,
+  "vote_average": 7.414,
+  "vote_count": 1191,
+  "imdb_id": "tt0250258",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

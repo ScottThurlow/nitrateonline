@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "5 wins & 7 nominations",
+  "rated": "R",
+  "released": "30 Jul 1999",
+  "runtime": "111 min",
+  "genre": "Drama",
+  "director": "Michael Polish",
+  "writer": "Mark Polish, Michael Polish",
+  "actors": "Michael Polish, Mark Polish, Michele Hicks",
+  "plot": "Francis and Blake Falls are conjoined twins who live in a neat little room in a rundown hotel. While sharing some organs, Blake is always fit and Francis is very sickly. Into their world comes a young lady, who turns their world upside down. She gets involved with Blake, and convinces the two to attend a Halloween party, where they can pass themselves off as wearing a costume. Eventually Francis becomes really ill, and they have to be separated. They then face the physical and mental strains that come from their proposed separation. Viewers will be inclined to believe that the two are really Siamese twins, but in fact they are simply real-life brothers playing the parts convincingly.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "7.1",
+  "imdb_votes": "5,277",
+  "box_office": "$985,341",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=Twin+Falls+Idaho"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Twin+Falls+Idaho/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0162830/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0162830/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/33430"
+  }
+}

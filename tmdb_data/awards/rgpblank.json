@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "2 wins & 8 nominations total",
+  "rated": "R",
+  "released": "11 Apr 1997",
+  "runtime": "107 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "George Armitage",
+  "writer": "Tom Jankiewicz, D.V. DeVincentis, Steve Pink",
+  "actors": "John Cusack, Minnie Driver, Dan Aykroyd",
+  "plot": "Martin Blank is a freelance hitman who starts to develop a conscience, which causes him to muff a couple of routine assignments. On the advice of his secretary and his psychiatrist, he attends his 10th year High School reunion in Grosse Pointe, Michigan (a Detroit suburb where he's also contracted to kill someone). Hot on his tail are a couple of over-enthusiastic federal agents, another assassin who wants to kill him, and Grocer, an assassin who wants him to join an \"Assassin's Union.\"",
+  "language": "English",
+  "country": "United States",
+  "metascore": "76",
+  "imdb_rating": "7.3",
+  "imdb_votes": "104,603",
+  "box_office": "$28,084,357",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=Grosse+Pointe+Blank"
+    },
+    {
+      "source": "Metacritic",
+      "value": "76/100",
+      "link": "https://www.metacritic.com/search/Grosse+Pointe+Blank/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119229/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119229/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9434"
+  }
+}

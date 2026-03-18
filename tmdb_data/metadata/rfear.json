@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 9544,
+  "title": "FearDotCom",
+  "original_title": "FearDotCom",
+  "release_date": "2002-08-09",
+  "runtime": 101,
+  "tagline": "The last site you'll ever see.",
+  "overview": "When four bodies are discovered among the industrial decay and urban grime of New York City, brash young detective Mike Reilly teams with ambitious Department of Health researcher Terry Huston to uncover the cause behind their violent and inexplicable deaths. The only common factor shared by the victims? Each died exactly 48 hours after logging onto a website called feardotcom.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "MDP Worldwide",
+      "country": "US"
+    },
+    {
+      "name": "ApolloMedia",
+      "country": "DE"
+    },
+    {
+      "name": "Fear.com Productions",
+      "country": "GB"
+    },
+    {
+      "name": "The Carousel Picture Company",
+      "country": "LU"
+    }
+  ],
+  "director": [
+    "William Malone"
+  ],
+  "writers": [
+    {
+      "name": "Josephine Coyle",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Moshe Diamant",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Hübner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rudy Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Saunders",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Romain Schroeder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Limor Diamant",
+      "job": "Producer"
+    },
+    {
+      "name": "Moshe Diamant",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Stephen Dorff",
+      "character": "Mike",
+      "order": 0
+    },
+    {
+      "name": "Natascha McElhone",
+      "character": "Terry",
+      "order": 1
+    },
+    {
+      "name": "Stephen Rea",
+      "character": "Alistair",
+      "order": 2
+    },
+    {
+      "name": "Udo Kier",
+      "character": "Polidori",
+      "order": 3
+    },
+    {
+      "name": "Amelia Curtis",
+      "character": "Denise",
+      "order": 4
+    },
+    {
+      "name": "Jeffrey Combs",
+      "character": "Styles",
+      "order": 5
+    },
+    {
+      "name": "Nigel Terry",
+      "character": "Turnball",
+      "order": 6
+    },
+    {
+      "name": "Gesine Cukrowski",
+      "character": "Jeannine",
+      "order": 7
+    },
+    {
+      "name": "Michael Sarrazin",
+      "character": "Frank Bryant",
+      "order": 8
+    },
+    {
+      "name": "Jana Guttgemanns",
+      "character": "Little Girl",
+      "order": 9
+    }
+  ],
+  "poster_path": "/phcd5AJvA1S45JMKYoNLhTzFwsE.jpg",
+  "backdrop_path": "/5gnBqLDi1pjJxxCgpOJCu5VSLp1.jpg",
+  "budget": 40000000,
+  "revenue": 18902015,
+  "vote_average": 3.785,
+  "vote_count": 404,
+  "imdb_id": "tt0295254",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

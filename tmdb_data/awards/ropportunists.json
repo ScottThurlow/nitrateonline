@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 nominations",
+  "rated": "R",
+  "released": "11 Aug 2000",
+  "runtime": "90 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Myles Connell",
+  "writer": "Myles Connell",
+  "actors": "Christopher Walken, Peter McDonald, Anne Pitoniak",
+  "plot": "Vic is a struggling auto mechanic with a safe-cracking past and a lot of debt. His girlfriend runs a bar and offers to loan him the money she's saved for remodeling, but Vic is reluctant to take it. When a long-lost cousin from Ireland shows up on his doorstep, the two team up for one last heist.",
+  "language": "English, Polish",
+  "country": "United Kingdom, United States",
+  "metascore": "71",
+  "imdb_rating": "5.7",
+  "imdb_votes": "1,314",
+  "box_office": "$584,054",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Opportunists"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/The+Opportunists/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0138681/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0138681/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/45905"
+  }
+}

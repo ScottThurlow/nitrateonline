@@ -1,0 +1,119 @@
+{
+  "tmdb_id": 62677,
+  "title": "Songcatcher",
+  "original_title": "Songcatcher",
+  "release_date": "2001-03-01",
+  "runtime": 109,
+  "tagline": "Fall under its spell..",
+  "overview": "After being denied a promotion at the university where she teaches, Doctor Lily Penleric, a brilliant musicologist, impulsively visits her sister, who runs a struggling rural school in Appalachia. There she stumbles upon the discovery of her life - a treasure trove of ancient Scots-Irish ballads, songs that have been handed down from generation to generation, preserved intact by the seclusion of the mountains. With the goal of securing her promotion, Lily ventures into the most isolated areas of the mountains to collect the songs and finds herself increasingly enchanted.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Rigas Entertainment",
+      "country": ""
+    },
+    {
+      "name": "ErgoArts",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Maggie Greenwald"
+  ],
+  "writers": [
+    {
+      "name": "Maggie Greenwald",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "Ellen Rigas-Venetis",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Janet McTeer",
+      "character": "Professor Lily Penleric, PhD",
+      "order": 0
+    },
+    {
+      "name": "Michael Goodwin",
+      "character": "Professor Wallace Aldrich, PhD",
+      "order": 1
+    },
+    {
+      "name": "Gregory Russell Cook",
+      "character": "Fate Honeycutt",
+      "order": 2
+    },
+    {
+      "name": "Jane Adams",
+      "character": "Eleanor 'Elna' Penleric",
+      "order": 3
+    },
+    {
+      "name": "E. Katherine Kerr",
+      "character": "Harriet Tolliver",
+      "order": 4
+    },
+    {
+      "name": "Emmy Rossum",
+      "character": "Deladis Slocumb",
+      "order": 5
+    },
+    {
+      "name": "Pat Carroll",
+      "character": "Viney Butler",
+      "order": 6
+    },
+    {
+      "name": "Stephanie Roth Haberle",
+      "character": "Alice Kincaid",
+      "order": 7
+    },
+    {
+      "name": "Aidan Quinn",
+      "character": "Tom Bledsoe",
+      "order": 8
+    },
+    {
+      "name": "Bart Hansard",
+      "character": "Hilliard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qpUSLY5BPi42rqO097tNF8e53Qm.jpg",
+  "backdrop_path": "/1ExirZYN7X0Vowg57XW71JQHtxo.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.054,
+  "vote_count": 37,
+  "imdb_id": "tt0210299",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

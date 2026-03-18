@@ -1,0 +1,268 @@
+{
+  "tmdb_id": 1878,
+  "title": "Fear and Loathing in Las Vegas",
+  "original_title": "Fear and Loathing in Las Vegas",
+  "release_date": "1998-05-22",
+  "runtime": 118,
+  "tagline": "Buy the ticket, take the ride.",
+  "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Summit Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Fear and Loathing LLC",
+      "country": ""
+    },
+    {
+      "name": "Rhino Films",
+      "country": "US"
+    },
+    {
+      "name": "Shark Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Terry Gilliam"
+  ],
+  "writers": [
+    {
+      "name": "Terry Gilliam",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tod Davies",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tony Grisoni",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alex Cox",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hunter S. Thompson",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Laila Nabulsi",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Nemeth",
+      "job": "Producer"
+    },
+    {
+      "name": "Patrick Cassavetti",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Foos",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harold Bronson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Johnny Depp",
+      "character": "Raoul Duke",
+      "order": 0
+    },
+    {
+      "name": "Benicio del Toro",
+      "character": "Dr. Gonzo",
+      "order": 1
+    },
+    {
+      "name": "Tobey Maguire",
+      "character": "Hitchhiker",
+      "order": 2
+    },
+    {
+      "name": "Michael Lee Gogin",
+      "character": "Uniformed Dwarf",
+      "order": 3
+    },
+    {
+      "name": "Larry Cedar",
+      "character": "Car Rental Agent - Los Angeles",
+      "order": 4
+    },
+    {
+      "name": "Brian Le Baron",
+      "character": "Parking Attendant",
+      "order": 5
+    },
+    {
+      "name": "Katherine Helmond",
+      "character": "Desk Clerk at Mint Hotel",
+      "order": 6
+    },
+    {
+      "name": "Michael Warwick",
+      "character": "Bell Boy",
+      "order": 7
+    },
+    {
+      "name": "Craig Bierko",
+      "character": "Lacerda",
+      "order": 8
+    },
+    {
+      "name": "Tyde Kierney",
+      "character": "Reporter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+  "backdrop_path": "/4BcunK3qpDAMBM5YBsCgQWx9zB6.jpg",
+  "budget": 18500000,
+  "revenue": 10700000,
+  "vote_average": 7.208,
+  "vote_count": 4954,
+  "imdb_id": "tt0120669",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

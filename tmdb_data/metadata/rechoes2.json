@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 11601,
+  "title": "Stir of Echoes",
+  "original_title": "Stir of Echoes",
+  "release_date": "1999-09-10",
+  "runtime": 99,
+  "tagline": "In every mind there is a door that should never be opened.",
+  "overview": "After being hypnotized by his sister-in-law, Tom Witzky begins seeing haunting visions of a girl's ghost and a mystery begins to unfold around her.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "Korean"
+  ],
+  "production_companies": [
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Hofflund/Polone",
+      "country": ""
+    }
+  ],
+  "director": [
+    "David Koepp"
+  ],
+  "writers": [
+    {
+      "name": "David Koepp",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Richard Matheson",
+      "job": "Novel"
+    },
+    {
+      "name": "Andrew Kevin Walker",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Judy Hofflund",
+      "job": "Producer"
+    },
+    {
+      "name": "Gavin Polone",
+      "job": "Producer"
+    },
+    {
+      "name": "Michele Weisler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Bacon",
+      "character": "Tom Witzky",
+      "order": 0
+    },
+    {
+      "name": "Kathryn Erbe",
+      "character": "Maggie Witzky",
+      "order": 1
+    },
+    {
+      "name": "Illeana Douglas",
+      "character": "Lisa Weil",
+      "order": 2
+    },
+    {
+      "name": "Zachary David Cope",
+      "character": "Jake Witzky",
+      "order": 3
+    },
+    {
+      "name": "Kevin Dunn",
+      "character": "Frank McCarthy",
+      "order": 4
+    },
+    {
+      "name": "Conor O'Farrell",
+      "character": "Harry Damon",
+      "order": 5
+    },
+    {
+      "name": "Liza Weil",
+      "character": "Debbie Kozac",
+      "order": 6
+    },
+    {
+      "name": "Lusia Strus",
+      "character": "Sheila McCarthy",
+      "order": 7
+    },
+    {
+      "name": "Stephen Eugene Walker",
+      "character": "Bobby",
+      "order": 8
+    },
+    {
+      "name": "Mary Kay Cook",
+      "character": "Vanessa Damon",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9CyJ5aYF27cITX1WSUTENeP4wBE.jpg",
+  "backdrop_path": "/puVlXLW2gVWQFKJsd9fjYWpdTgZ.jpg",
+  "budget": 12000000,
+  "revenue": 21142914,
+  "vote_average": 6.676,
+  "vote_count": 1318,
+  "imdb_id": "tt0164181",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

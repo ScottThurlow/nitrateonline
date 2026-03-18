@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 11675,
+  "title": "Halloween H20: 20 Years Later",
+  "original_title": "Halloween H20: 20 Years Later",
+  "release_date": "1998-08-05",
+  "runtime": 86,
+  "tagline": "This summer, terror won't be taking a vacation.",
+  "overview": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed name, where she works as the headmistress of a private school. But it's not far enough to escape Myers, who soon discovers her whereabouts. As Halloween descends upon Laurie's peaceful community, a feeling of dread weighs upon her -- with good reason.",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Nightfall Productions",
+      "country": ""
+    },
+    {
+      "name": "Trancas International Films",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Miner"
+  ],
+  "writers": [
+    {
+      "name": "Matt Greenberg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Zappia",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Debra Hill",
+      "job": "Characters"
+    },
+    {
+      "name": "John Carpenter",
+      "job": "Characters"
+    },
+    {
+      "name": "Robert Zappia",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Moustapha Akkad",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Freeman",
+      "job": "Producer"
+    },
+    {
+      "name": "Cary Granat",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Laurie Strode / Keri Tate",
+      "order": 0
+    },
+    {
+      "name": "Adam Arkin",
+      "character": "Will Brennan",
+      "order": 1
+    },
+    {
+      "name": "Michelle Williams",
+      "character": "Molly Cartwell",
+      "order": 2
+    },
+    {
+      "name": "Adam Hann-Byrd",
+      "character": "Charles 'Charlie' Deveraux",
+      "order": 3
+    },
+    {
+      "name": "Jodi Lyn O'Keefe",
+      "character": "Sarah Wainthrope",
+      "order": 4
+    },
+    {
+      "name": "Janet Leigh",
+      "character": "Norma Watson",
+      "order": 5
+    },
+    {
+      "name": "Josh Hartnett",
+      "character": "John Tate",
+      "order": 6
+    },
+    {
+      "name": "LL Cool J",
+      "character": "Ronald 'Ronny' Jones",
+      "order": 7
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "character": "Jimmy Howell",
+      "order": 8
+    },
+    {
+      "name": "Branden Williams",
+      "character": "Tony Allegre",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+  "backdrop_path": "/qNf28DAHAj0JiECIvs3rwneu2FK.jpg",
+  "budget": 17000000,
+  "revenue": 75041738,
+  "vote_average": 6.041,
+  "vote_count": 1769,
+  "imdb_id": "tt0120694",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

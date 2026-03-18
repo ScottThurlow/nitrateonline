@@ -1,0 +1,129 @@
+{
+  "tmdb_id": 16161,
+  "title": "Baby Boy",
+  "original_title": "Baby Boy",
+  "release_date": "2001-06-27",
+  "runtime": 130,
+  "tagline": "Just a Baby Boy.",
+  "overview": "The story of Jody, a misguided, 20-year-old African-American who is really just a baby boy finally forced-kicking and screaming to face the commitments of real life. Streetwise and jobless, he has not only fathered two children by two different women-Yvette and Peanut but still lives with his own mother. He can't seem to strike a balance or find direction in his chaotic life.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Deal Productions",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Singleton"
+  ],
+  "writers": [
+    {
+      "name": "John Singleton",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Singleton",
+      "job": "Producer"
+    },
+    {
+      "name": "Dwight Williams",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tyrese Gibson",
+      "character": "Joseph Summers",
+      "order": 0
+    },
+    {
+      "name": "Taraji P. Henson",
+      "character": "Yvette",
+      "order": 1
+    },
+    {
+      "name": "Omar Gooding",
+      "character": "Sweetpea",
+      "order": 2
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Melvin 'Mel'",
+      "order": 3
+    },
+    {
+      "name": "Snoop Dogg",
+      "character": "Rodney",
+      "order": 4
+    },
+    {
+      "name": "A.J. Johnson",
+      "character": "Juanita",
+      "order": 5
+    },
+    {
+      "name": "Angell Conwell",
+      "character": "Kim",
+      "order": 6
+    },
+    {
+      "name": "Kareem J. Grimes",
+      "character": "Do Dirty",
+      "order": 7
+    },
+    {
+      "name": "Tracey Cherelle Jones",
+      "character": "Sharika",
+      "order": 8
+    },
+    {
+      "name": "Mo'Nique",
+      "character": "Patrice",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2zhkM2rxCPVLxuZRYejcTiOhzfU.jpg",
+  "backdrop_path": "/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg",
+  "budget": 16000000,
+  "revenue": 29381649,
+  "vote_average": 7.083,
+  "vote_count": 343,
+  "imdb_id": "tt0255819",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 nominations",
+  "rated": "R",
+  "released": "21 Apr 2000",
+  "runtime": "90 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Davis Guggenheim",
+  "writer": "Gregory Poirier, Theresa Rebeck",
+  "actors": "James Marsden, Lena Headey, Norman Reedus",
+  "plot": "On a beautiful college campus, something ugly is about to be spread around. A bit of gossip that was told is starting to take a frightening turn. Who could it have offended and how far will the person on the other side of the gossip handle the embarrassing situation.",
+  "language": "English, Italian",
+  "country": "United States",
+  "metascore": "31",
+  "imdb_rating": "5.9",
+  "imdb_votes": "17,834",
+  "box_office": "$5,108,820",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=Gossip"
+    },
+    {
+      "source": "Metacritic",
+      "value": "31/100",
+      "link": "https://www.metacritic.com/search/Gossip/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0176783/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0176783/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18041"
+  }
+}

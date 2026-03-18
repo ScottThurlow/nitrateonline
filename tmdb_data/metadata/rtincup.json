@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 10478,
+  "title": "Tin Cup",
+  "original_title": "Tin Cup",
+  "release_date": "1996-08-16",
+  "runtime": 135,
+  "tagline": "Golf Pro. Love Amateur.",
+  "overview": "A washed up golf pro working at a driving range tries to qualify for the US Open in order to win the heart of his succesful rival's girlfriend.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Shelton"
+  ],
+  "writers": [
+    {
+      "name": "Ron Shelton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Norville",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "David V. Lester",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Costner",
+      "character": "Roy 'Tin Cup' McAvoy",
+      "order": 0
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Dr. Molly Griswold",
+      "order": 1
+    },
+    {
+      "name": "Don Johnson",
+      "character": "David Simms",
+      "order": 2
+    },
+    {
+      "name": "Cheech Marin",
+      "character": "Romeo Posar",
+      "order": 3
+    },
+    {
+      "name": "Linda Hart",
+      "character": "Doreen",
+      "order": 4
+    },
+    {
+      "name": "Dennis Burkley",
+      "character": "Earl",
+      "order": 5
+    },
+    {
+      "name": "Rex Linn",
+      "character": "Dewey",
+      "order": 6
+    },
+    {
+      "name": "Lou Myers",
+      "character": "Clint",
+      "order": 7
+    },
+    {
+      "name": "Richard Lineback",
+      "character": "Curt",
+      "order": 8
+    },
+    {
+      "name": "George Perez",
+      "character": "Jose",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rB7OvMmjcBFoogleORaUqrRgp8g.jpg",
+  "backdrop_path": "/amO7B3fSXhnIP51NDXBXPVcZRe.jpg",
+  "budget": 45000000,
+  "revenue": 53854588,
+  "vote_average": 6.056,
+  "vote_count": 572,
+  "imdb_id": "tt0117918",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

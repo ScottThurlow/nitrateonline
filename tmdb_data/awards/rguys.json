@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 2 nominations total",
+  "rated": "PG",
+  "released": "20 Nov 2003",
+  "runtime": "84 min",
+  "genre": "Drama",
+  "director": "Jim Simpson",
+  "writer": "Anne Nelson, Jim Simpson",
+  "actors": "Sigourney Weaver, Anthony LaPaglia, Irene Walsh",
+  "plot": "Adapted from a stage play by Anne Nelson, a drama centering on a slice of the aftermath of the 9/11 tragedy. Nick, a fire captain, who lost eight men in the collapse of the World Trade Center, enlists help from an editor, Joan, to prepare their eulogies. Nick builds a relationship with Joan, who helps him put together the difficult, heartfelt speeches that he must deliver with honor, humor and poise--all the while, navigating his way through his own emotional response.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "60",
+  "imdb_rating": "6.3",
+  "imdb_votes": "1,459",
+  "box_office": "$21,366",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Guys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/The+Guys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0319470/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0319470/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/65684"
+  }
+}

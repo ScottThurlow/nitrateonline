@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "21 Feb 2003",
+  "runtime": "88 min",
+  "genre": "Comedy",
+  "director": "Todd Phillips",
+  "writer": "Court Crandall, Todd Phillips, Scot Armstrong",
+  "actors": "Luke Wilson, Vince Vaughn, Will Ferrell",
+  "plot": "Mitch, Frank and Beanie are disillusioned with their personal lives beginning when Mitch's nymphomaniac girlfriend, Heidi, cheats on him, then former party animal Frank gets married, but unwilling to let go of his wild life, and Beanie is a family man seeking to reclaim his wild and crazy youth. Beanie suggests that they form their own fraternity in Mitch's new house on a college campus to re-live their glory days by bringing together a variety of misfit college students, losers, middle-aged and elderly retirees as their new friends and later try to avoid being evicted by the new Dean of Students, Pritchard, whom still holds a personal grudge against all three of them.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "54",
+  "imdb_rating": "7.0",
+  "imdb_votes": "255,772",
+  "box_office": "$75,585,093",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Old+School"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/Old+School/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0302886/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0302886/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11635"
+  }
+}

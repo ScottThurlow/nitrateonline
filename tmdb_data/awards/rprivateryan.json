@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Won 5 Oscars. 79 wins & 75 nominations total",
+  "rated": "R",
+  "released": "24 Jul 1998",
+  "runtime": "169 min",
+  "genre": "Drama, War",
+  "director": "Steven Spielberg",
+  "writer": "Robert Rodat",
+  "actors": "Tom Hanks, Matt Damon, Tom Sizemore",
+  "plot": "Opening with the Allied invasion of Normandy on 6 June 1944, members of the 2nd Ranger Battalion under Cpt. Miller fight ashore to secure a beachhead. Amidst the fighting, two brothers are killed in action. Earlier in New Guinea, a third brother is KIA. Their mother, Mrs. Ryan, is to receive all three of the grave telegrams on the same day. The United States Army Chief of Staff, George C. Marshall, is given an opportunity to alleviate some of her grief when he learns of a fourth brother, Private James Ryan, and decides to send out 8 men (Cpt. Miller and select members from 2nd Rangers) to find him and bring him back home to his mother...",
+  "language": "English, French, German, Czech",
+  "country": "United States",
+  "metascore": "91",
+  "imdb_rating": "8.6",
+  "imdb_votes": "1,624,514",
+  "box_office": "$217,049,603",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=Saving+Private+Ryan"
+    },
+    {
+      "source": "Metacritic",
+      "value": "91/100",
+      "link": "https://www.metacritic.com/search/Saving+Private+Ryan/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120815/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120815/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/857"
+  }
+}

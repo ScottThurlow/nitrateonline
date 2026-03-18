@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 140988,
+  "title": "They Call Me Sirr",
+  "original_title": "They Call Me Sirr",
+  "release_date": "2001-11-01",
+  "runtime": 98,
+  "tagline": "There's no stopping him now.",
+  "overview": "An inspirational story that celebrates the grit, perseverance and talent of Sirr Parker, the star footballer of Locke High School who then went on to play for San Diego Chargers and Cincinnati Bengals.",
+  "genres": [
+    "Drama",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Showtime Networks",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Munic"
+  ],
+  "writers": [
+    {
+      "name": "Robert Munic",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Halmi Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ilene Kahn Power",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jon Turtle",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Munic",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "Coach Griffin",
+      "order": 0
+    },
+    {
+      "name": "Dexter Bell",
+      "character": "Albright",
+      "order": 1
+    },
+    {
+      "name": "Alonso Oyarzun",
+      "character": "Gonzales",
+      "order": 2
+    },
+    {
+      "name": "Karen Robinson",
+      "character": "Aunt Jackie",
+      "order": 3
+    },
+    {
+      "name": "Doron Bell",
+      "character": "Dante",
+      "order": 4
+    },
+    {
+      "name": "K.C. Collins",
+      "character": "Damian",
+      "order": 5
+    },
+    {
+      "name": "Derwin Jordan",
+      "character": "Scout",
+      "order": 6
+    },
+    {
+      "name": "Tyson Fennell",
+      "character": "Donyea",
+      "order": 7
+    },
+    {
+      "name": "Jordan Fennell",
+      "character": "Donyea",
+      "order": 8
+    },
+    {
+      "name": "Jackie Richardson",
+      "character": "Grams",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iyHmPZzqplbShRTQssQA3SUZA2K.jpg",
+  "backdrop_path": "/zwslS518xoe8O3vl8ewHGRPRMMF.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.9,
+  "vote_count": 6,
+  "imdb_id": "tt0256394",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

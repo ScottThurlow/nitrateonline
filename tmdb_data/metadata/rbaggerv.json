@@ -1,0 +1,177 @@
+{
+  "tmdb_id": 4958,
+  "title": "The Legend of Bagger Vance",
+  "original_title": "The Legend of Bagger Vance",
+  "release_date": "2000-11-02",
+  "runtime": 126,
+  "tagline": "It Was Just A Moment Ago.",
+  "overview": "World War I has left golfer Rannulph Junuh a poker-playing alcoholic, his perfect swing gone. Now, however, he needs to get it back to play in a tournament to save the financially ravaged golf course of a long-ago sweetheart. Help arrives in the form of mysterious caddy Bagger Vance.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Wildwood Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Allied Filmmakers",
+      "country": "GB"
+    },
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Redford"
+  ],
+  "writers": [
+    {
+      "name": "Steven Pressfield",
+      "job": "Novel"
+    },
+    {
+      "name": "Jeremy Leven",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Redford",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Nozik",
+      "job": "Producer"
+    },
+    {
+      "name": "Jake Eberts",
+      "job": "Producer"
+    },
+    {
+      "name": "Karen Tenkhoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Brigham",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph P. Reidy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Rannulph Junuh",
+      "order": 0
+    },
+    {
+      "name": "Will Smith",
+      "character": "Bagger Vance",
+      "order": 1
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Adele Invergordon",
+      "order": 2
+    },
+    {
+      "name": "Bruce McGill",
+      "character": "Walter Hagen",
+      "order": 3
+    },
+    {
+      "name": "Joel Gretsch",
+      "character": "Bobby Jones",
+      "order": 4
+    },
+    {
+      "name": "J. Michael Moncrief",
+      "character": "Hardy Greaves",
+      "order": 5
+    },
+    {
+      "name": "Peter Gerety",
+      "character": "Neskaloosa",
+      "order": 6
+    },
+    {
+      "name": "Wilbur Fitzgerald",
+      "character": "Roy",
+      "order": 7
+    },
+    {
+      "name": "Lane Smith",
+      "character": "Grantland Rice",
+      "order": 8
+    },
+    {
+      "name": "Jack Lemmon",
+      "character": "Narrator (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7jKjh9PZvHJYYtCycQmTbBoZVV4.jpg",
+  "backdrop_path": "/bwS2YrIMJp7yAb8RhuLkNVMLeyY.jpg",
+  "budget": 80000000,
+  "revenue": 39459427,
+  "vote_average": 6.593,
+  "vote_count": 971,
+  "imdb_id": "tt0146984",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

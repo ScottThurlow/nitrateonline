@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations",
+  "rated": "PG-13",
+  "released": "25 Oct 2002",
+  "runtime": "104 min",
+  "genre": "Mystery, Thriller",
+  "director": "Jonathan Demme",
+  "writer": "Peter Stone, Jonathan Demme, Steve Schmidt",
+  "actors": "Mark Wahlberg, Thandiwe Newton, Tim Robbins",
+  "plot": "A young woman in Paris is about to divorce her husband when she discovers... he's dead; and all their money is gone. She meets a mysterious man, who tells her that the money was really his, and he wants it back, seemingly convinced that she's hiding the cash. Meanwhile, more people end up dead...",
+  "language": "English, French, Arabic",
+  "country": "Germany, United States",
+  "metascore": "55",
+  "imdb_rating": "4.7",
+  "imdb_votes": "11,152",
+  "box_office": "$5,350,371",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Truth+About+Charlie"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/The+Truth+About+Charlie/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0270707/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0270707/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13440"
+  }
+}

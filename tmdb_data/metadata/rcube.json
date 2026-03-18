@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 431,
+  "title": "Cube",
+  "original_title": "Cube",
+  "release_date": "1998-07-11",
+  "runtime": 90,
+  "tagline": "Don't look for a reason... Look for a way out.",
+  "overview": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cube Libre",
+      "country": ""
+    },
+    {
+      "name": "The Feature Film Project",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Vincenzo Natali"
+  ],
+  "writers": [
+    {
+      "name": "André Bijelic",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Vincenzo Natali",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Graeme Manson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hugh Graham",
+      "job": "Story Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mehra Meh",
+      "job": "Producer"
+    },
+    {
+      "name": "Betty Orr",
+      "job": "Producer"
+    },
+    {
+      "name": "Colin Brunton",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicole De Boer",
+      "character": "Leaven",
+      "order": 0
+    },
+    {
+      "name": "Nicky Guadagni",
+      "character": "Holloway",
+      "order": 1
+    },
+    {
+      "name": "Maurice Dean Wint",
+      "character": "Quentin",
+      "order": 2
+    },
+    {
+      "name": "David Hewlett",
+      "character": "Worth",
+      "order": 3
+    },
+    {
+      "name": "Andrew Miller",
+      "character": "Kazan",
+      "order": 4
+    },
+    {
+      "name": "Wayne Robson",
+      "character": "Rennes",
+      "order": 5
+    },
+    {
+      "name": "Julian Richings",
+      "character": "Alderson",
+      "order": 6
+    }
+  ],
+  "poster_path": "/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
+  "backdrop_path": "/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+  "budget": 257899,
+  "revenue": 8969065,
+  "vote_average": 6.815,
+  "vote_count": 5131,
+  "imdb_id": "tt0123755",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

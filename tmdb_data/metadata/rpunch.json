@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 8051,
+  "title": "Punch-Drunk Love",
+  "original_title": "Punch-Drunk Love",
+  "release_date": "2002-10-11",
+  "runtime": 96,
+  "tagline": "I have a love in my life. It makes me stronger than anything you can imagine.",
+  "overview": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "JoAnne Sellar Productions",
+      "country": "US"
+    },
+    {
+      "name": "Ghoulardi Film Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Paul Thomas Anderson"
+  ],
+  "writers": [
+    {
+      "name": "Paul Thomas Anderson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paul Thomas Anderson",
+      "job": "Producer"
+    },
+    {
+      "name": "JoAnne Sellar",
+      "job": "Producer"
+    },
+    {
+      "name": "Daniel Lupi",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Adam Sandler",
+      "character": "Barry Egan",
+      "order": 0
+    },
+    {
+      "name": "Emily Watson",
+      "character": "Lena Leonard",
+      "order": 1
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Dean Trumbell",
+      "order": 2
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Lance",
+      "order": 3
+    },
+    {
+      "name": "Mary Lynn Rajskub",
+      "character": "Elizabeth Egan",
+      "order": 4
+    },
+    {
+      "name": "Robert Smigel",
+      "character": "Walter the Dentist",
+      "order": 5
+    },
+    {
+      "name": "Jason Andrews",
+      "character": "Operator Carter (voice)",
+      "order": 6
+    },
+    {
+      "name": "Don McManus",
+      "character": "Plastic (voice)",
+      "order": 7
+    },
+    {
+      "name": "David Schrempf",
+      "character": "Customer #1",
+      "order": 8
+    },
+    {
+      "name": "Seann Conway",
+      "character": "Customer #2",
+      "order": 9
+    }
+  ],
+  "poster_path": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+  "backdrop_path": "/l9WzjwHwF7I2DwCtK8DXVQExGjH.jpg",
+  "budget": 25000000,
+  "revenue": 24665649,
+  "vote_average": 7.102,
+  "vote_count": 2673,
+  "imdb_id": "tt0272338",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

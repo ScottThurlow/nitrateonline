@@ -1,0 +1,210 @@
+{
+  "tmdb_id": 9104,
+  "title": "Buffalo Soldiers",
+  "original_title": "Buffalo Soldiers",
+  "release_date": "2002-10-31",
+  "runtime": 98,
+  "tagline": "War is hell... but peace is f*#!%!! boring.",
+  "overview": "A criminal subculture operates among U.S. soldiers stationed in West Germany just before the fall of the Berlin wall.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "War",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    },
+    {
+      "name": "Odeon Film",
+      "country": "DE"
+    },
+    {
+      "name": "Grosvenor Park Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Gorilla Entertainment",
+      "country": "KR"
+    },
+    {
+      "name": "Strange Fiction",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Gregor Jordan"
+  ],
+  "writers": [
+    {
+      "name": "Eric Weiss",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gregor Jordan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Nora Maccoby",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert O'Connor",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ariane Moody",
+      "job": "Producer"
+    },
+    {
+      "name": "Rainer Grupe",
+      "job": "Producer"
+    },
+    {
+      "name": "Reinhard Klooss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Webster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joaquin Phoenix",
+      "character": "Ray Elwood",
+      "order": 0
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Colonel Berman",
+      "order": 1
+    },
+    {
+      "name": "Scott Glenn",
+      "character": "Sergeant Lee",
+      "order": 2
+    },
+    {
+      "name": "Anna Paquin",
+      "character": "Robyn Lee",
+      "order": 3
+    },
+    {
+      "name": "Elizabeth McGovern",
+      "character": "Mrs. Berman",
+      "order": 4
+    },
+    {
+      "name": "Michael Peña",
+      "character": "Garcia",
+      "order": 5
+    },
+    {
+      "name": "Leon",
+      "character": "Stoney",
+      "order": 6
+    },
+    {
+      "name": "Gabriel Mann",
+      "character": "Pfc. Brian Knoll",
+      "order": 7
+    },
+    {
+      "name": "Dean Stockwell",
+      "character": "General Lancaster",
+      "order": 8
+    },
+    {
+      "name": "Brian Delate",
+      "character": "Colonel Marshall",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qNl4T8xxC0xDeX8JFJVCBzH4Kg8.jpg",
+  "backdrop_path": "/7Pw5NOv7aUtmHyh1yASEldOlAz0.jpg",
+  "budget": 15000000,
+  "revenue": 2300805,
+  "vote_average": 6.286,
+  "vote_count": 345,
+  "imdb_id": "tt0252299",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

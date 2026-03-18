@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 14709,
+  "title": "Varsity Blues",
+  "original_title": "Varsity Blues",
+  "release_date": "1999-01-15",
+  "runtime": 106,
+  "tagline": "Make your own rules.",
+  "overview": "In small-town Texas, high school football is a religion, 17-year-old schoolboys carry the hopes of an entire community onto the gridiron every Friday night. When star quarterback Lance Harbor suffers an injury, the Coyotes are forced to regroup under the questionable leadership of John Moxon, a second-string quarterback with a slightly irreverent approach to the game.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Tollin/Robbins Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brian Robbins"
+  ],
+  "writers": [
+    {
+      "name": "W. Peter Iliff",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian Robbins",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Tollin",
+      "job": "Producer"
+    },
+    {
+      "name": "David Gale",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Van Der Beek",
+      "character": "Jonathan 'Mox' Moxon",
+      "order": 0
+    },
+    {
+      "name": "Amy Smart",
+      "character": "Jules Harbor",
+      "order": 1
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Coach Bud Kilmer",
+      "order": 2
+    },
+    {
+      "name": "Paul Walker",
+      "character": "Lance Harbor",
+      "order": 3
+    },
+    {
+      "name": "Ron Lester",
+      "character": "Billy Bob",
+      "order": 4
+    },
+    {
+      "name": "Scott Caan",
+      "character": "Charlie Tweeder",
+      "order": 5
+    },
+    {
+      "name": "Ali Larter",
+      "character": "Darcy Sears",
+      "order": 6
+    },
+    {
+      "name": "Richard Lineback",
+      "character": "Joe Harbor",
+      "order": 7
+    },
+    {
+      "name": "Tiffany C. Love",
+      "character": "Collette Harbor",
+      "order": 8
+    },
+    {
+      "name": "Eliel Swinton",
+      "character": "Wendell Brown",
+      "order": 9
+    }
+  ],
+  "poster_path": "/g2jX2Xmx7drbc6J9MLJEBghR7Mg.jpg",
+  "backdrop_path": "/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.1,
+  "vote_count": 456,
+  "imdb_id": "tt0139699",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SG",
+      "rating": "NC16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

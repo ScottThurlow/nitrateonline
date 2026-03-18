@@ -1,0 +1,113 @@
+{
+  "tmdb_id": 75386,
+  "title": "Haiku Tunnel",
+  "original_title": "Haiku Tunnel",
+  "release_date": "2001-09-07",
+  "runtime": 88,
+  "tagline": "Work has never been so funny!",
+  "overview": "Josh is the consummate temp employee, avoiding all long-term connections and responsibilities, both at work and in his personal life. However, by the time his agency places him at the Schuyler &amp; Mitchell law firm, Josh is tired of his temporary life and agrees to take a permanent position at the firm. Josh has difficulty adapting to his new lifestyle, which manifests in his inability to complete his simple initial task: mailing seventeen important letters.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Jacob Kornbluth",
+    "Josh Kornbluth"
+  ],
+  "writers": [
+    {
+      "name": "Jacob Kornbluth",
+      "job": "Writer"
+    },
+    {
+      "name": "Josh Kornbluth",
+      "job": "Writer"
+    },
+    {
+      "name": "John Bellucci",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David R. Fuchs",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Josh Kornbluth",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Benson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jacob Kornbluth",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Josh Kornbluth",
+      "character": "Josh Kornbluth",
+      "order": 0
+    },
+    {
+      "name": "Keith Warren",
+      "character": "Bob 'Bob' Shelby",
+      "order": 1
+    },
+    {
+      "name": "Sarah Overman",
+      "character": "Julie Faustino",
+      "order": 2
+    },
+    {
+      "name": "Helen Shumaker",
+      "character": "Marlina D'Amore",
+      "order": 3
+    },
+    {
+      "name": "Amy Resnick",
+      "character": "Mindy",
+      "order": 4
+    },
+    {
+      "name": "Brian Thorstenson",
+      "character": "Clifford",
+      "order": 5
+    },
+    {
+      "name": "Joanne Evangelista",
+      "character": "Caryl",
+      "order": 6
+    },
+    {
+      "name": "Joe Bellan",
+      "character": "Jimmy the Mail Clerk",
+      "order": 7
+    },
+    {
+      "name": "Michael X. Sommers",
+      "character": "Crack Attorney",
+      "order": 8
+    },
+    {
+      "name": "Jodean Lawrence",
+      "character": "Denise the Receptionist",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9xVw4EtCcNcI9RmRdH4WRPZkwcJ.jpg",
+  "backdrop_path": "/KNHZpydjylSxeIk6buVidChXe8.jpg",
+  "budget": 0,
+  "revenue": 251058,
+  "vote_average": 6.4,
+  "vote_count": 10,
+  "imdb_id": "tt0273253",
+  "certifications": [],
+  "status": "Released"
+}

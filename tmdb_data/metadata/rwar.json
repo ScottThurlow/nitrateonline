@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 11398,
+  "title": "The Art of War",
+  "original_title": "The Art of War",
+  "release_date": "2000-08-25",
+  "runtime": 117,
+  "tagline": "Do you know who your enemy is?",
+  "overview": "Neil Shaw is both agent and weapon - a critical line of defense for the Secretary General of the United Nations. He does not even officially exist. As an international security expert, he must uncover an international plot in which ruthless terrorists threatened to bring down the United Nations on the eve of an historic summit with China. A mysterious chain of events leads to the murder of the Chinese U.N. Ambassador, and the terrorists frame Neil Shaw, the one man they believe can stop them. Accused of the crime, Shaw goes underground — in effect, vanishing from his own life — as he tries to stop what could become World War III.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Amen Ra Films",
+      "country": "US"
+    },
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Filmline International",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Christian Duguay"
+  ],
+  "writers": [
+    {
+      "name": "Wayne Beach",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Simon Barry",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Wayne Beach",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wesley Snipes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nicolas Clermont",
+      "job": "Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dan Halsted",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Wesley Snipes",
+      "character": "Neil Shaw",
+      "order": 0
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "Douglas Thomas",
+      "order": 1
+    },
+    {
+      "name": "Anne Archer",
+      "character": "Eleanor Hooks",
+      "order": 2
+    },
+    {
+      "name": "Maury Chaykin",
+      "character": "Frank Capella",
+      "order": 3
+    },
+    {
+      "name": "Liliana Komorowska",
+      "character": "Jenna Novak",
+      "order": 4
+    },
+    {
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "David Chan",
+      "order": 5
+    },
+    {
+      "name": "Michael Biehn",
+      "character": "Robert Bly",
+      "order": 6
+    },
+    {
+      "name": "Marie Matiko",
+      "character": "Julia Fang",
+      "order": 7
+    },
+    {
+      "name": "James Hong",
+      "character": "Ambassador Wu",
+      "order": 8
+    },
+    {
+      "name": "Ron Yuan",
+      "character": "Ming",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9fbStI2ht3gMgsVRusqoBDWeK9c.jpg",
+  "backdrop_path": "/dE6xTBdthy3d9GYIIbbndFr4AOD.jpg",
+  "budget": 40000000,
+  "revenue": 30199105,
+  "vote_average": 5.692,
+  "vote_count": 541,
+  "imdb_id": "tt0160009",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

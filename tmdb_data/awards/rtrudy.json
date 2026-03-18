@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 3 nominations",
+  "rated": "N/A",
+  "released": "09 Mar 2001",
+  "runtime": "95 min",
+  "genre": "Comedy, Romance",
+  "director": "Kieron J. Walsh",
+  "writer": "Roddy Doyle",
+  "actors": "Peter McDonald, Flora Montgomery, Marie Mullen",
+  "plot": "A teacher meets a woman who turns out to be a thief and they introduce each other to new things.",
+  "language": "English, French",
+  "country": "United Kingdom, Ireland",
+  "metascore": "53",
+  "imdb_rating": "6.5",
+  "imdb_votes": "1,329",
+  "box_office": "$133,376",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=When+Brendan+Met+Trudy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/When+Brendan+Met+Trudy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0220157/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0220157/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/49929"
+  }
+}

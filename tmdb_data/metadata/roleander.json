@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 10994,
+  "title": "White Oleander",
+  "original_title": "White Oleander",
+  "release_date": "2002-10-11",
+  "runtime": 109,
+  "tagline": "",
+  "overview": "A teenager journeys through a series of foster homes after her mother goes to prison for committing a crime of passion.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "John Wells Productions",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Pandora Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Kosminsky"
+  ],
+  "writers": [
+    {
+      "name": "Janet Fitch",
+      "job": "Novel"
+    },
+    {
+      "name": "Mary Agnes Donoghue",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Patrick Markey",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "E.K. Gaylord II",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Wells",
+      "job": "Producer"
+    },
+    {
+      "name": "Tracy Underwood",
+      "job": "Producer"
+    },
+    {
+      "name": "Stacy Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kristin Harms",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ilyse A. Reutlinger",
+      "job": "Producer"
+    },
+    {
+      "name": "Hunt Lowry",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alison Lohman",
+      "character": "Astrid Magnussen",
+      "order": 0
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Ingrid Magnussen",
+      "order": 1
+    },
+    {
+      "name": "Renée Zellweger",
+      "character": "Claire Richards",
+      "order": 2
+    },
+    {
+      "name": "Robin Wright",
+      "character": "Starr",
+      "order": 3
+    },
+    {
+      "name": "Cole Hauser",
+      "character": "Ray",
+      "order": 4
+    },
+    {
+      "name": "Melissa McCarthy",
+      "character": "Paramedic",
+      "order": 5
+    },
+    {
+      "name": "Taryn Manning",
+      "character": "Niki",
+      "order": 6
+    },
+    {
+      "name": "John Billingsley",
+      "character": "Paramedic",
+      "order": 7
+    },
+    {
+      "name": "Solomon Burke Jr.",
+      "character": "Guard",
+      "order": 8
+    },
+    {
+      "name": "Melissa Marsala",
+      "character": "Julie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pOdmhUaqvg4twAHqrhL5Onjgalb.jpg",
+  "backdrop_path": "/lNtuZDc2BxdNyfQOuZ466WDgH8Z.jpg",
+  "budget": 16000000,
+  "revenue": 21657770,
+  "vote_average": 7.058,
+  "vote_count": 415,
+  "imdb_id": "tt0283139",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "AG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

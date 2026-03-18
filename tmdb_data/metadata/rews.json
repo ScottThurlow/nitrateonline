@@ -1,0 +1,260 @@
+{
+  "tmdb_id": 345,
+  "title": "Eyes Wide Shut",
+  "original_title": "Eyes Wide Shut",
+  "release_date": "1999-07-16",
+  "runtime": 160,
+  "tagline": "Cruise. Kidman. Kubrick.",
+  "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Stanley Kubrick Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Pole Star",
+      "country": "US"
+    },
+    {
+      "name": "Hobby Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Stanley Kubrick"
+  ],
+  "writers": [
+    {
+      "name": "Stanley Kubrick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Frederic Raphael",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Arthur Schnitzler",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stanley Kubrick",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian W. Cook",
+      "job": "Producer"
+    },
+    {
+      "name": "Jan Harlan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "character": "Dr. William Harford",
+      "order": 0
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Alice Harford",
+      "order": 1
+    },
+    {
+      "name": "Sydney Pollack",
+      "character": "Victor Ziegler",
+      "order": 2
+    },
+    {
+      "name": "Marie Richardson",
+      "character": "Marion",
+      "order": 3
+    },
+    {
+      "name": "Rade Šerbedžija",
+      "character": "Milich",
+      "order": 4
+    },
+    {
+      "name": "Todd Field",
+      "character": "Nick Nightingale",
+      "order": 5
+    },
+    {
+      "name": "Vinessa Shaw",
+      "character": "Domino",
+      "order": 6
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Desk Clerk",
+      "order": 7
+    },
+    {
+      "name": "Sky du Mont",
+      "character": "Sandor Szavost",
+      "order": 8
+    },
+    {
+      "name": "Fay Masterson",
+      "character": "Sally",
+      "order": 9
+    }
+  ],
+  "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+  "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+  "budget": 65000000,
+  "revenue": 162100000,
+  "vote_average": 7.487,
+  "vote_count": 6901,
+  "imdb_id": "tt0120663",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "BE",
+      "rating": "KNT/ENA"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "R-18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

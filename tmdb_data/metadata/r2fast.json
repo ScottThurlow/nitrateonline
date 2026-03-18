@@ -1,0 +1,249 @@
+{
+  "tmdb_id": 584,
+  "title": "2 Fast 2 Furious",
+  "original_title": "2 Fast 2 Furious",
+  "release_date": "2003-06-05",
+  "runtime": 108,
+  "tagline": "How fast do you like it?",
+  "overview": "It's a major double-cross when former police officer Brian O'Conner teams up with his ex-con buddy Roman Pearce to transport a shipment of \"dirty\" money for shady Miami-based import-export dealer Carter Verone. But the guys are actually working with undercover agent Monica Fuentes to bring Verone down.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Ardustry Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Mikona Productions",
+      "country": "DE"
+    },
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Singleton"
+  ],
+  "writers": [
+    {
+      "name": "Michael Brandt",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Derek Haas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gary Scott Thompson",
+      "job": "Story"
+    },
+    {
+      "name": "Gary Scott Thompson",
+      "job": "Characters"
+    },
+    {
+      "name": "Michael Brandt",
+      "job": "Story"
+    },
+    {
+      "name": "Derek Haas",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Fottrell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Lee R. Mayes",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Paul Walker",
+      "character": "Brian O'Conner",
+      "order": 0
+    },
+    {
+      "name": "Tyrese Gibson",
+      "character": "Roman Pearce",
+      "order": 1
+    },
+    {
+      "name": "Eva Mendes",
+      "character": "Monica Fuentes",
+      "order": 2
+    },
+    {
+      "name": "Cole Hauser",
+      "character": "Carter Verone",
+      "order": 3
+    },
+    {
+      "name": "Ludacris",
+      "character": "Tej Parker",
+      "order": 4
+    },
+    {
+      "name": "James Remar",
+      "character": "Agent Markham",
+      "order": 5
+    },
+    {
+      "name": "Thom Barry",
+      "character": "Agent Bilkins",
+      "order": 6
+    },
+    {
+      "name": "Michael Ealy",
+      "character": "Slap Jack",
+      "order": 7
+    },
+    {
+      "name": "Mark Boone Junior",
+      "character": "Detective Whitworth",
+      "order": 8
+    },
+    {
+      "name": "Devon Aoki",
+      "character": "Suki",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
+  "backdrop_path": "/90ooE5SbUEO0OVJHewNO7pgySb6.jpg",
+  "budget": 76000000,
+  "revenue": 236350661,
+  "vote_average": 6.515,
+  "vote_count": 8040,
+  "imdb_id": "tt0322259",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

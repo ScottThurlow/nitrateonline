@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 wins & 5 nominations total",
+  "rated": "R",
+  "released": "10 Sep 1999",
+  "runtime": "99 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "David Koepp",
+  "writer": "Richard Matheson, David Koepp",
+  "actors": "Kevin Bacon, Zachary David Cope, Kathryn Erbe",
+  "plot": "A man is hypnotized at a party by his sister-in law. He soon has visions and dreams of a ghost of a girl. Trying to avoid this, nearly pushes him to brink of insanity as the ghost wants something from him - to find out how she died. The only way he can get his life back is finding out the truth behind her death. The more he digs, the more he lets her in, the shocking truth behind her death puts his whole family in danger.",
+  "language": "English, Spanish, Korean",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "6.9",
+  "imdb_votes": "92,537",
+  "box_office": "$21,142,914",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Stir+of+Echoes"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Stir+of+Echoes/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0164181/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0164181/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11601"
+  }
+}

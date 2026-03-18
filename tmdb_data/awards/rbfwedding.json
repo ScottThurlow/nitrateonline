@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 Oscar. 12 wins & 24 nominations total",
+  "rated": "PG-13",
+  "released": "20 Jun 1997",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "P.J. Hogan",
+  "writer": "Ron Bass",
+  "actors": "Julia Roberts, Dermot Mulroney, Cameron Diaz",
+  "plot": "A woman who, by a promise made years earlier, is supposed to marry her best friend in three weeks, even though she doesn't want to. When she finds out that he's marrying someone else, she becomes jealous and tries to break off the wedding.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "metascore": "51",
+  "imdb_rating": "6.4",
+  "imdb_votes": "164,548",
+  "box_office": "$127,120,029",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=My+Best+Friend%27s+Wedding"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/My+Best+Friend%27s+Wedding/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119738/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119738/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8874"
+  }
+}

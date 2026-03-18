@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 5 Oscars. 10 wins & 81 nominations total",
+  "rated": "R",
+  "released": "25 Dec 1999",
+  "runtime": "139 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Anthony Minghella",
+  "writer": "Patricia Highsmith, Anthony Minghella",
+  "actors": "Matt Damon, Gwyneth Paltrow, Jude Law",
+  "plot": "The 1950s. Manhattan lavatory attendant, Tom Ripley, borrows a Princeton jacket to play piano at a garden party. When the wealthy father of a recent Princeton grad chats Tom up, Tom pretends to know the son and is soon offered $1,000 to go to Italy to convince Dickie Greenleaf to return home. In Italy, Tom attaches himself to Dickie and to Marge, Dickie's cultured fiancée, pretending to love jazz and harboring homoerotic hopes as he soaks in luxury. Besides lying, Tom's talents include impressions and forgery, so when the handsome and confident Dickie tires of Tom, dismissing him as a bore, Tom goes to extreme lengths to make Greenleaf's privileges his own.",
+  "language": "English, Italian",
+  "country": "United States",
+  "metascore": "76",
+  "imdb_rating": "7.4",
+  "imdb_votes": "264,777",
+  "box_office": "$81,298,265",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Talented+Mr.+Ripley"
+    },
+    {
+      "source": "Metacritic",
+      "value": "76/100",
+      "link": "https://www.metacritic.com/search/The+Talented+Mr.+Ripley/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134119/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134119/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1213"
+  }
+}

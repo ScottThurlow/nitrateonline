@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 2 wins & 8 nominations total",
+  "rated": "PG",
+  "released": "17 Dec 1999",
+  "runtime": "132 min",
+  "genre": "Drama, Romance, Sci-Fi",
+  "director": "Chris Columbus",
+  "writer": "Isaac Asimov, Robert Silverberg, Nicholas Kazan",
+  "actors": "Robin Williams, Embeth Davidtz, Sam Neill",
+  "plot": "This film follows the 'life' and times of the lead character, an android who is purchased as a household robot programmed to perform menial tasks. Within a few days the Martin family realizes that they don't have an ordinary droid as Andrew begins to experience emotions and creative thought. In a story that spans two centuries, Andrew learns the intricacies of humanity while trying to stop those who created him from destroying him.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "42",
+  "imdb_rating": "6.9",
+  "imdb_votes": "131,241",
+  "box_office": "$58,223,861",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "38%",
+      "link": "https://www.rottentomatoes.com/search?search=Bicentennial+Man"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Bicentennial+Man/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0182789/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0182789/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2277"
+  }
+}

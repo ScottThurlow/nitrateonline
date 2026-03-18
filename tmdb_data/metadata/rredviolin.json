@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 14283,
+  "title": "The Red Violin",
+  "original_title": "Le violon rouge",
+  "release_date": "1998-11-13",
+  "runtime": 130,
+  "tagline": "",
+  "overview": "300 years of a remarkable musical instrument. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin has traveled through Austria, England, China, and Canada, leaving both beauty and tragedy in its wake. In Montreal, Samuel L Jackson plays an appraiser going over its complex history.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery",
+    "Music",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "German",
+    "English",
+    "Spanish",
+    "Mandarin",
+    "French",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Rhombus Media",
+      "country": "CA"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Mikado Film",
+      "country": "IT"
+    },
+    {
+      "name": "Téléfilm Canada",
+      "country": "CA"
+    },
+    {
+      "name": "CITY-TV",
+      "country": "CA"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Euphoria Films",
+      "country": "GB"
+    },
+    {
+      "name": "Shanghai Film Studio",
+      "country": "CN"
+    },
+    {
+      "name": "China Film Co-Production",
+      "country": "CN"
+    },
+    {
+      "name": "Salon Films",
+      "country": "HK"
+    },
+    {
+      "name": "Sidecar Films & TV",
+      "country": "IT"
+    },
+    {
+      "name": "Vienna Film Financing Fund",
+      "country": "AT"
+    },
+    {
+      "name": "Dor Film",
+      "country": "AT"
+    }
+  ],
+  "director": [
+    "François Girard"
+  ],
+  "writers": [
+    {
+      "name": "François Girard",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Don McKellar",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Niv Fichman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Charles Morritz (Montréal)",
+      "order": 0
+    },
+    {
+      "name": "Carlo Cecchi",
+      "character": "Nicolo Bussotti (Cremona)",
+      "order": 1
+    },
+    {
+      "name": "Irene Grazioli",
+      "character": "Anna Bussotti (Cremona)",
+      "order": 2
+    },
+    {
+      "name": "Anita Laurenzi",
+      "character": "Cesca (Cremona)",
+      "order": 3
+    },
+    {
+      "name": "Tommaso Puntelli",
+      "character": "Apprentice (Cremona)",
+      "order": 4
+    },
+    {
+      "name": "Aldo Brugnini",
+      "character": "Assistant (Cremona)",
+      "order": 5
+    },
+    {
+      "name": "Samuele Amighetti",
+      "character": "Boy (Cremona)",
+      "order": 6
+    },
+    {
+      "name": "Jean-Luc Bideau",
+      "character": "Georges Poussin (Vienna)",
+      "order": 7
+    },
+    {
+      "name": "Christoph Koncz",
+      "character": "Kaspar Weiss (Vienna)",
+      "order": 8
+    },
+    {
+      "name": "Clotilde Mollet",
+      "character": "Antoinette Pussin (Vienna)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uPjq8PaNDhFQTzOu4Ce91f6BFgZ.jpg",
+  "backdrop_path": "/2EVSly7OY3yjobLdNYDIP5qCoQZ.jpg",
+  "budget": 18000000,
+  "revenue": 9495408,
+  "vote_average": 7.357,
+  "vote_count": 447,
+  "imdb_id": "tt0120802",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

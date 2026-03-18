@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "8 wins & 3 nominations total",
+  "rated": "R",
+  "released": "05 Apr 2002",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Charles Herman-Wurmfeld",
+  "writer": "Heather Juergensen, Jennifer Westfeldt",
+  "actors": "Jennifer Westfeldt, Heather Juergensen, Tovah Feldshuh",
+  "plot": "Jessica Stein is a single, straight, successful, journalist, part of a bonded Jewish family living in New York City, who finds herself not as straight as she thought when Jessica meets and begins an intense friendship with career woman Helen Cooper which ultimately leads to romance.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "72",
+  "imdb_rating": "6.5",
+  "imdb_votes": "17,879",
+  "box_office": "$7,025,722",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Kissing+Jessica+Stein"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Kissing+Jessica+Stein/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0264761/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0264761/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15647"
+  }
+}

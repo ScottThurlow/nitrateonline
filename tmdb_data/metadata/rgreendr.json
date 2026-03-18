@@ -1,0 +1,141 @@
+{
+  "tmdb_id": 35868,
+  "title": "Green Dragon",
+  "original_title": "Green Dragon",
+  "release_date": "2001-05-17",
+  "runtime": 115,
+  "tagline": "",
+  "overview": "A tale about Vietnamese refugees sent to an orientation camp on the Camp Pendleton Marine Base in California, 'Green Dragon' focuses on a young boy and his sister. Set in 1975, the film chronicles the stories told to the two children by other refugees in the camp and of Tai Tran, who dares to introduce himself to Sergeant Jim Lance. In developing a relationship with Lance, Tran is able to improve",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Vietnamese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Franchise Classics",
+      "country": ""
+    },
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Rickshaw Films",
+      "country": ""
+    },
+    {
+      "name": "Spirit Dance Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "TGD Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Timothy Linh Bui"
+  ],
+  "writers": [
+    {
+      "name": "Timothy Linh Bui",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Timothy Linh Bui",
+      "job": "Story"
+    },
+    {
+      "name": "Tony Bui",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tony Bui",
+      "job": "Producer"
+    },
+    {
+      "name": "Taj Paxton",
+      "job": "Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Alison Semenza",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Producer"
+    },
+    {
+      "name": "Forest Whitaker",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patrick Swayze",
+      "character": "Gunnery Sergeant Jim Lance",
+      "order": 0
+    },
+    {
+      "name": "Forest Whitaker",
+      "character": "Addie",
+      "order": 1
+    },
+    {
+      "name": "Đơn Dương",
+      "character": "Tai Tran",
+      "order": 2
+    },
+    {
+      "name": "Hiep Thi Le",
+      "character": "Thuy Hoa",
+      "order": 3
+    },
+    {
+      "name": "Billinjer C. Tran",
+      "character": "Duc (as Billinjer Tran)",
+      "order": 4
+    },
+    {
+      "name": "Kathleen Luong",
+      "character": "Second Wife",
+      "order": 5
+    },
+    {
+      "name": "Phuoc Quan Nguyen",
+      "character": "Loi",
+      "order": 6
+    },
+    {
+      "name": "Long Nguyen",
+      "character": "Quang Hai",
+      "order": 7
+    },
+    {
+      "name": "Catherine Ai",
+      "character": "Hien",
+      "order": 8
+    },
+    {
+      "name": "Kieu Chinh",
+      "character": "Kieu",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cw4y9W5jb0qG9GvfHtfWpRxe76a.jpg",
+  "backdrop_path": "/bp5Z6Lhx2El03YDtBtxAd28TKcB.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.019,
+  "vote_count": 31,
+  "imdb_id": "tt0229002",
+  "status": "Released"
+}

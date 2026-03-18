@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "13 Jun 2002",
+  "runtime": "95 min",
+  "genre": "Documentary, Comedy",
+  "director": "Lorene Machado",
+  "writer": "Margaret Cho",
+  "actors": "Margaret Cho",
+  "plot": "A film of Margaret Cho's one-woman stand-up show, in which she presents her take on modern sexual topics and minority issues.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "66",
+  "imdb_rating": "7.0",
+  "imdb_votes": "1,008",
+  "box_office": "$1,033,395",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Margaret+Cho%3A+Notorious+C.H.O."
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Margaret+Cho%3A+Notorious+C.H.O./"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0300274/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0300274/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/57946"
+  }
+}

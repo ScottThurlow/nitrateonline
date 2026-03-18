@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 6 nominations total",
+  "rated": "R",
+  "released": "16 Apr 1999",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "James Merendino",
+  "writer": "James Merendino",
+  "actors": "Matthew Lillard, Michael A. Goorjian, Annabeth Gish",
+  "plot": "Two punks live in Salt Lake City. The film covers their all-day routine. The realism of the character-narrated movie may be discussed. One of the punks gets ill, stays in hospital for three weeks, comes out again. Three parties are covered and one concert including a fight between punks, rednecks and others.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "7.3",
+  "imdb_votes": "36,293",
+  "box_office": "$299,569",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=SLC+Punk%21"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/SLC+Punk%21/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0133189/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0133189/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6396"
+  }
+}

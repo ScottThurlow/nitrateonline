@@ -1,0 +1,199 @@
+{
+  "tmdb_id": 3635,
+  "title": "Girl with a Pearl Earring",
+  "original_title": "Girl with a Pearl Earring",
+  "release_date": "2003-12-12",
+  "runtime": 101,
+  "tagline": "Discover the mystery behind the legend.",
+  "overview": "This film, adapted from a work of fiction by author Tracy Chevalier, tells a story about the events surrounding the creation of the painting \"Girl With A Pearl Earring\" by 17th century Dutch master Johannes Vermeer. A young peasant maid working in the house of painter Johannes Vermeer becomes his talented assistant and the model for one of his most famous works.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Archer Street Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Delux Productions",
+      "country": "LU"
+    },
+    {
+      "name": "Pathé",
+      "country": "FR"
+    },
+    {
+      "name": "Wild Bear Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Peter Webber"
+  ],
+  "writers": [
+    {
+      "name": "Tracy Chevalier",
+      "job": "Novel"
+    },
+    {
+      "name": "Olivia Hetreed",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anand Tucker",
+      "job": "Producer"
+    },
+    {
+      "name": "Andy Paterson",
+      "job": "Producer"
+    },
+    {
+      "name": "Daria Jovicic",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Block",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "François Ivernel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Duncan Reid",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Ortenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nick Drake",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cameron McCracken",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Scarlett Johansson",
+      "character": "Griet",
+      "order": 0
+    },
+    {
+      "name": "Colin Firth",
+      "character": "Johannes Vermeer",
+      "order": 1
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Pieter Van Ruijven",
+      "order": 2
+    },
+    {
+      "name": "Cillian Murphy",
+      "character": "Pieter",
+      "order": 3
+    },
+    {
+      "name": "Judy Parfitt",
+      "character": "Maria Thins",
+      "order": 4
+    },
+    {
+      "name": "Essie Davis",
+      "character": "Catharina Bolnes Vermeer",
+      "order": 5
+    },
+    {
+      "name": "Joanna Scanlan",
+      "character": "Tanneke",
+      "order": 6
+    },
+    {
+      "name": "Gabrielle Reidy",
+      "character": "Griet's Mother",
+      "order": 7
+    },
+    {
+      "name": "Chris McHallem",
+      "character": "Griet's Father",
+      "order": 8
+    },
+    {
+      "name": "Alakina Mann",
+      "character": "Cornelia Vermeer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/41DkOi1MvTgTQXt5BevVSzo94kk.jpg",
+  "backdrop_path": "/tuiupUeJrNQkmO6LADHOSjbGJ6E.jpg",
+  "budget": 10500000,
+  "revenue": 33030115,
+  "vote_average": 6.63,
+  "vote_count": 1462,
+  "imdb_id": "tt0335119",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

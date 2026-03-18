@@ -1,0 +1,112 @@
+{
+  "tmdb_id": 13898,
+  "title": "The Circle",
+  "original_title": "دایره",
+  "release_date": "2000-09-09",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "Various women struggle to function in the oppressively sexist society of contemporary Iran.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Persian"
+  ],
+  "production_companies": [
+    {
+      "name": "Jafar Panahi Productions",
+      "country": "IR"
+    },
+    {
+      "name": "Mikado Film",
+      "country": "IT"
+    },
+    {
+      "name": "Lumière & Co.",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Jafar Panahi"
+  ],
+  "writers": [
+    {
+      "name": "Kambuzia Partovi",
+      "job": "Writer"
+    },
+    {
+      "name": "Jafar Panahi",
+      "job": "Idea"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jafar Panahi",
+      "job": "Producer"
+    },
+    {
+      "name": "Morteza Motavali",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nargess Mamizadeh",
+      "character": "Nargess",
+      "order": 0
+    },
+    {
+      "name": "Maryiam Palvin Almani",
+      "character": "Arezou",
+      "order": 1
+    },
+    {
+      "name": "Mojgan Faramarzi",
+      "character": "Mojgan - Prostitute",
+      "order": 2
+    },
+    {
+      "name": "Elham Saboktakin",
+      "character": "Elham - Nurse",
+      "order": 3
+    },
+    {
+      "name": "Monir Arab",
+      "character": "Monir - Ticket Seller",
+      "order": 4
+    },
+    {
+      "name": "Maede Tahmasbi",
+      "character": "Maedeh",
+      "order": 5
+    },
+    {
+      "name": "Maryam Shayegan",
+      "character": "Parveneh",
+      "order": 6
+    },
+    {
+      "name": "Fereshteh Sadr Orafaee",
+      "character": "Pari",
+      "order": 7
+    },
+    {
+      "name": "Solmaz Panahi",
+      "character": "Solmaz",
+      "order": 8
+    },
+    {
+      "name": "Fatemeh Naghavi",
+      "character": "Nayer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pTiRBOZ2iI4i26A0qNaEkqmZBpO.jpg",
+  "backdrop_path": "/xhY2teZJAyzVWvRB3I4Y0XRJNih.jpg",
+  "budget": 10000,
+  "revenue": 756035,
+  "vote_average": 6.947,
+  "vote_count": 94,
+  "imdb_id": "tt0255094",
+  "status": "Released"
+}

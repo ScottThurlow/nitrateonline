@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 32716,
+  "title": "3 Bad Men",
+  "original_title": "3 Bad Men",
+  "release_date": "1926-08-28",
+  "runtime": 92,
+  "tagline": "The romance of a girl in the land of promise.",
+  "overview": "Three outlaws come to the aid of a young girl after her father is killed.",
+  "genres": [
+    "Romance",
+    "Western"
+  ],
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Film Corporation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Ford"
+  ],
+  "writers": [
+    {
+      "name": "John Stone",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Herman Whitaker",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Ford",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "George O'Brien",
+      "character": "Dan O'Malley",
+      "order": 0
+    },
+    {
+      "name": "Olive Borden",
+      "character": "Lee Carlton",
+      "order": 1
+    },
+    {
+      "name": "Lou Tellegen",
+      "character": "Sheriff Layne Hunter",
+      "order": 2
+    },
+    {
+      "name": "Tom Santschi",
+      "character": "'Bull' Stanley",
+      "order": 3
+    },
+    {
+      "name": "Frank Campeau",
+      "character": "'Spade' Allen",
+      "order": 4
+    },
+    {
+      "name": "J. Farrell MacDonald",
+      "character": "Mike Costigan",
+      "order": 5
+    },
+    {
+      "name": "Priscilla Bonner",
+      "character": "Millie Stanley",
+      "order": 6
+    },
+    {
+      "name": "Otis Harlan",
+      "character": "Zach Little",
+      "order": 7
+    },
+    {
+      "name": "Phyllis Haver",
+      "character": "Lily",
+      "order": 8
+    },
+    {
+      "name": "Alec B. Francis",
+      "character": "Rev. Benson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4x1vv1O0QMgE2sSbtSbrV68Zscr.jpg",
+  "backdrop_path": "/kmjkRLZ0buMUFQF9ztxJRylij2F.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.8,
+  "vote_count": 46,
+  "imdb_id": "tt0017463",
+  "status": "Released"
+}

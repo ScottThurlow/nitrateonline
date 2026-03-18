@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 9034,
+  "title": "The Banger Sisters",
+  "original_title": "The Banger Sisters",
+  "release_date": "2002-09-20",
+  "runtime": 98,
+  "tagline": "Some friendships last forever... like it or not.",
+  "overview": "In the late '60s, the self-proclaimed belles of the rock 'n' roll ball, rocked the worlds of every music legend whose pants they could take off -- and they have the pictures to prove it. But it's been more than two decades since the Banger Sisters earned their nickname -- or even laid eyes on each other. Their reunion is the collision of two women's worlds; one who's living in the past, and one who's hiding from it. Together they learn to live in the moment.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gran Via Productions",
+      "country": "US"
+    },
+    {
+      "name": "The Cantillon Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bob Dolman"
+  ],
+  "writers": [
+    {
+      "name": "Bob Dolman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David L. Bushell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elizabeth Cantillon",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Johnson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Goldie Hawn",
+      "character": "Suzette",
+      "order": 0
+    },
+    {
+      "name": "Susan Sarandon",
+      "character": "Lavinia",
+      "order": 1
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Harry Plummer",
+      "order": 2
+    },
+    {
+      "name": "Erika Christensen",
+      "character": "Hannah Kingsley",
+      "order": 3
+    },
+    {
+      "name": "Robin Thomas",
+      "character": "Raymond Kingsley",
+      "order": 4
+    },
+    {
+      "name": "Eva Amurri",
+      "character": "Ginger Kingsley",
+      "order": 5
+    },
+    {
+      "name": "Matthew Carey",
+      "character": "Jules",
+      "order": 6
+    },
+    {
+      "name": "Andre Ware",
+      "character": "Jake",
+      "order": 7
+    },
+    {
+      "name": "Adam Tomei",
+      "character": "Club Owner",
+      "order": 8
+    },
+    {
+      "name": "Sal Lopez",
+      "character": "Pump Attendant",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pQ7XoEqroHcCQVKP9Xo8JpujuHU.jpg",
+  "backdrop_path": "/dNoxnCfOcqMIjbuf7jxBU9k4LWG.jpg",
+  "budget": 10000000,
+  "revenue": 38068353,
+  "vote_average": 5.605,
+  "vote_count": 261,
+  "imdb_id": "tt0280460",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

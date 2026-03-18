@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 wins & 6 nominations",
+  "rated": "R",
+  "released": "21 Dec 2001",
+  "runtime": "84 min",
+  "genre": "Drama, Thriller",
+  "director": "Patrick Stettner",
+  "writer": "Patrick Stettner",
+  "actors": "Stockard Channing, Julia Stiles, Frederick Weller",
+  "plot": "A dark thriller about a successful businesswoman and her young assistant who toy with a slow-witted businessman while stuck at an airport hotel.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "6.3",
+  "imdb_votes": "3,849",
+  "box_office": "$1,030,920",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Business+of+Strangers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/The+Business+of+Strangers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0270259/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0270259/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/31064"
+  }
+}

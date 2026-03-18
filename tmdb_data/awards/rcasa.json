@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 nominations",
+  "rated": "R",
+  "released": "01 Jan 2004",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "John Sayles",
+  "writer": "John Sayles",
+  "actors": "Daryl Hannah, Maggie Gyllenhaal, Mary Steenburgen",
+  "plot": "The film was made in Acapulco, Mexico. Six women -- dreamy Eileen, abrasive Nan, athletic Skipper, brusque Leslie, vivacious Jennifer and patient Gayle -- are staying at a hotel in Latin America, run by Señora Muñoz. Fed up with the long delays of the adoption system in the United States, they are passing the days waiting to adopt local children to bring back home with them.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "metascore": "55",
+  "imdb_rating": "6.4",
+  "imdb_votes": "2,235",
+  "box_office": "$478,031",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=Casa+de+los+babys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Casa+de+los+babys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0303830/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0303830/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/38244"
+  }
+}

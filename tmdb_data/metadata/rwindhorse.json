@@ -1,0 +1,97 @@
+{
+  "tmdb_id": 169627,
+  "title": "Windhorse",
+  "original_title": "Windhorse",
+  "release_date": "1998-09-14",
+  "runtime": 97,
+  "tagline": "In Tibet, nothing is more dangerous than the truth.",
+  "overview": "Follows three young Tibetans faced with moral dilemmas: a rising pop star asked by her Chinese official boyfriend to sing pro-government songs; her brother, an embittered drunk; and their cousin, a Buddhist nun savagely beaten after shouting anti-Chinese slogans.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Mandarin",
+    "English",
+    "Tibetan"
+  ],
+  "production_companies": [
+    {
+      "name": "Paul Wagner Productions Inc.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Paul Wagner"
+  ],
+  "writers": [
+    {
+      "name": "Paul Wagner",
+      "job": "Writer"
+    },
+    {
+      "name": "Julia Elliot",
+      "job": "Writer"
+    },
+    {
+      "name": "Thupten Tsering Mukhimsar",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paul Wagner",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Grant",
+      "job": "Producer"
+    },
+    {
+      "name": "Ellen Casey Wagner",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard Chang",
+      "character": "Duan-Ping",
+      "order": 0
+    },
+    {
+      "name": "Jampa Kelsang",
+      "character": "Dorjee",
+      "order": 1
+    },
+    {
+      "name": "Dadon",
+      "character": "Dolkar",
+      "order": 2
+    },
+    {
+      "name": "Yu Lu",
+      "character": "Du Han-Shen",
+      "order": 3
+    },
+    {
+      "name": "Taije Silverman",
+      "character": "Amy",
+      "order": 4
+    }
+  ],
+  "poster_path": null,
+  "backdrop_path": "/9wTApcNvyZ9OMWStPAFtMWpbTJp.jpg",
+  "budget": 0,
+  "revenue": 278161,
+  "vote_average": 5.125,
+  "vote_count": 4,
+  "imdb_id": "tt0169388",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    }
+  ],
+  "status": "Released"
+}

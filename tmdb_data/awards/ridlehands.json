@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "4 nominations total",
+  "rated": "R",
+  "released": "30 Apr 1999",
+  "runtime": "92 min",
+  "genre": "Comedy, Fantasy, Horror",
+  "director": "Rodman Flender",
+  "writer": "Terri Hughes Burton, Ron Milbauer",
+  "actors": "Devon Sawa, Seth Green, Elden Henson",
+  "plot": "Seventeen year old slacker Anton Tobias wakes up one Halloween morning to discover that both of his parents have been turned into two headless Halloween decorations. After speaking to his equally irresponsible friends, Mick and Pnub, he discovers that his right hand has a blood-thirsty mind of its own and is hell-bent on wreaking havoc whether he likes it or not.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "31",
+  "imdb_rating": "6.3",
+  "imdb_votes": "49,023",
+  "box_office": "$4,152,230",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "18%",
+      "link": "https://www.rottentomatoes.com/search?search=Idle+Hands"
+    },
+    {
+      "source": "Metacritic",
+      "value": "31/100",
+      "link": "https://www.metacritic.com/search/Idle+Hands/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0138510/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0138510/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6552"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "tmdb_id": 30586,
+  "title": "Biggie & Tupac",
+  "original_title": "Biggie & Tupac",
+  "release_date": "2002-01-11",
+  "runtime": 107,
+  "tagline": "",
+  "overview": "In 1997, rap superstars Tupac Shakur and Christopher Wallace (aka Biggie Smalls, The Notorious B.I.G.) were gunned down in separate incidents, the apparent victims of hip hop's infamous east-west rivalry. Nick Broomfield's film introduces Russell Poole, an ex-cop with damning evidence that suggests the LAPD deliberately fumbled the case to conceal connections between the police, LA gangs and Death Row Records, the label run by feared rap mogul Marion \"Suge\" Knight.",
+  "genres": [
+    "Music",
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Nick Broomfield"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Nick Broomfield",
+      "job": "Producer"
+    },
+    {
+      "name": "Michele d'Acosta",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tupac Shakur",
+      "character": "himself",
+      "order": 0
+    },
+    {
+      "name": "Nick Broomfield",
+      "character": "himself",
+      "order": 1
+    },
+    {
+      "name": "The Notorious B.I.G.",
+      "character": "Himself (archive footage)",
+      "order": 2
+    },
+    {
+      "name": "Russell Poole",
+      "character": "Himself",
+      "order": 3
+    },
+    {
+      "name": "Voletta Wallace",
+      "character": "Self - Biggie's Mother",
+      "order": 4
+    },
+    {
+      "name": "Billy Garland",
+      "character": "Self - Tupac's Biological Father",
+      "order": 5
+    },
+    {
+      "name": "Chico Del Vec",
+      "character": "Self - Rapper",
+      "order": 6
+    },
+    {
+      "name": "Don Seabold",
+      "character": "Self - Mark's Lawyer",
+      "order": 7
+    },
+    {
+      "name": "Donald Hicken",
+      "character": "Self - Tupac's Teacher",
+      "order": 8
+    },
+    {
+      "name": "Frank Alexander",
+      "character": "Self - Tupac's Bodyguard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hh64yVsYNWjPGcIEKITp0f6Uqsu.jpg",
+  "backdrop_path": "/9tcG1PoQ9MIHMXzkwN0mehg0dMy.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.354,
+  "vote_count": 79,
+  "imdb_id": "tt0303356",
+  "status": "Released"
+}

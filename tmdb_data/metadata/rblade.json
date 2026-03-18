@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 17180,
+  "title": "The Princess Blade",
+  "original_title": "修羅雪姫",
+  "release_date": "2001-12-15",
+  "runtime": 95,
+  "tagline": "",
+  "overview": "Raised by assassins, Yuki is the last of the Takemikazuchi royal bloodline. A deadly weapon in her own right, she learns the gruesome truth about the death of her beloved mother and joins forces with a mysterious rebel leader.",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Oz Productions Ltd.",
+      "country": ""
+    },
+    {
+      "name": "Eisei Gekijo",
+      "country": "JP"
+    },
+    {
+      "name": "Nikkatsu Corporation",
+      "country": "JP"
+    },
+    {
+      "name": "Pioneer LDC",
+      "country": "JP"
+    },
+    {
+      "name": "Sony PCL",
+      "country": "JP"
+    },
+    {
+      "name": "GAGA Communications",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Shinsuke Sato"
+  ],
+  "writers": [
+    {
+      "name": "Kei Kunii",
+      "job": "Writer"
+    },
+    {
+      "name": "Shinsuke Sato",
+      "job": "Writer"
+    },
+    {
+      "name": "Kazuo Koike",
+      "job": "Comic Book"
+    },
+    {
+      "name": "Kazuo Kamimura",
+      "job": "Comic Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Taka Ichise",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Yumiko Shaku",
+      "character": "Yuki",
+      "order": 0
+    },
+    {
+      "name": "Hideaki Ito",
+      "character": "Takashi",
+      "order": 1
+    },
+    {
+      "name": "Kyūsaku Shimada",
+      "character": "Byakurai",
+      "order": 2
+    },
+    {
+      "name": "Shiro Sano",
+      "character": "Kidokoro",
+      "order": 3
+    },
+    {
+      "name": "Yōichi Numata",
+      "character": "Kuka",
+      "order": 4
+    },
+    {
+      "name": "Yoko Maki",
+      "character": "Aya",
+      "order": 5
+    },
+    {
+      "name": "Yoko Chosokabe",
+      "character": "Soma",
+      "order": 6
+    },
+    {
+      "name": "Naomasa Musaka",
+      "character": "Kiri",
+      "order": 7
+    },
+    {
+      "name": "Yutaka Matsushige",
+      "character": "Anka",
+      "order": 8
+    },
+    {
+      "name": "Shintarou Sonooka",
+      "character": "Chain Wielder",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qZNxgBOfi6SaAevgYkkeW68vqZK.jpg",
+  "backdrop_path": "/qpI3S8hytJzzp5tuLv1t6b7fZ67.jpg",
+  "budget": 0,
+  "revenue": 77567,
+  "vote_average": 5.603,
+  "vote_count": 34,
+  "imdb_id": "tt0310149",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

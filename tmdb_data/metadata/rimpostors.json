@@ -1,0 +1,110 @@
+{
+  "tmdb_id": 28134,
+  "title": "The Impostors",
+  "original_title": "The Impostors",
+  "release_date": "1998-10-02",
+  "runtime": 101,
+  "tagline": "Why be yourself when you can be somebody else?",
+  "overview": "Wrongly accused of physically abusing a fellow actor, starving thespians Arthur and Maurice find themselves pursued by the law aboard a cruise ship.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stanley Tucci"
+  ],
+  "writers": [
+    {
+      "name": "Stanley Tucci",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stanley Tucci",
+      "job": "Producer"
+    },
+    {
+      "name": "Elizabeth W. Alexander",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Filley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Oliver Platt",
+      "character": "Maurice",
+      "order": 0
+    },
+    {
+      "name": "Stanley Tucci",
+      "character": "Arthur",
+      "order": 1
+    },
+    {
+      "name": "Walker Jones",
+      "character": "Maitre D'",
+      "order": 2
+    },
+    {
+      "name": "Jessica Walling",
+      "character": "Attractive Woman",
+      "order": 3
+    },
+    {
+      "name": "David Lipman",
+      "character": "Baker in Kramer's Pastries",
+      "order": 4
+    },
+    {
+      "name": "E. Katherine Kerr",
+      "character": "Gertrude in \"Hamlet\"",
+      "order": 5
+    },
+    {
+      "name": "George Guidall",
+      "character": "Claudius in \"Hamlet\"",
+      "order": 6
+    },
+    {
+      "name": "William Hill",
+      "character": "Bernardo in \"Hamlet\"",
+      "order": 7
+    },
+    {
+      "name": "Alfred Molina",
+      "character": "Sir Jeremy Burtom",
+      "order": 8
+    },
+    {
+      "name": "Michael Emerson",
+      "character": "Burtom's Assistant",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pnL8MvYje9DOZTuTnF04k8RUkSL.jpg",
+  "backdrop_path": "/njN4u6NBo4AWohPcp4nArz9uUr0.jpg",
+  "budget": 0,
+  "revenue": 2198044,
+  "vote_average": 5.853,
+  "vote_count": 68,
+  "imdb_id": "tt0120823",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

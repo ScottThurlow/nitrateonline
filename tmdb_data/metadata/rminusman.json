@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 21719,
+  "title": "The Minus Man",
+  "original_title": "The Minus Man",
+  "release_date": "1999-09-24",
+  "runtime": 111,
+  "tagline": "Keep your eyes open for anything too ordinary.",
+  "overview": "When the quiet and amiable Vann Siegert drifts into town, no one suspects the evil that lies beneath the surface. Despite his easy charm, Vann is merely a reflection of what those he encounters want him to be. Soon, as locals start to disappear, it becomes clear that an eerie subtraction is at work in the sleepy hamlet.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fida Attieh Productions",
+      "country": ""
+    },
+    {
+      "name": "The Shooting Gallery",
+      "country": "US"
+    },
+    {
+      "name": "Lionsgate",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Hampton Fancher"
+  ],
+  "writers": [
+    {
+      "name": "Lew McCreary",
+      "job": "Novel"
+    },
+    {
+      "name": "Hampton Fancher",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Larry Meistrich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Fida Attieh",
+      "job": "Producer"
+    },
+    {
+      "name": "David L. Bushell",
+      "job": "Producer"
+    },
+    {
+      "name": "Keith Abell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joseph J. DiMartino",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Carlis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Owen Wilson",
+      "character": "Vann",
+      "order": 0
+    },
+    {
+      "name": "Janeane Garofalo",
+      "character": "Ferrin",
+      "order": 1
+    },
+    {
+      "name": "Brian Cox",
+      "character": "Doug",
+      "order": 2
+    },
+    {
+      "name": "Mercedes Ruehl",
+      "character": "Jane",
+      "order": 3
+    },
+    {
+      "name": "Sheryl Crow",
+      "character": "Casper",
+      "order": 4
+    },
+    {
+      "name": "Dwight Yoakam",
+      "character": "Blair",
+      "order": 5
+    },
+    {
+      "name": "Dennis Haysbert",
+      "character": "Graves",
+      "order": 6
+    },
+    {
+      "name": "Alex Warren",
+      "character": "State Trooper",
+      "order": 7
+    },
+    {
+      "name": "Chloe Black",
+      "character": "Karen - Age 18",
+      "order": 8
+    },
+    {
+      "name": "Eric Mabius",
+      "character": "Gene",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xrui0mDUWY3poirLrjHtoOU1rGA.jpg",
+  "backdrop_path": "/3rVtoCyClDZh6vt7tRUBWVoIOnR.jpg",
+  "budget": 0,
+  "revenue": 370668,
+  "vote_average": 5.448,
+  "vote_count": 105,
+  "imdb_id": "tt0151582",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

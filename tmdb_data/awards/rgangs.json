@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 10 Oscars. 50 wins & 135 nominations total",
+  "rated": "R",
+  "released": "20 Dec 2002",
+  "runtime": "167 min",
+  "genre": "Crime, Drama",
+  "director": "Martin Scorsese",
+  "writer": "Jay Cocks, Steven Zaillian, Kenneth Lonergan",
+  "actors": "Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis",
+  "plot": "In the god-forsaken district of early-1860s Lower Manhattan known as the Five Points, the vicious Nativist, Bill \"The Butcher\" Cutting, is the supreme overlord of an area riddled with crime, prostitution, theft and murder, as the American Civil War still rages on. Sixteen whole years after the brutal murder of his father from Bill's blood-stained hands, an orphaned Irish-American, Amsterdam Vallon, returns to this melting pot of corruption to avenge his untimely death; however, a lot has changed since then. Who can remember the once-innocent boy and now a young man bent on revenge, who works his way up to the hierarchy of Five Points? Will Amsterdam ever taste the dangerous but sweet fruit of retribution?",
+  "language": "English, Irish Gaelic, Chinese, Latin",
+  "country": "United States, Italy",
+  "metascore": "72",
+  "imdb_rating": "7.5",
+  "imdb_votes": "502,256",
+  "box_office": "$77,812,000",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Gangs+of+New+York"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Gangs+of+New+York/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0217505/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0217505/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3131"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "tmdb_id": 12599,
+  "title": "Pokémon the Movie 2000",
+  "original_title": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+  "release_date": "1999-07-17",
+  "runtime": 84,
+  "tagline": "One person can make all the difference.",
+  "overview": "When Lawrence III's scheme to capture the Legendary Pokémon Lugia upsets the balance of nature, it is up to Ash Ketchum and his friends to save the world.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Animation",
+    "Science Fiction",
+    "Family"
+  ],
+  "spoken_languages": [
+    "Japanese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Nintendo",
+      "country": "JP"
+    },
+    {
+      "name": "OLM",
+      "country": "JP"
+    },
+    {
+      "name": "Pikachu Project '99",
+      "country": "JP"
+    },
+    {
+      "name": "Shogakukan",
+      "country": "JP"
+    },
+    {
+      "name": "TV Tokyo",
+      "country": "JP"
+    },
+    {
+      "name": "GAME FREAK",
+      "country": "JP"
+    },
+    {
+      "name": "Shogakukan Production",
+      "country": "JP"
+    },
+    {
+      "name": "jeki",
+      "country": "JP"
+    },
+    {
+      "name": "Tomy",
+      "country": "JP"
+    },
+    {
+      "name": "Creatures",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Kunihiko Yuyama"
+  ],
+  "writers": [
+    {
+      "name": "Takeshi Shudo",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Satoshi Tajiri",
+      "job": "Original Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Takashi Kawaguchi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Masakazu Kubo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Yukako Matsusako",
+      "job": "Producer"
+    },
+    {
+      "name": "Takemoto Mori",
+      "job": "Producer"
+    },
+    {
+      "name": "Ken Sakamoto",
+      "job": "Producer"
+    },
+    {
+      "name": "Choji Yoshikawa",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rica Matsumoto",
+      "character": "Satoshi (voice)",
+      "order": 0
+    },
+    {
+      "name": "Ikue Otani",
+      "character": "Pikachu (voice)",
+      "order": 1
+    },
+    {
+      "name": "Mayumi Izuka",
+      "character": "Kasumi (voice)",
+      "order": 2
+    },
+    {
+      "name": "Satomi Korogi",
+      "character": "Togepy (voice)",
+      "order": 3
+    },
+    {
+      "name": "Tomokazu Seki",
+      "character": "Kenji (voice)",
+      "order": 4
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "character": "Musashi (voice)",
+      "order": 5
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "character": "Kojiro (voice)",
+      "order": 6
+    },
+    {
+      "name": "Inuko Inuyama",
+      "character": "Nyarth (voice)",
+      "order": 7
+    },
+    {
+      "name": "Unsho Ishizuka",
+      "character": "Dr. Okido / Narrator (voice)",
+      "order": 8
+    },
+    {
+      "name": "Masami Toyoshima",
+      "character": "Hanako (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6u65C8aG4krAVyHsTjAMF7ucTDH.jpg",
+  "backdrop_path": "/bS93S5uEVZng4qmDhmDMXTSEuay.jpg",
+  "budget": 30000000,
+  "revenue": 133949270,
+  "vote_average": 6.729,
+  "vote_count": 921,
+  "imdb_id": "tt0210234",
+  "status": "Released"
+}

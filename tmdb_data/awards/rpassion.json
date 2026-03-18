@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "02 Jun 2000",
+  "runtime": "105 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Alain Berliner",
+  "writer": "Ron Bass, David Field",
+  "actors": "Demi Moore, Eloise Eonnet, Hadrian Dagannaud-Brouard",
+  "plot": "When Marie, a widow in Provence with two daughters, locks her bedroom door and goes to sleep, she dreams about Marty, a literary agent in Manhattan who dreams equally vividly about Marie. The women look alike. Marie meets William who begins to court her. Marty meets Aaron, an accountant, becomes his friend and then his lover. Both women tell their lovers about their dream life. William is jealous, Aaron is accepting. Even though they've become lovers, Marie won't fall asleep next to William. Marie goes on holiday with William to Paris, and Marty wakes up with an ashtray from the hotel on her night stand. Are they the same person? What will unlock reality?",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "28",
+  "imdb_rating": "5.5",
+  "imdb_votes": "3,656",
+  "box_office": "$769,272",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "18%",
+      "link": "https://www.rottentomatoes.com/search?search=Passion+of+Mind"
+    },
+    {
+      "source": "Metacritic",
+      "value": "28/100",
+      "link": "https://www.metacritic.com/search/Passion+of+Mind/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160644/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160644/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19214"
+  }
+}

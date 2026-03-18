@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 Oscar. 8 wins & 12 nominations total",
+  "rated": "PG-13",
+  "released": "25 Jan 2002",
+  "runtime": "132 min",
+  "genre": "Drama",
+  "director": "Jessie Nelson",
+  "writer": "Kristine Johnson, Jessie Nelson",
+  "actors": "Sean Penn, Michelle Pfeiffer, Dakota Fanning",
+  "plot": "Sam Dawson has the mental capacity of a 7yo. He has a daughter who's homeless mother has abandons them both. Sam's difficulties become problematic, and she's taken away. Sam finds a lawyer who tells the case pro bono. In the process, he teaches her a great deal about love and whether it's really all needed.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "28",
+  "imdb_rating": "7.6",
+  "imdb_votes": "160,859",
+  "box_office": "$40,311,852",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=I+Am+Sam"
+    },
+    {
+      "source": "Metacritic",
+      "value": "28/100",
+      "link": "https://www.metacritic.com/search/I+Am+Sam/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0277027/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0277027/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10950"
+  }
+}

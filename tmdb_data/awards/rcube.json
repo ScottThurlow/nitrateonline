@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "13 wins & 9 nominations total",
+  "rated": "R",
+  "released": "10 Dec 1997",
+  "runtime": "90 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Vincenzo Natali",
+  "writer": "André Bijelic, Vincenzo Natali, Graeme Manson",
+  "actors": "Nicole de Boer, Maurice Dean Wint, David Hewlett",
+  "plot": "Six different people, each from a very different walk of life, awaken to find themselves inside a giant cube with thousands of possible rooms. Each has a skill that becomes clear when they must band together to get out: a cop, a math whiz, a building designer, a doctor, an escape master, and a disabled man. Each plays a part in their thrilling quest to find answers as to why they've been imprisoned.",
+  "language": "English, German, French",
+  "country": "Canada",
+  "metascore": "61",
+  "imdb_rating": "7.1",
+  "imdb_votes": "260,280",
+  "box_office": "$501,818",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=Cube"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Cube/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0123755/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0123755/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/431"
+  }
+}

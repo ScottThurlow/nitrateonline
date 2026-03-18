@@ -1,0 +1,120 @@
+{
+  "tmdb_id": 10802,
+  "title": "Showgirls",
+  "original_title": "Showgirls",
+  "release_date": "1995-09-22",
+  "runtime": 131,
+  "tagline": "Leave your inhibitions at the door... the show is about to begin.",
+  "overview": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Chargeurs",
+      "country": "FR"
+    },
+    {
+      "name": "Charles Evans Productions",
+      "country": ""
+    },
+    {
+      "name": "Carolco Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Joe Eszterhas Productions",
+      "country": ""
+    },
+    {
+      "name": "Ben Myron Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Paul Verhoeven"
+  ],
+  "writers": [
+    {
+      "name": "Joe Eszterhas",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Evans",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Marshall",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Kassar",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Elizabeth Berkley",
+      "character": "Nomi Malone",
+      "order": 0
+    },
+    {
+      "name": "Kyle MacLachlan",
+      "character": "Zack Carey",
+      "order": 1
+    },
+    {
+      "name": "Gina Gershon",
+      "character": "Cristal Connors",
+      "order": 2
+    },
+    {
+      "name": "Glenn Plummer",
+      "character": "James Smith",
+      "order": 3
+    },
+    {
+      "name": "Robert Davi",
+      "character": "Al Torres",
+      "order": 4
+    },
+    {
+      "name": "Alan Rachins",
+      "character": "Tony Moss",
+      "order": 5
+    },
+    {
+      "name": "Gina Ravera",
+      "character": "Molly Abrams",
+      "order": 6
+    },
+    {
+      "name": "Lin Tucci",
+      "character": "Henrietta Bazoom",
+      "order": 7
+    },
+    {
+      "name": "Greg Travis",
+      "character": "Phil Newkirk",
+      "order": 8
+    },
+    {
+      "name": "Al Ruscio",
+      "character": "Mr. Karlman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+  "backdrop_path": "/jL3G2f8uNCFejJRlIqCzRp8Y7eV.jpg",
+  "budget": 45000000,
+  "revenue": 20367472,
+  "vote_average": 5.577,
+  "vote_count": 1358,
+  "imdb_id": "tt0114436",
+  "status": "Released"
+}

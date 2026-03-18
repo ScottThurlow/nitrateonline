@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 12253,
+  "title": "Biker Boyz",
+  "original_title": "Biker Boyz",
+  "release_date": "2003-01-31",
+  "runtime": 110,
+  "tagline": "Survival of the fastest.",
+  "overview": "A mythic motorcycle tale of father and son, this is the story of Manuel Galloway, also known as \"the King of Cali\", the president of a motorcycle club whose members are all African-American men, mostly white-collar workers who exchange their suits and ties at night and on weekends for leather outfits and motorcycle helmets.",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "3 Arts Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Reggie Rock Bythewood"
+  ],
+  "writers": [
+    {
+      "name": "Craig Fernandez",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Reggie Rock Bythewood",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Gougis",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Don Kurt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gina Prince-Bythewood",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephanie Allain",
+      "job": "Producer"
+    },
+    {
+      "name": "Erwin Stoff",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Laurence Fishburne",
+      "character": "Smoke",
+      "order": 0
+    },
+    {
+      "name": "Derek Luke",
+      "character": "Kid",
+      "order": 1
+    },
+    {
+      "name": "Orlando Jones",
+      "character": "Soul Train",
+      "order": 2
+    },
+    {
+      "name": "Djimon Hounsou",
+      "character": "Motherland",
+      "order": 3
+    },
+    {
+      "name": "Meagan Good",
+      "character": "Tina",
+      "order": 4
+    },
+    {
+      "name": "Lisa Bonet",
+      "character": "Queenie",
+      "order": 5
+    },
+    {
+      "name": "Kid Rock",
+      "character": "Dogg",
+      "order": 6
+    },
+    {
+      "name": "Salli Richardson-Whitfield",
+      "character": "Half & Half",
+      "order": 7
+    },
+    {
+      "name": "Vanessa Bell Calloway",
+      "character": "Anita",
+      "order": 8
+    },
+    {
+      "name": "Brendan Fehr",
+      "character": "Stuntman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/frb2Tk7DTBshZ61Or0D3M1kslWL.jpg",
+  "backdrop_path": "/pxz6PBvEGiaT2giDIXekjpfrhwl.jpg",
+  "budget": 24000000,
+  "revenue": 23510601,
+  "vote_average": 6.259,
+  "vote_count": 390,
+  "imdb_id": "tt0326769",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

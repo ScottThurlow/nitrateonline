@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "08 Sep 2000",
+  "runtime": "90 min",
+  "genre": "Comedy",
+  "director": "Aileen Ritchie",
+  "writer": "Herbie Wave, William Ivory",
+  "actors": "Ian Hart, Sean McGinley, Niamh Cusack",
+  "plot": "Irish lads send an ad to the Miami Herald inviting fit and enticing women, between the ages of 20 and 21, to live in their isolated Donegal village. The whole town knows about the ad, and it sharpens everyone's sense of the opportunities for happiness already at hand. Kate, a publican with a young daughter, is separating from her husband and catches the eye of a bachelor sheep farmer. Kieran the butcher realizes that his assistant Siobhan is comely, and then he discovers she's fiery as well. Ollie sends off for Dutch skin magazines that the village postmistress won't release to him. The men, and women, find counsel in their movie-loving priest. Will anyone answer the ad?",
+  "language": "English",
+  "country": "Ireland, United Kingdom",
+  "metascore": "44",
+  "imdb_rating": "6.2",
+  "imdb_votes": "1,545",
+  "box_office": "$164,927",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "32%",
+      "link": "https://www.rottentomatoes.com/search?search=American+Women"
+    },
+    {
+      "source": "Metacritic",
+      "value": "44/100",
+      "link": "https://www.metacritic.com/search/American+Women/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0218112/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0218112/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/73642"
+  }
+}

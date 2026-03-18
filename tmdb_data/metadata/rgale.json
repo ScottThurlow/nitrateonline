@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 11615,
+  "title": "The Life of David Gale",
+  "original_title": "The Life of David Gale",
+  "release_date": "2003-02-21",
+  "runtime": 130,
+  "tagline": "The crime is clear. The truth is not.",
+  "overview": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Mikona Productions",
+      "country": "DE"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Saturn Films",
+      "country": "US"
+    },
+    {
+      "name": "Dirty Hands Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Alan Parker"
+  ],
+  "writers": [
+    {
+      "name": "Charles Randolph",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alan Parker",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nicolas Cage",
+      "job": "Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Spacey",
+      "character": "David Gale",
+      "order": 0
+    },
+    {
+      "name": "Kate Winslet",
+      "character": "Bitsey Bloom",
+      "order": 1
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Constance Hallaway",
+      "order": 2
+    },
+    {
+      "name": "Rhona Mitra",
+      "character": "Berlin",
+      "order": 3
+    },
+    {
+      "name": "Gabriel Mann",
+      "character": "Zack Stemmons",
+      "order": 4
+    },
+    {
+      "name": "Matt Craven",
+      "character": "Dusty Wright",
+      "order": 5
+    },
+    {
+      "name": "Jim Beaver",
+      "character": "Duke Grover",
+      "order": 6
+    },
+    {
+      "name": "Cleo King",
+      "character": "Barbara Kreuster",
+      "order": 7
+    },
+    {
+      "name": "Leon Rippy",
+      "character": "Braxton Belyeu",
+      "order": 8
+    },
+    {
+      "name": "Melissa McCarthy",
+      "character": "Nico the Goth Girl",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7tcAvE82JyxIi79cwQV5br90KVz.jpg",
+  "backdrop_path": "/88wEXW9NIURi496KrIgD50dw87l.jpg",
+  "budget": 50000000,
+  "revenue": 38955598,
+  "vote_average": 7.433,
+  "vote_count": 2157,
+  "imdb_id": "tt0289992",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

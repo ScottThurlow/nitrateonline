@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 11692,
+  "title": "The Adventures of Pluto Nash",
+  "original_title": "The Adventures of Pluto Nash",
+  "release_date": "2002-08-16",
+  "runtime": 95,
+  "tagline": "The MAN on the Moon.",
+  "overview": "The year is 2087, the setting is the moon. Pluto Nash, the high-flying successful owner of the hottest nightclub in the universe, finds himself in trouble when he refuses to sell his club to lunar gangster Mogan, who just happens to be helping the mysterious Rex Crater mastermind a plan to take over the entire moon.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Underwood"
+  ],
+  "writers": [
+    {
+      "name": "Neil Cuthbert",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Martin Bregman",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Bregman",
+      "job": "Producer"
+    },
+    {
+      "name": "Louis A. Stroller",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "Pluto Nash",
+      "order": 0
+    },
+    {
+      "name": "Randy Quaid",
+      "character": "Bruno",
+      "order": 1
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Dina Lake",
+      "order": 2
+    },
+    {
+      "name": "Joe Pantoliano",
+      "character": "Mogan",
+      "order": 3
+    },
+    {
+      "name": "Jay Mohr",
+      "character": "Tony Francis",
+      "order": 4
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Felix Laranga",
+      "order": 5
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Belcher",
+      "order": 6
+    },
+    {
+      "name": "Peter Boyle",
+      "character": "Rowland",
+      "order": 7
+    },
+    {
+      "name": "Burt Young",
+      "character": "Gino",
+      "order": 8
+    },
+    {
+      "name": "Miguel A. Núñez Jr.",
+      "character": "Miguel",
+      "order": 9
+    }
+  ],
+  "poster_path": "/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg",
+  "backdrop_path": "/lEGw5YRSN4WVY51Hadytked78nG.jpg",
+  "budget": 100000000,
+  "revenue": 7103973,
+  "vote_average": 4.385,
+  "vote_count": 525,
+  "imdb_id": "tt0180052",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

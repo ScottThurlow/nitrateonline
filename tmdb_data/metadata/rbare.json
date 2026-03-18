@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 1438651,
+  "title": "Barenaked Ladies: Barenaked In America",
+  "original_title": "Barenaked Ladies: Barenaked In America",
+  "release_date": "2000-01-01",
+  "runtime": 0,
+  "tagline": "",
+  "overview": "Join the band on tour, behind the scenes and in concert!",
+  "genres": [
+    "Music"
+  ],
+  "spoken_languages": [],
+  "production_companies": [],
+  "director": [],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Steven Page",
+      "character": "",
+      "order": 0
+    },
+    {
+      "name": "Ed Robertson",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Tyler Stewart",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Jim Creeggan",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Kevin Hearn",
+      "character": "",
+      "order": 4
+    }
+  ],
+  "poster_path": "/aspUcdkBBSAam322VQ5pHOtP5Q8.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": null,
+  "certifications": [],
+  "status": "Released"
+}

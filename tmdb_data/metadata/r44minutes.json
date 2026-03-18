@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 14842,
+  "title": "44 Minutes: The North Hollywood Shoot-Out",
+  "original_title": "44 Minutes: The North Hollywood Shoot-Out",
+  "release_date": "2003-06-05",
+  "runtime": 86,
+  "tagline": "",
+  "overview": "After a failed bank robbery, two heavily armed men hold the Los Angeles Police Department at bay for 44 minutes.",
+  "genres": [
+    "Action",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox Television",
+      "country": "US"
+    },
+    {
+      "name": "Fox Network",
+      "country": ""
+    },
+    {
+      "name": "Cypress Point Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Yves Simoneau"
+  ],
+  "writers": [
+    {
+      "name": "Tim Metcalfe",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Daniel Schneider",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Port",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael R. Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gerald W. Abrams",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Madsen",
+      "character": "Frank McGregor",
+      "order": 0
+    },
+    {
+      "name": "Ron Livingston",
+      "character": "Donnie Anderson",
+      "order": 1
+    },
+    {
+      "name": "Ray Baker",
+      "character": "Harris",
+      "order": 2
+    },
+    {
+      "name": "Douglas Spain",
+      "character": "Bobby Martinez",
+      "order": 3
+    },
+    {
+      "name": "Andrew Bryniarski",
+      "character": "Larry Eugene Phillips Jr.",
+      "order": 4
+    },
+    {
+      "name": "Oleg Taktarov",
+      "character": "Emil Matasareanu",
+      "order": 5
+    },
+    {
+      "name": "Mario Van Peebles",
+      "character": "Henry Jones",
+      "order": 6
+    },
+    {
+      "name": "Jullian Dulce Vida",
+      "character": "Luis Rivera",
+      "order": 7
+    },
+    {
+      "name": "Alex Meneses",
+      "character": "Nicole",
+      "order": 8
+    },
+    {
+      "name": "Clare Carey",
+      "character": "Frank's Wife",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zcL30rZ71NfoCQtTwPlJiLI40qr.jpg",
+  "backdrop_path": "/zQg0UCo6xJVKOAe86E0vGsgUNCp.jpg",
+  "budget": 10000000,
+  "revenue": 0,
+  "vote_average": 6.587,
+  "vote_count": 109,
+  "imdb_id": "tt0362389",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

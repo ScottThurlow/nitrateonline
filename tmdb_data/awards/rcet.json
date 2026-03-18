@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "Unrated",
+  "released": "16 Jan 2002",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Josée Dayan",
+  "writer": "Yann Andréa, Josée Dayan, Marguerite Duras",
+  "actors": "Jeanne Moreau, Aymeric Demarigny, Christiane Rorato",
+  "plot": "Cet Amour-là is an intimate portrait of a legendary love affair. Set against the beauty of the Breton seaside, it is also a film that revels in the insights that Marguerite Duras' writing affords.",
+  "language": "French",
+  "country": "France",
+  "metascore": "57",
+  "imdb_rating": "6.2",
+  "imdb_votes": "374",
+  "box_office": "$72,844",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=Cet+amour-l%C3%A0"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/Cet+amour-l%C3%A0/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0277622/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0277622/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/284096"
+  }
+}

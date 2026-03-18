@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "23 May 2003",
+  "runtime": "132 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "John Malkovich",
+  "writer": "Nicholas Shakespeare",
+  "actors": "Javier Bardem, Laura Morante, Juan Diego Botto",
+  "plot": "The story of Detective Agustin Rejas, a man clinging to the hope of an impossible love in an impossible world. Tracking Ezequiel, a delusional anarchist who incites the downtrodden masses to join in his brutal revolution against the fascist government in their unnamed Latin American country, Rejas finds solace in his sense of self-respect and the joy that his daughter and wife bring him. Then he meets Yolanda--his daughter's soulfully beautiful ballet teacher--a woman who sparks his long-forgotten passions and represents all that is good and all that is corrupt in their troubled country. But she, who appears to be a shelter from the storm, may in actuality be the storm's eye. Ultimately, as the revolution intensifies and the net closes around hunter and hunted alike, the dancer's truth will prove as elusive as the revolutionary's cause and the detective's peace.",
+  "language": "English, Quechua, Spanish",
+  "country": "Spain, United States",
+  "metascore": "64",
+  "imdb_rating": "6.8",
+  "imdb_votes": "7,169",
+  "box_office": "$2,377,348",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Dancer+Upstairs"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/The+Dancer+Upstairs/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118926/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118926/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20689"
+  }
+}

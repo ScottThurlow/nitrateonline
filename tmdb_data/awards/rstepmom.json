@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "8 wins & 7 nominations total",
+  "rated": "PG-13",
+  "released": "25 Dec 1998",
+  "runtime": "125 min",
+  "genre": "Comedy, Drama",
+  "director": "Chris Columbus",
+  "writer": "Gigi Levangie, Jessie Nelson, Steven Rogers",
+  "actors": "Julia Roberts, Susan Sarandon, Ed Harris",
+  "plot": "Anna and Ben, the two children of Jackie and Luke, must cope with the fact that their parents divorced and their father is now with successful photographer Isabel. She does her best to treat the kids in a way that makes them still feel at home when they're with their dad, but she also loves her work and doesn't plan to give it up. But full-time mother Jackie finds Isabel's efforts offensively insufficient and can't understand that work can be important to her as well as the kids. The conflict between them is deepened by the sudden diagnosis of cancer, which might be deadly for Jackie. They all have to learn a little in order to grow together.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "58",
+  "imdb_rating": "6.8",
+  "imdb_votes": "77,395",
+  "box_office": "$91,137,662",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "45%",
+      "link": "https://www.rottentomatoes.com/search?search=Stepmom"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/Stepmom/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120686/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120686/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9441"
+  }
+}

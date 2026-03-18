@@ -1,0 +1,192 @@
+{
+  "tmdb_id": 11362,
+  "title": "The Count of Monte Cristo",
+  "original_title": "The Count of Monte Cristo",
+  "release_date": "2002-01-23",
+  "runtime": 131,
+  "tagline": "Prepare for adventure. Count on revenge.",
+  "overview": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "World 2000 Entertainment",
+      "country": "IE"
+    },
+    {
+      "name": "Count of Monte Cristo Ltd.",
+      "country": ""
+    },
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    }
+  ],
+  "director": [
+    "Kevin Reynolds"
+  ],
+  "writers": [
+    {
+      "name": "Jay Wolpert",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alexandre Dumas",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Barber",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Brigham",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Caviezel",
+      "character": "Edmond Dantes",
+      "order": 0
+    },
+    {
+      "name": "Guy Pearce",
+      "character": "Fernand Mondego",
+      "order": 1
+    },
+    {
+      "name": "Richard Harris",
+      "character": "Abbé Faria",
+      "order": 2
+    },
+    {
+      "name": "James Frain",
+      "character": "J.F. Villefort",
+      "order": 3
+    },
+    {
+      "name": "Dagmara Dominczyk",
+      "character": "Mercedes Iguanada",
+      "order": 4
+    },
+    {
+      "name": "Michael Wincott",
+      "character": "Armand Dorleac",
+      "order": 5
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Jacopo",
+      "order": 6
+    },
+    {
+      "name": "Christopher Adamson",
+      "character": "Maurice",
+      "order": 7
+    },
+    {
+      "name": "JB Blanc",
+      "character": "Luigi Vampa",
+      "order": 8
+    },
+    {
+      "name": "Henry Cavill",
+      "character": "Albert Mondego",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+  "backdrop_path": "/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
+  "budget": 35000000,
+  "revenue": 75395048,
+  "vote_average": 7.674,
+  "vote_count": 1976,
+  "imdb_id": "tt0245844",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

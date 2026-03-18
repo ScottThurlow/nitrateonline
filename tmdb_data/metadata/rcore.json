@@ -1,0 +1,232 @@
+{
+  "tmdb_id": 9341,
+  "title": "The Core",
+  "original_title": "The Core",
+  "release_date": "2003-03-28",
+  "runtime": 136,
+  "tagline": "The only way out is in.",
+  "overview": "Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth's inner core to stop rotating. With the planet's magnetic field rapidly deteriorating, our atmosphere literally starts to come apart at the seams with catastrophic consequences. To resolve the crisis, Keyes, along with a team of the world's most gifted scientists, travel into the earth's core. Their mission: detonate a device that will reactivate the core.",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "David Foster Productions",
+      "country": "US"
+    },
+    {
+      "name": "HorsePower Entertainment",
+      "country": "GB"
+    },
+    {
+      "name": "Core Productions",
+      "country": ""
+    },
+    {
+      "name": "LivePlanet",
+      "country": ""
+    },
+    {
+      "name": "Munich Film Partners New Century & Company (MFP) Core Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jon Amiel"
+  ],
+  "writers": [
+    {
+      "name": "Cooper Layne",
+      "job": "Writer"
+    },
+    {
+      "name": "John Rogers",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean Bailey",
+      "job": "Producer"
+    },
+    {
+      "name": "David Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "Cooper Layne",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Aaron Eckhart",
+      "character": "Dr. Josh Keyes",
+      "order": 0
+    },
+    {
+      "name": "Hilary Swank",
+      "character": "Maj. Rebecca Childs",
+      "order": 1
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Dr. Ed 'Braz' Brazzleton",
+      "order": 2
+    },
+    {
+      "name": "Stanley Tucci",
+      "character": "Dr. Conrad Zimsky",
+      "order": 3
+    },
+    {
+      "name": "Tchéky Karyo",
+      "character": "Serge",
+      "order": 4
+    },
+    {
+      "name": "DJ Qualls",
+      "character": "Theodore Donald 'Rat' Finch",
+      "order": 5
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Gen. Thomas Purcell",
+      "order": 6
+    },
+    {
+      "name": "Bruce Greenwood",
+      "character": "Cmdr. Robert Iverson",
+      "order": 7
+    },
+    {
+      "name": "Christopher Shyer",
+      "character": "Dave Perry",
+      "order": 8
+    },
+    {
+      "name": "Ray Galletti",
+      "character": "Paul",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg",
+  "backdrop_path": "/v2YxWPX2yKdo6arIAknJzKLxhZY.jpg",
+  "budget": 60000000,
+  "revenue": 74208267,
+  "vote_average": 5.809,
+  "vote_count": 2097,
+  "imdb_id": "tt0298814",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12A"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

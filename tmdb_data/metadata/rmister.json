@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 25641,
+  "title": "My First Mister",
+  "original_title": "My First Mister",
+  "release_date": "2001-10-12",
+  "runtime": 109,
+  "tagline": "Mismatched. Misguided. Unmistakably friends.",
+  "overview": "Leelee Sobieski is brash, abrasive and vulnerable as a teenage child of divorce who hides her pain behind a mask of hard-edged gothic rebellion. Albert Brooks plays a man who is her total opposite, a precise and well-ordered menswear store owner of forty-nine who manages limited expectations and protects lonely secrets with pleasant ritual and quiet, ironic reserve. These two total opposites collide in conflict then come together in a surprising alliance, changing each other's lives forever.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Total Film Group",
+      "country": ""
+    },
+    {
+      "name": "ApolloMedia",
+      "country": "DE"
+    },
+    {
+      "name": "Firelight Films",
+      "country": "US"
+    },
+    {
+      "name": "Film Roman",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Classics",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Christine Lahti"
+  ],
+  "writers": [
+    {
+      "name": "Jill Franklyn",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jane Goldenring",
+      "job": "Producer"
+    },
+    {
+      "name": "Carol Baum",
+      "job": "Producer"
+    },
+    {
+      "name": "Anne Kurtzman",
+      "job": "Producer"
+    },
+    {
+      "name": "Margit Bimler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gerald Green",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mitchell Solomon",
+      "job": "Producer"
+    },
+    {
+      "name": "Sukee Chew",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Albert Brooks",
+      "character": "Randall (\"R\")",
+      "order": 0
+    },
+    {
+      "name": "Leelee Sobieski",
+      "character": "Jennifer (\"J\")",
+      "order": 1
+    },
+    {
+      "name": "Desmond Harrington",
+      "character": "Randy",
+      "order": 2
+    },
+    {
+      "name": "Carol Kane",
+      "character": "Mrs. Benson",
+      "order": 3
+    },
+    {
+      "name": "Mary Kay Place",
+      "character": "Patty (Nurse)",
+      "order": 4
+    },
+    {
+      "name": "Michael McKean",
+      "character": "Bob",
+      "order": 5
+    },
+    {
+      "name": "Rutanya Alda",
+      "character": "Woman at Apartment",
+      "order": 6
+    },
+    {
+      "name": "Natasha Braisewell",
+      "character": "Girl in Vintage",
+      "order": 7
+    },
+    {
+      "name": "Henry Brown",
+      "character": "Jack Taylor (Salesman)",
+      "order": 8
+    },
+    {
+      "name": "Gary Bullock",
+      "character": "Mr. Smithman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xP2JKtdq77aWWZ1LCGsR68co5Jw.jpg",
+  "backdrop_path": "/705d13uxddi59nqHbndanqkAbNQ.jpg",
+  "budget": 5250000,
+  "revenue": 595005,
+  "vote_average": 6.485,
+  "vote_count": 67,
+  "imdb_id": "tt0206963",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

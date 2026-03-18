@@ -1,0 +1,243 @@
+{
+  "tmdb_id": 8273,
+  "title": "American Wedding",
+  "original_title": "American Wedding",
+  "release_date": "2003-08-01",
+  "runtime": 103,
+  "tagline": "Forever hold your piece.",
+  "overview": "With high school a distant memory, Jim and Michelle are getting married — and in a hurry, since Jim's grandmother is sick and wants to see him walk down the aisle — prompting Stifler to throw the ultimate bachelor party. And Jim's dad is reliable as ever, doling out advice no one wants to hear.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Loumolo & Co.",
+      "country": ""
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "LivePlanet",
+      "country": ""
+    },
+    {
+      "name": "Zide-Perry Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jesse Dylan"
+  ],
+  "writers": [
+    {
+      "name": "Adam Herz",
+      "job": "Characters"
+    },
+    {
+      "name": "Adam Herz",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Bender",
+      "job": "Producer"
+    },
+    {
+      "name": "Louis G. Friedman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Herz",
+      "job": "Producer"
+    },
+    {
+      "name": "Warren Zide",
+      "job": "Producer"
+    },
+    {
+      "name": "Craig Perry",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Weitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Weitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Moore",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Biggs",
+      "character": "Jim Levenstein",
+      "order": 0
+    },
+    {
+      "name": "Seann William Scott",
+      "character": "Steve Stifler",
+      "order": 1
+    },
+    {
+      "name": "Alyson Hannigan",
+      "character": "Michelle Flaherty",
+      "order": 2
+    },
+    {
+      "name": "Eddie Kaye Thomas",
+      "character": "Paul Finch",
+      "order": 3
+    },
+    {
+      "name": "Thomas Ian Nicholas",
+      "character": "Kevin Myers",
+      "order": 4
+    },
+    {
+      "name": "January Jones",
+      "character": "Cadence Flaherty",
+      "order": 5
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Jim's Father",
+      "order": 6
+    },
+    {
+      "name": "Molly Cheek",
+      "character": "Jim's Mother",
+      "order": 7
+    },
+    {
+      "name": "Deborah Rush",
+      "character": "Mary Flaherty",
+      "order": 8
+    },
+    {
+      "name": "Fred Willard",
+      "character": "Harold Flaherty",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pCO3lJv2PzPkJty29APxCVSjyoE.jpg",
+  "backdrop_path": "/qW703anWHFXulRTKWOckAg9i70K.jpg",
+  "budget": 55000000,
+  "revenue": 231449203,
+  "vote_average": 6.218,
+  "vote_count": 4327,
+  "imdb_id": "tt0328828",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

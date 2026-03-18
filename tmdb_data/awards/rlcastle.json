@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 4 nominations total",
+  "rated": "R",
+  "released": "19 Oct 2001",
+  "runtime": "131 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Rod Lurie",
+  "writer": "David Scarpa, Graham Yost",
+  "actors": "Robert Redford, James Gandolfini, Mark Ruffalo",
+  "plot": "Robert Redford stars in this action drama as General Irwin, a respected three-star tactician whose career ends in disgrace when he's court-martialed and sent to The Castle, a maximum security military prison. Irwin quickly butts heads with the facility's autocratic warden, Colonel Winter (James Gandolfini), who runs his command with an iron fist, even killing prisoners when he deems it necessary. Irwin rallies his fellow convicts into a rag-tag army and leads them in a revolt against Winter, an action that the warden is ready to repel by violent means.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "43",
+  "imdb_rating": "7.0",
+  "imdb_votes": "90,627",
+  "box_office": "$18,244,060",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Last+Castle"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/The+Last+Castle/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0272020/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0272020/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2100"
+  }
+}

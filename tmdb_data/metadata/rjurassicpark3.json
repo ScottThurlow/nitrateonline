@@ -1,0 +1,246 @@
+{
+  "tmdb_id": 331,
+  "title": "Jurassic Park III",
+  "original_title": "Jurassic Park III",
+  "release_date": "2001-07-18",
+  "runtime": 92,
+  "tagline": "This time, it's not just a walk in the park!",
+  "overview": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joe Johnston"
+  ],
+  "writers": [
+    {
+      "name": "Jim Taylor",
+      "job": "Writer"
+    },
+    {
+      "name": "Peter Buchman",
+      "job": "Writer"
+    },
+    {
+      "name": "Alexander Payne",
+      "job": "Writer"
+    },
+    {
+      "name": "Michael Crichton",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Larry Franco",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sam Neill",
+      "character": "Dr. Alan Grant",
+      "order": 0
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Paul Kirby",
+      "order": 1
+    },
+    {
+      "name": "Téa Leoni",
+      "character": "Amanda Kirby",
+      "order": 2
+    },
+    {
+      "name": "Alessandro Nivola",
+      "character": "Billy Brennan",
+      "order": 3
+    },
+    {
+      "name": "Trevor Morgan",
+      "character": "Eric Kirby",
+      "order": 4
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Udesky",
+      "order": 5
+    },
+    {
+      "name": "John Diehl",
+      "character": "Cooper",
+      "order": 6
+    },
+    {
+      "name": "Bruce A. Young",
+      "character": "Nash",
+      "order": 7
+    },
+    {
+      "name": "Laura Dern",
+      "character": "Ellie",
+      "order": 8
+    },
+    {
+      "name": "Taylor Nichols",
+      "character": "Mark",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+  "backdrop_path": "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+  "budget": 93000000,
+  "revenue": 368780809,
+  "vote_average": 6.171,
+  "vote_count": 7747,
+  "imdb_id": "tt0163025",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "11"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "TW",
+      "rating": "保護級"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

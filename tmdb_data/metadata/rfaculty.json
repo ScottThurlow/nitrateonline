@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 9276,
+  "title": "The Faculty",
+  "original_title": "The Faculty",
+  "release_date": "1998-12-25",
+  "runtime": 104,
+  "tagline": "These six students are about to discover their teachers really are from another planet.",
+  "overview": "When some very creepy things start happening around school, the kids at Herrington High make the chilling discovery that confirms their worst suspicions: their teachers really are from another planet!",
+  "genres": [
+    "Horror",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Los Hooligans Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Williamson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bruce Kimmel",
+      "job": "Story"
+    },
+    {
+      "name": "David Wechter",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "job": "Producer"
+    },
+    {
+      "name": "Tamara Smith",
+      "job": "Producer"
+    },
+    {
+      "name": "Elizabeth Avellan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Josh Hartnett",
+      "character": "Zeke Tyler",
+      "order": 0
+    },
+    {
+      "name": "Elijah Wood",
+      "character": "Casey Connor",
+      "order": 1
+    },
+    {
+      "name": "Jordana Brewster",
+      "character": "Delilah Profitt",
+      "order": 2
+    },
+    {
+      "name": "Clea DuVall",
+      "character": "Stokely 'Stokes' Mitchell",
+      "order": 3
+    },
+    {
+      "name": "Shawn Hatosy",
+      "character": "Stan Rosado",
+      "order": 4
+    },
+    {
+      "name": "Laura Harris",
+      "character": "Marybeth Louise Hutchinson",
+      "order": 5
+    },
+    {
+      "name": "Robert Patrick",
+      "character": "Coach Joe Willis",
+      "order": 6
+    },
+    {
+      "name": "Bebe Neuwirth",
+      "character": "Principal Valerie Drake",
+      "order": 7
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Miss Elizabeth Burke",
+      "order": 8
+    },
+    {
+      "name": "Piper Laurie",
+      "character": "Mrs. Karen Olson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+  "backdrop_path": "/oJRlYxfG10h4sxk2A7fpeOZnaFi.jpg",
+  "budget": 15000000,
+  "revenue": 40283321,
+  "vote_average": 6.562,
+  "vote_count": 2194,
+  "imdb_id": "tt0133751",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

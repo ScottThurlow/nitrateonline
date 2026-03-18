@@ -1,0 +1,100 @@
+{
+  "tmdb_id": 44925,
+  "title": "Sister My Sister",
+  "original_title": "Sister My Sister",
+  "release_date": "1994-12-15",
+  "runtime": 104,
+  "tagline": "",
+  "overview": "A true story of shocking violence catapults a picturesque little town into history. The close sibling relationship between the two maids takes on a new dimension as their overbearing employer discovers a sexual fever between the two sisters.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "British Screen Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Nancy Meckler"
+  ],
+  "writers": [
+    {
+      "name": "Wendy Kesselman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joyce Herlihy",
+      "job": "Producer"
+    },
+    {
+      "name": "Norma Heyman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joely Richardson",
+      "character": "Christine",
+      "order": 0
+    },
+    {
+      "name": "Jodhi May",
+      "character": "Lea",
+      "order": 1
+    },
+    {
+      "name": "Julie Walters",
+      "character": "Madame Danzard",
+      "order": 2
+    },
+    {
+      "name": "Sophie Thursfield",
+      "character": "Isabelle Danzard",
+      "order": 3
+    },
+    {
+      "name": "Amelda Brown",
+      "character": "Visitor",
+      "order": 4
+    },
+    {
+      "name": "Lucita Pope",
+      "character": "Visitor",
+      "order": 5
+    },
+    {
+      "name": "Kate Gartside",
+      "character": "Sister Veronica",
+      "order": 6
+    },
+    {
+      "name": "Aimee Schmidt",
+      "character": "Young Lea",
+      "order": 7
+    },
+    {
+      "name": "Gabriella Schmidt",
+      "character": "Young Christine",
+      "order": 8
+    }
+  ],
+  "poster_path": "/g1SwimqDPN3pP3LOcKuBi14bKIH.jpg",
+  "backdrop_path": "/izRtKLwWGFElvpy5r3l6bsP10WD.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.8,
+  "vote_count": 66,
+  "imdb_id": "tt0111205",
+  "status": "Released"
+}

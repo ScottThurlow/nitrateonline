@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "3 wins & 4 nominations",
+  "rated": "R",
+  "released": "29 Aug 1997",
+  "runtime": "100 min",
+  "genre": "Drama, Romance",
+  "director": "Nick Cassavetes",
+  "writer": "John Cassavetes",
+  "actors": "Sean Penn, Robin Wright, John Travolta",
+  "plot": "Maureen is pregnant and her husband Eddie is missing. Nervous, Maureen shares a couple of drinks with neighbor Kiefer, who tries to rape her and then beats her. When Eddie returns and finds his wife bruised, he goes ballistic, shoots a paramedic and is put in a psychiatric institution. Ten years later, Eddie is released and finds that Maureen has divorced him and is remarried with three children, one of whom is his little girl Jeanie. Eddie goes to reclaim his wife.",
+  "language": "English",
+  "country": "France, United States",
+  "metascore": "61",
+  "imdb_rating": "5.9",
+  "imdb_votes": "8,863",
+  "box_office": "$7,281,450",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "68%",
+      "link": "https://www.rottentomatoes.com/search?search=She%27s+So+Lovely"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/She%27s+So+Lovely/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120112/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120112/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/38295"
+  }
+}

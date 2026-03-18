@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 win & 4 nominations total",
+  "rated": "R",
+  "released": "25 Sep 1998",
+  "runtime": "122 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "John Frankenheimer",
+  "writer": "J.D. Zeik, David Mamet",
+  "actors": "Robert De Niro, Jean Reno, Natascha McElhone",
+  "plot": "Ronin is the Japanese word used for Samurai without a master. In this case, the Ronin are outcast specialists of every kind, whose services are available to everyone - for money. Dierdre (undoubtedly from Ireland) hires several Ronin to form a team in order to retrieve an important suitcase from a man who is about to sell it to the Russians. After the mission has been completed successfully, the suitcase immediately gets switched by a member of the team who seems to work into his own pocket. The complex net of everyone tricking everyone begins to surface slowly, and deadly...",
+  "language": "English, French, Russian",
+  "country": "United Kingdom, United States",
+  "metascore": "67",
+  "imdb_rating": "7.2",
+  "imdb_votes": "204,446",
+  "box_office": "$41,616,262",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Ronin"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Ronin/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0122690/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0122690/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8195"
+  }
+}

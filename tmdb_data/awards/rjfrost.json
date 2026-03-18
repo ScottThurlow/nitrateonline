@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 nomination total",
+  "rated": "PG",
+  "released": "11 Dec 1998",
+  "runtime": "101 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Troy Miller",
+  "writer": "Mark Steven Johnson, Steve Bloom, Jonathan Roberts",
+  "actors": "Michael Keaton, Kelly Preston, Joseph Cross",
+  "plot": "Jack Frost is a singer who's on the road most of the time so he can't spend a lot of time with his son Charlie, although they love each other very much. When Jack dies in a car accident, Charlie becomes a very sad young man, until... Jack returns as a snowman! Now they can do all the things they've missed when Jack was human, but what will people think when they see Charlie talking to a snowman and what will happen when the weather gets warmer?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "40",
+  "imdb_rating": "5.4",
+  "imdb_votes": "43,250",
+  "box_office": "$34,562,556",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=Jack+Frost"
+    },
+    {
+      "source": "Metacritic",
+      "value": "40/100",
+      "link": "https://www.metacritic.com/search/Jack+Frost/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0141109/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0141109/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9745"
+  }
+}

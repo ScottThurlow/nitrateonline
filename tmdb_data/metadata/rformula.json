@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 1613,
+  "title": "The 51st State",
+  "original_title": "The 51st State",
+  "release_date": "2001-12-07",
+  "runtime": 93,
+  "tagline": "Nice wheels. Dirty deals. And one mean mother in a kilt.",
+  "overview": "An American master chemist plans to score big on a once in a lifetime drug deal. All does not go as planned and he is soon entangled in a web of deceit.",
+  "genres": [
+    "Thriller",
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Fifty First Films",
+      "country": ""
+    },
+    {
+      "name": "Focus Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Ronny Yu"
+  ],
+  "writers": [
+    {
+      "name": "Stel Pavlou",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Pupkewitz",
+      "job": "Producer"
+    },
+    {
+      "name": "Seaton McLean",
+      "job": "Producer"
+    },
+    {
+      "name": "Malcolm Kohll",
+      "job": "Producer"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Aldridge",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephanie Davis",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Debin",
+      "job": "Producer"
+    },
+    {
+      "name": "András Hámori",
+      "job": "Producer"
+    },
+    {
+      "name": "Stel Pavlou",
+      "job": "Producer"
+    },
+    {
+      "name": "Eli Selden",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julie Yorn",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Elmo McElroy",
+      "order": 0
+    },
+    {
+      "name": "Robert Carlyle",
+      "character": "Felix DeSouza",
+      "order": 1
+    },
+    {
+      "name": "Emily Mortimer",
+      "character": "Dakota Parker",
+      "order": 2
+    },
+    {
+      "name": "Meat Loaf",
+      "character": "The Lizard",
+      "order": 3
+    },
+    {
+      "name": "Rhys Ifans",
+      "character": "Iki",
+      "order": 4
+    },
+    {
+      "name": "Sean Pertwee",
+      "character": "Detective Virgil Kane",
+      "order": 5
+    },
+    {
+      "name": "Ricky Tomlinson",
+      "character": "Leopold Durant",
+      "order": 6
+    },
+    {
+      "name": "Michael Starke",
+      "character": "Arthur",
+      "order": 7
+    },
+    {
+      "name": "Anna Keaveney",
+      "character": "Shirley DeSouza",
+      "order": 8
+    },
+    {
+      "name": "Paul Barber",
+      "character": "Frederick",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aYlrGirWrRCTU1PF6Svghn1EMAc.jpg",
+  "backdrop_path": "/fn6lI2tawQgHyctkAJJtQ22v4pW.jpg",
+  "budget": 27000000,
+  "revenue": 12881605,
+  "vote_average": 6.1,
+  "vote_count": 658,
+  "imdb_id": "tt0227984",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

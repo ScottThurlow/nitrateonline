@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 BAFTA Award13 wins & 11 nominations total",
+  "rated": "R",
+  "released": "22 Jan 1999",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "Ken Loach",
+  "writer": "Paul Laverty",
+  "actors": "Peter Mullan, Louise Goodall, Gary Lewis",
+  "plot": "Two thirty-somethings, unemployed former alcoholic Joe and community health worker Sarah, begin a romantic relationship in one of Glasgow''s toughest neighborhoods.",
+  "language": "Scots, English",
+  "country": "United Kingdom, Germany, France, Spain",
+  "metascore": "N/A",
+  "imdb_rating": "7.4",
+  "imdb_votes": "9,091",
+  "box_office": "$354,952",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=My+Name+Is+Joe"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0151691/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0151691/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8129"
+  }
+}

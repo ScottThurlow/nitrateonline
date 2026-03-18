@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 19419,
+  "title": "Screwed",
+  "original_title": "Screwed",
+  "release_date": "2000-05-12",
+  "runtime": 81,
+  "tagline": "Everyone gets it in the end.",
+  "overview": "A chauffeur kidnaps his rich boss's dog to hold it for ransom, but when she accidentally gets the dog back, she thinks that it's the chauffeur who's been kidnapped.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Robert Simonds Productions",
+      "country": "US"
+    },
+    {
+      "name": "Brad Grey Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Scott Alexander",
+    "Larry Karaszewski"
+  ],
+  "writers": [
+    {
+      "name": "Scott Alexander",
+      "job": "Writer"
+    },
+    {
+      "name": "Larry Karaszewski",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brad Grey",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ray Reo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Simonds",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Norm Macdonald",
+      "character": "Willard Fillmore",
+      "order": 0
+    },
+    {
+      "name": "Dave Chappelle",
+      "character": "Rusty P. Hayes",
+      "order": 1
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Grover Cleaver",
+      "order": 2
+    },
+    {
+      "name": "Elaine Stritch",
+      "character": "Miss Crock",
+      "order": 3
+    },
+    {
+      "name": "Daniel Benzali",
+      "character": "Detective Tom Dewey",
+      "order": 4
+    },
+    {
+      "name": "Sherman Hemsley",
+      "character": "Chip Oswald",
+      "order": 5
+    },
+    {
+      "name": "Sarah Silverman",
+      "character": "Hillary",
+      "order": 6
+    },
+    {
+      "name": "Malcolm Stewart",
+      "character": "Roger",
+      "order": 7
+    },
+    {
+      "name": "Lochlyn Munro",
+      "character": "Officer Richardson",
+      "order": 8
+    },
+    {
+      "name": "Brent Butt",
+      "character": "Buddy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/m6FfMbH1ga1Kp5QI9Nm0ETOIG64.jpg",
+  "backdrop_path": "/6o8y8fNo6eIgmS2jRux150LQwwj.jpg",
+  "budget": 10000000,
+  "revenue": 7201701,
+  "vote_average": 5.4,
+  "vote_count": 107,
+  "imdb_id": "tt0156323",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

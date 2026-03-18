@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Won 1 BAFTA Award20 wins & 18 nominations total",
+  "rated": "PG",
+  "released": "06 Aug 1999",
+  "runtime": "86 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Brad Bird",
+  "writer": "Tim McCanlies, Brad Bird, Ted Hughes",
+  "actors": "Eli Marienthal, Harry Connick Jr., Jennifer Aniston",
+  "plot": "This is the story of a nine-year-old boy named Hogarth Hughes who makes friends with an innocent alien giant robot that came from outer space. Meanwhile, a paranoid U.S. Government agent named Kent Mansley arrives in town, determined to destroy the giant at all costs. It's up to Hogarth to protect him by keeping him at Dean McCoppin's place in the junkyard.",
+  "language": "English",
+  "country": "United States, Czech Republic, United Kingdom",
+  "metascore": "85",
+  "imdb_rating": "8.1",
+  "imdb_votes": "257,198",
+  "box_office": "$23,315,035",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "96%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Iron+Giant"
+    },
+    {
+      "source": "Metacritic",
+      "value": "85/100",
+      "link": "https://www.metacritic.com/search/The+Iron+Giant/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0129167/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0129167/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10386"
+  }
+}

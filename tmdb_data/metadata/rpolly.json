@@ -1,0 +1,207 @@
+{
+  "tmdb_id": 5966,
+  "title": "Along Came Polly",
+  "original_title": "Along Came Polly",
+  "release_date": "2004-01-16",
+  "runtime": 90,
+  "tagline": "For the most cautious man on Earth, life is about to get interesting.",
+  "overview": "Reuben Feffer is a guy who's spent his entire life playing it safe. Polly Prince is irresistible as a free-spirit who lives for the thrill of the moment. When these two comically mismatched souls collide, Reuben's world is turned upside down, as he makes an uproarious attempt to change his life from middle-of-the-road to totally-out-there.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Hamburg"
+  ],
+  "writers": [
+    {
+      "name": "John Hamburg",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    },
+    {
+      "name": "Jane Bartelme",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Levine",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "character": "Reuben Feffer",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Aniston",
+      "character": "Polly Prince",
+      "order": 1
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Sandy Lyle",
+      "order": 2
+    },
+    {
+      "name": "Debra Messing",
+      "character": "Lisa Kramer",
+      "order": 3
+    },
+    {
+      "name": "Alec Baldwin",
+      "character": "Stan Indursky",
+      "order": 4
+    },
+    {
+      "name": "Hank Azaria",
+      "character": "Claude",
+      "order": 5
+    },
+    {
+      "name": "Bryan Brown",
+      "character": "Leland Van Lew",
+      "order": 6
+    },
+    {
+      "name": "Jsu Garcia",
+      "character": "Javier",
+      "order": 7
+    },
+    {
+      "name": "Michele Lee",
+      "character": "Vivian Feffer",
+      "order": 8
+    },
+    {
+      "name": "Bob Dishy",
+      "character": "Irving Feffer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7Tp16THdpHkMrqgoiDresDz9CWL.jpg",
+  "backdrop_path": "/d0oHN3xA6TxOvADW64OiyYFpLOf.jpg",
+  "budget": 42000000,
+  "revenue": 178300000,
+  "vote_average": 6.024,
+  "vote_count": 2983,
+  "imdb_id": "tt0343135",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

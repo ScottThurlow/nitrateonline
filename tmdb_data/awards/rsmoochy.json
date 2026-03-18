@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "29 Mar 2002",
+  "runtime": "109 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Danny DeVito",
+  "writer": "Adam Resnick",
+  "actors": "Robin Williams, Edward Norton, Catherine Keener",
+  "plot": "Fired in disgrace, kids show host Randolph Smiley finds himself out on the street, while his replacement Sheldon Mopes, finds himself on the fast track to success with a new hit show as the proud purple rhino Smoochy. But things take a turn for the worst when Sheldon finds out that some of the people that he works with, and some he doesn't know he's working for, are all in it for the money. Meanwhile, Randolph is slowly turning insane with his only thoughts focusing on killing Smoochy and getting back to his life of luxury.",
+  "language": "English",
+  "country": "United Kingdom, Germany, United States",
+  "metascore": "38",
+  "imdb_rating": "6.3",
+  "imdb_votes": "44,248",
+  "box_office": "$8,364,691",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=Death+to+Smoochy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Death+to+Smoochy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0266452/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0266452/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9275"
+  }
+}

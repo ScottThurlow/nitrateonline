@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "4 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "16 May 2003",
+  "runtime": "101 min",
+  "genre": "Comedy, Romance",
+  "director": "Peyton Reed",
+  "writer": "Eve Ahlert, Dennis Drake",
+  "actors": "Ewan McGregor, Renée Zellweger, David Hyde Pierce",
+  "plot": "A brightly-colored, light-hearted homage to the early-1960s sex comedies that starred Rock Hudson and Doris Day. The story follows a best-selling female advice author who has all the answers until a sly journalist playboy starts asking the questions.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "52",
+  "imdb_rating": "6.3",
+  "imdb_votes": "46,677",
+  "box_office": "$20,305,251",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Down+with+Love"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Down+with+Love/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0309530/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0309530/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10720"
+  }
+}

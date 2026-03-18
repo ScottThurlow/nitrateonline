@@ -1,0 +1,295 @@
+{
+  "tmdb_id": 550,
+  "title": "Fight Club",
+  "original_title": "Fight Club",
+  "release_date": "1999-10-15",
+  "runtime": 139,
+  "tagline": "Mischief. Mayhem. Soap.",
+  "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Linson Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Taurus Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "David Fincher"
+  ],
+  "writers": [
+    {
+      "name": "Chuck Palahniuk",
+      "job": "Novel"
+    },
+    {
+      "name": "Jim Uhls",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ross Grayson Bell",
+      "job": "Producer"
+    },
+    {
+      "name": "Ceán Chaffin",
+      "job": "Producer"
+    },
+    {
+      "name": "Art Linson",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Edward Norton",
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "name": "Brad Pitt",
+      "character": "Tyler Durden",
+      "order": 1
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "character": "Marla Singer",
+      "order": 2
+    },
+    {
+      "name": "Meat Loaf",
+      "character": "Robert Paulson",
+      "order": 3
+    },
+    {
+      "name": "Jared Leto",
+      "character": "Angel Face",
+      "order": 4
+    },
+    {
+      "name": "Zach Grenier",
+      "character": "Richard Chesler (Regional Manager)",
+      "order": 5
+    },
+    {
+      "name": "Holt McCallany",
+      "character": "The Mechanic",
+      "order": 6
+    },
+    {
+      "name": "Eion Bailey",
+      "character": "Ricky",
+      "order": 7
+    },
+    {
+      "name": "Richmond Arquette",
+      "character": "Intern at Hospital",
+      "order": 8
+    },
+    {
+      "name": "David Andrews",
+      "character": "Thomas at Remaining Men Together",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+  "backdrop_path": "/xRyINp9KfMLVjRiO5nCsoRDdvvF.jpg",
+  "budget": 63000000,
+  "revenue": 100853753,
+  "vote_average": 8.438,
+  "vote_count": 31614,
+  "imdb_id": "tt0137523",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BG",
+      "rating": "c"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "ID",
+      "rating": "21+"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "LT",
+      "rating": "N-16"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "MY",
+      "rating": "18PL"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

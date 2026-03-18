@@ -1,0 +1,174 @@
+{
+  "tmdb_id": 11351,
+  "title": "Jeepers Creepers 2",
+  "original_title": "Jeepers Creepers 2",
+  "release_date": "2003-08-08",
+  "runtime": 104,
+  "tagline": "He can taste your fear.",
+  "overview": "When their bus is crippled on the side of a deserted road, a team of high school athletes discover an opponent they cannot defeat – and may not survive.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Myriad Pictures",
+      "country": "US"
+    },
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    },
+    {
+      "name": "United Artists",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Victor Salva"
+  ],
+  "writers": [
+    {
+      "name": "Victor Salva",
+      "job": "Characters"
+    },
+    {
+      "name": "Victor Salva",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Luse",
+      "job": "Producer"
+    },
+    {
+      "name": "Kirk D'Amico",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lucas Foster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bobby Rock",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Travis Schiffner",
+      "character": "Izzy Bohen",
+      "order": 0
+    },
+    {
+      "name": "Ray Wise",
+      "character": "Jack Taggart, Sr.",
+      "order": 1
+    },
+    {
+      "name": "Jonathan Breck",
+      "character": "The Creeper",
+      "order": 2
+    },
+    {
+      "name": "Al Santos",
+      "character": "Dante Belasco",
+      "order": 3
+    },
+    {
+      "name": "Nicki Aycox",
+      "character": "Minxie Hayes",
+      "order": 4
+    },
+    {
+      "name": "Eric Nenninger",
+      "character": "Scott 'Scotty' Braddock",
+      "order": 5
+    },
+    {
+      "name": "Marieh Delfino",
+      "character": "Rhonda Truitt",
+      "order": 6
+    },
+    {
+      "name": "Tom Tarantini",
+      "character": "Coach Dwayne Barnes",
+      "order": 7
+    },
+    {
+      "name": "Josh Hammond",
+      "character": "Jake Spencer",
+      "order": 8
+    },
+    {
+      "name": "Luke Edwards",
+      "character": "Jack Taggart, Jr.",
+      "order": 9
+    }
+  ],
+  "poster_path": "/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg",
+  "backdrop_path": "/pPZUYQx5PuH4xkXkFizirTd0ey1.jpg",
+  "budget": 17000000,
+  "revenue": 63102666,
+  "vote_average": 6.165,
+  "vote_count": 1777,
+  "imdb_id": "tt0301470",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

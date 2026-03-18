@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 3 BAFTA 4 wins & 17 nominations total",
+  "rated": "PG-13",
+  "released": "30 Jun 1999",
+  "runtime": "97 min",
+  "genre": "Comedy, Romance",
+  "director": "Oliver Parker",
+  "writer": "Oscar Wilde, Oliver Parker",
+  "actors": "Rupert Everett, Julianne Moore, Peter Vaughan",
+  "plot": "Sir Robert Chiltern is a successful Government minister, well-off and with a loving wife. All this is threatened when Mrs Cheveley appears in London with damning evidence of a past misdeed. Sir Robert turns for help to his friend Lord Goring, an apparently idle philanderer and the despair of his father. Goring knows the lady of old, and, for him, takes the whole thing pretty seriously.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "67",
+  "imdb_rating": "6.8",
+  "imdb_votes": "17,354",
+  "box_office": "$18,542,974",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=An+Ideal+Husband"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/An+Ideal+Husband/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0122541/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0122541/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24137"
+  }
+}

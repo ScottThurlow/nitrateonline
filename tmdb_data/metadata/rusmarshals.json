@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 11808,
+  "title": "U.S. Marshals",
+  "original_title": "U.S. Marshals",
+  "release_date": "1998-03-06",
+  "runtime": 131,
+  "tagline": "The cop who won't stop is back. But this time he's chasing down a lot more than a fugitive.",
+  "overview": "U.S. Marshal Sam Gerard is accompanying a plane load of convicts from Chicago to New York. The plane crashes spectacularly, and Mark Sheridan escapes. But when Diplomatic Security Agent John Royce is assigned to help Gerard recapture Sheridan, it becomes clear that Sheridan is more than just another murderer.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Kopelson Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stuart Baird"
+  ],
+  "writers": [
+    {
+      "name": "John Pogue",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Roy Huggins",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Arnold Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Anne Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Keith Barish",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roy Huggins",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Samuel Gerard",
+      "order": 0
+    },
+    {
+      "name": "Wesley Snipes",
+      "character": "Sheridan",
+      "order": 1
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "character": "Royce",
+      "order": 2
+    },
+    {
+      "name": "Joe Pantoliano",
+      "character": "Renfro",
+      "order": 3
+    },
+    {
+      "name": "Kate Nelligan",
+      "character": "Walsh",
+      "order": 4
+    },
+    {
+      "name": "Daniel Roebuck",
+      "character": "Biggs",
+      "order": 5
+    },
+    {
+      "name": "Tom Wood",
+      "character": "Newman",
+      "order": 6
+    },
+    {
+      "name": "LaTanya Richardson Jackson",
+      "character": "Cooper",
+      "order": 7
+    },
+    {
+      "name": "Patrick Malahide",
+      "character": "Lamb",
+      "order": 8
+    },
+    {
+      "name": "Irène Jacob",
+      "character": "Marie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5ST0BydDSXtW5AtfDDhTVS13pTt.jpg",
+  "backdrop_path": "/1gjmfxUd4JPhfoVZszyS9mLA5Uv.jpg",
+  "budget": 60000000,
+  "revenue": 102367405,
+  "vote_average": 6.532,
+  "vote_count": 1759,
+  "imdb_id": "tt0120873",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "LU",
+      "rating": "16"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,195 @@
+{
+  "tmdb_id": 9778,
+  "title": "Serendipity",
+  "original_title": "Serendipity",
+  "release_date": "2001-10-05",
+  "runtime": 90,
+  "tagline": "Sometimes True Love Can Have More Than One Face.",
+  "overview": "Although strangers Sara and Jonathan are both already in relationships, they realize they have genuine chemistry after a chance encounter – but part company soon after. Years later, they each yearn to reunite, despite being destined for the altar. But to give true love a chance, they have to find one another again.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tapestry Films",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Simon Fields Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Peter Chelsom"
+  ],
+  "writers": [
+    {
+      "name": "Marc Klein",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Simon Fields",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert L. Levy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Abrams",
+      "job": "Producer"
+    },
+    {
+      "name": "Amy Slotnick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julie Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Osher",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Cusack",
+      "character": "Jonathan Trager",
+      "order": 0
+    },
+    {
+      "name": "Kate Beckinsale",
+      "character": "Sara Thomas",
+      "order": 1
+    },
+    {
+      "name": "Jeremy Piven",
+      "character": "Dean Kansky",
+      "order": 2
+    },
+    {
+      "name": "Bridget Moynahan",
+      "character": "Halley Buchanan",
+      "order": 3
+    },
+    {
+      "name": "John Corbett",
+      "character": "Lars Hammond",
+      "order": 4
+    },
+    {
+      "name": "Molly Shannon",
+      "character": "Eve",
+      "order": 5
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Bloomingdale's Salesman",
+      "order": 6
+    },
+    {
+      "name": "Lilli Lavine",
+      "character": "Bloomingdale's Stock Girl",
+      "order": 7
+    },
+    {
+      "name": "Michael Guarino, Jr.",
+      "character": "Customer at Bloomingdale's",
+      "order": 8
+    },
+    {
+      "name": "Abdul Alshawish",
+      "character": "Customer at Bloomingdale's",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg",
+  "backdrop_path": "/sBecqcXgrLRiwufYr6apGnYA70k.jpg",
+  "budget": 28000000,
+  "revenue": 77516304,
+  "vote_average": 6.95,
+  "vote_count": 2104,
+  "imdb_id": "tt0240890",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

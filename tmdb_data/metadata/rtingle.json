@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 10342,
+  "title": "Teaching Mrs. Tingle",
+  "original_title": "Teaching Mrs. Tingle",
+  "release_date": "1999-08-11",
+  "runtime": 96,
+  "tagline": "Before school lets out, Mrs. Tingle's class is going to need a substitute teacher.",
+  "overview": "A bright high-school senior has her impending status as valedictorian jeopardized when her bitter history teacher, Mrs. Tingle, gives her a poor grade on a project.  When an attempt to get ahead in Mrs. Tingle's class goes awry, mayhem ensues and friendships, loyalties and trust are tested by the teacher's intricate mind-games.",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Konrad Pictures",
+      "country": ""
+    },
+    {
+      "name": "Interscope Communications",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Williamson"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Williamson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cathy Konrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cary Granat",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Erica Huggins",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Kroopf",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Helen Mirren",
+      "character": "Mrs. Tingle",
+      "order": 0
+    },
+    {
+      "name": "Katie Holmes",
+      "character": "Leigh Ann Watson",
+      "order": 1
+    },
+    {
+      "name": "Barry Watson",
+      "character": "Luke Churner",
+      "order": 2
+    },
+    {
+      "name": "Marisa Coughlan",
+      "character": "Jo Lynn Jordan",
+      "order": 3
+    },
+    {
+      "name": "Michael McKean",
+      "character": "Principal Potter",
+      "order": 4
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "character": "Coach Wenchell",
+      "order": 5
+    },
+    {
+      "name": "Liz Stauber",
+      "character": "Trudie Tucker",
+      "order": 6
+    },
+    {
+      "name": "Molly Ringwald",
+      "character": "Miss Banks",
+      "order": 7
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Miss Gold",
+      "order": 8
+    },
+    {
+      "name": "John Patrick White",
+      "character": "Brian Berry",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cGv0tkWZZSmoaPYiOsDcGmMhKq7.jpg",
+  "backdrop_path": "/i64i2v5EvY0qmpUkyKs5cSOwdGG.jpg",
+  "budget": 13000000,
+  "revenue": 8946237,
+  "vote_average": 5.506,
+  "vote_count": 362,
+  "imdb_id": "tt0133046",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

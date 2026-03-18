@@ -1,0 +1,229 @@
+{
+  "tmdb_id": 11775,
+  "title": "Intolerable Cruelty",
+  "original_title": "Intolerable Cruelty",
+  "release_date": "2003-10-10",
+  "runtime": 100,
+  "tagline": "Engage the enemy.",
+  "overview": "A revenge-seeking gold digger marries a womanizing Beverly Hills lawyer with the intention of making a killing in the divorce.",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    },
+    {
+      "name": "Mike Zoss Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Coen"
+  ],
+  "writers": [
+    {
+      "name": "Robert Ramsey",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Romano",
+      "job": "Story"
+    },
+    {
+      "name": "Robert Ramsey",
+      "job": "Story"
+    },
+    {
+      "name": "Matthew Stone",
+      "job": "Story"
+    },
+    {
+      "name": "Matthew Stone",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joel Coen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ethan Coen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Graf",
+      "job": "Producer"
+    },
+    {
+      "name": "John Cameron",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Whitaker",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Sean Daniel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ethan Coen",
+      "job": "Producer"
+    },
+    {
+      "name": "James Jacks",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Grant Heslov",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "George Clooney",
+      "character": "Miles",
+      "order": 0
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "character": "Marilyn",
+      "order": 1
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Donovan Donaly",
+      "order": 2
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "character": "Gus Petch",
+      "order": 3
+    },
+    {
+      "name": "Edward Herrmann",
+      "character": "Rex Rexroth",
+      "order": 4
+    },
+    {
+      "name": "Paul Adelstein",
+      "character": "Wrigley",
+      "order": 5
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Freddy Bender",
+      "order": 6
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Howard D. Doyle",
+      "order": 7
+    },
+    {
+      "name": "Julia Duffy",
+      "character": "Sarah Sorkin",
+      "order": 8
+    },
+    {
+      "name": "Jonathan Hadary",
+      "character": "Heinz, the Baron Krauss von Espy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7K8hDwOWsZv0MluyrB8nWlhJOgB.jpg",
+  "backdrop_path": "/x1BTLDDijvms3Yi9NZoxxniTDGA.jpg",
+  "budget": 60000000,
+  "revenue": 119940815,
+  "vote_average": 5.954,
+  "vote_count": 1632,
+  "imdb_id": "tt0138524",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

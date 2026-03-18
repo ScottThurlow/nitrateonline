@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "9 wins & 4 nominations total",
+  "rated": "Unrated",
+  "released": "28 May 1999",
+  "runtime": "137 min",
+  "genre": "Drama",
+  "director": "Theodoros Angelopoulos",
+  "writer": "Theodoros Angelopoulos, Tonino Guerra, Petros Markaris",
+  "actors": "Bruno Ganz, Isabelle Renauld, Fabrizio Bentivoglio",
+  "plot": "Alexander, an old writer, is ill and prepared to die. He says his goodbyes and recalls his life with his wife long ago. While driving his car he saves a street kid, an illegal immigrant from Albania, from being arrested. Later in the day, by chance, he sees the same boy being abducted, and follows in his car. Although he is preoccupied with his own regrets, he puts death on hold to find a way to help the boy.",
+  "language": "Greek, English, Italian",
+  "country": "France, Italy, Greece, Germany",
+  "metascore": "80",
+  "imdb_rating": "7.9",
+  "imdb_votes": "15,331",
+  "box_office": "$107,178",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=Eternity+and+a+Day"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/Eternity+and+a+Day/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0156794/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0156794/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24858"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 wins & 3 nominations",
+  "rated": "R",
+  "released": "30 Aug 2002",
+  "runtime": "101 min",
+  "genre": "Crime, Horror, Thriller",
+  "director": "William Malone",
+  "writer": "Moshe Diamant, Josephine Coyle, Holly Payberg-Torroija",
+  "actors": "Stephen Dorff, Natascha McElhone, Stephen Rea",
+  "plot": "Four bodies are found in New York City. Why, why, why? The coincidence? They all died 48 hours after logging on to a site named feardotcom.com. Tough detective Mike Reilly collaborates with Department of Health associate Terry Huston to research these mysterious deaths. The only way to find out though what really happened is to enter the site itself...",
+  "language": "English",
+  "country": "United Kingdom, Germany, Luxembourg, United States, Canada",
+  "metascore": "16",
+  "imdb_rating": "3.4",
+  "imdb_votes": "23,090",
+  "box_office": "$13,258,249",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "3%",
+      "link": "https://www.rottentomatoes.com/search?search=Feardotcom"
+    },
+    {
+      "source": "Metacritic",
+      "value": "16/100",
+      "link": "https://www.metacritic.com/search/Feardotcom/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295254/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295254/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9544"
+  }
+}

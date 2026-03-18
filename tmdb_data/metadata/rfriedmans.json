@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 2260,
+  "title": "Capturing the Friedmans",
+  "original_title": "Capturing the Friedmans",
+  "release_date": "2003-05-30",
+  "runtime": 107,
+  "tagline": "Who do you believe?",
+  "overview": "An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.",
+  "genres": [
+    "Documentary",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "HBO Documentary Films",
+      "country": "US"
+    },
+    {
+      "name": "Notorious Pictures",
+      "country": "IT"
+    },
+    {
+      "name": "Magnolia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Jarecki"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Marc Smerling",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Jarecki",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Arnold Friedman",
+      "character": "Self (archive footage)",
+      "order": 0
+    },
+    {
+      "name": "Elaine Friedman",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "David Friedman",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Jesse Friedman",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Seth Friedman",
+      "character": "Self (archive footage)",
+      "order": 4
+    },
+    {
+      "name": "John McDermott",
+      "character": "Self - Postal Inspector",
+      "order": 5
+    },
+    {
+      "name": "Frances Galasso",
+      "character": "Self - Ret. Director, Sex Crimes Unit",
+      "order": 6
+    },
+    {
+      "name": "Anthony Sgueglia",
+      "character": "Self - Detective, Sex Crimes Unit",
+      "order": 7
+    },
+    {
+      "name": "Joseph Onorato",
+      "character": "Self - Asst. District Attorney",
+      "order": 8
+    },
+    {
+      "name": "Judd Martin",
+      "character": "Self - Jesse's Best Friend in High School",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+  "backdrop_path": "/bV7q6ZFguqbVWo95hCkfgS92fUg.jpg",
+  "budget": 0,
+  "revenue": 4076990,
+  "vote_average": 7.126,
+  "vote_count": 356,
+  "imdb_id": "tt0342172",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

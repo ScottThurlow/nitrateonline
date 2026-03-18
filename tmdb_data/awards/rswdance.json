@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "55 wins & 7 nominations",
+  "rated": "PG",
+  "released": "11 Jul 1997",
+  "runtime": "136 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Masayuki Suô",
+  "writer": "Masayuki Suô",
+  "actors": "Kôji Yakusho, Tamiyo Kusakari, Naoto Takenaka",
+  "plot": "Shohei Sugiyama has attained all that he has wanted in life. But he is still depressed and unhappy. One day, he gathers up the courage to sign up for dancing lessons. He hopes they will rid his depression and help him get his life back together.",
+  "language": "Japanese",
+  "country": "Japan",
+  "metascore": "68",
+  "imdb_rating": "7.7",
+  "imdb_votes": "11,888",
+  "box_office": "$9,499,091",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Shall+We+Dance%3F"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Shall+We+Dance%3F/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0117615/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0117615/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11239"
+  }
+}

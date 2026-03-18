@@ -1,0 +1,226 @@
+{
+  "tmdb_id": 1903,
+  "title": "Vanilla Sky",
+  "original_title": "Vanilla Sky",
+  "release_date": "2001-12-14",
+  "runtime": 136,
+  "tagline": "LoveHateDreamsLifeWorkPlayFriendshipSex",
+  "overview": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+  "genres": [
+    "Mystery",
+    "Romance",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "Portuguese",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Cruise/Wagner Productions",
+      "country": "US"
+    },
+    {
+      "name": "Vinyl Films",
+      "country": "US"
+    },
+    {
+      "name": "Sogecine",
+      "country": "ES"
+    },
+    {
+      "name": "Summit Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Cameron Crowe"
+  ],
+  "writers": [
+    {
+      "name": "Cameron Crowe",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alejandro Amenábar",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Mateo Gil",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Cruise",
+      "job": "Producer"
+    },
+    {
+      "name": "Paula Wagner",
+      "job": "Producer"
+    },
+    {
+      "name": "Cameron Crowe",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Block",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Sanger",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Danny Bramson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patrick Wachsberger",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Fernando Bovaira",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "character": "David Aames",
+      "order": 0
+    },
+    {
+      "name": "Penélope Cruz",
+      "character": "Sofia Serrano",
+      "order": 1
+    },
+    {
+      "name": "Cameron Diaz",
+      "character": "Julie Gianni",
+      "order": 2
+    },
+    {
+      "name": "Kurt Russell",
+      "character": "Curtis McCabe",
+      "order": 3
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Brian Shelby",
+      "order": 4
+    },
+    {
+      "name": "Noah Taylor",
+      "character": "Edmund Ventura",
+      "order": 5
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Thomas Tipp",
+      "order": 6
+    },
+    {
+      "name": "Tilda Swinton",
+      "character": "Rebecca Dearborn",
+      "order": 7
+    },
+    {
+      "name": "Michael Shannon",
+      "character": "Aaron",
+      "order": 8
+    },
+    {
+      "name": "Delaina Mitchell",
+      "character": "David's Assistant",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+  "backdrop_path": "/wwLufumafJojc59hgIamHyJSTO9.jpg",
+  "budget": 68000000,
+  "revenue": 203388341,
+  "vote_average": 6.821,
+  "vote_count": 4571,
+  "imdb_id": "tt0259711",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

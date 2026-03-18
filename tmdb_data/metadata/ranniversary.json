@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 26475,
+  "title": "The Anniversary Party",
+  "original_title": "The Anniversary Party",
+  "release_date": "2001-06-09",
+  "runtime": 115,
+  "tagline": "It's not a party until something gets broken.",
+  "overview": "While celebrating their reconciliation and six years of marriage, American actress Sally Nash and British novelist Joe Therrian receive their close friends, some colleagues and their next door neighbors in a party. Under the effect of Ecstasy, revelations are disclosed and relationships deteriorate among the group.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fine Line Features",
+      "country": "US"
+    },
+    {
+      "name": "Pas de Quoi",
+      "country": ""
+    },
+    {
+      "name": "JoAnne Sellar Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jennifer Jason Leigh",
+    "Alan Cumming"
+  ],
+  "writers": [
+    {
+      "name": "Alan Cumming",
+      "job": "Writer"
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Hurwitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Cumming",
+      "job": "Producer"
+    },
+    {
+      "name": "JoAnne Sellar",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alan Cumming",
+      "character": "Joe Therrian",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "character": "Sally Nash Therrian",
+      "order": 1
+    },
+    {
+      "name": "John Benjamin Hickey",
+      "character": "Jerry Adams",
+      "order": 2
+    },
+    {
+      "name": "Parker Posey",
+      "character": "Judy Adams",
+      "order": 3
+    },
+    {
+      "name": "Phoebe Cates",
+      "character": "Sophia Gold",
+      "order": 4
+    },
+    {
+      "name": "Kevin Kline",
+      "character": "Cal Gold",
+      "order": 5
+    },
+    {
+      "name": "Owen Kline",
+      "character": "Jack Gold",
+      "order": 6
+    },
+    {
+      "name": "Greta Kline",
+      "character": "Evie Gold",
+      "order": 7
+    },
+    {
+      "name": "Denis O'Hare",
+      "character": "Ryan Rose",
+      "order": 8
+    },
+    {
+      "name": "Mina Badie",
+      "character": "Monica Rose",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3c4t8tTQp7TV1Z3qeltmhjRi5Ex.jpg",
+  "backdrop_path": "/pckxBd8HqMpi1W9i15aztoAcVBj.jpg",
+  "budget": 0,
+  "revenue": 4931888,
+  "vote_average": 5.642,
+  "vote_count": 82,
+  "imdb_id": "tt0254099",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

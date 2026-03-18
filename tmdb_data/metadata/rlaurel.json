@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 13819,
+  "title": "Laurel Canyon",
+  "original_title": "Laurel Canyon",
+  "release_date": "2003-03-07",
+  "runtime": 103,
+  "tagline": "Somewhere between Hollywood and the rest of the world.",
+  "overview": "When an uptight young man and his fiancée move into his libertine mother's house, the resulting clash of life attitudes shakes everyone up.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Antidote Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lisa Cholodenko"
+  ],
+  "writers": [
+    {
+      "name": "Lisa Cholodenko",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Ferguson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David McGiffert",
+      "job": "Producer"
+    },
+    {
+      "name": "Susan A. Stover",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Kusama-Hinte",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Frances McDormand",
+      "character": "Jane",
+      "order": 0
+    },
+    {
+      "name": "Christian Bale",
+      "character": "Sam",
+      "order": 1
+    },
+    {
+      "name": "Kate Beckinsale",
+      "character": "Alex",
+      "order": 2
+    },
+    {
+      "name": "Natascha McElhone",
+      "character": "Sara",
+      "order": 3
+    },
+    {
+      "name": "Alessandro Nivola",
+      "character": "Ian McKnight",
+      "order": 4
+    },
+    {
+      "name": "Lou Barlow",
+      "character": "Fripp",
+      "order": 5
+    },
+    {
+      "name": "Russell Pollard",
+      "character": "Rowan",
+      "order": 6
+    },
+    {
+      "name": "Imaad Wasif",
+      "character": "Dean",
+      "order": 7
+    },
+    {
+      "name": "Mickey Petralia",
+      "character": "Mickey",
+      "order": 8
+    },
+    {
+      "name": "Melissa De Sousa",
+      "character": "Claudia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/z7knajZv3nxqN0o2Jq8kIOkpgu6.jpg",
+  "backdrop_path": "/v6U5nTWR2ILnnf7f5gKAoTqVEhp.jpg",
+  "budget": 0,
+  "revenue": 4600000,
+  "vote_average": 5.95,
+  "vote_count": 221,
+  "imdb_id": "tt0298408",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

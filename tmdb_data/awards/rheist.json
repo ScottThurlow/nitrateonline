@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "09 Nov 2001",
+  "runtime": "109 min",
+  "genre": "Action, Crime, Drama",
+  "director": "David Mamet",
+  "writer": "David Mamet",
+  "actors": "Gene Hackman, Rebecca Pidgeon, Danny DeVito",
+  "plot": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane and their utility man, Pinky Pincus find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "66",
+  "imdb_rating": "6.5",
+  "imdb_votes": "40,828",
+  "box_office": "$23,510,841",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=Heist"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Heist/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0252503/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0252503/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11088"
+  }
+}

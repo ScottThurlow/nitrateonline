@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 8835,
+  "title": "Legally Blonde",
+  "original_title": "Legally Blonde",
+  "release_date": "2001-07-13",
+  "runtime": 96,
+  "tagline": "Boldly going where no blonde has gone.",
+  "overview": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hungarian"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Marc Platt Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Luketic"
+  ],
+  "writers": [
+    {
+      "name": "Amanda Brown",
+      "job": "Novel"
+    },
+    {
+      "name": "Kirsten Smith",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Karen McCullah",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ric Kidney",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Platt",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Reese Witherspoon",
+      "character": "Elle Woods",
+      "order": 0
+    },
+    {
+      "name": "Luke Wilson",
+      "character": "Emmetten Richmond",
+      "order": 1
+    },
+    {
+      "name": "Selma Blair",
+      "character": "Vivian Kensington",
+      "order": 2
+    },
+    {
+      "name": "Matthew Davis",
+      "character": "Warner Huntington III",
+      "order": 3
+    },
+    {
+      "name": "Victor Garber",
+      "character": "Professor Callahan",
+      "order": 4
+    },
+    {
+      "name": "Jennifer Coolidge",
+      "character": "Paulette",
+      "order": 5
+    },
+    {
+      "name": "Holland Taylor",
+      "character": "Professor Stromwell",
+      "order": 6
+    },
+    {
+      "name": "Ali Larter",
+      "character": "Brooke Taylor Windham",
+      "order": 7
+    },
+    {
+      "name": "Jessica Cauffiel",
+      "character": "Margot",
+      "order": 8
+    },
+    {
+      "name": "Alanna Ubach",
+      "character": "Serena",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+  "backdrop_path": "/viU23X3BIycUFf6TOlm9c7TxLgM.jpg",
+  "budget": 18000000,
+  "revenue": 141778365,
+  "vote_average": 6.804,
+  "vote_count": 4456,
+  "imdb_id": "tt0250494",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

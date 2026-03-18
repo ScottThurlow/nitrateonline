@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins & 10 nominations total",
+  "rated": "PG",
+  "released": "30 Mar 2001",
+  "runtime": "88 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Robert Rodriguez",
+  "writer": "Robert Rodriguez",
+  "actors": "Alexa PenaVega, Daryl Sabara, Antonio Banderas",
+  "plot": "Gregorio and Ingrid are the two greatest secret agents the world has ever known: masters of disguise, mavens of invention, able to stop wars before they even start. Working for separate countries, they are sent to eliminate their most dangerous enemy...each other. But in an exotic corner of the world when they finally come face to face, they fall in love instead and embark on the most dangerous mission they have ever faced: raising a family. Now nine years later, after their retirement, having exchanged the adventure of espionage for parenthood, Gregorio and Ingrid Cortez are called back in to action. When their former colleagues, the world's most formidable spies, start disappearing one by one, the Cortez's are forced to take on techno-wizard Fegan Floop and his evil, egg-headed sidekick, Minion. But when the unthinkable happens and they too disappear, unfortunately there are only two people in the world who can rescue them...their kids.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "5.6",
+  "imdb_votes": "131,798",
+  "box_office": "$112,719,001",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Spy+Kids"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Spy+Kids/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0227538/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0227538/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10054"
+  }
+}

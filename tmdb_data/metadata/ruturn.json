@@ -1,0 +1,165 @@
+{
+  "tmdb_id": 10155,
+  "title": "U Turn",
+  "original_title": "U Turn",
+  "release_date": "1997-10-03",
+  "runtime": 125,
+  "tagline": "Sex. Murder. Betrayal. Everything that makes life worth living.",
+  "overview": "When a desperate man’s car breaks down in a bizarre desert town while evading vengeful bookies, he becomes entangled in a dangerous love triangle. Caught between a married couple, he’s faced with deadly contracts to kill them both.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Canal+ Droits Audiovisuels",
+      "country": "FR"
+    },
+    {
+      "name": "Illusion Entertainment Group",
+      "country": "US"
+    },
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Clyde Is Hungry Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Oliver Stone"
+  ],
+  "writers": [
+    {
+      "name": "John Ridley",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Ridley",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dan Halsted",
+      "job": "Producer"
+    },
+    {
+      "name": "John Ridley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Clayton Townsend",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Bobby Cooper",
+      "order": 0
+    },
+    {
+      "name": "Nick Nolte",
+      "character": "Jake McKenna",
+      "order": 1
+    },
+    {
+      "name": "Jennifer Lopez",
+      "character": "Grace McKenna",
+      "order": 2
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "character": "Toby N. Tucker",
+      "order": 3
+    },
+    {
+      "name": "Claire Danes",
+      "character": "Jenny",
+      "order": 4
+    },
+    {
+      "name": "Powers Boothe",
+      "character": "Sheriff Virgil Potter",
+      "order": 5
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Darrell",
+      "order": 6
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Blind Man",
+      "order": 7
+    },
+    {
+      "name": "Abraham Benrubi",
+      "character": "Biker #1",
+      "order": 8
+    },
+    {
+      "name": "Richard Rutowski",
+      "character": "Biker #2",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nBPTj1ApIDWo04M14rXFwLPdtr2.jpg",
+  "backdrop_path": "/rq6duKhgffOtMs9LqgyhrJ9Y8EX.jpg",
+  "budget": 19000000,
+  "revenue": 6682098,
+  "vote_average": 6.631,
+  "vote_count": 796,
+  "imdb_id": "tt0120399",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

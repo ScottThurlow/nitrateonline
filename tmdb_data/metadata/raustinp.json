@@ -1,0 +1,211 @@
+{
+  "tmdb_id": 816,
+  "title": "Austin Powers: International Man of Mystery",
+  "original_title": "Austin Powers: International Man of Mystery",
+  "release_date": "1997-05-02",
+  "runtime": 89,
+  "tagline": "Debonair. Defiant. Defrosted.",
+  "overview": "As a swinging fashion photographer by day and a groovy British superagent by night, Austin Powers is the '60s' most shagadelic spy. But can he stop megalomaniac Dr. Evil after the bald villain freezes himself and unthaws in the '90s? With the help of sexy sidekick Vanessa Kensington, he just might.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Capella International",
+      "country": "US"
+    },
+    {
+      "name": "Moving Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Eric's Boy",
+      "country": "US"
+    },
+    {
+      "name": "KC Medien",
+      "country": "DE"
+    },
+    {
+      "name": "Team Todd",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jay Roach"
+  ],
+  "writers": [
+    {
+      "name": "Mike Myers",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Demi Moore",
+      "job": "Producer"
+    },
+    {
+      "name": "Suzanne Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Jennifer Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric McLeod",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Myers",
+      "job": "Producer"
+    },
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Myers",
+      "character": "Austin Powers / Dr. Evil",
+      "order": 0
+    },
+    {
+      "name": "Elizabeth Hurley",
+      "character": "Vanessa Kensington",
+      "order": 1
+    },
+    {
+      "name": "Michael York",
+      "character": "Basil Exposition",
+      "order": 2
+    },
+    {
+      "name": "Mimi Rogers",
+      "character": "Mrs. Kensington",
+      "order": 3
+    },
+    {
+      "name": "Robert Wagner",
+      "character": "Number Two",
+      "order": 4
+    },
+    {
+      "name": "Seth Green",
+      "character": "Scott Evil",
+      "order": 5
+    },
+    {
+      "name": "Fabiana Udenio",
+      "character": "Alotta Fagina",
+      "order": 6
+    },
+    {
+      "name": "Mindy Sterling",
+      "character": "Frau Farbissina",
+      "order": 7
+    },
+    {
+      "name": "Will Ferrell",
+      "character": "Mustafa",
+      "order": 8
+    },
+    {
+      "name": "Paul Dillon",
+      "character": "Patty O'Brien",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+  "backdrop_path": "/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
+  "budget": 16500000,
+  "revenue": 67711748,
+  "vote_average": 6.59,
+  "vote_count": 3721,
+  "imdb_id": "tt0118655",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "-"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

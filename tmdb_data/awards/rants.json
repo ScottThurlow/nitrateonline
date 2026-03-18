@@ -1,0 +1,30 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "01 Jan 2003",
+  "runtime": "N/A",
+  "genre": "Drama, Action, Family",
+  "director": "Michael Arabian, Tedd Taskey",
+  "writer": "Tedd Taskey",
+  "actors": "Tedd Taskey, Trie Donovan, Ruben Paul",
+  "plot": "N/A",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "4.1",
+  "imdb_votes": "31",
+  "box_office": "N/A",
+  "dvd": "28 Sep 2004",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.1/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0308464/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0308464/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1083264"
+  }
+}

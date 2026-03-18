@@ -1,0 +1,109 @@
+{
+  "tmdb_id": 45861,
+  "title": "Happy Times",
+  "original_title": "幸福时光",
+  "release_date": "2000-12-31",
+  "runtime": 102,
+  "tagline": "An hilarious look at life and the pursuit of happiness!",
+  "overview": "Zhao is an ageing bachelor, who has not been fortunate in love. Believing that he has finally met the female of his dreams, Zhao makes her believe that he is opulent and consents to a lavish wedding.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Guangxi Film Studio",
+      "country": "CN"
+    }
+  ],
+  "director": [
+    "Zhang Yimou"
+  ],
+  "writers": [
+    {
+      "name": "Mo Yan",
+      "job": "Novel"
+    },
+    {
+      "name": "Gai Zi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wang Wei",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terrence Malick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Zhang Weiping",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Zhao Benshan",
+      "character": "Lao Zhao",
+      "order": 0
+    },
+    {
+      "name": "Dong Jie",
+      "character": "Wu Ying",
+      "order": 1
+    },
+    {
+      "name": "Dong Li-Fan",
+      "character": "Wu Ying's Stepmother",
+      "order": 2
+    },
+    {
+      "name": "Fu Biao",
+      "character": "Little Fu",
+      "order": 3
+    },
+    {
+      "name": "Li Xuejian",
+      "character": "Li",
+      "order": 4
+    },
+    {
+      "name": "Qibin Leng",
+      "character": "Wu Ying's Stepbrother",
+      "order": 5
+    },
+    {
+      "name": "Gong Jinghua",
+      "character": "Aunty Liu",
+      "order": 6
+    },
+    {
+      "name": "Niu Ben",
+      "character": "Old Niu",
+      "order": 7
+    },
+    {
+      "name": "Zhang Hongjie",
+      "character": "Lao Zhang",
+      "order": 8
+    },
+    {
+      "name": "Sun Honglei",
+      "character": "Customer at Happy Times",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3R2mheIEHKmbrjDyohw88Z89d8a.jpg",
+  "backdrop_path": "/eFEA6ftIihZnsh3lUYuuR8l8u3D.jpg",
+  "budget": 1900000,
+  "revenue": 240093,
+  "vote_average": 7.053,
+  "vote_count": 57,
+  "imdb_id": "tt0303243",
+  "status": "Released"
+}

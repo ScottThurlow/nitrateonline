@@ -1,0 +1,149 @@
+{
+  "tmdb_id": 16379,
+  "title": "The Mod Squad",
+  "original_title": "The Mod Squad",
+  "release_date": "1999-03-26",
+  "runtime": 92,
+  "tagline": "First they broke the law. Now they are the law.",
+  "overview": "Three youthful delinquents escape conviction for their crimes by teaming with the LAPD.",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Scott Silver"
+  ],
+  "writers": [
+    {
+      "name": "Scott Silver",
+      "job": "Writer"
+    },
+    {
+      "name": "Kate Lanier",
+      "job": "Writer"
+    },
+    {
+      "name": "Stephen Kay",
+      "job": "Writer"
+    },
+    {
+      "name": "Buddy Ruskin",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Ladd",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tony Ludwig",
+      "job": "Producer"
+    },
+    {
+      "name": "Aaron Spelling",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ben Myron",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Riche",
+      "job": "Producer"
+    },
+    {
+      "name": "Kate Lanier",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Claire Danes",
+      "character": "Julie Barnes",
+      "order": 0
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Peter Cochran",
+      "order": 1
+    },
+    {
+      "name": "Omar Epps",
+      "character": "Lincoln Hayes",
+      "order": 2
+    },
+    {
+      "name": "Dennis Farina",
+      "character": "Captain Adam Greer",
+      "order": 3
+    },
+    {
+      "name": "Josh Brolin",
+      "character": "Billy Waites",
+      "order": 4
+    },
+    {
+      "name": "Steve Harris",
+      "character": "Det. Briggs",
+      "order": 5
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Det. Bob Mothershed",
+      "order": 6
+    },
+    {
+      "name": "Larry Brandenburg",
+      "character": "Eckford",
+      "order": 7
+    },
+    {
+      "name": "Lionel Mark Smith",
+      "character": "Lanier",
+      "order": 8
+    },
+    {
+      "name": "Sam McMurray",
+      "character": "Tricky",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7c20VEblNKkDiBuA6bE6kbeHqHa.jpg",
+  "backdrop_path": "/cT2sUrROSnypjozsxInp3swZzsH.jpg",
+  "budget": 50000000,
+  "revenue": 13260050,
+  "vote_average": 4.372,
+  "vote_count": 133,
+  "imdb_id": "tt0120757",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

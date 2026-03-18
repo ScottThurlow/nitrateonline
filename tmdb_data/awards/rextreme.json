@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "27 Nov 2002",
+  "runtime": "93 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Christian Duguay",
+  "writer": "Timothy Scott Bogart, Mark Mullin, Michael Zaidan",
+  "actors": "Rufus Sewell, Devon Sawa, Bridgette Wilson-Sampras",
+  "plot": "A film crew travels to the Austrian Alps near the (former) Yugoslav border to film three extreme sports enthusiasts being chased down by an avalanche for a commercial. What they don't know, however, is that they're filming near the secret hideout of Slobodan Pavle, a Serbian war criminal. Accidentally catching him on film, they become locked in a life-or-death chase for their lives through the mountains that includes skiing, snowboarding, sky diving, white water rafting, helicopters, motorcycles and base jumping.",
+  "language": "English, German, Japanese, Serbo-Croatian",
+  "country": "United Kingdom, Germany, Luxembourg",
+  "metascore": "17",
+  "imdb_rating": "4.4",
+  "imdb_votes": "5,757",
+  "box_office": "$4,842,259",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "7%",
+      "link": "https://www.rottentomatoes.com/search?search=Extreme+Ops"
+    },
+    {
+      "source": "Metacritic",
+      "value": "17/100",
+      "link": "https://www.metacritic.com/search/Extreme+Ops/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0283160/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0283160/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15074"
+  }
+}

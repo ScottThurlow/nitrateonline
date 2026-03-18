@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 926,
+  "title": "Galaxy Quest",
+  "original_title": "Galaxy Quest",
+  "release_date": "1999-12-25",
+  "runtime": 102,
+  "tagline": "A comedy of galactic proportions.",
+  "overview": "For four years, the courageous crew of the NSEA Protector —  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus — set off on a thrilling and often dangerous mission in space ... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the performances of their lives.",
+  "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gran Via Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dean Parisot"
+  ],
+  "writers": [
+    {
+      "name": "David Howard",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Gordon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Howard",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Johnson",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Newirth",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tim Allen",
+      "character": "Jason Nesmith",
+      "order": 0
+    },
+    {
+      "name": "Sigourney Weaver",
+      "character": "Gwen DeMarco",
+      "order": 1
+    },
+    {
+      "name": "Alan Rickman",
+      "character": "Alexander Dane",
+      "order": 2
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Fred Kwan",
+      "order": 3
+    },
+    {
+      "name": "Sam Rockwell",
+      "character": "Guy Fleegman",
+      "order": 4
+    },
+    {
+      "name": "Daryl Mitchell",
+      "character": "Tommy Webber",
+      "order": 5
+    },
+    {
+      "name": "Enrico Colantoni",
+      "character": "Mathesar",
+      "order": 6
+    },
+    {
+      "name": "Robin Sachs",
+      "character": "Sarris",
+      "order": 7
+    },
+    {
+      "name": "Jed Rees",
+      "character": "Teb",
+      "order": 8
+    },
+    {
+      "name": "Justin Long",
+      "character": "Brandon",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+  "backdrop_path": "/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
+  "budget": 45000000,
+  "revenue": 90683916,
+  "vote_average": 7.081,
+  "vote_count": 2472,
+  "imdb_id": "tt0177789",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

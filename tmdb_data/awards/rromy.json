@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "4 nominations total",
+  "rated": "R",
+  "released": "25 Apr 1997",
+  "runtime": "92 min",
+  "genre": "Comedy",
+  "director": "David Mirkin",
+  "writer": "Robin Schiff",
+  "actors": "Mira Sorvino, Lisa Kudrow, Janeane Garofalo",
+  "plot": "Romy and Michele have been through it all, including being tortured by the Popular crowd when in high school. When they receive word of a 10 year reunion, they come to realize their lives aren't as impressive as they'd like them to be. Instead of staying home they go to the reunion with business outfits, cell phones, and one heck of a bogus success story.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "60",
+  "imdb_rating": "6.4",
+  "imdb_votes": "56,153",
+  "box_office": "$29,235,353",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "75%",
+      "link": "https://www.rottentomatoes.com/search?search=Romy+and+Michele%27s+High+School+Reunion"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Romy+and+Michele%27s+High+School+Reunion/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120032/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120032/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9611"
+  }
+}

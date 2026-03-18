@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 nominations total",
+  "rated": "PG-13",
+  "released": "22 Aug 2003",
+  "runtime": "88 min",
+  "genre": "Action, Comedy, Fantasy",
+  "director": "Gordon Chan",
+  "writer": "Alfred Cheung, Bennett Davlin, Gordon Chan",
+  "actors": "Jackie Chan, Lee Evans, Claire Forlani",
+  "plot": "Eddie, an indomitable Hong Kong cop, is transformed into an immortal warrior with superhuman powers after a fatal accident involving a mysterious medallion. Eddie enlists the help of British Interpol agent Nicole to determine the secret of the medallion and face down the evil Snakehead who wants to use its magical powers for his own nefarious plans.",
+  "language": "English",
+  "country": "Hong Kong, United States",
+  "metascore": "38",
+  "imdb_rating": "5.2",
+  "imdb_votes": "45,813",
+  "box_office": "$22,219,192",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "17%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Medallion"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/The+Medallion/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0288045/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0288045/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10610"
+  }
+}

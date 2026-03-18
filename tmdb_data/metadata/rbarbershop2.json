@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 21301,
+  "title": "Barbershop 2: Back in Business",
+  "original_title": "Barbershop 2: Back in Business",
+  "release_date": "2004-01-20",
+  "runtime": 106,
+  "tagline": "Let your hair down.",
+  "overview": "The continuing adventures of the barbers at Calvin's Barbershop. Gina, a stylist at the beauty shop next door, is now trying to cut in on his business. Calvin is again struggling to keep his father's shop and traditions alive--this time against urban developers looking to replace mom & pop establishments with name-brand chains. The world changes, but some things never go out of style--from current events and politics to relationships and love, you can still say anything you want at the barbershop.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Cube Vision",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Rodney Sullivan"
+  ],
+  "writers": [
+    {
+      "name": "Mark Brown",
+      "job": "Characters"
+    },
+    {
+      "name": "Don D. Scott",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Brown",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ice Cube",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Matt Alvarez",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alex Gartner",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Teitel",
+      "job": "Producer"
+    },
+    {
+      "name": "George Tillman Jr.",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ice Cube",
+      "character": "Calvin",
+      "order": 0
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "character": "Eddie",
+      "order": 1
+    },
+    {
+      "name": "Eve",
+      "character": "Terri",
+      "order": 2
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "character": "Jimmy",
+      "order": 3
+    },
+    {
+      "name": "Troy Garity",
+      "character": "Isaac",
+      "order": 4
+    },
+    {
+      "name": "Michael Ealy",
+      "character": "Ricky",
+      "order": 5
+    },
+    {
+      "name": "Queen Latifah",
+      "character": "Gina",
+      "order": 6
+    },
+    {
+      "name": "Jazsmin Lewis",
+      "character": "Jennifer",
+      "order": 7
+    },
+    {
+      "name": "Leonard Earl Howze",
+      "character": "Dinka",
+      "order": 8
+    },
+    {
+      "name": "Harry Lennix",
+      "character": "Quentin Leroux",
+      "order": 9
+    }
+  ],
+  "poster_path": "/n4sOe401udZJWJEOvKvSs3peZcB.jpg",
+  "backdrop_path": "/pGlgLhYBBiPerXXgERqsEKn7VlP.jpg",
+  "budget": 18000000,
+  "revenue": 65070412,
+  "vote_average": 6.0,
+  "vote_count": 309,
+  "imdb_id": "tt0337579",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

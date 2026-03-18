@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 62676,
+  "title": "Limbo",
+  "original_title": "Limbo",
+  "release_date": "1999-06-04",
+  "runtime": 126,
+  "tagline": "The only thing more dangerous than death...is survival.",
+  "overview": "Traumatized by a fishing boat accident many years before, Joe Gastineau has given up his hopes for a life beyond the odd jobs he takes to support himself. That quickly changes when nomadic club singer Donna de Angelo and her troubled teen-age daughter enter Joe’s life. Both mother and daughter fall for Joe, increasing the friction between them. The tension continues to build when Joe invites them on a pleasure cruise up the Alaskan coast, discovering too late that the trip may cost them their lives.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Green/Renzi",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Sayles"
+  ],
+  "writers": [
+    {
+      "name": "John Sayles",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Maggie Renzi",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mary Elizabeth Mastrantonio",
+      "character": "Donna De Angelo",
+      "order": 0
+    },
+    {
+      "name": "David Strathairn",
+      "character": "Joe Gastineau",
+      "order": 1
+    },
+    {
+      "name": "Vanessa Martinez",
+      "character": "Noelle De Angelo",
+      "order": 2
+    },
+    {
+      "name": "Kris Kristofferson",
+      "character": "Smilin' Jack",
+      "order": 3
+    },
+    {
+      "name": "Casey Siemaszko",
+      "character": "Bobby Gastineau",
+      "order": 4
+    },
+    {
+      "name": "Kathryn Grody",
+      "character": "Frankie",
+      "order": 5
+    },
+    {
+      "name": "Rita Taggart",
+      "character": "Lou",
+      "order": 6
+    },
+    {
+      "name": "Leo Burmester",
+      "character": "Harmon King",
+      "order": 7
+    },
+    {
+      "name": "Michael Laskin",
+      "character": "Albright",
+      "order": 8
+    },
+    {
+      "name": "Hermínio Ramos",
+      "character": "Ricky",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1ytI3G3dT6j888ySOwYhpJHz8ED.jpg",
+  "backdrop_path": "/vcc58HJ75qgTHjNrpSDPc2ez7bD.jpg",
+  "budget": 8000000,
+  "revenue": 1997807,
+  "vote_average": 6.5,
+  "vote_count": 73,
+  "imdb_id": "tt0164085",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

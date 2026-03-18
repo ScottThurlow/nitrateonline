@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 18417,
+  "title": "The Other Sister",
+  "original_title": "The Other Sister",
+  "release_date": "1999-02-26",
+  "runtime": 130,
+  "tagline": "A love story for the romantically challenged.",
+  "overview": "A mentally challenged girl proves herself to be every bit as capable as her \"perfect\" sister when she moves into an apartment and begins going to college.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Garry Marshall"
+  ],
+  "writers": [
+    {
+      "name": "Bob Brunner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Garry Marshall",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ellen H. Schwartz",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Iscovich",
+      "job": "Producer"
+    },
+    {
+      "name": "Karen Stirgwolt",
+      "job": "Producer"
+    },
+    {
+      "name": "David Hoberman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alexandra Rose",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Juliette Lewis",
+      "character": "Carla Tate",
+      "order": 0
+    },
+    {
+      "name": "Diane Keaton",
+      "character": "Elizabeth Tate",
+      "order": 1
+    },
+    {
+      "name": "Tom Skerritt",
+      "character": "Radley Tate",
+      "order": 2
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Daniel McMann",
+      "order": 3
+    },
+    {
+      "name": "Poppy Montgomery",
+      "character": "Caroline Tate",
+      "order": 4
+    },
+    {
+      "name": "Sarah Paulson",
+      "character": "Heather Tate",
+      "order": 5
+    },
+    {
+      "name": "Linda Thorson",
+      "character": "Drew Evanson",
+      "order": 6
+    },
+    {
+      "name": "Joe Flanigan",
+      "character": "Jeff Reed",
+      "order": 7
+    },
+    {
+      "name": "Juliet Mills",
+      "character": "Winnie",
+      "order": 8
+    },
+    {
+      "name": "Tracy Reiner",
+      "character": "Michelle",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4rBrYRkB7btGex5Bs0yOpqBZgsR.jpg",
+  "backdrop_path": "/7aI6KiuTkvliEs3jVKWPV7Np4oC.jpg",
+  "budget": 35000000,
+  "revenue": 0,
+  "vote_average": 6.3,
+  "vote_count": 174,
+  "imdb_id": "tt0123209",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

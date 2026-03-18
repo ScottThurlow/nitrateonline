@@ -1,0 +1,241 @@
+{
+  "tmdb_id": 10052,
+  "title": "Dragonfly",
+  "original_title": "Dragonfly",
+  "release_date": "2002-02-22",
+  "runtime": 104,
+  "tagline": "When someone you love dies... are they gone forever?",
+  "overview": "A grieving doctor is being contacted by his late wife through his patient's near death experiences.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Gran Via Productions",
+      "country": "US"
+    },
+    {
+      "name": "Shady Acres Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Kalima Productions",
+      "country": "DE"
+    },
+    {
+      "name": "NDE Productions",
+      "country": ""
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tom Shadyac"
+  ],
+  "writers": [
+    {
+      "name": "Brandon Camp",
+      "job": "Story"
+    },
+    {
+      "name": "Brandon Camp",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Thompson",
+      "job": "Story"
+    },
+    {
+      "name": "Mike Thompson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Seltzer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James D. Brubaker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Shadyac",
+      "job": "Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Arlene Kehela",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan B. Curtiss",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Bostick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Janet L. Wattles",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Johnson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Costner",
+      "character": "Joe Darrow",
+      "order": 0
+    },
+    {
+      "name": "Joe Morton",
+      "character": "Hugh Campbell",
+      "order": 1
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "Charlie Dickinson",
+      "order": 2
+    },
+    {
+      "name": "Susanna Thompson",
+      "character": "Emily Darrow",
+      "order": 3
+    },
+    {
+      "name": "Kathy Bates",
+      "character": "Mrs. Belmont",
+      "order": 4
+    },
+    {
+      "name": "Jacob Smith",
+      "character": "Ben",
+      "order": 5
+    },
+    {
+      "name": "Robert Bailey Jr.",
+      "character": "Jeffrey Reardon",
+      "order": 6
+    },
+    {
+      "name": "Jay Thomas",
+      "character": "Hal",
+      "order": 7
+    },
+    {
+      "name": "Lisa Banes",
+      "character": "Flora",
+      "order": 8
+    },
+    {
+      "name": "Matt Craven",
+      "character": "Eric",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tafDYI10ZhorJ6nmsPqUfzQpRLn.jpg",
+  "backdrop_path": "/kM9D0sVUiaOclaw1dLNm6a2jEG7.jpg",
+  "budget": 60000000,
+  "revenue": 52322400,
+  "vote_average": 6.5,
+  "vote_count": 912,
+  "imdb_id": "tt0259288",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 16110,
+  "title": "Thomas and the Magic Railroad",
+  "original_title": "Thomas and the Magic Railroad",
+  "release_date": "2000-07-14",
+  "runtime": 86,
+  "tagline": "Little Engines CAN Do Big Things...",
+  "overview": "Mr. Conductor's supply of magic gold dust, which allows him to travel between Shining Time and Thomas's island, is critically low. Unfortunately, he doesn't know how to get more. Meanwhile, Thomas is fending off attacks by the nasty diesel engines. Getting more gold dust will require help from Mr. C's slacker cousin, his new friend Lily and her morose grandfather, plus the secret engine.",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Isle of Man Film",
+      "country": "GB"
+    },
+    {
+      "name": "Britt Allcroft Productions",
+      "country": ""
+    },
+    {
+      "name": "Destination Films",
+      "country": "US"
+    },
+    {
+      "name": "Gullane Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Britt Allcroft"
+  ],
+  "writers": [
+    {
+      "name": "Britt Allcroft",
+      "job": "Writer"
+    },
+    {
+      "name": "Rev. W. Awdry",
+      "job": "Characters"
+    },
+    {
+      "name": "Rick Siggelkow",
+      "job": "Characters"
+    },
+    {
+      "name": "Britt Allcroft",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Britt Allcroft",
+      "job": "Producer"
+    },
+    {
+      "name": "Brent Baum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Bertolli",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry London",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Philip D. Fehrle",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Falzon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nancy Chapelle",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alec Baldwin",
+      "character": "Mr. Conductor",
+      "order": 0
+    },
+    {
+      "name": "Peter Fonda",
+      "character": "Grandpa Burnett Stone",
+      "order": 1
+    },
+    {
+      "name": "Mara Wilson",
+      "character": "Lily Stone",
+      "order": 2
+    },
+    {
+      "name": "Edward Glen",
+      "character": "Thomas (voice)",
+      "order": 3
+    },
+    {
+      "name": "Neil Crone",
+      "character": "Diesel 10 / Gordon / Splatter / Tumbleweed (voice)",
+      "order": 4
+    },
+    {
+      "name": "Michael E. Rodgers",
+      "character": "Mr. C. Junior",
+      "order": 5
+    },
+    {
+      "name": "Britt Allcroft",
+      "character": "Lady (voice)",
+      "order": 6
+    },
+    {
+      "name": "Kevin Frank",
+      "character": "Henry / Dodge / Bertie / Harold (voice)",
+      "order": 7
+    },
+    {
+      "name": "Linda Ballantyne",
+      "character": "Percy (voice)",
+      "order": 8
+    },
+    {
+      "name": "Susan Roman",
+      "character": "James (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aPEJ36e8a7gLu28KVfsGDQdmruk.jpg",
+  "backdrop_path": "/QpDVV6g1nyQ54o5oYX3HF8mWri.jpg",
+  "budget": 19000000,
+  "revenue": 19748009,
+  "vote_average": 5.332,
+  "vote_count": 92,
+  "imdb_id": "tt0205461",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "NZ",
+      "rating": "G"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

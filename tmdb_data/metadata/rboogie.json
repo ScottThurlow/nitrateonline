@@ -1,0 +1,186 @@
+{
+  "tmdb_id": 4995,
+  "title": "Boogie Nights",
+  "original_title": "Boogie Nights",
+  "release_date": "1997-10-10",
+  "runtime": 156,
+  "tagline": "The life of a dreamer, the days of a business and the nights in between.",
+  "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Lawrence Gordon Productions",
+      "country": "US"
+    },
+    {
+      "name": "Ghoulardi Film Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Paul Thomas Anderson"
+  ],
+  "writers": [
+    {
+      "name": "Paul Thomas Anderson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lloyd Levin",
+      "job": "Producer"
+    },
+    {
+      "name": "Lawrence Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "JoAnne Sellar",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Thomas Anderson",
+      "job": "Producer"
+    },
+    {
+      "name": "John S. Lyons",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Wahlberg",
+      "character": "Eddie Adams / Dirk Diggler",
+      "order": 0
+    },
+    {
+      "name": "Burt Reynolds",
+      "character": "Jack Horner",
+      "order": 1
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Amber Waves",
+      "order": 2
+    },
+    {
+      "name": "John C. Reilly",
+      "character": "Reed Rothchild",
+      "order": 3
+    },
+    {
+      "name": "Heather Graham",
+      "character": "Rollergirl",
+      "order": 4
+    },
+    {
+      "name": "Don Cheadle",
+      "character": "Buck Swope",
+      "order": 5
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Scotty J.",
+      "order": 6
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Little Bill",
+      "order": 7
+    },
+    {
+      "name": "Thomas Jane",
+      "character": "Todd Parker",
+      "order": 8
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Maurice t.t. Rodriguez",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+  "backdrop_path": "/ArpTzQZHWh4UVsgUvV6S7WjTq1n.jpg",
+  "budget": 15000000,
+  "revenue": 43101594,
+  "vote_average": 7.628,
+  "vote_count": 3492,
+  "imdb_id": "tt0118749",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R18+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 49981,
+  "title": "Goodbye Lover",
+  "original_title": "Goodbye Lover",
+  "release_date": "1999-04-16",
+  "runtime": 102,
+  "tagline": "No one's ever been so good at being so bad.",
+  "overview": "Police investigate when a man having an affair with his brother's wife disappears suddenly.",
+  "genres": [
+    "Thriller",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Lightmotive",
+      "country": "GB"
+    },
+    {
+      "name": "Gotham Entertainment Group",
+      "country": ""
+    },
+    {
+      "name": "Taurus Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Roland Joffé"
+  ],
+  "writers": [
+    {
+      "name": "Joel Cohen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ron Peer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ron Peer",
+      "job": "Story"
+    },
+    {
+      "name": "Alec Sokolow",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Arnon Milchan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael G. Nathanson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patrick McDarrah",
+      "job": "Producer"
+    },
+    {
+      "name": "Alexandra Milchan",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Daniel",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Roodman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patricia Arquette",
+      "character": "Sandra Dunmore",
+      "order": 0
+    },
+    {
+      "name": "Dermot Mulroney",
+      "character": "Jake Dunmore",
+      "order": 1
+    },
+    {
+      "name": "Mary-Louise Parker",
+      "character": "Peggy Blane",
+      "order": 2
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "character": "Stg. Rita Pompano",
+      "order": 3
+    },
+    {
+      "name": "John Neville",
+      "character": "Bradley",
+      "order": 4
+    },
+    {
+      "name": "Ray McKinnon",
+      "character": "Rollins",
+      "order": 5
+    },
+    {
+      "name": "Alex Rocco",
+      "character": "Det. Crowley",
+      "order": 6
+    },
+    {
+      "name": "Don Johnson",
+      "character": "Ben Dunmore",
+      "order": 7
+    },
+    {
+      "name": "Vincent Gallo",
+      "character": "Mike",
+      "order": 8
+    },
+    {
+      "name": "Andre Gregory",
+      "character": "Rev. Finlayson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gWwdtbnObvajziUGvXoLYskNSDr.jpg",
+  "backdrop_path": "/k9HMLdcc9oQxHnjAGY9zoytQ2mI.jpg",
+  "budget": 20000000,
+  "revenue": 0,
+  "vote_average": 5.6,
+  "vote_count": 69,
+  "imdb_id": "tt0119219",
+  "certifications": [
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

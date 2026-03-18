@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "3 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "02 May 1997",
+  "runtime": "89 min",
+  "genre": "Adventure, Comedy",
+  "director": "Jay Roach",
+  "writer": "Mike Myers",
+  "actors": "Mike Myers, Elizabeth Hurley, Michael York",
+  "plot": "Austin Powers is a 60's spy who is cryonically frozen and released in the 1990's. The world is a very different place for Powers. Unfortunately for Austin, everyone is no longer sex-mad. Although he may be in a different decade, his mission is still the same. He has teamed up with Vanessa Kensington to stop the evil Dr. Evil, who was also frozen in the past. Dr. Evil stole a nuclear weapon and is demanding a payment of (when he realises its the 90's) 100 billion dollars. Can Austin Powers stop this madman? or will he caught up with Evil's henchman, with names like Alotta Fagina and Random Task? Only time will tell!",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "51",
+  "imdb_rating": "7.0",
+  "imdb_votes": "271,968",
+  "box_office": "$53,911,748",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=Austin+Powers%3A+International+Man+of+Mystery"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/Austin+Powers%3A+International+Man+of+Mystery/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118655/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118655/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/816"
+  }
+}

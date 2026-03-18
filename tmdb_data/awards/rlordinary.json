@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "24 Oct 1997",
+  "runtime": "103 min",
+  "genre": "Comedy, Crime, Fantasy",
+  "director": "Danny Boyle",
+  "writer": "John Hodge",
+  "actors": "Cameron Diaz, Ewan McGregor, Holly Hunter",
+  "plot": "Ewan McGregor stars as a cleaning man in Los Angeles, who takes his boss' daughter hostage after being fired and replaced by a robot. Two \"angels\", who are in charge of human relationships on Earth, offer some unsolicited help to bring this unlikely couple together.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "37",
+  "imdb_rating": "6.3",
+  "imdb_votes": "37,760",
+  "box_office": "$4,366,722",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Life+Less+Ordinary"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/A+Life+Less+Ordinary/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119535/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119535/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8067"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tmdb_id": 44086,
+  "title": "The Kite",
+  "original_title": "Le cerf-volant",
+  "release_date": "2004-02-18",
+  "runtime": 80,
+  "tagline": "",
+  "overview": "A young 15 year old girl, Lamia, lives in a southern Lebanese village on the border with Israel. She is given in marriage to her cousin on the other side of the border. As Lamia crosses the barbed wire she also passes from childhood into adulthood, as brutal as our countries and the events that are to follow.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Arabic"
+  ],
+  "production_companies": [],
+  "director": [
+    "Randa Chahal Sabbag"
+  ],
+  "writers": [
+    {
+      "name": "Randa Chahal Sabbag",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Humbert Balsan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Flavia Bechara",
+      "character": "Lamia",
+      "order": 0
+    },
+    {
+      "name": "Maher Bsaibes",
+      "character": "Youssef",
+      "order": 1
+    },
+    {
+      "name": "Randa Asmar",
+      "character": "Amira",
+      "order": 2
+    },
+    {
+      "name": "Renée Dick",
+      "character": "Mabrouke",
+      "order": 3
+    },
+    {
+      "name": "Julia Kassar",
+      "character": "Jamilé",
+      "order": 4
+    },
+    {
+      "name": "Liliane Nemri",
+      "character": "Shirine",
+      "order": 5
+    },
+    {
+      "name": "Ziad Rahbani",
+      "character": "Ziad",
+      "order": 6
+    },
+    {
+      "name": "Nayef Naji",
+      "character": "Nabil",
+      "order": 7
+    },
+    {
+      "name": "Alia Nemry",
+      "character": "Zalfa",
+      "order": 8
+    },
+    {
+      "name": "Edmond Haddad",
+      "character": "Sami",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sqKKR7peDlwySZgWVW1viYbP5ry.jpg",
+  "backdrop_path": "/bDykn40tH3ZcwKsoIO28rTEPHeQ.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.077,
+  "vote_count": 13,
+  "imdb_id": "tt0377610",
+  "certifications": [],
+  "status": "Released"
+}

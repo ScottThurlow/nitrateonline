@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination",
+  "rated": "PG",
+  "released": "21 Dec 2001",
+  "runtime": "98 min",
+  "genre": "Comedy, Drama",
+  "director": "John Pasquin",
+  "writer": "John Scott Shepherd",
+  "actors": "Tim Allen, Julie Bowen, Kelly Lynch",
+  "plot": "Humiliated before the eyes of his young daughter at the company's parking lot, timid single father Joe painfully realises that he is no match for his co-worker and office bully Mark. However, as bruised Joe rapidly sinks into depression, much to everyone's surprise, he decides to get even. Now, it's up to former B-movie star and martial arts instructor Chuck to help Joe get in shape and, perhaps, save what's left of his crushed male ego. Before long, the rumours of a rematch start spreading like wildfire, and suddenly, a new Mr Popularity emerges. But is Joe up to the task? Above all, will his colleagues root for the underdog?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "5.5",
+  "imdb_votes": "11,235",
+  "box_office": "$22,771,646",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Joe+Somebody"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Joe+Somebody/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0279889/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0279889/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12312"
+  }
+}

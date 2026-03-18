@@ -1,0 +1,149 @@
+{
+  "tmdb_id": 10990,
+  "title": "Mulholland Falls",
+  "original_title": "Mulholland Falls",
+  "release_date": "1996-04-26",
+  "runtime": 107,
+  "tagline": "The power of love vs. the love of power.",
+  "overview": "In 1950s Los Angeles, a special crime squad of the LAPD investigates the murder of a young woman.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Largo Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "The Zanuck Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lee Tamahori"
+  ],
+  "writers": [
+    {
+      "name": "Peter Dexter",
+      "job": "Story"
+    },
+    {
+      "name": "Peter Dexter",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Floyd Mutrux",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Richard D. Zanuck",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Iscovich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lili Fini Zanuck",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nick Nolte",
+      "character": "Max Hoover",
+      "order": 0
+    },
+    {
+      "name": "Melanie Griffith",
+      "character": "Katherine Hoover",
+      "order": 1
+    },
+    {
+      "name": "Chazz Palminteri",
+      "character": "Elleroy Coolidge",
+      "order": 2
+    },
+    {
+      "name": "Michael Madsen",
+      "character": "Eddie Hall",
+      "order": 3
+    },
+    {
+      "name": "Chris Penn",
+      "character": "Arthur Relyea",
+      "order": 4
+    },
+    {
+      "name": "Treat Williams",
+      "character": "Fitzgerald",
+      "order": 5
+    },
+    {
+      "name": "Jennifer Connelly",
+      "character": "Allison Pond",
+      "order": 6
+    },
+    {
+      "name": "Daniel Baldwin",
+      "character": "McCafferty",
+      "order": 7
+    },
+    {
+      "name": "Andrew McCarthy",
+      "character": "Jimmy Fields",
+      "order": 8
+    },
+    {
+      "name": "John Malkovich",
+      "character": "General Thomas Timms",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tT5rYDXloX5ZxISr8HdlRC9TBcP.jpg",
+  "backdrop_path": "/3RbfSjGLDKHSvoUEVxPZHODJMXS.jpg",
+  "budget": 29000000,
+  "revenue": 11500000,
+  "vote_average": 5.989,
+  "vote_count": 321,
+  "imdb_id": "tt0117107",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

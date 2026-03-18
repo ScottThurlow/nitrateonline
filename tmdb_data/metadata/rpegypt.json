@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 9837,
+  "title": "The Prince of Egypt",
+  "original_title": "The Prince of Egypt",
+  "release_date": "1998-12-16",
+  "runtime": 99,
+  "tagline": "The power is real. The story is forever. The time is now.",
+  "overview": "The strong bond between two Royal Egyptian brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Drama",
+    "Family"
+  ],
+  "spoken_languages": [
+    "Hebrew",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brenda Chapman",
+    "Steve Hickner",
+    "Simon Wells"
+  ],
+  "writers": [
+    {
+      "name": "Philip LaZebnik",
+      "job": "Writer"
+    },
+    {
+      "name": "Lorna Cook",
+      "job": "Story Supervisor"
+    },
+    {
+      "name": "Kelly Asbury",
+      "job": "Story Supervisor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Penney Finkelman Cox",
+      "job": "Producer"
+    },
+    {
+      "name": "Sandra Rabins",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Val Kilmer",
+      "character": "Moses (voice)",
+      "order": 0
+    },
+    {
+      "name": "Ralph Fiennes",
+      "character": "Rameses (voice)",
+      "order": 1
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Tzipporah (voice)",
+      "order": 2
+    },
+    {
+      "name": "Sandra Bullock",
+      "character": "Miriam (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jeff Goldblum",
+      "character": "Aaron (voice)",
+      "order": 4
+    },
+    {
+      "name": "Danny Glover",
+      "character": "Jethro (voice)",
+      "order": 5
+    },
+    {
+      "name": "Patrick Stewart",
+      "character": "Seti (voice)",
+      "order": 6
+    },
+    {
+      "name": "Helen Mirren",
+      "character": "Queen (voice)",
+      "order": 7
+    },
+    {
+      "name": "Steve Martin",
+      "character": "Hotep (voice)",
+      "order": 8
+    },
+    {
+      "name": "Martin Short",
+      "character": "Huy (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+  "backdrop_path": "/z0Yh4N38FUntBln5YMgHGtrimOZ.jpg",
+  "budget": 70000000,
+  "revenue": 218613188,
+  "vote_average": 7.3,
+  "vote_count": 4243,
+  "imdb_id": "tt0120794",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7i"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IL",
+      "rating": "הותר לכל הגילאים"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

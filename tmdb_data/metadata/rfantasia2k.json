@@ -1,0 +1,231 @@
+{
+  "tmdb_id": 49948,
+  "title": "Fantasia 2000",
+  "original_title": "Fantasia 2000",
+  "release_date": "2000-01-01",
+  "runtime": 74,
+  "tagline": "",
+  "overview": "Blending lively music and brilliant animation, this sequel to the original 'Fantasia' restores 'The Sorcerer's Apprentice' and adds seven new shorts.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Algar",
+    "Gaëtan Brizzi",
+    "Paul Brizzi",
+    "Hendel Butoy",
+    "Francis Glebas",
+    "Eric Goldberg",
+    "Don Hahn",
+    "Pixote Hunt"
+  ],
+  "writers": [
+    {
+      "name": "David Reynolds",
+      "job": "Writer"
+    },
+    {
+      "name": "Eric Goldberg",
+      "job": "Story"
+    },
+    {
+      "name": "Gaëtan Brizzi",
+      "job": "Story"
+    },
+    {
+      "name": "Paul Brizzi",
+      "job": "Story"
+    },
+    {
+      "name": "Perce Pearce",
+      "job": "Story Developer"
+    },
+    {
+      "name": "Carl Fallberg",
+      "job": "Story Developer"
+    },
+    {
+      "name": "James Fujii",
+      "job": "Story Developer"
+    },
+    {
+      "name": "Don Hahn",
+      "job": "Writer"
+    },
+    {
+      "name": "Irene Mecchi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roy Edward Disney",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Donald W. Ernst",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Martin",
+      "character": "Self - Introductory Host",
+      "order": 0
+    },
+    {
+      "name": "Itzhak Perlman",
+      "character": "Self - Host",
+      "order": 1
+    },
+    {
+      "name": "Quincy Jones",
+      "character": "Self - Host",
+      "order": 2
+    },
+    {
+      "name": "Bette Midler",
+      "character": "Self - Host",
+      "order": 3
+    },
+    {
+      "name": "James Earl Jones",
+      "character": "Self - Host",
+      "order": 4
+    },
+    {
+      "name": "Penn Jillette",
+      "character": "Self - Host",
+      "order": 5
+    },
+    {
+      "name": "Teller",
+      "character": "Self - Host",
+      "order": 6
+    },
+    {
+      "name": "James Levine",
+      "character": "Self - Host",
+      "order": 7
+    },
+    {
+      "name": "Angela Lansbury",
+      "character": "Self - Host",
+      "order": 8
+    },
+    {
+      "name": "Wayne Allwine",
+      "character": "Mickey Mouse (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg",
+  "backdrop_path": "/n92EzFFg2cMkJiEhnMfD5sKHSH3.jpg",
+  "budget": 80000000,
+  "revenue": 60655420,
+  "vote_average": 6.97,
+  "vote_count": 1356,
+  "imdb_id": "tt0120910",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "Barntillåten"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

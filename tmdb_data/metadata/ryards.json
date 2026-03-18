@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 19457,
+  "title": "The Yards",
+  "original_title": "The Yards",
+  "release_date": "2000-04-27",
+  "runtime": 115,
+  "tagline": "He's the target of the most merciless family in New York. His own.",
+  "overview": "In the rail yards of Queens, contractors repair and rebuild the city's subway cars. These contracts are lucrative, so graft and corruption are rife. When Leo Handler gets out of prison, he finds his aunt married to Frank Olchin, one of the big contractors; he's battling with a minority-owned firm for contracts.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Industry Entertainment Partners",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Gray"
+  ],
+  "writers": [
+    {
+      "name": "James Gray",
+      "job": "Writer"
+    },
+    {
+      "name": "Matt Reeves",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nick Wechsler",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kerry Orent",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Webster",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Wahlberg",
+      "character": "Leo Handler",
+      "order": 0
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "character": "Willie Gutierrez",
+      "order": 1
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Erica Soltz",
+      "order": 2
+    },
+    {
+      "name": "James Caan",
+      "character": "Frank Olchin",
+      "order": 3
+    },
+    {
+      "name": "Ellen Burstyn",
+      "character": "Val Handler",
+      "order": 4
+    },
+    {
+      "name": "Faye Dunaway",
+      "character": "Kitty Olchin",
+      "order": 5
+    },
+    {
+      "name": "Steve Lawrence",
+      "character": "Arthur Mydanick",
+      "order": 6
+    },
+    {
+      "name": "Andy Davoli",
+      "character": "Raymond Price",
+      "order": 7
+    },
+    {
+      "name": "Tony Musante",
+      "character": "Seymour Korman",
+      "order": 8
+    },
+    {
+      "name": "Victor Argo",
+      "character": "Paul Lazarides",
+      "order": 9
+    }
+  ],
+  "poster_path": "/AtwXtU8CDWvVADgOwRkOSRZFPWI.jpg",
+  "backdrop_path": "/y8cbKwg2VYtG7IdZUu8TE0AajsO.jpg",
+  "budget": 24000000,
+  "revenue": 889352,
+  "vote_average": 6.203,
+  "vote_count": 503,
+  "imdb_id": "tt0138946",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

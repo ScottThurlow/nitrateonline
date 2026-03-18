@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 13156,
+  "title": "Secondhand Lions",
+  "original_title": "Secondhand Lions",
+  "release_date": "2003-09-19",
+  "runtime": 111,
+  "tagline": "The McCann brothers have finally met their match.",
+  "overview": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+  "genres": [
+    "Family",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "David Kirschner Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tim McCanlies"
+  ],
+  "writers": [
+    {
+      "name": "Tim McCanlies",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Kaufman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Kirschner",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Caine",
+      "character": "Garth",
+      "order": 0
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Hub",
+      "order": 1
+    },
+    {
+      "name": "Haley Joel Osment",
+      "character": "Walter",
+      "order": 2
+    },
+    {
+      "name": "Josh Lucas",
+      "character": "Adult Walter",
+      "order": 3
+    },
+    {
+      "name": "Kyra Sedgwick",
+      "character": "Mae",
+      "order": 4
+    },
+    {
+      "name": "Christian Kane",
+      "character": "Young Hub",
+      "order": 5
+    },
+    {
+      "name": "Nicky Katt",
+      "character": "Stan",
+      "order": 6
+    },
+    {
+      "name": "Eric Balfour",
+      "character": "Sheik's Grandson",
+      "order": 7
+    },
+    {
+      "name": "Kevin Haberer",
+      "character": "Young Garth",
+      "order": 8
+    },
+    {
+      "name": "Emmanuelle Vaugier",
+      "character": "Jasmine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+  "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.194,
+  "vote_count": 819,
+  "imdb_id": "tt0327137",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

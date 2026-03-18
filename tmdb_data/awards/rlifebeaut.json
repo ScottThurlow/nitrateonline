@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Won 3 Oscars. 72 wins & 52 nominations total",
+  "rated": "PG-13",
+  "released": "20 Dec 1997",
+  "runtime": "116 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Roberto Benigni",
+  "writer": "Vincenzo Cerami, Roberto Benigni",
+  "actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+  "plot": "In 1930s Italy, a carefree Jewish waiter named Guido starts a fairy tale life by courting and marrying a lovely woman from a nearby city. Guido and his wife have a son and live happily together until the occupation of Italy by German forces. In an attempt to hold his family together and help his son survive the horrors of a Jewish Concentration Camp, Guido imagines that the Holocaust is a game and that the grand prize for winning is a tank.",
+  "language": "Italian, German, English",
+  "country": "Italy",
+  "metascore": "58",
+  "imdb_rating": "8.6",
+  "imdb_votes": "806,401",
+  "box_office": "$57,563,264",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=Life+Is+Beautiful"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/Life+Is+Beautiful/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118799/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118799/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/637"
+  }
+}

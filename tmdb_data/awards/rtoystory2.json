@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 21 wins & 27 nominations total",
+  "rated": "G",
+  "released": "24 Nov 1999",
+  "runtime": "92 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "John Lasseter, Ash Brannon, Lee Unkrich",
+  "writer": "Andrew Stanton, Rita Hsiao, Doug Chamberlin",
+  "actors": "Tom Hanks, Tim Allen, Joan Cusack",
+  "plot": "While Andy is away at summer camp Woody has been toynapped by Al McWiggin, a greedy collector and proprietor of \"Al's Toy Barn\"! In this all-out rescue mission, Buzz and his friends Mr. Potato Head, Slinky Dog, Rex and Hamm springs into action to rescue Woody from winding up as a museum piece. They must find a way to save him before he gets sold in Japan forever and they'll never see him again!",
+  "language": "English",
+  "country": "United States",
+  "metascore": "88",
+  "imdb_rating": "7.9",
+  "imdb_votes": "663,076",
+  "box_office": "$245,852,179",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "100%",
+      "link": "https://www.rottentomatoes.com/search?search=Toy+Story+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "88/100",
+      "link": "https://www.metacritic.com/search/Toy+Story+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120363/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120363/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/863"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 6 nominations total",
+  "rated": "R",
+  "released": "01 Aug 2003",
+  "runtime": "96 min",
+  "genre": "Comedy",
+  "director": "Jesse Dylan",
+  "writer": "Adam Herz",
+  "actors": "Jason Biggs, Alyson Hannigan, Seann William Scott",
+  "plot": "Jim Levenstein has finally found the courage to ask his girlfriend, Michelle Flaherty to marry him. She agrees to get married, but the problems don't stop there for Jim. Now along with Paul Finch and Kevin Myers, Jim must plan the wedding. Unfortunately Steve Stifler is in town and won't let the wedding go past without having some fun himself, which includes setting up a secret bachelor party.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "43",
+  "imdb_rating": "6.3",
+  "imdb_votes": "227,772",
+  "box_office": "$104,565,114",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=American+Wedding"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/American+Wedding/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0328828/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0328828/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8273"
+  }
+}

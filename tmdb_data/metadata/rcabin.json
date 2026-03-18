@@ -1,0 +1,206 @@
+{
+  "tmdb_id": 11547,
+  "title": "Cabin Fever",
+  "original_title": "Cabin Fever",
+  "release_date": "2003-08-15",
+  "runtime": 93,
+  "tagline": "Terror… in the flesh.",
+  "overview": "A group of five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tonic Films",
+      "country": "US"
+    },
+    {
+      "name": "Down Home Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Cabin Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Black Sky Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Deer Path Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Eli Roth"
+  ],
+  "writers": [
+    {
+      "name": "Eli Roth",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Randy Pearlstein",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Evan Astrowsky",
+      "job": "Producer"
+    },
+    {
+      "name": "Sam Froelich",
+      "job": "Producer"
+    },
+    {
+      "name": "Lauren Vilchik",
+      "job": "Producer"
+    },
+    {
+      "name": "Eli Roth",
+      "job": "Producer"
+    },
+    {
+      "name": "Susan Jackson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rider Strong",
+      "character": "Paul",
+      "order": 0
+    },
+    {
+      "name": "Jordan Ladd",
+      "character": "Karen",
+      "order": 1
+    },
+    {
+      "name": "Cerina Vincent",
+      "character": "Marcy",
+      "order": 2
+    },
+    {
+      "name": "Giuseppe Andrews",
+      "character": "Deputy Winston",
+      "order": 3
+    },
+    {
+      "name": "James DeBello",
+      "character": "Bert",
+      "order": 4
+    },
+    {
+      "name": "Eli Roth",
+      "character": "Justin / Grim",
+      "order": 5
+    },
+    {
+      "name": "Julie Childress",
+      "character": "Beautiful Wife",
+      "order": 6
+    },
+    {
+      "name": "Jessica Elder",
+      "character": "Cat Hat Girl",
+      "order": 7
+    },
+    {
+      "name": "Darcy Martin",
+      "character": "Shiloh's Girlfriend",
+      "order": 8
+    },
+    {
+      "name": "Heather Simmons",
+      "character": "Shocked Girl",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vaUkSL7PbeeKfdFKOh9TYR9M1ds.jpg",
+  "backdrop_path": "/kGG4eCEaWvq20r4OofW4oUskhkY.jpg",
+  "budget": 1500000,
+  "revenue": 30600000,
+  "vote_average": 5.693,
+  "vote_count": 1413,
+  "imdb_id": "tt0303816",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

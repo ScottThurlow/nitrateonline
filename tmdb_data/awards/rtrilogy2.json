@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "8 wins & 4 nominations",
+  "rated": "PG",
+  "released": "01 Jan 2003",
+  "runtime": "97 min",
+  "genre": "Comedy, Romance",
+  "director": "Lucas Belvaux",
+  "writer": "Lucas Belvaux",
+  "actors": "François Morel, Ornella Muti, Gilbert Melki",
+  "plot": "The first installment of the trilogy focuses on Cecile. She is a teacher who is still madly in love with her husband Alain, a hypochondriac who is convinced that a routine operation will take his life. He doesn't want to alarm his wife, and she mistakes his secrecy for an affair. Enter Pascal, who is hired by Cecile to track Alain, but who falls in love with Cecile instead.",
+  "language": "French",
+  "country": "France, Belgium",
+  "metascore": "61",
+  "imdb_rating": "6.4",
+  "imdb_votes": "1,138",
+  "box_office": "$47,806",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=Un+couple+%C3%A9patant"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Un+couple+%C3%A9patant/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0234940/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0234940/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/44539"
+  }
+}

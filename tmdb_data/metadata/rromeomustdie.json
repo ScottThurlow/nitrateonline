@@ -1,0 +1,205 @@
+{
+  "tmdb_id": 2085,
+  "title": "Romeo Must Die",
+  "original_title": "Romeo Must Die",
+  "release_date": "2000-03-22",
+  "runtime": 115,
+  "tagline": "In a world of vicious rivalries and violent betrayals, only one thing is sure...",
+  "overview": "Two warring gang families (one African-American, the other Chinese) maneuver for bragging rights to the Oakland, California, docks. Hang Sing and Trish O'Day uncover a trail of deceit that leaves most of the warring factions dead … or worse!",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Silver Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrzej Bartkowiak"
+  ],
+  "writers": [
+    {
+      "name": "John Jarrell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Eric Bernt",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mitchell Kapner",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dan Cracchiolo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Van Wyck",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jet Li",
+      "character": "Han Sing",
+      "order": 0
+    },
+    {
+      "name": "Aaliyah",
+      "character": "Trish O'Day",
+      "order": 1
+    },
+    {
+      "name": "Isaiah Washington",
+      "character": "Mac",
+      "order": 2
+    },
+    {
+      "name": "Russell Wong",
+      "character": "Kai",
+      "order": 3
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Isaak O'Day",
+      "order": 4
+    },
+    {
+      "name": "D. B. Woodside",
+      "character": "Colin O'Day",
+      "order": 5
+    },
+    {
+      "name": "Henry O",
+      "character": "Ch'u Sing",
+      "order": 6
+    },
+    {
+      "name": "Jon Kit Lee",
+      "character": "Po Sing",
+      "order": 7
+    },
+    {
+      "name": "Edoardo Ballerini",
+      "character": "Vincent Roth",
+      "order": 8
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "Maurice",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zKrnaTWW63y4Q1XLrdZQyQmcRWd.jpg",
+  "backdrop_path": "/hq5bbmRj65ald90E3PlWyzOtl7D.jpg",
+  "budget": 25000000,
+  "revenue": 91036760,
+  "vote_average": 6.265,
+  "vote_count": 1308,
+  "imdb_id": "tt0165929",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "청소년 관람불가"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

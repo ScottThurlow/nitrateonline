@@ -1,0 +1,88 @@
+{
+  "tmdb_id": 56949,
+  "title": "Wind with the Gone",
+  "original_title": "El viento se llevó lo qué",
+  "release_date": "1998-11-12",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "Soledad, a girl tired of being a taxi driver in Buenos Aires,  travels with her car to Patagonia. She stops in a village whose inhabitants live in isolation and their only contact with the outside world is a cinema where old films are projected.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "French"
+  ],
+  "production_companies": [],
+  "director": [
+    "Alejandro Agresti"
+  ],
+  "writers": [
+    {
+      "name": "Alejandro Agresti",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Vera Fogwill",
+      "character": "Soledad",
+      "order": 0
+    },
+    {
+      "name": "Fabián Vena",
+      "character": "Pedro",
+      "order": 1
+    },
+    {
+      "name": "Ángela Molina",
+      "character": "María",
+      "order": 2
+    },
+    {
+      "name": "Jean Rochefort",
+      "character": "Edgard Wexley",
+      "order": 3
+    },
+    {
+      "name": "Ulises Dumont",
+      "character": "Antonio",
+      "order": 4
+    },
+    {
+      "name": "Carlos Roffé",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Sergio Poves Campos",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Mario Paolucci",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Pascual Condito",
+      "character": "",
+      "order": 8
+    }
+  ],
+  "poster_path": "/g45f8kJ8YKN5r1PWOz5rc1kCNnz.jpg",
+  "backdrop_path": "/vphUQzup788S04ELqURYKulXQvj.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.2,
+  "vote_count": 15,
+  "imdb_id": "tt0169364",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "FSK 0"
+    }
+  ],
+  "status": "Released"
+}

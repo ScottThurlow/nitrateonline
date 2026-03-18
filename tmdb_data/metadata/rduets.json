@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 18074,
+  "title": "Duets",
+  "original_title": "Duets",
+  "release_date": "2000-09-09",
+  "runtime": 112,
+  "tagline": "Six littles souls in search of a little harmony.",
+  "overview": "Duets is a road-trip comedy which revolves around the little known world of karaoke and the whimsical characters who inhabit it. All roads lead to Omaha, site of a national karaoke competition where this motley group of singers and stars come together for a blow-out sing-off.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Seven Arts Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bruce Paltrow"
+  ],
+  "writers": [
+    {
+      "name": "John Byrum",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lee R. Mayes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tony Ludwig",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kevin Jones",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Riche",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Neil Canton",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Byrum",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Paltrow",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Maria Bello",
+      "character": "Suzi Loomis",
+      "order": 0
+    },
+    {
+      "name": "Andre Braugher",
+      "character": "Reggie Kane",
+      "order": 1
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Todd Woods",
+      "order": 2
+    },
+    {
+      "name": "Huey Lewis",
+      "character": "Ricky Dean",
+      "order": 3
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Liv",
+      "order": 4
+    },
+    {
+      "name": "Scott Speedman",
+      "character": "Billy",
+      "order": 5
+    },
+    {
+      "name": "Marian Seldes",
+      "character": "Harriet Gahagan",
+      "order": 6
+    },
+    {
+      "name": "Kiersten Warren",
+      "character": "Candy Woods",
+      "order": 7
+    },
+    {
+      "name": "Angie Dickinson",
+      "character": "Blair",
+      "order": 8
+    },
+    {
+      "name": "Lochlyn Munro",
+      "character": "Ronny Jackson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7NJAHYSeLr16cngz8f0BADQ3yIe.jpg",
+  "backdrop_path": "/dDJuLVV5K1XYim69Ab8wy9luXu4.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.659,
+  "vote_count": 154,
+  "imdb_id": "tt0134630",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

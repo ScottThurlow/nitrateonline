@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 8 nominations",
+  "rated": "PG-13",
+  "released": "25 Dec 1998",
+  "runtime": "112 min",
+  "genre": "Drama",
+  "director": "Maya Angelou",
+  "writer": "Myron Goble",
+  "actors": "Alfre Woodard, Al Freeman Jr., Mary Alice",
+  "plot": "Rosa Lynn sends her drug-addicted daughter Loretta and Loretta's children Thomas and Tracy away from the big city to live with their uncle Earl in the ancestral home in rural Mississippi. Earl puts Loretta to work in his restaurant, Just Chicken, while also telling them about the generations of their family, the Sinclairs, dating back to their time in slavery before the the Civil War.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "6.9",
+  "imdb_votes": "1,916",
+  "box_office": "$5,672,903",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=Down+in+the+Delta"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Down+in+the+Delta/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0142231/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0142231/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/125582"
+  }
+}

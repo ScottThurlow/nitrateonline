@@ -1,0 +1,99 @@
+{
+  "tmdb_id": 85588,
+  "title": "Dadetown",
+  "original_title": "Dadetown",
+  "release_date": "1995-09-02",
+  "runtime": 93,
+  "tagline": "",
+  "overview": "Interviews in the Michael Moore/\"Roger and Me\" tradition examine life in small-town America, class conflicts and the collapse of an upstate New York community, Dadetown, when the town's once-prosperous factory, reduced to the manufacture of paper clips and staples, finally closes. Facing massive unemployment, the blue-collar Dadetown residents next find yuppies moving into town to staff the local division of a big computer outfit.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [],
+  "production_companies": [],
+  "director": [
+    "Russ Hexter"
+  ],
+  "writers": [
+    {
+      "name": "Russ Hexter",
+      "job": "Writer"
+    },
+    {
+      "name": "John Housley",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jim Carden",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Wall",
+      "character": "Rick Crooks",
+      "order": 0
+    },
+    {
+      "name": "Edith Meeks",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Bill Garrison",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Valerie Gilbert",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Jim Pryor",
+      "character": "Tom Nickenback",
+      "order": 4
+    },
+    {
+      "name": "Stephen Beals",
+      "character": "Barlitz, Dan",
+      "order": 5
+    },
+    {
+      "name": "Fred Worrell",
+      "character": "Ed Hubbell",
+      "order": 6
+    },
+    {
+      "name": "Joseph Leone",
+      "character": "Louis - Man at Bar",
+      "order": 7
+    },
+    {
+      "name": "Ken Klamm",
+      "character": "Bob Arkin",
+      "order": 8
+    },
+    {
+      "name": "Rick Leisenring",
+      "character": "Bar Patron",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rRZ3dnRMJWt354YEfwUfOFWTxHc.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 2,
+  "imdb_id": "tt0112777",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

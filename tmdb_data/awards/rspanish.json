@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "3 nominations total",
+  "rated": "PG",
+  "released": "15 May 1998",
+  "runtime": "110 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "David Mamet",
+  "writer": "David Mamet",
+  "actors": "Campbell Scott, Ricky Jay, Rebecca Pidgeon",
+  "plot": "Joe Ross has developed a process that will make his company a fortune. It will also make whoever has it a fortune, so the details are kept secret and secure. However, the executives at the company seem reluctant to commit to bonuses or royalties for Ross, so he starts looking at his options. He also has a new friend, the wealthy Jimmy Dell, and he is happy to give him advice on the matter.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "7.1",
+  "imdb_votes": "27,193",
+  "box_office": "$9,593,903",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Spanish+Prisoner"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/The+Spanish+Prisoner/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120176/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120176/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/29193"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 5257,
+  "title": "The Dish",
+  "original_title": "The Dish",
+  "release_date": "2000-10-19",
+  "runtime": 101,
+  "tagline": "Man's first step on the moon nearly stumbled on earth.",
+  "overview": "A group of maverick scientists on a remote Australian sheep farm are the globe's only hope for obtaining the epic images of man's first steps on the moon.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Working Dog",
+      "country": "AU"
+    },
+    {
+      "name": "Distant Horizon",
+      "country": "ZA"
+    }
+  ],
+  "director": [
+    "Rob Sitch"
+  ],
+  "writers": [
+    {
+      "name": "Rob Sitch",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Santo Cilauro",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jane Kennedy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom Gleisner",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jane Kennedy",
+      "job": "Producer"
+    },
+    {
+      "name": "Santo Cilauro",
+      "job": "Producer"
+    },
+    {
+      "name": "Rob Sitch",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Gleisner",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Hirsh",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sam Neill",
+      "character": "Cliff Buxton - Dish Master",
+      "order": 0
+    },
+    {
+      "name": "Patrick Warburton",
+      "character": "Al Burnett - From NASA",
+      "order": 1
+    },
+    {
+      "name": "Kevin Harrington",
+      "character": "Ross 'Mitch' Mitchell - Maneuvers",
+      "order": 2
+    },
+    {
+      "name": "Tom Long",
+      "character": "Glenn Latham - Electronics",
+      "order": 3
+    },
+    {
+      "name": "Eliza Szonert",
+      "character": "Janine Kellerman - The Girl",
+      "order": 4
+    },
+    {
+      "name": "Roy Billing",
+      "character": "Mayor Robert 'Bob' McIntyre",
+      "order": 5
+    },
+    {
+      "name": "John McMartin",
+      "character": "U.S. Ambassador Howard",
+      "order": 6
+    },
+    {
+      "name": "Bille Brown",
+      "character": "Prime Minister",
+      "order": 7
+    },
+    {
+      "name": "Tayler Kane",
+      "character": "Rudi Kellerman - Safeguard",
+      "order": 8
+    },
+    {
+      "name": "Andrew S. Gilbert",
+      "character": "Len Purvis",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zG83o1wpU3p7QTd382K4HtctLq0.jpg",
+  "backdrop_path": "/rY1FcmerUUU32VcDJ4ylZrTkH6.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.713,
+  "vote_count": 221,
+  "imdb_id": "tt0205873",
+  "status": "Released"
+}

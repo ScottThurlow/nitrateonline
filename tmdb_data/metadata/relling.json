@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 6007,
+  "title": "Elling",
+  "original_title": "Elling",
+  "release_date": "2001-03-16",
+  "runtime": 89,
+  "tagline": "They're packed and ready for the greatest adventure of their lives. All they have to do is get out of the house.",
+  "overview": "40-year-old Elling, sensitive, would-be poet, is sent to live in a state institution when his mother, who has sheltered him his entire life, dies. There he meets Kjell Bjarne, a gentle giant and female-obsessed virgin, also in his 40s.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Norwegian"
+  ],
+  "production_companies": [
+    {
+      "name": "Maipo Film",
+      "country": "NO"
+    }
+  ],
+  "director": [
+    "Petter Næss"
+  ],
+  "writers": [
+    {
+      "name": "Ingvar Ambjørnsen",
+      "job": "Novel"
+    },
+    {
+      "name": "Axel Hellstenius",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dag Alveberg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Per Christian Ellefsen",
+      "character": "Elling",
+      "order": 0
+    },
+    {
+      "name": "Sven Nordin",
+      "character": "Kjell Bjarne",
+      "order": 1
+    },
+    {
+      "name": "Marit Pia Jacobsen",
+      "character": "Reidun Nordsletten",
+      "order": 2
+    },
+    {
+      "name": "Jørgen Langhelle",
+      "character": "Frank Åsli",
+      "order": 3
+    },
+    {
+      "name": "Per Christensen",
+      "character": "Alfons Jørgensen",
+      "order": 4
+    },
+    {
+      "name": "Hilde Olausson",
+      "character": "Gunn",
+      "order": 5
+    },
+    {
+      "name": "Ola Otnes",
+      "character": "Hauger",
+      "order": 6
+    },
+    {
+      "name": "Eli Anne Linnestad",
+      "character": "Johanne",
+      "order": 7
+    },
+    {
+      "name": "Cecilie A. Mosli",
+      "character": "Cecilie Kornes",
+      "order": 8
+    },
+    {
+      "name": "Joachim Rafaelsen",
+      "character": "Haakon Willum",
+      "order": 9
+    }
+  ],
+  "poster_path": "/i4o9u93vR7setcwVeL87jGwc8CS.jpg",
+  "backdrop_path": "/mGTTk3v32wEk8TDkxsfMnlqSb8H.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.11,
+  "vote_count": 187,
+  "imdb_id": "tt0279064",
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "21 Nov 2001",
+  "runtime": "126 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Tony Scott",
+  "writer": "Michael Frost Beckner, David Arata",
+  "actors": "Robert Redford, Brad Pitt, Catherine McCormack",
+  "plot": "CIA operative Nathan Muir (Redford) is on the brink of retirement when he finds out that his protege Tom Bishop (Pitt) has been arrested in China for espionage. No stranger to the machinations of the CIA's top echelon, Muir hones all his skills and irreverent manner in order to find a way to free Bishop. As he embarks on his mission to free Bishop, Muir recalls how he recruited and trained the young rookie, at that time a sergeant in Vietnam, their turbulent times together as operatives and the woman who threatened their friendship.",
+  "language": "English, German, Arabic, French, Cantonese",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "metascore": "63",
+  "imdb_rating": "7.1",
+  "imdb_votes": "177,136",
+  "box_office": "$62,362,560",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Spy+Game"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Spy+Game/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0266987/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0266987/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1535"
+  }
+}

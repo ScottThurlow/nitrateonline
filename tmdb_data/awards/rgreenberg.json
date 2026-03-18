@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "12 wins & 8 nominations",
+  "rated": "PG",
+  "released": "21 Jul 2000",
+  "runtime": "90 min",
+  "genre": "Documentary, Biography, Sport",
+  "director": "Aviva Kempner",
+  "writer": "Aviva Kempner",
+  "actors": "Reeve Brenner, Hank Greenberg, Walter Matthau",
+  "plot": "The story of Baseball Hall-of-Famer Hank Greenberg is told through archival film footage and interviews with Jewish and non-Jewish fans, his former teammates, his friends, and his family. As a great first baseman with the Detroit Tigers, Greenberg endured antisemitism and became a hero and source of inspiration throughout the Jewish community, not incidentally leading the Tigers to Major League dominance in the 1930s.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "75",
+  "imdb_rating": "7.6",
+  "imdb_votes": "810",
+  "box_office": "$1,712,385",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "97%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Life+and+Times+of+Hank+Greenberg"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/The+Life+and+Times+of+Hank+Greenberg/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0208261/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0208261/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/41276"
+  }
+}

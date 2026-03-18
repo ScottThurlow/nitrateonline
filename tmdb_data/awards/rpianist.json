@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 3 Oscars. 57 wins & 74 nominations total",
+  "rated": "R",
+  "released": "28 Mar 2003",
+  "runtime": "150 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Roman Polanski",
+  "writer": "Ronald Harwood, Wladyslaw Szpilman",
+  "actors": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+  "plot": "In this adaptation of the autobiography \"The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,\" Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw.",
+  "language": "English, German, Russian",
+  "country": "France, Poland, Germany, United Kingdom, United States",
+  "metascore": "85",
+  "imdb_rating": "8.5",
+  "imdb_votes": "1,002,792",
+  "box_office": "$32,590,750",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Pianist"
+    },
+    {
+      "source": "Metacritic",
+      "value": "85/100",
+      "link": "https://www.metacritic.com/search/The+Pianist/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0253474/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0253474/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/423"
+  }
+}

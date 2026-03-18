@@ -1,0 +1,138 @@
+{
+  "tmdb_id": 3065,
+  "title": "Mystery Science Theater 3000: The Movie",
+  "original_title": "Mystery Science Theater 3000: The Movie",
+  "release_date": "1996-04-19",
+  "runtime": 73,
+  "tagline": "Every year Hollywood makes hundreds of movies. This is one of them!",
+  "overview": "Dr. Clayton Forrester figures he can rule the world if he deadens his subjects' brains by making them endure terrible movies. Exploiting his access to nearby satellite-dwellers Mike Nelson and his robot pals, Crow T. Robot and Tom Servo, Forrester makes them watch \"This Island Earth\", a cheesy 1950s spaceship film. But when Mike and friends make funny comments throughout the movie and others that follow, Forrester's plan looks increasingly flimsy.",
+  "genres": [
+    "Comedy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Gramercy Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Consolidated Puppets",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jim Mallon"
+  ],
+  "writers": [
+    {
+      "name": "Michael J. Nelson",
+      "job": "Writer"
+    },
+    {
+      "name": "Trace Beaulieu",
+      "job": "Writer"
+    },
+    {
+      "name": "Jim Mallon",
+      "job": "Writer"
+    },
+    {
+      "name": "Kevin Murphy",
+      "job": "Writer"
+    },
+    {
+      "name": "Mary Jo Pehl",
+      "job": "Writer"
+    },
+    {
+      "name": "Paul Chaplin",
+      "job": "Writer"
+    },
+    {
+      "name": "Bridget Jones Nelson",
+      "job": "Writer"
+    },
+    {
+      "name": "Joel Hodgson",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jim Mallon",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael J. Nelson",
+      "character": "Mike Nelson",
+      "order": 0
+    },
+    {
+      "name": "Trace Beaulieu",
+      "character": "Dr. Forrester / Crow T. Robot",
+      "order": 1
+    },
+    {
+      "name": "Kevin Murphy",
+      "character": "Tom Servo",
+      "order": 2
+    },
+    {
+      "name": "Jim Mallon",
+      "character": "Gypsy",
+      "order": 3
+    },
+    {
+      "name": "John Brady",
+      "character": "Benkitnorf",
+      "order": 4
+    }
+  ],
+  "poster_path": "/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg",
+  "backdrop_path": "/hXD4z5xykt9G7SLXstUB96RFflh.jpg",
+  "budget": 5000000,
+  "revenue": 1000000,
+  "vote_average": 6.516,
+  "vote_count": 222,
+  "imdb_id": "tt0117128",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "10"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

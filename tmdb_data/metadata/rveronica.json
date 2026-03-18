@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 10629,
+  "title": "Veronica Guerin",
+  "original_title": "Veronica Guerin",
+  "release_date": "2003-07-11",
+  "runtime": 98,
+  "tagline": "Why would anyone want to kill Veronica Guerin?",
+  "overview": "In this true story, Veronica Guerin is an investigative reporter for an Irish newspaper. As the drug trade begins to bleed into the mainstream, Guerin decides to take on and expose those responsible. Beginning at the bottom with addicts, Guerin then gets in touch with John Traynor, a paranoid informant. Not without some prodding, Traynor leads her to John Gilligan, the ruthless head of the operation, who does not take kindly to Guerin's nosing.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Persevere Productions Ltd.",
+      "country": ""
+    },
+    {
+      "name": "World 2000 Entertainment",
+      "country": "IE"
+    }
+  ],
+  "director": [
+    "Joel Schumacher"
+  ],
+  "writers": [
+    {
+      "name": "Carol Doyle",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mary Agnes Donoghue",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Carol Doyle",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chad Oman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Ned Dowd",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cate Blanchett",
+      "character": "Veronica Guerin",
+      "order": 0
+    },
+    {
+      "name": "Gerard McSorley",
+      "character": "John Gilligan",
+      "order": 1
+    },
+    {
+      "name": "Ciarán Hinds",
+      "character": "John Traynor",
+      "order": 2
+    },
+    {
+      "name": "Brenda Fricker",
+      "character": "Bernie Guerin",
+      "order": 3
+    },
+    {
+      "name": "Don Wycherley",
+      "character": "Chris Mulligan",
+      "order": 4
+    },
+    {
+      "name": "Barry Barnes",
+      "character": "Graham Turley",
+      "order": 5
+    },
+    {
+      "name": "Simon O'Driscoll",
+      "character": "Cathal Turley",
+      "order": 6
+    },
+    {
+      "name": "Emmet Bergin",
+      "character": "Aengus Fanning",
+      "order": 7
+    },
+    {
+      "name": "Charlotte Bradley",
+      "character": "Ann Harris",
+      "order": 8
+    },
+    {
+      "name": "Mark Lambert",
+      "character": "Willy Kealy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1aJYz1YjcZggKsTJhCcYJ3adtcm.jpg",
+  "backdrop_path": "/pku59jhFJGLqrFIP0m1ITyqfQcB.jpg",
+  "budget": 17000000,
+  "revenue": 9439660,
+  "vote_average": 6.652,
+  "vote_count": 329,
+  "imdb_id": "tt0312549",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

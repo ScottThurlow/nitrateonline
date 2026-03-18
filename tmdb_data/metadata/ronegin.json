@@ -1,0 +1,119 @@
+{
+  "tmdb_id": 30237,
+  "title": "Onegin",
+  "original_title": "Onegin",
+  "release_date": "1999-12-22",
+  "runtime": 104,
+  "tagline": "A magical era. A passionate longing. A love that spans time.",
+  "overview": "A virtuous and passionate girl falls in love with a cynical but a dashing aristocrat.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "CanWest Global Communications Corporationt",
+      "country": "CA"
+    },
+    {
+      "name": "Onegin Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Martha Fiennes"
+  ],
+  "writers": [
+    {
+      "name": "Michael Ignatieff",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Ettedgui",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alexander Pushkin",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ileen Maisel",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Simon Bosanquet",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ralph Fiennes",
+      "character": "Onegin",
+      "order": 0
+    },
+    {
+      "name": "Liv Tyler",
+      "character": "Tatyana",
+      "order": 1
+    },
+    {
+      "name": "Toby Stephens",
+      "character": "Lensky",
+      "order": 2
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Olga",
+      "order": 3
+    },
+    {
+      "name": "Martin Donovan",
+      "character": "Prince Nikitin",
+      "order": 4
+    },
+    {
+      "name": "Elizabeth Berrington",
+      "character": "Mlle Volkonsky",
+      "order": 5
+    },
+    {
+      "name": "Alun Armstrong",
+      "character": "Zaretsky",
+      "order": 6
+    },
+    {
+      "name": "Simon McBurney",
+      "character": "Triquet",
+      "order": 7
+    },
+    {
+      "name": "Harriet Walter",
+      "character": "Madame Larina",
+      "order": 8
+    },
+    {
+      "name": "Jason Watkins",
+      "character": "Guillot",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nG5c0Jwy8vxFXZcDMMcrbSCEsrp.jpg",
+  "backdrop_path": "/vCqwlvpnK3UMLMLguz2shQr8VcA.jpg",
+  "budget": 14000000,
+  "revenue": 206128,
+  "vote_average": 6.088,
+  "vote_count": 113,
+  "imdb_id": "tt0119079",
+  "certifications": [],
+  "status": "Released"
+}

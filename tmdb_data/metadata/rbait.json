@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 14805,
+  "title": "Bait",
+  "original_title": "Bait",
+  "release_date": "2000-09-15",
+  "runtime": 119,
+  "tagline": "Alvin Sanders is going to help the Feds catch a killer. He just doesn't know it yet.",
+  "overview": "Landing in jail for a petty theft crime, Alvin finds himself sharing a cell with John Jaster, the incarcerated half of the pair of high-tech thieves responsible for the missing gold. His partner, Bristol, is still at large. Alvin wants only to get out of prison and start fresh with his girlfriend, Lisa, and when the Feds, led by U.S. Treasury investigator Clenteen, set him loose on a sketchy deal, he thinks his luck has changed. Alvin has his freedom and the Feds have found their bait.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Antoine Fuqua"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Scheinman",
+      "job": "Writer"
+    },
+    {
+      "name": "Adam Scheinman",
+      "job": "Writer"
+    },
+    {
+      "name": "Tony Gilroy",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean Ryerson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jaime Rucker King",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tony Gilroy",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jamie Foxx",
+      "character": "Alvin Sanders",
+      "order": 0
+    },
+    {
+      "name": "David Morse",
+      "character": "Edgar Clenteen",
+      "order": 1
+    },
+    {
+      "name": "Robert Pastorelli",
+      "character": "Jaster",
+      "order": 2
+    },
+    {
+      "name": "Doug Hutchison",
+      "character": "Bristol",
+      "order": 3
+    },
+    {
+      "name": "Kimberly Elise",
+      "character": "Lisa Hill",
+      "order": 4
+    },
+    {
+      "name": "David Paymer",
+      "character": "Agent Wooly",
+      "order": 5
+    },
+    {
+      "name": "Mike Epps",
+      "character": "Stevie Sanders",
+      "order": 6
+    },
+    {
+      "name": "Jamie Kennedy",
+      "character": "Agent Blum",
+      "order": 7
+    },
+    {
+      "name": "Nestor Serrano",
+      "character": "Agent Boyle",
+      "order": 8
+    },
+    {
+      "name": "Kirk Acevedo",
+      "character": "Ramundo",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jon5ux36iUn6GnntxkZaNtB6AZT.jpg",
+  "backdrop_path": "/4gd9LCL1l8j88psOKbXtuAbTRlq.jpg",
+  "budget": 35000000,
+  "revenue": 15500000,
+  "vote_average": 5.71,
+  "vote_count": 212,
+  "imdb_id": "tt0211938",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

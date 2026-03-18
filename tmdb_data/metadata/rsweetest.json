@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 11812,
+  "title": "The Sweetest Thing",
+  "original_title": "The Sweetest Thing",
+  "release_date": "2002-04-12",
+  "runtime": 84,
+  "tagline": "A romantic comedy without the sugar.",
+  "overview": "Christina's love life is stuck in neutral. After years of avoiding the hazards of a meaningful relationship, one night while club-hopping with her girlfriends, she meets Peter, her perfect match. Fed up with playing games, she finally gets the courage to let her guard down and follow her heart, only to discover that Peter has suddenly left town. Accompanied by Courtney, she sets out to capture the one that got away.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Konrad Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Roger Kumble"
+  ],
+  "writers": [
+    {
+      "name": "Nancy M. Pimental",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stuart M. Besser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cathy Konrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Ricky Strauss",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cameron Diaz",
+      "character": "Christina Walters",
+      "order": 0
+    },
+    {
+      "name": "Christina Applegate",
+      "character": "Courtney Rockcliffe",
+      "order": 1
+    },
+    {
+      "name": "Selma Blair",
+      "character": "Jane Burns",
+      "order": 2
+    },
+    {
+      "name": "Thomas Jane",
+      "character": "Peter Donahue",
+      "order": 3
+    },
+    {
+      "name": "Jason Bateman",
+      "character": "Roger Donahue",
+      "order": 4
+    },
+    {
+      "name": "Parker Posey",
+      "character": "Judy Webb",
+      "order": 5
+    },
+    {
+      "name": "Lillian Adams",
+      "character": "Aunt Frida",
+      "order": 6
+    },
+    {
+      "name": "Chelsea Bond",
+      "character": "Greta",
+      "order": 7
+    },
+    {
+      "name": "Judith Chapman",
+      "character": "Judy's Mother",
+      "order": 8
+    },
+    {
+      "name": "Joe Bellan",
+      "character": "Mr. Martin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qLysz4B5YmiDq52Op0zq4eD75LC.jpg",
+  "backdrop_path": "/7rQm6TZAB3CLB1UNDuocQ8EMdHk.jpg",
+  "budget": 43000000,
+  "revenue": 68696770,
+  "vote_average": 5.606,
+  "vote_count": 1163,
+  "imdb_id": "tt0253867",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

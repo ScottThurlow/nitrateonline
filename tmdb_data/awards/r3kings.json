@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "8 wins & 19 nominations total",
+  "rated": "R",
+  "released": "01 Oct 1999",
+  "runtime": "114 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "David O. Russell",
+  "writer": "John Ridley, David O. Russell",
+  "actors": "George Clooney, Mark Wahlberg, Ice Cube",
+  "plot": "A small group of adventurous American soldiers in Iraq at the end of the Gulf War are determined to steal a huge cache of gold reputed to be hidden somewhere near their desert base. Finding a map they believe will take them to the gold, they embark on a journey that leads to unexpected discoveries, enabling them to rise to a heroic challenge that drastically changes their lives.",
+  "language": "English, Arabic",
+  "country": "United States, Australia",
+  "metascore": "82",
+  "imdb_rating": "7.1",
+  "imdb_votes": "185,340",
+  "box_office": "$60,652,036",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=Three+Kings"
+    },
+    {
+      "source": "Metacritic",
+      "value": "82/100",
+      "link": "https://www.metacritic.com/search/Three+Kings/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120188/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120188/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6415"
+  }
+}

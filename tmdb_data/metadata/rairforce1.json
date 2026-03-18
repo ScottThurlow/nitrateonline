@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 9772,
+  "title": "Air Force One",
+  "original_title": "Air Force One",
+  "release_date": "1997-07-25",
+  "runtime": 124,
+  "tagline": "The fate of the nation rests on the courage of one man.",
+  "overview": "When Russian neo-nationalists hijack Air Force One, the world's most secure and extraordinary aircraft, the President is faced with a nearly impossible decision to give in to terrorist demands or sacrifice not only the country's dignity, but the lives of his wife and daughter.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Radiant Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Wolfgang Petersen"
+  ],
+  "writers": [
+    {
+      "name": "Andrew W. Marlowe",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Abraham",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Thomas A. Bliss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gail Katz",
+      "job": "Producer"
+    },
+    {
+      "name": "David V. Lester",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wolfgang Petersen",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Shestack",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Harrison Ford",
+      "character": "James Marshall",
+      "order": 0
+    },
+    {
+      "name": "Gary Oldman",
+      "character": "Ivan Korshunov",
+      "order": 1
+    },
+    {
+      "name": "Glenn Close",
+      "character": "Kathryn Bennett",
+      "order": 2
+    },
+    {
+      "name": "Wendy Crewson",
+      "character": "Grace Marshall",
+      "order": 3
+    },
+    {
+      "name": "Liesel Matthews",
+      "character": "Alice Marshall",
+      "order": 4
+    },
+    {
+      "name": "Paul Guilfoyle",
+      "character": "Lloyd Shepherd",
+      "order": 5
+    },
+    {
+      "name": "Xander Berkeley",
+      "character": "Agent Gibbs",
+      "order": 6
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Major Caldwell",
+      "order": 7
+    },
+    {
+      "name": "Dean Stockwell",
+      "character": "Walter Dean",
+      "order": 8
+    },
+    {
+      "name": "Tom Everett",
+      "character": "Jack Doherty",
+      "order": 9
+    }
+  ],
+  "poster_path": "/evO1iENjLpUnbwjnt5XK85jRYob.jpg",
+  "backdrop_path": "/8IFCWQ0fQEukqNY7LAljl7DuFZf.jpg",
+  "budget": 85000000,
+  "revenue": 315200000,
+  "vote_average": 6.47,
+  "vote_count": 3264,
+  "imdb_id": "tt0118571",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 8094,
+  "title": "The Magdalene Sisters",
+  "original_title": "The Magdalene Sisters",
+  "release_date": "2002-08-30",
+  "runtime": 119,
+  "tagline": "In a place that defied belief their only hope was each other.",
+  "overview": "Three young Irish women struggle to maintain their spirits while they endure dehumanizing abuse as inmates of a Magdalene Sisters Asylum.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "Latin",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Scottish Screen",
+      "country": "GB"
+    },
+    {
+      "name": "UK Film Council",
+      "country": "GB"
+    },
+    {
+      "name": "Fís Éireann/Screen Ireland",
+      "country": "IE"
+    },
+    {
+      "name": "Momentum Pictures",
+      "country": "CA"
+    },
+    {
+      "name": "PFP Films",
+      "country": ""
+    },
+    {
+      "name": "Temple Films",
+      "country": ""
+    },
+    {
+      "name": "Dumfries & Galloway Council",
+      "country": ""
+    },
+    {
+      "name": "South West Scotland Screen Commission",
+      "country": ""
+    },
+    {
+      "name": "Scottish Enterprise Dumfries & Galloway",
+      "country": ""
+    },
+    {
+      "name": "UK Film Council's New Cinema Fund",
+      "country": ""
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Element Pictures",
+      "country": "IE"
+    }
+  ],
+  "director": [
+    "Peter Mullan"
+  ],
+  "writers": [
+    {
+      "name": "Peter Mullan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ed Guiney",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Frances Higson",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Trijbits",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rod Stoneman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alan J. Wands",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrea Occhipinti",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anne-Marie Duff",
+      "character": "Margaret",
+      "order": 0
+    },
+    {
+      "name": "Nora-Jane Noone",
+      "character": "Bernadette",
+      "order": 1
+    },
+    {
+      "name": "Dorothy Duffy",
+      "character": "Rose",
+      "order": 2
+    },
+    {
+      "name": "Geraldine McEwan",
+      "character": "Sister Bridget",
+      "order": 3
+    },
+    {
+      "name": "Eileen Walsh",
+      "character": "Crispina",
+      "order": 4
+    },
+    {
+      "name": "Mary Murray",
+      "character": "Una",
+      "order": 5
+    },
+    {
+      "name": "Eamonn Owens",
+      "character": "Eamonn",
+      "order": 6
+    },
+    {
+      "name": "Britta Smith",
+      "character": "Katy",
+      "order": 7
+    },
+    {
+      "name": "Peter Mullan",
+      "character": "Mr O'Connor",
+      "order": 8
+    },
+    {
+      "name": "Eithne McGuinness",
+      "character": "Sister Clementine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/akOnyPsfzcDvCwP3lzY35i2NIha.jpg",
+  "backdrop_path": "/teMi2HuGuWOmBL599u7dg1xtD1Q.jpg",
+  "budget": 5000000,
+  "revenue": 21107578,
+  "vote_average": 7.424,
+  "vote_count": 452,
+  "imdb_id": "tt0318411",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "K15"
+    },
+    {
+      "country": "IE",
+      "rating": "15PG"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

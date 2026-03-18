@@ -1,0 +1,105 @@
+{
+  "tmdb_id": 124825,
+  "title": "Secrets of Sweet Sixteen",
+  "original_title": "Was Schulmädchen verschweigen",
+  "release_date": "1973-05-18",
+  "runtime": 80,
+  "tagline": "",
+  "overview": "Another Ernst Hofbauer schoolgirl exploiter in the same vein as his Schoolgirl Report films, but for this one he raised the sleaze level to new heights with non-pornographic scenes of rape, pedophilia, satanic rituals, virgin sacrifice and golden showers. Despite how it sounds, these acts are played for silly comedy rather than any harsh depictions.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Gloria Film",
+      "country": "DE"
+    },
+    {
+      "name": "Lisa Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Ernst Hofbauer"
+  ],
+  "writers": [
+    {
+      "name": "Erich Tomek",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Christina Lindberg",
+      "character": "Babs",
+      "order": 0
+    },
+    {
+      "name": "Arthur Brauss",
+      "character": "Franz Kuppler",
+      "order": 1
+    },
+    {
+      "name": "Ulrike Butz",
+      "character": "Burgie Wimmer",
+      "order": 2
+    },
+    {
+      "name": "Enzi Fuchs",
+      "character": "Mrs. Wimmer",
+      "order": 3
+    },
+    {
+      "name": "Willy Harlander",
+      "character": "Mr. Wimmer",
+      "order": 4
+    },
+    {
+      "name": "Elma Karlowa",
+      "character": "Gundula",
+      "order": 5
+    },
+    {
+      "name": "Elisabeth Volkmann",
+      "character": "Edith Kersten",
+      "order": 6
+    },
+    {
+      "name": "Marie Ekorre",
+      "character": "Cornelia Kersten",
+      "order": 7
+    },
+    {
+      "name": "Philippe Gasté",
+      "character": "Mario Messina",
+      "order": 8
+    },
+    {
+      "name": "Peter Hamm",
+      "character": "Raul Hartmann",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qgBIOOaULGedp3YEpFWNbzVBhIf.jpg",
+  "backdrop_path": "/dudViEQykjgPcmQGppphQseuWZ3.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.8,
+  "vote_count": 9,
+  "imdb_id": "tt0070900",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

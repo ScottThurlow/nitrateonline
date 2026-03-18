@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "5 wins & 6 nominations total",
+  "rated": "R",
+  "released": "20 Sep 2001",
+  "runtime": "103 min",
+  "genre": "Drama, Romance",
+  "director": "Léa Pool",
+  "writer": "Susan Swan, Judith Thompson",
+  "actors": "Piper Perabo, Jessica Paré, Mischa Barton",
+  "plot": "Lost and Delirious is the story of three adolescent girls' first love, their discovery of sexual passion, and their search for identities. Set in a posh, private boarding school surrounded by luxuriant, green forest, Lost and Delirious moves swiftly from academic routine, homesickness, and girlish silliness to the darker region of lover's intrigue.",
+  "language": "English",
+  "country": "Canada",
+  "metascore": "53",
+  "imdb_rating": "6.8",
+  "imdb_votes": "23,335",
+  "box_office": "$307,233",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "51%",
+      "link": "https://www.rottentomatoes.com/search?search=Lost+and+Delirious"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/Lost+and+Delirious/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0245238/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0245238/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17612"
+  }
+}

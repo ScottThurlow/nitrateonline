@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "5 nominations",
+  "rated": "R",
+  "released": "10 Nov 1999",
+  "runtime": "99 min",
+  "genre": "Drama, Thriller",
+  "director": "Craig Bolotin",
+  "writer": "Craig Bolotin",
+  "actors": "Usher, Forest Whitaker, Rosario Dawson",
+  "plot": "On a winter day in a southside Queens high school, events collide and six students are suddenly in an armed standoff with the NYPD. At the school, classrooms freeze, teachers come and go, resources are scant. When a popular teacher is suspended, a few students protest. Jackson, a new security guard, gets tough. In a scuffle, Jackson's wounded with his own gun and a student takes him hostage. A few kids join in, for various reasons. An ineffective policewoman tries to mediate as the police plan an assault, the kids demand improvements to the school, the media pick up the story, and Jackson turns sympathetic. But are too many forces in motion for the students to stay in control?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "43",
+  "imdb_rating": "6.0",
+  "imdb_votes": "3,994",
+  "box_office": "$5,985,690",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Light+It+Up"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/Light+It+Up/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0172726/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0172726/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19052"
+  }
+}

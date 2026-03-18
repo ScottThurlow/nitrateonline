@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 14114,
+  "title": "You Got Served",
+  "original_title": "You Got Served",
+  "release_date": "2004-01-30",
+  "runtime": 95,
+  "tagline": "If you want respect, you've got to take it.",
+  "overview": "At Mr. Rad's Warehouse, the best hip-hop crews in Los Angeles compete for money and respect. But when a suburban crew crashes the party, stealing their dancers — and their moves — two warring friends have to pull together to represent the street.",
+  "genres": [
+    "Music",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "The Ultimate Group Films",
+      "country": "US"
+    },
+    {
+      "name": "Melee Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Sony Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chris Stokes"
+  ],
+  "writers": [
+    {
+      "name": "Chris Stokes",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cassius Weathersby",
+      "job": "Producer"
+    },
+    {
+      "name": "Marcus Morton",
+      "job": "Producer"
+    },
+    {
+      "name": "Billy Pollina",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marques Houston",
+      "character": "Elgin",
+      "order": 0
+    },
+    {
+      "name": "Omarion",
+      "character": "David",
+      "order": 1
+    },
+    {
+      "name": "J-Boog",
+      "character": "Rico",
+      "order": 2
+    },
+    {
+      "name": "Lil' Fizz",
+      "character": "Rashann",
+      "order": 3
+    },
+    {
+      "name": "Jennifer Freeman",
+      "character": "Liyah",
+      "order": 4
+    },
+    {
+      "name": "Meagan Good",
+      "character": "Beautifull",
+      "order": 5
+    },
+    {
+      "name": "Raz B",
+      "character": "Vick",
+      "order": 6
+    },
+    {
+      "name": "Michael Taliferro",
+      "character": "Emerald",
+      "order": 7
+    },
+    {
+      "name": "Steve Harvey",
+      "character": "Mr. Rad",
+      "order": 8
+    },
+    {
+      "name": "Lil' Kim",
+      "character": "Lil' Kim",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nFwT3QisWFQa3Wlfnw1gC458xJn.jpg",
+  "backdrop_path": "/1NSRfeWDoZXCLdgYrG1GvJj8JZL.jpg",
+  "budget": 8000000,
+  "revenue": 50576805,
+  "vote_average": 6.33,
+  "vote_count": 459,
+  "imdb_id": "tt0365957",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

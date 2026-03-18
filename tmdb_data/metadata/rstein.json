@@ -1,0 +1,146 @@
+{
+  "tmdb_id": 15647,
+  "title": "Kissing Jessica Stein",
+  "original_title": "Kissing Jessica Stein",
+  "release_date": "2002-03-13",
+  "runtime": 97,
+  "tagline": "When it comes to love, sometimes she just can't think straight.",
+  "overview": "Jessica, a Jewish copy editor living and working in New York City, is plagued by failed blind dates with men, and decides to answer a newspaper's personal advertisement. The advertisement has been placed by 'lesbian-curious' Helen Cooper, a thirtysomething art gallerist.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Michael Alden Productions",
+      "country": ""
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Brad Zions Films",
+      "country": ""
+    },
+    {
+      "name": "Eden Wurmfeld Films",
+      "country": "US"
+    },
+    {
+      "name": "Cineric",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Charles Herman-Wurmfeld"
+  ],
+  "writers": [
+    {
+      "name": "Heather Juergensen",
+      "job": "Writer"
+    },
+    {
+      "name": "Jennifer Westfeldt",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brad Zions",
+      "job": "Producer"
+    },
+    {
+      "name": "Eden Wurmfeld",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Westfeldt",
+      "character": "Jessica Stein",
+      "order": 0
+    },
+    {
+      "name": "Heather Juergensen",
+      "character": "Helen Cooper",
+      "order": 1
+    },
+    {
+      "name": "Scott Cohen",
+      "character": "Josh Myers",
+      "order": 2
+    },
+    {
+      "name": "Jackie Hoffman",
+      "character": "Joan",
+      "order": 3
+    },
+    {
+      "name": "Tovah Feldshuh",
+      "character": "Judy Stein",
+      "order": 4
+    },
+    {
+      "name": "Michael Mastro",
+      "character": "Martin",
+      "order": 5
+    },
+    {
+      "name": "Carson Elrod",
+      "character": "Sebastian",
+      "order": 6
+    },
+    {
+      "name": "Jon Hamm",
+      "character": "Charles",
+      "order": 7
+    },
+    {
+      "name": "David Aaron Baker",
+      "character": "Dan Stein",
+      "order": 8
+    },
+    {
+      "name": "Esther Wurmfeld",
+      "character": "Grandma Esther",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8b2g8QZRLTJMYyzc3HirTSRQpLW.jpg",
+  "backdrop_path": "/8h200JQ8vwKzQuaitYwmVfXwCaV.jpg",
+  "budget": 1000000,
+  "revenue": 10013424,
+  "vote_average": 6.028,
+  "vote_count": 246,
+  "imdb_id": "tt0264761",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

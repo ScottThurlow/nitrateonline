@@ -1,0 +1,164 @@
+{
+  "tmdb_id": 2657,
+  "title": "Pleasantville",
+  "original_title": "Pleasantville",
+  "release_date": "1998-09-17",
+  "runtime": 124,
+  "tagline": "Nothing is as simple as black and white.",
+  "overview": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Larger Than Life Productions",
+      "country": "US"
+    },
+    {
+      "name": "Juno Pix",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Ross"
+  ],
+  "writers": [
+    {
+      "name": "Gary Ross",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jon Kilik",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Soderbergh",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mary Parent",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Ross",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tobey Maguire",
+      "character": "David",
+      "order": 0
+    },
+    {
+      "name": "Reese Witherspoon",
+      "character": "Jennifer",
+      "order": 1
+    },
+    {
+      "name": "William H. Macy",
+      "character": "George Parker",
+      "order": 2
+    },
+    {
+      "name": "Joan Allen",
+      "character": "Betty Parker",
+      "order": 3
+    },
+    {
+      "name": "Jeff Daniels",
+      "character": "Mr. Johnson",
+      "order": 4
+    },
+    {
+      "name": "J. T. Walsh",
+      "character": "Big Bob",
+      "order": 5
+    },
+    {
+      "name": "Paul Walker",
+      "character": "Skip",
+      "order": 6
+    },
+    {
+      "name": "Don Knotts",
+      "character": "TV Repairman",
+      "order": 7
+    },
+    {
+      "name": "Marley Shelton",
+      "character": "Margaret Henderson",
+      "order": 8
+    },
+    {
+      "name": "Jane Kaczmarek",
+      "character": "David's Mom",
+      "order": 9
+    }
+  ],
+  "poster_path": "/m1hhYP6OScjKU5Z9iZaWirSn4I6.jpg",
+  "backdrop_path": "/8sf7q8OlZLl7OVhTdYjz1vsFr5v.jpg",
+  "budget": 60000000,
+  "revenue": 49800000,
+  "vote_average": 7.264,
+  "vote_count": 1840,
+  "imdb_id": "tt0120789",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

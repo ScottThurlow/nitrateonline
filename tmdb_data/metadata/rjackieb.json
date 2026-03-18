@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 184,
+  "title": "Jackie Brown",
+  "original_title": "Jackie Brown",
+  "release_date": "1997-12-25",
+  "runtime": 154,
+  "tagline": "This Christmas, Santa's got a brand new bag.",
+  "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "A Band Apart",
+      "country": "US"
+    },
+    {
+      "name": "Mighty Mighty Afrodite Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Quentin Tarantino"
+  ],
+  "writers": [
+    {
+      "name": "Elmore Leonard",
+      "job": "Novel"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Bender",
+      "job": "Producer"
+    },
+    {
+      "name": "Elmore Leonard",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard N. Gladstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pam Grier",
+      "character": "Jackie Brown",
+      "order": 0
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Ordell Robbie",
+      "order": 1
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Louis Gara",
+      "order": 2
+    },
+    {
+      "name": "Bridget Fonda",
+      "character": "Melanie Ralston",
+      "order": 3
+    },
+    {
+      "name": "Michael Keaton",
+      "character": "Ray Nicolette",
+      "order": 4
+    },
+    {
+      "name": "Robert Forster",
+      "character": "Max Cherry",
+      "order": 5
+    },
+    {
+      "name": "Michael Bowen",
+      "character": "Mark Dargus",
+      "order": 6
+    },
+    {
+      "name": "Chris Tucker",
+      "character": "Beaumont Livingston",
+      "order": 7
+    },
+    {
+      "name": "LisaGay Hamilton",
+      "character": "Sheronda",
+      "order": 8
+    },
+    {
+      "name": "Tommy Lister Jr.",
+      "character": "Winston",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+  "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+  "budget": 12000000,
+  "revenue": 74727492,
+  "vote_average": 7.357,
+  "vote_count": 6846,
+  "imdb_id": "tt0119396",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

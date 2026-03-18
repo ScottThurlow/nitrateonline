@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 9582,
+  "title": "A Guy Thing",
+  "original_title": "A Guy Thing",
+  "release_date": "2003-01-17",
+  "runtime": 101,
+  "tagline": "He finally found the perfect girl(s).",
+  "overview": "Paul Morse is a good guy. When his friends throw him a wild bachelor party, he just wants to keep his conscience clean -- which is why he's shocked when he wakes up in bed with a beautiful girl named Becky and can't remember the night before. Desperate to keep his fiancée, Karen, from finding out what may or may not be the truth, he tells her a teensy lie. Soon his lies are spiraling out of control and his life is a series of comical misunderstandings.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "David Ladd Films",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chris Koch"
+  ],
+  "writers": [
+    {
+      "name": "Matt Tarses",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pete Schwaba",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Greg Glienna",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bill Wrubel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Greg Glienna",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Ladd",
+      "job": "Producer"
+    },
+    {
+      "name": "David Nicksay",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Lee",
+      "character": "Paul Morse",
+      "order": 0
+    },
+    {
+      "name": "Selma Blair",
+      "character": "Karen Cooper",
+      "order": 1
+    },
+    {
+      "name": "Julia Stiles",
+      "character": "Becky Jackson",
+      "order": 2
+    },
+    {
+      "name": "Shawn Hatosy",
+      "character": "Jim",
+      "order": 3
+    },
+    {
+      "name": "Lochlyn Munro",
+      "character": "Ray Donovan",
+      "order": 4
+    },
+    {
+      "name": "James Brolin",
+      "character": "Ken Cooper",
+      "order": 5
+    },
+    {
+      "name": "Diana Scarwid",
+      "character": "Sandra Cooper",
+      "order": 6
+    },
+    {
+      "name": "David Koechner",
+      "character": "Buck",
+      "order": 7
+    },
+    {
+      "name": "Julie Hagerty",
+      "character": "Dorothy",
+      "order": 8
+    },
+    {
+      "name": "Thomas Lennon",
+      "character": "Pete",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wWiPuP1wMW32pjX8Q9TEj69TxWI.jpg",
+  "backdrop_path": "/Txzcr6Iqdam6WufVLlGEVz6N70.jpg",
+  "budget": 20000000,
+  "revenue": 17400000,
+  "vote_average": 5.901,
+  "vote_count": 379,
+  "imdb_id": "tt0295289",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

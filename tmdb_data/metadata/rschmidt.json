@@ -1,0 +1,187 @@
+{
+  "tmdb_id": 2755,
+  "title": "About Schmidt",
+  "original_title": "About Schmidt",
+  "release_date": "2002-12-12",
+  "runtime": 125,
+  "tagline": "Schmidt Happens.",
+  "overview": "A recently retired man embarks on a journey to his estranged daughter's wedding, only to discover more about himself and life than he ever expected.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Avery Pix",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Alexander Payne"
+  ],
+  "writers": [
+    {
+      "name": "Alexander Payne",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Louis Begley",
+      "job": "Author"
+    },
+    {
+      "name": "Jim Taylor",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rachael Horovitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Badalato",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harry Gittes",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Besman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jack Nicholson",
+      "character": "Warren Schmidt",
+      "order": 0
+    },
+    {
+      "name": "Kathy Bates",
+      "character": "Roberta Hertzel",
+      "order": 1
+    },
+    {
+      "name": "Hope Davis",
+      "character": "Jeannie Schmidt",
+      "order": 2
+    },
+    {
+      "name": "Dermot Mulroney",
+      "character": "Randall Hertzel",
+      "order": 3
+    },
+    {
+      "name": "June Squibb",
+      "character": "Helen Schmidt",
+      "order": 4
+    },
+    {
+      "name": "Howard Hesseman",
+      "character": "Larry Hertzel",
+      "order": 5
+    },
+    {
+      "name": "Harry Groener",
+      "character": "John Rusk",
+      "order": 6
+    },
+    {
+      "name": "Connie Ray",
+      "character": "Vicki Rusk",
+      "order": 7
+    },
+    {
+      "name": "Len Cariou",
+      "character": "Ray Nichols",
+      "order": 8
+    },
+    {
+      "name": "Mark Venhuizen",
+      "character": "Duncan Hertzel",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tstvsrJHY57hc951lb190alXRQm.jpg",
+  "backdrop_path": "/gz4ZIoruJ5e5n3SByTJeDS7qAcs.jpg",
+  "budget": 30000000,
+  "revenue": 105834556,
+  "vote_average": 6.854,
+  "vote_count": 1349,
+  "imdb_id": "tt0257360",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,125 @@
+{
+  "tmdb_id": 24186,
+  "title": "The Safety of Objects",
+  "original_title": "The Safety of Objects",
+  "release_date": "2002-10-25",
+  "runtime": 121,
+  "tagline": "What do you hold on to when your world turns upside down?",
+  "overview": "In a suburban landscape, the lives of several families interlace with loss, despair and personal crisis. Esther Gold has lost focus on all but caring for her comatose son, Paul, and neglects her daughter and husband. Lawyer Jim Train is devoted to his career, not his family. Helen Christianson wants to find a new spark in life, while Annette Jennings tries to rebuild hers.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Rose Troche"
+  ],
+  "writers": [
+    {
+      "name": "Rose Troche",
+      "job": "Screenplay"
+    },
+    {
+      "name": "A.M. Homes",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stephen Evans",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pamela Koffler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Angus Finney",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jody Allen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dorothy Berwin",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Vachon",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Glenn Close",
+      "character": "Esther Gold",
+      "order": 0
+    },
+    {
+      "name": "Dermot Mulroney",
+      "character": "Jim Train",
+      "order": 1
+    },
+    {
+      "name": "Jessica Campbell",
+      "character": "Julie Gold",
+      "order": 2
+    },
+    {
+      "name": "Patricia Clarkson",
+      "character": "Annette Jennings",
+      "order": 3
+    },
+    {
+      "name": "Joshua Jackson",
+      "character": "Paul Gold",
+      "order": 4
+    },
+    {
+      "name": "Moira Kelly",
+      "character": "Susan Train",
+      "order": 5
+    },
+    {
+      "name": "Robert Klein",
+      "character": "Howard Gold",
+      "order": 6
+    },
+    {
+      "name": "Timothy Olyphant",
+      "character": "Randy",
+      "order": 7
+    },
+    {
+      "name": "Mary Kay Place",
+      "character": "Helen Christianson",
+      "order": 8
+    },
+    {
+      "name": "Kristen Stewart",
+      "character": "Sam Jennings",
+      "order": 9
+    }
+  ],
+  "poster_path": "/i7w5Q2HP3dI6UbN59l3ZL55weir.jpg",
+  "backdrop_path": "/eekWPyhZTpeAxc54lkXgKD9RswS.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.413,
+  "vote_count": 52,
+  "imdb_id": "tt0256359",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

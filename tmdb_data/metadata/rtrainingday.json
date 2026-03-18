@@ -1,0 +1,219 @@
+{
+  "tmdb_id": 2034,
+  "title": "Training Day",
+  "original_title": "Training Day",
+  "release_date": "2001-10-05",
+  "runtime": 122,
+  "tagline": "The only thing more dangerous than the line being crossed, is the cop who will cross it.",
+  "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian",
+    "Spanish",
+    "Korean"
+  ],
+  "production_companies": [
+    {
+      "name": "WV Films II",
+      "country": ""
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Outlaw Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Antoine Fuqua"
+  ],
+  "writers": [
+    {
+      "name": "David Ayer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Davis Guggenheim",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Newmyer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denzel Washington",
+      "character": "Alonzo",
+      "order": 0
+    },
+    {
+      "name": "Ethan Hawke",
+      "character": "Jake",
+      "order": 1
+    },
+    {
+      "name": "Scott Glenn",
+      "character": "Roger",
+      "order": 2
+    },
+    {
+      "name": "Tom Berenger",
+      "character": "Stan Gursky",
+      "order": 3
+    },
+    {
+      "name": "Harris Yulin",
+      "character": "Doug Rosselli",
+      "order": 4
+    },
+    {
+      "name": "Raymond J. Barry",
+      "character": "Lou Jacobs",
+      "order": 5
+    },
+    {
+      "name": "Cliff Curtis",
+      "character": "Smiley",
+      "order": 6
+    },
+    {
+      "name": "Dr. Dre",
+      "character": "Paul",
+      "order": 7
+    },
+    {
+      "name": "Snoop Dogg",
+      "character": "Blue",
+      "order": 8
+    },
+    {
+      "name": "Macy Gray",
+      "character": "Sandman's Wife",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+  "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+  "budget": 45000000,
+  "revenue": 104900000,
+  "vote_average": 7.512,
+  "vote_count": 6468,
+  "imdb_id": "tt0139654",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "TW",
+      "rating": "輔導級"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

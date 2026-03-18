@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 2046,
+  "title": "The Gift",
+  "original_title": "The Gift",
+  "release_date": "2000-12-22",
+  "runtime": 112,
+  "tagline": "The only witness to the crime was not even there.",
+  "overview": "Annie Wilson, young widow and mother of three, makes her living foretelling others' futures⁠—though her own has become cloudier than even she can see. Threatened by a client's violent husband and plagued by visions of a missing local woman, Annie finds herself pulled into a thicket of lies and deception in which her extraordinary gift may ultimately get her killed.",
+  "genres": [
+    "Horror",
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Classics",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Sam Raimi"
+  ],
+  "writers": [
+    {
+      "name": "Billy Bob Thornton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom Epperson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James Jacks",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Lucchesi",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard S. Wright",
+      "job": "Producer"
+    },
+    {
+      "name": "Grant Curtis",
+      "job": "Producer"
+    },
+    {
+      "name": "Sean Daniel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gregory Goodman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Tapert",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cate Blanchett",
+      "character": "Annie Wilson",
+      "order": 0
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Buddy Cole",
+      "order": 1
+    },
+    {
+      "name": "Keanu Reeves",
+      "character": "Donnie Barksdale",
+      "order": 2
+    },
+    {
+      "name": "Katie Holmes",
+      "character": "Jessica King",
+      "order": 3
+    },
+    {
+      "name": "Greg Kinnear",
+      "character": "Wayne Collins",
+      "order": 4
+    },
+    {
+      "name": "Hilary Swank",
+      "character": "Valerie Barksdale",
+      "order": 5
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Gerald Weems",
+      "order": 6
+    },
+    {
+      "name": "Kim Dickens",
+      "character": "Linda",
+      "order": 7
+    },
+    {
+      "name": "Gary Cole",
+      "character": "David Duncan",
+      "order": 8
+    },
+    {
+      "name": "Rosemary Harris",
+      "character": "Annie's Granny",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nQdBE1P0r4ZrgGqy5EX8sL2kXG6.jpg",
+  "backdrop_path": "/gwa2mecvILtKsAoKsBIiTG0vUCg.jpg",
+  "budget": 10000000,
+  "revenue": 12008642,
+  "vote_average": 6.471,
+  "vote_count": 1356,
+  "imdb_id": "tt0219699",
+  "status": "Released"
+}

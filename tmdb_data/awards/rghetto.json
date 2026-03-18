@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins",
+  "rated": "N/A",
+  "released": "28 Feb 2002",
+  "runtime": "95 min",
+  "genre": "Documentary",
+  "director": "Dana Janklowicz-Mann, Amir Mann",
+  "writer": "N/A",
+  "actors": "Stephen Chang, Irene Eber, Betty Grebenschikoff",
+  "plot": "Stripped of possessions and rights, German and Eastern European Jews flee to an unlikely destination to avoid persecution from the Nazis.",
+  "language": "English, German, Mandarin",
+  "country": "United States",
+  "metascore": "68",
+  "imdb_rating": "7.1",
+  "imdb_votes": "220",
+  "box_office": "$712,446",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Shanghai+Ghetto"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Shanghai+Ghetto/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0318068/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0318068/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/72308"
+  }
+}

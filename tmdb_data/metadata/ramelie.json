@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 194,
+  "title": "Amélie",
+  "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+  "release_date": "2001-04-25",
+  "runtime": 122,
+  "tagline": "She’ll change your life.",
+  "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Victoires Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Tapioca Films",
+      "country": "FR"
+    },
+    {
+      "name": "France 3 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "MMC Independent",
+      "country": "DE"
+    },
+    {
+      "name": "UGC",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Jean-Pierre Jeunet"
+  ],
+  "writers": [
+    {
+      "name": "Guillaume Laurant",
+      "job": "Dialogue"
+    },
+    {
+      "name": "Guillaume Laurant",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jean-Pierre Jeunet",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Claudie Ossard",
+      "job": "Producer"
+    },
+    {
+      "name": "Arne Meerkamp van Embden",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Audrey Tautou",
+      "character": "Amélie Poulain",
+      "order": 0
+    },
+    {
+      "name": "Mathieu Kassovitz",
+      "character": "Nino Quincampoix",
+      "order": 1
+    },
+    {
+      "name": "Rufus",
+      "character": "Raphaël Poulain",
+      "order": 2
+    },
+    {
+      "name": "Serge Merlin",
+      "character": "Raymond Dufayel",
+      "order": 3
+    },
+    {
+      "name": "Jamel Debbouze",
+      "character": "Lucien",
+      "order": 4
+    },
+    {
+      "name": "Clotilde Mollet",
+      "character": "Gina",
+      "order": 5
+    },
+    {
+      "name": "Claire Maurier",
+      "character": "Suzanne",
+      "order": 6
+    },
+    {
+      "name": "Isabelle Nanty",
+      "character": "Georgette",
+      "order": 7
+    },
+    {
+      "name": "Dominique Pinon",
+      "character": "Joseph",
+      "order": 8
+    },
+    {
+      "name": "Artus de Penguern",
+      "character": "Hipolito",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+  "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+  "budget": 10000000,
+  "revenue": 173921954,
+  "vote_average": 7.917,
+  "vote_count": 12261,
+  "imdb_id": "tt0211915",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "U"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "LT",
+      "rating": "N-13"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

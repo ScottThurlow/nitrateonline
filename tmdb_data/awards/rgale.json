@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "21 Feb 2003",
+  "runtime": "130 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alan Parker",
+  "writer": "Charles Randolph",
+  "actors": "Kevin Spacey, Kate Winslet, Laura Linney",
+  "plot": "When anti-death-penalty activist David Gale is convicted and condemned to death for the murder of a colleague, reporter Bitsey Bloom sets out to learn the story behind Gale's crime. What she finds challenges her belief in Gale's guilt and, finally, in the justice system.",
+  "language": "English, Spanish",
+  "country": "United Kingdom, Germany, United States",
+  "metascore": "31",
+  "imdb_rating": "7.5",
+  "imdb_votes": "131,451",
+  "box_office": "$19,955,598",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Life+of+David+Gale"
+    },
+    {
+      "source": "Metacritic",
+      "value": "31/100",
+      "link": "https://www.metacritic.com/search/The+Life+of+David+Gale/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0289992/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0289992/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11615"
+  }
+}

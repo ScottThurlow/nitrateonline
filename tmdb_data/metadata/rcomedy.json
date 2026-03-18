@@ -1,0 +1,113 @@
+{
+  "tmdb_id": 23618,
+  "title": "The Original Kings of Comedy",
+  "original_title": "The Original Kings of Comedy",
+  "release_date": "2000-08-18",
+  "runtime": 115,
+  "tagline": "We Got Jokes.",
+  "overview": "The house is rockin' and the laughs are rollin' as comedians Steve Harvey (The Steve Harvey Show), D.L. Hughley (The Hughleys), Cedric The Entertainer (The Steve Harvey Show) and Bernie Mac (Life) meet in this riotously comedy summit directed by Spike Lee.",
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "40 Acres and a Mule Filmworks",
+      "country": "US"
+    },
+    {
+      "name": "Latham Entertainment",
+      "country": ""
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Spike Lee"
+  ],
+  "writers": [
+    {
+      "name": "D.L. Hughley",
+      "job": "Writer"
+    },
+    {
+      "name": "Steve Harvey",
+      "job": "Writer"
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "job": "Writer"
+    },
+    {
+      "name": "Bernie Mac",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Gale",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter Latham",
+      "job": "Producer"
+    },
+    {
+      "name": "Van Toffler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Spike Lee",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Harvey",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "D.L. Hughley",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Bernie Mac",
+      "character": "Self",
+      "order": 3
+    }
+  ],
+  "poster_path": "/vjbEcW9OqWoXKr9e2KySG1WZlNS.jpg",
+  "backdrop_path": "/7t7f7fHytr0JbjYCkMthpjBRZTv.jpg",
+  "budget": 13000000,
+  "revenue": 38251106,
+  "vote_average": 6.4,
+  "vote_count": 66,
+  "imdb_id": "tt0236388",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

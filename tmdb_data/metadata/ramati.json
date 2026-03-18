@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 220976,
+  "title": "The Amati Girls",
+  "original_title": "The Amati Girls",
+  "release_date": "2001-01-09",
+  "runtime": 91,
+  "tagline": "Four sisters who disagree about everything... except what matters most. Family.",
+  "overview": "Four sisters who disagree about everything... except what matters most. Family.",
+  "genres": [
+    "Drama",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Family Channel",
+      "country": "US"
+    },
+    {
+      "name": "Persistent Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Providence Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Anne DeSalvo"
+  ],
+  "writers": [
+    {
+      "name": "Anne DeSalvo",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Cloris Leachman",
+      "character": "Dolly Amati",
+      "order": 0
+    },
+    {
+      "name": "Mercedes Ruehl",
+      "character": "Grace",
+      "order": 1
+    },
+    {
+      "name": "Dinah Manoff",
+      "character": "Denise",
+      "order": 2
+    },
+    {
+      "name": "Sean Young",
+      "character": "Christine",
+      "order": 3
+    },
+    {
+      "name": "Lily Knight",
+      "character": "Dolores",
+      "order": 4
+    },
+    {
+      "name": "Lee Grant",
+      "character": "Aunt Spendora",
+      "order": 5
+    },
+    {
+      "name": "Edith Fields",
+      "character": "Aunt Loretta",
+      "order": 6
+    },
+    {
+      "name": "Sam McMurray",
+      "character": "Brian",
+      "order": 7
+    },
+    {
+      "name": "Matt Winston",
+      "character": "Johnny Barlotta",
+      "order": 8
+    },
+    {
+      "name": "Gary Hershberger",
+      "character": "Kevin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/50qGHayADFCaBZwooXweWSeOFqV.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 2.5,
+  "vote_count": 2,
+  "imdb_id": "tt0213446",
+  "certifications": [],
+  "status": "Released"
+}

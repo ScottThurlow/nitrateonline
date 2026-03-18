@@ -1,0 +1,289 @@
+{
+  "tmdb_id": 425,
+  "title": "Ice Age",
+  "original_title": "Ice Age",
+  "release_date": "2002-03-14",
+  "runtime": 81,
+  "tagline": "Sub-zero heroes.",
+  "overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Blue Sky Studios",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chris Wedge"
+  ],
+  "writers": [
+    {
+      "name": "Michael Berg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael J. Wilson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Ackerman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael J. Wilson",
+      "job": "Story"
+    },
+    {
+      "name": "Yvette Kaplan",
+      "job": "Head of Story"
+    },
+    {
+      "name": "David Silverman",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lori Forte",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Meledandri",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ray Romano",
+      "character": "Manny (voice)",
+      "order": 0
+    },
+    {
+      "name": "John Leguizamo",
+      "character": "Sid (voice)",
+      "order": 1
+    },
+    {
+      "name": "Denis Leary",
+      "character": "Diego (voice)",
+      "order": 2
+    },
+    {
+      "name": "Goran Višnjić",
+      "character": "Soto (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jack Black",
+      "character": "Zeke (voice)",
+      "order": 4
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "character": "Carl (voice)",
+      "order": 5
+    },
+    {
+      "name": "Stephen Root",
+      "character": "Frank / Start (voice)",
+      "order": 6
+    },
+    {
+      "name": "Diedrich Bader",
+      "character": "Oscar (voice)",
+      "order": 7
+    },
+    {
+      "name": "Alan Tudyk",
+      "character": "Lenny / Freaky Mammal / Dab (voice)",
+      "order": 8
+    },
+    {
+      "name": "Lorri Bagley",
+      "character": "Jennifer (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+  "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+  "budget": 59000000,
+  "revenue": 383257136,
+  "vote_average": 7.369,
+  "vote_count": 14127,
+  "imdb_id": "tt0268380",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "ATP"
+    },
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "BG",
+      "rating": "A"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "G"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "ID",
+      "rating": "SU"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IL",
+      "rating": "All"
+    },
+    {
+      "country": "IN",
+      "rating": "U"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "AA"
+    },
+    {
+      "country": "MY",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "7"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PH",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SG",
+      "rating": "G"
+    },
+    {
+      "country": "TH",
+      "rating": "P"
+    },
+    {
+      "country": "TR",
+      "rating": "Genel İzleyici Kitlesi"
+    },
+    {
+      "country": "TW",
+      "rating": "普遍級"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

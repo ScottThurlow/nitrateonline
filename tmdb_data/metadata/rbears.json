@@ -1,0 +1,124 @@
+{
+  "tmdb_id": 18357,
+  "title": "The Country Bears",
+  "original_title": "The Country Bears",
+  "release_date": "2002-07-26",
+  "runtime": 88,
+  "tagline": "They’re legends. Bearly.",
+  "overview": "For Beary Barrington, The Country Bears' young #1 fan, fitting in with his all-too-human family is proving im-paws-ible. When he runs away to find Country Bear Hall and his heroes, he discovers the venue that made them famous is near foreclosure. Beary hightails it over the river and through the woods to get the Bears in the Band back together for an all-out reunion concert to save Country Bear Hall.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Hastings"
+  ],
+  "writers": [
+    {
+      "name": "Mark Perez",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Chernov",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Gunn",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christopher Walken",
+      "character": "Reed Thimple",
+      "order": 0
+    },
+    {
+      "name": "Stephen Tobolowsky",
+      "character": "Norbert Barrington",
+      "order": 1
+    },
+    {
+      "name": "Daryl Mitchell",
+      "character": "Officer Hamm",
+      "order": 2
+    },
+    {
+      "name": "M.C. Gainey",
+      "character": "Roadie",
+      "order": 3
+    },
+    {
+      "name": "Diedrich Bader",
+      "character": "Officer Cheets / Ted (voice)",
+      "order": 4
+    },
+    {
+      "name": "Alex Rocco",
+      "character": "Rip Holland",
+      "order": 5
+    },
+    {
+      "name": "Meagen Fay",
+      "character": "Mrs. Barrington",
+      "order": 6
+    },
+    {
+      "name": "Eli Marienthal",
+      "character": "Dex Barrington",
+      "order": 7
+    },
+    {
+      "name": "Haley Joel Osment",
+      "character": "Beary Barrington (voice)",
+      "order": 8
+    },
+    {
+      "name": "Candy Ford",
+      "character": "Trixie (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/h6mm3z7Wf4y1rJGHxqjVTTHl217.jpg",
+  "backdrop_path": "/6Bx6fsUqJDsBjDCgIMSnjN3ua6i.jpg",
+  "budget": 35000000,
+  "revenue": 18012097,
+  "vote_average": 4.748,
+  "vote_count": 127,
+  "imdb_id": "tt0276033",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

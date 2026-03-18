@@ -1,0 +1,134 @@
+{
+  "tmdb_id": 83036,
+  "title": "Titanic Town",
+  "original_title": "Titanic Town",
+  "release_date": "1998-08-08",
+  "runtime": 100,
+  "tagline": "An extraordinary time called for an extraordinary woman.",
+  "overview": "Belfast 1972: The politically naive Bernie is trying to bring up a normal family in less than normal surroundings. Her best friend is accidentally shot dead by the IRA, and her neighbours are constantly raided by the army. In this climate of fear she stands up and condemns the murders. Criticising both factions, her call for a ceasefire is interpreted as an attack against the IRA, and as her peace movement takes momentum, she and her family are placed in the frontline.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "BBC",
+      "country": "GB"
+    },
+    {
+      "name": "British Screen",
+      "country": "GB"
+    },
+    {
+      "name": "Company Pictures",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Roger Michell"
+  ],
+  "writers": [
+    {
+      "name": "Mary Costello",
+      "job": "Novel"
+    },
+    {
+      "name": "Anne Devlin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Pattinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Cooper",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rainer Mockert",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "George Faber",
+      "job": "Producer"
+    },
+    {
+      "name": "David M. Thompson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julie Walters",
+      "character": "Bernie McPhelimy",
+      "order": 0
+    },
+    {
+      "name": "Ciarán Hinds",
+      "character": "Aidan McPhelimy",
+      "order": 1
+    },
+    {
+      "name": "Nuala O'Neill",
+      "character": "Annie McPhelimy",
+      "order": 2
+    },
+    {
+      "name": "James Loughran",
+      "character": "Thomas McPhelimy",
+      "order": 3
+    },
+    {
+      "name": "Elizabeth Donaghy",
+      "character": "Sinead McPhelimy",
+      "order": 4
+    },
+    {
+      "name": "Barry Loughran",
+      "character": "Brendan McPhelimy",
+      "order": 5
+    },
+    {
+      "name": "Ciarán McMenamin",
+      "character": "Owen/Dino",
+      "order": 6
+    },
+    {
+      "name": "Jaz Pollock",
+      "character": "Patsy French",
+      "order": 7
+    },
+    {
+      "name": "Caolan Byrne",
+      "character": "Niall French",
+      "order": 8
+    },
+    {
+      "name": "Aingeal Grehan",
+      "character": "Deirdre",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8gl2aeimAngsRHqZQwUKyp93Bdx.jpg",
+  "backdrop_path": "/2CNnykMz8akvD7YYURXdBIQbYgH.jpg",
+  "budget": 0,
+  "revenue": 65244,
+  "vote_average": 4.667,
+  "vote_count": 6,
+  "imdb_id": "tt0127319",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

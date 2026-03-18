@@ -1,0 +1,30 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "Not Rated",
+  "released": "11 Apr 2003",
+  "runtime": "90 min",
+  "genre": "Documentary",
+  "director": "Kevin Mukherji",
+  "writer": "N/A",
+  "actors": "John McNaughton, Harold Ramis, John Sayles",
+  "plot": "4 American Storytellers talking about LIFE and MOVIES with a silent host.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.6",
+  "imdb_votes": "110",
+  "box_office": "$24,082",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0212142/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0212142/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/303118"
+  }
+}

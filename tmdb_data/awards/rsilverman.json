@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "09 Feb 2001",
+  "runtime": "90 min",
+  "genre": "Comedy, Crime, Romance",
+  "director": "Dennis Dugan",
+  "writer": "Hank Nelken, Greg DePaul",
+  "actors": "Jason Biggs, Steve Zahn, Jack Black",
+  "plot": "Two dim-witted former high school buddys and Neil Diamond fanactics, Wayne and J.D., plot to keep their friend Darren from marrying the wrong woman, a domineering and spiteful psychologist named Judith by kidnapping her and trying to set Darren up with his old high school girlfriend Sandy who plans to become a nun.",
+  "language": "English, Thai",
+  "country": "United States, Australia",
+  "metascore": "22",
+  "imdb_rating": "5.9",
+  "imdb_votes": "44,467",
+  "box_office": "$19,402,030",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "18%",
+      "link": "https://www.rottentomatoes.com/search?search=Saving+Silverman"
+    },
+    {
+      "source": "Metacritic",
+      "value": "22/100",
+      "link": "https://www.metacritic.com/search/Saving+Silverman/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0239948/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0239948/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10878"
+  }
+}

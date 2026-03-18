@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "Won 1 Oscar. 73 wins & 111 nominations total",
+  "rated": "R",
+  "released": "19 Mar 2004",
+  "runtime": "108 min",
+  "genre": "Drama, Romance, Sci-Fi",
+  "director": "Michel Gondry",
+  "writer": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
+  "actors": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+  "plot": "Much to his surprise, timid Joel Barish is shocked to discover that the love of his life, sparky Clementine, has had him erased from her memory. To pay her back in the same coin, poor Joel summons up the courage to undergo a painless but intricate medical procedure to do the same, utterly unaware that darkness is an essential part of the light. Now, as hurt and angry Joel's ugly recollections of Clementine gradually fade away, giving way to a soulless black void, suddenly, he begins having second thoughts, toying with the idea of stopping the irreversible process. In the end, is ignorance really bliss?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "89",
+  "imdb_rating": "8.3",
+  "imdb_votes": "1,166,070",
+  "box_office": "$34,400,301",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "93%",
+      "link": "https://www.rottentomatoes.com/search?search=Eternal+Sunshine+of+the+Spotless+Mind"
+    },
+    {
+      "source": "Metacritic",
+      "value": "89/100",
+      "link": "https://www.metacritic.com/search/Eternal+Sunshine+of+the+Spotless+Mind/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0338013/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0338013/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/38"
+  }
+}

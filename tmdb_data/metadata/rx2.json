@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 36658,
+  "title": "X2",
+  "original_title": "X2",
+  "release_date": "2003-04-27",
+  "runtime": 133,
+  "tagline": "The time has come for those who are different to stand united.",
+  "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "German",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "The Donners' Company",
+      "country": "US"
+    },
+    {
+      "name": "Bad Hat Harry Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Marvel Enterprises",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bryan Singer"
+  ],
+  "writers": [
+    {
+      "name": "Michael Dougherty",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dan Harris",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Hayter",
+      "job": "Story"
+    },
+    {
+      "name": "Zak Penn",
+      "job": "Story"
+    },
+    {
+      "name": "Bryan Singer",
+      "job": "Story"
+    },
+    {
+      "name": "David Hayter",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lauren Shuler Donner",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph Winter",
+      "job": "Producer"
+    },
+    {
+      "name": "Avi Arad",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom DeSanto",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bryan Singer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hugh Jackman",
+      "character": "Logan / Wolverine",
+      "order": 0
+    },
+    {
+      "name": "Patrick Stewart",
+      "character": "Professor Charles Xavier",
+      "order": 1
+    },
+    {
+      "name": "James Marsden",
+      "character": "Scott Summers / Cyclops",
+      "order": 2
+    },
+    {
+      "name": "Brian Cox",
+      "character": "William Stryker",
+      "order": 3
+    },
+    {
+      "name": "Ian McKellen",
+      "character": "Eric Lehnsherr / Magneto",
+      "order": 4
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Jean Grey",
+      "order": 5
+    },
+    {
+      "name": "Aaron Stanford",
+      "character": "John Allerdyce / Pyro",
+      "order": 6
+    },
+    {
+      "name": "Halle Berry",
+      "character": "Ororo Munroe / Storm",
+      "order": 7
+    },
+    {
+      "name": "Rebecca Romijn",
+      "character": "Raven Darkholme / Mystique",
+      "order": 8
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Kurt Wagner / Nightcrawler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+  "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+  "budget": 110000000,
+  "revenue": 407711549,
+  "vote_average": 7.035,
+  "vote_count": 10768,
+  "imdb_id": "tt0290334",
+  "status": "Released"
+}

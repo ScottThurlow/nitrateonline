@@ -1,0 +1,243 @@
+{
+  "tmdb_id": 9902,
+  "title": "Wrong Turn",
+  "original_title": "Wrong Turn",
+  "release_date": "2003-05-30",
+  "runtime": 84,
+  "tagline": "It's the last one you'll ever take.",
+  "overview": "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they're hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Summit Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Constantin Film",
+      "country": "DE"
+    },
+    {
+      "name": "Newmarket Capital Group",
+      "country": "US"
+    },
+    {
+      "name": "Stan Winston Productions",
+      "country": "US"
+    },
+    {
+      "name": "Media Cooperation One",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Rob Schmidt"
+  ],
+  "writers": [
+    {
+      "name": "Alan B. McElroy",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Kulzer",
+      "job": "Producer"
+    },
+    {
+      "name": "Erik Feig",
+      "job": "Producer"
+    },
+    {
+      "name": "Stan Winston",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian J. Gilbert",
+      "job": "Producer"
+    },
+    {
+      "name": "Mitch Horwits",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Aaron Ryder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Don Carmody",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patrick Wachsberger",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eliza Dushku",
+      "character": "Jessie Burlingame",
+      "order": 0
+    },
+    {
+      "name": "Desmond Harrington",
+      "character": "Chris Flynn",
+      "order": 1
+    },
+    {
+      "name": "Emmanuelle Chriqui",
+      "character": "Carly",
+      "order": 2
+    },
+    {
+      "name": "Jeremy Sisto",
+      "character": "Scott",
+      "order": 3
+    },
+    {
+      "name": "Kevin Zegers",
+      "character": "Evan",
+      "order": 4
+    },
+    {
+      "name": "Lindy Booth",
+      "character": "Francine",
+      "order": 5
+    },
+    {
+      "name": "Julian Richings",
+      "character": "Three Finger",
+      "order": 6
+    },
+    {
+      "name": "Garry Robbins",
+      "character": "Saw-Tooth",
+      "order": 7
+    },
+    {
+      "name": "James Downing",
+      "character": "Trucker",
+      "order": 8
+    },
+    {
+      "name": "Wayne Robson",
+      "character": "Old Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg",
+  "backdrop_path": "/uDN5vOzXjtThKdu4W07Xwk5IFub.jpg",
+  "budget": 12600000,
+  "revenue": 28650575,
+  "vote_average": 6.383,
+  "vote_count": 2943,
+  "imdb_id": "tt0295700",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "LT",
+      "rating": "N-16"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

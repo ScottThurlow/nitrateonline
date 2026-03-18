@@ -1,0 +1,213 @@
+{
+  "tmdb_id": 9884,
+  "title": "Collateral Damage",
+  "original_title": "Collateral Damage",
+  "release_date": "2002-02-06",
+  "runtime": 108,
+  "tagline": "Nothing is more dangerous than a man with nothing to lose.",
+  "overview": "Firefighter Gordon Brewer is plunged into the complex and dangerous world of international terrorism after he loses his wife and child in a bombing credited to Claudio 'The Wolf' Perrini.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "David Foster Productions",
+      "country": "US"
+    },
+    {
+      "name": "Hacienda Productions",
+      "country": ""
+    },
+    {
+      "name": "Bel Air Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Davis"
+  ],
+  "writers": [
+    {
+      "name": "Ronald Roose",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Griffiths",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Griffiths",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Hawk Koch",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nicholas Meyer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Reuther",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "character": "Gordy Brewer",
+      "order": 0
+    },
+    {
+      "name": "Francesca Neri",
+      "character": "Selena Perrini",
+      "order": 1
+    },
+    {
+      "name": "Elias Koteas",
+      "character": "Peter Brandt",
+      "order": 2
+    },
+    {
+      "name": "Cliff Curtis",
+      "character": "Claudio Perrini",
+      "order": 3
+    },
+    {
+      "name": "John Leguizamo",
+      "character": "Felix Ramirez",
+      "order": 4
+    },
+    {
+      "name": "John Turturro",
+      "character": "Sean Amstrong",
+      "order": 5
+    },
+    {
+      "name": "Jsu Garcia",
+      "character": "Roman",
+      "order": 6
+    },
+    {
+      "name": "Tyler Posey",
+      "character": "Mauro",
+      "order": 7
+    },
+    {
+      "name": "Michael Milhoan",
+      "character": "Jack",
+      "order": 8
+    },
+    {
+      "name": "Rick Worthy",
+      "character": "Ronnie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rALb2pU8QQGIlYdHezB2F5kwecI.jpg",
+  "backdrop_path": "/tmLZMOhiqYL76PfzTYexXwTnouJ.jpg",
+  "budget": 85000000,
+  "revenue": 78382433,
+  "vote_average": 5.8,
+  "vote_count": 1463,
+  "imdb_id": "tt0233469",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

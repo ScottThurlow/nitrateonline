@@ -1,0 +1,163 @@
+{
+  "tmdb_id": 318,
+  "title": "The Million Dollar Hotel",
+  "original_title": "The Million Dollar Hotel",
+  "release_date": "2000-02-09",
+  "runtime": 122,
+  "tagline": "Everyone has something to hide.",
+  "overview": "A federal agent searches for a potential killer among the bizarre residents of a dilapidated Los Angeles hotel.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Kintop Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Wim Wenders Stiftung",
+      "country": "DE"
+    },
+    {
+      "name": "Road Movies",
+      "country": "DE"
+    },
+    {
+      "name": "Icon Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Wim Wenders"
+  ],
+  "writers": [
+    {
+      "name": "Nicholas Klein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bono",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bono",
+      "job": "Producer"
+    },
+    {
+      "name": "Wim Wenders",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Davey",
+      "job": "Producer"
+    },
+    {
+      "name": "Nicholas Klein",
+      "job": "Producer"
+    },
+    {
+      "name": "Deepak Nayar",
+      "job": "Producer"
+    },
+    {
+      "name": "Ulrich Felsberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "character": "Detective Skinner",
+      "order": 0
+    },
+    {
+      "name": "Milla Jovovich",
+      "character": "Eloise",
+      "order": 1
+    },
+    {
+      "name": "Jeremy Davies",
+      "character": "Tom Tom",
+      "order": 2
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Dixie",
+      "order": 3
+    },
+    {
+      "name": "Amanda Plummer",
+      "character": "Vivien",
+      "order": 4
+    },
+    {
+      "name": "Bud Cort",
+      "character": "Shorty",
+      "order": 5
+    },
+    {
+      "name": "Jimmy Smits",
+      "character": "Geronimo",
+      "order": 6
+    },
+    {
+      "name": "Julian Sands",
+      "character": "Terence Scopey",
+      "order": 7
+    },
+    {
+      "name": "Harris Yulin",
+      "character": "Stanley Goldkiss",
+      "order": 8
+    },
+    {
+      "name": "Conrad Roberts",
+      "character": "Stix",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iGRyPsZF0lfIL3IadmBdoAsYzyn.jpg",
+  "backdrop_path": "/2gUFXKuuJwCYMFAJ1xxy34kI3SM.jpg",
+  "budget": 8000000,
+  "revenue": 105983,
+  "vote_average": 5.881,
+  "vote_count": 370,
+  "imdb_id": "tt0120753",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

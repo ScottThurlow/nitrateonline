@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 55479,
+  "title": "Piñero",
+  "original_title": "Piñero",
+  "release_date": "2001-10-05",
+  "runtime": 103,
+  "tagline": "",
+  "overview": "\"Piñero\" tells the story of the explosive life of a Latino icon, the gay poet-playwright-actor Miguel Piñero, whose urban poetry is recognized as a pre-cursor to rap and hip-hop. After doing time in hard-core Sing-Sing for petty thefts and drug dealing, Piñero's prison experiences developed into the 1974 Tony-nominated play Short Eyes. The resulting notoriety and fame was too much for the Latino bad-boy genius who retreated to the darker corners of New York City.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Burnside Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Lower East Side Films",
+      "country": ""
+    },
+    {
+      "name": "GreeneStreet Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Leon Ichaso"
+  ],
+  "writers": [
+    {
+      "name": "Leon Ichaso",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Penotti",
+      "job": "Producer"
+    },
+    {
+      "name": "Fisher Stevens",
+      "job": "Producer"
+    },
+    {
+      "name": "Bradley Yonover",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tim Williams",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Benjamin Bratt",
+      "character": "Miguel Piñero",
+      "order": 0
+    },
+    {
+      "name": "Giancarlo Esposito",
+      "character": "Miguel Algarin",
+      "order": 1
+    },
+    {
+      "name": "Talisa Soto",
+      "character": "Sugar",
+      "order": 2
+    },
+    {
+      "name": "Nelson Vasquez",
+      "character": "Tito Goya",
+      "order": 3
+    },
+    {
+      "name": "Panchito Gómez",
+      "character": "Acting Inmate",
+      "order": 4
+    },
+    {
+      "name": "Michael Wright",
+      "character": "Edgar Bowser",
+      "order": 5
+    },
+    {
+      "name": "Michael Irby",
+      "character": "Reinaldo Povod",
+      "order": 6
+    },
+    {
+      "name": "Rita Moreno",
+      "character": "Miguel's Mother",
+      "order": 7
+    },
+    {
+      "name": "Jaime Sánchez",
+      "character": "Miguel's Father",
+      "order": 8
+    },
+    {
+      "name": "Rome Neal",
+      "character": "Jake",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rn1jbfASOd9cndsUr5Tt25jHsVZ.jpg",
+  "backdrop_path": "/k3bHHMRuTuqlaqH5rnKGhhzLPDw.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.864,
+  "vote_count": 11,
+  "imdb_id": "tt0261066",
+  "certifications": [],
+  "status": "Released"
+}

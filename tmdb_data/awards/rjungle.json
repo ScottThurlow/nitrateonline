@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 9 nominations total",
+  "rated": "G",
+  "released": "14 Feb 2003",
+  "runtime": "72 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Steve Trenbirth",
+  "writer": "Karl Geurs, Carter Crocker, Evan Spiliotopoulos",
+  "actors": "John Goodman, Haley Joel Osment, Tony Jay",
+  "plot": "Jungle boy Mowgli (voiced by Osment) decides to forsake civilized village life for the \"bare necessities\" of the wild with his old friends. However, the evil tiger Shere Khan is looking for a little payback after Mowgli's last adventure. Trouble's a-brewing!",
+  "language": "English",
+  "country": "United States, Australia, France",
+  "metascore": "38",
+  "imdb_rating": "5.3",
+  "imdb_votes": "19,093",
+  "box_office": "$47,901,582",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Jungle+Book+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/The+Jungle+Book+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0283426/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0283426/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14873"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "tmdb_id": 33255,
+  "title": "Stoked: The Rise and Fall of Gator",
+  "original_title": "Stoked: The Rise and Fall of Gator",
+  "release_date": "2004-06-25",
+  "runtime": 82,
+  "tagline": "The compelling life of Mark \"Gator\" Rogowski, '80s skateboarding superstar, now serving 31 years to life in prison.",
+  "overview": "A documentary exploring the rise and fall of 80s skateboard legend Mark \"Gator\" Rogowski.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "HMS Projects",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Helen Stickler"
+  ],
+  "writers": [
+    {
+      "name": "Helen Stickler",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Helen Stickler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark 'Gator' Rogowski",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Tony Hawk",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Stacy Peralta",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Steve Caballero",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Brandi McClain",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Harry Jumonji",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Tod Swank",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "Jason Jessee",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Lance Mountain",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/j86fTZtXLGEYhOtBLLyfRonYJ5Z.jpg",
+  "backdrop_path": "/wui1W76WmS6f27LSBN3BDnAwlqq.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.867,
+  "vote_count": 15,
+  "imdb_id": "tt0271211",
+  "certifications": [],
+  "status": "Released"
+}

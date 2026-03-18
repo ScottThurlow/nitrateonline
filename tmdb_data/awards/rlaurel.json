@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 6 nominations total",
+  "rated": "R",
+  "released": "28 Mar 2003",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Lisa Cholodenko",
+  "writer": "Lisa Cholodenko",
+  "actors": "Frances McDormand, Alessandro Nivola, Christian Bale",
+  "plot": "Newly graduated psychiatrist Sam and his fiancee Alex move to Los Angeles for Sam's residency and into Sam's mother's house in upscale Laurel Canyon. Only problem is, Sam's mother is still there, supposedly finishing up a record that she's producing for the band of her new boy toy, Ian. She seems more interested in smoking pot and drinking than actually working though. Alex doesn't mind but Sam is quite upset. Alex starts off focused on her work (finishing a dissertation on genomics), but is soon distracted by the rock-'n-roll lifestyle going on around her. Meanwhile, Sam is equally distracted by beautiful Israeli intern Sara.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "6.4",
+  "imdb_votes": "17,739",
+  "box_office": "$3,663,356",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "68%",
+      "link": "https://www.rottentomatoes.com/search?search=Laurel+Canyon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Laurel+Canyon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0298408/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0298408/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13819"
+  }
+}

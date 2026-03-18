@@ -1,0 +1,284 @@
+{
+  "tmdb_id": 1954,
+  "title": "The Butterfly Effect",
+  "original_title": "The Butterfly Effect",
+  "release_date": "2004-01-17",
+  "runtime": 113,
+  "tagline": "Change one thing. Change everything.",
+  "overview": "A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "FilmEngine",
+      "country": ""
+    },
+    {
+      "name": "Katalyst Films",
+      "country": "US"
+    },
+    {
+      "name": "BenderSpink",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Eric Bress",
+    "J. Mackye Gruber"
+  ],
+  "writers": [
+    {
+      "name": "J. Mackye Gruber",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Eric Bress",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Bender",
+      "job": "Producer"
+    },
+    {
+      "name": "A.J. Dix",
+      "job": "Producer"
+    },
+    {
+      "name": "J.C. Spink",
+      "job": "Producer"
+    },
+    {
+      "name": "Anthony Rhulen",
+      "job": "Producer"
+    },
+    {
+      "name": "Cale Boyter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Brener",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jason Goldberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Krintzman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ashton Kutcher",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Shively",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ashton Kutcher",
+      "character": "Evan Treborn",
+      "order": 0
+    },
+    {
+      "name": "Amy Smart",
+      "character": "Kayleigh Miller",
+      "order": 1
+    },
+    {
+      "name": "Melora Walters",
+      "character": "Andrea Treborn",
+      "order": 2
+    },
+    {
+      "name": "Elden Henson",
+      "character": "Lenny Kagan",
+      "order": 3
+    },
+    {
+      "name": "William Lee Scott",
+      "character": "Tommy Miller",
+      "order": 4
+    },
+    {
+      "name": "Eric Stoltz",
+      "character": "George Miller",
+      "order": 5
+    },
+    {
+      "name": "Ethan Suplee",
+      "character": "Thumper",
+      "order": 6
+    },
+    {
+      "name": "Logan Lerman",
+      "character": "Evan Treborn age 7",
+      "order": 7
+    },
+    {
+      "name": "John Patrick Amedori",
+      "character": "Evan Treborn age 13",
+      "order": 8
+    },
+    {
+      "name": "Irina Gorovaia",
+      "character": "Kayleigh age 13",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+  "backdrop_path": "/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg",
+  "budget": 13000000,
+  "revenue": 96800000,
+  "vote_average": 7.571,
+  "vote_count": 8098,
+  "imdb_id": "tt0289879",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "NC16"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "TH",
+      "rating": "15"
+    },
+    {
+      "country": "TW",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

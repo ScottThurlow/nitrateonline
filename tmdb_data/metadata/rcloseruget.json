@@ -1,0 +1,126 @@
+{
+  "tmdb_id": 73642,
+  "title": "The Closer You Get",
+  "original_title": "The Closer You Get",
+  "release_date": "2000-12-27",
+  "runtime": 93,
+  "tagline": "For five desperate Irishmen, the perfect girl is abroad.",
+  "overview": "Irish lads send an ad to the Miami Herald inviting fit and enticing women, between the ages of 20 and 21, to live in their isolated Donegal village. The whole town knows about the ad, and it sharpens everyone's sense of the opportunities for happiness already at hand. Kate, a publican with a young daughter, is separating from her husband and catches the eye of a bachelor sheep farmer. Kieran the butcher realizes that his assistant Siobhan is comely, and then he discovers she's fiery as well. Ollie sends off for Dutch skin magazines that the village postmistress won't release to him. The men, and women, find counsel in their movie-loving priest. Will anyone answer the ad?",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Redwave Films",
+      "country": "GB"
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Aileen Ritchie"
+  ],
+  "writers": [
+    {
+      "name": "William Ivory",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Herbie Wave",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Uberto Pasolini",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Huffam",
+      "job": "Producer"
+    },
+    {
+      "name": "Polly Leys",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ian Hart",
+      "character": "Kieran O'Donnell",
+      "order": 0
+    },
+    {
+      "name": "Sean McGinley",
+      "character": "Ian O'Donnell",
+      "order": 1
+    },
+    {
+      "name": "Niamh Cusack",
+      "character": "Kate O'Leary",
+      "order": 2
+    },
+    {
+      "name": "Ruth McCabe",
+      "character": "Mary Mulligan",
+      "order": 3
+    },
+    {
+      "name": "Ewan Stewart",
+      "character": "Pat O'Leary",
+      "order": 4
+    },
+    {
+      "name": "Pat Shortt",
+      "character": "Ollie Doyle",
+      "order": 5
+    },
+    {
+      "name": "Cathleen Bradley",
+      "character": "Siobhan",
+      "order": 6
+    },
+    {
+      "name": "Sean McDonagh",
+      "character": "Sean Mulligan",
+      "order": 7
+    },
+    {
+      "name": "Risteard Cooper",
+      "character": "Father Hubert Mallone",
+      "order": 8
+    },
+    {
+      "name": "Maureen O'Brien",
+      "character": "Dollie Doyle",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xeENuqgJtRcum0hJCrmUJ8HA4k8.jpg",
+  "backdrop_path": "/uulJ0YS8fYR1qyetKLOUfueq5Bd.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.3,
+  "vote_count": 12,
+  "imdb_id": "tt0218112",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

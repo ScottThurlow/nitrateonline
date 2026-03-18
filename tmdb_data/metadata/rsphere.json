@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 10153,
+  "title": "Sphere",
+  "original_title": "Sphere",
+  "release_date": "1998-02-13",
+  "runtime": 134,
+  "tagline": "Terror can fill any space.",
+  "overview": "A spacecraft is discovered at the bottom of the Pacific Ocean, presumed to be at least 300 years old and of alien origin. A crack team of scientists and experts is assembled and taken to the ocean floor to investigate. However, the ship is not as it seems and when a giant perfect sphere is discovered in the cargo bay, things begin to fall apart.",
+  "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Punch Productions",
+      "country": "US"
+    },
+    {
+      "name": "Baltimore Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Constant c Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Barry Levinson"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Hauser",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Attanasio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Crichton",
+      "job": "Novel"
+    },
+    {
+      "name": "Kurt Wimmer",
+      "job": "Adaptation"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Crichton",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Levinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Wald",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Giuliano",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dustin Hoffman",
+      "character": "Dr. Norman Goodman",
+      "order": 0
+    },
+    {
+      "name": "Sharon Stone",
+      "character": "Dr. Elizabeth 'Beth' Halperin",
+      "order": 1
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Dr. Harry Adams",
+      "order": 2
+    },
+    {
+      "name": "Peter Coyote",
+      "character": "Captain Harold C. Barnes",
+      "order": 3
+    },
+    {
+      "name": "Liev Schreiber",
+      "character": "Dr. Ted Fielding",
+      "order": 4
+    },
+    {
+      "name": "Queen Latifah",
+      "character": "Alice 'Teeny' Fletcher",
+      "order": 5
+    },
+    {
+      "name": "Marga Gómez",
+      "character": "Jane Edmunds",
+      "order": 6
+    },
+    {
+      "name": "Huey Lewis",
+      "character": "Helicopter Pilot",
+      "order": 7
+    },
+    {
+      "name": "Bernard Hocke",
+      "character": "Seaman",
+      "order": 8
+    },
+    {
+      "name": "James Pickens Jr.",
+      "character": "O.S.S.A. Instructor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg",
+  "backdrop_path": "/rSoWawQFVINi3yMyeMfq4aCny0U.jpg",
+  "budget": 80000000,
+  "revenue": 37020277,
+  "vote_average": 6.124,
+  "vote_count": 1778,
+  "imdb_id": "tt0120184",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "LU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

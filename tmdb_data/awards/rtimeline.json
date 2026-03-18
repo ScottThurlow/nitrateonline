@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "26 Nov 2003",
+  "runtime": "116 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Richard Donner",
+  "writer": "Michael Crichton, Jeff Maguire, George Nolfi",
+  "actors": "Paul Walker, Gerard Butler, Billy Connolly",
+  "plot": "A group of archaeologists and combat experts led by Chris Johnston (Paul Walker) and Kate Ericson (Frances O'Connor) use a \"3-D fax machine\" to time-travel back to France in 1357, in hopes of retrieving Chris' father, Professor Edward Johnston (Sir Billy Connolly), and returning safely to the present. No such luck. Fending for themselves against marauding hordes of medieval French warriors at war with the invading British, these semi-intrepid travellers find their body count rising, and the deadline for their return home is rapidly approaching.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "29",
+  "imdb_rating": "5.6",
+  "imdb_votes": "68,835",
+  "box_office": "$19,481,943",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=Timeline"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/Timeline/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0300556/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0300556/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9562"
+  }
+}

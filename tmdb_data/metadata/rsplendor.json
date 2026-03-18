@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 2771,
+  "title": "American Splendor",
+  "original_title": "American Splendor",
+  "release_date": "2003-08-15",
+  "runtime": 101,
+  "tagline": "Ordinary life is pretty complex stuff",
+  "overview": "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "HBO Films",
+      "country": "US"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Shari Springer Berman",
+    "Robert Pulcini"
+  ],
+  "writers": [
+    {
+      "name": "Shari Springer Berman",
+      "job": "Writer"
+    },
+    {
+      "name": "Robert Pulcini",
+      "job": "Writer"
+    },
+    {
+      "name": "Harvey Pekar",
+      "job": "Novel"
+    },
+    {
+      "name": "Joyce Brabner",
+      "job": "Novel"
+    },
+    {
+      "name": "Harvey Pekar",
+      "job": "Comic Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ted Hope",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Paul Giamatti",
+      "character": "Harvey Pekar",
+      "order": 0
+    },
+    {
+      "name": "Hope Davis",
+      "character": "Joyce Brabner",
+      "order": 1
+    },
+    {
+      "name": "Judah Friedlander",
+      "character": "Toby Radloff",
+      "order": 2
+    },
+    {
+      "name": "James Urbaniak",
+      "character": "Robert Crumb",
+      "order": 3
+    },
+    {
+      "name": "Earl Billings",
+      "character": "Mr. Boats",
+      "order": 4
+    },
+    {
+      "name": "James McCaffrey",
+      "character": "Fred",
+      "order": 5
+    },
+    {
+      "name": "Maggie Moore",
+      "character": "Alice Quinn",
+      "order": 6
+    },
+    {
+      "name": "Vivienne Benesch",
+      "character": "Lana",
+      "order": 7
+    },
+    {
+      "name": "Daniel Tay",
+      "character": "Young Harvey",
+      "order": 8
+    },
+    {
+      "name": "Harvey Pekar",
+      "character": "Real Harvey",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rPLMxuk82AiqDiwEUVJ6E7WpjYs.jpg",
+  "backdrop_path": "/51Q6Wyadho2zmOe8yCOdAWDpdGm.jpg",
+  "budget": 2000000,
+  "revenue": 6003587,
+  "vote_average": 7.172,
+  "vote_count": 528,
+  "imdb_id": "tt0305206",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

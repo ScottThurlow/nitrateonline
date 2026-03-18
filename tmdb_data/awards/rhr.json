@@ -1,0 +1,40 @@
+{
+  "year": "2010",
+  "awards": "10 wins & 7 nominations total",
+  "rated": "Not Rated",
+  "released": "04 Mar 2011",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama",
+  "director": "Eran Riklis",
+  "writer": "Noah Stollman, Avraham B. Yehoshua",
+  "actors": "Mark Ivanir, Guri Alfi, Noah Silver",
+  "plot": "A tragi-comedy centered on the HR manager of Israel's largest industrial bakery, who sets out to save the reputation of his business and prevent the publication of a defamatory article.",
+  "language": "Hebrew, English, Romanian, French",
+  "country": "Israel, Germany, France, Romania",
+  "metascore": "62",
+  "imdb_rating": "6.6",
+  "imdb_votes": "1,520",
+  "box_office": "$64,014",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "75%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Human+Resources+Manager"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/The+Human+Resources+Manager/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt1311075/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt1311075/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/57400"
+  }
+}

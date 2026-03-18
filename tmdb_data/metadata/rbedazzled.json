@@ -1,0 +1,218 @@
+{
+  "tmdb_id": 1636,
+  "title": "Bedazzled",
+  "original_title": "Bedazzled",
+  "release_date": "2000-10-19",
+  "runtime": 93,
+  "tagline": "Meet the Devil. She's giving Elliott seven wishes. But not a chance in Hell.",
+  "overview": "Elliot Richards, a socially awkward IT worker, is given seven wishes to get the girl of his dreams when he meets a very seductive Satan. The catch: his soul. Some of his wishes include being a 7 foot basketball star, a wealthy, powerful man, and a sensitive caring guy. But, as could be expected, the Devil puts her own little twist on each of his fantasies.",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "KirchMedia",
+      "country": "DE"
+    },
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Taurus Film",
+      "country": "DE"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Harold Ramis"
+  ],
+  "writers": [
+    {
+      "name": "Larry Gelbart",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Harold Ramis",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Tolan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Trevor Albert",
+      "job": "Producer"
+    },
+    {
+      "name": "Harold Ramis",
+      "job": "Producer"
+    },
+    {
+      "name": "Neil Machlis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brendan Fraser",
+      "character": "Elliot",
+      "order": 0
+    },
+    {
+      "name": "Elizabeth Hurley",
+      "character": "The Devil",
+      "order": 1
+    },
+    {
+      "name": "Frances O'Connor",
+      "character": "Alison / Nicole",
+      "order": 2
+    },
+    {
+      "name": "Miriam Shor",
+      "character": "Carol / Penthouse Hostess",
+      "order": 3
+    },
+    {
+      "name": "Orlando Jones",
+      "character": "Dan / Esteban / Beach Jock / Sportscaster / African Party Guest",
+      "order": 4
+    },
+    {
+      "name": "Paul Adelstein",
+      "character": "Bob / Roberto / Beach Jock / Sportscaster / Lincoln Aide",
+      "order": 5
+    },
+    {
+      "name": "Toby Huss",
+      "character": "Jerry / Alejandro / Beach Jock / Sportscaster / Lance",
+      "order": 6
+    },
+    {
+      "name": "Gabriel Casseus",
+      "character": "Elliot's Cellmate",
+      "order": 7
+    },
+    {
+      "name": "Brian Doyle-Murray",
+      "character": "Priest",
+      "order": 8
+    },
+    {
+      "name": "Jeff Doucette",
+      "character": "Desk Sergeant",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sBV28EVvWsJRosMsEFCbVmpAZEl.jpg",
+  "backdrop_path": "/uaTVgIzIn02wd1SBTDXouGTpiIG.jpg",
+  "budget": 48000000,
+  "revenue": 90383208,
+  "vote_average": 6.087,
+  "vote_count": 2064,
+  "imdb_id": "tt0230030",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

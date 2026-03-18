@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "16 May 2003",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Neil LaBute",
+  "writer": "Neil LaBute",
+  "actors": "Paul Rudd, Rachel Weisz, Gretchen Mol",
+  "plot": "While visiting an art museum, a nerdy college student named Adam meets an iconoclastic artist named Evelyn and is instantly smitten. As their relationship develops, she gradually encourages Adam to change in various ways that surprise his older friends, Jenny and Philip. However, as events progress, Evelyn's antics become darker and darker as her influence begins to twist Adam and his friends in hurtful ways.",
+  "language": "English",
+  "country": "United States, France, United Kingdom",
+  "metascore": "59",
+  "imdb_rating": "6.6",
+  "imdb_votes": "12,041",
+  "box_office": "$735,992",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Shape+of+Things"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/The+Shape+of+Things/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0308878/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0308878/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22958"
+  }
+}

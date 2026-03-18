@@ -1,0 +1,158 @@
+{
+  "tmdb_id": 9696,
+  "title": "Ichi the Killer",
+  "original_title": "殺し屋1",
+  "release_date": "2001-12-22",
+  "runtime": 129,
+  "tagline": "Love really hurts.",
+  "overview": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese",
+    "Cantonese"
+  ],
+  "production_companies": [
+    {
+      "name": "Omega Project",
+      "country": "JP"
+    },
+    {
+      "name": "Omega Micott",
+      "country": "JP"
+    },
+    {
+      "name": "Excell Film Agentur",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Takashi Miike"
+  ],
+  "writers": [
+    {
+      "name": "Sakichi Sato",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hideo Yamamoto",
+      "job": "Comic Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dai Miyazaki",
+      "job": "Producer"
+    },
+    {
+      "name": "Akiko Funatsu",
+      "job": "Producer"
+    },
+    {
+      "name": "Toyoyuki Yokohama",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Albert Yeung",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tadanobu Asano",
+      "character": "Kakihara",
+      "order": 0
+    },
+    {
+      "name": "Nao Omori",
+      "character": "Ichi",
+      "order": 1
+    },
+    {
+      "name": "Shinya Tsukamoto",
+      "character": "Jijii",
+      "order": 2
+    },
+    {
+      "name": "SABU",
+      "character": "Kaneko",
+      "order": 3
+    },
+    {
+      "name": "Paulyn Sun",
+      "character": "Karen",
+      "order": 4
+    },
+    {
+      "name": "Susumu Terajima",
+      "character": "Suzuki",
+      "order": 5
+    },
+    {
+      "name": "Shun Sugata",
+      "character": "Takayama",
+      "order": 6
+    },
+    {
+      "name": "Toru Tezuka",
+      "character": "Fujiwara",
+      "order": 7
+    },
+    {
+      "name": "Yoshiki Arizono",
+      "character": "Nakazawa",
+      "order": 8
+    },
+    {
+      "name": "Kiyohiko Shibukawa",
+      "character": "Ryu Long",
+      "order": 9
+    }
+  ],
+  "poster_path": "/k8j4YLZlda98dqp9ErymKzjYowG.jpg",
+  "backdrop_path": "/aw0EeseSr10dVUuY6Aiv6HhP8UW.jpg",
+  "budget": 1400010,
+  "revenue": 80631,
+  "vote_average": 6.987,
+  "vote_count": 1080,
+  "imdb_id": "tt0296042",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 4 nominations total",
+  "rated": "PG-13",
+  "released": "12 Nov 1999",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama",
+  "director": "Wayne Wang",
+  "writer": "Mona Simpson, Alvin Sargent",
+  "actors": "Susan Sarandon, Natalie Portman, Hart Bochner",
+  "plot": "Fed up with her small-town Bay City existence, Adele August leaves her family and second husband and heads for Beverley Hills with her daughter. The teenager resents the move and her mother's always flamboyant behaviour and in turns plans to get away to university on the east coast. Mum's plans are different - she wants a movie star for a daughter.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "59",
+  "imdb_rating": "6.2",
+  "imdb_votes": "19,412",
+  "box_office": "$18,670,401",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Anywhere+But+Here"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Anywhere+But+Here/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0149691/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0149691/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21349"
+  }
+}

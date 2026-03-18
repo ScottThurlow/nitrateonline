@@ -1,0 +1,71 @@
+{
+  "tmdb_id": 146269,
+  "title": "The Young Unknowns",
+  "original_title": "The Young Unknowns",
+  "release_date": "2000-03-12",
+  "runtime": 87,
+  "tagline": "",
+  "overview": "Charlie, his sexy girlfriend, and his moronic best friend drink, drug, and self-destruct over the course of one day at Charlie's father home in Los Angeles.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Catherine Jelski"
+  ],
+  "writers": [
+    {
+      "name": "Catherine Jelski",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Wolfgang Bauer",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Devon Gummersall",
+      "character": "Charlie",
+      "order": 0
+    },
+    {
+      "name": "Arly Jover",
+      "character": "Paloma",
+      "order": 1
+    },
+    {
+      "name": "Eion Bailey",
+      "character": "Joe",
+      "order": 2
+    },
+    {
+      "name": "Leslie Bibb",
+      "character": "Cassandra",
+      "order": 3
+    },
+    {
+      "name": "Dale Godboldo",
+      "character": "Franklin",
+      "order": 4
+    },
+    {
+      "name": "Simon Templeman",
+      "character": "Sebastyn",
+      "order": 5
+    }
+  ],
+  "poster_path": null,
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.0,
+  "vote_count": 5,
+  "imdb_id": "tt0186719",
+  "certifications": [],
+  "status": "Released"
+}

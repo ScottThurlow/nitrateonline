@@ -1,0 +1,235 @@
+{
+  "tmdb_id": 9919,
+  "title": "How to Lose a Guy in 10 Days",
+  "original_title": "How to Lose a Guy in 10 Days",
+  "release_date": "2003-02-07",
+  "runtime": 116,
+  "tagline": "One of them is lying. So is the other.",
+  "overview": "It's the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking—and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Robert Evans Productions",
+      "country": "US"
+    },
+    {
+      "name": "Lynda Obst Productions",
+      "country": "US"
+    },
+    {
+      "name": "Christine Peters Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Donald Petrie"
+  ],
+  "writers": [
+    {
+      "name": "Kristen Buckley",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian Regan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Burr Steers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michele Alexander",
+      "job": "Book"
+    },
+    {
+      "name": "Jeannie Long",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Evans",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Forsyth-Peters",
+      "job": "Producer"
+    },
+    {
+      "name": "Lynda Obst",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Vane",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Hudson",
+      "character": "Andie Anderson",
+      "order": 0
+    },
+    {
+      "name": "Matthew McConaughey",
+      "character": "Benjamin Barry",
+      "order": 1
+    },
+    {
+      "name": "Kathryn Hahn",
+      "character": "Michelle Rubin",
+      "order": 2
+    },
+    {
+      "name": "Annie Parisse",
+      "character": "Jeannie Ashcroft",
+      "order": 3
+    },
+    {
+      "name": "Adam Goldberg",
+      "character": "Tony",
+      "order": 4
+    },
+    {
+      "name": "Thomas Lennon",
+      "character": "Thayer",
+      "order": 5
+    },
+    {
+      "name": "Michael Michele",
+      "character": "Judy Spears",
+      "order": 6
+    },
+    {
+      "name": "Shalom Harlow",
+      "character": "Judy Green",
+      "order": 7
+    },
+    {
+      "name": "Robert Klein",
+      "character": "Phillip Warren",
+      "order": 8
+    },
+    {
+      "name": "Bebe Neuwirth",
+      "character": "Lana Jong",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+  "backdrop_path": "/cdYj6HFpKp5NTmLiHHbNEGSmDT4.jpg",
+  "budget": 50000000,
+  "revenue": 177500000,
+  "vote_average": 6.86,
+  "vote_count": 4394,
+  "imdb_id": "tt0251127",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,156 @@
+{
+  "tmdb_id": 17920,
+  "title": "I Capture the Castle",
+  "original_title": "I Capture the Castle",
+  "release_date": "2003-05-09",
+  "runtime": 113,
+  "tagline": "You can't choose who you fall in love with",
+  "overview": "In 1930s England, 17-year-old Cassandra Mortmain and her eccentric family struggle to survive in a decaying English castle.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Take 3 Partnership",
+      "country": ""
+    },
+    {
+      "name": "Trademark Films",
+      "country": "GB"
+    },
+    {
+      "name": "Isle of Man Film Commission",
+      "country": ""
+    },
+    {
+      "name": "BBC",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Tim Fywell"
+  ],
+  "writers": [
+    {
+      "name": "Irena Brignull",
+      "job": "Script Editor"
+    },
+    {
+      "name": "Heidi Thomas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dodie Smith",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Parfitt",
+      "job": "Producer"
+    },
+    {
+      "name": "David M. Thompson",
+      "job": "Producer"
+    },
+    {
+      "name": "Anant Singh",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Romola Garai",
+      "character": "Cassandra Mortmain",
+      "order": 0
+    },
+    {
+      "name": "Rose Byrne",
+      "character": "Rose Mortmain",
+      "order": 1
+    },
+    {
+      "name": "Tara Fitzgerald",
+      "character": "Topaz Mortmain",
+      "order": 2
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "James Mortmain",
+      "order": 3
+    },
+    {
+      "name": "Henry Thomas",
+      "character": "Simon Cotton",
+      "order": 4
+    },
+    {
+      "name": "Henry Cavill",
+      "character": "Stephen Colley",
+      "order": 5
+    },
+    {
+      "name": "Marc Blucas",
+      "character": "Neil Cotton",
+      "order": 6
+    },
+    {
+      "name": "Sinéad Cusack",
+      "character": "Mrs Cotton",
+      "order": 7
+    },
+    {
+      "name": "Joe Sowerbutts",
+      "character": "Thomas",
+      "order": 8
+    },
+    {
+      "name": "Sophie Stuckey",
+      "character": "Cassandra (aged 7)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fGV45q9gyysfp9SdoqrrReVxC9a.jpg",
+  "backdrop_path": "/5fzp2qAtmSdKWPk5YaeZ3WyBDcx.jpg",
+  "budget": 8000000,
+  "revenue": 6586341,
+  "vote_average": 6.737,
+  "vote_count": 97,
+  "imdb_id": "tt0300015",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

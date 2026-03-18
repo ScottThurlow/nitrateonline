@@ -1,0 +1,95 @@
+{
+  "tmdb_id": 35118,
+  "title": "Diamonds",
+  "original_title": "Diamonds",
+  "release_date": "1999-12-10",
+  "runtime": 91,
+  "tagline": "Hunting for buried treasure was never this much fun.",
+  "overview": "Mystery about an ex-prizefighter who embarks on a journey to find 13 missing diamonds",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "German",
+    "Polish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Asher"
+  ],
+  "writers": [
+    {
+      "name": "Allan Aaron Katz",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Kirk Douglas",
+      "character": "Harry Agensky",
+      "order": 0
+    },
+    {
+      "name": "Dan Aykroyd",
+      "character": "Lance Agensky",
+      "order": 1
+    },
+    {
+      "name": "Corbin Allred",
+      "character": "Michael Agensky",
+      "order": 2
+    },
+    {
+      "name": "Lauren Bacall",
+      "character": "Sin-Dee",
+      "order": 3
+    },
+    {
+      "name": "Kurt Fuller",
+      "character": "Moses Agensky",
+      "order": 4
+    },
+    {
+      "name": "Jenny McCarthy",
+      "character": "Sugar",
+      "order": 5
+    },
+    {
+      "name": "Mariah O'Brien",
+      "character": "Tiffany",
+      "order": 6
+    },
+    {
+      "name": "June Chadwick",
+      "character": "Roseanne Agensky",
+      "order": 7
+    },
+    {
+      "name": "Lee Tergesen",
+      "character": "Border Guard",
+      "order": 8
+    },
+    {
+      "name": "Val Bisoglio",
+      "character": "Tarzan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/AjZvoJIGOOu8d1XIJ5QEFcGbTOy.jpg",
+  "backdrop_path": "/uKuME1eBopw6Hr8goF3kc8nrPiZ.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.1,
+  "vote_count": 20,
+  "imdb_id": "tt0167423",
+  "status": "Released"
+}

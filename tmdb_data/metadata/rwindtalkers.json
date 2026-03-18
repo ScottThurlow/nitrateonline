@@ -1,0 +1,289 @@
+{
+  "tmdb_id": 12100,
+  "title": "Windtalkers",
+  "original_title": "Windtalkers",
+  "release_date": "2002-06-07",
+  "runtime": 134,
+  "tagline": "Honor Was Their Code.",
+  "overview": "Joe Enders is a gung-ho Marine assigned to protect a \"windtalker\" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.",
+  "genres": [
+    "War",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English",
+    "Navajo",
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Lion Rock Productions",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Woo"
+  ],
+  "writers": [
+    {
+      "name": "John Rice",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joe Batteer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Terence Chang",
+      "job": "Producer"
+    },
+    {
+      "name": "Alison R. Rosenzweig",
+      "job": "Producer"
+    },
+    {
+      "name": "Tracie Graham-Rice",
+      "job": "Producer"
+    },
+    {
+      "name": "John Woo",
+      "job": "Producer"
+    },
+    {
+      "name": "C.O. Erickson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicolas Cage",
+      "character": "Sergeant Joe Enders",
+      "order": 0
+    },
+    {
+      "name": "Adam Beach",
+      "character": "Private Ben Yahzee",
+      "order": 1
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Sergeant Eric Hjelmstad",
+      "order": 2
+    },
+    {
+      "name": "Noah Emmerich",
+      "character": "Corporal Charles Rogers",
+      "order": 3
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Pappas",
+      "order": 4
+    },
+    {
+      "name": "Brian Van Holt",
+      "character": "Harrigan",
+      "order": 5
+    },
+    {
+      "name": "Martin Henderson",
+      "character": "Private Nellie",
+      "order": 6
+    },
+    {
+      "name": "Roger Willie",
+      "character": "Charlie Whitehorse",
+      "order": 7
+    },
+    {
+      "name": "Frances O'Connor",
+      "character": "Rita Swelton",
+      "order": 8
+    },
+    {
+      "name": "Christian Slater",
+      "character": "Sergeant Peter Henderson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/547q4HXlvEcS06lujfb2yzsTP3H.jpg",
+  "backdrop_path": "/xr60oCXkfFIqMRJ4YxtMiD53zBy.jpg",
+  "budget": 115000000,
+  "revenue": 77600000,
+  "vote_average": 6.33,
+  "vote_count": 1378,
+  "imdb_id": "tt0245562",
+  "certifications": [
+    {
+      "country": "AN",
+      "rating": "16"
+    },
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CO",
+      "rating": "15"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "EG",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IL",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MY",
+      "rating": "18SG"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "16"
+    },
+    {
+      "country": "PE",
+      "rating": "14"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "RO",
+      "rating": "16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "UA",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "5 wins & 7 nominations total",
+  "rated": "R",
+  "released": "09 Apr 1999",
+  "runtime": "102 min",
+  "genre": "Comedy, Crime",
+  "director": "Doug Liman",
+  "writer": "John August",
+  "actors": "Sarah Polley, Jay Mohr, Scott Wolf",
+  "plot": "Told from three perspectives, a story of a bunch of young Californians trying to get some cash, do and deal some drugs, score money and sex in Las Vegas, and generally experience the rush of life.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "74",
+  "imdb_rating": "7.2",
+  "imdb_votes": "77,949",
+  "box_office": "$16,943,454",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Go"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/Go/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139239/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139239/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9430"
+  }
+}

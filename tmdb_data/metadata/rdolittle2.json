@@ -1,0 +1,177 @@
+{
+  "tmdb_id": 10808,
+  "title": "Dr. Dolittle 2",
+  "original_title": "Dr. Dolittle 2",
+  "release_date": "2001-06-22",
+  "runtime": 87,
+  "tagline": "The doctor is in again.",
+  "overview": "A group of beavers ask Dr. Dolittle to save their habitat from loggers. The only hope is to get the forest preserved because it's the home of a protected bear, but there's a problem: the bear's the only bear in the forest, so she can't reproduce. Undaunted, Dolittle persuades a circus bear to help out, but he has to teach him not just the ways of the wild, but the wiles of lady bears too.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Joseph M. Singer Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Carr"
+  ],
+  "writers": [
+    {
+      "name": "Larry Levin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hugh Lofting",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph Singer",
+      "job": "Producer"
+    },
+    {
+      "name": "Neil Machlis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "Dr. John Dolittle",
+      "order": 0
+    },
+    {
+      "name": "Kristen Wilson",
+      "character": "Lisa Dolittle",
+      "order": 1
+    },
+    {
+      "name": "Kyla Pratt",
+      "character": "Maya Dolittle",
+      "order": 2
+    },
+    {
+      "name": "Raven-Symoné",
+      "character": "Charisse Dolittle",
+      "order": 3
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Archie (voice)",
+      "order": 4
+    },
+    {
+      "name": "Lisa Kudrow",
+      "character": "Ava (voice)",
+      "order": 5
+    },
+    {
+      "name": "James Avery",
+      "character": "Eldon",
+      "order": 6
+    },
+    {
+      "name": "Andy Richter",
+      "character": "Eugene Wilson",
+      "order": 7
+    },
+    {
+      "name": "Lil' Zane",
+      "character": "Eric",
+      "order": 8
+    },
+    {
+      "name": "Denise Dowse",
+      "character": "Secretary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg",
+  "backdrop_path": "/VtFa6Ph0xCO6QJ86ihCrpsDBIO.jpg",
+  "budget": 70000000,
+  "revenue": 176100000,
+  "vote_average": 5.314,
+  "vote_count": 1743,
+  "imdb_id": "tt0240462",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PH",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

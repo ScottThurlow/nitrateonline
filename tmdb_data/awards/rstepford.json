@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "3 wins total",
+  "rated": "PG-13",
+  "released": "11 Jun 2004",
+  "runtime": "93 min",
+  "genre": "Comedy, Horror, Sci-Fi",
+  "director": "Frank Oz",
+  "writer": "Ira Levin, Paul Rudnick",
+  "actors": "Nicole Kidman, Bette Midler, Matthew Broderick",
+  "plot": "Joanna Eberhart, a wildly successful president of a TV Network, after a series of shocking events, suffers a nervous breakdown and is moved by her milquetoast of a husband, Walter, from Manhattan to the chic, upper-class, and very modern planned community of Stepford, Connecticut. Once there, she makes good friends with the acerbic Bobbie Markowitz, a Jewish writer who's also a recovering alcoholic. Together they find out, much to their growing stupor and-then horror, that all the housewives in town are strangely blissful and, somehow... doomed. What is going on behind the closed doors of the Stepford Men's Association and the Stepford Day Spa? Why is everything perfect here? Will it be too late for Joanna and Bobbie when they finally find out?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "5.4",
+  "imdb_votes": "72,770",
+  "box_office": "$59,484,742",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Stepford+Wives"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/The+Stepford+Wives/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0327162/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0327162/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9890"
+  }
+}

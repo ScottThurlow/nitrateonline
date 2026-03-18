@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 11091,
+  "title": "Riding in Cars with Boys",
+  "original_title": "Riding in Cars with Boys",
+  "release_date": "2001-10-19",
+  "runtime": 132,
+  "tagline": "She did everything wrong, but got everything right.",
+  "overview": "In 1965, a young woman with dreams of becoming a writer has a son at the age of 15 and struggles to make things work with the drug-addicted father.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gracie Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Penny Marshall"
+  ],
+  "writers": [
+    {
+      "name": "Morgan Ward",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Beverly D'Onofrio",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Julie Ansell",
+      "job": "Producer"
+    },
+    {
+      "name": "Morgan Ward",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James L. Brooks",
+      "job": "Producer"
+    },
+    {
+      "name": "Bridget Johnson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Sakai",
+      "job": "Producer"
+    },
+    {
+      "name": "Laurence Mark",
+      "job": "Producer"
+    },
+    {
+      "name": "Sara Colleton",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Drew Barrymore",
+      "character": "Beverly Donofrio",
+      "order": 0
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Ray Hasek",
+      "order": 1
+    },
+    {
+      "name": "Adam Garcia",
+      "character": "Jason",
+      "order": 2
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Fay Forrester",
+      "order": 3
+    },
+    {
+      "name": "James Woods",
+      "character": "Leonard Donofrio",
+      "order": 4
+    },
+    {
+      "name": "Lorraine Bracco",
+      "character": "Teresa Donofrio",
+      "order": 5
+    },
+    {
+      "name": "Rosie Perez",
+      "character": "Shirley Perro",
+      "order": 6
+    },
+    {
+      "name": "Sara Gilbert",
+      "character": "Tina Barr",
+      "order": 7
+    },
+    {
+      "name": "Peter Facinelli",
+      "character": "Tommy Butcher",
+      "order": 8
+    },
+    {
+      "name": "Mika Boorem",
+      "character": "Beverly Donofrio (Age 11)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lz8FCZAzfr2gzju6YM4s7UCZugL.jpg",
+  "backdrop_path": "/wXax3nRWlZDfRqgrmBIKfE2OnaJ.jpg",
+  "budget": 48000000,
+  "revenue": 35700000,
+  "vote_average": 6.732,
+  "vote_count": 474,
+  "imdb_id": "tt0200027",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

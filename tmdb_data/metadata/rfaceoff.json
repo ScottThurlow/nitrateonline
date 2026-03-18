@@ -1,0 +1,209 @@
+{
+  "tmdb_id": 754,
+  "title": "Face/Off",
+  "original_title": "Face/Off",
+  "release_date": "1997-06-27",
+  "runtime": 139,
+  "tagline": "In order to trap him, he must become him.",
+  "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "Latin"
+  ],
+  "production_companies": [
+    {
+      "name": "WCG Entertainment Productions",
+      "country": "US"
+    },
+    {
+      "name": "Douglas/Reuther Productions",
+      "country": "US"
+    },
+    {
+      "name": "David Permut Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Woo"
+  ],
+  "writers": [
+    {
+      "name": "Michael Colleary",
+      "job": "Writer"
+    },
+    {
+      "name": "Mike Werb",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barrie M. Osborne",
+      "job": "Producer"
+    },
+    {
+      "name": "David Permut",
+      "job": "Producer"
+    },
+    {
+      "name": "Terence Chang",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Reuther",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan D. Krane",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Douglas",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Godsick",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "Sean Archer",
+      "order": 0
+    },
+    {
+      "name": "Nicolas Cage",
+      "character": "Castor Troy",
+      "order": 1
+    },
+    {
+      "name": "Joan Allen",
+      "character": "Eve Archer",
+      "order": 2
+    },
+    {
+      "name": "Alessandro Nivola",
+      "character": "Pollux Troy",
+      "order": 3
+    },
+    {
+      "name": "Gina Gershon",
+      "character": "Sasha Hassler",
+      "order": 4
+    },
+    {
+      "name": "Dominique Swain",
+      "character": "Jamie Archer",
+      "order": 5
+    },
+    {
+      "name": "Nick Cassavetes",
+      "character": "Dietrich Hassler",
+      "order": 6
+    },
+    {
+      "name": "Harve Presnell",
+      "character": "Victor Lazarro",
+      "order": 7
+    },
+    {
+      "name": "Colm Feore",
+      "character": "Dr. Malcolm Walsh",
+      "order": 8
+    },
+    {
+      "name": "John Carroll Lynch",
+      "character": "Prison Guard Walton",
+      "order": 9
+    }
+  ],
+  "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+  "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+  "budget": 80000000,
+  "revenue": 245700000,
+  "vote_average": 7.052,
+  "vote_count": 5795,
+  "imdb_id": "tt0119094",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

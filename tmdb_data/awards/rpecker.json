@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 1 nomination total",
+  "rated": "R",
+  "released": "09 Oct 1998",
+  "runtime": "87 min",
+  "genre": "Comedy, Drama",
+  "director": "John Waters",
+  "writer": "John Waters",
+  "actors": "Edward Furlong, Christina Ricci, Bess Armstrong",
+  "plot": "A Baltimore sandwich shop employee becomes an overnight sensation when a photographer's photos he's taken of his weird family become the latest rage in the art world.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "65",
+  "imdb_rating": "6.3",
+  "imdb_votes": "15,491",
+  "box_office": "$2,281,761",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=Pecker"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/Pecker/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0126604/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0126604/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11855"
+  }
+}

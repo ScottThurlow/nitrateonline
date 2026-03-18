@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 9390,
+  "title": "Jerry Maguire",
+  "original_title": "Jerry Maguire",
+  "release_date": "1996-12-13",
+  "runtime": 139,
+  "tagline": "Everybody loved him... Everybody disappeared. The journey is everything.",
+  "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gracie Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Cameron Crowe"
+  ],
+  "writers": [
+    {
+      "name": "Cameron Crowe",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cameron Crowe",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Sakai",
+      "job": "Producer"
+    },
+    {
+      "name": "Laurence Mark",
+      "job": "Producer"
+    },
+    {
+      "name": "James L. Brooks",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "character": "Jerry Maguire",
+      "order": 0
+    },
+    {
+      "name": "Renée Zellweger",
+      "character": "Dorothy Boyd",
+      "order": 1
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Rod Tidwell",
+      "order": 2
+    },
+    {
+      "name": "Kelly Preston",
+      "character": "Avery Bishop",
+      "order": 3
+    },
+    {
+      "name": "Jerry O'Connell",
+      "character": "Frank Cushman",
+      "order": 4
+    },
+    {
+      "name": "Jay Mohr",
+      "character": "Bob Sugar",
+      "order": 5
+    },
+    {
+      "name": "Regina King",
+      "character": "Marcee Tidwell",
+      "order": 6
+    },
+    {
+      "name": "Bonnie Hunt",
+      "character": "Laurel Boyd",
+      "order": 7
+    },
+    {
+      "name": "Jonathan Lipnicki",
+      "character": "Ray Boyd",
+      "order": 8
+    },
+    {
+      "name": "Todd Louiso",
+      "character": "Chad the Nanny",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+  "backdrop_path": "/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg",
+  "budget": 50000000,
+  "revenue": 273600000,
+  "vote_average": 6.977,
+  "vote_count": 3630,
+  "imdb_id": "tt0116695",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

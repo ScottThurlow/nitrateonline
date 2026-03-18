@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "8 wins & 17 nominations total",
+  "rated": "PG",
+  "released": "29 Sep 2000",
+  "runtime": "113 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Boaz Yakin",
+  "writer": "Gregory Allen Howard",
+  "actors": "Denzel Washington, Will Patton, Wood Harris",
+  "plot": "Suburban Virginia schools have been segregated for generations. One Black and one White high school are closed and the students sent to T.C. Williams High School under federal mandate to integrate. The year is seen through the eyes of the football team where the man hired to coach the Black school is made head coach over the highly successful white coach. Based on the actual events of 1971, the team becomes the unifying symbol for the community as the boys and the adults learn to depend on and trust each other.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "48",
+  "imdb_rating": "7.8",
+  "imdb_votes": "246,651",
+  "box_office": "$115,719,751",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Remember+the+Titans"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Remember+the+Titans/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0210945/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0210945/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10637"
+  }
+}

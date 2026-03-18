@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "7 nominations total",
+  "rated": "R",
+  "released": "11 Feb 2000",
+  "runtime": "119 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Danny Boyle",
+  "writer": "John Hodge, Alex Garland",
+  "actors": "Leonardo DiCaprio, Tilda Swinton, Daniel York Loh",
+  "plot": "Garland's novel centers on a young nicotine-addicted traveler named Richard, an avid pop-culture buff with a particular love for video games and Vietnam War movies. While at a hotel in Bangkok, he finds a map left by his strange, whacked-out neighbor, who just committed suicide. The map supposedly leads to a legendary island paradise where some other wayward souls have settled.",
+  "language": "English, Mandingo, French, Swedish, Thai, Serbian",
+  "country": "United Kingdom, United States",
+  "metascore": "43",
+  "imdb_rating": "6.6",
+  "imdb_votes": "266,041",
+  "box_office": "$39,785,027",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "21%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Beach"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/The+Beach/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0163978/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0163978/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1907"
+  }
+}

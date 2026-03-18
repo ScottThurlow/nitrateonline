@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 wins & 36 nominations total",
+  "rated": "R",
+  "released": "05 Nov 2003",
+  "runtime": "129 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "writer": "Lilly Wachowski, Lana Wachowski",
+  "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+  "plot": "Neo finds himself trapped between the Matrix and the Real World. Meanwhile, Zion is preparing for the oncoming war with the machines with very little chances of survival. Neo's associates set out to free him from The Merovingian since it's believed that he is the One who will end the war between humans and the machines. What they do not know is that there is a threat from a third party, someone who has plans to destroy both worlds.",
+  "language": "English, French",
+  "country": "United States, Australia",
+  "metascore": "47",
+  "imdb_rating": "6.7",
+  "imdb_votes": "572,491",
+  "box_office": "$139,313,948",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "33%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Matrix+Revolutions"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/The+Matrix+Revolutions/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0242653/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0242653/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/605"
+  }
+}

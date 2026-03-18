@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 37498,
+  "title": "Knock Off",
+  "original_title": "Knock Off",
+  "release_date": "1998-09-04",
+  "runtime": 91,
+  "tagline": "There is no substitute.",
+  "overview": "A fashion designer and his CIA agent business partner must join forces to stop a group of terrorists from smuggling explosives in counterfeit jeans during the handover of Hong Kong.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Cantonese",
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Film Workshop",
+      "country": "HK"
+    },
+    {
+      "name": "MDP Worldwide",
+      "country": "US"
+    },
+    {
+      "name": "Knock Films A.V.V.",
+      "country": ""
+    },
+    {
+      "name": "Val D'Oro Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Tsui Hark"
+  ],
+  "writers": [
+    {
+      "name": "Steven E. de Souza",
+      "job": "Writer"
+    },
+    {
+      "name": "Choo Sung-Pong",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Moshe Diamant",
+      "job": "Producer"
+    },
+    {
+      "name": "Shi Nansun",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jean-Claude Van Damme",
+      "character": "Marcus Ray",
+      "order": 0
+    },
+    {
+      "name": "Rob Schneider",
+      "character": "Tommy Hendricks",
+      "order": 1
+    },
+    {
+      "name": "Lela Rochon",
+      "character": "Karen Lee",
+      "order": 2
+    },
+    {
+      "name": "Paul Sorvino",
+      "character": "Harry Johanson",
+      "order": 3
+    },
+    {
+      "name": "Michael Wong",
+      "character": "Han",
+      "order": 4
+    },
+    {
+      "name": "Carman Lee Yeuk-Tung",
+      "character": "Ling Ho",
+      "order": 5
+    },
+    {
+      "name": "Wyman Wong Wai-Man",
+      "character": "Eddie Wang",
+      "order": 6
+    },
+    {
+      "name": "Glen Chin",
+      "character": "Skinny",
+      "order": 7
+    },
+    {
+      "name": "Moses Chan Ho",
+      "character": "Officer Fong",
+      "order": 8
+    },
+    {
+      "name": "Lynne Langdon",
+      "character": "V-Six Secretary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hK7hKDA51FCbtFCuXZNiQ6gPq3S.jpg",
+  "backdrop_path": "/cQrq7h8Giz6pDg1jH6kCAjLqI7m.jpg",
+  "budget": 35000000,
+  "revenue": 44000000,
+  "vote_average": 5.338,
+  "vote_count": 396,
+  "imdb_id": "tt0120724",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

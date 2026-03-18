@@ -1,0 +1,229 @@
+{
+  "tmdb_id": 245,
+  "title": "About a Boy",
+  "original_title": "About a Boy",
+  "release_date": "2002-04-26",
+  "runtime": 101,
+  "tagline": "Growing up has nothing to do with age.",
+  "overview": "Will Freeman is a good-looking, smooth-talking bachelor whose primary goal in life is avoiding any kind of responsibility. But when he invents an imaginary son in order to meet attractive single moms, Will gets a hilarious lesson about life from a bright, but hopelessly geeky 12-year-old named Marcus. Now, as Will struggles to teach Marcus the art of being cool, Marcus teaches Will that you're never too old to grow up.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    },
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "Kalima Productions",
+      "country": "DE"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Chris Weitz",
+    "Paul Weitz"
+  ],
+  "writers": [
+    {
+      "name": "Nick Hornby",
+      "job": "Novel"
+    },
+    {
+      "name": "Peter Hedges",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chris Weitz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Weitz",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tim Bevan",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert De Niro",
+      "job": "Producer"
+    },
+    {
+      "name": "Brad Epstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Producer"
+    },
+    {
+      "name": "Jane Rosenthal",
+      "job": "Producer"
+    },
+    {
+      "name": "Nick Hornby",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynn Harris",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hugh Grant",
+      "character": "Will Freeman",
+      "order": 0
+    },
+    {
+      "name": "Nicholas Hoult",
+      "character": "Marcus Brewer",
+      "order": 1
+    },
+    {
+      "name": "Toni Collette",
+      "character": "Fiona Brewer",
+      "order": 2
+    },
+    {
+      "name": "Rachel Weisz",
+      "character": "Rachel",
+      "order": 3
+    },
+    {
+      "name": "Natalia Tena",
+      "character": "Ellie",
+      "order": 4
+    },
+    {
+      "name": "Victoria Smurfit",
+      "character": "Suzie",
+      "order": 5
+    },
+    {
+      "name": "Augustus Prew",
+      "character": "Ali",
+      "order": 6
+    },
+    {
+      "name": "Sharon Small",
+      "character": "Christine",
+      "order": 7
+    },
+    {
+      "name": "Madison Cook",
+      "character": "Imogen",
+      "order": 8
+    },
+    {
+      "name": "Jordan Cook",
+      "character": "Imogen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+  "backdrop_path": "/xxiPjhXigJ4zPiqqrA77FK10ULo.jpg",
+  "budget": 27000000,
+  "revenue": 129000000,
+  "vote_average": 6.69,
+  "vote_count": 2365,
+  "imdb_id": "tt0276751",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 2294,
+  "title": "Jay and Silent Bob Strike Back",
+  "original_title": "Jay and Silent Bob Strike Back",
+  "release_date": "2001-08-22",
+  "runtime": 104,
+  "tagline": "Hollywood had it coming",
+  "overview": "When Jay and Silent Bob learn that their comic-book alter egos, Bluntman and Chronic, have been sold to Hollywood as part of a big-screen movie that leaves them out of any royalties, the pair travels to Tinseltown to sabotage the production.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "View Askew Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Smith"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Smith",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Smith",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Mosier",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Mewes",
+      "character": "Jay",
+      "order": 0
+    },
+    {
+      "name": "Kevin Smith",
+      "character": "Silent Bob",
+      "order": 1
+    },
+    {
+      "name": "Ben Affleck",
+      "character": "Holden McNeil / Ben Affleck",
+      "order": 2
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "character": "Justice",
+      "order": 3
+    },
+    {
+      "name": "Eliza Dushku",
+      "character": "Sissy",
+      "order": 4
+    },
+    {
+      "name": "Ali Larter",
+      "character": "Chrissy",
+      "order": 5
+    },
+    {
+      "name": "Jennifer Schwalbach Smith",
+      "character": "Missy",
+      "order": 6
+    },
+    {
+      "name": "Will Ferrell",
+      "character": "Federal Wildlife Marshal Willenholly",
+      "order": 7
+    },
+    {
+      "name": "Chris Rock",
+      "character": "Chaka Luther King",
+      "order": 8
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Brodie Bruce / Banky Edwards",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aEsAdMAhwKYFgnHHxMOknktQYKK.jpg",
+  "backdrop_path": "/2K4ZRi6bYrl9Ha53uRi4ZyoYuft.jpg",
+  "budget": 22000000,
+  "revenue": 33788161,
+  "vote_average": 6.431,
+  "vote_count": 1704,
+  "imdb_id": "tt0261392",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

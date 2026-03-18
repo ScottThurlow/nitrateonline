@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 12220,
+  "title": "The Story of Us",
+  "original_title": "The Story of Us",
+  "release_date": "1999-10-14",
+  "runtime": 96,
+  "tagline": "Can a marriage survive 15 years of marriage?",
+  "overview": "After 15 years of marriage, Katie and her husband, Ben, have grown apart. While they keep up the facade of having a contented marriage, mostly to not worry their children, they aren't happy together and argue frequently. While the kids are away at camp, Katie and Ben decide to separate and try to reassess their relationship to see if they should stay together or split up for good. ",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Reiner"
+  ],
+  "writers": [
+    {
+      "name": "Alan Zweibel",
+      "job": "Writer"
+    },
+    {
+      "name": "Jessie Nelson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jessie Nelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Zweibel",
+      "job": "Producer"
+    },
+    {
+      "name": "Rob Reiner",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Stott",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Frank Capra III",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "Ben Jordan",
+      "order": 0
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Katie Jordan",
+      "order": 1
+    },
+    {
+      "name": "Rob Reiner",
+      "character": "Stan Kogen",
+      "order": 2
+    },
+    {
+      "name": "Colleen Rennison",
+      "character": "Erin Jordan (at Ten)",
+      "order": 3
+    },
+    {
+      "name": "Jake Sandvig",
+      "character": "Josh Jordan (at Twelve)",
+      "order": 4
+    },
+    {
+      "name": "Julie Hagerty",
+      "character": "Liza",
+      "order": 5
+    },
+    {
+      "name": "Rita Wilson",
+      "character": "Rachel Kogen",
+      "order": 6
+    },
+    {
+      "name": "Paul Reiser",
+      "character": "Dave",
+      "order": 7
+    },
+    {
+      "name": "Red Buttons",
+      "character": "Arnie Jordan",
+      "order": 8
+    },
+    {
+      "name": "Betty White",
+      "character": "Lillian Jordan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8rm0CZpHW1D7pIv8OguJNHF93LV.jpg",
+  "backdrop_path": "/mh30m4DuwBtvI9zwfZF6KfkkRbP.jpg",
+  "budget": 50000000,
+  "revenue": 58900031,
+  "vote_average": 6.061,
+  "vote_count": 350,
+  "imdb_id": "tt0160916",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

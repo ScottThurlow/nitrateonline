@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "21 Dec 2001",
+  "runtime": "93 min",
+  "genre": "Comedy, Fantasy",
+  "director": "Jesse Dylan",
+  "writer": "Dustin Lee Abraham",
+  "actors": "Method Man, Redman, Obba Babatundé",
+  "plot": "Two guys by the name of Silas and Jamal decided to one day smoke something magical, which eventually helps them to ace their college entrance exam. This eventually lands them in Harvard, where they're surrounded by the world of Ivy Leaguers. Although their new lifestyle is much different from back home, they kept on having fun until their supernatural smoke runs out. Now, they are on their own and they have to rely on each other to survive.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "29",
+  "imdb_rating": "6.2",
+  "imdb_votes": "64,727",
+  "box_office": "$31,178,740",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=How+High"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/How+High/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0278488/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0278488/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8386"
+  }
+}

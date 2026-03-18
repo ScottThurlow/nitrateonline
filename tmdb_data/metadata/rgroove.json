@@ -1,0 +1,246 @@
+{
+  "tmdb_id": 11688,
+  "title": "The Emperor's New Groove",
+  "original_title": "The Emperor's New Groove",
+  "release_date": "2000-12-15",
+  "runtime": 78,
+  "tagline": "It's all about... ME!",
+  "overview": "Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne and his human form with the help of Pacha, a gentle llama herder.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Dindal"
+  ],
+  "writers": [
+    {
+      "name": "David Reynolds",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Matthew Jacobs",
+      "job": "Original Story"
+    },
+    {
+      "name": "Don Hall",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Doug Frankel",
+      "job": "Story Artist"
+    },
+    {
+      "name": "John Norton",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Mark Kennedy",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Mark Walton",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Stephen J. Anderson",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Mark Dindal",
+      "job": "Story"
+    },
+    {
+      "name": "Chris Williams",
+      "job": "Story"
+    },
+    {
+      "name": "Roger Allers",
+      "job": "Original Story"
+    },
+    {
+      "name": "Sting",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Mark Walton",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Randy Fullmer",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Hahn",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Spade",
+      "character": "Kuzco (voice)",
+      "order": 0
+    },
+    {
+      "name": "John Goodman",
+      "character": "Pacha (voice)",
+      "order": 1
+    },
+    {
+      "name": "Eartha Kitt",
+      "character": "Yzma (voice)",
+      "order": 2
+    },
+    {
+      "name": "Patrick Warburton",
+      "character": "Kronk (voice)",
+      "order": 3
+    },
+    {
+      "name": "Wendie Malick",
+      "character": "Chicha (voice)",
+      "order": 4
+    },
+    {
+      "name": "Kellyann Kelso",
+      "character": "Chaca (voice)",
+      "order": 5
+    },
+    {
+      "name": "Eli Russell Linnetz",
+      "character": "Tipo (voice)",
+      "order": 6
+    },
+    {
+      "name": "Stephen J. Anderson",
+      "character": "Additional Voices (voice)",
+      "order": 7
+    },
+    {
+      "name": "Bob Bergen",
+      "character": "Additional Voices (voice)",
+      "order": 8
+    },
+    {
+      "name": "Rodger Bumpass",
+      "character": "Additional Voices (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/isA0acj3ONKBLp1pKadUNzxEPFv.jpg",
+  "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+  "budget": 100000000,
+  "revenue": 169327687,
+  "vote_average": 7.557,
+  "vote_count": 7208,
+  "imdb_id": "tt0120917",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "U"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "K"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

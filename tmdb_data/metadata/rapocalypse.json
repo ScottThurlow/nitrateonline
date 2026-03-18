@@ -1,0 +1,254 @@
+{
+  "tmdb_id": 28,
+  "title": "Apocalypse Now",
+  "original_title": "Apocalypse Now",
+  "release_date": "1979-05-19",
+  "runtime": 147,
+  "tagline": "This is the end...",
+  "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "Khmer",
+    "English",
+    "French",
+    "Vietnamese"
+  ],
+  "production_companies": [
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Francis Ford Coppola"
+  ],
+  "writers": [
+    {
+      "name": "John Milius",
+      "job": "Writer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Martin Sheen",
+      "character": "Captain Benjamin Willard",
+      "order": 0
+    },
+    {
+      "name": "Marlon Brando",
+      "character": "Colonel Walter Kurtz",
+      "order": 1
+    },
+    {
+      "name": "Frederic Forrest",
+      "character": "Jay 'Chef' Hicks",
+      "order": 2
+    },
+    {
+      "name": "Albert Hall",
+      "character": "Chief Phillips",
+      "order": 3
+    },
+    {
+      "name": "Laurence Fishburne",
+      "character": "Tyrone 'Clean' Miller",
+      "order": 4
+    },
+    {
+      "name": "Sam Bottoms",
+      "character": "Lance B. Johnson",
+      "order": 5
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Lieutenant Colonel Bill Kilgore",
+      "order": 6
+    },
+    {
+      "name": "G.D. Spradlin",
+      "character": "General Corman",
+      "order": 7
+    },
+    {
+      "name": "Harrison Ford",
+      "character": "Colonel",
+      "order": 8
+    },
+    {
+      "name": "Jerry Ziesmer",
+      "character": "Jerry, Civilian",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+  "backdrop_path": "/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+  "budget": 31500000,
+  "revenue": 150000000,
+  "vote_average": 8.268,
+  "vote_count": 8942,
+  "imdb_id": "tt0078788",
+  "certifications": [
+    {
+      "country": "AE",
+      "rating": "15+"
+    },
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CO",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "K-17"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "LT",
+      "rating": "N-16"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "PE",
+      "rating": "18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "R-18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

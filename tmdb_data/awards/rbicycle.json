@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "25 Apr 2001",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "Xiaoshuai Wang",
+  "writer": "Peggy Chiao, Hsiao-Ming Hsu, Danian Tang",
+  "actors": "Lin Cui, Xun Zhou, Bin Li",
+  "plot": "A seventeen-year-old country boy working in Beijing as a courier has his bicycle stolen, and finds it with a schoolboy his age.",
+  "language": "Mandarin",
+  "country": "France, Taiwan, China",
+  "metascore": "61",
+  "imdb_rating": "7.2",
+  "imdb_votes": "4,826",
+  "box_office": "$66,131",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=Beijing+Bicycle"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Beijing+Bicycle/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0276501/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0276501/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12659"
+  }
+}

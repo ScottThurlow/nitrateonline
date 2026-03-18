@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "4 wins & 15 nominations",
+  "rated": "N/A",
+  "released": "06 Oct 1999",
+  "runtime": "93 min",
+  "genre": "Comedy, Drama",
+  "director": "Eric Mendelsohn",
+  "writer": "Eric Mendelsohn",
+  "actors": "Barbara Barrie, Bob Dishy, Edie Falco",
+  "plot": "A lonely, talented teacher enjoys a flirtation with the (married) principal of the school, who returns her affections but is hampered by his family members. An eclipse enables the teacher and principal to steal several more fleeting moments.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "74",
+  "imdb_rating": "6.9",
+  "imdb_votes": "1,089",
+  "box_office": "$61,236",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Judy+Berlin"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/Judy+Berlin/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0181618/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0181618/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/36048"
+  }
+}

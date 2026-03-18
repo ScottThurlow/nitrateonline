@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 30072,
+  "title": "Possession",
+  "original_title": "Possession",
+  "release_date": "2002-08-16",
+  "runtime": 102,
+  "tagline": "The past will connect them. The passion will possess them.",
+  "overview": "Maud Bailey, a brilliant English academic, is researching the life and work of poet Christabel La Motte. Roland Michell is an American scholar in London to study Randolph Henry Ash, now best-known for a collection of poems dedicated to his wife. When Maud and Roland discover a cache of love letters that appear to be from Ash to La Motte, they follow a trail of clues across England, echoing the journey of the couple over a century earlier.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Focus Features",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Contagious Films",
+      "country": ""
+    },
+    {
+      "name": "Spring Creek Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Baltimore Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Neil LaBute"
+  ],
+  "writers": [
+    {
+      "name": "Laura Jones",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Neil LaBute",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Henry Hwang",
+      "job": "Screenstory"
+    },
+    {
+      "name": "A.S. Byatt",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Barron",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry Levinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Paula Weinstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Len Amato",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Maud Bailey",
+      "order": 0
+    },
+    {
+      "name": "Aaron Eckhart",
+      "character": "Roland Mitchell",
+      "order": 1
+    },
+    {
+      "name": "Jeremy Northam",
+      "character": "Randolph Henry Ash",
+      "order": 2
+    },
+    {
+      "name": "Jennifer Ehle",
+      "character": "Christabel LaMotte",
+      "order": 3
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Blanche Glover",
+      "order": 4
+    },
+    {
+      "name": "Holly Aird",
+      "character": "Ellen Ash",
+      "order": 5
+    },
+    {
+      "name": "Toby Stephens",
+      "character": "Fergus Wolfe",
+      "order": 6
+    },
+    {
+      "name": "Trevor Eve",
+      "character": "Cropper",
+      "order": 7
+    },
+    {
+      "name": "Georgia Mackenzie",
+      "character": "Paola",
+      "order": 8
+    },
+    {
+      "name": "Tom Hollander",
+      "character": "Euan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/12z5oCy4s3GBOUrNCWvcKYBK4eI.jpg",
+  "backdrop_path": "/aHhlnznHGimQbIo6CXov0g0RG2b.jpg",
+  "budget": 25000000,
+  "revenue": 10113733,
+  "vote_average": 5.966,
+  "vote_count": 192,
+  "imdb_id": "tt0256276",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

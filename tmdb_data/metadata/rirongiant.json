@@ -1,0 +1,221 @@
+{
+  "tmdb_id": 10386,
+  "title": "The Iron Giant",
+  "original_title": "The Iron Giant",
+  "release_date": "1999-08-06",
+  "runtime": 86,
+  "tagline": "It came from outer space!",
+  "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+  "genres": [
+    "Animation",
+    "Science Fiction",
+    "Family",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brad Bird"
+  ],
+  "writers": [
+    {
+      "name": "Tim McCanlies",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeffrey Lynch",
+      "job": "Head of Story"
+    },
+    {
+      "name": "Brad Bird",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Ted Hughes",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Des McAnuff",
+      "job": "Producer"
+    },
+    {
+      "name": "Allison Abbate",
+      "job": "Producer"
+    },
+    {
+      "name": "Pete Townshend",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Aniston",
+      "character": "Annie Hughes (voice)",
+      "order": 0
+    },
+    {
+      "name": "Harry Connick Jr.",
+      "character": "Dean McCoppin (voice)",
+      "order": 1
+    },
+    {
+      "name": "Vin Diesel",
+      "character": "The Iron Giant (voice)",
+      "order": 2
+    },
+    {
+      "name": "James Gammon",
+      "character": "Foreman Marv Loach / Floyd Turbeaux (voice)",
+      "order": 3
+    },
+    {
+      "name": "Cloris Leachman",
+      "character": "Mrs. Lynley Tensedge (voice)",
+      "order": 4
+    },
+    {
+      "name": "Christopher McDonald",
+      "character": "Kent Mansley (voice)",
+      "order": 5
+    },
+    {
+      "name": "John Mahoney",
+      "character": "General Rogard (voice)",
+      "order": 6
+    },
+    {
+      "name": "Eli Marienthal",
+      "character": "Hogarth Hughes (voice)",
+      "order": 7
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "character": "Earl Stutz (voice)",
+      "order": 8
+    },
+    {
+      "name": "Jack Angel",
+      "character": "Additional Voices (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+  "backdrop_path": "/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+  "budget": 50000000,
+  "revenue": 23300000,
+  "vote_average": 7.95,
+  "vote_count": 6066,
+  "imdb_id": "tt0129167",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "ATP"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "7"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IS",
+      "rating": "L"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "7"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

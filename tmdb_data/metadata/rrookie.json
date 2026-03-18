@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 14635,
+  "title": "The Rookie",
+  "original_title": "The Rookie",
+  "release_date": "2002-03-25",
+  "runtime": 127,
+  "tagline": "Sometimes dreams come back to life.",
+  "overview": "Jim Morris never made it out of the minor leagues before a shoulder injury ended his pitching career twelve years ago. Now a married-with-children high-school chemistry teacher and baseball coach in Texas, Jim's team makes a deal with him: if they win the district championship, Jim will try out with a major-league organization. The bet proves incentive enough for the team, and they go from worst to first, making it to state for the first time in the history of the school. Jim, forced to live up to his end of the deal, is nearly laughed off the try-out field--until he gets onto the mound, where he confounds the scouts (and himself) by clocking successive 98 mph fastballs, good enough for a minor-league contract with the Tampa Bay Devil Rays. Jim's still got a lot of pitches to throw before he makes it to The Show, but with his big-league dreams revived, there's no telling where he could go.",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gran Via Productions",
+      "country": "US"
+    },
+    {
+      "name": "98 MPH Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Lee Hancock"
+  ],
+  "writers": [
+    {
+      "name": "Mike Rich",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gordon Gray",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Ciardi",
+      "job": "Producer"
+    },
+    {
+      "name": "Philip Steuer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Johnson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dennis Quaid",
+      "character": "Jimmy Morris",
+      "order": 0
+    },
+    {
+      "name": "Rachel Griffiths",
+      "character": "Lorri Morris",
+      "order": 1
+    },
+    {
+      "name": "Jay Hernandez",
+      "character": "Joaquin 'Wack' Campos",
+      "order": 2
+    },
+    {
+      "name": "Beth Grant",
+      "character": "Olline",
+      "order": 3
+    },
+    {
+      "name": "Angus T. Jones",
+      "character": "Hunter Morris",
+      "order": 4
+    },
+    {
+      "name": "Brian Cox",
+      "character": "Jim Morris Sr.",
+      "order": 5
+    },
+    {
+      "name": "Rick Gonzalez",
+      "character": "Rudy Bonilla",
+      "order": 6
+    },
+    {
+      "name": "Chad Lindberg",
+      "character": "Joe David West",
+      "order": 7
+    },
+    {
+      "name": "Angelo Spizzirri",
+      "character": "Joel De La Garza",
+      "order": 8
+    },
+    {
+      "name": "Royce D. Applegate",
+      "character": "Henry",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gNmLsseIs6thkBKne91iQZDGyBT.jpg",
+  "backdrop_path": "/gf5ahmfnGuM02RJyoETKQXTLft0.jpg",
+  "budget": 20000000,
+  "revenue": 75597042,
+  "vote_average": 6.805,
+  "vote_count": 482,
+  "imdb_id": "tt0265662",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 7 wins & 11 nominations total",
+  "rated": "R",
+  "released": "30 Jun 1999",
+  "runtime": "81 min",
+  "genre": "Animation, Comedy, Fantasy",
+  "director": "Trey Parker",
+  "writer": "Trey Parker, Matt Stone, Pam Brady",
+  "actors": "Trey Parker, Matt Stone, Mary Kay Bergman",
+  "plot": "When four boys in South Park Stan Marsh, Kyle and his stepbrother Ike Broflovski, Eric Cartman, and Kenny McCormick sees an R-rated movie featuring Canadians \"Terrance &amp; Phillip: Asses of Fire\", they are pronounced \"corrupted\", and Kyle's mom Sheila with the rest of the parents pressure the United States to wage war against Canada for World War 3! It's all up to Stan, Kyle and Cartman to save Terrence and Phillip before Satan and his lover Saddam Hussein from Hell rules the world and it'll be the end of the whole world.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.7",
+  "imdb_votes": "223,777",
+  "box_office": "$52,037,603",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=South+Park%3A+Bigger%2C+Longer+%26+Uncut"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/South+Park%3A+Bigger%2C+Longer+%26+Uncut/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0158983/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0158983/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9473"
+  }
+}

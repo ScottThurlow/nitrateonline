@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 1 nomination total",
+  "rated": "PG",
+  "released": "27 Aug 1999",
+  "runtime": "100 min",
+  "genre": "Family, Drama",
+  "director": "Kevin Brodie",
+  "writer": "Ouida, Kevin Brodie, Robert Singer",
+  "actors": "Jack Warden, Jeremy James Kissner, Jesse James",
+  "plot": "Poor, but happy, young Nello and his grandfather live alone, delivering milk as a livelihood, in the outskirts of Antwerp, a city in Flanders (the Flemish or Dutch-speaking part of modern-day Belgium). They discover a beaten dog (a Bouvier, a large sturdy dog native to Flanders) and adopt it and nurse it back to health, naming it Patrasche, the middle name of Nello's mother Mary, who died when Nello was very young. Nello's mother was a talented artist, and like his mother, he delights in drawing, and his friend Aloise is his model and greatest fan and supporter.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "6.2",
+  "imdb_votes": "1,043",
+  "box_office": "$2,165,637",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Dog+of+Flanders"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/A+Dog+of+Flanders/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160216/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160216/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/104896"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "8 wins & 3 nominations",
+  "rated": "Not Rated",
+  "released": "06 Dec 2001",
+  "runtime": "94 min",
+  "genre": "Documentary",
+  "director": "Sandi Simcha Dubowski",
+  "writer": "N/A",
+  "actors": "Shlomo Ashkinazy, Steve Greenberg, Nathan Lopes Cardozo",
+  "plot": "Built around intimately-told personal stories of Hasidic and Orthodox Jews who are gay or lesbian, the film portrays a group of people who face a profound dilemma - how to reconcile their passionate love of Judaism and the Divine with the drastic Biblical prohibitions that forbids homosexuality.",
+  "language": "English, Yiddish, Hebrew",
+  "country": "Israel, France, United States",
+  "metascore": "66",
+  "imdb_rating": "7.0",
+  "imdb_votes": "945",
+  "box_office": "$788,896",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Trembling+Before+G-d"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Trembling+Before+G-d/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0278102/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0278102/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/151727"
+  }
+}

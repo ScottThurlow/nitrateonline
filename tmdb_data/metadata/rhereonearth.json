@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 13539,
+  "title": "Here on Earth",
+  "original_title": "Here on Earth",
+  "release_date": "2000-03-24",
+  "runtime": 96,
+  "tagline": "One summer totally changed their lives.",
+  "overview": "Three lives of three young people intersect over the course of one summer. A rich student and a young working-class man accidentally destroy a diner when their impromptu road race takes a disastrous turn. Ordered by a judge to spend the summer repairing the building, they find themselves becoming rivals for the affections of the owner's daughter.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Friendly Productions",
+      "country": ""
+    },
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Piznarski"
+  ],
+  "writers": [
+    {
+      "name": "Michael Seitzman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Downer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David T. Friendly",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leelee Sobieski",
+      "character": "Samantha Cavanaugh",
+      "order": 0
+    },
+    {
+      "name": "Chris Klein",
+      "character": "Kelvin Morse",
+      "order": 1
+    },
+    {
+      "name": "Josh Hartnett",
+      "character": "Jasper Arnold",
+      "order": 2
+    },
+    {
+      "name": "Michael Rooker",
+      "character": "Malcolm Arnold",
+      "order": 3
+    },
+    {
+      "name": "Annie Corley",
+      "character": "Betsy Arnold",
+      "order": 4
+    },
+    {
+      "name": "Bruce Greenwood",
+      "character": "Earl Cavanaugh",
+      "order": 5
+    },
+    {
+      "name": "Annette O'Toole",
+      "character": "Jo Cavanaugh",
+      "order": 6
+    },
+    {
+      "name": "Elaine Hendrix",
+      "character": "Jennifer Cavanaugh",
+      "order": 7
+    },
+    {
+      "name": "Stuart Wilson",
+      "character": "John Morse",
+      "order": 8
+    },
+    {
+      "name": "Ronni Saxon",
+      "character": "Robin Arnold",
+      "order": 9
+    }
+  ],
+  "poster_path": "/shvubL3pIrCyEK22ZHrx00oNtCY.jpg",
+  "backdrop_path": "/qUkkAGbccOW5e0bWIjY85kK7Cud.jpg",
+  "budget": 15000000,
+  "revenue": 10873148,
+  "vote_average": 5.82,
+  "vote_count": 189,
+  "imdb_id": "tt0195778",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "9"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

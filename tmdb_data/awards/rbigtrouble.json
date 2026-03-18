@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "05 Apr 2002",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Barry Sonnenfeld",
+  "writer": "Dave Barry, Robert Ramsey, Matthew Stone",
+  "actors": "Tim Allen, Rene Russo, Stanley Tucci",
+  "plot": "A chain of events starts with the arrival of a mysterious suitcase in Miami. Arthur Herk, a corrupt business owner, wants to get his hands on the case. At the same time, two hit men want him whacked. Tired of his constant fixation on drinking and television, Herk's wife Anna and daughter Jenny decide to find new love interests in divorced dad Eliot Arnold and his son Matt. To add more complication, two thieves decide to steal the case and lead a Miami police team and two FBI agents on a wild goose chase that ends inside the Miami airport terminal.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "47",
+  "imdb_rating": "6.4",
+  "imdb_votes": "22,912",
+  "box_office": "$7,267,307",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "48%",
+      "link": "https://www.rottentomatoes.com/search?search=Big+Trouble"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/Big+Trouble/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0246464/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0246464/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2185"
+  }
+}

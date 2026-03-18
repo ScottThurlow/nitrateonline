@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "30 Mar 2001",
+  "runtime": "97 min",
+  "genre": "Comedy, Romance",
+  "director": "Tony Goldwyn",
+  "writer": "Laura Zigman, Elizabeth Chandler",
+  "actors": "Ashley Judd, Greg Kinnear, Hugh Jackman",
+  "plot": "Jane Goodale has everything going for her. She's a producer of a popular daytime talk show, and is in a hot romance with the show's dashing executive producer Ray. When Ray unexpectedly dumps her, she begins an extensive study of male behavior to try to find out what makes men tick. Her \"research\" leads her to become an overnight sensation/guru for single women everywhere. When Jane begins to use her womanizing roommate and co-worker Eddie as fodder for her research, she finds both humor and answers where they were least expected.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "32",
+  "imdb_rating": "6.1",
+  "imdb_votes": "28,004",
+  "box_office": "$27,343,067",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=Someone+Like+You"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Someone+Like+You/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0244970/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0244970/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12658"
+  }
+}

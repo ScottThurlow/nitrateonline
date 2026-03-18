@@ -1,0 +1,122 @@
+{
+  "tmdb_id": 193616,
+  "title": "Last Man Standing",
+  "original_title": "Last Man Standing",
+  "release_date": "1987-07-14",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "Roo Marcus has just spent 8 years in a mental institution, and takes up bare-knuckle boxing and gets a job fighting in a gym run by Napoleon. Roo is often tormented by memories of shock treatment and inhumane conditions. His friends, Capser and Ratty help him along the way, until he gets brutally beaten up by one of Napoleon's fighters...",
+  "genres": [
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Rose and Ruby Productions",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Damian Lee"
+  ],
+  "writers": [
+    {
+      "name": "Damian Lee",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Mitchell",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Ippolito",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Ippolito",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Damian Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "David Mitchell",
+      "job": "Producer"
+    },
+    {
+      "name": "Larry Nesis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vernon Wells",
+      "character": "Roo Marcus",
+      "order": 0
+    },
+    {
+      "name": "William Sanderson",
+      "character": "Casper",
+      "order": 1
+    },
+    {
+      "name": "Sonja Belliveau",
+      "character": "Charli",
+      "order": 2
+    },
+    {
+      "name": "Michael Copeman",
+      "character": "Napoleon",
+      "order": 3
+    },
+    {
+      "name": "Frank Moore",
+      "character": "Tunney",
+      "order": 4
+    },
+    {
+      "name": "Réal Andrews",
+      "character": "Razor",
+      "order": 5
+    },
+    {
+      "name": "Pete Dempster",
+      "character": "Cannon",
+      "order": 6
+    },
+    {
+      "name": "Franco Columbu",
+      "character": "Batty",
+      "order": 7
+    },
+    {
+      "name": "Danny Burnes",
+      "character": "Gus",
+      "order": 8
+    },
+    {
+      "name": "George Chuvalo",
+      "character": "Maxie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dyIO3NCNg2KV6pInh1ynpNBmrry.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.333,
+  "vote_count": 6,
+  "imdb_id": "tt0095492",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,52 @@
+{
+  "tmdb_id": 34039,
+  "title": "One Day In September",
+  "original_title": "One Day In September",
+  "release_date": "2008-01-01",
+  "runtime": 12,
+  "tagline": "",
+  "overview": "Giamo and Majito have been friends ever since they were kids. They grew up in the worst part of town. In order to escape poverty they decide to enter the drug business. But Majito forgets about friendship and brotherhood and finally takes a wrong turn.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "SAD Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Sohrab Mohammad"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Murat Akgül",
+      "character": "Majito",
+      "order": 0
+    },
+    {
+      "name": "Dean Mabelson",
+      "character": "Truck Driver",
+      "order": 1
+    },
+    {
+      "name": "Dara Sepehri",
+      "character": "Giamo",
+      "order": 2
+    }
+  ],
+  "poster_path": null,
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt1419649",
+  "certifications": [],
+  "status": "Released"
+}

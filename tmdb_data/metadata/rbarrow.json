@@ -1,0 +1,187 @@
+{
+  "tmdb_id": 9208,
+  "title": "Broken Arrow",
+  "original_title": "Broken Arrow",
+  "release_date": "1996-02-09",
+  "runtime": 108,
+  "tagline": "Prepare to go ballistic.",
+  "overview": "When rogue stealth-fighter pilot Vic Deakins deliberately drops off the radar while on maneuvers, the Air Force ends up with two stolen nuclear warheads -- and Deakins's co-pilot, Riley Hale, is the military's only hope for getting them back. Traversing the deserted canyons of Utah, Hale teams with park ranger Terry Carmichael to put Deakins back in his box.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Mark Gordon Company",
+      "country": "US"
+    },
+    {
+      "name": "WCG Entertainment Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Woo"
+  ],
+  "writers": [
+    {
+      "name": "Graham Yost",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bill Badalato",
+      "job": "Producer"
+    },
+    {
+      "name": "Bradford Lewis",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dwight H. Little",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michele Maples",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joe Gareri",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Godsick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terence Chang",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Gordon",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "Vic Deakins",
+      "order": 0
+    },
+    {
+      "name": "Christian Slater",
+      "character": "Riley Hale",
+      "order": 1
+    },
+    {
+      "name": "Samantha Mathis",
+      "character": "Terry Carmichael",
+      "order": 2
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Colonel Max Wilkins",
+      "order": 3
+    },
+    {
+      "name": "Frank Whaley",
+      "character": "Giles Prentice",
+      "order": 4
+    },
+    {
+      "name": "Bob Gunton",
+      "character": "Pritchett",
+      "order": 5
+    },
+    {
+      "name": "Howie Long",
+      "character": "Kelly",
+      "order": 6
+    },
+    {
+      "name": "Jack Thompson",
+      "character": "Chairman, Joint Chief of Staff",
+      "order": 7
+    },
+    {
+      "name": "Kurtwood Smith",
+      "character": "Secretary of Defense Baird",
+      "order": 8
+    },
+    {
+      "name": "Vondie Curtis-Hall",
+      "character": "Lt. Colonel Sam Rhodes",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+  "backdrop_path": "/446lXnrT0vSIkeClW8bCN8KrnxN.jpg",
+  "budget": 50000000,
+  "revenue": 150300000,
+  "vote_average": 6.061,
+  "vote_count": 1634,
+  "imdb_id": "tt0115759",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "20 wins & 18 nominations",
+  "rated": "Unrated",
+  "released": "29 Nov 2002",
+  "runtime": "97 min",
+  "genre": "Crime, Drama",
+  "director": "Michael Cuesta",
+  "writer": "Stephen M. Ryder, Michael Cuesta, Gerald Cuesta",
+  "actors": "Brian Cox, Paul Dano, Bruce Altman",
+  "plot": "Fifteen-year-old Howie loses just about everything and everyone in the space of a single week, but ends up finding himself in the process. His mother has just died. His father, a building contractor, can barely keep tabs on his young girlfriend, let alone his own son. Thus, the teen must navigate his adolescence virtually unsupervised. Floating towards an ill-behaved existence, Howie and his crowd begin robbing houses in the middle-class neighborhoods off the Long Island Expressway. Together, he and his best friend Gary break into a place belonging to an old guy named Big John, a local man who is a respected pillar of the community. When Big John fingers Gary for the crime, Howie learns that his pal has been leading a secret, dangerous but also alluring double life. Subsequently, we also discover that Big John has secrets of his own.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.1",
+  "imdb_votes": "10,616",
+  "box_office": "$1,138,836",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=L.I.E."
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/L.I.E./"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0242587/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0242587/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18734"
+  }
+}

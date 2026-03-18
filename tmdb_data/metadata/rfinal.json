@@ -1,0 +1,194 @@
+{
+  "tmdb_id": 2114,
+  "title": "Final Fantasy: The Spirits Within",
+  "original_title": "Final Fantasy: The Spirits Within",
+  "release_date": "2001-07-02",
+  "runtime": 106,
+  "tagline": "Unleash a new reality",
+  "overview": "Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy",
+    "Science Fiction",
+    "Animation"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Chris Lee Productions",
+      "country": ""
+    },
+    {
+      "name": "Square Pictures",
+      "country": ""
+    },
+    {
+      "name": "Square USA",
+      "country": ""
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Hironobu Sakaguchi"
+  ],
+  "writers": [
+    {
+      "name": "Jeff Vintar",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Al Reinert",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hironobu Sakaguchi",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "Jun Aida",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Peri Gilpin",
+      "character": "Off. Jane Proudfoot (voice)",
+      "order": 0
+    },
+    {
+      "name": "Alec Baldwin",
+      "character": "Cap. Gray Edwards (voice)",
+      "order": 1
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Sgt. Ryan Whitaker (voice)",
+      "order": 2
+    },
+    {
+      "name": "Ming-Na Wen",
+      "character": "Dr. Aki Ross (voice)",
+      "order": 3
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Off. Neil Fleming (voice)",
+      "order": 4
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "Dr. Sid (voice)",
+      "order": 5
+    },
+    {
+      "name": "James Woods",
+      "character": "General Hein (voice)",
+      "order": 6
+    },
+    {
+      "name": "Keith David",
+      "character": "Council Member (voice)",
+      "order": 7
+    },
+    {
+      "name": "Jean Simmons",
+      "character": "Council Member (voice)",
+      "order": 8
+    },
+    {
+      "name": "Matt McKenzie",
+      "character": "Major Elliot (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/47b1EwFqqSWxYna7NtUM7iML4oT.jpg",
+  "backdrop_path": "/qyOO0dgss0oeUYFPWbbdALDgOSm.jpg",
+  "budget": 137000000,
+  "revenue": 85131830,
+  "vote_average": 6.193,
+  "vote_count": 1559,
+  "imdb_id": "tt0173840",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,145 @@
+{
+  "tmdb_id": 25520,
+  "title": "The House of Mirth",
+  "original_title": "The House of Mirth",
+  "release_date": "2000-10-13",
+  "runtime": 135,
+  "tagline": "When a woman has the beauty men admire and women envy... it is wise to tread carefully.",
+  "overview": "In early 20th century New York City, an impoverished socialite desperately seeks a suitable husband as she gradually finds herself betrayed by her friends and exiled from high society.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "German",
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Granada Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    },
+    {
+      "name": "The Scottish Arts Council",
+      "country": "GB"
+    },
+    {
+      "name": "The Glasgow Film Fund",
+      "country": "GB"
+    },
+    {
+      "name": "Three Rivers Production",
+      "country": "GB"
+    },
+    {
+      "name": "Showtime",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Terence Davies"
+  ],
+  "writers": [
+    {
+      "name": "Edith Wharton",
+      "job": "Novel"
+    },
+    {
+      "name": "Terence Davies",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Olivia Stewart",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Last",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pippa Cross",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gillian Anderson",
+      "character": "Lily Bart",
+      "order": 0
+    },
+    {
+      "name": "Dan Aykroyd",
+      "character": "Augustus 'Gus' Trenor",
+      "order": 1
+    },
+    {
+      "name": "Eleanor Bron",
+      "character": "Mrs. Julia Peniston, Lily's Aunt",
+      "order": 2
+    },
+    {
+      "name": "Terry Kinney",
+      "character": "George Dorset",
+      "order": 3
+    },
+    {
+      "name": "Anthony LaPaglia",
+      "character": "Sim Rosedale",
+      "order": 4
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Bertha Dorset",
+      "order": 5
+    },
+    {
+      "name": "Jodhi May",
+      "character": "Grace Julia Stepney",
+      "order": 6
+    },
+    {
+      "name": "Elizabeth McGovern",
+      "character": "Mrs. Carry Fisher",
+      "order": 7
+    },
+    {
+      "name": "Eric Stoltz",
+      "character": "Lawrence Selden",
+      "order": 8
+    },
+    {
+      "name": "Penny Downie",
+      "character": "Judy Trenor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gCEboOrNXFmqE5pKUn42fTHZx8R.jpg",
+  "backdrop_path": "/u85zf9uh1W92aGP8u8TwafiHGed.jpg",
+  "budget": 10000000,
+  "revenue": 5164404,
+  "vote_average": 6.2,
+  "vote_count": 85,
+  "imdb_id": "tt0200720",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

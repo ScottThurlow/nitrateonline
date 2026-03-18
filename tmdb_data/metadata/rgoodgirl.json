@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 9962,
+  "title": "The Good Girl",
+  "original_title": "The Good Girl",
+  "release_date": "2002-08-07",
+  "runtime": 93,
+  "tagline": "It's her last best chance... is she going to take it?",
+  "overview": "A discount store clerk strikes up an affair with a stock boy who considers himself the incarnation of Holden Caulfield.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hungry Eye Lowland Pictures",
+      "country": "NL"
+    },
+    {
+      "name": "Myriad Pictures",
+      "country": "US"
+    },
+    {
+      "name": "In-Motion AG Movie & TV Productions",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Miguel Arteta"
+  ],
+  "writers": [
+    {
+      "name": "Mike White",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carol Baum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Matthew Greenfield",
+      "job": "Producer"
+    },
+    {
+      "name": "Philip von Alvensleben",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kirk D'Amico",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Aniston",
+      "character": "Justine Last",
+      "order": 0
+    },
+    {
+      "name": "Zooey Deschanel",
+      "character": "Cheryl",
+      "order": 1
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "character": "Holden Worther",
+      "order": 2
+    },
+    {
+      "name": "John Carroll Lynch",
+      "character": "Jack Field, Your Store Manager",
+      "order": 3
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "character": "Bubba",
+      "order": 4
+    },
+    {
+      "name": "John C. Reilly",
+      "character": "Phil Last",
+      "order": 5
+    },
+    {
+      "name": "Deborah Rush",
+      "character": "Gwen Jackson",
+      "order": 6
+    },
+    {
+      "name": "Mike White",
+      "character": "Corny",
+      "order": 7
+    },
+    {
+      "name": "John Doe",
+      "character": "Mr. Worther",
+      "order": 8
+    },
+    {
+      "name": "Roxanne Hart",
+      "character": "Mrs. Worther",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jpRumFobwgPzxj5YH33Wswnxdam.jpg",
+  "backdrop_path": "/hVJpiirgqfgsW82QVsea5s6I5gy.jpg",
+  "budget": 8000000,
+  "revenue": 16900000,
+  "vote_average": 6.223,
+  "vote_count": 673,
+  "imdb_id": "tt0279113",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

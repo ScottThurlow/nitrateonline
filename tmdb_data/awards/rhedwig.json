@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "28 wins & 33 nominations total",
+  "rated": "R",
+  "released": "31 Aug 2001",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "John Cameron Mitchell",
+  "writer": "John Cameron Mitchell, Stephen Trask",
+  "actors": "John Cameron Mitchell, Miriam Shor, Stephen Trask",
+  "plot": "A gender-queer punk-rock singer from East Berlin tours the U.S. with her band as she tells her life story and follows the former lover/band-mate who stole her songs.",
+  "language": "English, German",
+  "country": "Canada, United States",
+  "metascore": "85",
+  "imdb_rating": "7.7",
+  "imdb_votes": "38,305",
+  "box_office": "$3,082,286",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Hedwig+and+the+Angry+Inch"
+    },
+    {
+      "source": "Metacritic",
+      "value": "85/100",
+      "link": "https://www.metacritic.com/search/Hedwig+and+the+Angry+Inch/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0248845/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0248845/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13403"
+  }
+}

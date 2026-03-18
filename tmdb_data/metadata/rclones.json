@@ -1,0 +1,220 @@
+{
+  "tmdb_id": 1894,
+  "title": "Star Wars: Episode II - Attack of the Clones",
+  "original_title": "Star Wars: Episode II - Attack of the Clones",
+  "release_date": "2002-05-15",
+  "runtime": 142,
+  "tagline": "A Jedi shall not know anger. Nor hatred. Nor love.",
+  "overview": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Lucasfilm Ltd.",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Lucas"
+  ],
+  "writers": [
+    {
+      "name": "Jonathan Hales",
+      "job": "Screenplay"
+    },
+    {
+      "name": "George Lucas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "George Lucas",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "George Lucas",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick McCallum",
+      "job": "Producer"
+    },
+    {
+      "name": "George Lucas",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lorne Orleans",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hayden Christensen",
+      "character": "Anakin Skywalker",
+      "order": 0
+    },
+    {
+      "name": "Ewan McGregor",
+      "character": "Obi-Wan Kenobi",
+      "order": 1
+    },
+    {
+      "name": "Natalie Portman",
+      "character": "Padmé Amidala",
+      "order": 2
+    },
+    {
+      "name": "Christopher Lee",
+      "character": "Count Dooku",
+      "order": 3
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Mace Windu",
+      "order": 4
+    },
+    {
+      "name": "Frank Oz",
+      "character": "Yoda (voice)",
+      "order": 5
+    },
+    {
+      "name": "Ian McDiarmid",
+      "character": "Chancellor Palpatine",
+      "order": 6
+    },
+    {
+      "name": "Pernilla August",
+      "character": "Shmi Skywalker",
+      "order": 7
+    },
+    {
+      "name": "Temuera Morrison",
+      "character": "Jango Fett / Clone Troopers",
+      "order": 8
+    },
+    {
+      "name": "Jimmy Smits",
+      "character": "Senator Bail Organa",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+  "backdrop_path": "/msYmRFJfXy0zsFd73PAEqdetKpO.jpg",
+  "budget": 120000000,
+  "revenue": 649398328,
+  "vote_average": 6.591,
+  "vote_count": 14158,
+  "imdb_id": "tt0121765",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-11"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "TW",
+      "rating": "普遍級"
+    },
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

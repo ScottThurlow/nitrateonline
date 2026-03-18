@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations",
+  "rated": "R",
+  "released": "02 Aug 2002",
+  "runtime": "101 min",
+  "genre": "Comedy, Romance",
+  "director": "Steven Soderbergh",
+  "writer": "Coleman Hough",
+  "actors": "Julia Roberts, David Hyde Pierce, David Duchovny",
+  "plot": "Arty film-within-a-film revolves around seven people with little in common whose lives collide.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "45",
+  "imdb_rating": "4.7",
+  "imdb_votes": "11,380",
+  "box_office": "$2,512,846",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "38%",
+      "link": "https://www.rottentomatoes.com/search?search=Full+Frontal"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/Full+Frontal/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0290212/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0290212/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15186"
+  }
+}

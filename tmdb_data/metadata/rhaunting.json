@@ -1,0 +1,185 @@
+{
+  "tmdb_id": 11618,
+  "title": "The Haunting",
+  "original_title": "The Haunting",
+  "release_date": "1999-07-23",
+  "runtime": 113,
+  "tagline": "Some houses are born bad.",
+  "overview": "Dr. David Marrow invites three distinct individuals to the eerie and isolated Hill House to be subjects for a sleep disorder study. The unfortunate guests discover that Marrow is far more interested in the sinister mansion itself — and they soon see the true nature of its horror.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Fantasy",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Roth/Arnold Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jan de Bont"
+  ],
+  "writers": [
+    {
+      "name": "David Self",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Shirley Jackson",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jan de Bont",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Samuel Z. Arkoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Colin Wilson",
+      "job": "Producer"
+    },
+    {
+      "name": "Donna Roth",
+      "job": "Producer"
+    },
+    {
+      "name": "Susan Arnold",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Liam Neeson",
+      "character": "Dr. David Marrow",
+      "order": 0
+    },
+    {
+      "name": "Lili Taylor",
+      "character": "Nell",
+      "order": 1
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "character": "Theo",
+      "order": 2
+    },
+    {
+      "name": "Owen Wilson",
+      "character": "Luke Sanderson",
+      "order": 3
+    },
+    {
+      "name": "Bruce Dern",
+      "character": "Mr. Dudley",
+      "order": 4
+    },
+    {
+      "name": "Marian Seldes",
+      "character": "Mrs. Dudley",
+      "order": 5
+    },
+    {
+      "name": "Alix Koromzay",
+      "character": "Mary Lambetta",
+      "order": 6
+    },
+    {
+      "name": "Todd Field",
+      "character": "Todd Hackett",
+      "order": 7
+    },
+    {
+      "name": "Virginia Madsen",
+      "character": "Jane",
+      "order": 8
+    },
+    {
+      "name": "Michael Cavanaugh",
+      "character": "Dr. Malcolm Keogh",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xwLldS5JnB4441iS50ha9ZrkaA8.jpg",
+  "backdrop_path": "/acloCJG7yIvM8M8lh6GuuohlGJR.jpg",
+  "budget": 80000000,
+  "revenue": 177311151,
+  "vote_average": 5.477,
+  "vote_count": 1496,
+  "imdb_id": "tt0171363",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

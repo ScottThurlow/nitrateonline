@@ -1,0 +1,35 @@
+{
+  "year": "1996",
+  "awards": "Won 1 Oscar. 21 wins & 14 nominations total",
+  "rated": "PG-13",
+  "released": "24 Jan 1997",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Jan Sverák",
+  "writer": "Pavel Taussig, Zdenek Sverák",
+  "actors": "Zdenek Sverák, Andrey Khalimon, Libuse Safránková",
+  "plot": "Franta Louka is a concert cellist in Soviet-occupied Czechoslovakia, a confirmed bachelor and a lady's man. Having lost his place in the state orchestra, he must make ends meet by playing at funerals and painting tombstones. But he has run up a large debt, and when his friend, the grave-digger Mr. Broz, suggests a scheme for making a lot of money by marrying a Russian woman so that she can get her Czech papers, he reluctantly agrees. She takes advantage of the situation to emigrate to West Germany, to her lover; and leaves her five-year-old son with his grandmother; when the grandmother dies, Kolya must come and live with his stepfather - Louka.",
+  "language": "Czech, Russian, Slovak",
+  "country": "Czech Republic, United Kingdom, France",
+  "metascore": "N/A",
+  "imdb_rating": "7.7",
+  "imdb_votes": "16,562",
+  "box_office": "$5,770,254",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "96%",
+      "link": "https://www.rottentomatoes.com/search?search=Kolya"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0116790/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0116790/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/784"
+  }
+}

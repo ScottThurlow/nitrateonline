@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "9 wins & 25 nominations total",
+  "rated": "R",
+  "released": "09 Feb 2001",
+  "runtime": "131 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Ridley Scott",
+  "writer": "Thomas Harris, David Mamet, Steven Zaillian",
+  "actors": "Anthony Hopkins, Julianne Moore, Gary Oldman",
+  "plot": "The final chapter of the Dr. Hannibal Lecter quadrilogy, the murdering cannibal. He is presently in Italy, and works as a curator at a museum. Clarice Starling (Julianne Moore), the F.B.I. Agent who he aided to apprehend a serial killer, was placed in charge of an operation, but when one of her men botches it, she's called to the mat by the Bureau. One high ranking official, Paul Krendler (Ray Liotta) has it in for her. But she gets a reprieve because Mason Verger (Gary Oldman), one of Lecter's victims who is looking to get back at Lecter for what Lecter did to him, wants to use Starling to lure him out. When Lecter sends her a note, she learns that he's in Italy, so she asks the Police to keep an eye out for him. But a corrupt Policeman, who wants to get the reward that Verger placed on him, tells Verger where he is, but they fail to get him. Later, Verger decides to frame Starling, which makes Lecter return to the U.S., and the race to get Lecter begins.",
+  "language": "English, Italian, Japanese",
+  "country": "United Kingdom, Italy, United States",
+  "metascore": "57",
+  "imdb_rating": "6.8",
+  "imdb_votes": "311,689",
+  "box_office": "$165,092,268",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "39%",
+      "link": "https://www.rottentomatoes.com/search?search=Hannibal"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/Hannibal/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0212985/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0212985/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9740"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 9441,
+  "title": "Stepmom",
+  "original_title": "Stepmom",
+  "release_date": "1998-12-25",
+  "runtime": 125,
+  "tagline": "Be there for the joy. Be there for the tears. Be there for each other.",
+  "overview": "Jackie is a divorced mother of two. Isabel is the career minded girlfriend of Jackie’s ex-husband Luke, forced into the role of unwelcome stepmother to their children. But when Jackie discovers she is ill, both women realise they must put aside their differences to find a common ground and celebrate life to the fullest, while they have the chance.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "1492 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Wendy Finerman Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Chris Columbus"
+  ],
+  "writers": [
+    {
+      "name": "Gigi Levangie",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven Rogers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jessie Nelson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Karen Leigh Hopkins",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gigi Levangie",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ronald Bass",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patrick McCormick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Susan Sarandon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Columbus",
+      "job": "Producer"
+    },
+    {
+      "name": "Wendy Finerman",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Radcliffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Pliny Porter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Barnathan",
+      "job": "Producer"
+    },
+    {
+      "name": "Margaret French-Isaac",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julia Roberts",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Roberts",
+      "character": "Isabel Kelly",
+      "order": 0
+    },
+    {
+      "name": "Susan Sarandon",
+      "character": "Jackie Harrison",
+      "order": 1
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Luke Harrison",
+      "order": 2
+    },
+    {
+      "name": "Jena Malone",
+      "character": "Anna Harrison",
+      "order": 3
+    },
+    {
+      "name": "Liam Aiken",
+      "character": "Ben Harrison",
+      "order": 4
+    },
+    {
+      "name": "Lynn Whitfield",
+      "character": "Dr. P. Sweikert",
+      "order": 5
+    },
+    {
+      "name": "Darrell Larson",
+      "character": "Duncan Samuels",
+      "order": 6
+    },
+    {
+      "name": "Mary Louise Wilson",
+      "character": "Mrs. Franklin",
+      "order": 7
+    },
+    {
+      "name": "Andre B. Blake",
+      "character": "Cooper",
+      "order": 8
+    },
+    {
+      "name": "Herbert Russell",
+      "character": "Photo Assistant",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wMPv2Yz6QDzv6YhSbaqM48Medl1.jpg",
+  "backdrop_path": "/iteE4cNHQm8PWmWDuKcCCnMLhS3.jpg",
+  "budget": 50000000,
+  "revenue": 159710793,
+  "vote_average": 7.149,
+  "vote_count": 1525,
+  "imdb_id": "tt0120686",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

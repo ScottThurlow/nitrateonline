@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 3600,
+  "title": "I Still Know What You Did Last Summer",
+  "original_title": "I Still Know What You Did Last Summer",
+  "release_date": "1998-11-13",
+  "runtime": 100,
+  "tagline": "Someone is dying for a second chance.",
+  "overview": "Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her. When her best friend Karla wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mandalay Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Danny Cannon"
+  ],
+  "writers": [
+    {
+      "name": "Trey Callaway",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lois Duncan",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Erik Feig",
+      "job": "Producer"
+    },
+    {
+      "name": "William S. Beasley",
+      "job": "Producer"
+    },
+    {
+      "name": "Stokely Chaffin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "character": "Ray Bronson",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Love Hewitt",
+      "character": "Julie James",
+      "order": 1
+    },
+    {
+      "name": "Matthew Settle",
+      "character": "Will Benson",
+      "order": 2
+    },
+    {
+      "name": "Brandy Norwood",
+      "character": "Karla Wilson",
+      "order": 3
+    },
+    {
+      "name": "Mekhi Phifer",
+      "character": "Tyrell",
+      "order": 4
+    },
+    {
+      "name": "Muse Watson",
+      "character": "Ben Willis",
+      "order": 5
+    },
+    {
+      "name": "Jennifer Esposito",
+      "character": "Nancy",
+      "order": 6
+    },
+    {
+      "name": "Bill Cobbs",
+      "character": "Estes",
+      "order": 7
+    },
+    {
+      "name": "Jeffrey Combs",
+      "character": "Mr. Brooks",
+      "order": 8
+    },
+    {
+      "name": "John Hawkes",
+      "character": "Dave",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eg3d6hvTaOmW3lNErFfutBmWmAR.jpg",
+  "backdrop_path": "/gF1BbDac7ONryE5jezRzXVe31Ud.jpg",
+  "budget": 24000000,
+  "revenue": 84002112,
+  "vote_average": 5.369,
+  "vote_count": 1686,
+  "imdb_id": "tt0130018",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

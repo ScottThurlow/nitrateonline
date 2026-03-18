@@ -1,0 +1,195 @@
+{
+  "tmdb_id": 14411,
+  "title": "Sinbad: Legend of the Seven Seas",
+  "original_title": "Sinbad: Legend of the Seven Seas",
+  "release_date": "2003-07-02",
+  "runtime": 86,
+  "tagline": "The fantastic tale of his greatest adventure.",
+  "overview": "The sailor of legend is framed by the goddess Eris for the theft of the Book of Peace, and must travel to her realm at the end of the world to retrieve it and save the life of his childhood friend Prince Proteus.",
+  "genres": [
+    "Family",
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Animation",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tim Johnson",
+    "Patrick Gilmore"
+  ],
+  "writers": [
+    {
+      "name": "John Logan",
+      "job": "Writer"
+    },
+    {
+      "name": "Jennifer Yuh Nelson",
+      "job": "Head of Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mireille Soria",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "character": "Sinbad (voice)",
+      "order": 0
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "character": "Marina (voice)",
+      "order": 1
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Eris (voice)",
+      "order": 2
+    },
+    {
+      "name": "Joseph Fiennes",
+      "character": "Proteus (voice)",
+      "order": 3
+    },
+    {
+      "name": "Dennis Haysbert",
+      "character": "Kale (voice)",
+      "order": 4
+    },
+    {
+      "name": "Timothy West",
+      "character": "Dymas (voice)",
+      "order": 5
+    },
+    {
+      "name": "Adriano Giannini",
+      "character": "Rat (voice)",
+      "order": 6
+    },
+    {
+      "name": "Raman Hui Shing-Ngai",
+      "character": "Jin (voice)",
+      "order": 7
+    },
+    {
+      "name": "Chung Chan",
+      "character": "Li (voice)",
+      "order": 8
+    },
+    {
+      "name": "Jim Cummings",
+      "character": "Luca / Additional Voices (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg",
+  "backdrop_path": "/j8isWEPL3PmmVh8ap3jm75qVF4p.jpg",
+  "budget": 60000000,
+  "revenue": 80767884,
+  "vote_average": 7.002,
+  "vote_count": 2167,
+  "imdb_id": "tt0165982",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "MX",
+      "rating": "AA"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

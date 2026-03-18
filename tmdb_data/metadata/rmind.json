@@ -1,0 +1,223 @@
+{
+  "tmdb_id": 453,
+  "title": "A Beautiful Mind",
+  "original_title": "A Beautiful Mind",
+  "release_date": "2001-12-14",
+  "runtime": 135,
+  "tagline": "He saw the world in a way no one could have imagined.",
+  "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Howard"
+  ],
+  "writers": [
+    {
+      "name": "Sylvia Nasar",
+      "job": "Book"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "job": "Writer"
+    },
+    {
+      "name": "Will Jennings",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Hallowell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ron Howard",
+      "job": "Producer"
+    },
+    {
+      "name": "Karen Kehela Sherwood",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Russell Crowe",
+      "character": "John Nash",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Connelly",
+      "character": "Alicia Nash",
+      "order": 1
+    },
+    {
+      "name": "Ed Harris",
+      "character": "William Parcher",
+      "order": 2
+    },
+    {
+      "name": "Paul Bettany",
+      "character": "Charles Herman",
+      "order": 3
+    },
+    {
+      "name": "Christopher Plummer",
+      "character": "Dr. Rosen",
+      "order": 4
+    },
+    {
+      "name": "Adam Goldberg",
+      "character": "Richard Sol",
+      "order": 5
+    },
+    {
+      "name": "Josh Lucas",
+      "character": "Martin Hansen",
+      "order": 6
+    },
+    {
+      "name": "Anthony Rapp",
+      "character": "Bender",
+      "order": 7
+    },
+    {
+      "name": "Jason Gray-Stanford",
+      "character": "Ainsley Neilson",
+      "order": 8
+    },
+    {
+      "name": "Judd Hirsch",
+      "character": "Helinger",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+  "backdrop_path": "/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+  "budget": 58000000,
+  "revenue": 316791257,
+  "vote_average": 7.853,
+  "vote_count": 10922,
+  "imdb_id": "tt0268978",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "TW",
+      "rating": "保護級"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

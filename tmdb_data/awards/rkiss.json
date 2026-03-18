@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "03 Oct 1997",
+  "runtime": "115 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Gary Fleder",
+  "writer": "James Patterson, David Klass",
+  "actors": "Morgan Freeman, Ashley Judd, Cary Elwes",
+  "plot": "Alex Cross, a Washington D.C. cop and forensic psychologist learns that his niece who is going to college in North Carolina is missing. So he goes there and learns that the police think she's among the victims of someone who kidnaps young girls and holds them captive and kills them who dubs himself Cassanova after the great lover. Later Kate, one of his victims, escapes and tries to help Cross find his niece.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "metascore": "46",
+  "imdb_rating": "6.6",
+  "imdb_votes": "99,265",
+  "box_office": "$60,527,873",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=Kiss+the+Girls"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/Kiss+the+Girls/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119468/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119468/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9437"
+  }
+}

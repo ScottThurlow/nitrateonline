@@ -1,0 +1,129 @@
+{
+  "tmdb_id": 18408,
+  "title": "Cherish",
+  "original_title": "Cherish",
+  "release_date": "2002-01-17",
+  "runtime": 99,
+  "tagline": "She'd get out more if it wasn't a felony.",
+  "overview": "After a martini-induced rampage, a fantasy-prone young woman is placed under house arrest.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Outpost Studios",
+      "country": ""
+    },
+    {
+      "name": "3 Ring Circus Films",
+      "country": ""
+    },
+    {
+      "name": "Concrete Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Finn Taylor"
+  ],
+  "writers": [
+    {
+      "name": "Finn Taylor",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Johnny Wow",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Burton",
+      "job": "Producer"
+    },
+    {
+      "name": "John Sideropoulos",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Siebert",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeff Boortz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Tunney",
+      "character": "Zoe",
+      "order": 0
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "character": "Daly",
+      "order": 1
+    },
+    {
+      "name": "Brad Hunt",
+      "character": "D.J.",
+      "order": 2
+    },
+    {
+      "name": "Liz Phair",
+      "character": "Brynn",
+      "order": 3
+    },
+    {
+      "name": "Jason Priestley",
+      "character": "Andrew",
+      "order": 4
+    },
+    {
+      "name": "Nora Dunn",
+      "character": "Bell",
+      "order": 5
+    },
+    {
+      "name": "Lindsay Crouse",
+      "character": "Therapist",
+      "order": 6
+    },
+    {
+      "name": "Kenny Kwong",
+      "character": "Yung",
+      "order": 7
+    },
+    {
+      "name": "Ricardo Gil",
+      "character": "Max",
+      "order": 8
+    },
+    {
+      "name": "Stephen Polk",
+      "character": "Joyce",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hTNAKGnqi8v4FRPEjm9Wl5S5yMz.jpg",
+  "backdrop_path": "/iTgjBD4EkeA3Ra86E1X47vgREO7.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 41,
+  "imdb_id": "tt0298798",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

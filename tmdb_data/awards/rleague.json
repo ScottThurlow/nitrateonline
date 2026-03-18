@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "12 nominations total",
+  "rated": "PG-13",
+  "released": "11 Jul 2003",
+  "runtime": "110 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Stephen Norrington",
+  "writer": "Alan Moore, Kevin O'Neill, James Robinson",
+  "actors": "Sean Connery, Stuart Townsend, Peta Wilson",
+  "plot": "Renowned adventurer Allan Quatermain leads a team of extraordinary figures with legendary powers to battle the technological terror of a madman known as \"The Fantom\". This \"League\" comprises seafarer and inventor Captain Nemo, vampire Mina Harker, an invisible man named Rodney Skinner, American Secret Service Agent Tom Sawyer, the ageless and invincible Dorian Gray, and the dangerous split personality of Dr. Jekyll and Mr. Hyde.",
+  "language": "English, German, Italian",
+  "country": "United States, Germany, Czech Republic, United Kingdom",
+  "metascore": "30",
+  "imdb_rating": "5.8",
+  "imdb_votes": "191,139",
+  "box_office": "$66,465,204",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "17%",
+      "link": "https://www.rottentomatoes.com/search?search=The+League+of+Extraordinary+Gentlemen"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/The+League+of+Extraordinary+Gentlemen/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0311429/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0311429/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8698"
+  }
+}

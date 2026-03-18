@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 14662,
+  "title": "Slums of Beverly Hills",
+  "original_title": "Slums of Beverly Hills",
+  "release_date": "1998-08-14",
+  "runtime": 91,
+  "tagline": "Growing up is hard to do.",
+  "overview": "In 1976, a lower-middle-class teenager struggles to cope living with her neurotic family of nomads on the outskirts of Beverly Hills.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "South Fork Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tamara Jenkins"
+  ],
+  "writers": [
+    {
+      "name": "Tamara Jenkins",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Nozik",
+      "job": "Producer"
+    },
+    {
+      "name": "Stan Wlodkowski",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Redford",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Natasha Lyonne",
+      "character": "Vivian Abromowitz",
+      "order": 0
+    },
+    {
+      "name": "Alan Arkin",
+      "character": "Murray Samuel Abromowitz",
+      "order": 1
+    },
+    {
+      "name": "Marisa Tomei",
+      "character": "Rita Abromowitz",
+      "order": 2
+    },
+    {
+      "name": "Eli Marienthal",
+      "character": "Rickey Abromowitz",
+      "order": 3
+    },
+    {
+      "name": "David Krumholtz",
+      "character": "Ben Abromowitz",
+      "order": 4
+    },
+    {
+      "name": "Kevin Corrigan",
+      "character": "Eliot Arenson",
+      "order": 5
+    },
+    {
+      "name": "Jessica Walter",
+      "character": "Doris",
+      "order": 6
+    },
+    {
+      "name": "Mena Suvari",
+      "character": "Rachel Hoffman",
+      "order": 7
+    },
+    {
+      "name": "Carl Reiner",
+      "character": "Mickey",
+      "order": 8
+    },
+    {
+      "name": "Harris Laskawy",
+      "character": "Charlie the Cook",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bTY6I0Mju4vTRHGoTZrNtxtAlAO.jpg",
+  "backdrop_path": "/u5To9HnmkbVym4cE8LzAORP8hEm.jpg",
+  "budget": 5000000,
+  "revenue": 5502773,
+  "vote_average": 6.3,
+  "vote_count": 243,
+  "imdb_id": "tt0120831",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

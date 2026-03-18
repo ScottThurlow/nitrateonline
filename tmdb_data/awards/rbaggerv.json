@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins & 11 nominations total",
+  "rated": "PG-13",
+  "released": "03 Nov 2000",
+  "runtime": "126 min",
+  "genre": "Drama, Sport",
+  "director": "Robert Redford",
+  "writer": "Steven Pressfield, Jeremy Leven",
+  "actors": "Will Smith, Matt Damon, Charlize Theron",
+  "plot": "A disillusioned war veteran, Captain Rannulph Junuh, reluctantly agrees to play a game of golf. He finds the game futile until his caddy, Bagger Vance, teaches him the secret of the authentic golf stroke which turns out also to be the secret to mastering any challenge and finding meaning in life.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "metascore": "47",
+  "imdb_rating": "6.7",
+  "imdb_votes": "61,148",
+  "box_office": "$30,919,168",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Legend+of+Bagger+Vance"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/The+Legend+of+Bagger+Vance/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0146984/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0146984/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4958"
+  }
+}

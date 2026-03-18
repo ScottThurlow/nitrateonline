@@ -1,0 +1,159 @@
+{
+  "tmdb_id": 12207,
+  "title": "The Legend of Drunken Master",
+  "original_title": "醉拳二",
+  "release_date": "1994-02-03",
+  "runtime": 102,
+  "tagline": "He's got a secret weapon with a lot of kick.",
+  "overview": "Returning home with his father after a shopping expedition, Wong Fei-Hong is unwittingly caught up in the battle between foreigners who wish to export ancient Chinese artifacts and loyalists who don't want the pieces to leave the country. Fei-Hong must fight against the foreigners using his Drunken Boxing style, and overcome his father's antagonism as well.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Cantonese"
+  ],
+  "production_companies": [
+    {
+      "name": "Orange Sky Golden Harvest",
+      "country": "HK"
+    },
+    {
+      "name": "Hong Kong Stuntman Association",
+      "country": "HK"
+    },
+    {
+      "name": "Paragon Films",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Lau Kar-Leung"
+  ],
+  "writers": [
+    {
+      "name": "Edward Tang",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Yuen Kai-Chi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lai Man-Ting",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric Tsang Chi-Wai",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward Tang",
+      "job": "Producer"
+    },
+    {
+      "name": "Leonard Ho",
+      "job": "Producer"
+    },
+    {
+      "name": "Barbie Tung Wan-Si",
+      "job": "Producer"
+    },
+    {
+      "name": "Hon Yee-Sang",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "character": "Wong Fei-hung",
+      "order": 0
+    },
+    {
+      "name": "Ti Lung",
+      "character": "Wong Kei-Ying",
+      "order": 1
+    },
+    {
+      "name": "Anita Mui",
+      "character": "Ling",
+      "order": 2
+    },
+    {
+      "name": "Ram Chiang Chi-Kwong",
+      "character": "Tso",
+      "order": 3
+    },
+    {
+      "name": "Lau Kar-Leung",
+      "character": "Fu Wen-Chi",
+      "order": 4
+    },
+    {
+      "name": "Ken Lo Wai-Kwong",
+      "character": "John",
+      "order": 5
+    },
+    {
+      "name": "Pak Ho-Sung",
+      "character": "Henry",
+      "order": 6
+    },
+    {
+      "name": "Felix Wong Yat-Wah",
+      "character": "Fishmonger Tsan",
+      "order": 7
+    },
+    {
+      "name": "Hoh Wing-Fong",
+      "character": "Fun",
+      "order": 8
+    },
+    {
+      "name": "Chin Ka-Lok",
+      "character": "Fo Sang",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xqUBrSBtPYLvCtfqHF5sapU6Div.jpg",
+  "backdrop_path": "/zo14UuFDTVy91cBNWHplHCqHCPt.jpg",
+  "budget": 10000000,
+  "revenue": 34300528,
+  "vote_average": 7.437,
+  "vote_count": 1055,
+  "imdb_id": "tt0111512",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

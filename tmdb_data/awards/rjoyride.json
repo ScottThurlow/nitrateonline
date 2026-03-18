@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "05 Oct 2001",
+  "runtime": "97 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "John Dahl",
+  "writer": "Clay Tarver, J.J. Abrams",
+  "actors": "Steve Zahn, Paul Walker, Leelee Sobieski",
+  "plot": "College student Lewis decides to drive across the country to see Venna, a friend who doesn't know that Lewis is interested in her romantically. Unfortunately for his plans, Lewis gets saddled with his raucous-spirited older brother, Fuller, whose on-the-road pranks get the brothers and Venna sucked into a nightmare when a psychopathic truck driver takes offense.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "75",
+  "imdb_rating": "6.6",
+  "imdb_votes": "80,812",
+  "box_office": "$21,974,919",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=Joy+Ride"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/Joy+Ride/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0206314/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0206314/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10866"
+  }
+}

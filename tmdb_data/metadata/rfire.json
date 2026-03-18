@@ -1,0 +1,216 @@
+{
+  "tmdb_id": 6278,
+  "title": "Reign of Fire",
+  "original_title": "Reign of Fire",
+  "release_date": "2002-07-09",
+  "runtime": 101,
+  "tagline": "They're extremely intelligent. Highly evolved. And they don't like sharing the planet.",
+  "overview": "In post-apocalyptic England, an American volunteer and a British survivor team up to fight off a brood of fire-breathing dragons seeking to return to global dominance after centuries of rest underground. The Brit -- leading a clan of survivors to hunt down the King of the Dragons -- has much at stake: His mother was killed by a dragon, but his love is still alive.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "The Zanuck Company",
+      "country": "US"
+    },
+    {
+      "name": "World 2000 Entertainment",
+      "country": "IE"
+    },
+    {
+      "name": "Birnbaum/Barber Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Bowman"
+  ],
+  "writers": [
+    {
+      "name": "Gregg Chabot",
+      "job": "Writer"
+    },
+    {
+      "name": "Matt Greenberg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Peterka",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard D. Zanuck",
+      "job": "Producer"
+    },
+    {
+      "name": "Lili Fini Zanuck",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "character": "Quinn Abercromby",
+      "order": 0
+    },
+    {
+      "name": "Matthew McConaughey",
+      "character": "Denton Van Zan",
+      "order": 1
+    },
+    {
+      "name": "Izabella Scorupco",
+      "character": "Alex Jensen",
+      "order": 2
+    },
+    {
+      "name": "Gerard Butler",
+      "character": "Creedy",
+      "order": 3
+    },
+    {
+      "name": "Alexander Siddig",
+      "character": "Ajay",
+      "order": 4
+    },
+    {
+      "name": "Scott Moutter",
+      "character": "Jared Wilke",
+      "order": 5
+    },
+    {
+      "name": "David Kennedy",
+      "character": "Eddie Stax",
+      "order": 6
+    },
+    {
+      "name": "Ned Dennehy",
+      "character": "Barlow",
+      "order": 7
+    },
+    {
+      "name": "Rory Keenan",
+      "character": "Devon",
+      "order": 8
+    },
+    {
+      "name": "Terence Maynard",
+      "character": "Gideon",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg",
+  "backdrop_path": "/gAozjuCvXYyrxhpkb0P4SuLnEkV.jpg",
+  "budget": 60000000,
+  "revenue": 82150183,
+  "vote_average": 6.2,
+  "vote_count": 2408,
+  "imdb_id": "tt0253556",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

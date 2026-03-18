@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "19 Feb 1999",
+  "runtime": "86 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Darren Stein",
+  "writer": "Darren Stein",
+  "actors": "Rose McGowan, Rebecca Gayheart, Julie Benz",
+  "plot": "In a no-holds-barred birthday prank, three of Reagan High School's most popular girls - Julie, Marcie, and Courtney - pretend to kidnap the most popular, Liz Purr. Courtney shoves a jawbreaker into the victim's mouth ostensibly to keep her from screaming. Their plan goes awry when the girl accidentally swallows the jawbreaker, choking to death. The cool and calculating Courtney tries to cover the crime but is found out by school geek Fern Mayo. In return for her silence, Courtney transforms the gawky Fern into the stylishly beautiful Vylette, leaving the conscience-stricken Julie out in the cold, threatening to set her up for the girl's murder if she breaks her silence.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "24",
+  "imdb_rating": "5.7",
+  "imdb_votes": "30,284",
+  "box_office": "$3,117,085",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "16%",
+      "link": "https://www.rottentomatoes.com/search?search=Jawbreaker"
+    },
+    {
+      "source": "Metacritic",
+      "value": "24/100",
+      "link": "https://www.metacritic.com/search/Jawbreaker/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0155776/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0155776/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18892"
+  }
+}

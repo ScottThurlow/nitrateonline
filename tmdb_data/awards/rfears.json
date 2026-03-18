@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 5 nominations total",
+  "rated": "PG-13",
+  "released": "31 May 2002",
+  "runtime": "124 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Phil Alden Robinson",
+  "writer": "Tom Clancy, Paul Attanasio, Daniel Pyne",
+  "actors": "Ben Affleck, Morgan Freeman, Ian Mongrain",
+  "plot": "When the President of Russia suddenly dies, a man whose politics are virtually unknown succeeds him. This change in political leaders sparks paranoia among American CIA officials, so CIA Director Bill Cabot (Morgan Freeman) recruits young analyst Jack Ryan (Ben Affleck) to supply insight and advice on the situation. Then the unthinkable happens: a nuclear bomb explodes in a US city, and America is quick to blame the Russians.",
+  "language": "English, Russian, Ukrainian, German, Arabic",
+  "country": "United States, Germany, Canada",
+  "metascore": "45",
+  "imdb_rating": "6.5",
+  "imdb_votes": "133,688",
+  "box_office": "$118,907,036",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Sum+of+All+Fears"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/The+Sum+of+All+Fears/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0164184/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0164184/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4614"
+  }
+}

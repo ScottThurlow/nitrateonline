@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Nominated for 2 Oscars. 11 wins & 25 nominations total",
+  "rated": "R",
+  "released": "05 Jan 1996",
+  "runtime": "129 min",
+  "genre": "Mystery, Sci-Fi, Thriller",
+  "director": "Terry Gilliam",
+  "writer": "Chris Marker, David Webb Peoples, Janet Peoples",
+  "actors": "Bruce Willis, Madeleine Stowe, Brad Pitt",
+  "plot": "James Cole, a prisoner of the state in the year 2035, can earn parole if he agrees to travel back in time and thwart a devastating plague. The virus has wiped out most of the Earth's population and the remainder live underground because the air is poisonous. Returning to the year 1990, six years before the start of the plague, Cole is soon imprisoned in a psychiatric facility because his warnings sound like mad ravings. There he meets a scientist named Dr. Kathryn Railly and Jeffrey Goines, the mad son of an eminent virologist. Cole is returned by the authorities to the year 2035, and finally ends up at his intended destination in 1996. He kidnaps Dr. Railly in order to enlist her help in his quest. Cole discovers graffiti by an apparent animal rights group called the Army of the Twelve Monkeys, but as he delves into the mystery, he hears voices, loses his bearings, and doubts his own sanity. He must figure out if Goines, who seems to be a raving lunatic, holds the key to the puzzle.",
+  "language": "English, French, Latin, Spanish, German",
+  "country": "United States",
+  "metascore": "75",
+  "imdb_rating": "8.0",
+  "imdb_votes": "676,593",
+  "box_office": "$57,141,459",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=12+Monkeys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/12+Monkeys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0114746/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0114746/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/63"
+  }
+}

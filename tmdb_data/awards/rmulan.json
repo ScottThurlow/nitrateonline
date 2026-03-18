@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 Oscar. 17 wins & 21 nominations total",
+  "rated": "G",
+  "released": "19 Jun 1998",
+  "runtime": "87 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Tony Bancroft, Barry Cook",
+  "writer": "Robert D. San Souci, Rita Hsiao, Chris Sanders",
+  "actors": "Ming-Na Wen, Eddie Murphy, BD Wong",
+  "plot": "This retelling of the old Chinese folktale is about the story of a young Chinese maiden who learns that her weakened and lame father is to be called up into the army in order to fight the invading Huns. Knowing that he would never survive the rigours of war in his state, she decides to disguise herself and join in his place. Unknown to her, her ancestors are aware of this and to prevent it, they order a tiny disgraced dragon, Mushu to join her in order to force her to abandon her plan. He agrees, but when he meets Mulan, he learns that she cannot be dissuaded and so decides to help her in the perilous times ahead.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "metascore": "72",
+  "imdb_rating": "7.7",
+  "imdb_votes": "343,199",
+  "box_office": "$120,620,254",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Mulan"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Mulan/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120762/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120762/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10674"
+  }
+}

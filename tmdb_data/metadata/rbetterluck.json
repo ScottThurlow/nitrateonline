@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 14290,
+  "title": "Better Luck Tomorrow",
+  "original_title": "Better Luck Tomorrow",
+  "release_date": "2002-01-12",
+  "runtime": 101,
+  "tagline": "Never underestimate an overachiever.",
+  "overview": "A group of over-achieving Asian-American high school seniors enjoy a power trip when they dip into extra-curricular criminal activities.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cherry Sky Films",
+      "country": ""
+    },
+    {
+      "name": "Day O Productions",
+      "country": ""
+    },
+    {
+      "name": "Hudson River Entertainment",
+      "country": ""
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Trailing Johnson Productions",
+      "country": ""
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Justin Lin"
+  ],
+  "writers": [
+    {
+      "name": "Ernesto Foronda",
+      "job": "Writer"
+    },
+    {
+      "name": "Justin Lin",
+      "job": "Writer"
+    },
+    {
+      "name": "Fabian Marquez",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ernesto Foronda",
+      "job": "Producer"
+    },
+    {
+      "name": "Julie Asato",
+      "job": "Producer"
+    },
+    {
+      "name": "Justin Lin",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Cole",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Troy Craig Poon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael D. Manshel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gustavo Spoliansky",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Parry Shen",
+      "character": "Ben Manibag",
+      "order": 0
+    },
+    {
+      "name": "Jason Tobin",
+      "character": "Virgil Hu",
+      "order": 1
+    },
+    {
+      "name": "Sung Kang",
+      "character": "Han Lue",
+      "order": 2
+    },
+    {
+      "name": "Karin Anna Cheung",
+      "character": "Stephanie Vandergosh",
+      "order": 3
+    },
+    {
+      "name": "Roger Fan",
+      "character": "Daric Loo",
+      "order": 4
+    },
+    {
+      "name": "Jerry Mathers",
+      "character": "Biology Teacher",
+      "order": 5
+    },
+    {
+      "name": "John Cho",
+      "character": "Steve Choe",
+      "order": 6
+    },
+    {
+      "name": "Aaron Takahashi",
+      "character": "Takashi",
+      "order": 7
+    },
+    {
+      "name": "Darian Weiss",
+      "character": "Kenny Vandergosh",
+      "order": 8
+    },
+    {
+      "name": "Ariadne Shaffer",
+      "character": "Rachel",
+      "order": 9
+    }
+  ],
+  "poster_path": "/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg",
+  "backdrop_path": "/y0ulvcDrRtOOpI485sLi8q1kEr2.jpg",
+  "budget": 250000,
+  "revenue": 3800000,
+  "vote_average": 6.3,
+  "vote_count": 97,
+  "imdb_id": "tt0280477",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

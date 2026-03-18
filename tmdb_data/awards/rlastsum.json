@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "5 wins & 7 nominations total",
+  "rated": "R",
+  "released": "13 Nov 1998",
+  "runtime": "100 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Danny Cannon",
+  "writer": "Lois Duncan, Trey Callaway",
+  "actors": "Jennifer Love Hewitt, Freddie Prinze Jr., Brandy Norwood",
+  "plot": "Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her, causes her relationship with Ray Bronson to suffer further. When her best friend Karla Wilson wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.",
+  "language": "English",
+  "country": "United States, Mexico",
+  "metascore": "21",
+  "imdb_rating": "4.8",
+  "imdb_votes": "87,212",
+  "box_office": "$40,002,112",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "10%",
+      "link": "https://www.rottentomatoes.com/search?search=I+Still+Know+What+You+Did+Last+Summer"
+    },
+    {
+      "source": "Metacritic",
+      "value": "21/100",
+      "link": "https://www.metacritic.com/search/I+Still+Know+What+You+Did+Last+Summer/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0130018/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0130018/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3600"
+  }
+}

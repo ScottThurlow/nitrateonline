@@ -1,0 +1,284 @@
+{
+  "tmdb_id": 664,
+  "title": "Twister",
+  "original_title": "Twister",
+  "release_date": "1996-05-10",
+  "runtime": 113,
+  "tagline": "The dark side of nature.",
+  "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jan de Bont"
+  ],
+  "writers": [
+    {
+      "name": "Michael Crichton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Anne-Marie Martin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Fireball Tim Lawrence",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kathleen Kennedy",
+      "job": "Producer"
+    },
+    {
+      "name": "Ian Bryce",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurie MacDonald",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Crichton",
+      "job": "Producer"
+    },
+    {
+      "name": "Gerald R. Molen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Helen Hunt",
+      "character": "Jo",
+      "order": 0
+    },
+    {
+      "name": "Bill Paxton",
+      "character": "Bill",
+      "order": 1
+    },
+    {
+      "name": "Jami Gertz",
+      "character": "Melissa",
+      "order": 2
+    },
+    {
+      "name": "Cary Elwes",
+      "character": "Jonas",
+      "order": 3
+    },
+    {
+      "name": "Lois Smith",
+      "character": "Aunt Meg",
+      "order": 4
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Dusty",
+      "order": 5
+    },
+    {
+      "name": "Alan Ruck",
+      "character": "Rabbit",
+      "order": 6
+    },
+    {
+      "name": "Sean Whalen",
+      "character": "Sanders",
+      "order": 7
+    },
+    {
+      "name": "Scott Thomson",
+      "character": "Preacher",
+      "order": 8
+    },
+    {
+      "name": "Todd Field",
+      "character": "Beltzer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+  "backdrop_path": "/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+  "budget": 92000000,
+  "revenue": 494471524,
+  "vote_average": 6.55,
+  "vote_count": 3769,
+  "imdb_id": "tt0117998",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IL",
+      "rating": "12"
+    },
+    {
+      "country": "IN",
+      "rating": "U/A 7+"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "TH",
+      "rating": "13"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "TW",
+      "rating": "0+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    },
+    {
+      "country": "ZA",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

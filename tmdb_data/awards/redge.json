@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "26 Sep 1997",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Lee Tamahori",
+  "writer": "David Mamet",
+  "actors": "Anthony Hopkins, Alec Baldwin, Elle Macpherson",
+  "plot": "A model has her rich, much older husband come with her to a photo shoot. But when their plane crashes in the middle of nowhere, a strong mind game erupts between the clever husband and the jealous young photographer as they try to get back to civilization.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "66",
+  "imdb_rating": "6.9",
+  "imdb_votes": "83,217",
+  "box_office": "$27,873,386",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Edge"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/The+Edge/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119051/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119051/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9433"
+  }
+}

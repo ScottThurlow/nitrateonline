@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "2 nominations",
+  "rated": "PG",
+  "released": "18 Aug 2000",
+  "runtime": "99 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Takao Okawara",
+  "writer": "Hiroshi Kashiwabara, Wataru Mimura, Takao Okawara",
+  "actors": "Takehiro Murata, Hiroshi Abe, Naomi Nishida",
+  "plot": "Godzilla returns in a brand-new movie that ignores all preceding movies except for the original with a brand new look and a powered up atomic ray. This time he battles a mysterious UFO that later transforms into a mysterious kaiju dubbed Orga. They meet up for the final showdown in the city of Shinjuku.",
+  "language": "Japanese, Russian, Czech, English",
+  "country": "Japan",
+  "metascore": "41",
+  "imdb_rating": "6.0",
+  "imdb_votes": "9,682",
+  "box_office": "$10,037,390",
+  "dvd": "22 Feb 2000",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "41/100",
+      "link": "https://www.metacritic.com/search/Godzilla+2000/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0188640/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0188640/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10643"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tmdb_id": 61487,
+  "title": "Mayor of the Sunset Strip",
+  "original_title": "Mayor of the Sunset Strip",
+  "release_date": "2003-06-17",
+  "runtime": 94,
+  "tagline": "One unlikely man made America listen",
+  "overview": "A look at the history of fame in the world through the eyes of pop star impresario, Rodney Bingenheimer",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "George Hickenlooper"
+  ],
+  "writers": [
+    {
+      "name": "George Hickenlooper",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Rodney Bingenheimer",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Kim Fowley",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Exene Cervenka",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "John Doe",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Courtney Love",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Alice Cooper",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Debbie Harry",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Neil Young",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "George Wendt",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Pete Townshend",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1vRVeVhozMozvQSubTlcmQlHKK0.jpg",
+  "backdrop_path": "/nF3At92CEaTHhPactTHgPRpMpnh.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.8,
+  "vote_count": 29,
+  "imdb_id": "tt0230512",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    }
+  ],
+  "status": "Released"
+}

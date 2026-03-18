@@ -1,0 +1,284 @@
+{
+  "tmdb_id": 8358,
+  "title": "Cast Away",
+  "original_title": "Cast Away",
+  "release_date": "2000-12-22",
+  "runtime": 143,
+  "tagline": "At the edge of the world, his journey begins.",
+  "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Russian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "ImageMovers",
+      "country": "US"
+    },
+    {
+      "name": "Playtone",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Zemeckis"
+  ],
+  "writers": [
+    {
+      "name": "William Broyles Jr.",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Hanks",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Zemeckis",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Starkey",
+      "job": "Producer"
+    },
+    {
+      "name": "Joan Bradshaw",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jack Rapke",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "character": "Chuck Noland",
+      "order": 0
+    },
+    {
+      "name": "Helen Hunt",
+      "character": "Kelly Frears",
+      "order": 1
+    },
+    {
+      "name": "Chris Noth",
+      "character": "Jerry Lovett",
+      "order": 2
+    },
+    {
+      "name": "Paul Sanchez",
+      "character": "Ramon",
+      "order": 3
+    },
+    {
+      "name": "Lari White",
+      "character": "Bettina Peterson",
+      "order": 4
+    },
+    {
+      "name": "Leonid Citer",
+      "character": "Fyodor",
+      "order": 5
+    },
+    {
+      "name": "David Allen Brooks",
+      "character": "Dick Peterson",
+      "order": 6
+    },
+    {
+      "name": "Semion Sudarikov",
+      "character": "Nicolai",
+      "order": 7
+    },
+    {
+      "name": "Peter Von Berg",
+      "character": "Yuri",
+      "order": 8
+    },
+    {
+      "name": "Dmitri S. Boudrine",
+      "character": "Lev",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+  "backdrop_path": "/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+  "budget": 90000000,
+  "revenue": 429632142,
+  "vote_average": 7.66,
+  "vote_count": 12117,
+  "imdb_id": "tt0162222",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IL",
+      "rating": "12"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MY",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "TH",
+      "rating": "13"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "TW",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

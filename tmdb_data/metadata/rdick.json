@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 16406,
+  "title": "Dick",
+  "original_title": "Dick",
+  "release_date": "1999-08-04",
+  "runtime": 94,
+  "tagline": "He was tricky. They were better.",
+  "overview": "Two high school girls wander off during a class trip to the White House and meet President Richard Nixon. They become the official dog walkers for Nixon's dog Checkers, and become his secret advisors during the Watergate scandal.",
+  "genres": [
+    "Comedy",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Pacific Western",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Fleming"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Fleming",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Sheryl Longin",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gale Anne Hurd",
+      "job": "Producer"
+    },
+    {
+      "name": "David Coatsworth",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kirsten Dunst",
+      "character": "Betsy Jobs",
+      "order": 0
+    },
+    {
+      "name": "Michelle Williams",
+      "character": "Arlene Lorenzo",
+      "order": 1
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "President Richard M. Nixon",
+      "order": 2
+    },
+    {
+      "name": "Will Ferrell",
+      "character": "Bob Woodward",
+      "order": 3
+    },
+    {
+      "name": "Bruce McCulloch",
+      "character": "Carl Bernstein",
+      "order": 4
+    },
+    {
+      "name": "Teri Garr",
+      "character": "Helen Lorenzo",
+      "order": 5
+    },
+    {
+      "name": "Dave Foley",
+      "character": "Bob Haldeman",
+      "order": 6
+    },
+    {
+      "name": "Jim Breuer",
+      "character": "John Dean",
+      "order": 7
+    },
+    {
+      "name": "Ana Gasteyer",
+      "character": "Rose Mary Woods",
+      "order": 8
+    },
+    {
+      "name": "Harry Shearer",
+      "character": "G. Gordon Liddy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aBG4XoK5xkujl4crloPs6bStl4m.jpg",
+  "backdrop_path": "/5WLdmRWfTpohU3aSbBgvF4zljfM.jpg",
+  "budget": 13000000,
+  "revenue": 27500000,
+  "vote_average": 5.945,
+  "vote_count": 293,
+  "imdb_id": "tt0144168",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

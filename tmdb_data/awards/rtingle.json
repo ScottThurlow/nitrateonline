@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "4 nominations total",
+  "rated": "PG-13",
+  "released": "20 Aug 1999",
+  "runtime": "96 min",
+  "genre": "Comedy, Thriller",
+  "director": "Kevin Williamson",
+  "writer": "Kevin Williamson",
+  "actors": "Helen Mirren, Marisa Coughlan, Katie Holmes",
+  "plot": "Leigh Ann Watson (Katie Holmes) is salutatorian when she needs to be valedictorian to get her scholarship to Harvard. The only class she is worse than the leader in is history, taught by Mrs. Tingle (Dame Helen Mirren), and the teacher hates her. When an attempt to get ahead in Mrs. Tingle's class goes awry, mayhem ensues and friendships, loyalties, and trust are tested by the teacher's intricate mind-games.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "35",
+  "imdb_rating": "5.3",
+  "imdb_votes": "22,227",
+  "box_office": "$8,951,935",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=Teaching+Mrs.+Tingle"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/Teaching+Mrs.+Tingle/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0133046/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0133046/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10342"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "tmdb_id": 33994,
+  "title": "Ivansxtc",
+  "original_title": "Ivansxtc",
+  "release_date": "2000-09-12",
+  "runtime": 94,
+  "tagline": "There's a fine line between success and excess",
+  "overview": "Ivan Beckman, Hollywood's most sought-after talent agent, the darling and crown prince of La La Land, is dead. How and why did it happen? Was it drugs, murder, or perhaps something altogether more mundane? We begin with an ending and then catapult back a number of days to the apex of Ivan's brilliant career as he bags international megastar Don West onto his company's books. We then follow Ivan through the highs, lows, and extreme excesses of his final days.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Enos Rose Productions",
+      "country": "US"
+    },
+    {
+      "name": "Rhino Films",
+      "country": "US"
+    },
+    {
+      "name": "Alternative Investments of Michigan",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Bernard Rose"
+  ],
+  "writers": [
+    {
+      "name": "Bernard Rose",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lisa Enos",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Leo Tolstoy",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kenneth Enos",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lisa Enos",
+      "job": "Producer"
+    },
+    {
+      "name": "Lisa Henson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stephen Nemeth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cat Villiers",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Danny Huston",
+      "character": "Ivan Beckman",
+      "order": 0
+    },
+    {
+      "name": "Peter Weller",
+      "character": "Don West",
+      "order": 1
+    },
+    {
+      "name": "Lisa Enos",
+      "character": "Charlotte White",
+      "order": 2
+    },
+    {
+      "name": "Joanne Duckman",
+      "character": "Marcia Beckman",
+      "order": 3
+    },
+    {
+      "name": "Angela Featherstone",
+      "character": "Amanda Hill",
+      "order": 4
+    },
+    {
+      "name": "Caroleen Feeney",
+      "character": "Rosemary Kramer",
+      "order": 5
+    },
+    {
+      "name": "Valeria Golino",
+      "character": "Constanza Vero",
+      "order": 6
+    },
+    {
+      "name": "Adam Krentzman",
+      "character": "Barry Oaks",
+      "order": 7
+    },
+    {
+      "name": "Heidi Jo Markel",
+      "character": "Francesca Knight",
+      "order": 8
+    },
+    {
+      "name": "James Merendino",
+      "character": "Danny McTeague",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xKaxXiyUAOEQpfxWY3oLNZJbovL.jpg",
+  "backdrop_path": "/smMJcqjhHEJUaBBfyg8Xc3Du7nd.jpg",
+  "budget": 0,
+  "revenue": 47027,
+  "vote_average": 5.2,
+  "vote_count": 26,
+  "imdb_id": "tt0238321",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

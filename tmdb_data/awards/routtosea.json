@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "02 Jul 1997",
+  "runtime": "106 min",
+  "genre": "Comedy, Romance",
+  "director": "Martha Coolidge",
+  "writer": "Robert Nelson Jacobs",
+  "actors": "Jack Lemmon, Walter Matthau, Dyan Cannon",
+  "plot": "Care-free Charlie cons his widower brother-in-law Herb into an expenses-paid luxury cruise in search of rich, lonely ladies. The catch is that they are required to be dance hosts! With a tyrannical cruise director, and the luscious Liz and lovely Vivian, our heroes have lots of mis-adventures before they finally return to port.",
+  "language": "English, Italian, Japanese, Spanish",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "6.1",
+  "imdb_votes": "9,673",
+  "box_office": "$29,022,252",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Out+to+Sea"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Out+to+Sea/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119848/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119848/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18080"
+  }
+}

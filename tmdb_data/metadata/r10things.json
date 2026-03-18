@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 4951,
+  "title": "10 Things I Hate About You",
+  "original_title": "10 Things I Hate About You",
+  "release_date": "1999-03-30",
+  "runtime": 97,
+  "tagline": "How do I loathe thee? Let me count the ways.",
+  "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Mad Chance",
+      "country": "US"
+    },
+    {
+      "name": "Jaret Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gil Junger"
+  ],
+  "writers": [
+    {
+      "name": "Karen McCullah",
+      "job": "Writer"
+    },
+    {
+      "name": "Kirsten Smith",
+      "job": "Writer"
+    },
+    {
+      "name": "William Shakespeare",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Chernov",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Seth Jaret",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Lazar",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Heath Ledger",
+      "character": "Patrick Verona",
+      "order": 0
+    },
+    {
+      "name": "Julia Stiles",
+      "character": "Katarina Stratford",
+      "order": 1
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "character": "Cameron James",
+      "order": 2
+    },
+    {
+      "name": "Larisa Oleynik",
+      "character": "Bianca Stratford",
+      "order": 3
+    },
+    {
+      "name": "David Krumholtz",
+      "character": "Michael Eckman",
+      "order": 4
+    },
+    {
+      "name": "Andrew Keegan",
+      "character": "Joey Donner",
+      "order": 5
+    },
+    {
+      "name": "Susan May Pratt",
+      "character": "Mandella",
+      "order": 6
+    },
+    {
+      "name": "Gabrielle Union",
+      "character": "Chastity",
+      "order": 7
+    },
+    {
+      "name": "Larry Miller",
+      "character": "Walter Stratford",
+      "order": 8
+    },
+    {
+      "name": "Daryl Mitchell",
+      "character": "Mr. Morgan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+  "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+  "budget": 16000000,
+  "revenue": 53478166,
+  "vote_average": 7.6,
+  "vote_count": 8791,
+  "imdb_id": "tt0147800",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IS",
+      "rating": "Leyfð"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

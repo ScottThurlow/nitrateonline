@@ -1,0 +1,111 @@
+{
+  "tmdb_id": 25163,
+  "title": "The Rat Pack",
+  "original_title": "The Rat Pack",
+  "release_date": "1998-08-22",
+  "runtime": 120,
+  "tagline": "They never let the rules get in the way of having fun.",
+  "overview": "After a brief flash-forward to Frank Sinatra as an old man, saying \"I miss my guys,\" the movie's main narrative begins during high points in the solo careers of the Rat Pack: Dean Martin has become a big success despite the breakup of his partnership with Jerry Lewis; Sinatra's career is at its peak; Sammy Davis, Jr., is making a comeback after a near fatal car crash, and standup comic Joey Bishop is gaining exposure as an opening act for the other three. The Pack becomes complete when Sinatra reconciles with actor Peter Lawford, who has been ostracized since being seen out publicly with Sinatra's ex-wife, Ava Gardner.",
+  "genres": [
+    "Drama",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "HBO",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Cohen"
+  ],
+  "writers": [
+    {
+      "name": "Kario Salem",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Fred C. Caruso",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ray Liotta",
+      "character": "Frank Sinatra",
+      "order": 0
+    },
+    {
+      "name": "Joe Mantegna",
+      "character": "Dean Martin",
+      "order": 1
+    },
+    {
+      "name": "Don Cheadle",
+      "character": "Sammy Davis Jr.",
+      "order": 2
+    },
+    {
+      "name": "Angus Macfadyen",
+      "character": "Peter Lawford",
+      "order": 3
+    },
+    {
+      "name": "William Petersen",
+      "character": "John F. Kennedy",
+      "order": 4
+    },
+    {
+      "name": "Željko Ivanek",
+      "character": "Bobby Kennedy",
+      "order": 5
+    },
+    {
+      "name": "Bobby Slayton",
+      "character": "Joey Bishop",
+      "order": 6
+    },
+    {
+      "name": "Megan Dodds",
+      "character": "May Britt",
+      "order": 7
+    },
+    {
+      "name": "Deborah Kara Unger",
+      "character": "Ava Gardner",
+      "order": 8
+    },
+    {
+      "name": "Veronica Cartwright",
+      "character": "Rocky Cooper",
+      "order": 9
+    }
+  ],
+  "poster_path": "/q720CdZKDSvYy4dux6lbfMOX1MA.jpg",
+  "backdrop_path": "/klIi6wJBc6WzbYgLp5XnkvJlb3n.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.837,
+  "vote_count": 43,
+  "imdb_id": "tt0146165",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

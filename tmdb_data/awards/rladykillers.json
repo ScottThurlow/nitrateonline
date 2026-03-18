@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "6 wins & 4 nominations total",
+  "rated": "R",
+  "released": "26 Mar 2004",
+  "runtime": "104 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Ethan Coen, Joel Coen",
+  "writer": "Joel Coen, Ethan Coen, William Rose",
+  "actors": "Tom Hanks, Marlon Wayans, Irma P. Hall",
+  "plot": "A remake of the 1955 comedy, the story revolves around a Southern professor who puts together a group of thieves to rob a casino. They rent a room in an old woman's house, but soon she discovers the plot and they must kill her, a task that is more difficult than it seems.",
+  "language": "English, Vietnamese",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.2",
+  "imdb_votes": "111,295",
+  "box_office": "$39,799,191",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Ladykillers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/The+Ladykillers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0335245/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0335245/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/5516"
+  }
+}

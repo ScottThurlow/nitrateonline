@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 wins & 5 nominations total",
+  "rated": "PG-13",
+  "released": "08 Aug 2003",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Clark Johnson",
+  "writer": "Robert Hamner, Ron Mita, Jim McClain",
+  "actors": "Samuel L. Jackson, Colin Farrell, Michelle Rodriguez",
+  "plot": "Based off of a one time T.V. show, two Los Angeles S.W.A.T. officers Jim Street and Brian Gamble were sent in to foil an extremely violent bank robbery. Although they thwarted the robbery, they shot a hostage in the process. Street was suspended from S.W.A.T. while Gamble was fired altogether. After 6 months, a veteran S.W.A.T. officer, Daniel Harrelson or \"Hondo\", is told to assemble a S.W.A.T. team for his division. He chooses other S.W.A.T. officers as well as 3 rookies. However, after they pass the S.W.A.T. training, they receive a message that a French crime boss, known as Alex Montell is trying to escape from prison. This will not be easy to prevent, especially after Montell promises $100 Million to his rescuers.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "metascore": "45",
+  "imdb_rating": "6.1",
+  "imdb_votes": "159,306",
+  "box_office": "$116,934,650",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "48%",
+      "link": "https://www.rottentomatoes.com/search?search=S.W.A.T."
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/S.W.A.T./"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0257076/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0257076/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9257"
+  }
+}

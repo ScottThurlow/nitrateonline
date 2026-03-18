@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 13 nominations total",
+  "rated": "PG",
+  "released": "23 Jul 1999",
+  "runtime": "78 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "David Kellogg",
+  "writer": "Andy Heyward, Jean Chalopin, Bruno Bianchi",
+  "actors": "Matthew Broderick, Rupert Everett, Joely Fisher",
+  "plot": "A remake of the television series, Matthew Broderick stars as Gadget, who suffers an accident at the beginning of the film, and befriends Brenda, a robotic surgeon who repairs Gadget so that he can defeat the villain Claw. In the meantime, Gadget and Brenda fall in love.",
+  "language": "English, Norwegian, French, Spanish",
+  "country": "United States",
+  "metascore": "36",
+  "imdb_rating": "4.2",
+  "imdb_votes": "53,285",
+  "box_office": "$97,403,112",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "20%",
+      "link": "https://www.rottentomatoes.com/search?search=Inspector+Gadget"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/Inspector+Gadget/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0141369/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0141369/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/332"
+  }
+}

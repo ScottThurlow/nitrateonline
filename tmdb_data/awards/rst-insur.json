@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "3 wins & 8 nominations total",
+  "rated": "PG",
+  "released": "11 Dec 1998",
+  "runtime": "103 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Jonathan Frakes",
+  "writer": "Rick Berman, Michael Piller",
+  "actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",
+  "plot": "While on a mission to observe the peaceful Ba'ku race, Lieutenant Commander Data suddenly behaves as if having to fear for his existence. The immortal Ba'ku, whose planet offers regenerative radiation, and therefore incredible lifespans, live in harmony with nature and reject advanced technology. Their planet and their culture is secretly researched by the Federation associated with an alien race called the Son'a. But the Son'a intend to abduct the Ba'ku in order to take the planet for themselves and for the Starfleet officials who all would like to regenerate their bodies. But they did not think of the loyalty of Captain Jean-Luc Picard and the crew of the U.S.S. Enterprise NCC-1701-E to the Prime Directive.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "64",
+  "imdb_rating": "6.4",
+  "imdb_votes": "82,821",
+  "box_office": "$70,187,658",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=Star+Trek%3A+Insurrection"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/Star+Trek%3A+Insurrection/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120844/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120844/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/200"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "20 Aug 1999",
+  "runtime": "102 min",
+  "genre": "Comedy, Crime, Romance",
+  "director": "Kelly Makin, Carl Gottlieb",
+  "writer": "Adam Scheinman, Robert Kuhn",
+  "actors": "Hugh Grant, Jeanne Tripplehorn, James Caan",
+  "plot": "An art-house auctioneer finds himself getting in deeper and deeper with the mob after learning that his teacher girlfriend is the daughter of a major mobster. Things get worse when a godfather decides to launder his no-talent son's gory paintings through the art house and gets the FBI into the picture. Everything then falls apart when the son is accidentally shot.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "49",
+  "imdb_rating": "5.9",
+  "imdb_votes": "38,755",
+  "box_office": "$33,864,342",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "45%",
+      "link": "https://www.rottentomatoes.com/search?search=Mickey+Blue+Eyes"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Mickey+Blue+Eyes/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0130121/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0130121/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10154"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "tmdb_id": 36657,
+  "title": "X-Men",
+  "original_title": "X-Men",
+  "release_date": "2000-07-13",
+  "runtime": 104,
+  "tagline": "Trust a few. Fear the rest.",
+  "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Donners' Company",
+      "country": "US"
+    },
+    {
+      "name": "Bad Hat Harry Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Marvel Entertainment Group",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bryan Singer"
+  ],
+  "writers": [
+    {
+      "name": "David Hayter",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom DeSanto",
+      "job": "Story"
+    },
+    {
+      "name": "Bryan Singer",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lauren Shuler Donner",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph Winter",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom DeSanto",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Avi Arad",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Donner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hugh Jackman",
+      "character": "Logan / Wolverine",
+      "order": 0
+    },
+    {
+      "name": "Patrick Stewart",
+      "character": "Xavier",
+      "order": 1
+    },
+    {
+      "name": "Ian McKellen",
+      "character": "Magneto",
+      "order": 2
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Jean Grey",
+      "order": 3
+    },
+    {
+      "name": "James Marsden",
+      "character": "Cyclops",
+      "order": 4
+    },
+    {
+      "name": "Halle Berry",
+      "character": "Storm",
+      "order": 5
+    },
+    {
+      "name": "Anna Paquin",
+      "character": "Rogue",
+      "order": 6
+    },
+    {
+      "name": "Tyler Mane",
+      "character": "Sabretooth",
+      "order": 7
+    },
+    {
+      "name": "Ray Park",
+      "character": "Toad",
+      "order": 8
+    },
+    {
+      "name": "Rebecca Romijn",
+      "character": "Mystique",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+  "backdrop_path": "/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
+  "budget": 75000000,
+  "revenue": 296339527,
+  "vote_average": 7.01,
+  "vote_count": 12046,
+  "imdb_id": "tt0120903",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "ID",
+      "rating": "13+"
+    },
+    {
+      "country": "IE",
+      "rating": "12A"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "MY",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PH",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "TH",
+      "rating": "13"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "TW",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

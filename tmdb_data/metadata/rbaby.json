@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 22345,
+  "title": "Baby Geniuses",
+  "original_title": "Baby Geniuses",
+  "release_date": "1999-03-12",
+  "runtime": 95,
+  "tagline": "Think innocent. Think helpless. Think again. Naps are history.",
+  "overview": "BabyCo is the world's leading manufacturer in baby products. However, what the public doesn't know, is that Drs Kinder and Heep, two of its most brilliant scientists, are tirelessly working in complete secrecy to crack the indecipherable code to 'baby talk': a highly sophisticated language, and the key to the secrets of the universe. Before long, problems arise when mischievous Sly, the smartest of the toddlers, escapes confinement, bent on uniting all babies to free those trapped in the laboratory. Now, Kinder and Heep must find Sly before it is too late.",
+  "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Crystal Sky Worldwide",
+      "country": "US"
+    },
+    {
+      "name": "Triumph",
+      "country": ""
+    },
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bob Clark"
+  ],
+  "writers": [
+    {
+      "name": "Bob Clark",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Greg Michael",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven Paul",
+      "job": "Story"
+    },
+    {
+      "name": "Robert Grasmere",
+      "job": "Story"
+    },
+    {
+      "name": "Francisca Matos",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Steven Paul",
+      "job": "Producer"
+    },
+    {
+      "name": "David Saunders",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kathleen Turner",
+      "character": "Elena Kinder",
+      "order": 0
+    },
+    {
+      "name": "Christopher Lloyd",
+      "character": "Heep",
+      "order": 1
+    },
+    {
+      "name": "Kim Cattrall",
+      "character": "Robin",
+      "order": 2
+    },
+    {
+      "name": "Peter MacNicol",
+      "character": "Dan",
+      "order": 3
+    },
+    {
+      "name": "Dom DeLuise",
+      "character": "Lenny",
+      "order": 4
+    },
+    {
+      "name": "Ruby Dee",
+      "character": "Margo",
+      "order": 5
+    },
+    {
+      "name": "Kyle Howard",
+      "character": "Dickie",
+      "order": 6
+    },
+    {
+      "name": "Kaye Ballard",
+      "character": "Mayor",
+      "order": 7
+    },
+    {
+      "name": "Leo Fitzgerald",
+      "character": "Sly / Whit",
+      "order": 8
+    },
+    {
+      "name": "Myles Fitzgerald",
+      "character": "Sly / Whit",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7zvPhjHkz5YEMUMPyvANCR96RJA.jpg",
+  "backdrop_path": "/o6ehdNIduOXmxaJlavLxETlR3sR.jpg",
+  "budget": 12000000,
+  "revenue": 36450736,
+  "vote_average": 4.127,
+  "vote_count": 405,
+  "imdb_id": "tt0118665",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "9"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "전체관람가"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

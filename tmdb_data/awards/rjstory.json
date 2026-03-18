@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "20 wins & 13 nominations total",
+  "rated": "R",
+  "released": "25 Sep 2003",
+  "runtime": "106 min",
+  "genre": "Drama, Romance",
+  "director": "Sue Brooks",
+  "writer": "Alison Tilson",
+  "actors": "Toni Collette, Gotaro Tsunashima, Lynette Curran",
+  "plot": "Against the background of an Australian desert, Sandy, a geologist, and Hiromitsu, a Japanese businessman, play out a story of human inconsequence in the face of the blistering universe. The end of the journey leaves no one capable of going back to where they started from.",
+  "language": "English, Japanese",
+  "country": "Australia",
+  "metascore": "73",
+  "imdb_rating": "6.8",
+  "imdb_votes": "6,938",
+  "box_office": "$647,054",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Japanese+Story"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Japanese+Story/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0304229/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0304229/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13433"
+  }
+}

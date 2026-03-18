@@ -1,0 +1,53 @@
+{
+  "tmdb_id": 1147215,
+  "title": "Raiders of the Lost Ark: The Adaptation",
+  "original_title": "Raiders of the Lost Ark: The Adaptation",
+  "release_date": "2003-05-30",
+  "runtime": 100,
+  "tagline": "The greatest fan film ever made",
+  "overview": "A shot-for-shot remake of Indiana Jones and the Raiders of the Lost Ark (1981), started by three 12-year-olds and completed over a period of six years.",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Eric Zala"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Chris Strompolos",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chris Strompolos",
+      "character": "Indiana Jones",
+      "order": 0
+    },
+    {
+      "name": "Angela Rodriguez",
+      "character": "Marion",
+      "order": 1
+    },
+    {
+      "name": "Eric Zala",
+      "character": "Belloq",
+      "order": 2
+    }
+  ],
+  "poster_path": "/bc3vn7nZ2qxzoiyOtxvRRbw2w6G.jpg",
+  "backdrop_path": "/2L0dw9R5qhZn881yCMYTRjXKX48.jpg",
+  "budget": 5000,
+  "revenue": 0,
+  "vote_average": 7.4,
+  "vote_count": 7,
+  "imdb_id": "tt0772251",
+  "certifications": [],
+  "status": "Released"
+}

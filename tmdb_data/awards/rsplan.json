@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 2 Oscars. 16 wins & 24 nominations total",
+  "rated": "R",
+  "released": "22 Jan 1999",
+  "runtime": "121 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Sam Raimi",
+  "writer": "Scott B. Smith",
+  "actors": "Bill Paxton, Billy Bob Thornton, Bridget Fonda",
+  "plot": "Three diverse characters, for the most part intellectually challenged, find a deserted plane with a bag full of millions of dollars inside. They devise a simple plan to keep the money if no-one claims it. Ofcourse, nothing turns out simple...",
+  "language": "English",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "metascore": "81",
+  "imdb_rating": "7.5",
+  "imdb_votes": "80,865",
+  "box_office": "$16,316,273",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Simple+Plan"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/A+Simple+Plan/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120324/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120324/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10223"
+  }
+}

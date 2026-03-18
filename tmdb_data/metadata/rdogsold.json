@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 11880,
+  "title": "Dog Soldiers",
+  "original_title": "Dog Soldiers",
+  "release_date": "2002-05-10",
+  "runtime": 105,
+  "tagline": "Six men. Full moon. No chance.",
+  "overview": "A band of soldiers is dispatched to war games deep in the woods. When they stumble across a rival team slaughtered in camp, they realize they're not alone.",
+  "genres": [
+    "Horror",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Victor Film Company",
+      "country": ""
+    },
+    {
+      "name": "The Carousel Picture Company",
+      "country": "LU"
+    },
+    {
+      "name": "The Noel Gay Motion Picture Company",
+      "country": "GB"
+    },
+    {
+      "name": "Kismet Entertainment Group",
+      "country": "US"
+    },
+    {
+      "name": "Luxembourg Film Fund",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Neil Marshall"
+  ],
+  "writers": [
+    {
+      "name": "Neil Marshall",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David E. Allen",
+      "job": "Producer"
+    },
+    {
+      "name": "Vic Bateman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Figg",
+      "job": "Producer"
+    },
+    {
+      "name": "Harmon Kaslow",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Reeve",
+      "job": "Producer"
+    },
+    {
+      "name": "Romain Schroeder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caroline Waldron",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Patrick O'Toole",
+      "job": "Producer"
+    },
+    {
+      "name": "Keith Bell",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Pertwee",
+      "character": "Sgt. Harry G. Wells",
+      "order": 0
+    },
+    {
+      "name": "Kevin McKidd",
+      "character": "Pvt. Cooper",
+      "order": 1
+    },
+    {
+      "name": "Emma Cleasby",
+      "character": "Megan",
+      "order": 2
+    },
+    {
+      "name": "Liam Cunningham",
+      "character": "Capt. Ryan",
+      "order": 3
+    },
+    {
+      "name": "Thomas Lockyer",
+      "character": "Cpl. Bruce Campbell",
+      "order": 4
+    },
+    {
+      "name": "Darren Morfitt",
+      "character": "'Spoon' Witherspoon",
+      "order": 5
+    },
+    {
+      "name": "Chris Robson",
+      "character": "Pvt. Joe Kirkley",
+      "order": 6
+    },
+    {
+      "name": "Leslie Simpson",
+      "character": "Pvt. Terry Milburn",
+      "order": 7
+    },
+    {
+      "name": "Tina Landini",
+      "character": "Camper",
+      "order": 8
+    },
+    {
+      "name": "Craig Conway",
+      "character": "Camper",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fYHUYWglzq8Ax0EaDWqg9emjL7T.jpg",
+  "backdrop_path": "/direyV1rkzuPZNR8k6Z3mHWK3hJ.jpg",
+  "budget": 2000000,
+  "revenue": 3537283,
+  "vote_average": 6.71,
+  "vote_count": 966,
+  "imdb_id": "tt0280609",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

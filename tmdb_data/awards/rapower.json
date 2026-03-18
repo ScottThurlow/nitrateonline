@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "14 Feb 1997",
+  "runtime": "121 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Clint Eastwood",
+  "writer": "David Baldacci, William Goldman",
+  "actors": "Clint Eastwood, Gene Hackman, Ed Harris",
+  "plot": "Inspired by David Baldacci's novel, and the ruthlessness of people in power. President Alan Richmond believes that everything he does is beyond reproach, including an affair or two. That leads to murder and everyone around him is involved. There is only one witness, a thief named Luther Whitney. They are sure he'll talk, but when? The Secret Service is determined to keep him quiet, but catching a thief isn't always easy.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "6.7",
+  "imdb_votes": "64,069",
+  "box_office": "$50,068,310",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=Absolute+Power"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Absolute+Power/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118548/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118548/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/66"
+  }
+}

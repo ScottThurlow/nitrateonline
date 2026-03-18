@@ -1,0 +1,174 @@
+{
+  "tmdb_id": 11313,
+  "title": "Hearts in Atlantis",
+  "original_title": "Hearts in Atlantis",
+  "release_date": "2001-09-28",
+  "runtime": 101,
+  "tagline": "What if one of life's great mysteries moved in upstairs?",
+  "overview": "A widowed mother and her son change when a mysterious stranger enters their lives.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Scott Hicks"
+  ],
+  "writers": [
+    {
+      "name": "William Goldman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen King",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kerry Heysen",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Flynn",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anthony Hopkins",
+      "character": "Ted Brautigan",
+      "order": 0
+    },
+    {
+      "name": "Anton Yelchin",
+      "character": "Robert 'Bobby' Garfield",
+      "order": 1
+    },
+    {
+      "name": "Hope Davis",
+      "character": "Elizabeth 'Liz' Garfield",
+      "order": 2
+    },
+    {
+      "name": "Mika Boorem",
+      "character": "Carol Gerber",
+      "order": 3
+    },
+    {
+      "name": "David Morse",
+      "character": "Adult Bobby Garfield",
+      "order": 4
+    },
+    {
+      "name": "Alan Tudyk",
+      "character": "Monte Man",
+      "order": 5
+    },
+    {
+      "name": "Tom Bower",
+      "character": "Len Files",
+      "order": 6
+    },
+    {
+      "name": "Celia Weston",
+      "character": "Alana Files",
+      "order": 7
+    },
+    {
+      "name": "Deirdre O'Connell",
+      "character": "Mrs. Gerber",
+      "order": 8
+    },
+    {
+      "name": "Timothy Reifsnyder",
+      "character": "Harry Doolin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qPTEh8vutS5FSCDoR16MWVGHqTm.jpg",
+  "backdrop_path": "/zi8XZEYs7R7bQLmEffs7V46k2ZA.jpg",
+  "budget": 31000000,
+  "revenue": 24185781,
+  "vote_average": 6.767,
+  "vote_count": 606,
+  "imdb_id": "tt0252501",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

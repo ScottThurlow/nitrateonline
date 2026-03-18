@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 6 nominations total",
+  "rated": "R",
+  "released": "29 Jun 2001",
+  "runtime": "115 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Alan Cumming, Jennifer Jason Leigh",
+  "writer": "Jennifer Jason Leigh, Alan Cumming",
+  "actors": "Alan Cumming, Jennifer Jason Leigh, Phoebe Cates",
+  "plot": "Celebrity couple Joe and Sally Therrian are going through yet another rough stage in their six-year marriage: while Joe's novels have been climbing higher and higher on the best-seller lists, Sally's film career has been steadily sinking into oblivion. Joe's been given the rights to cast and direct the screenplay of his latest book, but rather than resurrect Sally's career by casting her in the lead role, he's given it to Sally's rival, Skye Davidson. Even worse, he's invited Skye to their anniversary bash. Will the marriage, or anything else for that matter, survive the party?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.3",
+  "imdb_votes": "8,902",
+  "box_office": "$4,047,329",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Anniversary+Party"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/The+Anniversary+Party/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0254099/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0254099/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/26475"
+  }
+}

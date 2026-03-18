@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 Oscar. 10 wins & 39 nominations total",
+  "rated": "PG-13",
+  "released": "09 May 1997",
+  "runtime": "126 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Luc Besson",
+  "writer": "Luc Besson, Robert Mark Kamen",
+  "actors": "Bruce Willis, Milla Jovovich, Gary Oldman",
+  "plot": "In the twenty-third century, the universe is threatened by evil. The only hope for mankind is the Fifth Element, who comes to Earth every five thousand years to protect the humans with four stones of the four elements: fire, water, Earth and air. A Mondoshawan spacecraft is bringing The Fifth Element back to Earth but it is destroyed by the evil Mangalores. However, a team of scientists use the DNA of the remains of the Fifth Element to rebuild the perfect being called Leeloo. She escapes from the laboratory and stumbles upon the taxi driver and former elite commando Major Korben Dallas that helps her to escape from the police. Leeloo tells him that she must meet Father Vito Cornelius to accomplish her mission. Meanwhile, the Evil uses the greedy and cruel Jean-Baptiste Emanuel Zorg and a team of mercenary Mangalores to retrieve the stones and avoid the protection of Leeloo. But the skilled Korben Dallas has fallen in love with Leeloo and decides to help her to retrieve the stones.",
+  "language": "English, Swedish, German, Arabic, Egyptian (Ancient)",
+  "country": "France, United Kingdom",
+  "metascore": "52",
+  "imdb_rating": "7.6",
+  "imdb_votes": "539,521",
+  "box_office": "$63,820,180",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Fifth+Element"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/The+Fifth+Element/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119116/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119116/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18"
+  }
+}

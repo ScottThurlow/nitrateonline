@@ -1,0 +1,109 @@
+{
+  "tmdb_id": 15745,
+  "title": "Made",
+  "original_title": "Made",
+  "release_date": "2001-07-13",
+  "runtime": 95,
+  "tagline": "The easy part is surviving the mob. The hard part is surviving the friendship.",
+  "overview": "Two aspiring boxers and lifelong friends get involved in a money-laundering scheme through a low-level organized crime group.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Cardiff Giant Productions",
+      "country": "US"
+    },
+    {
+      "name": "Resnick Interactive Development",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jon Favreau"
+  ],
+  "writers": [
+    {
+      "name": "Jon Favreau",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jon Favreau",
+      "job": "Producer"
+    },
+    {
+      "name": "Vince Vaughn",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vince Vaughn",
+      "character": "Ricky Slade",
+      "order": 0
+    },
+    {
+      "name": "Jon Favreau",
+      "character": "Bobby",
+      "order": 1
+    },
+    {
+      "name": "Sean Combs",
+      "character": "Ruiz",
+      "order": 2
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Jessica",
+      "order": 3
+    },
+    {
+      "name": "Peter Falk",
+      "character": "Max",
+      "order": 4
+    },
+    {
+      "name": "Faizon Love",
+      "character": "Horrace",
+      "order": 5
+    },
+    {
+      "name": "David O'Hara",
+      "character": "The Welshman",
+      "order": 6
+    },
+    {
+      "name": "Vincent Pastore",
+      "character": "Jimmy",
+      "order": 7
+    },
+    {
+      "name": "Jenteal",
+      "character": "Wendy",
+      "order": 8
+    },
+    {
+      "name": "Makenzie Vega",
+      "character": "Chloe",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4HC6ieptXO2gjqbSEsfkOwsGubN.jpg",
+  "backdrop_path": "/bfrkFpsNYRkzVTf1arVn6w2Kphe.jpg",
+  "budget": 5000000,
+  "revenue": 5476060,
+  "vote_average": 5.789,
+  "vote_count": 202,
+  "imdb_id": "tt0227005",
+  "status": "Released"
+}

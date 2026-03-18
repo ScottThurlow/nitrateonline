@@ -9,10 +9,8 @@
 </head>
 
 <body>
-<%
-
-server.execute ("/mediabar/sky/amazon/sky-3.html")
-%>
+<!-- SSI Include - Apache equivalent to server.execute -->
+<!--#include virtual="/mediabar/sky/amazon/sky-3.html" -->
 </body>
 
 </html>

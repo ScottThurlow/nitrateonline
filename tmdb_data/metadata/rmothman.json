@@ -1,0 +1,248 @@
+{
+  "tmdb_id": 2637,
+  "title": "The Mothman Prophecies",
+  "original_title": "The Mothman Prophecies",
+  "release_date": "2002-01-25",
+  "runtime": 119,
+  "tagline": "The future is not unknown.",
+  "overview": "Reporter John Klein is plunged into a world of impossible terror and unthinkable chaos when fate draws him to a sleepy West Virginia town whose residents are being visited by a great winged shape that sows hideous nightmares and fevered visions.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Pellington"
+  ],
+  "writers": [
+    {
+      "name": "Richard Hatem",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John A. Keel",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary W. Goldstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Lucchesi",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terry McKay",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard S. Wright",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard Gere",
+      "character": "John Klein",
+      "order": 0
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Connie Mills",
+      "order": 1
+    },
+    {
+      "name": "Will Patton",
+      "character": "Gordon Smallwood",
+      "order": 2
+    },
+    {
+      "name": "Debra Messing",
+      "character": "Mary Klein",
+      "order": 3
+    },
+    {
+      "name": "David Eigenberg",
+      "character": "Ed Fleischman",
+      "order": 4
+    },
+    {
+      "name": "Alan Bates",
+      "character": "Alexander Leek",
+      "order": 5
+    },
+    {
+      "name": "Lucinda Jenney",
+      "character": "Denise Smallwood",
+      "order": 6
+    },
+    {
+      "name": "Nesbitt Blaisdell",
+      "character": "Chief Josh Jarrett",
+      "order": 7
+    },
+    {
+      "name": "Bill Laing",
+      "character": "Indrid Cold",
+      "order": 8
+    },
+    {
+      "name": "Dan Callahan",
+      "character": "C.J.",
+      "order": 9
+    }
+  ],
+  "poster_path": "/z2PiOTyjbCOnMHY2QJdq3I4jU44.jpg",
+  "backdrop_path": "/zQM01PhOwJY9ePnWPQ8L0YeKf8c.jpg",
+  "budget": 32000000,
+  "revenue": 55305279,
+  "vote_average": 6.22,
+  "vote_count": 1227,
+  "imdb_id": "tt0265349",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "K-16"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PE",
+      "rating": "14"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

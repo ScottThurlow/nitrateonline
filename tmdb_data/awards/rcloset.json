@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "10 Aug 2001",
+  "runtime": "84 min",
+  "genre": "Comedy",
+  "director": "Francis Veber",
+  "writer": "Francis Veber",
+  "actors": "Daniel Auteuil, Gérard Depardieu, Thierry Lhermitte",
+  "plot": "François Pignon, a very bland sort of man who works as an accountant in a rubber factory, is about to be fired. His new neighbour comes up with an idea to prevent such a thing to happen: he spreads the rumor that he's gay so that the factory management might be afraid they'll be sued for sexual discrimination. Of course, nothing happens as it should, but the changes in François Pignon's life -and other people's too- is drastic !",
+  "language": "French",
+  "country": "France",
+  "metascore": "72",
+  "imdb_rating": "7.0",
+  "imdb_votes": "18,590",
+  "box_office": "$6,678,894",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Closet"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/The+Closet/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0243493/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0243493/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11444"
+  }
+}

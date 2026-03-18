@@ -1,0 +1,201 @@
+{
+  "tmdb_id": 3132,
+  "title": "Bad Company",
+  "original_title": "Bad Company",
+  "release_date": "2002-06-07",
+  "runtime": 116,
+  "tagline": "The world is in good hands.",
+  "overview": "When a Harvard-educated CIA agent is killed during an operation, the secret agency recruits his twin brother.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Stillking Films",
+      "country": "CZ"
+    },
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Schumacher"
+  ],
+  "writers": [
+    {
+      "name": "Jason Richman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gary M. Goodman",
+      "job": "Story"
+    },
+    {
+      "name": "David Himmelstein",
+      "job": "Story"
+    },
+    {
+      "name": "Michael Browning",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Browning",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary M. Goodman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chad Oman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Clayton Townsend",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lary Simpson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anthony Hopkins",
+      "character": "Oakes",
+      "order": 0
+    },
+    {
+      "name": "Chris Rock",
+      "character": "Jake Hayes / Kevin Pope",
+      "order": 1
+    },
+    {
+      "name": "Gabriel Macht",
+      "character": "Seale",
+      "order": 2
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Adrik Vas",
+      "order": 3
+    },
+    {
+      "name": "John Slattery",
+      "character": "Roland Yates",
+      "order": 4
+    },
+    {
+      "name": "Kerry Washington",
+      "character": "Julie",
+      "order": 5
+    },
+    {
+      "name": "Garcelle Beauvais",
+      "character": "Nicole",
+      "order": 6
+    },
+    {
+      "name": "Brooke Smith",
+      "character": "Officer Swanson",
+      "order": 7
+    },
+    {
+      "name": "Irma P. Hall",
+      "character": "Mrs. Banks",
+      "order": 8
+    },
+    {
+      "name": "Matthew Marsh",
+      "character": "Dragan Adjanic",
+      "order": 9
+    }
+  ],
+  "poster_path": "/umu141mcfIEhRLgyQp7TWlGJFW.jpg",
+  "backdrop_path": "/9oLrsekWm3sfEGw5HOav6roW1h7.jpg",
+  "budget": 70000000,
+  "revenue": 65977295,
+  "vote_average": 5.508,
+  "vote_count": 848,
+  "imdb_id": "tt0280486",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,193 @@
+{
+  "tmdb_id": 10461,
+  "title": "Get Carter",
+  "original_title": "Get Carter",
+  "release_date": "2000-10-06",
+  "runtime": 102,
+  "tagline": "The Truth Hurts",
+  "overview": "Jack Carter, a mob enforcer living in Las Vegas, travels back to his hometown of Seattle for his brother's funeral. During this visit, Carter realizes that the death of his brother was not accidental, but a murder. With this knowledge, Carter sets out to kill all those responsible.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Canton Company",
+      "country": "US"
+    },
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stephen Kay"
+  ],
+  "writers": [
+    {
+      "name": "David McKenna",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ted Lewis",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neil Canton",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Canton",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Carmody",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Bing",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Gerber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ashok Amritraj",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Arthur Silver",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sylvester Stallone",
+      "character": "Jack Carter",
+      "order": 0
+    },
+    {
+      "name": "Miranda Richardson",
+      "character": "Gloria Carter",
+      "order": 1
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "character": "Doreen Carter",
+      "order": 2
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Jeremy Kinnear",
+      "order": 3
+    },
+    {
+      "name": "Mickey Rourke",
+      "character": "Cyrus Paice",
+      "order": 4
+    },
+    {
+      "name": "John C. McGinley",
+      "character": "Con McCarty",
+      "order": 5
+    },
+    {
+      "name": "Michael Caine",
+      "character": "Cliff Brumby",
+      "order": 6
+    },
+    {
+      "name": "Rhona Mitra",
+      "character": "Geraldine",
+      "order": 7
+    },
+    {
+      "name": "Johnny Strong",
+      "character": "Eddie",
+      "order": 8
+    },
+    {
+      "name": "Mark Boone Junior",
+      "character": "Jim Davis",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xGANaRWD6638ch1qQmqgRp395R6.jpg",
+  "backdrop_path": "/6TXJyG1MqcSZmcTjk1wrjsrhBWT.jpg",
+  "budget": 63600000,
+  "revenue": 19412993,
+  "vote_average": 5.195,
+  "vote_count": 636,
+  "imdb_id": "tt0208988",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

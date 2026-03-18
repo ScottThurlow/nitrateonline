@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 23603,
+  "title": "Sol Goode",
+  "original_title": "Sol Goode",
+  "release_date": "2003-03-11",
+  "runtime": 99,
+  "tagline": "Whether you're crude, lewd or just a slacker dude, it's...",
+  "overview": "Sol Goode, a charismatic L.A. twenty-something, has always relied on charm, good looks, and fast talk to glide through life. But his luck may have run out; faced with eviction from his hipster apartment, totaling his car, and the threat of having to find a real job, Sol realizes that maybe the life he's been leading is no longer making him happy.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "after the edge films",
+      "country": ""
+    },
+    {
+      "name": "Immortal Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Newman/Tooley Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Danny Comden"
+  ],
+  "writers": [
+    {
+      "name": "Danny Comden",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tucker Tooley",
+      "job": "Producer"
+    },
+    {
+      "name": "Vincent Newman",
+      "job": "Producer"
+    },
+    {
+      "name": "Happy Walters",
+      "job": "Producer"
+    },
+    {
+      "name": "Matt Weaver",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Balthazar Getty",
+      "character": "Sol Goode",
+      "order": 0
+    },
+    {
+      "name": "Danny Comden",
+      "character": "Cooper",
+      "order": 1
+    },
+    {
+      "name": "Katharine Towne",
+      "character": "Chloe",
+      "order": 2
+    },
+    {
+      "name": "Natasha Gregson Wagner",
+      "character": "Brenda",
+      "order": 3
+    },
+    {
+      "name": "Jamie Kennedy",
+      "character": "Justin Sax",
+      "order": 4
+    },
+    {
+      "name": "Cheri Oteri",
+      "character": "Bernadette Best",
+      "order": 5
+    },
+    {
+      "name": "Tori Spelling",
+      "character": "Tammie",
+      "order": 6
+    },
+    {
+      "name": "Johnathon Schaech",
+      "character": "Happy",
+      "order": 7
+    },
+    {
+      "name": "Christina Pickles",
+      "character": "Sol's Mom",
+      "order": 8
+    },
+    {
+      "name": "Robert Wagner",
+      "character": "Sol's Dad",
+      "order": 9
+    }
+  ],
+  "poster_path": "/geVTfFgPmnSrJu6hUzpX4zjD0JM.jpg",
+  "backdrop_path": "/bqtPCRUTuzE2zkDPAKLGUcLVfWe.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.0,
+  "vote_count": 19,
+  "imdb_id": "tt0275692",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

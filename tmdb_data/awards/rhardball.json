@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "14 Sep 2001",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Sport",
+  "director": "Brian Robbins",
+  "writer": "Daniel Coyle, John Gatins",
+  "actors": "Keanu Reeves, Diane Lane, John Hawkes",
+  "plot": "Bright, educated, handsome Conor O'Neill's promising future was wrecked by his gambling addiction, which dragged him into heavy drinking and petty crime, but worst of all, the stifling grip of loan-shark bookies. Desperate for a loan, he agrees to stand in for lawyer friend Jimmy Fleming as coach of a Chicago ghetto Little League baseball team. His sense of pride, becoming the boys' sole idol, and competition, plus their attractive teacher, motivate Conor. But the crushing loan problem rather requires leaving town.",
+  "language": "English, German",
+  "country": "United States, Germany",
+  "metascore": "48",
+  "imdb_rating": "6.4",
+  "imdb_votes": "35,194",
+  "box_office": "$40,222,729",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=Hardball"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Hardball/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0180734/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0180734/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20857"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 18734,
+  "title": "L.I.E.",
+  "original_title": "L.I.E.",
+  "release_date": "2001-09-07",
+  "runtime": 97,
+  "tagline": "",
+  "overview": "With his mother dead and his father busy at work, Howie feels adrift in his New York suburb. He and his friend Gary spend their time burglarizing their neighbors' homes — until they make the mistake of robbing the house of Big John, a macho former Marine who is also an unrepentant pedophile. He propositions Howie, who declines, but the two eventually develop an unlikely and dangerous friendship.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alter Ego Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Belladonna Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Cuesta"
+  ],
+  "writers": [
+    {
+      "name": "Stephen M. Ryder",
+      "job": "Writer"
+    },
+    {
+      "name": "Michael Cuesta",
+      "job": "Writer"
+    },
+    {
+      "name": "Gerald Cuesta",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rene Bastian",
+      "job": "Producer"
+    },
+    {
+      "name": "Linda Moran",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Paul Dano",
+      "character": "Howie Blitzer",
+      "order": 0
+    },
+    {
+      "name": "Bruce Altman",
+      "character": "Marty Blitzer",
+      "order": 1
+    },
+    {
+      "name": "Brian Cox",
+      "character": "Big John Harrigan",
+      "order": 2
+    },
+    {
+      "name": "Billy Kay",
+      "character": "Gary",
+      "order": 3
+    },
+    {
+      "name": "James Costa",
+      "character": "Kevin Cole",
+      "order": 4
+    },
+    {
+      "name": "Tony Michael Donnelly",
+      "character": "Brian",
+      "order": 5
+    },
+    {
+      "name": "Walter Masterson",
+      "character": "Scott",
+      "order": 6
+    },
+    {
+      "name": "Adam LeFevre",
+      "character": "Elliot",
+      "order": 7
+    },
+    {
+      "name": "Chance Kelly",
+      "character": "Prison Guard",
+      "order": 8
+    },
+    {
+      "name": "Marcia DeBonis",
+      "character": "Guidance Counselor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ck5Tkq17M6khEN7JQlQznoYl37L.jpg",
+  "backdrop_path": "/zmKvbUUnTQMMUdKfd8FA4J6DSgK.jpg",
+  "budget": 700000,
+  "revenue": 1667192,
+  "vote_average": 6.8,
+  "vote_count": 136,
+  "imdb_id": "tt0242587",
+  "certifications": [
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

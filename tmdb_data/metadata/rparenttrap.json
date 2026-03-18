@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 9820,
+  "title": "The Parent Trap",
+  "original_title": "The Parent Trap",
+  "release_date": "1998-07-28",
+  "runtime": 128,
+  "tagline": "Twice the Fun, Double the Trouble.",
+  "overview": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "Spanish",
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "The Meyers/Shyer Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Nancy Meyers"
+  ],
+  "writers": [
+    {
+      "name": "Nancy Meyers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Swift",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Charles Shyer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Erich Kästner",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Shyer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lindsay Lohan",
+      "character": "Hallie Parker / Annie James",
+      "order": 0
+    },
+    {
+      "name": "Dennis Quaid",
+      "character": "Nick Parker",
+      "order": 1
+    },
+    {
+      "name": "Natasha Richardson",
+      "character": "Elizabeth James",
+      "order": 2
+    },
+    {
+      "name": "Elaine Hendrix",
+      "character": "Meredith Blake",
+      "order": 3
+    },
+    {
+      "name": "Lisa Ann Walter",
+      "character": "Chessy",
+      "order": 4
+    },
+    {
+      "name": "Simon Kunz",
+      "character": "Martin",
+      "order": 5
+    },
+    {
+      "name": "Polly Holliday",
+      "character": "Marva Kulp, Sr.",
+      "order": 6
+    },
+    {
+      "name": "Maggie Wheeler",
+      "character": "Marva Kulp, Jr.",
+      "order": 7
+    },
+    {
+      "name": "Ronnie Stevens",
+      "character": "Grandfather",
+      "order": 8
+    },
+    {
+      "name": "Erin Mackey",
+      "character": "Hallie / Annie Acting Double",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg",
+  "backdrop_path": "/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+  "budget": 15000000,
+  "revenue": 92108518,
+  "vote_average": 7.213,
+  "vote_count": 4467,
+  "imdb_id": "tt0120783",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

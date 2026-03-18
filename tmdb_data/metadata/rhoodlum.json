@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 22073,
+  "title": "Hoodlum",
+  "original_title": "Hoodlum",
+  "release_date": "1997-08-27",
+  "runtime": 130,
+  "tagline": "Power is measured in enemies.",
+  "overview": "In 1934, the second most lucrative business in New York City was running 'the numbers'. When Madam Queen—the powerful woman who runs the scam in Harlem—is arrested, Ellsworth 'Bumpy' Johnson takes over the business and must resist an invasion from a merciless mobster.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "Frank Mancuso Jr. Productions",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bill Duke"
+  ],
+  "writers": [
+    {
+      "name": "Chris Brancato",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Helen Sugland",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Duke",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Frank Mancuso Jr.",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Laurence Fishburne",
+      "character": "Bumpy Johnson",
+      "order": 0
+    },
+    {
+      "name": "Tim Roth",
+      "character": "Dutch Schultz",
+      "order": 1
+    },
+    {
+      "name": "Vanessa Williams",
+      "character": "Francine Hughes",
+      "order": 2
+    },
+    {
+      "name": "Andy Garcia",
+      "character": "Lucky Luciano",
+      "order": 3
+    },
+    {
+      "name": "Cicely Tyson",
+      "character": "Stephanie St. Clair",
+      "order": 4
+    },
+    {
+      "name": "Chi McBride",
+      "character": "Illinois Gordon",
+      "order": 5
+    },
+    {
+      "name": "Clarence Williams III",
+      "character": "Bub Hewlett",
+      "order": 6
+    },
+    {
+      "name": "Richard Bradford",
+      "character": "Captain Foley",
+      "order": 7
+    },
+    {
+      "name": "William Atherton",
+      "character": "Thomas E. Dewey",
+      "order": 8
+    },
+    {
+      "name": "Loretta Devine",
+      "character": "Pigfoot Mary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hZrwqVXLyxxsNJHVc6bJKSUDkXA.jpg",
+  "backdrop_path": "/4kr8dUmxSxCHQnaI6hYtEz49OvR.jpg",
+  "budget": 30000000,
+  "revenue": 23461013,
+  "vote_average": 6.388,
+  "vote_count": 227,
+  "imdb_id": "tt0119311",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

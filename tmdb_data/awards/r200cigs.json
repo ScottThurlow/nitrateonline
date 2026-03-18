@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "26 Feb 1999",
+  "runtime": "101 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Risa Bramon Garcia",
+  "writer": "Shana Larsen",
+  "actors": "Ben Affleck, Casey Affleck, Dave Chappelle",
+  "plot": "A collection of twentysomethings try to cope with relationships, loneliness, desire and their individual neuroses.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "35",
+  "imdb_rating": "6.0",
+  "imdb_votes": "16,840",
+  "box_office": "$6,852,450",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "30%",
+      "link": "https://www.rottentomatoes.com/search?search=200+Cigarettes"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/200+Cigarettes/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0137338/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0137338/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15256"
+  }
+}

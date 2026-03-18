@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 2 nominations total",
+  "rated": "PG-13",
+  "released": "25 Jan 2002",
+  "runtime": "119 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Mark Pellington",
+  "writer": "Richard Hatem, John A. Keel",
+  "actors": "Richard Gere, Laura Linney, David Eigenberg",
+  "plot": "John Klein (Richard Gere) is involved in a car accident with his wife, but while he is unharmed, his wife mentions a moth-shaped creature appearing. After her death, John begins to investigate the secrets behind this mentioned Mothman. It takes him to the small town of Point Pleasant, West Virginia, where he discovers a connection with the same problem. Here he meets Connie Mills (Laura Linney), while he continues to unravel the mystery of what the Mothman really is.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "6.4",
+  "imdb_votes": "88,506",
+  "box_office": "$35,746,370",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Mothman+Prophecies"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/The+Mothman+Prophecies/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0265349/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0265349/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2637"
+  }
+}

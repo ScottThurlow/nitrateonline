@@ -1,0 +1,183 @@
+{
+  "tmdb_id": 11004,
+  "title": "Wonder Boys",
+  "original_title": "Wonder Boys",
+  "release_date": "2000-02-22",
+  "runtime": 111,
+  "tagline": "Undependable. Unpredictable. Unforgettable.",
+  "overview": "Grady is a 50-ish English professor who hasn't had a thing published in years—not since he wrote his award winning 'Great American Novel' 7 years ago. This weekend proves even worse than he could imagine as he finds himself reeling from one misadventure to another in the company of a new wonder boy author.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    },
+    {
+      "name": "Curtis Hanson Productions",
+      "country": ""
+    },
+    {
+      "name": "BBC",
+      "country": "GB"
+    },
+    {
+      "name": "Marubeni",
+      "country": "JP"
+    },
+    {
+      "name": "TOHO-TOWA",
+      "country": "JP"
+    },
+    {
+      "name": "Tele München",
+      "country": "DE"
+    },
+    {
+      "name": "MFF Feature Film Productions",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Curtis Hanson"
+  ],
+  "writers": [
+    {
+      "name": "Michael Chabon",
+      "job": "Novel"
+    },
+    {
+      "name": "Steve Kloves",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Curtis Hanson",
+      "job": "Producer"
+    },
+    {
+      "name": "Ned Dowd",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Douglas",
+      "character": "Grady Tripp",
+      "order": 0
+    },
+    {
+      "name": "Tobey Maguire",
+      "character": "James Leer",
+      "order": 1
+    },
+    {
+      "name": "Frances McDormand",
+      "character": "Sara Gaskell",
+      "order": 2
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "character": "Terry Crabtree",
+      "order": 3
+    },
+    {
+      "name": "Katie Holmes",
+      "character": "Hannah Green",
+      "order": 4
+    },
+    {
+      "name": "Rip Torn",
+      "character": "Q",
+      "order": 5
+    },
+    {
+      "name": "Richard Knox",
+      "character": "Vernon Hardapple",
+      "order": 6
+    },
+    {
+      "name": "Jane Adams",
+      "character": "Oola",
+      "order": 7
+    },
+    {
+      "name": "Michael Cavadias",
+      "character": "Miss Sloviak",
+      "order": 8
+    },
+    {
+      "name": "Richard Thomas",
+      "character": "Walter Gaskell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vGOdSLaZmu42qqwDUMgrfctJ65M.jpg",
+  "backdrop_path": "/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg",
+  "budget": 35000000,
+  "revenue": 33426588,
+  "vote_average": 6.826,
+  "vote_count": 649,
+  "imdb_id": "tt0185014",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "e 16"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

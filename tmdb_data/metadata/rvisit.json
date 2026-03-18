@@ -1,0 +1,105 @@
+{
+  "tmdb_id": 184741,
+  "title": "Cain and Mabel",
+  "original_title": "Cain and Mabel",
+  "release_date": "1936-09-26",
+  "runtime": 90,
+  "tagline": "It's the Romantic Battle of the Century with a World championship Cast!",
+  "overview": "A chorus girl and a heavyweight boxer are paired romantically as a publicity stunt.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lloyd Bacon"
+  ],
+  "writers": [
+    {
+      "name": "H.C. Witwer",
+      "job": "Story"
+    },
+    {
+      "name": "Laird Doyle",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jack L. Warner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hal B. Wallis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marion Davies",
+      "character": "Mabel O'Dare",
+      "order": 0
+    },
+    {
+      "name": "Clark Gable",
+      "character": "Larry Cain",
+      "order": 1
+    },
+    {
+      "name": "Allen Jenkins",
+      "character": "Dodo",
+      "order": 2
+    },
+    {
+      "name": "Roscoe Karns",
+      "character": "Reilly",
+      "order": 3
+    },
+    {
+      "name": "Walter Catlett",
+      "character": "Jake Sherman",
+      "order": 4
+    },
+    {
+      "name": "Robert Paige",
+      "character": "Ronny Cauldwell",
+      "order": 5
+    },
+    {
+      "name": "Hobart Cavanaugh",
+      "character": "Milo",
+      "order": 6
+    },
+    {
+      "name": "Ruth Donnelly",
+      "character": "Aunt Mimi",
+      "order": 7
+    },
+    {
+      "name": "Pert Kelton",
+      "character": "Toddy",
+      "order": 8
+    },
+    {
+      "name": "William Collier Sr.",
+      "character": "Pop Walters",
+      "order": 9
+    }
+  ],
+  "poster_path": "/s09LD5T664zWoo1zJo12Uwp4bm2.jpg",
+  "backdrop_path": "/h3IGEKNC8Xg836205fQPMnxNdVF.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.1,
+  "vote_count": 14,
+  "imdb_id": "tt0027413",
+  "status": "Released"
+}

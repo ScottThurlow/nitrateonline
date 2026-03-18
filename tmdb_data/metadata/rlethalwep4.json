@@ -1,0 +1,234 @@
+{
+  "tmdb_id": 944,
+  "title": "Lethal Weapon 4",
+  "original_title": "Lethal Weapon 4",
+  "release_date": "1998-07-10",
+  "runtime": 127,
+  "tagline": "The faces you love. The action you expect.",
+  "overview": "With personal crises and age weighing in on them, Riggs and Murtaugh must contend with deadly Chinese triads trying to free their former leaders from prison and onto American soil.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Cantonese",
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Silver Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Donner/Shuler-Donner Productions",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Richard Donner"
+  ],
+  "writers": [
+    {
+      "name": "Channing Gibson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Miles Millar",
+      "job": "Story"
+    },
+    {
+      "name": "Shane Black",
+      "job": "Characters"
+    },
+    {
+      "name": "Alfred Gough",
+      "job": "Story"
+    },
+    {
+      "name": "Jonathan Lemkin",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Donner",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Van Wyck",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Perry",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "character": "Martin Riggs",
+      "order": 0
+    },
+    {
+      "name": "Danny Glover",
+      "character": "Roger Murtaugh",
+      "order": 1
+    },
+    {
+      "name": "Joe Pesci",
+      "character": "Leo Getz",
+      "order": 2
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Lorna Cole",
+      "order": 3
+    },
+    {
+      "name": "Chris Rock",
+      "character": "Det.Lee Butters",
+      "order": 4
+    },
+    {
+      "name": "Jet Li",
+      "character": "Wah Sing Ku",
+      "order": 5
+    },
+    {
+      "name": "Steve Kahan",
+      "character": "Captain Murphy",
+      "order": 6
+    },
+    {
+      "name": "Kim Chan",
+      "character": "Benny Chan",
+      "order": 7
+    },
+    {
+      "name": "Darlene Love",
+      "character": "Trish Murtaugh",
+      "order": 8
+    },
+    {
+      "name": "Traci Wolfe",
+      "character": "Rianne Murtaugh",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rtCfqVtEXaC7HJ0dJjUECZNzW3S.jpg",
+  "backdrop_path": "/u4d4vymNPo1UuJ6ihtyy9OQgco2.jpg",
+  "budget": 140000000,
+  "revenue": 285444603,
+  "vote_average": 6.599,
+  "vote_count": 2875,
+  "imdb_id": "tt0122151",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

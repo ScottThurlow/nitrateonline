@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 27444,
+  "title": "Better Than Sex",
+  "original_title": "Better Than Sex",
+  "release_date": "2000-11-09",
+  "runtime": 84,
+  "tagline": "3 days in the life of a 1 night stand.",
+  "overview": "After a one-night stand a couple is faced with the terrifying possibility of what they really want.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Better Than",
+      "country": ""
+    },
+    {
+      "name": "France Télévisions Distribution",
+      "country": "FR"
+    },
+    {
+      "name": "Meercat Films",
+      "country": ""
+    },
+    {
+      "name": "New Vision Films",
+      "country": ""
+    },
+    {
+      "name": "New South Wales Film & Television Office",
+      "country": "AU"
+    }
+  ],
+  "director": [
+    "Jonathan Teplitzky"
+  ],
+  "writers": [
+    {
+      "name": "Jonathan Teplitzky",
+      "job": "Writer"
+    },
+    {
+      "name": "Genevieve Mooy",
+      "job": "Script Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruna Papandrea",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Bonduel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Frank Cox",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Wenham",
+      "character": "Josh",
+      "order": 0
+    },
+    {
+      "name": "Susie Porter",
+      "character": "Cin",
+      "order": 1
+    },
+    {
+      "name": "Catherine McClements",
+      "character": "Sam",
+      "order": 2
+    },
+    {
+      "name": "Kris McQuade",
+      "character": "Taxi Driver",
+      "order": 3
+    },
+    {
+      "name": "Simon Bossell",
+      "character": "Tim",
+      "order": 4
+    },
+    {
+      "name": "Imelda Corcoran",
+      "character": "Carole",
+      "order": 5
+    },
+    {
+      "name": "Dina Gillespie",
+      "character": "Girl B",
+      "order": 6
+    },
+    {
+      "name": "Emily Saunders",
+      "character": "Girl C",
+      "order": 7
+    },
+    {
+      "name": "Laura Keneally",
+      "character": "Girl D",
+      "order": 8
+    },
+    {
+      "name": "Leah Vandenberg",
+      "character": "Girl E",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zUD6Dc88R7gieprJ1oz8bNyi0uf.jpg",
+  "backdrop_path": "/bSuzJ5MbTnwWlRVqottrEcWriXt.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.819,
+  "vote_count": 37,
+  "imdb_id": "tt0236019",
+  "certifications": [],
+  "status": "Released"
+}

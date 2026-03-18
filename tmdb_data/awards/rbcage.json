@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "Nominated for 1 Oscar. 7 wins & 25 nominations total",
+  "rated": "R",
+  "released": "08 Mar 1996",
+  "runtime": "117 min",
+  "genre": "Comedy",
+  "director": "Mike Nichols",
+  "writer": "Jean Poiret, Francis Veber, Édouard Molinaro",
+  "actors": "Robin Williams, Nathan Lane, Gene Hackman",
+  "plot": "Armand Goldman owns a popular drag nightclub in South Miami Beach. His long-time lover, Albert, stars there as Starina. \"Their\" son Val (actually Armand's by his one heterosexual fling, twenty years before) comes home to announce his engagement to Barbara Keeley, daughter of Kevin Keeley, US Senator, and co-founder of the Committee for Moral Order. The Senator and family descend upon South Beach to meet Val, his father and \"mother.\" What ensues is comic chaos.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "7.2",
+  "imdb_votes": "110,097",
+  "box_office": "$124,060,553",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "84%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Birdcage"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/The+Birdcage/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0115685/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0115685/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11000"
+  }
+}

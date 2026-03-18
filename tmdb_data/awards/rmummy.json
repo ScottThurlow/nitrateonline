@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 5 wins & 24 nominations total",
+  "rated": "PG-13",
+  "released": "07 May 1999",
+  "runtime": "124 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Stephen Sommers",
+  "writer": "Stephen Sommers, Lloyd Fonvielle, Kevin Jarre",
+  "actors": "Brendan Fraser, Rachel Weisz, John Hannah",
+  "plot": "An English librarian called Evelyn Carnahan becomes interested in starting an archaeological dig at the ancient city of Hamunaptra. She gains the help of Rick O'Connell, after saving him from his death. What Evelyn, her brother Jonathan and Rick are unaware of is that another group of explorers are interested in the same dig. Unfortunately for everyone, this group ends up unleashing a curse which been laid on the dead High Priest Imhotep. Now 'The Mummy' is awake and it's going to take a lot more than guns to send him back to where he came from.",
+  "language": "English, Egyptian (Ancient), Arabic, Chinese, Hebrew, Hungarian",
+  "country": "United States",
+  "metascore": "48",
+  "imdb_rating": "7.1",
+  "imdb_votes": "495,819",
+  "box_office": "$157,095,368",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Mummy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/The+Mummy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120616/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120616/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/564"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "tmdb_id": 9301,
+  "title": "The Princess and the Warrior",
+  "original_title": "Der Krieger und die Kaiserin",
+  "release_date": "2000-10-12",
+  "runtime": 135,
+  "tagline": "Somewhere Out There You Can Find Love",
+  "overview": "Young nurse Sissi lives a secluded life entirely devoted to her patients at Birkenhof asylum. Her first encounter with ex-soldier and drifter Bodo has a lasting impact. He causes an accident in which he provides first aid, Sissi wonders if he may be the man of her dreams. But when she finds him weeks later she is rejected, as Bodo is stuck somewhere between a traumatic past and a criminal future.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "X Filme Creative Pool",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Tom Tykwer"
+  ],
+  "writers": [
+    {
+      "name": "Tom Tykwer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stefan Arndt",
+      "job": "Producer"
+    },
+    {
+      "name": "Katja De Bock",
+      "job": "Producer"
+    },
+    {
+      "name": "Gebhard Henke",
+      "job": "Producer"
+    },
+    {
+      "name": "Maria Köpf",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Franka Potente",
+      "character": "Simone 'Sissi' Schmidt",
+      "order": 0
+    },
+    {
+      "name": "Benno Fürmann",
+      "character": "Bodo Riemer",
+      "order": 1
+    },
+    {
+      "name": "Joachim Król",
+      "character": "Walter Riemer",
+      "order": 2
+    },
+    {
+      "name": "Lars Rudolph",
+      "character": "Steini",
+      "order": 3
+    },
+    {
+      "name": "Ludger Pistor",
+      "character": "Werner Dürr",
+      "order": 4
+    },
+    {
+      "name": "Jürgen Tarrach",
+      "character": "Schmatt",
+      "order": 5
+    },
+    {
+      "name": "Natja Brunckhorst",
+      "character": "Meike",
+      "order": 6
+    },
+    {
+      "name": "Marita Breuer",
+      "character": "Sissis Mutter",
+      "order": 7
+    },
+    {
+      "name": "Melchior Derouet",
+      "character": "Otto",
+      "order": 8
+    },
+    {
+      "name": "Christa Fast",
+      "character": "Sigrun",
+      "order": 9
+    }
+  ],
+  "poster_path": "/z0dMG2C4GvIObHAcOjW9r61WIJF.jpg",
+  "backdrop_path": "/x8xpHyvXgDcz2tJXlR1dpnYCdbK.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.95,
+  "vote_count": 141,
+  "imdb_id": "tt0203632",
+  "status": "Released"
+}

@@ -1,0 +1,117 @@
+{
+  "tmdb_id": 292047,
+  "title": "Tokyo Noir",
+  "original_title": "トウキョーノワール",
+  "release_date": "2004-09-24",
+  "runtime": 127,
+  "tagline": "Another Tokyo, another me",
+  "overview": "Three tales that center around sex and citizens of Tokyo: A repressed woman embraces her sexuality, (\"Birthday\"),  an unexpected reunion disrupts a sex worker's routine (\"Night Lovers\"), and a sex blogger discovers connection in the depths of loneliness (\"Girl's Life\").",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [],
+  "director": [
+    "Masato Ishioka",
+    "Naoto Kumazawa"
+  ],
+  "writers": [
+    {
+      "name": "Yoko Urayama",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Naoto Kumazawa",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Masato Ishioka",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hisako Kurosawa",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Yukio Nihira",
+      "job": "Producer"
+    },
+    {
+      "name": "Fumiaki Furuya",
+      "job": "Producer"
+    },
+    {
+      "name": "Tomohiro Kobayashi",
+      "job": "Producer"
+    },
+    {
+      "name": "Hiromitsu Suzuki",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Takami Yoshimoto",
+      "character": "Mari Kitajima",
+      "order": 0
+    },
+    {
+      "name": "Aimi Nakamura",
+      "character": "Miyuki",
+      "order": 1
+    },
+    {
+      "name": "Kimika Yoshino",
+      "character": "Nao",
+      "order": 2
+    },
+    {
+      "name": "Aya Seki",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Go Riju",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "Ken Mitsuishi",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Mihoko Sunouchi",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Soko Wada",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Tatsuo Yamada",
+      "character": "",
+      "order": 8
+    },
+    {
+      "name": "Bengal",
+      "character": "",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oHj7aBC69PbraXgjCM6EysL8zbj.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "imdb_id": "tt0477117",
+  "certifications": [],
+  "status": "Released"
+}

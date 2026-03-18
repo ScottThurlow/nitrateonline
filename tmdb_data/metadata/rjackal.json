@@ -1,0 +1,242 @@
+{
+  "tmdb_id": 4824,
+  "title": "The Jackal",
+  "original_title": "The Jackal",
+  "release_date": "1997-11-14",
+  "runtime": 124,
+  "tagline": "How do you stop an assassin who has no identity?",
+  "overview": "Hired by a powerful member of the Russian mafia to avenge an FBI sting that left his brother dead, a psychopathic hitman known only as The Jackal proves an elusive target for the people charged with the task of bringing him down: a deputy FBI director, a Russian MVK Major,  and a jailed IRA terrorist who can recognize him.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Adventure",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Caton-Jones"
+  ],
+  "writers": [
+    {
+      "name": "Chuck Pfarrer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kenneth Ross",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean Daniel",
+      "job": "Producer"
+    },
+    {
+      "name": "James Jacks",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Caton-Jones",
+      "job": "Producer"
+    },
+    {
+      "name": "Kevin Jarre",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Levinsohn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hal Lieberman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terence A. Clegg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Gordon",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "The Jackal",
+      "order": 0
+    },
+    {
+      "name": "Richard Gere",
+      "character": "Declan Mulqueen",
+      "order": 1
+    },
+    {
+      "name": "Sidney Poitier",
+      "character": "Carter Preston",
+      "order": 2
+    },
+    {
+      "name": "Diane Venora",
+      "character": "Major Valentina Koslova",
+      "order": 3
+    },
+    {
+      "name": "J.K. Simmons",
+      "character": "FBI Agent T. I. Witherspoon",
+      "order": 4
+    },
+    {
+      "name": "Mathilda May",
+      "character": "Isabella Zanconia",
+      "order": 5
+    },
+    {
+      "name": "John Cunningham",
+      "character": "FBI Director Donald Brown",
+      "order": 6
+    },
+    {
+      "name": "Jack Black",
+      "character": "Ian Lamont",
+      "order": 7
+    },
+    {
+      "name": "Stephen Spinella",
+      "character": "Douglas",
+      "order": 8
+    },
+    {
+      "name": "Tess Harper",
+      "character": "The First Lady",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oXF26QmDEaRaH9Fbhs3NXtcnryx.jpg",
+  "backdrop_path": "/hctm1pdmsk0wW5XV9EwuMUYTuXc.jpg",
+  "budget": 60000000,
+  "revenue": 159300000,
+  "vote_average": 6.381,
+  "vote_count": 2067,
+  "imdb_id": "tt0119395",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

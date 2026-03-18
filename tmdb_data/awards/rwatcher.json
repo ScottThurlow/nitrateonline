@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "08 Sep 2000",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Joe Charbanic",
+  "writer": "Darcy Meyers, David Elliot, Clay Ayers",
+  "actors": "James Spader, Keanu Reeves, Marisa Tomei",
+  "plot": "David Allen Griffin is a cool killer- time and time again, he chooses a female victim, studies her for weeks till he knows her routine to the smallest detail, makes meticulous preparations using his forensic knowledge to gain entry when she's quite alone, subdues her and administers a long, torturous death. Joel Campbell got so frustrated by his failure to capture Griffin in Los Angeles, that he quit the FBI, moved to Chicago, and remains in psychiatric therapy, unable to function normally. Then he realizes, when opening his mail very late, that a new murder victim is Griffin's, and the killer sent him pictures of her. Campbell reports this to the police, but is unwilling to join them in the search, suggesting Griffin is too slick and clever; yet he won't get out of it that easily.",
+  "language": "English, Vietnamese",
+  "country": "Canada, Vietnam, United States",
+  "metascore": "22",
+  "imdb_rating": "5.3",
+  "imdb_votes": "29,163",
+  "box_office": "$28,946,615",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "11%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Watcher"
+    },
+    {
+      "source": "Metacritic",
+      "value": "22/100",
+      "link": "https://www.metacritic.com/search/The+Watcher/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0204626/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0204626/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10685"
+  }
+}

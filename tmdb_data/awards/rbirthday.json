@@ -1,0 +1,35 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "22 Dec 2002",
+  "runtime": "120 min",
+  "genre": "Drama",
+  "director": "Morag Fullarton",
+  "writer": "Jonathan Harvey",
+  "actors": "Sarah Lancashire, Emma Fielding, Mina Anwar",
+  "plot": "Friends gather for a leukemia patient's (Sarah Lancashire) birthday.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "6.7",
+  "imdb_votes": "28",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=Birthday+Girl"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0346621/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0346621/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/437413"
+  }
+}

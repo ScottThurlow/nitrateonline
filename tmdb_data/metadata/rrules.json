@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 10479,
+  "title": "Rules of Engagement",
+  "original_title": "Rules of Engagement",
+  "release_date": "2000-04-07",
+  "runtime": 128,
+  "tagline": "A hero should never have to stand alone.",
+  "overview": "A Marine Colonel is brought to court-martial after ordering his men to fire on demonstrators surrounding the American embassy in Yemen.",
+  "genres": [
+    "War",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Arabic",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Seven Arts Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Munich Film Partners & Company (MFP) ROE Production",
+      "country": ""
+    }
+  ],
+  "director": [
+    "William Friedkin"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Gaghan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Webb",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard D. Zanuck",
+      "job": "Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jim Webb",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Col. Hayes Lawrence \"Hodge\" Hodges II",
+      "order": 0
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Col. Terry L. Childers",
+      "order": 1
+    },
+    {
+      "name": "Guy Pearce",
+      "character": "Maj. Mark Biggs",
+      "order": 2
+    },
+    {
+      "name": "Ben Kingsley",
+      "character": "Ambassador Mourain",
+      "order": 3
+    },
+    {
+      "name": "Bruce Greenwood",
+      "character": "National Security Advisor Bill Sokal",
+      "order": 4
+    },
+    {
+      "name": "Anne Archer",
+      "character": "Mrs. Mourain",
+      "order": 5
+    },
+    {
+      "name": "Blair Underwood",
+      "character": "Capt. Lee",
+      "order": 6
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Gen. H. Lawrence Hodges",
+      "order": 7
+    },
+    {
+      "name": "Dale Dye",
+      "character": "Gen. Perry",
+      "order": 8
+    },
+    {
+      "name": "Amidou",
+      "character": "Dr. Ahmar",
+      "order": 9
+    }
+  ],
+  "poster_path": "/38iMM0sHOqNz315ApF9bEjT4rFA.jpg",
+  "backdrop_path": "/euVuflyoWzpaLGOBHZhxwGgldNX.jpg",
+  "budget": 60000000,
+  "revenue": 71000000,
+  "vote_average": 6.253,
+  "vote_count": 778,
+  "imdb_id": "tt0160797",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 1965,
+  "title": "A Perfect Murder",
+  "original_title": "A Perfect Murder",
+  "release_date": "1998-06-05",
+  "runtime": 107,
+  "tagline": "A powerful husband. An unfaithful wife. A jealous lover. All of them have a motive. Each of them has a plan.",
+  "overview": "Millionaire industrialist Steven Taylor is a man who has everything but what he craves most: the love and fidelity of his wife. A hugely successful player in the New York financial world, he considers her to be his most treasured acquisition. But she needs more than simply the role of dazzling accessory.",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Arabic",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Kopelson Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Davis"
+  ],
+  "writers": [
+    {
+      "name": "Frederick Knott",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Patrick Smith Kelly",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Frederick Knott",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anne Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Macgregor-Scott",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Joel Brown",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Mankiewicz",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Douglas",
+      "character": "Steven Taylor",
+      "order": 0
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Emily Bradford Taylor",
+      "order": 1
+    },
+    {
+      "name": "Viggo Mortensen",
+      "character": "David Shaw",
+      "order": 2
+    },
+    {
+      "name": "David Suchet",
+      "character": "Mohamed Karaman",
+      "order": 3
+    },
+    {
+      "name": "Sarita Choudhury",
+      "character": "Raquel Martinez",
+      "order": 4
+    },
+    {
+      "name": "Michael P. Moran",
+      "character": "Bobby Fain",
+      "order": 5
+    },
+    {
+      "name": "Novella Nelson",
+      "character": "Ambassador Alice Wills",
+      "order": 6
+    },
+    {
+      "name": "Constance Towers",
+      "character": "Sandra Bradford",
+      "order": 7
+    },
+    {
+      "name": "Will Lyman",
+      "character": "Jason Gates",
+      "order": 8
+    },
+    {
+      "name": "Maeve McGuire",
+      "character": "Ann Gates",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wC0ax12N9GQ8vMXPEs4nES5AAiB.jpg",
+  "backdrop_path": "/dNW7ftcqEAvKmDkuRPaLC4gnhwJ.jpg",
+  "budget": 60000000,
+  "revenue": 128038368,
+  "vote_average": 6.547,
+  "vote_count": 1523,
+  "imdb_id": "tt0120787",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "TW",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

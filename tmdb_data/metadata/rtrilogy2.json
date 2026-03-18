@@ -1,0 +1,86 @@
+{
+  "tmdb_id": 44539,
+  "title": "An Amazing Couple",
+  "original_title": "Un couple épatant",
+  "release_date": "2002-09-12",
+  "runtime": 97,
+  "tagline": "",
+  "overview": "A woman, concerned by her husband's eccentric behavior, hires a detective to follow his every move -- which yields unexpected results.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [],
+  "director": [
+    "Lucas Belvaux"
+  ],
+  "writers": [
+    {
+      "name": "Lucas Belvaux",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Ornella Muti",
+      "character": "Cécile Costes",
+      "order": 0
+    },
+    {
+      "name": "Valérie Mairesse",
+      "character": "Claire",
+      "order": 1
+    },
+    {
+      "name": "Catherine Frot",
+      "character": "Jeanne",
+      "order": 2
+    },
+    {
+      "name": "Dominique Blanc",
+      "character": "Agnès",
+      "order": 3
+    },
+    {
+      "name": "François Morel",
+      "character": "Alain",
+      "order": 4
+    },
+    {
+      "name": "Gilbert Melki",
+      "character": "Pascal",
+      "order": 5
+    },
+    {
+      "name": "Lucas Belvaux",
+      "character": "Pierre",
+      "order": 6
+    },
+    {
+      "name": "Jean-Baptiste Montagut",
+      "character": "Henri",
+      "order": 7
+    }
+  ],
+  "poster_path": "/gCfNIZuDMcKQTzcNDSCP4DkL3KK.jpg",
+  "backdrop_path": "/uhHzbCkiz9TUCDiutgCX5y8VJjx.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 21,
+  "imdb_id": "tt0234940",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

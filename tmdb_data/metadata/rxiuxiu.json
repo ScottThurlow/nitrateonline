@@ -1,0 +1,109 @@
+{
+  "tmdb_id": 33194,
+  "title": "Xiu Xiu: The Sent-Down Girl",
+  "original_title": "天浴",
+  "release_date": "1998-02-19",
+  "runtime": 99,
+  "tagline": "",
+  "overview": "Young teen girl Xiu Xiu is sent away to a remote corner of the Sichuan steppes for manual labor in 1975 (sending young people to there was a part of Cultural Revolution in China). A year later, she agrees to go to even more remote spot with a Tibetan saddle tramp Lao Jin to learn horse herding.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Good Machine Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Joan Chen"
+  ],
+  "writers": [
+    {
+      "name": "Yan Geling",
+      "job": "Novel"
+    },
+    {
+      "name": "Joan Chen",
+      "job": "Writer"
+    },
+    {
+      "name": "Yan Geling",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Li Xiaolu",
+      "character": "Wen Xiu",
+      "order": 0
+    },
+    {
+      "name": "Lopsang",
+      "character": "Lao Jin",
+      "order": 1
+    },
+    {
+      "name": "Zheng Qian",
+      "character": "Li Chuanbei",
+      "order": 2
+    },
+    {
+      "name": "Lü Yue",
+      "character": "Father",
+      "order": 3
+    },
+    {
+      "name": "Gao Jie",
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "name": "Li Zhizhi",
+      "character": "Sister",
+      "order": 5
+    },
+    {
+      "name": "Lü Zhong",
+      "character": "Belt Man",
+      "order": 6
+    },
+    {
+      "name": "Qiao Qian",
+      "character": "Chen Li",
+      "order": 7
+    },
+    {
+      "name": "Jiang Cheng",
+      "character": "Rider A",
+      "order": 8
+    },
+    {
+      "name": "Yang Xiaoyu",
+      "character": "Girl",
+      "order": 9
+    }
+  ],
+  "poster_path": "/f60ZzxvcNjQG1aXomXuKWEzS2pP.jpg",
+  "backdrop_path": "/6XCGLN8Nb7Oa0AF41UtS0nUFN7l.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.2,
+  "vote_count": 46,
+  "imdb_id": "tt0115005",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "SG",
+      "rating": "NC16"
+    }
+  ],
+  "status": "Released"
+}

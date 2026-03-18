@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 16 wins & 28 nominations total",
+  "rated": "R",
+  "released": "05 Sep 2003",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Stephen Frears",
+  "writer": "Steven Knight",
+  "actors": "Chiwetel Ejiofor, Audrey Tautou, Sophie Okonedo",
+  "plot": "Irregular migrants Okwe and Senay work at a posh London hotel and live in constant fear of deportation. One night Okwe stumbles across evidence of a bizarre murder, setting off a series of events that could lead to disaster or fre...",
+  "language": "English, Somali, Spanish, French",
+  "country": "United Kingdom, United States",
+  "metascore": "78",
+  "imdb_rating": "7.2",
+  "imdb_votes": "44,703",
+  "box_office": "$8,112,414",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=Dirty+Pretty+Things"
+    },
+    {
+      "source": "Metacritic",
+      "value": "78/100",
+      "link": "https://www.metacritic.com/search/Dirty+Pretty+Things/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0301199/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0301199/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3472"
+  }
+}

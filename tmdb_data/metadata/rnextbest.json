@@ -1,0 +1,141 @@
+{
+  "tmdb_id": 1831,
+  "title": "The Next Best Thing",
+  "original_title": "The Next Best Thing",
+  "release_date": "2000-03-03",
+  "runtime": 108,
+  "tagline": "Best friends make the best mistakes",
+  "overview": "A comedy-drama about best friends - one a straight woman, Abbie, the other a gay man, Robert - who decide to have a child together. Five years later, Abbie falls in love with a straight man and wants to move away with her and Robert's little boy Sam, and a nasty custody battle ensues.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Schlesinger"
+  ],
+  "writers": [
+    {
+      "name": "Tom Ropelewski",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Leslie Dixon",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Linne Radmin",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Lucchesi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lewis Manilow",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Madonna",
+      "character": "Abbie Reynolds",
+      "order": 0
+    },
+    {
+      "name": "Rupert Everett",
+      "character": "Robert Whittaker",
+      "order": 1
+    },
+    {
+      "name": "Benjamin Bratt",
+      "character": "Ben Cooper",
+      "order": 2
+    },
+    {
+      "name": "Malcolm Stumpf",
+      "character": "Sam",
+      "order": 3
+    },
+    {
+      "name": "Josef Sommer",
+      "character": "Richard Whittaker",
+      "order": 4
+    },
+    {
+      "name": "Suzanne Krull",
+      "character": "Annabel",
+      "order": 5
+    },
+    {
+      "name": "Linda Larkin",
+      "character": "Kelly",
+      "order": 6
+    },
+    {
+      "name": "Illeana Douglas",
+      "character": "Elizabeth Ryder",
+      "order": 7
+    },
+    {
+      "name": "Michael Vartan",
+      "character": "Kevin Lasater",
+      "order": 8
+    },
+    {
+      "name": "Lynn Redgrave",
+      "character": "Helen Whittaker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iYK1ZUtY4etcn91glUmrGuZRH6M.jpg",
+  "backdrop_path": "/gA319UUESvNt5jCsQ9YqSidJ2CE.jpg",
+  "budget": 25000000,
+  "revenue": 24362772,
+  "vote_average": 5.226,
+  "vote_count": 197,
+  "imdb_id": "tt0156841",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "PL",
+      "rating": "-"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

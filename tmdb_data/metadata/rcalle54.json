@@ -1,0 +1,55 @@
+{
+  "tmdb_id": 115810,
+  "title": "Calle 54",
+  "original_title": "Calle 54",
+  "release_date": "2000-09-15",
+  "runtime": 105,
+  "tagline": "",
+  "overview": "A film featuring performances of several stars of the Latin Jazz music scene.",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "spoken_languages": [
+    "French",
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Fernando Trueba"
+  ],
+  "writers": [
+    {
+      "name": "Fernando Trueba",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Michel Camilo",
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "name": "Tito Puente",
+      "character": "Himself",
+      "order": 1
+    },
+    {
+      "name": "Arturo O'Farrill",
+      "character": "Piano",
+      "order": 2
+    }
+  ],
+  "poster_path": "/34P4f0I1hI9MHfiDa32iOquslrR.jpg",
+  "backdrop_path": "/snzQ7fJmXlV20YowUsOrPsQyjMc.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.6,
+  "vote_count": 17,
+  "imdb_id": "tt0260775",
+  "certifications": [],
+  "status": "Released"
+}

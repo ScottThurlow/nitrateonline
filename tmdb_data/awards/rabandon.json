@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "18 Oct 2002",
+  "runtime": "99 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Stephen Gaghan",
+  "writer": "Stephen Gaghan",
+  "actors": "Katie Holmes, Benjamin Bratt, Charlie Hunnam",
+  "plot": "A senior at an elite college, already under severe pressure to complete her thesis and land a prestigious job, must confront the sudden reappearance of her old boyfriend, after his two-year, unexplained absence.",
+  "language": "English, Italian",
+  "country": "United States, Germany, Canada",
+  "metascore": "36",
+  "imdb_rating": "4.8",
+  "imdb_votes": "10,249",
+  "box_office": "$10,727,683",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "16%",
+      "link": "https://www.rottentomatoes.com/search?search=Abandon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/Abandon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0267248/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0267248/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15992"
+  }
+}

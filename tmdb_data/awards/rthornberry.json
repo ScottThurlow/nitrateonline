@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 13 nominations total",
+  "rated": "PG",
+  "released": "20 Dec 2002",
+  "runtime": "85 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Cathy Malkasian, Jeff McGrath",
+  "writer": "Kate Boutilier, Arlene Klasky, Gabor Csupo",
+  "actors": "Tim Curry, Rupert Everett, Flea",
+  "plot": "On an African safari, 12-year-old Eliza Thornberry discovers that thanks to a shaman, she can now talk to animals. When Eliza discovers that poachers in the Serengeti plan to kill an elephant herd with an electrified fence, she and her chimpanzee friend Darwin must somehow find a way to stop them.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "5.7",
+  "imdb_votes": "15,692",
+  "box_office": "$40,108,697",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Wild+Thornberrys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/The+Wild+Thornberrys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0282120/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0282120/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14317"
+  }
+}

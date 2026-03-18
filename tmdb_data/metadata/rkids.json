@@ -1,0 +1,121 @@
+{
+  "tmdb_id": 9344,
+  "title": "Kids",
+  "original_title": "Kids",
+  "release_date": "1995-07-28",
+  "runtime": 91,
+  "tagline": "Shocking. Depraved. Sickening. And they're only Kids.",
+  "overview": "A group of bored, disaffected New York City teenagers spend a day skating, smoking, drinking, partying, deflowering virgins, and getting into fights.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Guys Upstairs",
+      "country": "US"
+    },
+    {
+      "name": "Independent Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Larry Clark"
+  ],
+  "writers": [
+    {
+      "name": "Harmony Korine",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Larry Clark",
+      "job": "Story"
+    },
+    {
+      "name": "Jim Lewis",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Chambers",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patrick Panzarella",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gus Van Sant",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cary Woods",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leo Fitzpatrick",
+      "character": "Telly",
+      "order": 0
+    },
+    {
+      "name": "Justin Pierce",
+      "character": "Casper",
+      "order": 1
+    },
+    {
+      "name": "Chloë Sevigny",
+      "character": "Jennie",
+      "order": 2
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Ruby",
+      "order": 3
+    },
+    {
+      "name": "Yakira Peguero",
+      "character": "Darcy",
+      "order": 4
+    },
+    {
+      "name": "Atabey Rodriguez",
+      "character": "Misha",
+      "order": 5
+    },
+    {
+      "name": "Harold Hunter",
+      "character": "Harold",
+      "order": 6
+    },
+    {
+      "name": "Jon Abrahams",
+      "character": "Steven",
+      "order": 7
+    },
+    {
+      "name": "Sajan Bhagat",
+      "character": "Paul",
+      "order": 8
+    },
+    {
+      "name": "Sarah Henderson",
+      "character": "Girl #1",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+  "backdrop_path": "/c6TjV0i5NzUV4MF8N5wxBW7NcrW.jpg",
+  "budget": 1500000,
+  "revenue": 20412216,
+  "vote_average": 6.893,
+  "vote_count": 1260,
+  "imdb_id": "tt0113540",
+  "status": "Released"
+}

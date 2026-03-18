@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 12 nominations",
+  "rated": "PG-13",
+  "released": "16 Aug 2002",
+  "runtime": "95 min",
+  "genre": "Action, Comedy, Sci-Fi",
+  "director": "Ron Underwood",
+  "writer": "Neil Cuthbert",
+  "actors": "Eddie Murphy, Jay Mohr, Randy Quaid",
+  "plot": "After his successful nightclub is blown to flaming bits, Pluto and his band travel across the moon looking for clues to the arsonist. Pluto, Bruno, and Dina search a seedy motel, Pluto's secret hideout, and the casino of the most powerful man on the moon for the evildoer, only to discover that his club's destruction might have been his own fault.",
+  "language": "English",
+  "country": "United States, Australia",
+  "metascore": "12",
+  "imdb_rating": "3.9",
+  "imdb_votes": "27,418",
+  "box_office": "$4,420,080",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "6%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Adventures+of+Pluto+Nash"
+    },
+    {
+      "source": "Metacritic",
+      "value": "12/100",
+      "link": "https://www.metacritic.com/search/The+Adventures+of+Pluto+Nash/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0180052/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0180052/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11692"
+  }
+}

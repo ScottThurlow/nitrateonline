@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "3 wins & 8 nominations total",
+  "rated": "R",
+  "released": "22 Aug 1997",
+  "runtime": "105 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Guillermo del Toro",
+  "writer": "Donald A. Wollheim, Matthew Robbins, Guillermo del Toro",
+  "actors": "Mira Sorvino, Jeremy Northam, Alexander Goodwin",
+  "plot": "A disease carried by common cockroaches is killing Manhattan children. In an effort to stop the epidemic an entomologist, Susan Tyler, creates a mutant breed of insect that secretes a fluid to kill the roaches. This mutant breed was engineered to die after one generation, but three years later Susan finds out that the species has survived and evolved into a large, gruesome monster that can mimic human form.",
+  "language": "English, Italian, Mandarin",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.0",
+  "imdb_votes": "57,996",
+  "box_office": "$25,480,490",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=Mimic"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Mimic/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119675/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119675/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4961"
+  }
+}

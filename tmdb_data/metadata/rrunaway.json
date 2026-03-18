@@ -1,0 +1,220 @@
+{
+  "tmdb_id": 11329,
+  "title": "Runaway Jury",
+  "original_title": "Runaway Jury",
+  "release_date": "2003-01-16",
+  "runtime": 127,
+  "tagline": "Trials are too important to be decided by juries.",
+  "overview": "After a workplace shooting in New Orleans, a trial against the gun manufacturer pits lawyer Wendell Rohr against shady jury consultant Rankin Fitch, who uses illegal means to stack the jury with people sympathetic to the defense. But when juror Nicholas Easter and his girlfriend Marlee reveal their ability to sway the jury into delivering any verdict they want, a high-stakes cat-and-mouse game begins.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Regency Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Fleder"
+  ],
+  "writers": [
+    {
+      "name": "John Grisham",
+      "job": "Novel"
+    },
+    {
+      "name": "Brian Koppelman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Levien",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rick Cleveland",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Matthew Chapman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Fleder",
+      "job": "Producer"
+    },
+    {
+      "name": "Christopher Mankiewicz",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Downer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Cusack",
+      "character": "Nick Easter",
+      "order": 0
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "Rankin Fitch",
+      "order": 1
+    },
+    {
+      "name": "Dustin Hoffman",
+      "character": "Wendell Rohr",
+      "order": 2
+    },
+    {
+      "name": "Rachel Weisz",
+      "character": "Marlee",
+      "order": 3
+    },
+    {
+      "name": "Bruce Davison",
+      "character": "Durwood Cable",
+      "order": 4
+    },
+    {
+      "name": "Bruce McGill",
+      "character": "Judge Harkin",
+      "order": 5
+    },
+    {
+      "name": "Jeremy Piven",
+      "character": "Lawrence Green",
+      "order": 6
+    },
+    {
+      "name": "Leland Orser",
+      "character": "Lamb",
+      "order": 7
+    },
+    {
+      "name": "Nick Searcy",
+      "character": "Doyle",
+      "order": 8
+    },
+    {
+      "name": "Nestor Serrano",
+      "character": "Janovich",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hpBot7sqaskTdZS264c7hOhGiQ0.jpg",
+  "backdrop_path": "/zIckqbwhqxiMQKcpfdPuOCXfp5c.jpg",
+  "budget": 60000000,
+  "revenue": 80154140,
+  "vote_average": 6.934,
+  "vote_count": 1505,
+  "imdb_id": "tt0313542",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "12A"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

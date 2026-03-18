@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 9466,
+  "title": "Celebrity",
+  "original_title": "Celebrity",
+  "release_date": "1998-09-07",
+  "runtime": 113,
+  "tagline": "A funny look at people who will do anything to get famous... or stay famous.",
+  "overview": "The career and personal life of writer Lee are at a standstill, so he divorces his bashful wife, Robin, and dives into a new job as an entertainment journalist. His assignments take him to the swankiest corners of Manhattan, but as he jumps from one lavish party to another and engages in numerous empty romances, he starts to doubt the worth of his work. Meanwhile, top TV producer Tony falls for Robin and introduces her to the world of celebrity.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Sweetland Films",
+      "country": ""
+    },
+    {
+      "name": "Jean Doumanian Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Woody Allen"
+  ],
+  "writers": [
+    {
+      "name": "Woody Allen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean Doumanian",
+      "job": "Producer"
+    },
+    {
+      "name": "J.E. Beaucaire",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hank Azaria",
+      "character": "David",
+      "order": 0
+    },
+    {
+      "name": "Kenneth Branagh",
+      "character": "Lee Simon",
+      "order": 1
+    },
+    {
+      "name": "Judy Davis",
+      "character": "Robin Simon",
+      "order": 2
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "character": "Brandon",
+      "order": 3
+    },
+    {
+      "name": "Melanie Griffith",
+      "character": "Nicole Oliver",
+      "order": 4
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Bonnie",
+      "order": 5
+    },
+    {
+      "name": "Michael Lerner",
+      "character": "Dr. Lupus",
+      "order": 6
+    },
+    {
+      "name": "Joe Mantegna",
+      "character": "Tony Gardella",
+      "order": 7
+    },
+    {
+      "name": "Bebe Neuwirth",
+      "character": "Nina - the Hooker",
+      "order": 8
+    },
+    {
+      "name": "Winona Ryder",
+      "character": "Nola",
+      "order": 9
+    }
+  ],
+  "poster_path": "/q4UJHtH14nO8tbMfGtJ3Z3Tw5RW.jpg",
+  "backdrop_path": "/cBmezUU59QHQPVjBlEKTIGaExih.jpg",
+  "budget": 12000000,
+  "revenue": 5078660,
+  "vote_average": 6.0,
+  "vote_count": 499,
+  "imdb_id": "tt0120533",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

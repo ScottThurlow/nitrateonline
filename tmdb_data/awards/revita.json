@@ -1,0 +1,30 @@
+{
+  "year": "1997",
+  "awards": "2 wins total",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "60 min",
+  "genre": "Documentary",
+  "director": "Tristán Bauer",
+  "writer": "Miguel Bonasso",
+  "actors": "Eva Perón, Carlos Riera, Juliet Stevenson",
+  "plot": "The secret story of Evita Peron's dead body.",
+  "language": "N/A",
+  "country": "Argentina",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "29",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0217463/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0217463/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1007935"
+  }
+}

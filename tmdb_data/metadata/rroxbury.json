@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 9429,
+  "title": "A Night at the Roxbury",
+  "original_title": "A Night at the Roxbury",
+  "release_date": "1998-10-01",
+  "runtime": 82,
+  "tagline": "Score!",
+  "overview": "Despite being well into adulthood, brothers Doug and Steve Butabi still live at home and work in the flower shop owned by their dad. They exist only to hit on women at discos, though they're routinely unsuccessful until a chance run-in with Richard Grieco gets them inside the swank Roxbury club. Mistaken for high rollers, they meet their dream women, Vivica and Cambi, and resolve to open a club of their own.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "SNL Studios",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Fortenberry"
+  ],
+  "writers": [
+    {
+      "name": "Steve Koren",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Will Ferrell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chris Kattan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Amy Heckerling",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert K. Weiss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lorne Michaels",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chris Kattan",
+      "character": "Doug Butabi",
+      "order": 0
+    },
+    {
+      "name": "Will Ferrell",
+      "character": "Steve Butabi",
+      "order": 1
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "Kamehl Butabi",
+      "order": 2
+    },
+    {
+      "name": "Molly Shannon",
+      "character": "Emily Sanderson",
+      "order": 3
+    },
+    {
+      "name": "Richard Grieco",
+      "character": "Richard Grieco",
+      "order": 4
+    },
+    {
+      "name": "Loni Anderson",
+      "character": "Barbara Butabi",
+      "order": 5
+    },
+    {
+      "name": "Elisa Donovan",
+      "character": "Cambi",
+      "order": 6
+    },
+    {
+      "name": "Gigi Rice",
+      "character": "Vivica",
+      "order": 7
+    },
+    {
+      "name": "Lochlyn Munro",
+      "character": "Craig",
+      "order": 8
+    },
+    {
+      "name": "Dwayne Hickman",
+      "character": "Fred Sanderson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg",
+  "backdrop_path": "/ygc5qt7mxtsPljY2W9LAbZWFDGb.jpg",
+  "budget": 17000000,
+  "revenue": 30331165,
+  "vote_average": 6.5,
+  "vote_count": 981,
+  "imdb_id": "tt0120770",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

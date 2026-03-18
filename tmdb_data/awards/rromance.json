@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 nomination total",
+  "rated": "Unrated",
+  "released": "14 Apr 1999",
+  "runtime": "84 min",
+  "genre": "Drama, Romance",
+  "director": "Catherine Breillat",
+  "writer": "Catherine Breillat",
+  "actors": "Caroline Ducey, Sagamore Stévenin, François Berléand",
+  "plot": "Although deeply in love with her boyfriend - and indeed sleeping in the same bed with him - a schoolteacher cannot handle the almost complete lack of intimacy he will allow. Increasingly frustrated, she gradually finds her sexual appetites leading her into ever more risky situations, including a developing one with the headmaster.",
+  "language": "French, English",
+  "country": "France",
+  "metascore": "49",
+  "imdb_rating": "5.2",
+  "imdb_votes": "12,692",
+  "box_office": "$1,585,642",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=Romance"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Romance/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0194314/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0194314/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/26338"
+  }
+}

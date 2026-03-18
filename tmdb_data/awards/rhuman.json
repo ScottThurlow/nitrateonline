@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 5 nominations total",
+  "rated": "R",
+  "released": "18 Dec 2003",
+  "runtime": "106 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Robert Benton",
+  "writer": "Philip Roth, Nicholas Meyer",
+  "actors": "Anthony Hopkins, Nicole Kidman, Ed Harris",
+  "plot": "This is the story of Coleman Silk (Sir Anthony Hopkins), a classics professor with a terrible secret that is about to shatter his life in a small New England town. When his affair with young troubled janitor Faunia Farley (Nicole Kidman) is uncovered, the secret Silk had harbored for over fifty years from his wife, his children, and colleague, writer Nathan Zuckerman (Gary Sinise), fast explodes in a conflagration of devastating consequences. It is Zuckerman who stumbles upon Silk's secret and sets out to reconstruct the unknown biography of this eminent, upright man, esteemed as an educator for nearly all of his life, and to understand how this ingeniously contrived life became unravelled.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "57",
+  "imdb_rating": "6.2",
+  "imdb_votes": "33,384",
+  "box_office": "$5,381,908",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Human+Stain"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/The+Human+Stain/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0308383/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0308383/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10922"
+  }
+}

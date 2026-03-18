@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 3 Oscars. 19 wins & 46 nominations total",
+  "rated": "PG-13",
+  "released": "30 Jan 2004",
+  "runtime": "100 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Peter Webber",
+  "writer": "Tracy Chevalier, Olivia Hetreed",
+  "actors": "Scarlett Johansson, Colin Firth, Tom Wilkinson",
+  "plot": "This film, adapted from a work of fiction by author Tracy Chevalier, tells a story about the events surrounding the creation of the painting \"Girl With a Pearl Earring\" by 17th century Dutch master Johannes Vermeer. Little is known about the girl in the painting, it is speculated that she was a maid who lived in the house of the painter along with his family and other servants, though there is no historical evidence. This masterful film attempts to recreate the mysterious girl's life. Griet, played by Scarlett Johansson, is a maid in the house of painter Johannes Vermeer, played by British actor Colin Firth. Vermeer's wealthy patron and sole means of support, Van Ruijven, commissions him to paint Griet with the intent that he will have her for himself before it is finished. She must somehow secretly pose for the crucial painting without the knowledge of Vermeer's wife, avoid Van Ruijven's grasp, and protect herself from the cruel gossip of the world of a 17th century servant.",
+  "language": "English",
+  "country": "United Kingdom, Luxembourg, France, Belgium, United States",
+  "metascore": "72",
+  "imdb_rating": "6.9",
+  "imdb_votes": "84,302",
+  "box_office": "$11,670,971",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=Girl+with+a+Pearl+Earring"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Girl+with+a+Pearl+Earring/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0335119/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0335119/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3635"
+  }
+}

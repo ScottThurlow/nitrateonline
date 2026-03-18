@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "7 wins & 22 nominations total",
+  "rated": "PG",
+  "released": "21 Nov 2003",
+  "runtime": "82 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Bo Welch",
+  "writer": "Dr. Seuss, Alec Berg, David Mandel",
+  "actors": "Mike Myers, Alec Baldwin, Kelly Preston",
+  "plot": "Conrad and Sally Walden (Spencer Breslin and Dakota Fanning) are home alone with their pet fish. It is raining outside, and there is nothing to do. Until The Cat in the Hat ('Mike Myers') walks in the front door. He introduces them to their imagination, and at first it's all fun and games, until things get out of hand, and The Cat must go, go, go, before their mother gets back, but their pompous neighbor has bigger plans for them.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "19",
+  "imdb_rating": "4.1",
+  "imdb_votes": "92,689",
+  "box_office": "$101,149,285",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "10%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Cat+in+the+Hat"
+    },
+    {
+      "source": "Metacritic",
+      "value": "19/100",
+      "link": "https://www.metacritic.com/search/The+Cat+in+the+Hat/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0312528/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0312528/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10588"
+  }
+}

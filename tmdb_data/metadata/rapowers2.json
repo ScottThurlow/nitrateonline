@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 817,
+  "title": "Austin Powers: The Spy Who Shagged Me",
+  "original_title": "Austin Powers: The Spy Who Shagged Me",
+  "release_date": "1999-06-08",
+  "runtime": 95,
+  "tagline": "First he fought for the Crown. Now he's fighting for the Family Jewels.",
+  "overview": "When diabolical genius Dr. Evil travels back in time to steal superspy Austin Powers's ‘mojo,’ Austin must return to the swingin' '60s himself - with the help of American agent, Felicity Shagwell - to stop the dastardly plan. Once there, Austin faces off against Dr. Evil's army of minions to try to save the world in his own unbelievably groovy way.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Eric's Boy",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jay Roach"
+  ],
+  "writers": [
+    {
+      "name": "Mike Myers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael McCullers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Myers",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric McLeod",
+      "job": "Producer"
+    },
+    {
+      "name": "Jennifer Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Suzanne Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "John S. Lyons",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Myers",
+      "job": "Producer"
+    },
+    {
+      "name": "Demi Moore",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Erwin Stoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Donna Langley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Myers",
+      "character": "Austin Powers / Dr. Evil / Fat Bastard",
+      "order": 0
+    },
+    {
+      "name": "Heather Graham",
+      "character": "Felicity Shagwell",
+      "order": 1
+    },
+    {
+      "name": "Verne Troyer",
+      "character": "Mini-Me",
+      "order": 2
+    },
+    {
+      "name": "Michael York",
+      "character": "Basil Exposition",
+      "order": 3
+    },
+    {
+      "name": "Robert Wagner",
+      "character": "Number Two",
+      "order": 4
+    },
+    {
+      "name": "Seth Green",
+      "character": "Scott Evil",
+      "order": 5
+    },
+    {
+      "name": "Mindy Sterling",
+      "character": "Frau Farbissina",
+      "order": 6
+    },
+    {
+      "name": "Will Ferrell",
+      "character": "Mustafa",
+      "order": 7
+    },
+    {
+      "name": "Elizabeth Hurley",
+      "character": "Vanessa Kensington",
+      "order": 8
+    },
+    {
+      "name": "Rob Lowe",
+      "character": "Young Number Two",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
+  "backdrop_path": "/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
+  "budget": 33000000,
+  "revenue": 312016928,
+  "vote_average": 6.299,
+  "vote_count": 3614,
+  "imdb_id": "tt0145660",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,30 @@
+{
+  "year": "2001",
+  "awards": "4 nominations",
+  "rated": "R",
+  "released": "23 Sep 2001",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Euzhan Palcy",
+  "writer": "Benita Garvin",
+  "actors": "Alan Alda, Morris Chestnut, Rose McGowan",
+  "plot": "A man is accused of murdering two of his inmates around the same time as the 1971 Attica prison riots.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "N/A",
+  "imdb_rating": "6.0",
+  "imdb_votes": "252",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0258432/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0258432/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/367329"
+  }
+}

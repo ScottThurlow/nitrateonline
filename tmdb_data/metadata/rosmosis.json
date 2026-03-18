@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 12610,
+  "title": "Osmosis Jones",
+  "original_title": "Osmosis Jones",
+  "release_date": "2001-08-10",
+  "runtime": 95,
+  "tagline": "Every body needs a hero.",
+  "overview": "A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Action",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Conundrum Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bobby Farrelly",
+    "Peter Farrelly"
+  ],
+  "writers": [
+    {
+      "name": "Bob Camp",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Mark Andrews",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Barry Caldwell",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Steve Fonti",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Daan Jippes",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Marc Hyman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bobby Farrelly",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Farrelly",
+      "job": "Producer"
+    },
+    {
+      "name": "Zak Penn",
+      "job": "Producer"
+    },
+    {
+      "name": "Bradley Thomas",
+      "job": "Producer"
+    },
+    {
+      "name": "Dennis Edwards",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chris Rock",
+      "character": "Osmosis Jones (voice)",
+      "order": 0
+    },
+    {
+      "name": "Laurence Fishburne",
+      "character": "Thrax (voice)",
+      "order": 1
+    },
+    {
+      "name": "David Hyde Pierce",
+      "character": "Drix (voice)",
+      "order": 2
+    },
+    {
+      "name": "Brandy Norwood",
+      "character": "Leah (voice)",
+      "order": 3
+    },
+    {
+      "name": "Elena Franklin",
+      "character": "Shane Detorre",
+      "order": 4
+    },
+    {
+      "name": "Bill Murray",
+      "character": "Frank Detorre",
+      "order": 5
+    },
+    {
+      "name": "William Shatner",
+      "character": "Mayor Phlegmming (voice)",
+      "order": 6
+    },
+    {
+      "name": "Ron Howard",
+      "character": "Tom Colonic (voice)",
+      "order": 7
+    },
+    {
+      "name": "Kid Rock",
+      "character": "Kidney Rock (voice)",
+      "order": 8
+    },
+    {
+      "name": "Molly Shannon",
+      "character": "Mrs. Boyd",
+      "order": 9
+    }
+  ],
+  "poster_path": "/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg",
+  "backdrop_path": "/b4bOy4QfEN9DfWrH2iTVi2W9eOp.jpg",
+  "budget": 75000000,
+  "revenue": 13596911,
+  "vote_average": 6.491,
+  "vote_count": 1069,
+  "imdb_id": "tt0181739",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

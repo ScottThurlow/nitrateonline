@@ -1,0 +1,194 @@
+{
+  "tmdb_id": 12090,
+  "title": "Just Married",
+  "original_title": "Just Married",
+  "release_date": "2003-01-08",
+  "runtime": 95,
+  "tagline": "It was the perfect honeymoon...until it began.",
+  "overview": "Although Tom Leezak and Sarah McNerney come from different worlds, they are both unexpectedly swept off their feet after their first meeting. They quickly fall in love and plan to get married, despite opposition from Sarah's uptight, rich family. After their wedding, the happy couple sets off - with the highest of hopes and ideals about love and marriage - on what they expect will be the perfect honeymoon in Italy. Thanks to a relentless string of bad luck with one disaster after another, and an impromptu visit from Sarah's wealthy one-time ex-lover Peter Prentiss, the newlyweds experience the honeymoon from hell that tests the limits of their young love.  Is it worth throwing away their love and marriage?",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian",
+    "German",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Robert Simonds Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Mediastream Dritte Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Shawn Levy"
+  ],
+  "writers": [
+    {
+      "name": "Sam Harper",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tracey Trench",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Josie Rosen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lauren Shuler Donner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Simonds",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ashton Kutcher",
+      "character": "Tom Leezak",
+      "order": 0
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Sarah McNerney",
+      "order": 1
+    },
+    {
+      "name": "Christian Kane",
+      "character": "Peter Prentiss",
+      "order": 2
+    },
+    {
+      "name": "David Moscow",
+      "character": "Kyle",
+      "order": 3
+    },
+    {
+      "name": "Monet Mazur",
+      "character": "Lauren McNerney",
+      "order": 4
+    },
+    {
+      "name": "David Rasche",
+      "character": "Mr. McNerney",
+      "order": 5
+    },
+    {
+      "name": "Thad Luckinbill",
+      "character": "Willie McNerney",
+      "order": 6
+    },
+    {
+      "name": "David Agranov",
+      "character": "Paul McNerney",
+      "order": 7
+    },
+    {
+      "name": "Taran Killam",
+      "character": "Dickie McNerney",
+      "order": 8
+    },
+    {
+      "name": "Raymond J. Barry",
+      "character": "Mr. Leezak",
+      "order": 9
+    }
+  ],
+  "poster_path": "/FRqnYDjbstsCgLSJJ3SifOh2ca.jpg",
+  "backdrop_path": "/aEJZb3O9KQhnQORp4lNMqeGzSSR.jpg",
+  "budget": 18000000,
+  "revenue": 101564935,
+  "vote_average": 5.781,
+  "vote_count": 1447,
+  "imdb_id": "tt0305711",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

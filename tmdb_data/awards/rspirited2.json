@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "30 Oct 2002",
+  "runtime": "91 min",
+  "genre": "Comedy, Romance",
+  "director": "Danièle Thompson",
+  "writer": "Christopher Thompson, Danièle Thompson",
+  "actors": "Juliette Binoche, Jean Reno, Sergi López",
+  "plot": "At Charles de Gaulle Airport in Paris, a beautician on her way to a new job in Mexico accidentally meets a cook who is on his way back from America. Labor strikes, bad weather, and pure luck cause the two of them to share a room overnight at the airport Hilton hotel. Will their initial mutual indifference and downright hostility turn into a one night stand or perhaps something more?",
+  "language": "French",
+  "country": "France, United Kingdom",
+  "metascore": "53",
+  "imdb_rating": "6.1",
+  "imdb_votes": "6,175",
+  "box_office": "$794,964",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "56%",
+      "link": "https://www.rottentomatoes.com/search?search=Jet+Lag"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/Jet+Lag/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0293116/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0293116/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18300"
+  }
+}

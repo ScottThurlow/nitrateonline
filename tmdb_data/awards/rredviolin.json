@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Won 1 Oscar. 20 wins & 19 nominations total",
+  "rated": "R",
+  "released": "11 Jun 1999",
+  "runtime": "130 min",
+  "genre": "Drama, Music, Mystery",
+  "director": "François Girard",
+  "writer": "Don McKellar, François Girard",
+  "actors": "Carlo Cecchi, Jean-Luc Bideau, Christoph Koncz",
+  "plot": "In present day Montreal, a famous Nicolo Bussotti violin, known as \"the red violin,\" is being auctioned off. During the auction, we flash back to the creation of the violin in 17th century Italy, and follow the violin as it makes its way through an 18th century Austrian monastery, a violinist in 19th century Oxford, China during the Cultural Revolution, and back to Montreal, where a collector tries to establish the identity and the secrets of \"the red violin.\"",
+  "language": "English, Italian, German, French, Mandarin",
+  "country": "Canada, Italy, United States, United Kingdom, Austria",
+  "metascore": "57",
+  "imdb_rating": "7.6",
+  "imdb_votes": "35,364",
+  "box_office": "$10,019,109",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Red+Violin"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/The+Red+Violin/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120802/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120802/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14283"
+  }
+}

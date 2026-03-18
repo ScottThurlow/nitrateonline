@@ -1,0 +1,168 @@
+{
+  "tmdb_id": 10511,
+  "title": "In America",
+  "original_title": "In America",
+  "release_date": "2003-09-22",
+  "runtime": 105,
+  "tagline": "A new home. A new life. Seen through eyes that see everything.",
+  "overview": "A family of Irish immigrants adjusts to life on the mean streets of Hell's Kitchen while also grieving the death of a child.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Irish",
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "East of Harlem (UK)",
+      "country": "GB"
+    },
+    {
+      "name": "Hell's Kitchen",
+      "country": "IE"
+    },
+    {
+      "name": "Irish Film Industry",
+      "country": "IE"
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jim Sheridan"
+  ],
+  "writers": [
+    {
+      "name": "Jim Sheridan",
+      "job": "Writer"
+    },
+    {
+      "name": "Kirsten Sheridan",
+      "job": "Writer"
+    },
+    {
+      "name": "Naomi Sheridan",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Arthur Lappin",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Sheridan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samantha Morton",
+      "character": "Sarah",
+      "order": 0
+    },
+    {
+      "name": "Paddy Considine",
+      "character": "Johnny",
+      "order": 1
+    },
+    {
+      "name": "Sarah Bolger",
+      "character": "Christy",
+      "order": 2
+    },
+    {
+      "name": "Emma Bolger",
+      "character": "Ariel",
+      "order": 3
+    },
+    {
+      "name": "Djimon Hounsou",
+      "character": "Mateo",
+      "order": 4
+    },
+    {
+      "name": "David Wike",
+      "character": "Barker",
+      "order": 5
+    },
+    {
+      "name": "Michael Sean Tighe",
+      "character": "Frank",
+      "order": 6
+    },
+    {
+      "name": "Juan Carlos Hernández",
+      "character": "Papo",
+      "order": 7
+    },
+    {
+      "name": "René Millan",
+      "character": "Steve",
+      "order": 8
+    },
+    {
+      "name": "Nick Dunning",
+      "character": "Gynaecologist",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cUhMjWQyyApA0pFinogCsE2wy8g.jpg",
+  "backdrop_path": "/uJHm54Z8Y6WSTSDvhqGSeKjP88v.jpg",
+  "budget": 0,
+  "revenue": 25382911,
+  "vote_average": 7.158,
+  "vote_count": 379,
+  "imdb_id": "tt0298845",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 21868,
+  "title": "Evelyn",
+  "original_title": "Evelyn",
+  "release_date": "2002-09-30",
+  "runtime": 92,
+  "tagline": "The Story of a Father’s Love That Changed a Nation.",
+  "overview": "Desmond Doyle is devastated when his wife abandons their family on the day after Christmas. His unemployment, and the fact that there is no woman in the house to care for the children—Evelyn, Dermot and Maurice—make it clear to the authorities this is an untenable situation. The Catholic Church and the Irish courts decide to put the Doyle children into Church-run orphanages.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "CineEvelyn",
+      "country": "IE"
+    },
+    {
+      "name": "Irish Dreamtime",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bruce Beresford"
+  ],
+  "writers": [
+    {
+      "name": "Paul Pender",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mario Ohoven",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Ohoven",
+      "job": "Producer"
+    },
+    {
+      "name": "Beau St. Clair",
+      "job": "Producer"
+    },
+    {
+      "name": "Simon Bosanquet",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eberhard Kayser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pierce Brosnan",
+      "job": "Producer"
+    },
+    {
+      "name": "Kieran Corrigan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pierce Brosnan",
+      "character": "Desmond Doyle",
+      "order": 0
+    },
+    {
+      "name": "Aidan Quinn",
+      "character": "Nick Barron",
+      "order": 1
+    },
+    {
+      "name": "Julianna Margulies",
+      "character": "Bernadette Beattie",
+      "order": 2
+    },
+    {
+      "name": "Stephen Rea",
+      "character": "Michael Beattie",
+      "order": 3
+    },
+    {
+      "name": "John Lynch",
+      "character": "Senior Counsel Mr. Wolfe",
+      "order": 4
+    },
+    {
+      "name": "Sophie Vavasseur",
+      "character": "Evelyn Doyle",
+      "order": 5
+    },
+    {
+      "name": "Alan Bates",
+      "character": "Thomas Connolly",
+      "order": 6
+    },
+    {
+      "name": "Niall Beagan",
+      "character": "Dermot Doyle",
+      "order": 7
+    },
+    {
+      "name": "Hugh McDonagh",
+      "character": "Maurice Doyle",
+      "order": 8
+    },
+    {
+      "name": "Mairead Devlin",
+      "character": "Charlotte Doyle",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kGsCpJcJj9JDsSLQRlfukNuZJgq.jpg",
+  "backdrop_path": "/q3P6P6yVij3i16B4F0sotx8IOzB.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.423,
+  "vote_count": 110,
+  "imdb_id": "tt0298856",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

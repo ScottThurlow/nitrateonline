@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 5 nominations total",
+  "rated": "PG",
+  "released": "27 Jun 2003",
+  "runtime": "132 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Douglas McGrath",
+  "writer": "Charles Dickens, Douglas McGrath",
+  "actors": "Charlie Hunnam, Jamie Bell, Christopher Plummer",
+  "plot": "Young Nicholas (Charlie Hunnam) and his family enjoy a comfortable life, until Nicholas' father (Andrew Havill) dies and the family is left penniless. Nicholas, his sister Kate (Romola Garai) and mother (Stella Gonet) venture to London to seek help from their Uncle Ralph (Christopher Plummer), but Ralph's only intentions are to separate the family and exploit them. Nicholas is sent to a school run by the cruel, abusive and horridly entertaining Mr. Wackford Squeers (Jim Broadbent). Eventually, Nicholas runs away with schoolmate Smike (Jamie Bell), and the two set off to reunite the Nickleby family.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "71",
+  "imdb_rating": "7.1",
+  "imdb_votes": "14,813",
+  "box_office": "$1,587,173",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=Nicholas+Nickleby"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Nicholas+Nickleby/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0309912/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0309912/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/29339"
+  }
+}

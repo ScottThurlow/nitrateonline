@@ -1,0 +1,257 @@
+{
+  "tmdb_id": 1927,
+  "title": "Hulk",
+  "original_title": "Hulk",
+  "release_date": "2003-06-19",
+  "runtime": 138,
+  "tagline": "What if everything you were forced to keep inside was suddenly set free?",
+  "overview": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Marvel Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    },
+    {
+      "name": "Valhalla Motion Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ang Lee"
+  ],
+  "writers": [
+    {
+      "name": "James Schamus",
+      "job": "Story"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jack Kirby",
+      "job": "Characters"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Characters"
+    },
+    {
+      "name": "John Turman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael France",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gale Anne Hurd",
+      "job": "Producer"
+    },
+    {
+      "name": "Avi Arad",
+      "job": "Producer"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Producer"
+    },
+    {
+      "name": "Kevin Feige",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Larry Franco",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eric Bana",
+      "character": "Bruce Banner",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Connelly",
+      "character": "Betty Ross",
+      "order": 1
+    },
+    {
+      "name": "Sam Elliott",
+      "character": "Ross",
+      "order": 2
+    },
+    {
+      "name": "Josh Lucas",
+      "character": "Talbot",
+      "order": 3
+    },
+    {
+      "name": "Nick Nolte",
+      "character": "Father",
+      "order": 4
+    },
+    {
+      "name": "Paul Kersey",
+      "character": "Young David Banner",
+      "order": 5
+    },
+    {
+      "name": "Todd Tesen",
+      "character": "Young Ross",
+      "order": 6
+    },
+    {
+      "name": "Cara Buono",
+      "character": "Edith Banner",
+      "order": 7
+    },
+    {
+      "name": "Kevin Rankin",
+      "character": "Harper",
+      "order": 8
+    },
+    {
+      "name": "Celia Weston",
+      "character": "Mrs. Krenzler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+  "backdrop_path": "/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
+  "budget": 137000000,
+  "revenue": 245360480,
+  "vote_average": 5.578,
+  "vote_count": 6194,
+  "imdb_id": "tt0286716",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BG",
+      "rating": "PG-13"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

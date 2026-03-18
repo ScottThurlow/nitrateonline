@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "N/A",
+  "rated": "Not Rated",
+  "released": "12 Mar 2004",
+  "runtime": "97 min",
+  "genre": "Comedy",
+  "director": "James Ronald Whitney",
+  "writer": "James Ronald Whitney",
+  "actors": "Joshua Coleman, Dani Marco, David Maynard",
+  "plot": "In the style of many reality shows, six people (three men and three women) vie for a cash prize of $10,000 by performing risqué stunts and offering up scintillating confessionals on camera.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "32",
+  "imdb_rating": "4.5",
+  "imdb_votes": "208",
+  "box_office": "$113,622",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Games+People+Play%3A+New+York"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Games+People+Play%3A+New+York/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0371683/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0371683/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/266687"
+  }
+}

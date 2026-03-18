@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 10708,
+  "title": "Daddy Day Care",
+  "original_title": "Daddy Day Care",
+  "release_date": "2003-05-09",
+  "runtime": 92,
+  "tagline": "Who's your daddy?",
+  "overview": "Two men get laid off and have to become stay-at-home dads when they can't find jobs, which inspires them to open their own day-care center.",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Carr"
+  ],
+  "writers": [
+    {
+      "name": "Geoff Rodkey",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joe Roth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wyck Godfrey",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Kolsrud",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Heidi Santelli",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "Matt Berenson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "Charlie Hinton",
+      "order": 0
+    },
+    {
+      "name": "Jeff Garlin",
+      "character": "Phil",
+      "order": 1
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Marvin",
+      "order": 2
+    },
+    {
+      "name": "Regina King",
+      "character": "Kim Hinton",
+      "order": 3
+    },
+    {
+      "name": "Kevin Nealon",
+      "character": "Bruce",
+      "order": 4
+    },
+    {
+      "name": "Jonathan Katz",
+      "character": "Dan Kubitz",
+      "order": 5
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "character": "Peggy",
+      "order": 6
+    },
+    {
+      "name": "Lisa Edelstein",
+      "character": "Crispin's Mom",
+      "order": 7
+    },
+    {
+      "name": "Lacey Chabert",
+      "character": "Jenny",
+      "order": 8
+    },
+    {
+      "name": "Laura Kightlinger",
+      "character": "Sheila",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg",
+  "backdrop_path": "/gQ9uxP1hBIJd0dw4jMTCkToQQly.jpg",
+  "budget": 60000000,
+  "revenue": 164433867,
+  "vote_average": 5.919,
+  "vote_count": 2229,
+  "imdb_id": "tt0317303",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

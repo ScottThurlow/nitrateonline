@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins",
+  "rated": "Not Rated",
+  "released": "10 Oct 2001",
+  "runtime": "110 min",
+  "genre": "Documentary",
+  "director": "Patricio Guzmán",
+  "writer": "Patricio Guzmán",
+  "actors": "Salvador Allende",
+  "plot": "True story of the saga that was hoped to be the long-awaited justice brought to bear upon Augosto Pinochet, Chilean dictator from 1973 to 1990. In September 1998, Pinochet flew to London on a pleasure trip but experienced back pain and underwent an operation in the London Clinic. Upon waking, he was arrested by Scotland Yard. Could it be that this was to become the first Latin American dictator to answer for crimes while serving as Head of State? After 500 days of house arrest, he nevertheless eventually returned unscathed to Chile, despite the compelling case built against him before &amp; during this period by a young Spanish prosecutor, Carlos Castresana.",
+  "language": "English, Spanish",
+  "country": "France, Chile, Belgium, Spain",
+  "metascore": "84",
+  "imdb_rating": "7.3",
+  "imdb_votes": "352",
+  "box_office": "$35,701",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=Le+cas+Pinochet"
+    },
+    {
+      "source": "Metacritic",
+      "value": "84/100",
+      "link": "https://www.metacritic.com/search/Le+cas+Pinochet/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0294431/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0294431/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/113369"
+  }
+}

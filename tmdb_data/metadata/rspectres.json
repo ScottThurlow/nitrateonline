@@ -1,0 +1,64 @@
+{
+  "tmdb_id": 19310,
+  "title": "Spectres of the Spectrum",
+  "original_title": "Spectres of the Spectrum",
+  "release_date": "2000-03-17",
+  "runtime": 91,
+  "tagline": "",
+  "overview": "In post-apocalyptic 2007 where a government cover-up disseminates via mass media and the history of electromagnetic technologies, from X-rays to the Internet, telepath Boo Boo travels through the history of TV to fight against a corporate-controlled 'New Electromagnetic Order'.",
+  "genres": [
+    "Horror",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Other City Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Craig Baldwin"
+  ],
+  "writers": [
+    {
+      "name": "Craig Baldwin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Craig Baldwin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Kilcoyne",
+      "character": "Yogi",
+      "order": 0
+    },
+    {
+      "name": "Caroline Koebel",
+      "character": "Boo Boo",
+      "order": 1
+    },
+    {
+      "name": "Beth Lisick",
+      "character": "Boo Boo (voice)",
+      "order": 2
+    }
+  ],
+  "poster_path": "/tHJwPy72ISUuOqowZUxEMdkhH3h.jpg",
+  "backdrop_path": "/ddR3WseQQCXm64TNokON6boiYmG.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.8,
+  "vote_count": 4,
+  "imdb_id": "tt0224156",
+  "certifications": [],
+  "status": "Released"
+}

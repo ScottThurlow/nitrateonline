@@ -1,0 +1,117 @@
+{
+  "tmdb_id": 12659,
+  "title": "Beijing Bicycle",
+  "original_title": "十七岁的单车",
+  "release_date": "2002-01-25",
+  "runtime": 113,
+  "tagline": "",
+  "overview": "A seventeen-year-old country boy working in Beijing as a courier has his bicycle stolen, and finds it with a schoolboy his age.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Arc Light Films",
+      "country": "TW"
+    },
+    {
+      "name": "Pyramide Productions",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Wang Xiaoshuai"
+  ],
+  "writers": [
+    {
+      "name": "Peggy Chiao",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hsu Hsiao-Ming",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tang Danian",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peggy Chiao",
+      "job": "Producer"
+    },
+    {
+      "name": "Han Sanping",
+      "job": "Producer"
+    },
+    {
+      "name": "Hsu Hsiao-Ming",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cui Lin",
+      "character": "Guo Liangui",
+      "order": 0
+    },
+    {
+      "name": "Li Bin",
+      "character": "Jian",
+      "order": 1
+    },
+    {
+      "name": "Zhou Xun",
+      "character": "Qin",
+      "order": 2
+    },
+    {
+      "name": "Gao Yuanyuan",
+      "character": "Xiao",
+      "order": 3
+    },
+    {
+      "name": "Zhao Yiwei",
+      "character": "Father",
+      "order": 4
+    },
+    {
+      "name": "Pang Yan",
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "name": "Zhou Fangfei",
+      "character": "Rongrong",
+      "order": 6
+    },
+    {
+      "name": "Xie Jian",
+      "character": "Manager",
+      "order": 7
+    },
+    {
+      "name": "Ma Yuhong",
+      "character": "Accountant",
+      "order": 8
+    },
+    {
+      "name": "Liu Guancheng",
+      "character": "Mantis",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mkOBUHcJFfVWLJmWNvE0qZuzAW0.jpg",
+  "backdrop_path": "/mm3MhZPyq3XaOI3QVGnMNoUYHzq.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.8,
+  "vote_count": 78,
+  "imdb_id": "tt0276501",
+  "certifications": [],
+  "status": "Released"
+}

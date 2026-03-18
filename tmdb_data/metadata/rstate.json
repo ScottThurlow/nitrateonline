@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 21991,
+  "title": "State and Main",
+  "original_title": "State and Main",
+  "release_date": "2000-08-26",
+  "runtime": 106,
+  "tagline": "Lock your windows. Hide your daughters. Say your prayers.",
+  "overview": "The residents of a small Vermont town don't know what hit them when a beleaguered Hollywood film crew brings a chaotic shoot to their quaint village.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fine Line Features",
+      "country": "US"
+    },
+    {
+      "name": "Filmtown Entertainment Group",
+      "country": ""
+    },
+    {
+      "name": "El Dorado Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Green/Renzi",
+      "country": ""
+    }
+  ],
+  "director": [
+    "David Mamet"
+  ],
+  "writers": [
+    {
+      "name": "David Mamet",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alec Baldwin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Cornick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sarah Green",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alec Baldwin",
+      "character": "Bob Berrenger",
+      "order": 0
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Joseph Turner White",
+      "order": 1
+    },
+    {
+      "name": "Charles Durning",
+      "character": "Mayor George Bailey",
+      "order": 2
+    },
+    {
+      "name": "Clark Gregg",
+      "character": "Doug Mackenzie",
+      "order": 3
+    },
+    {
+      "name": "Patti LuPone",
+      "character": "Sherry Bailey",
+      "order": 4
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Walt Price",
+      "order": 5
+    },
+    {
+      "name": "Sarah Jessica Parker",
+      "character": "Claire Wellesley",
+      "order": 6
+    },
+    {
+      "name": "David Paymer",
+      "character": "Marty Rossen",
+      "order": 7
+    },
+    {
+      "name": "Julia Stiles",
+      "character": "Carla",
+      "order": 8
+    },
+    {
+      "name": "Rebecca Pidgeon",
+      "character": "Ann",
+      "order": 9
+    }
+  ],
+  "poster_path": "/348hvpWeSGdAQlCrGvKbpC0FpQN.jpg",
+  "backdrop_path": "/tuerGhZ1lA8wpBjUCEUpeTWDT5B.jpg",
+  "budget": 0,
+  "revenue": 9206279,
+  "vote_average": 6.249,
+  "vote_count": 287,
+  "imdb_id": "tt0120202",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

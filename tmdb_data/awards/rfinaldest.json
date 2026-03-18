@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 wins & 5 nominations total",
+  "rated": "R",
+  "released": "17 Mar 2000",
+  "runtime": "98 min",
+  "genre": "Horror, Thriller",
+  "director": "James Wong",
+  "writer": "Glen Morgan, James Wong, Jeffrey Reddick",
+  "actors": "Devon Sawa, Ali Larter, Kerr Smith",
+  "plot": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion.",
+  "language": "English, French",
+  "country": "United States, Canada",
+  "metascore": "39",
+  "imdb_rating": "6.7",
+  "imdb_votes": "331,260",
+  "box_office": "$53,331,147",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "50%",
+      "link": "https://www.rottentomatoes.com/search?search=Final+Destination"
+    },
+    {
+      "source": "Metacritic",
+      "value": "39/100",
+      "link": "https://www.metacritic.com/search/Final+Destination/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0195714/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0195714/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9532"
+  }
+}

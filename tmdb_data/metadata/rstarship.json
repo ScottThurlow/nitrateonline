@@ -1,0 +1,217 @@
+{
+  "tmdb_id": 563,
+  "title": "Starship Troopers",
+  "original_title": "Starship Troopers",
+  "release_date": "1997-11-07",
+  "runtime": 129,
+  "tagline": "A new kind of enemy. A new kind of war.",
+  "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jon Davison Productions",
+      "country": "US"
+    },
+    {
+      "name": "Big Bug Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Paul Verhoeven"
+  ],
+  "writers": [
+    {
+      "name": "Edward Neumeier",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert A. Heinlein",
+      "job": "Novel"
+    },
+    {
+      "name": "Giacomo G. Ghiazza",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jon Davison",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Marshall",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Casper Van Dien",
+      "character": "Johnny D. Rico",
+      "order": 0
+    },
+    {
+      "name": "Dina Meyer",
+      "character": "Dizzy Flores",
+      "order": 1
+    },
+    {
+      "name": "Denise Richards",
+      "character": "Carmen Ibañez",
+      "order": 2
+    },
+    {
+      "name": "Jake Busey",
+      "character": "Private Ace Levy",
+      "order": 3
+    },
+    {
+      "name": "Neil Patrick Harris",
+      "character": "Colonel Carl Jenkins",
+      "order": 4
+    },
+    {
+      "name": "Clancy Brown",
+      "character": "Career Sergeant Zim",
+      "order": 5
+    },
+    {
+      "name": "Michael Ironside",
+      "character": "Lieutenant Jean Rasczak",
+      "order": 6
+    },
+    {
+      "name": "Patrick Muldoon",
+      "character": "Zander Barcalow",
+      "order": 7
+    },
+    {
+      "name": "Seth Gilliam",
+      "character": "Private Sugar Watkins",
+      "order": 8
+    },
+    {
+      "name": "Rue McClanahan",
+      "character": "Biology Teacher",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+  "backdrop_path": "/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
+  "budget": 105000000,
+  "revenue": 121214377,
+  "vote_average": 7.096,
+  "vote_count": 5374,
+  "imdb_id": "tt0120201",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "D"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

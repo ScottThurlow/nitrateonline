@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "01 Oct 1999",
+  "runtime": "119 min",
+  "genre": "Comedy, Drama, Sport",
+  "director": "Jay Roach",
+  "writer": "David E. Kelley, Sean O'Byrne",
+  "actors": "Russell Crowe, Burt Reynolds, Hank Azaria",
+  "plot": "When Mystery, Alaska's (amateur) hockey team accepts a challenge to play the New York Rangers, the entire population must put their petty differences aside, and band together, as their small town becomes the centre of a nationally televised event.",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "49",
+  "imdb_rating": "6.7",
+  "imdb_votes": "28,838",
+  "box_office": "$8,891,623",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Mystery%2C+Alaska"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Mystery%2C+Alaska/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134618/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134618/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15198"
+  }
+}

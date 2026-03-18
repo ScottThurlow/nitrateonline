@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Won 4 Oscars. 126 wins & 127 nominations total",
+  "rated": "PG-13",
+  "released": "19 Dec 2001",
+  "runtime": "178 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "actors": "Elijah Wood, Ian McKellen, Orlando Bloom",
+  "plot": "An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.",
+  "language": "English, Sindarin",
+  "country": "New Zealand, United States, United Kingdom",
+  "metascore": "92",
+  "imdb_rating": "8.9",
+  "imdb_votes": "2,190,837",
+  "box_office": "$325,873,309",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Lord+of+the+Rings%3A+The+Fellowship+of+the+Ring"
+    },
+    {
+      "source": "Metacritic",
+      "value": "92/100",
+      "link": "https://www.metacritic.com/search/The+Lord+of+the+Rings%3A+The+Fellowship+of+the+Ring/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120737/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120737/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/120"
+  }
+}

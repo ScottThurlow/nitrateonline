@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 3 nominations total",
+  "rated": "R",
+  "released": "25 Nov 1998",
+  "runtime": "100 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Peter Berg",
+  "writer": "Peter Berg",
+  "actors": "Christian Slater, Daniel Stern, Cameron Diaz",
+  "plot": "A group of friends head to Las Vegas for a bachelor party.. only things go wrong and a woman is killed. Soon, the bodies are piling up and the friends find themselves turning against one another as the coverup builds.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "33",
+  "imdb_rating": "6.3",
+  "imdb_votes": "50,332",
+  "box_office": "$9,898,412",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Very+Bad+Things"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/Very+Bad+Things/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0124198/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0124198/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10029"
+  }
+}

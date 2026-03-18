@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 9434,
+  "title": "Grosse Pointe Blank",
+  "original_title": "Grosse Pointe Blank",
+  "release_date": "1997-04-11",
+  "runtime": 107,
+  "tagline": "Even a hit man deserves a second shot.",
+  "overview": "Hitman Martin Blank becomes a moving target after he rebuffs a fellow assassin's invitation to form a union. On the advice of his quirky assistant and neurotic psychiatrist, Martin begrudgingly heads out to Grosse Pointe, Michigan for his ten-year high school reunion, where he soon comes across the woman he jilted on prom night.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Thriller",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Caravan Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Roger Birnbaum Productions",
+      "country": "US"
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    },
+    {
+      "name": "New Crime Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Armitage"
+  ],
+  "writers": [
+    {
+      "name": "Tom Jankiewicz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom Jankiewicz",
+      "job": "Story"
+    },
+    {
+      "name": "D.V. DeVincentis",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Cusack",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Pink",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Susan Arnold",
+      "job": "Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Cusack",
+      "character": "Martin Q. Blank",
+      "order": 0
+    },
+    {
+      "name": "Minnie Driver",
+      "character": "Debi Newberry",
+      "order": 1
+    },
+    {
+      "name": "Dan Aykroyd",
+      "character": "Grocer",
+      "order": 2
+    },
+    {
+      "name": "Joan Cusack",
+      "character": "Marcella",
+      "order": 3
+    },
+    {
+      "name": "Alan Arkin",
+      "character": "Dr. Oatman",
+      "order": 4
+    },
+    {
+      "name": "Hank Azaria",
+      "character": "Steven Lardner",
+      "order": 5
+    },
+    {
+      "name": "Jeremy Piven",
+      "character": "Paul Spericki",
+      "order": 6
+    },
+    {
+      "name": "Mitchell Ryan",
+      "character": "Mr. Bart Newberry",
+      "order": 7
+    },
+    {
+      "name": "Michael Cudlitz",
+      "character": "Bob Destepello",
+      "order": 8
+    },
+    {
+      "name": "Steve Pink",
+      "character": "Terry Rostand",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+  "backdrop_path": "/paSilBRK7Qw3iIbf3xIYVDKnVF9.jpg",
+  "budget": 15000000,
+  "revenue": 31100000,
+  "vote_average": 6.956,
+  "vote_count": 1005,
+  "imdb_id": "tt0119229",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

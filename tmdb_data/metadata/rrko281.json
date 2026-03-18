@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 50008,
+  "title": "RKO 281",
+  "original_title": "RKO 281",
+  "release_date": "1999-11-20",
+  "runtime": 84,
+  "tagline": "What went on the screen was nothing compared to what went on behind the scenes.",
+  "overview": "In 1939, boy-wonder Orson Welles leaves New York, where he has succeeded in radio and theater, and, hired by RKO Pictures, moves to Hollywood with the purpose of making his first film.",
+  "genres": [
+    "Drama",
+    "History",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Scott Free Productions",
+      "country": "GB"
+    },
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "HBO Films",
+      "country": "US"
+    },
+    {
+      "name": "GBH",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Benjamin Ross"
+  ],
+  "writers": [
+    {
+      "name": "John Logan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Thomas Lennon",
+      "job": "Story Consultant"
+    },
+    {
+      "name": "Richard Ben Cramer",
+      "job": "Story Consultant"
+    },
+    {
+      "name": "Michael Epstein",
+      "job": "Story Consultant"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Su Armstrong",
+      "job": "Producer"
+    },
+    {
+      "name": "Ridley Scott",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tony Scott",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Liev Schreiber",
+      "character": "Orson Welles",
+      "order": 0
+    },
+    {
+      "name": "James Cromwell",
+      "character": "William Randolph Hearst",
+      "order": 1
+    },
+    {
+      "name": "Melanie Griffith",
+      "character": "Marion Davies",
+      "order": 2
+    },
+    {
+      "name": "John Malkovich",
+      "character": "Herman Mankiewicz",
+      "order": 3
+    },
+    {
+      "name": "Liam Cunningham",
+      "character": "Gregg Toland",
+      "order": 4
+    },
+    {
+      "name": "David Suchet",
+      "character": "Louis B. Mayer",
+      "order": 5
+    },
+    {
+      "name": "Fiona Shaw",
+      "character": "Hedda Hopper",
+      "order": 6
+    },
+    {
+      "name": "Anastasia Hille",
+      "character": "Carole Lombard",
+      "order": 7
+    },
+    {
+      "name": "Brenda Blethyn",
+      "character": "Louella Parsons",
+      "order": 8
+    },
+    {
+      "name": "Roy Scheider",
+      "character": "George Schaefer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/v8Z4ENMOAT5OpiMeS1PBNPui3X0.jpg",
+  "backdrop_path": "/rzOCr1VCQa0BUU9x34JbwzM5mRo.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.425,
+  "vote_count": 100,
+  "imdb_id": "tt0120801",
+  "certifications": [],
+  "status": "Released"
+}

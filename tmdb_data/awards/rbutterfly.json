@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "1 win & 8 nominations total",
+  "rated": "R",
+  "released": "23 Jan 2004",
+  "runtime": "113 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Eric Bress, J. Mackye Gruber",
+  "writer": "J. Mackye Gruber, Eric Bress",
+  "actors": "Ashton Kutcher, Amy Smart, Melora Walters",
+  "plot": "As a child, Evan Treborn was afflicted with blackouts where he would be in one place one minute and then another the next, remembering absolutely nothing in-between. Now all grown up and in college, he decides to read from an old journal he wrote to remember stuff that might have happened in the in-between, and suddenly finds himself back at a certain point in his life. He realizes that those blackouts he had were actually empty spaces of time he had to fill up later in life. Attempting to use this ability to undo unpleasant past events, Evan starts to find that every time he goes back and tries to fix things, he ends up making everything worse. How can he prevent more tragedies from happening and save the one girl he ever loved, Kayleigh (Amy Smart)?",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "30",
+  "imdb_rating": "7.6",
+  "imdb_votes": "553,359",
+  "box_office": "$57,938,693",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "34%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Butterfly+Effect"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/The+Butterfly+Effect/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0289879/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0289879/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1954"
+  }
+}

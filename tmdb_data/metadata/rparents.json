@@ -1,0 +1,231 @@
+{
+  "tmdb_id": 1597,
+  "title": "Meet the Parents",
+  "original_title": "Meet the Parents",
+  "release_date": "2000-10-06",
+  "runtime": 108,
+  "tagline": "First comes love. Then comes the interrogation.",
+  "overview": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Nancy Tenenbaum Films",
+      "country": ""
+    },
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jay Roach"
+  ],
+  "writers": [
+    {
+      "name": "John Hamburg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Herzfeld",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Greg Glienna",
+      "job": "Story"
+    },
+    {
+      "name": "Mary Ruth Clarke",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert De Niro",
+      "job": "Producer"
+    },
+    {
+      "name": "Jane Rosenthal",
+      "job": "Producer"
+    },
+    {
+      "name": "Jay Roach",
+      "job": "Producer"
+    },
+    {
+      "name": "Nancy Tenenbaum",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "character": "Greg Focker",
+      "order": 0
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Jack Byrnes",
+      "order": 1
+    },
+    {
+      "name": "Teri Polo",
+      "character": "Pam Byrnes",
+      "order": 2
+    },
+    {
+      "name": "Blythe Danner",
+      "character": "Dina Byrnes",
+      "order": 3
+    },
+    {
+      "name": "Nicole DeHuff",
+      "character": "Debbie Byrnes",
+      "order": 4
+    },
+    {
+      "name": "Jon Abrahams",
+      "character": "Denny Byrnes",
+      "order": 5
+    },
+    {
+      "name": "Owen Wilson",
+      "character": "Kevin Rawley",
+      "order": 6
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Dr. Larry Banks",
+      "order": 7
+    },
+    {
+      "name": "Tom McCarthy",
+      "character": "Dr. Bob Banks",
+      "order": 8
+    },
+    {
+      "name": "Phyllis George",
+      "character": "Linda Banks",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
+  "backdrop_path": "/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg",
+  "budget": 55000000,
+  "revenue": 330444045,
+  "vote_average": 6.692,
+  "vote_count": 6298,
+  "imdb_id": "tt0212338",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

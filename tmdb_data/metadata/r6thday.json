@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 8452,
+  "title": "The 6th Day",
+  "original_title": "The 6th Day",
+  "release_date": "2000-11-17",
+  "runtime": 123,
+  "tagline": "Are you who you think you are?",
+  "overview": "A world of the very near future in which cattle, fish, and even the family pet can be cloned. But cloning humans is illegal - that is until family man Adam Gibson comes home from work one day to find a clone has replaced him. Taken from his family and plunged into a sinister world he doesn't understand, Gibson must not only save himself from the assassins who must destroy him to protect their secret, but uncover who and what is behind the horrible things happening to him.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Mystery",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jon Davison Productions",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roger Spottiswoode"
+  ],
+  "writers": [
+    {
+      "name": "Marianne Wibberley",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cormac Wibberley",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jon Davison",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Medavoy",
+      "job": "Producer"
+    },
+    {
+      "name": "David Coatsworth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Daniel Petrie Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marianne Wibberley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cormac Wibberley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "character": "Adam Gibson",
+      "order": 0
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "Hank Morgan",
+      "order": 1
+    },
+    {
+      "name": "Tony Goldwyn",
+      "character": "Michael Drucker",
+      "order": 2
+    },
+    {
+      "name": "Michael Rooker",
+      "character": "Robert Marshall",
+      "order": 3
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Dr. Griffin Weir",
+      "order": 4
+    },
+    {
+      "name": "Sarah Wynter",
+      "character": "Talia Elsworth",
+      "order": 5
+    },
+    {
+      "name": "Wendy Crewson",
+      "character": "Natalie Gibson",
+      "order": 6
+    },
+    {
+      "name": "Rodney Rowland",
+      "character": "P. Wiley",
+      "order": 7
+    },
+    {
+      "name": "Terry Crews",
+      "character": "Vincent",
+      "order": 8
+    },
+    {
+      "name": "Colin Cunningham",
+      "character": "Tripp",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rODFJOFiPk1UVCe4pmBza8T6feO.jpg",
+  "backdrop_path": "/opkt6IK1Os5gAwhlpu27bCZCk8K.jpg",
+  "budget": 82000000,
+  "revenue": 96085477,
+  "vote_average": 5.993,
+  "vote_count": 2218,
+  "imdb_id": "tt0216216",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

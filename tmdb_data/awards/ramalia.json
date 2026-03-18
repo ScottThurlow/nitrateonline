@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "Not Rated",
+  "released": "08 Dec 2000",
+  "runtime": "90 min",
+  "genre": "Documentary, Biography",
+  "director": "Bruno de Almeida",
+  "writer": "Frank Coelho, Vítor Pavão dos Santos, Artur Ribeiro",
+  "actors": "Amália Rodrigues, John Ventimiglia, Maria de Medeiros",
+  "plot": "Documentary about the life and art of legendary singer Amália Rodrigues (1920-1999).",
+  "language": "English, Portuguese, Spanish, French, Italian, Neapolitan",
+  "country": "Portugal, United States",
+  "metascore": "57",
+  "imdb_rating": "8.4",
+  "imdb_votes": "88",
+  "box_office": "$6,900",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Art+of+Am%C3%A1lia"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/The+Art+of+Am%C3%A1lia/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0204839/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0204839/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/292927"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 7450,
+  "title": "Titan A.E.",
+  "original_title": "Titan A.E.",
+  "release_date": "2000-06-16",
+  "runtime": 95,
+  "tagline": "Get ready for the human race.",
+  "overview": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.",
+  "genres": [
+    "Animation",
+    "Science Fiction",
+    "Adventure",
+    "Family",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "David Kirschner Productions",
+      "country": "US"
+    },
+    {
+      "name": "Gary Goldman Productions",
+      "country": ""
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Don Bluth",
+    "Gary Goldman"
+  ],
+  "writers": [
+    {
+      "name": "Hans Bauer",
+      "job": "Story"
+    },
+    {
+      "name": "Randall McCormick",
+      "job": "Story"
+    },
+    {
+      "name": "Ben Edlund",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John August",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joss Whedon",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Goldman",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Bluth",
+      "job": "Producer"
+    },
+    {
+      "name": "David Kirschner",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Gertz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Cale (voice)",
+      "order": 0
+    },
+    {
+      "name": "Bill Pullman",
+      "character": "Korso (voice)",
+      "order": 1
+    },
+    {
+      "name": "Drew Barrymore",
+      "character": "Akima (voice)",
+      "order": 2
+    },
+    {
+      "name": "John Leguizamo",
+      "character": "Gune (voice)",
+      "order": 3
+    },
+    {
+      "name": "Nathan Lane",
+      "character": "Preed (voice)",
+      "order": 4
+    },
+    {
+      "name": "Janeane Garofalo",
+      "character": "Stith (voice)",
+      "order": 5
+    },
+    {
+      "name": "Jim Breuer",
+      "character": "The Cook (voice)",
+      "order": 6
+    },
+    {
+      "name": "Ken Hudson Campbell",
+      "character": "Po (voice)",
+      "order": 7
+    },
+    {
+      "name": "Thomas A. Chantler",
+      "character": "Male Announcer (voice)",
+      "order": 8
+    },
+    {
+      "name": "Tsai Chin",
+      "character": "Old Woman (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+  "backdrop_path": "/i6jiRmxfufUQnKYUaurZkqLJ1gU.jpg",
+  "budget": 75000000,
+  "revenue": 36754634,
+  "vote_average": 6.607,
+  "vote_count": 1164,
+  "imdb_id": "tt0120913",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PH",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

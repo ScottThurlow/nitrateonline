@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 4 Oscars. 20 wins & 67 nominations total",
+  "rated": "R",
+  "released": "05 Dec 2003",
+  "runtime": "154 min",
+  "genre": "Action, Drama",
+  "director": "Edward Zwick",
+  "writer": "John Logan, Edward Zwick, Marshall Herskovitz",
+  "actors": "Tom Cruise, Ken Watanabe, Billy Connolly",
+  "plot": "In the 1870s, Captain Nathan Algren (Tom Cruise), a cynical veteran of the American Civil War, who will work for anyone, is hired by Americans who want lucrative contracts with the Emperor of Japan to train the peasant conscripts for the first standing Imperial Army in modern warfare using firearms. The Imperial Omura (Masato Harada) cabinet's first priority is to repress a rebellion of traditionalist Samurai, hereditary warriors, who remain devoted to the sacred dynasty, but reject the Westernizing policy, and even refuse firearms. Yet, when his ill-prepared superior force sets out too soon, their panic allows the sword-wielding samurai to crush them. Badly wounded, Algren's courageous stand makes the samurai leader Katsumoto (Ken Watanabe) spare his life. Once nursed to health, he learns to know and respect the old Japanese way, and participates as advisor in Katsumoto's failed attempt to save the Bushido tradition, but Omura gets repressive laws enacted. He must now choose to honor his loyalty to one of the embittered sides when the conflict returns to the battlefield.",
+  "language": "English, Japanese, Spanish, Danish",
+  "country": "United States, New Zealand, Japan",
+  "metascore": "55",
+  "imdb_rating": "7.8",
+  "imdb_votes": "499,167",
+  "box_office": "$111,127,263",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "65%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Last+Samurai"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/The+Last+Samurai/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0325710/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0325710/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/616"
+  }
+}

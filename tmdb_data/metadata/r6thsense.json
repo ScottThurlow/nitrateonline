@@ -1,0 +1,254 @@
+{
+  "tmdb_id": 745,
+  "title": "The Sixth Sense",
+  "original_title": "The Sixth Sense",
+  "release_date": "1999-08-06",
+  "runtime": 107,
+  "tagline": "Not every gift is a blessing.",
+  "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Latin",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "The Kennedy/Marshall Company",
+      "country": "US"
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Barry Mendel Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "M. Night Shyamalan"
+  ],
+  "writers": [
+    {
+      "name": "M. Night Shyamalan",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Marshall",
+      "job": "Producer"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Mendel",
+      "job": "Producer"
+    },
+    {
+      "name": "Sam Mercer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "Malcolm Crowe",
+      "order": 0
+    },
+    {
+      "name": "Haley Joel Osment",
+      "character": "Cole Sear",
+      "order": 1
+    },
+    {
+      "name": "Toni Collette",
+      "character": "Lynn Sear",
+      "order": 2
+    },
+    {
+      "name": "Olivia Williams",
+      "character": "Anna Crowe",
+      "order": 3
+    },
+    {
+      "name": "Donnie Wahlberg",
+      "character": "Vincent Grey",
+      "order": 4
+    },
+    {
+      "name": "Trevor Morgan",
+      "character": "Tommy Tammisimo",
+      "order": 5
+    },
+    {
+      "name": "Mischa Barton",
+      "character": "Kyra Collins",
+      "order": 6
+    },
+    {
+      "name": "Angelica Page",
+      "character": "Mrs. Collins",
+      "order": 7
+    },
+    {
+      "name": "Greg Wood",
+      "character": "Mr. Collins",
+      "order": 8
+    },
+    {
+      "name": "Peter Anthony Tambakis",
+      "character": "Darren",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+  "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+  "budget": 40000000,
+  "revenue": 672800000,
+  "vote_average": 7.948,
+  "vote_count": 12647,
+  "imdb_id": "tt0167404",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R-15"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "MY",
+      "rating": "18SG"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG13"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 1 Oscar. 7 wins & 6 nominations total",
+  "rated": "PG",
+  "released": "24 Nov 2000",
+  "runtime": "122 min",
+  "genre": "Documentary, History, War",
+  "director": "Mark Jonathan Harris",
+  "writer": "Mark Jonathan Harris",
+  "actors": "Judi Dench, Lory Cahn, Kurt Fuchel",
+  "plot": "For nine months prior to World War II, in an act of mercy unequalled anywhere else before the war, Britain conducted an extraordinary rescue mission, opening its doors to over 10,000 Jewish and other children from Germany, Austria, and Czechoslovakia. These children, or Kinder (sing. Kind), as they came to be known, were taken into foster homes and hostels in Britain, expecting eventually to be reunited with their parents. The majority of them never saw their families again.",
+  "language": "English, German",
+  "country": "United Kingdom, United States",
+  "metascore": "79",
+  "imdb_rating": "7.7",
+  "imdb_votes": "1,988",
+  "box_office": "$374,555",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Into+the+Arms+of+Strangers%3A+Stories+of+the+Kindertransport"
+    },
+    {
+      "source": "Metacritic",
+      "value": "79/100",
+      "link": "https://www.metacritic.com/search/Into+the+Arms+of+Strangers%3A+Stories+of+the+Kindertransport/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0248912/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0248912/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/58062"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 9445,
+  "title": "Apt Pupil",
+  "original_title": "Apt Pupil",
+  "release_date": "1998-10-23",
+  "runtime": 107,
+  "tagline": "If you don't believe in the existence of evil, you've got a lot to learn",
+  "overview": "One day in 1984, Todd Bowden, a brilliant high school boy fascinated by the history of Nazism, stumbles across an old man whose appearance resembles that of Kurt Dussander, a wanted Nazi war criminal. A month later, Todd decides to knock on his door.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Bad Hat Harry Productions",
+      "country": "US"
+    },
+    {
+      "name": "Canal+ Droits Audiovisuels",
+      "country": "FR"
+    },
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bryan Singer"
+  ],
+  "writers": [
+    {
+      "name": "Brandon Boyce",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen King",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jane Hamsher",
+      "job": "Producer"
+    },
+    {
+      "name": "Bryan Singer",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Murphy",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Harbert",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brad Renfro",
+      "character": "Todd Bowden",
+      "order": 0
+    },
+    {
+      "name": "Ian McKellen",
+      "character": "Kurt Dussander",
+      "order": 1
+    },
+    {
+      "name": "Bruce Davison",
+      "character": "Richard Bowden",
+      "order": 2
+    },
+    {
+      "name": "Elias Koteas",
+      "character": "Archie",
+      "order": 3
+    },
+    {
+      "name": "Joe Morton",
+      "character": "Dan Richler",
+      "order": 4
+    },
+    {
+      "name": "David Schwimmer",
+      "character": "Edward French",
+      "order": 5
+    },
+    {
+      "name": "Jan Tříska",
+      "character": "Isaac Weiskopf",
+      "order": 6
+    },
+    {
+      "name": "Michael Byrne",
+      "character": "Ben Kramer",
+      "order": 7
+    },
+    {
+      "name": "Ann Dowd",
+      "character": "Monica Bowden",
+      "order": 8
+    },
+    {
+      "name": "Heather McComb",
+      "character": "Becky Trask",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pU3fvfSvrs5pZFdODPCzoLk95Ws.jpg",
+  "backdrop_path": "/xQpsxWPaAZW77G1L2Nzi2EAhizZ.jpg",
+  "budget": 14000000,
+  "revenue": 8863193,
+  "vote_average": 6.533,
+  "vote_count": 707,
+  "imdb_id": "tt0118636",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

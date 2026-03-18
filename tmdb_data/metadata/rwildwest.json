@@ -1,0 +1,222 @@
+{
+  "tmdb_id": 8487,
+  "title": "Wild Wild West",
+  "original_title": "Wild Wild West",
+  "release_date": "1999-06-30",
+  "runtime": 106,
+  "tagline": "It's a whole new west.",
+  "overview": "Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by assassinating President Ulysses S. Grant. Only two men can stop him: gunfighter James West and master-of-disguise and inventor Artemus Gordon. The two must team up to thwart Loveless' plans.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Peters Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Sonnenfeld/Josephson Worldwide Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Todman, Simon, LeMasters Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Barry Sonnenfeld"
+  ],
+  "writers": [
+    {
+      "name": "Brent Maddock",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter S. Seaman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "S.S. Wilson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeffrey Price",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Thomas",
+      "job": "Story"
+    },
+    {
+      "name": "Jim Thomas",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry Sonnenfeld",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Peters",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Simon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kim LeMasters",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tracy Glaser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Todman Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry Josephson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Will Smith",
+      "character": "Capt. James West",
+      "order": 0
+    },
+    {
+      "name": "Kevin Kline",
+      "character": "U.S. Marshal Artemus Gordon / President Grant",
+      "order": 1
+    },
+    {
+      "name": "Kenneth Branagh",
+      "character": "Dr. Arliss Loveless",
+      "order": 2
+    },
+    {
+      "name": "Salma Hayek Pinault",
+      "character": "Rita Escobar",
+      "order": 3
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "character": "Coleman",
+      "order": 4
+    },
+    {
+      "name": "Ted Levine",
+      "character": "General 'Bloodbath' McGrath",
+      "order": 5
+    },
+    {
+      "name": "Frederique van der Wal",
+      "character": "Amazonia",
+      "order": 6
+    },
+    {
+      "name": "Musetta Vander",
+      "character": "Munitia",
+      "order": 7
+    },
+    {
+      "name": "Sofia Eng",
+      "character": "Miss Lippenrieder",
+      "order": 8
+    },
+    {
+      "name": "Garcelle Beauvais",
+      "character": "Belle",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mCdo7nykEVCa25bjnkwgyX35fjm.jpg",
+  "backdrop_path": "/tbzWgnaqhFwN5mCIiwbgN5oiw0V.jpg",
+  "budget": 170000000,
+  "revenue": 222104681,
+  "vote_average": 5.317,
+  "vote_count": 3533,
+  "imdb_id": "tt0120891",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

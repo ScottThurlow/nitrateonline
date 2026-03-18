@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 10866,
+  "title": "Joy Ride",
+  "original_title": "Joy Ride",
+  "release_date": "2001-10-05",
+  "runtime": 97,
+  "tagline": "It started as a joke. Now the joke is on them.",
+  "overview": "Three young people on a road trip from Colorado to New Jersey talk to a trucker on their CB radio, then must escape when he turns out to be a psychotic killer.",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Bad Robot",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Dahl"
+  ],
+  "writers": [
+    {
+      "name": "J.J. Abrams",
+      "job": "Writer"
+    },
+    {
+      "name": "Clay Tarver",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Moore",
+      "job": "Producer"
+    },
+    {
+      "name": "Patrick Markey",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bridget Johnson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "J.J. Abrams",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Zahn",
+      "character": "Fuller",
+      "order": 0
+    },
+    {
+      "name": "Paul Walker",
+      "character": "Lewis",
+      "order": 1
+    },
+    {
+      "name": "Leelee Sobieski",
+      "character": "Venna",
+      "order": 2
+    },
+    {
+      "name": "Jessica Bowman",
+      "character": "Charlotte",
+      "order": 3
+    },
+    {
+      "name": "Stuart Stone",
+      "character": "Danny (Lewis's Roommate)",
+      "order": 4
+    },
+    {
+      "name": "Basil Wallace",
+      "character": "Car Salesman",
+      "order": 5
+    },
+    {
+      "name": "Brian Leckner",
+      "character": "Officer Keeney",
+      "order": 6
+    },
+    {
+      "name": "Mary Wickliffe",
+      "character": "Salt Lake City Police Desk Clerk",
+      "order": 7
+    },
+    {
+      "name": "McKenzie Satterthwaite",
+      "character": "Asst. Salt Lake City Police Desk Clerk",
+      "order": 8
+    },
+    {
+      "name": "Dell Yount",
+      "character": "Gas Station Mechanic",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1LVGjf1QWgkNNPQssZtuT1GYKoP.jpg",
+  "backdrop_path": "/5uiaW1yJPhGPdCXqGIkC5zeRfDg.jpg",
+  "budget": 23000000,
+  "revenue": 36642838,
+  "vote_average": 6.53,
+  "vote_count": 1317,
+  "imdb_id": "tt0206314",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

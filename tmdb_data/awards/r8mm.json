@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 2 nominations total",
+  "rated": "R",
+  "released": "26 Feb 1999",
+  "runtime": "123 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Joel Schumacher",
+  "writer": "Andrew Kevin Walker",
+  "actors": "Nicolas Cage, Joaquin Phoenix, James Gandolfini",
+  "plot": "A small, seemingly innocuous plastic reel of film leads surveillance specialist Tom Welles down an increasingly dark and frightening path. With the help of the streetwise Max, Welles relentlessly follows a bizarre trail of evidence to determine the fate of a complete stranger. As his work turns into obsession, he drifts farther and farther away from his wife, family and simple life as a small-town private eye.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "21",
+  "imdb_rating": "6.6",
+  "imdb_votes": "150,624",
+  "box_office": "$36,663,315",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "23%",
+      "link": "https://www.rottentomatoes.com/search?search=8MM"
+    },
+    {
+      "source": "Metacritic",
+      "value": "21/100",
+      "link": "https://www.metacritic.com/search/8MM/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134273/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134273/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8224"
+  }
+}

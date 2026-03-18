@@ -1,0 +1,222 @@
+{
+  "tmdb_id": 10159,
+  "title": "The Rundown",
+  "original_title": "The Rundown",
+  "release_date": "2003-09-26",
+  "runtime": 104,
+  "tagline": "Bulls, guns, whips, gold and one sacred cat.",
+  "overview": "When Travis, the mouthy son of a criminal, disappears in the Amazon in search of a treasured artifact, his father sends in Beck, who becomes Travis's rival for the affections of Mariana, a mysterious Brazilian woman. With his steely disposition, Beck is a man of few words -- but it takes him all the discipline he can muster to work with Travis to nab a tyrant who's after the same treasure.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Portuguese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "WWE Studios",
+      "country": "US"
+    },
+    {
+      "name": "Misher Films",
+      "country": "US"
+    },
+    {
+      "name": "Strike Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "IM3 Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Peter Berg"
+  ],
+  "writers": [
+    {
+      "name": "R.J. Stewart",
+      "job": "Screenplay"
+    },
+    {
+      "name": "R.J. Stewart",
+      "job": "Writer"
+    },
+    {
+      "name": "James Vanderbilt",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kevin Misher",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Abraham",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Corless",
+      "job": "Producer"
+    },
+    {
+      "name": "Karen Glasser",
+      "job": "Producer"
+    },
+    {
+      "name": "Vince McMahon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alan Beattie",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Corry",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Chesser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ric Kidney",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dwayne Johnson",
+      "character": "Beck",
+      "order": 0
+    },
+    {
+      "name": "Seann William Scott",
+      "character": "Travis",
+      "order": 1
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Mariana",
+      "order": 2
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Hatcher",
+      "order": 3
+    },
+    {
+      "name": "Ewen Bremner",
+      "character": "Declan",
+      "order": 4
+    },
+    {
+      "name": "Jon Gries",
+      "character": "Harvey",
+      "order": 5
+    },
+    {
+      "name": "William Lucking",
+      "character": "Walker",
+      "order": 6
+    },
+    {
+      "name": "Ernie Reyes Jr.",
+      "character": "Manito",
+      "order": 7
+    },
+    {
+      "name": "Stuart F. Wilson",
+      "character": "Swenson",
+      "order": 8
+    },
+    {
+      "name": "Dennis Keiffer",
+      "character": "Naylor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dJX06UwlLIwbLLt9UQ6DlkHF4jz.jpg",
+  "backdrop_path": "/lvozXln5h8mNqKeL2Uev0N0Y59B.jpg",
+  "budget": 85000000,
+  "revenue": 80900000,
+  "vote_average": 6.439,
+  "vote_count": 2139,
+  "imdb_id": "tt0327850",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

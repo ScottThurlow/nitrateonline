@@ -1,0 +1,30 @@
+{
+  "year": "1989",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "09 Nov 1989",
+  "runtime": "90 min",
+  "genre": "Comedy",
+  "director": "John T. Bone",
+  "writer": "Daniel Benton, John T. Bone",
+  "actors": "Julie Newmar, Billy Frank, Brad Zutaut",
+  "plot": "Two friends use the casting couch to seduce women while pretending to be movie producers.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "4.1",
+  "imdb_votes": "172",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.1/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0102565/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0102565/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/251414"
+  }
+}

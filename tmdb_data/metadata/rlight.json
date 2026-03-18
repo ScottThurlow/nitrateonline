@@ -1,0 +1,111 @@
+{
+  "tmdb_id": 19052,
+  "title": "Light It Up",
+  "original_title": "Light It Up",
+  "release_date": "1999-11-04",
+  "runtime": 99,
+  "tagline": "",
+  "overview": "On a winter day in a southside Queens high school, events collide and six students are suddenly in an armed standoff with the NYPD. At the school, classrooms freeze, teachers come and go, resources are scant.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Edmonds Entertainment Group",
+      "country": "US"
+    },
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Craig Bolotin"
+  ],
+  "writers": [
+    {
+      "name": "Craig Bolotin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tracey Edmonds",
+      "job": "Producer"
+    },
+    {
+      "name": "Babyface",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Usher",
+      "character": "Lester Dewitt",
+      "order": 0
+    },
+    {
+      "name": "Vanessa Williams",
+      "character": "Audrey McDonald",
+      "order": 1
+    },
+    {
+      "name": "Forest Whitaker",
+      "character": "Officer Dante Jackson",
+      "order": 2
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Stephanie Williams",
+      "order": 3
+    },
+    {
+      "name": "Robert Ri'chard",
+      "character": "Zacharias 'Ziggy' Malone",
+      "order": 4
+    },
+    {
+      "name": "Judd Nelson",
+      "character": "Ken Knowles",
+      "order": 5
+    },
+    {
+      "name": "Fredro Starr",
+      "character": "Rodney J. Templeton",
+      "order": 6
+    },
+    {
+      "name": "Sara Gilbert",
+      "character": "Lynn Sabatini",
+      "order": 7
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "character": "Robert 'Rivers' Tremont",
+      "order": 8
+    },
+    {
+      "name": "Glynn Turman",
+      "character": "Principal Allan Armstrong",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sHbII8OHz2uoyOpPAVYe0LIJcdN.jpg",
+  "backdrop_path": "/c9ZDn1mJUfs8L0IyGZXS6oXtXfX.jpg",
+  "budget": 13000000,
+  "revenue": 5985690,
+  "vote_average": 6.714,
+  "vote_count": 35,
+  "imdb_id": "tt0172726",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

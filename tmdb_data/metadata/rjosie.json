@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 19366,
+  "title": "Josie and the Pussycats",
+  "original_title": "Josie and the Pussycats",
+  "release_date": "2001-04-06",
+  "runtime": 98,
+  "tagline": "Here kitty, kitty, kitty...",
+  "overview": "Josie, Melody and Val are three small-town girl musicians determined to take their rock band out of their garage and straight to the top, while remaining true to their look, style and sound. They get a record deal which brings fame and fortune but soon realize they are pawns of two people who want to control the youth of America. They must clear their names, even if it means losing fame and fortune.",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Riverdale Productions",
+      "country": "US"
+    },
+    {
+      "name": "Marc Platt Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Deborah Kaplan",
+    "Harry Elfont"
+  ],
+  "writers": [
+    {
+      "name": "Deborah Kaplan",
+      "job": "Writer"
+    },
+    {
+      "name": "Harry Elfont",
+      "job": "Writer"
+    },
+    {
+      "name": "Richard Goldwater",
+      "job": "Characters"
+    },
+    {
+      "name": "Dan DeCarlo",
+      "job": "Characters"
+    },
+    {
+      "name": "John L. Goldwater",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tracey Edmonds",
+      "job": "Producer"
+    },
+    {
+      "name": "Tracey Edmonds",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Platt",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Goldwater",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chuck Grimes",
+      "job": "Producer"
+    },
+    {
+      "name": "Tony DeRosa-Grund",
+      "job": "Producer"
+    },
+    {
+      "name": "Babyface",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Silberkleit",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rachael Leigh Cook",
+      "character": "Josie McCoy",
+      "order": 0
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Valerie Brown",
+      "order": 1
+    },
+    {
+      "name": "Tara Reid",
+      "character": "Melody Valentine",
+      "order": 2
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Wyatt Frame",
+      "order": 3
+    },
+    {
+      "name": "Parker Posey",
+      "character": "Fiona",
+      "order": 4
+    },
+    {
+      "name": "Gabriel Mann",
+      "character": "Alan M.",
+      "order": 5
+    },
+    {
+      "name": "Paulo Costanzo",
+      "character": "Alexander Cabot",
+      "order": 6
+    },
+    {
+      "name": "Missi Pyle",
+      "character": "Alexandra Cabot",
+      "order": 7
+    },
+    {
+      "name": "Alexander Martin",
+      "character": "Les - DuJour",
+      "order": 8
+    },
+    {
+      "name": "Donald Faison",
+      "character": "D.J. - DuJour",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jZDTbsLCufLShWJBTScuGf8T8Rw.jpg",
+  "backdrop_path": "/wkQAYth62cJXsvqkYbDH8b1cqES.jpg",
+  "budget": 22000000,
+  "revenue": 14866444,
+  "vote_average": 5.791,
+  "vote_count": 364,
+  "imdb_id": "tt0236348",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

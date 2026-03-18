@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 8129,
+  "title": "My Name Is Joe",
+  "original_title": "My Name Is Joe",
+  "release_date": "1998-05-15",
+  "runtime": 105,
+  "tagline": "",
+  "overview": "Two thirtysomethings, unemployed former alcoholic Joe and community health worker Sarah, start a romantic relationship in one of the toughest Glasgow neighbourhoods.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Parallax Pictures",
+      "country": "GB"
+    },
+    {
+      "name": "Road Movies",
+      "country": "DE"
+    },
+    {
+      "name": "Channel Four Films",
+      "country": "GB"
+    },
+    {
+      "name": "WDR/Arte",
+      "country": "DE"
+    },
+    {
+      "name": "La Sept Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "ARD Degeto",
+      "country": "DE"
+    },
+    {
+      "name": "BiM Distribuzione",
+      "country": "IT"
+    },
+    {
+      "name": "Diaphana Films",
+      "country": "FR"
+    },
+    {
+      "name": "Tornasol Media",
+      "country": "ES"
+    }
+  ],
+  "director": [
+    "Ken Loach"
+  ],
+  "writers": [
+    {
+      "name": "Paul Laverty",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rebecca O'Brien",
+      "job": "Producer"
+    },
+    {
+      "name": "Ulrich Felsberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Peter Mullan",
+      "character": "Joe",
+      "order": 0
+    },
+    {
+      "name": "Louise Goodall",
+      "character": "Sarah",
+      "order": 1
+    },
+    {
+      "name": "David McKay",
+      "character": "Liam",
+      "order": 2
+    },
+    {
+      "name": "Gary Lewis",
+      "character": "Shanks",
+      "order": 3
+    },
+    {
+      "name": "David Hayman",
+      "character": "McGowan",
+      "order": 4
+    },
+    {
+      "name": "Lorraine McIntosh",
+      "character": "Maggie",
+      "order": 5
+    },
+    {
+      "name": "Anne-Marie Kennedy",
+      "character": "Sabine",
+      "order": 6
+    },
+    {
+      "name": "Stephen McCole",
+      "character": "Mojo",
+      "order": 7
+    },
+    {
+      "name": "Stephen Docherty",
+      "character": "Doc",
+      "order": 8
+    },
+    {
+      "name": "David Peacock",
+      "character": "Hooligan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/e9awu6tsCyWPAUA2eEoelFSTbcb.jpg",
+  "backdrop_path": "/sSpgnEncQ5gSaMjp8JmEO9bJAs7.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.232,
+  "vote_count": 207,
+  "imdb_id": "tt0151691",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    }
+  ],
+  "status": "Released"
+}

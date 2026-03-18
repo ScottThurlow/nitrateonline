@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 11169,
+  "title": "Spartan",
+  "original_title": "Spartan",
+  "release_date": "2004-03-12",
+  "runtime": 102,
+  "tagline": "She's missing.",
+  "overview": "U.S. government agent Scott is assigned to rescue the daughter of a high-ranking government official. As willing as he is to bend the rules to get things done, though, Scott is shocked to find that others are willing to go even further to protect a political career.",
+  "genres": [
+    "Mystery",
+    "Action",
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian",
+    "Swedish"
+  ],
+  "production_companies": [
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "ApolloMedia",
+      "country": "DE"
+    },
+    {
+      "name": "Signature Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Mamet"
+  ],
+  "writers": [
+    {
+      "name": "David Mamet",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James A. Holt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Bergstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Frank Hübner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tracee Stanley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Moshe Diamant",
+      "job": "Producer"
+    },
+    {
+      "name": "Art Linson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Val Kilmer",
+      "character": "Scott",
+      "order": 0
+    },
+    {
+      "name": "Derek Luke",
+      "character": "Curtis",
+      "order": 1
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Stoddard",
+      "order": 2
+    },
+    {
+      "name": "Tia Texada",
+      "character": "Jackie Black",
+      "order": 3
+    },
+    {
+      "name": "Ed O'Neill",
+      "character": "Burch",
+      "order": 4
+    },
+    {
+      "name": "Kristen Bell",
+      "character": "Laura Newton",
+      "order": 5
+    },
+    {
+      "name": "Johnny Messner",
+      "character": "Grace",
+      "order": 6
+    },
+    {
+      "name": "Clark Gregg",
+      "character": "Miller",
+      "order": 7
+    },
+    {
+      "name": "Lionel Mark Smith",
+      "character": "Colonel Blane",
+      "order": 8
+    },
+    {
+      "name": "Aaron Stanford",
+      "character": "Michael Blake",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rcdhS2g1d38NOoeh0PPAN2bLE7w.jpg",
+  "backdrop_path": "/1dm0kjWhYDcVPyBk0CZRThxwNyK.jpg",
+  "budget": 19250000,
+  "revenue": 8112712,
+  "vote_average": 6.178,
+  "vote_count": 407,
+  "imdb_id": "tt0360009",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

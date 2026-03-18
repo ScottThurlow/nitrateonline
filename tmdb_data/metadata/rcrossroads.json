@@ -1,0 +1,228 @@
+{
+  "tmdb_id": 17130,
+  "title": "Crossroads",
+  "original_title": "Crossroads",
+  "release_date": "2002-02-15",
+  "runtime": 93,
+  "tagline": "Dreams change. Friends are forever.",
+  "overview": "After eight years apart, three childhood friends - Lucy, Kit, and Mimi - rediscover their friendship on a cross-country trip. With barely a plan, practically no money but plenty of dreams, the girls catch a lift with Mimi's handsome friend Ben in his convertible. Along the way they not only gather experiences that will change their lives, but they also discover how important it is to hold onto their hearts' desires.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Zomba Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Tamra Davis"
+  ],
+  "writers": [
+    {
+      "name": "Shonda Rhimes",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Britney Spears",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Gale",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Clive Calder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ann Carli",
+      "job": "Producer"
+    },
+    {
+      "name": "Larry Rudolph",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Van Toffler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Johnny Wright",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Britney Spears",
+      "character": "Lucy Wagner",
+      "order": 0
+    },
+    {
+      "name": "Zoe Saldaña",
+      "character": "Kit",
+      "order": 1
+    },
+    {
+      "name": "Taryn Manning",
+      "character": "Mimi",
+      "order": 2
+    },
+    {
+      "name": "Anson Mount",
+      "character": "Ben",
+      "order": 3
+    },
+    {
+      "name": "Dan Aykroyd",
+      "character": "Pete Wagner",
+      "order": 4
+    },
+    {
+      "name": "Kim Cattrall",
+      "character": "Caroline",
+      "order": 5
+    },
+    {
+      "name": "Justin Long",
+      "character": "Henry",
+      "order": 6
+    },
+    {
+      "name": "Beverly Johnson",
+      "character": "Kit's Mom",
+      "order": 7
+    },
+    {
+      "name": "Bahni Turpin",
+      "character": "Ms. Jenson",
+      "order": 8
+    },
+    {
+      "name": "Kool Moe Dee",
+      "character": "Bar Owner",
+      "order": 9
+    }
+  ],
+  "poster_path": "/prdFY9Bc28frBhhWl7mPSr7JmFp.jpg",
+  "backdrop_path": "/igpUTEhu5zEtGt19iPuDgfuxoyL.jpg",
+  "budget": 12000000,
+  "revenue": 61141030,
+  "vote_average": 5.2,
+  "vote_count": 672,
+  "imdb_id": "tt0275022",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "10"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

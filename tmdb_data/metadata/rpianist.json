@@ -1,0 +1,222 @@
+{
+  "tmdb_id": 423,
+  "title": "The Pianist",
+  "original_title": "The Pianist",
+  "release_date": "2002-09-17",
+  "runtime": 150,
+  "tagline": "Music was his passion. Survival was his masterpiece.",
+  "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "Russian",
+    "German",
+    "Polish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "R.P. Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Heritage Films",
+      "country": "PL"
+    },
+    {
+      "name": "Studio Babelsberg",
+      "country": "DE"
+    },
+    {
+      "name": "Runteam",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Roman Polanski"
+  ],
+  "writers": [
+    {
+      "name": "Ronald Harwood",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Władysław Szpilman",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Benmussa",
+      "job": "Producer"
+    },
+    {
+      "name": "Roman Polanski",
+      "job": "Producer"
+    },
+    {
+      "name": "Timothy Burrill",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Henning Molfenter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lew Rywin",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Adrien Brody",
+      "character": "Władysław 'Władek' Szpilman",
+      "order": 0
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "character": "Captain Wilm Hosenfeld",
+      "order": 1
+    },
+    {
+      "name": "Frank Finlay",
+      "character": "Father",
+      "order": 2
+    },
+    {
+      "name": "Maureen Lipman",
+      "character": "Mother",
+      "order": 3
+    },
+    {
+      "name": "Emilia Fox",
+      "character": "Dorota",
+      "order": 4
+    },
+    {
+      "name": "Ed Stoppard",
+      "character": "Henryk Szpilman",
+      "order": 5
+    },
+    {
+      "name": "Julia Rayner",
+      "character": "Regina Szpilman",
+      "order": 6
+    },
+    {
+      "name": "Jessica Kate Meyer",
+      "character": "Halina Szpilman",
+      "order": 7
+    },
+    {
+      "name": "Michał Żebrowski",
+      "character": "Jurek",
+      "order": 8
+    },
+    {
+      "name": "Wanja Mues",
+      "character": "SS Slapping Father",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+  "backdrop_path": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
+  "budget": 35000000,
+  "revenue": 120098945,
+  "vote_average": 8.375,
+  "vote_count": 9980,
+  "imdb_id": "tt0253474",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "TW",
+      "rating": "輔12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

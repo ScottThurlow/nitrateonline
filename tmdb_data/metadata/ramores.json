@@ -1,0 +1,187 @@
+{
+  "tmdb_id": 55,
+  "title": "Amores Perros",
+  "original_title": "Amores perros",
+  "release_date": "2000-06-16",
+  "runtime": 154,
+  "tagline": "Love. Betrayal. Death.",
+  "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Altavista Films",
+      "country": "MX"
+    },
+    {
+      "name": "Zeta Film",
+      "country": "MX"
+    }
+  ],
+  "director": [
+    "Alejandro González Iñárritu"
+  ],
+  "writers": [
+    {
+      "name": "Guillermo Arriaga",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Francisco González Compeán",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Martha Sosa Elizondo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alejandro González Iñárritu",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emilio Echevarría",
+      "character": "El Chivo",
+      "order": 0
+    },
+    {
+      "name": "Gael García Bernal",
+      "character": "Octavio",
+      "order": 1
+    },
+    {
+      "name": "Vanessa Bauche",
+      "character": "Susana",
+      "order": 2
+    },
+    {
+      "name": "Goya Toledo",
+      "character": "Valeria",
+      "order": 3
+    },
+    {
+      "name": "Álvaro Guerrero",
+      "character": "Daniel",
+      "order": 4
+    },
+    {
+      "name": "Jorge Salinas",
+      "character": "Luis",
+      "order": 5
+    },
+    {
+      "name": "Marco Pérez",
+      "character": "Ramiro",
+      "order": 6
+    },
+    {
+      "name": "Rodrigo Murray",
+      "character": "Gustavo",
+      "order": 7
+    },
+    {
+      "name": "Humberto Busto",
+      "character": "Jorge",
+      "order": 8
+    },
+    {
+      "name": "Gerardo Campbell",
+      "character": "Mauricio",
+      "order": 9
+    }
+  ],
+  "poster_path": "/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg",
+  "backdrop_path": "/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg",
+  "budget": 2000000,
+  "revenue": 20908467,
+  "vote_average": 7.633,
+  "vote_count": 2861,
+  "imdb_id": "tt0245712",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CL",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

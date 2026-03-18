@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "1 win & 5 nominations total",
+  "rated": "NC-17",
+  "released": "01 Sep 1995",
+  "runtime": "91 min",
+  "genre": "Drama",
+  "director": "Larry Clark",
+  "writer": "Harmony Korine, Larry Clark",
+  "actors": "Leo Fitzpatrick, Justin Pierce, Chloë Sevigny",
+  "plot": "Disturbing, dark, low-budget independent film about teen-agers in New York City. The story focuses on Telly (Leo Fitzpatrick), a teen who has a goal to de-flower as many virgins as he can. When one of his old encounters discovers that she is H.I.V.-positive, after only one encounter with a guy, Telly remains undaunted.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "63",
+  "imdb_rating": "7.0",
+  "imdb_votes": "88,412",
+  "box_office": "$7,412,216",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=Kids"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Kids/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0113540/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0113540/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9344"
+  }
+}

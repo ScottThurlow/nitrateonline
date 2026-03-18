@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 5 nominations total",
+  "rated": "PG-13",
+  "released": "14 Mar 2003",
+  "runtime": "100 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Glen Morgan",
+  "writer": "Glen Morgan, Gilbert Ralston, Stephen Gilbert",
+  "actors": "Crispin Glover, R. Lee Ermey, Laura Harring",
+  "plot": "This is the story of Willard Stiles who is a social misfit taking care of his ill and fragile but verbally abusive mother Henrietta in a musty old mansion that is also home to a colony of rats. Willard then finds himself constantly humiliated in front of his co-workers and is eventually fired by his cruel and uncaring boss, Mr. Frank Martin, a vicious man whose professional interest in Willard extends to a personal financial one.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "6.1",
+  "imdb_votes": "20,963",
+  "box_office": "$6,886,089",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Willard"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Willard/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0310357/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0310357/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10929"
+  }
+}

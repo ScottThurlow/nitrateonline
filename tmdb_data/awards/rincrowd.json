@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "19 Jul 2000",
+  "runtime": "105 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Mary Lambert",
+  "writer": "Mark Gibson, Philip Halprin",
+  "actors": "Lori Heuring, Susan Ward, Matthew Settle",
+  "plot": "Adrien Williams enters the \"in crowd\" when she is hired by a posh East Coast country club and befriended by Brittany Foster, the charismatic leader of a clique of wealthy college students who are home for the summer. Brittany takes Adrien under her wing, attempts to show her the benefits of the good life and introduces her to other members of her inner circle, including the object of Brittany's affection, tennis pro Matt Curtis. When Matt shows an interest in Adrien, Brittany begins to reveal her dark side and Adrien slowly starts to learn that Brittany and her pack of friends will do anything to protect their circle and the dark secrets they harbor.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "14",
+  "imdb_rating": "4.6",
+  "imdb_votes": "4,922",
+  "box_office": "$5,280,035",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "2%",
+      "link": "https://www.rottentomatoes.com/search?search=The+in+Crowd"
+    },
+    {
+      "source": "Metacritic",
+      "value": "14/100",
+      "link": "https://www.metacritic.com/search/The+in+Crowd/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0163676/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0163676/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/36047"
+  }
+}

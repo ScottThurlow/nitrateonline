@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 9333,
+  "title": "Last Man Standing",
+  "original_title": "Last Man Standing",
+  "release_date": "1996-09-20",
+  "runtime": 101,
+  "tagline": "In a town with no justice, there is only one law... Every man for himself.",
+  "overview": "John Smith is a mysterious stranger who is drawn into a vicious war between two Prohibition-era gangs. In a dangerous game, he switches allegiances from one to another, offering his services to the highest bidder. As the death toll mounts, Smith takes the law into his own hands in a deadly race to stay alive.",
+  "genres": [
+    "Crime",
+    "Action",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Arthur Sarkissian Productions",
+      "country": "US"
+    },
+    {
+      "name": "Lone Wolf",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Walter Hill"
+  ],
+  "writers": [
+    {
+      "name": "Walter Hill",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ryuzo Kikushima",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Akira Kurosawa",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Walter Hill",
+      "job": "Producer"
+    },
+    {
+      "name": "Sara Risher",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Arthur M. Sarkissian",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "John Smith",
+      "order": 0
+    },
+    {
+      "name": "Bruce Dern",
+      "character": "Sheriff Ed Galt",
+      "order": 1
+    },
+    {
+      "name": "William Sanderson",
+      "character": "Joe Monday",
+      "order": 2
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Hickey",
+      "order": 3
+    },
+    {
+      "name": "David Patrick Kelly",
+      "character": "Doyle",
+      "order": 4
+    },
+    {
+      "name": "Karina Lombard",
+      "character": "Felina",
+      "order": 5
+    },
+    {
+      "name": "Ned Eisenberg",
+      "character": "Fredo Strozzi",
+      "order": 6
+    },
+    {
+      "name": "Michael Imperioli",
+      "character": "Giorgio Carmonte",
+      "order": 7
+    },
+    {
+      "name": "R. D. Call",
+      "character": "Jack McCool",
+      "order": 8
+    },
+    {
+      "name": "Alexandra Powers",
+      "character": "Lucy Kolinski",
+      "order": 9
+    }
+  ],
+  "poster_path": "/m8bVMFAN18H7qmwn2KOWWjDQnbC.jpg",
+  "backdrop_path": "/2wpoSvwPkCMJeVTrjkMUAF5B1sW.jpg",
+  "budget": 67000000,
+  "revenue": 47267001,
+  "vote_average": 6.4,
+  "vote_count": 966,
+  "imdb_id": "tt0116830",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

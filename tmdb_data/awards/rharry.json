@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 Oscar. 4 wins & 6 nominations total",
+  "rated": "R",
+  "released": "02 Jan 1998",
+  "runtime": "96 min",
+  "genre": "Comedy",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Woody Allen, Judy Davis, Julia Louis-Dreyfus",
+  "plot": "Harry Block is a well-regarded novelist whose tendency to thinly-veil his own experiences in his work, as well as his un-apologetic attitude and his proclivity for pills and whores, has left him with three ex-wives that hate him. As he is about to be honored for his writing by the college that expelled him, he faces writer's block and the impending marriage of his latest flame to a writer friend. As scenes from his stories and novels pass and interact with him, Harry faces the people whose lives he has affected - wives, lovers, his son, his sister.",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "7.3",
+  "imdb_votes": "49,726",
+  "box_office": "$10,686,841",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=Deconstructing+Harry"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Deconstructing+Harry/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118954/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118954/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2639"
+  }
+}

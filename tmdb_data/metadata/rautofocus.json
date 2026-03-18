@@ -1,0 +1,187 @@
+{
+  "tmdb_id": 14112,
+  "title": "Auto Focus",
+  "original_title": "Auto Focus",
+  "release_date": "2002-10-18",
+  "runtime": 104,
+  "tagline": "A day without sex is a day wasted.",
+  "overview": "A successful TV star during the 1960s, former \"Hogan's Heroes\" actor Bob Crane projects a wholesome family-man image, but this front masks his persona as a sex addict who records and photographs his many encounters with women, often with the help of his seedy friend, John Henry Carpenter. This biographical drama reveals how Crane's double life takes its toll on him and his family, and ultimately contributes to his death.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Propaganda Films",
+      "country": "US"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    },
+    {
+      "name": "Focus Puller Inc.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Paul Schrader"
+  ],
+  "writers": [
+    {
+      "name": "Robert Graysmith",
+      "job": "Book"
+    },
+    {
+      "name": "Michael Gerbosi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Larry Karaszewski",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Rosken",
+      "job": "Producer"
+    },
+    {
+      "name": "Trevor Macy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rick Hess",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Patrick Dollard",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Alexander",
+      "job": "Producer"
+    },
+    {
+      "name": "Alicia Allain",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Greg Kinnear",
+      "character": "Bob Crane",
+      "order": 0
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "John Carpenter",
+      "order": 1
+    },
+    {
+      "name": "Rita Wilson",
+      "character": "Anne Crane",
+      "order": 2
+    },
+    {
+      "name": "Maria Bello",
+      "character": "Patricia Olson / Patrica Crane",
+      "order": 3
+    },
+    {
+      "name": "Ron Leibman",
+      "character": "Lenny",
+      "order": 4
+    },
+    {
+      "name": "Kurt Fuller",
+      "character": "Werner Klemperer",
+      "order": 5
+    },
+    {
+      "name": "Ed Begley Jr.",
+      "character": "Mel Rosen",
+      "order": 6
+    },
+    {
+      "name": "Michael E. Rodgers",
+      "character": "Richard Dawson",
+      "order": 7
+    },
+    {
+      "name": "Michael McKean",
+      "character": "Video Executive",
+      "order": 8
+    },
+    {
+      "name": "Christopher Neiman",
+      "character": "Robert Clary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/71CQUn4vtpDQtAPXtaLP7IGH0Sg.jpg",
+  "backdrop_path": "/204u2koZm4kP2MwwYdALCd5i4Vi.jpg",
+  "budget": 7000000,
+  "revenue": 2062066,
+  "vote_average": 6.4,
+  "vote_count": 213,
+  "imdb_id": "tt0298744",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

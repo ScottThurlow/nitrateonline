@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 13466,
+  "title": "October Sky",
+  "original_title": "October Sky",
+  "release_date": "1999-02-19",
+  "runtime": 107,
+  "tagline": "Sometimes one dream is enough to light up the whole sky.",
+  "overview": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joe Johnston"
+  ],
+  "writers": [
+    {
+      "name": "Lewis Colick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Homer H. Hickam Jr.",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Cramer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Larry Franco",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Sternberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charles Gordon",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jake Gyllenhaal",
+      "character": "Homer Hickam",
+      "order": 0
+    },
+    {
+      "name": "Chris Cooper",
+      "character": "John Hickam",
+      "order": 1
+    },
+    {
+      "name": "Chris Owen",
+      "character": "Quentin Wilson",
+      "order": 2
+    },
+    {
+      "name": "Laura Dern",
+      "character": "Miss Riley",
+      "order": 3
+    },
+    {
+      "name": "William Lee Scott",
+      "character": "Roy Lee",
+      "order": 4
+    },
+    {
+      "name": "Chad Lindberg",
+      "character": "O'Dell",
+      "order": 5
+    },
+    {
+      "name": "Natalie Canerday",
+      "character": "Elsie Hickam",
+      "order": 6
+    },
+    {
+      "name": "Elya Baskin",
+      "character": "Ike Bykovsky",
+      "order": 7
+    },
+    {
+      "name": "Chris Ellis",
+      "character": "Principal Turner",
+      "order": 8
+    },
+    {
+      "name": "Scott Thomas",
+      "character": "Jim Hickam",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1weUnrWqESWoLzMgSs64jd4GEwY.jpg",
+  "backdrop_path": "/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg",
+  "budget": 25000000,
+  "revenue": 34698685,
+  "vote_average": 7.673,
+  "vote_count": 1396,
+  "imdb_id": "tt0132477",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

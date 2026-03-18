@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win",
+  "rated": "PG-13",
+  "released": "02 Apr 1999",
+  "runtime": "90 min",
+  "genre": "Comedy",
+  "director": "Sam Weisman",
+  "writer": "Neil Simon, Marc Lawrence",
+  "actors": "Steve Martin, Goldie Hawn, John Cleese",
+  "plot": "The remake of the 1970 Neil Simon comedy follows the adventures of married couple Henry and Nancy Clark as they are vexed by misfortune while in New York City for a job interview.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "33",
+  "imdb_rating": "5.5",
+  "imdb_votes": "15,221",
+  "box_office": "$28,544,120",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "28%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Out-of-Towners"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/The+Out-of-Towners/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0129280/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0129280/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8970"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "tmdb_id": 89823,
+  "title": "The Big Animal",
+  "original_title": "Duże zwierzę",
+  "release_date": "2000-08-25",
+  "runtime": 73,
+  "tagline": "",
+  "overview": "When the circus leaves town, Zygmunt and Marysia unwittingly adopt a camel into their home. The couple quickly forms a close bond with the nameless camel, but as the bond grows stronger, their neighbors slowly begin to ostracize them.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Polish"
+  ],
+  "production_companies": [
+    {
+      "name": "Studio Filmowe Perspektywa",
+      "country": "PL"
+    },
+    {
+      "name": "Telewizja Polska",
+      "country": "PL"
+    }
+  ],
+  "director": [
+    "Jerzy Stuhr"
+  ],
+  "writers": [
+    {
+      "name": "Kazimierz Orłoś",
+      "job": "Short Story"
+    },
+    {
+      "name": "Krzysztof Kieślowski",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sławomir Rogowski",
+      "job": "Producer"
+    },
+    {
+      "name": "Janusz Morgenstern",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jerzy Stuhr",
+      "character": "Zygmunt Sawicki",
+      "order": 0
+    },
+    {
+      "name": "Anna Dymna",
+      "character": "Maria Sawicka",
+      "order": 1
+    },
+    {
+      "name": "Dominika Bednarczyk",
+      "character": "Bank Clerk",
+      "order": 2
+    },
+    {
+      "name": "Błażej Wójcik",
+      "character": "Bank Clerk",
+      "order": 3
+    },
+    {
+      "name": "Andrzej Franczyk",
+      "character": "Bank Manager",
+      "order": 4
+    },
+    {
+      "name": "Feliks Szajnert",
+      "character": "Drunkard",
+      "order": 5
+    },
+    {
+      "name": "Zbigniew Kaleta",
+      "character": "Photographer",
+      "order": 6
+    },
+    {
+      "name": "Andrzej Kozak",
+      "character": "",
+      "order": 7
+    }
+  ],
+  "poster_path": "/oObL5cFHWzY3XxpMnE4n6KWvp6C.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 3757,
+  "vote_average": 6.981,
+  "vote_count": 27,
+  "imdb_id": "tt0246593",
+  "certifications": [],
+  "status": "Released"
+}

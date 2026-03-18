@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 5551,
+  "title": "Space Cowboys",
+  "original_title": "Space Cowboys",
+  "release_date": "2000-08-04",
+  "runtime": 130,
+  "tagline": "Space will never be the same.",
+  "overview": "Frank Corvin, ‘Hawk’ Hawkins, Jerry O'Neill and ‘Tank’ Sullivan were hotdog members of Project Daedalus, the Air Force's test program for space travel, but their hopes were dashed in 1958 with the formation of NASA and the use of trained chimps. They blackmail their way into orbit when Russia's mysterious ‘Ikon’ communications satellite's orbit begins to degrade and threatens to crash to Earth.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Malpaso Productions",
+      "country": "US"
+    },
+    {
+      "name": "Mad Chance",
+      "country": "US"
+    },
+    {
+      "name": "Clipsal Films",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Clint Eastwood"
+  ],
+  "writers": [
+    {
+      "name": "Howard Klausner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ken Kaufman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Clint Eastwood",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Lazar",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Clint Eastwood",
+      "character": "Frank Corvin",
+      "order": 0
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Hawk Hawkins",
+      "order": 1
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "Jerry O'Neill",
+      "order": 2
+    },
+    {
+      "name": "James Garner",
+      "character": "Tank Sullivan",
+      "order": 3
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Bob Gerson",
+      "order": 4
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "character": "Sara Holland",
+      "order": 5
+    },
+    {
+      "name": "William Devane",
+      "character": "Eugene Davis",
+      "order": 6
+    },
+    {
+      "name": "Loren Dean",
+      "character": "Ethan Glance",
+      "order": 7
+    },
+    {
+      "name": "Courtney B. Vance",
+      "character": "Roger Hines",
+      "order": 8
+    },
+    {
+      "name": "Barbara Babcock",
+      "character": "Barbara Corvin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hPzt1bbA1sUDQOl6Vujmyz2hjLN.jpg",
+  "backdrop_path": "/sUye6BrOjlpoAKRMjcP0YwiUvHW.jpg",
+  "budget": 65000000,
+  "revenue": 128900000,
+  "vote_average": 6.39,
+  "vote_count": 1491,
+  "imdb_id": "tt0186566",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

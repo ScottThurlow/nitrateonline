@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 4 Oscars. 15 wins & 37 nominations total",
+  "rated": "R",
+  "released": "10 Dec 1999",
+  "runtime": "189 min",
+  "genre": "Crime, Drama, Fantasy",
+  "director": "Frank Darabont",
+  "writer": "Stephen King, Frank Darabont",
+  "actors": "Tom Hanks, Michael Clarke Duncan, David Morse",
+  "plot": "Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "8.6",
+  "imdb_votes": "1,543,237",
+  "box_office": "$136,801,374",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Green+Mile"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/The+Green+Mile/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120689/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120689/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/497"
+  }
+}

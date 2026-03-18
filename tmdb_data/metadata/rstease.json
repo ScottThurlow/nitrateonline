@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 9879,
+  "title": "Striptease",
+  "original_title": "Striptease",
+  "release_date": "1996-06-28",
+  "runtime": 115,
+  "tagline": "Some people get into trouble no matter what they wear.",
+  "overview": "Bounced from her job, Erin Grant needs money if she's to have any chance of winning back custody of her child. But, eventually, she must confront the naked truth: to take on the system, she'll have to take it all off. Erin strips to conquer, but she faces unintended circumstances when a hound dog of a Congressman zeroes in on her and sharpens the shady tools at his fingertips, including blackmail and murder.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Lobell/Bergman Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Bergman"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Bergman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Carl Hiaasen",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Bergman",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Lobell",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph Hartwick",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Demi Moore",
+      "character": "Erin Grant",
+      "order": 0
+    },
+    {
+      "name": "Burt Reynolds",
+      "character": "David Dilbeck",
+      "order": 1
+    },
+    {
+      "name": "Armand Assante",
+      "character": "Lt. Al Garcia",
+      "order": 2
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Shad",
+      "order": 3
+    },
+    {
+      "name": "Robert Patrick",
+      "character": "Darrell Grant",
+      "order": 4
+    },
+    {
+      "name": "Paul Guilfoyle",
+      "character": "Malcolm Moldovsky",
+      "order": 5
+    },
+    {
+      "name": "Rumer Willis",
+      "character": "Angela Grant",
+      "order": 6
+    },
+    {
+      "name": "Jerry Grayson",
+      "character": "Orly",
+      "order": 7
+    },
+    {
+      "name": "Robert Stanton",
+      "character": "Erb Crandal",
+      "order": 8
+    },
+    {
+      "name": "Stuart Pankin",
+      "character": "Alan Mordecai",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",
+  "backdrop_path": "/2T6zTAacQMCQo3T4AsuZmB1htlM.jpg",
+  "budget": 50000000,
+  "revenue": 113309743,
+  "vote_average": 5.553,
+  "vote_count": 1159,
+  "imdb_id": "tt0117765",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 19076,
+  "title": "The Affair of the Necklace",
+  "original_title": "The Affair of the Necklace",
+  "release_date": "2001-11-30",
+  "runtime": 118,
+  "tagline": "Her birthright was stolen. Her dignity taken. Her rights denied. Deception was the only option.",
+  "overview": "In pre-Revolutionary France, a young aristocratic woman left penniless by the political unrest in the country, must avenge her family's fall from grace by scheming to steal a priceless necklace.",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alcon Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Charles Shyer"
+  ],
+  "writers": [
+    {
+      "name": "John Sweet",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Broderick Johnson",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew A. Kosove",
+      "job": "Producer"
+    },
+    {
+      "name": "Redmond Morris",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Shyer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hilary Swank",
+      "character": "Jeanne St. Remy de Valois",
+      "order": 0
+    },
+    {
+      "name": "Jonathan Pryce",
+      "character": "Cardinal Louis de Rohan",
+      "order": 1
+    },
+    {
+      "name": "Simon Baker",
+      "character": "Rétaux de Vilette",
+      "order": 2
+    },
+    {
+      "name": "Adrien Brody",
+      "character": "Count Nicolas De La Motte",
+      "order": 3
+    },
+    {
+      "name": "Brian Cox",
+      "character": "Minister Breteuil",
+      "order": 4
+    },
+    {
+      "name": "Joely Richardson",
+      "character": "Marie-Antoinette",
+      "order": 5
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Count Cagliostro",
+      "order": 6
+    },
+    {
+      "name": "Hayden Panettiere",
+      "character": "Young Jeanne",
+      "order": 7
+    },
+    {
+      "name": "Simon Kunz",
+      "character": "Minister of Titles",
+      "order": 8
+    },
+    {
+      "name": "Paul Brooke",
+      "character": "Monsieur Bohmer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uPgXAA5PzMCCWXYA3PsihgNkwht.jpg",
+  "backdrop_path": "/woxo93Jbp2B5wfd4zfS6B2phJNW.jpg",
+  "budget": 30000000,
+  "revenue": 1198113,
+  "vote_average": 5.566,
+  "vote_count": 91,
+  "imdb_id": "tt0242252",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

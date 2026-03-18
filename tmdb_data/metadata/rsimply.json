@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 16172,
+  "title": "Simply Irresistible",
+  "original_title": "Simply Irresistible",
+  "release_date": "1999-02-05",
+  "runtime": 95,
+  "tagline": "Magic opened up their hearts... Love did the rest.",
+  "overview": "After her mother's death, mediocre chef Amanda Shelton is having trouble attracting customers to her family's restaurant. While shopping for ingredients, she is given a magical crab by mysterious Gene O'Reilly. Afterward, Amanda's dishes suddenly become excellent, inducing strong emotional reactions in everyone who eats them. Tom Bartlett, who is preparing to open his own eatery, tries her cooking and falls in love.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Taurus Film",
+      "country": "DE"
+    },
+    {
+      "name": "Polar Entertainment Corporation",
+      "country": "US"
+    },
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Tarlov"
+  ],
+  "writers": [
+    {
+      "name": "Judith Roberts",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Arnon Milchan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elisabeth Robinson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jon Amiel",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph M. Caracciolo Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "John Fiedler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sarah Michelle Gellar",
+      "character": "Amanda Shelton",
+      "order": 0
+    },
+    {
+      "name": "Sean Patrick Flanery",
+      "character": "Tom Bartlett",
+      "order": 1
+    },
+    {
+      "name": "Dylan Baker",
+      "character": "Jonathan Bendel",
+      "order": 2
+    },
+    {
+      "name": "Patricia Clarkson",
+      "character": "Lois McNally",
+      "order": 3
+    },
+    {
+      "name": "Lawrence Gilliard Jr.",
+      "character": "Nolan Traynor",
+      "order": 4
+    },
+    {
+      "name": "Christopher Durang",
+      "character": "Gene O'Reilly",
+      "order": 5
+    },
+    {
+      "name": "Betty Buckley",
+      "character": "Aunt Stella",
+      "order": 6
+    },
+    {
+      "name": "Olek Krupa",
+      "character": "Valderon",
+      "order": 7
+    },
+    {
+      "name": "Amanda Peet",
+      "character": "Chris",
+      "order": 8
+    },
+    {
+      "name": "Alex Draper",
+      "character": "Francois",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zFsqqPQUz69wPaLBqQeiGbGiW7J.jpg",
+  "backdrop_path": "/qIDYvZBLYLuWtKnSgq1okHU3Nt8.jpg",
+  "budget": 6000000,
+  "revenue": 4398989,
+  "vote_average": 5.4,
+  "vote_count": 252,
+  "imdb_id": "tt0145893",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

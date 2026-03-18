@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 Oscar. 28 wins & 56 nominations total",
+  "rated": "R",
+  "released": "21 Sep 2001",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama",
+  "director": "Terry Zwigoff",
+  "writer": "Daniel Clowes, Terry Zwigoff",
+  "actors": "Steve Buscemi, Thora Birch, Scarlett Johansson",
+  "plot": "Enid and Rebecca after they finish the high school. Both have problems relating to people and they spend their time hanging around and bothering creeps. When they meet Seymour who is a social outsider who loves to collect old 78 records, Enid's life will change forever.",
+  "language": "English",
+  "country": "United Kingdom, Germany, United States",
+  "metascore": "90",
+  "imdb_rating": "7.3",
+  "imdb_votes": "131,043",
+  "box_office": "$6,217,849",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "93%",
+      "link": "https://www.rottentomatoes.com/search?search=Ghost+World"
+    },
+    {
+      "source": "Metacritic",
+      "value": "90/100",
+      "link": "https://www.metacritic.com/search/Ghost+World/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0162346/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0162346/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1548"
+  }
+}

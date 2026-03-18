@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 1537,
+  "title": "Changing Lanes",
+  "original_title": "Changing Lanes",
+  "release_date": "2002-04-07",
+  "runtime": 98,
+  "tagline": "One wrong turn deserves another.",
+  "overview": "A rush-hour fender-bender on New York City's crowded FDR Drive, under most circumstances, wouldn't set off a chain reaction that could decimate two people's lives. But on this day, at this time, a minor collision will turn two complete strangers into vicious adversaries. Their means of destroying each other might be different, but their goals, ultimately, will be the same: Each will systematically try to dismantle the other's life in a reckless effort to reclaim something he has lost.",
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Afrikaans",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    },
+    {
+      "name": "Senator International",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roger Michell"
+  ],
+  "writers": [
+    {
+      "name": "Chap Taylor",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Tolkin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chap Taylor",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Bozman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "character": "Gavin Banek",
+      "order": 0
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Doyle Gipson",
+      "order": 1
+    },
+    {
+      "name": "Toni Collette",
+      "character": "Michelle",
+      "order": 2
+    },
+    {
+      "name": "Sydney Pollack",
+      "character": "Stephen Delano",
+      "order": 3
+    },
+    {
+      "name": "William Hurt",
+      "character": "Doyle's Sponsor",
+      "order": 4
+    },
+    {
+      "name": "Amanda Peet",
+      "character": "Cynthia Delano Banek",
+      "order": 5
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Walter Arnell",
+      "order": 6
+    },
+    {
+      "name": "Dylan Baker",
+      "character": "Finch",
+      "order": 7
+    },
+    {
+      "name": "Kim Staunton",
+      "character": "Valerie Gipson",
+      "order": 8
+    },
+    {
+      "name": "John Benjamin Hickey",
+      "character": "Carlyle",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8wh9WzTKo5pJw3EgHYWA60W7Kbl.jpg",
+  "backdrop_path": "/lCPOmWoqtmVrI2yUNUw8iaOaTJn.jpg",
+  "budget": 45000000,
+  "revenue": 94935764,
+  "vote_average": 6.279,
+  "vote_count": 1186,
+  "imdb_id": "tt0264472",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "17 Jan 2002",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Bart Freundlich",
+  "writer": "Bart Freundlich",
+  "actors": "Billy Crudup, Julianne Moore, Francie Swift",
+  "plot": "On the day of his son's third birthday, without discussion with his wife or even leaving a note, Manhattan architect Cal gets in the family Volvo and starts driving. Marriage is suffocating him. His traveling seems aimless: stopping to work construction, drinking heavily, picking up women, thinking about his wife and son but not calling them. He sometimes goes across the borderline into fantasy as he imagines resolutions to his travels. It turns out that his travel West is not altogether aimless: he has a destination and some questions to ask. Once they're answered, will he remain the mythic restless American male or re-cross the borderline to return home?",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "39",
+  "imdb_rating": "5.3",
+  "imdb_votes": "1,300",
+  "box_office": "$103,863",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=World+Traveler"
+    },
+    {
+      "source": "Metacritic",
+      "value": "39/100",
+      "link": "https://www.metacritic.com/search/World+Traveler/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0262911/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0262911/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/59199"
+  }
+}

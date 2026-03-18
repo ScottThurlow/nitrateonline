@@ -1,0 +1,84 @@
+{
+  "tmdb_id": 29507,
+  "title": "Enlightenment Guaranteed",
+  "original_title": "Erleuchtung garantiert",
+  "release_date": "2000-01-20",
+  "runtime": 109,
+  "tagline": "Two Strangers in a Strange Land.",
+  "overview": "Two middle aged German brothers - one New Age and recently divorced, the other uptight and sceptical - travel to a Zen monastery in Japan in search of enlightenment, or perhaps just in search of themselves.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Megaherz",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Doris Dörrie"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Uwe Ochsenknecht",
+      "character": "Uwe",
+      "order": 0
+    },
+    {
+      "name": "Gustav Peter Wöhler",
+      "character": "Gustav",
+      "order": 1
+    },
+    {
+      "name": "Petra Zieser",
+      "character": "Petra",
+      "order": 2
+    },
+    {
+      "name": "Ulrike Kriener",
+      "character": "Ulrike",
+      "order": 3
+    },
+    {
+      "name": "Heiner Lauterbach",
+      "character": "Heiner",
+      "order": 4
+    },
+    {
+      "name": "Wilson Gonzalez Ochsenknecht",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Jimi Blue Ochsenknecht",
+      "character": "",
+      "order": 6
+    }
+  ],
+  "poster_path": "/zSNtcIPwhdulMYjTYrEkD3APw6Y.jpg",
+  "backdrop_path": "/j13gcHwSsW7j4ulY6q5aUOSRvvs.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.9,
+  "vote_count": 21,
+  "imdb_id": "tt0177749",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

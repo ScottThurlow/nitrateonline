@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 3 nominations",
+  "rated": "PG-13",
+  "released": "23 Apr 2004",
+  "runtime": "115 min",
+  "genre": "Drama, War",
+  "director": "Timothy Linh Bui",
+  "writer": "Timothy Linh Bui, Tony Bui",
+  "actors": "Patrick Swayze, Forest Whitaker, Duong Don",
+  "plot": "A tale about Vietnamese refugees sent to an orientation camp on the Camp Pendleton Marine Base in California, this movie focuses on a young boy and his sister. Set in 1975, the film chronicles the stories told to the two children by other refugees in the camp and of Tai Tran, who dares to introduce himself to Sergeant Jim Lance. In developing a relationship with Lance, Tran is able to improve conditions and communication for all in the refugee camp.",
+  "language": "English, Vietnamese",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "6.1",
+  "imdb_votes": "1,276",
+  "box_office": "$281,803",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=Green+Dragon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Green+Dragon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0229002/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0229002/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/35868"
+  }
+}

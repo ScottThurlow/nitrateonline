@@ -1,0 +1,126 @@
+{
+  "tmdb_id": 5332,
+  "title": "Dancing at Lughnasa",
+  "original_title": "Dancing at Lughnasa",
+  "release_date": "1998-09-04",
+  "runtime": 96,
+  "tagline": "Five sisters embrace the spirit of a people.",
+  "overview": "Five unmarried sisters make the most of their simple existence in rural Ireland in the 1930s.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fís Éireann/Screen Ireland",
+      "country": "IE"
+    },
+    {
+      "name": "RTÉ",
+      "country": "IE"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Pat O'Connor"
+  ],
+  "writers": [
+    {
+      "name": "Frank McGuinness",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian Friel",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Noel Pearson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jane Barclay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Meryl Streep",
+      "character": "Kate Mundy",
+      "order": 0
+    },
+    {
+      "name": "Catherine McCormack",
+      "character": "Christina 'Chrissy' Mundy",
+      "order": 1
+    },
+    {
+      "name": "Brid Brennan",
+      "character": "Agnes 'Aggie' Mundy",
+      "order": 2
+    },
+    {
+      "name": "Kathy Burke",
+      "character": "Margaret 'Maggie' Mundy",
+      "order": 3
+    },
+    {
+      "name": "Sophie Thompson",
+      "character": "Rose 'Rosie' Mundy",
+      "order": 4
+    },
+    {
+      "name": "Michael Gambon",
+      "character": "Father Jack Mundy",
+      "order": 5
+    },
+    {
+      "name": "Rhys Ifans",
+      "character": "Gerry Evans",
+      "order": 6
+    },
+    {
+      "name": "Lorcan Cranitch",
+      "character": "Danny Bradley",
+      "order": 7
+    },
+    {
+      "name": "Darrell Johnston",
+      "character": "Michael 'Mike' Mundy",
+      "order": 8
+    },
+    {
+      "name": "John Kavanagh",
+      "character": "Father Carlin",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6Rtf82SgyvN6QxtgHL3cmgIo1Lo.jpg",
+  "backdrop_path": "/570taJwYEkUnq6VnlayRewl5eKu.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.9,
+  "vote_count": 51,
+  "imdb_id": "tt0120643",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

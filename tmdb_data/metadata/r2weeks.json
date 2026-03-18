@@ -1,0 +1,199 @@
+{
+  "tmdb_id": 2642,
+  "title": "Two Weeks Notice",
+  "original_title": "Two Weeks Notice",
+  "release_date": "2002-12-19",
+  "runtime": 101,
+  "tagline": "Over. Done. Finished. A comedy about love at last glance.",
+  "overview": "Dedicated environmental lawyer Lucy Kelson goes to work for billionaire George Wade as part of a deal to preserve a community center. Indecisive and weak-willed George grows dependent on Lucy's guidance on everything from legal matters to clothing. Exasperated, Lucy gives notice and picks Harvard graduate June Carter as her replacement. As Lucy's time at the firm nears an end, she grows jealous of June and has second thoughts about leaving George.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fortis Films",
+      "country": "US"
+    },
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Marc Lawrence"
+  ],
+  "writers": [
+    {
+      "name": "Marc Lawrence",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sandra Bullock",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mary McLaglen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "character": "Lucy Kelson",
+      "order": 0
+    },
+    {
+      "name": "Hugh Grant",
+      "character": "George Wade",
+      "order": 1
+    },
+    {
+      "name": "Dana Ivey",
+      "character": "Ruth Kelson",
+      "order": 2
+    },
+    {
+      "name": "Robert Klein",
+      "character": "Larry Kelson",
+      "order": 3
+    },
+    {
+      "name": "Alicia Witt",
+      "character": "June Carter",
+      "order": 4
+    },
+    {
+      "name": "Heather Burns",
+      "character": "Meryl Brooks",
+      "order": 5
+    },
+    {
+      "name": "David Haig",
+      "character": "Howard Wade",
+      "order": 6
+    },
+    {
+      "name": "Dorian Missick",
+      "character": "Tony",
+      "order": 7
+    },
+    {
+      "name": "Joseph Badalucco Jr.",
+      "character": "Construction Foreman",
+      "order": 8
+    },
+    {
+      "name": "Jonathan Dokuchitz",
+      "character": "Tom",
+      "order": 9
+    }
+  ],
+  "poster_path": "/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
+  "backdrop_path": "/owRq5hVmyLv8pNx3Kn1dmE6AQOm.jpg",
+  "budget": 60000000,
+  "revenue": 199043242,
+  "vote_average": 6.354,
+  "vote_count": 2185,
+  "imdb_id": "tt0313737",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "전체관람가"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

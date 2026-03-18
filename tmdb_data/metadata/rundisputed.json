@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 15070,
+  "title": "Undisputed",
+  "original_title": "Undisputed",
+  "release_date": "2002-07-17",
+  "runtime": 96,
+  "tagline": "Two Enemies ... The Mob ... The Ultimate Showdown.",
+  "overview": "Monroe Hutchens is the heavyweight champion of Sweetwater, a maximum security prison. He was convicted to a life sentence due to a passionate crime. Iceman Chambers is the heavyweight champion, who lost his title due to a rape conviction to ten years in Sweetwater. When these two giants collide in the same prison, they fight against each other disputing who is the real champion.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Amen Ra Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Walter Hill"
+  ],
+  "writers": [
+    {
+      "name": "David Giler",
+      "job": "Writer"
+    },
+    {
+      "name": "Walter Hill",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wesley Snipes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brad Krevoy",
+      "job": "Producer"
+    },
+    {
+      "name": "Rudolf G. Wiesmeier",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sandra Schulberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Walter Hill",
+      "job": "Producer"
+    },
+    {
+      "name": "Boaz Davidson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Sugerman",
+      "job": "Producer"
+    },
+    {
+      "name": "David Giler",
+      "job": "Producer"
+    },
+    {
+      "name": "Trevor Short",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Danny Dimbort",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Avi Lerner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Thompson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Wesley Snipes",
+      "character": "Monroe Hutchen",
+      "order": 0
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "George 'Iceman' Chambers",
+      "order": 1
+    },
+    {
+      "name": "Peter Falk",
+      "character": "Mendy Ripstein",
+      "order": 2
+    },
+    {
+      "name": "Michael Rooker",
+      "character": "A.J. Mercker",
+      "order": 3
+    },
+    {
+      "name": "Jon Seda",
+      "character": "Jesus 'Chuy' Campos",
+      "order": 4
+    },
+    {
+      "name": "Wes Studi",
+      "character": "Mingo Pace",
+      "order": 5
+    },
+    {
+      "name": "Fisher Stevens",
+      "character": "James 'Ratbag' Kroycek",
+      "order": 6
+    },
+    {
+      "name": "Dayton Callie",
+      "character": "Yank Lewis",
+      "order": 7
+    },
+    {
+      "name": "Amy Aquino",
+      "character": "Darlene Early",
+      "order": 8
+    },
+    {
+      "name": "Johnny Williams",
+      "character": "Al",
+      "order": 9
+    }
+  ],
+  "poster_path": "/q8smM97IBBEWmkaUCmkPqysh7k7.jpg",
+  "backdrop_path": "/wJ8Un4RiEOLKbJbWBzpDmdhKzAf.jpg",
+  "budget": 20000000,
+  "revenue": 14946150,
+  "vote_average": 6.5,
+  "vote_count": 794,
+  "imdb_id": "tt0281322",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

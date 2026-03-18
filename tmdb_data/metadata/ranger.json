@@ -1,0 +1,210 @@
+{
+  "tmdb_id": 9506,
+  "title": "Anger Management",
+  "original_title": "Anger Management",
+  "release_date": "2003-04-11",
+  "runtime": 106,
+  "tagline": "Feel the love.",
+  "overview": "After a small misunderstanding aboard an airplane escalates out of control, timid businessman Dave Buznik is ordered by the court to undergo anger management therapy at the hands of specialist Dr. Buddy Rydell. But when Buddy steps up his aggressive treatment by moving in, Dave goes from mild to wild as the unorthodox treatment wreaks havoc with his life.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Happy Madison Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Segal"
+  ],
+  "writers": [
+    {
+      "name": "David Dorfman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry Bernardi",
+      "job": "Producer"
+    },
+    {
+      "name": "Allen Covert",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Todd Garner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jack Giarraputo",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Herlihy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Jacobs",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Adam Sandler",
+      "character": "Dave Buznik",
+      "order": 0
+    },
+    {
+      "name": "Jack Nicholson",
+      "character": "Dr. Buddy Rydell",
+      "order": 1
+    },
+    {
+      "name": "Marisa Tomei",
+      "character": "Linda",
+      "order": 2
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Lou",
+      "order": 3
+    },
+    {
+      "name": "Allen Covert",
+      "character": "Andrew",
+      "order": 4
+    },
+    {
+      "name": "Lynne Thigpen",
+      "character": "Judge Daniels",
+      "order": 5
+    },
+    {
+      "name": "Kurt Fuller",
+      "character": "Frank Head",
+      "order": 6
+    },
+    {
+      "name": "Jonathan Loughran",
+      "character": "Nate",
+      "order": 7
+    },
+    {
+      "name": "Krista Allen",
+      "character": "Stacy",
+      "order": 8
+    },
+    {
+      "name": "January Jones",
+      "character": "Gina",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8wX3S5HjL3bgb2yi4CfR2qIqbdH.jpg",
+  "backdrop_path": "/jDQcNjo5SM8YxlcSn06cFzlLH6L.jpg",
+  "budget": 75000000,
+  "revenue": 195745823,
+  "vote_average": 6.16,
+  "vote_count": 3381,
+  "imdb_id": "tt0305224",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

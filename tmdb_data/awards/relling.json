@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 Oscar. 14 wins & 5 nominations total",
+  "rated": "R",
+  "released": "16 Mar 2001",
+  "runtime": "89 min",
+  "genre": "Comedy, Drama",
+  "director": "Petter Næss",
+  "writer": "Ingvar Ambjørnsen, Axel Hellstenius, Larry Stuckey",
+  "actors": "Per Christian Ellefsen, Sven Nordin, Marit Pia Jacobsen",
+  "plot": "When his mother, who has sheltered him his entire 40 years, dies, Elling, a sensitive, would-be poet, is sent to live in a state institution. There he meets Kjell Bjarne, a gentle giant and women-obsessed virgin in his 40s. After two years, the men are released and provided with a state-funded apartment and stipend with the hope they will be able to live on their own. Initially, the simple act of going around the corner for groceries is a challenge. Through a friendship born of desperate dependence, the skittish Elling and the boisterous, would-be lover of women, Kjell Bjarne, discover they can not only survive on the outside, they can thrive. But as their courage grows, the two find oddball ways to cope with society, striking up the most peculiar friendships in the most unlikely places.",
+  "language": "Norwegian",
+  "country": "Norway",
+  "metascore": "70",
+  "imdb_rating": "7.5",
+  "imdb_votes": "16,431",
+  "box_office": "$314,729",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Elling"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Elling/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0279064/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0279064/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6007"
+  }
+}

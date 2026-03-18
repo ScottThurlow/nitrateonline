@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "15 Sep 2000",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Bruce Paltrow",
+  "writer": "John Byrum",
+  "actors": "Huey Lewis, Gwyneth Paltrow, Paul Giamatti",
+  "plot": "Duets is a road-trip comedy which revolves around the little known world of karaoke and the whimsical characters who inhabit it. There's the struggling singer who dreams of making it to the big time, a frustrated salesman who ends up on an unexpected road trip, the dysfunctional family performers which includes a con-artist and his long lost daughter, and an escaped convict with the voice of an angel. All roads lead to Omaha, site of a national karaoke competition where this motley group of singers and stars come together for a blow-out sing-off.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "40",
+  "imdb_rating": "6.1",
+  "imdb_votes": "10,305",
+  "box_office": "$4,739,023",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "21%",
+      "link": "https://www.rottentomatoes.com/search?search=Duets"
+    },
+    {
+      "source": "Metacritic",
+      "value": "40/100",
+      "link": "https://www.metacritic.com/search/Duets/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134630/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134630/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18074"
+  }
+}

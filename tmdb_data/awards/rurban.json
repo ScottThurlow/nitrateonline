@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 2 nominations total",
+  "rated": "R",
+  "released": "22 Sep 2000",
+  "runtime": "97 min",
+  "genre": "Horror, Mystery",
+  "director": "John Ottman",
+  "writer": "Silvio Horta, Paul Harris Boardman, Scott Derrickson",
+  "actors": "Jennifer Morrison, Matthew Davis, Hart Bochner",
+  "plot": "Urban Legends: The Final Cut follows Amy Mayfield (Morrison), a student at Alpine University who struggles to complete her thesis film on urban legends - only to have her crew members fall prey to fatal 'accidents.' Suspicious, Amy investigates and discovers a much more sinister hand at work. Now she must unmask the killer before she, too, becomes an urban legend.",
+  "language": "English",
+  "country": "Canada, United States, France",
+  "metascore": "16",
+  "imdb_rating": "4.4",
+  "imdb_votes": "19,750",
+  "box_office": "$21,468,807",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "12%",
+      "link": "https://www.rottentomatoes.com/search?search=Urban+Legends%3A+Final+Cut"
+    },
+    {
+      "source": "Metacritic",
+      "value": "16/100",
+      "link": "https://www.metacritic.com/search/Urban+Legends%3A+Final+Cut/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0192731/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0192731/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12212"
+  }
+}

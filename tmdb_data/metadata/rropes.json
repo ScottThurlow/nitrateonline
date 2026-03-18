@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 8842,
+  "title": "Against the Ropes",
+  "original_title": "Against the Ropes",
+  "release_date": "2004-02-20",
+  "runtime": 106,
+  "tagline": "She gave the boxing world the one-two punch they never saw coming.",
+  "overview": "A fictional story inspired by North America's most famous female boxing promoter, Jackie Kallen. Her struggle to survive and succeed in a male dominated sport.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Moviemakers Productions (MMP)",
+      "country": ""
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Cort/Madden Productions",
+      "country": ""
+    },
+    {
+      "name": "ATR Films",
+      "country": ""
+    },
+    {
+      "name": "MMP Erste Filmproduktions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Charles S. Dutton"
+  ],
+  "writers": [
+    {
+      "name": "Cheryl Edwards",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Madden",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert W. Cort",
+      "job": "Producer"
+    },
+    {
+      "name": "Scarlett Lacey",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Pillot",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Roffer",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Meg Ryan",
+      "character": "Jackie Kallen",
+      "order": 0
+    },
+    {
+      "name": "Omar Epps",
+      "character": "Luther Shaw",
+      "order": 1
+    },
+    {
+      "name": "Charles S. Dutton",
+      "character": "Felix Reynolds",
+      "order": 2
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Sam LaRocca",
+      "order": 3
+    },
+    {
+      "name": "Tim Daly",
+      "character": "Gavin Reese",
+      "order": 4
+    },
+    {
+      "name": "Joe Cortese",
+      "character": "Irving Abel",
+      "order": 5
+    },
+    {
+      "name": "Kerry Washington",
+      "character": "Renee",
+      "order": 6
+    },
+    {
+      "name": "Sean Bell",
+      "character": "Ray Kallen",
+      "order": 7
+    },
+    {
+      "name": "Dean McDermott",
+      "character": "Pete Kallen",
+      "order": 8
+    },
+    {
+      "name": "Skye McCole Bartusiak",
+      "character": "Little Jackie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9CuODYTA3vvrGluaIl0hMPsEIK8.jpg",
+  "backdrop_path": "/i9AIrb3C7l3wuxuqYbrv4rBCEHp.jpg",
+  "budget": 39000000,
+  "revenue": 6432551,
+  "vote_average": 5.043,
+  "vote_count": 129,
+  "imdb_id": "tt0312329",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

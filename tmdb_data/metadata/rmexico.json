@@ -1,0 +1,190 @@
+{
+  "tmdb_id": 1428,
+  "title": "Once Upon a Time in Mexico",
+  "original_title": "Once Upon a Time in Mexico",
+  "release_date": "2003-09-11",
+  "runtime": 102,
+  "tagline": "The time has come.",
+  "overview": "A corrupt CIA agent Sands hires hitman El Mariachi to assassinate a Mexican general hired by a drug kingpin attempting a coup d'état of the President of Mexico.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Troublemaker Studios",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "writers": [
+    {
+      "name": "Robert Rodriguez",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Elizabeth Avellan",
+      "job": "Producer"
+    },
+    {
+      "name": "Carlos Gallardo",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Rodriguez",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Antonio Banderas",
+      "character": "El Mariachi",
+      "order": 0
+    },
+    {
+      "name": "Johnny Depp",
+      "character": "CIA Agent Jeffrey Sands",
+      "order": 1
+    },
+    {
+      "name": "Cheech Marin",
+      "character": "Belini",
+      "order": 2
+    },
+    {
+      "name": "Salma Hayek Pinault",
+      "character": "Carolina",
+      "order": 3
+    },
+    {
+      "name": "Mickey Rourke",
+      "character": "Billy Chambers",
+      "order": 4
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Armando Barillo",
+      "order": 5
+    },
+    {
+      "name": "Eva Mendes",
+      "character": "CIA Agent Ajedrez",
+      "order": 6
+    },
+    {
+      "name": "Danny Trejo",
+      "character": "Cucuy",
+      "order": 7
+    },
+    {
+      "name": "Rubén Blades",
+      "character": "Jorge, Retired FBI Agent",
+      "order": 8
+    },
+    {
+      "name": "Enrique Iglesias",
+      "character": "Lorenzo",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bsHbVPpaOfmGlcLMG20HfrPv1hg.jpg",
+  "backdrop_path": "/ctDqJtlMwASOKoQi7sacSVae3EI.jpg",
+  "budget": 29000000,
+  "revenue": 98769390,
+  "vote_average": 6.291,
+  "vote_count": 2352,
+  "imdb_id": "tt0285823",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "LT",
+      "rating": "N-13"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins & 2 nominations",
+  "rated": "N/A",
+  "released": "05 Sep 2001",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama",
+  "director": "Christian Carion",
+  "writer": "Christian Carion, Eric Assous",
+  "actors": "Michel Serrault, Mathilde Seigner, Jean-Paul Roussillon",
+  "plot": "Sandrine, a woman in her thirties gets tired of life in Paris and decides to leave her work in computers and become a farmer. She takes the required practice for two years, and after that she buys an isolated farm from Adrien, an old farmer who decides it's time to retire. However, Adrien wants to stay a few more months before moving away from the farm, and the rough winter finds them together...",
+  "language": "French",
+  "country": "France",
+  "metascore": "64",
+  "imdb_rating": "6.6",
+  "imdb_votes": "2,472",
+  "box_office": "$183,266",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Girl+from+Paris"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/The+Girl+from+Paris/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0240149/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0240149/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/33302"
+  }
+}

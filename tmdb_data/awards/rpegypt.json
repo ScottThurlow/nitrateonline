@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Won 1 Oscar. 12 wins & 27 nominations total",
+  "rated": "PG",
+  "released": "18 Dec 1998",
+  "runtime": "99 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Brenda Chapman, Steve Hickner, Simon Wells",
+  "writer": "Philip LaZebnik, Nicholas Meyer",
+  "actors": "Val Kilmer, Ralph Fiennes, Michelle Pfeiffer",
+  "plot": "This is the extraordinary tale of two brothers named Rameses II (Ralph Fiennes) and Moses (Val Kilmer), one born of royal blood, and one an orphan with a secret past. Growing up the best of friends, they share a strong bond of free-spirited youth and good-natured rivalry. But the truth will ultimately set them at odds, as one becomes the ruler of the most powerful empire on Earth, and the other the chosen leader of his people. Their final confrontation will forever change their lives and the world.",
+  "language": "English, Hebrew",
+  "country": "United States, Canada",
+  "metascore": "64",
+  "imdb_rating": "7.2",
+  "imdb_votes": "158,262",
+  "box_office": "$101,413,188",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Prince+of+Egypt"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/The+Prince+of+Egypt/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120794/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120794/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9837"
+  }
+}

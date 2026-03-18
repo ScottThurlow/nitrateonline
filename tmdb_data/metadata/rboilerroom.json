@@ -1,0 +1,149 @@
+{
+  "tmdb_id": 14181,
+  "title": "Boiler Room",
+  "original_title": "Boiler Room",
+  "release_date": "2000-02-18",
+  "runtime": 118,
+  "tagline": "Welcome to the new American dream.",
+  "overview": "A college dropout gets a job as a broker for a suburban investment firm and is on the fast track to success—but the job might not be as legitimate as it sounds.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ben Younger"
+  ],
+  "writers": [
+    {
+      "name": "Ben Younger",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Suzanne Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Jennifer Todd",
+      "job": "Producer"
+    },
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Brener",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Seth Davis",
+      "order": 0
+    },
+    {
+      "name": "Vin Diesel",
+      "character": "Chris Varick",
+      "order": 1
+    },
+    {
+      "name": "Nia Long",
+      "character": "Abbie Halpert",
+      "order": 2
+    },
+    {
+      "name": "Nicky Katt",
+      "character": "Greg Weinstein",
+      "order": 3
+    },
+    {
+      "name": "Scott Caan",
+      "character": "Richie O'Flaherty",
+      "order": 4
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "Judge Marty Davis",
+      "order": 5
+    },
+    {
+      "name": "Jamie Kennedy",
+      "character": "Adam",
+      "order": 6
+    },
+    {
+      "name": "Taylor Nichols",
+      "character": "Harry Reynard",
+      "order": 7
+    },
+    {
+      "name": "Bill Sage",
+      "character": "FBI Agent David Drew",
+      "order": 8
+    },
+    {
+      "name": "Tom Everett Scott",
+      "character": "Michael Brantley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+  "backdrop_path": "/A96CVXbTNfhqw3jkUlyfFnGe8i3.jpg",
+  "budget": 7000000,
+  "revenue": 28780255,
+  "vote_average": 6.715,
+  "vote_count": 729,
+  "imdb_id": "tt0181984",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

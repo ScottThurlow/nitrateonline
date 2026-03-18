@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 5 nominations",
+  "rated": "PG-13",
+  "released": "19 Mar 1999",
+  "runtime": "105 min",
+  "genre": "Comedy, Romance",
+  "director": "Bronwen Hughes",
+  "writer": "Marc Lawrence",
+  "actors": "Sandra Bullock, Ben Affleck, Maura Tierney",
+  "plot": "In New York, faithful, boring book-jacket-summary writer Ben Holmes is ready to fly to Savannah, Georgia, to marry his beloved fiancee Bridget, but the plane crashes at takeoff and Ben is stranded in the airport. But soon he meets free-spirited Sarah, who finds a man called Vic who offers them a ride in his rented car if they will split the expenses. Along their troubled journey, the forces of nature seem to conspire against Ben as he gets better acquainted with unpredictable Sarah. Soon he questions whether or not he should go through with marrying Bridget.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "46",
+  "imdb_rating": "5.5",
+  "imdb_votes": "36,403",
+  "box_office": "$52,900,680",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "45%",
+      "link": "https://www.rottentomatoes.com/search?search=Forces+of+Nature"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/Forces+of+Nature/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0141098/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0141098/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1641"
+  }
+}

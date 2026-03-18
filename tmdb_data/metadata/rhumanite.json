@@ -1,0 +1,109 @@
+{
+  "tmdb_id": 65296,
+  "title": "Humanité",
+  "original_title": "L'humanité",
+  "release_date": "1999-09-10",
+  "runtime": 149,
+  "tagline": "",
+  "overview": "In a quiet little French town, two detectives are tasked with investigating the brutal rape and murder of a preteen girl.",
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Centre Régional des Ressources Audiovisuelles (CRRAV)",
+      "country": ""
+    },
+    {
+      "name": "3B Productions",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Bruno Dumont"
+  ],
+  "writers": [
+    {
+      "name": "Bruno Dumont",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean Bréhat",
+      "job": "Producer"
+    },
+    {
+      "name": "Rachid Bouchareb",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emmanuel Schotté",
+      "character": "Pharaon De Winter",
+      "order": 0
+    },
+    {
+      "name": "Séverine Caneele",
+      "character": "Domino",
+      "order": 1
+    },
+    {
+      "name": "Philippe Tullier",
+      "character": "Joseph",
+      "order": 2
+    },
+    {
+      "name": "Ghislain Ghesquère",
+      "character": "Police Chief",
+      "order": 3
+    },
+    {
+      "name": "Ginette Allègre",
+      "character": "Pharaon's Mother",
+      "order": 4
+    },
+    {
+      "name": "Darius",
+      "character": "Nurse",
+      "order": 5
+    },
+    {
+      "name": "Arnaud Brejon de la Lavergnee",
+      "character": "The Conservative",
+      "order": 6
+    },
+    {
+      "name": "Daniel Petillon",
+      "character": "Jean",
+      "order": 7
+    },
+    {
+      "name": "Robert Bunzi",
+      "character": "English Policeman",
+      "order": 8
+    },
+    {
+      "name": "Dominique Pruvost",
+      "character": "Virulent Worker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fEEVsOpI21ZDY64tKMh4T3FZzCp.jpg",
+  "backdrop_path": "/x2n7x2ZfMocYkzEY75g4UxvQYSC.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.7,
+  "vote_count": 110,
+  "imdb_id": "tt0197569",
+  "status": "Released"
+}

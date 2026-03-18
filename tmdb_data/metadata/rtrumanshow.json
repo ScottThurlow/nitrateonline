@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 37165,
+  "title": "The Truman Show",
+  "original_title": "The Truman Show",
+  "release_date": "1998-06-04",
+  "runtime": 103,
+  "tagline": "On the air. Unaware.",
+  "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Weir"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Niccol",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Edward S. Feldman",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Niccol",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Producer"
+    },
+    {
+      "name": "Lynn Pleshette",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "character": "Truman Burbank",
+      "order": 0
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Meryl Burbank / Hannah Gill",
+      "order": 1
+    },
+    {
+      "name": "Noah Emmerich",
+      "character": "Marlon / Louis Coltrane",
+      "order": 2
+    },
+    {
+      "name": "Natascha McElhone",
+      "character": "Lauren Garland / Sylvia",
+      "order": 3
+    },
+    {
+      "name": "Holland Taylor",
+      "character": "Angela Montclair / Alanis Montclair",
+      "order": 4
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Christof",
+      "order": 5
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Simeon",
+      "order": 6
+    },
+    {
+      "name": "Brian Delate",
+      "character": "Walter Moore / Kirk Burbank",
+      "order": 7
+    },
+    {
+      "name": "Peter Krause",
+      "character": "Lawrence",
+      "order": 8
+    },
+    {
+      "name": "Blair Slater",
+      "character": "Young Truman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+  "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+  "budget": 60000000,
+  "revenue": 264118712,
+  "vote_average": 8.151,
+  "vote_count": 19913,
+  "imdb_id": "tt0120382",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

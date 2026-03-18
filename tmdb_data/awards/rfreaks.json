@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "17 Jul 2002",
+  "runtime": "99 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Ellory Elkayem",
+  "writer": "Ellory Elkayem, Randy Kornfield, Jesse Alexander",
+  "actors": "David Arquette, Kari Wuhrer, Scott Terra",
+  "plot": "After a long absence, Chris McCormick returns to his quiet hometown of Prosperity, Arizona, to reopen his late father's mines. However, a chemical spill and lethal toxic waste have created an unstoppable army of giant spiders who prey on the unsuspecting locals, turning Prosperity into an endless buffet. Now, it's up to Chris; Sheriff Sam Parker; her son Mike; Sam's plucky daughter, Ashley; the conspiracy theorist, Harlan, and a handful of survivors to stop the hairy menace, and save the town. But, who can stand in the way of the disgusting eight-legged freaks?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "53",
+  "imdb_rating": "5.5",
+  "imdb_votes": "62,764",
+  "box_office": "$17,322,606",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=Eight+Legged+Freaks"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/Eight+Legged+Freaks/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0271367/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0271367/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8869"
+  }
+}

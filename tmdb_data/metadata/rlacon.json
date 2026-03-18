@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 2118,
+  "title": "L.A. Confidential",
+  "original_title": "L.A. Confidential",
+  "release_date": "1997-09-19",
+  "runtime": 138,
+  "tagline": "Everything is suspect... Everyone is for sale... And nothing is what it seems.",
+  "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Wolper Organization",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Curtis Hanson"
+  ],
+  "writers": [
+    {
+      "name": "Brian Helgeland",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Curtis Hanson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Ellroy",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Curtis Hanson",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael G. Nathanson",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Kolsrud",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David L. Wolper",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Spacey",
+      "character": "Jack Vincennes",
+      "order": 0
+    },
+    {
+      "name": "Russell Crowe",
+      "character": "Wendell 'Bud' White",
+      "order": 1
+    },
+    {
+      "name": "Guy Pearce",
+      "character": "Edmund 'Ed' Exley",
+      "order": 2
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Dudley Smith",
+      "order": 3
+    },
+    {
+      "name": "Kim Basinger",
+      "character": "Lynn Bracken",
+      "order": 4
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Sid Hudgens",
+      "order": 5
+    },
+    {
+      "name": "David Strathairn",
+      "character": "Pierce Patchett",
+      "order": 6
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "D.A. Ellis Loew",
+      "order": 7
+    },
+    {
+      "name": "Graham Beckel",
+      "character": "Dick Stensland",
+      "order": 8
+    },
+    {
+      "name": "Amber Smith",
+      "character": "Susan Lefferts",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+  "backdrop_path": "/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
+  "budget": 35000000,
+  "revenue": 126216940,
+  "vote_average": 7.8,
+  "vote_count": 5445,
+  "imdb_id": "tt0119488",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "KT"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "12 Jan 2001",
+  "runtime": "88 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "George Gallo",
+  "writer": "Graham Greene, Guy Elmes, Denis Freeman",
+  "actors": "Orlando Jones, Eddie Griffin, Gary Grubbs",
+  "plot": "The governor of a Mexican state is assassinated. Soon after, junior executive Daryl Chase's life turns upside down: after he flags a huge transfer of funds from a Mexican account as probably illegal, he's attacked in his apartment, rescued by a CIA agent, finds his secretary shot dead, and witnesses two cops get killed. He calls the CIA guy who tells him to grab the next train to Mexico. Leaving Manhattan, Daryl can't shake a jive-talking street punk named Freddy, and soon he's traded clothes with Freddy to escape the police. Within days, his girlfriend, his boss, his client, Freddy, the FBI, and the dead governor's dog are tangled in a web of deceit and danger. Who's who?",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "25",
+  "imdb_rating": "5.4",
+  "imdb_votes": "9,020",
+  "box_office": "$29,831,583",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "12%",
+      "link": "https://www.rottentomatoes.com/search?search=Double+Take"
+    },
+    {
+      "source": "Metacritic",
+      "value": "25/100",
+      "link": "https://www.metacritic.com/search/Double+Take/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0238948/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0238948/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18828"
+  }
+}

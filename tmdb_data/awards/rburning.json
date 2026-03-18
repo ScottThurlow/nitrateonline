@@ -1,0 +1,35 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "Unrated",
+  "released": "20 Nov 2002",
+  "runtime": "115 min",
+  "genre": "Documentary",
+  "director": "Hava Kohav Beller",
+  "writer": "Hava Kohav Beller",
+  "actors": "Konrad Adenauer, Günter Bazyli, Wolf Biermann",
+  "plot": "Documentary that examines life and dissent in East Germany from 1949-1989.",
+  "language": "English, Czech, German",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "25",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "100%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Burning+Wall"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0350668/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0350668/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/658290"
+  }
+}

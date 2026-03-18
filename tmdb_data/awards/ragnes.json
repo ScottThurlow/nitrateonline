@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "03 Mar 2000",
+  "runtime": "92 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Anjelica Huston",
+  "writer": "Brendan O'Carroll, John Goldsmith",
+  "actors": "Anjelica Huston, Marion O'Dwyer, Niall O'Shea",
+  "plot": "The unexpected death of her husband sends a woman and her seven children, ages 2-14, into emotional turmoil and financial crisis in 1967 Dublin. She is forced to borrow money from a ruthless loan shark to make ends meet. She faces her dismal existence by selling fruits and vegetables at an open air market where she spends time with a best friend who gives her encouragement. Wishing to escape her existence, if only for a short time, she dreams of finding enough money to attend an upcoming Tom Jones concert. She realizes her dream by accepting her first date with a French baker. Her kids pool their money so she can buy a new dress. Of course, eventually the family has to face the loan shark, but this is a movie where obstacles are maybe too easily overcome.",
+  "language": "English, French",
+  "country": "Ireland, United States",
+  "metascore": "55",
+  "imdb_rating": "6.5",
+  "imdb_votes": "2,287",
+  "box_office": "$148,853",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=Agnes+Browne"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Agnes+Browne/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160509/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160509/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15506"
+  }
+}

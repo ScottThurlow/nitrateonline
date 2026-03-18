@@ -1,0 +1,136 @@
+{
+  "tmdb_id": 36136,
+  "title": "Another Day in Paradise",
+  "original_title": "Another Day in Paradise",
+  "release_date": "1998-12-30",
+  "runtime": 101,
+  "tagline": "We live at the abyss.",
+  "overview": "In the hope of a big score, two junkie couples team up to commit various drug robberies which go disastrously wrong, leading to dissent, violence, and murder.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Chinese Bookie Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Larry Clark"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Chin",
+      "job": "Writer"
+    },
+    {
+      "name": "Christopher Landon",
+      "job": "Writer"
+    },
+    {
+      "name": "Eddie Little",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stephen Chin",
+      "job": "Producer"
+    },
+    {
+      "name": "Larry Clark",
+      "job": "Producer"
+    },
+    {
+      "name": "James Woods",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Melanie Griffith",
+      "character": "Sid",
+      "order": 0
+    },
+    {
+      "name": "James Woods",
+      "character": "Mel",
+      "order": 1
+    },
+    {
+      "name": "Vincent Kartheiser",
+      "character": "Bobbie",
+      "order": 2
+    },
+    {
+      "name": "Natasha Gregson Wagner",
+      "character": "Rosie",
+      "order": 3
+    },
+    {
+      "name": "James Otis",
+      "character": "Reverend",
+      "order": 4
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "character": "Ty",
+      "order": 5
+    },
+    {
+      "name": "Brent Briscoe",
+      "character": "Clem",
+      "order": 6
+    },
+    {
+      "name": "Paul Hipp",
+      "character": "Richard Johnson",
+      "order": 7
+    },
+    {
+      "name": "Kim Flowers",
+      "character": "Bonnie Johnson",
+      "order": 8
+    },
+    {
+      "name": "John Gatins",
+      "character": "Phil",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zlXPEQKFWga2obpgHG2IZVgOZPg.jpg",
+  "backdrop_path": "/8nhDUdPRO0qVaQKpIhh3Vxw0SoV.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.188,
+  "vote_count": 146,
+  "imdb_id": "tt0127722",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

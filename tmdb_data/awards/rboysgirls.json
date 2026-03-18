@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "16 Jun 2000",
+  "runtime": "94 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Robert Iscove",
+  "writer": "Andrew Lowery, Andrew Miller",
+  "actors": "Freddie Prinze Jr., Claire Forlani, Brendon Ryan Barrett",
+  "plot": "Jennifer and Ryan are students at UC Berkeley, acquaintances off and on since early adolescence. She's quick, witty, ironic, literary, and independent; he's deliberate, literal, serious, studying structural engineering, always working on a plan. They take walks, they console each other over break-ups, he shares his plans. She's headed for Italy after graduation. Then, to their equal surprise, they spend a night together. Her response is to skitter away from continued intimacy and want to stay friends; he's hurt by her response, so he withdraws. Can it all get sorted out before she leaves town?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "29",
+  "imdb_rating": "5.4",
+  "imdb_votes": "17,882",
+  "box_office": "$21,799,652",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "11%",
+      "link": "https://www.rottentomatoes.com/search?search=Boys+and+Girls"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/Boys+and+Girls/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0204175/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0204175/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10571"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 1 Oscar. 4 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "21 Apr 2000",
+  "runtime": "116 min",
+  "genre": "Action, War",
+  "director": "Jonathan Mostow",
+  "writer": "Jonathan Mostow, Sam Montgomery, David Ayer",
+  "actors": "Matthew McConaughey, Bill Paxton, Harvey Keitel",
+  "plot": "In the midst of World War II, the battle below the seas rages. The Nazis have the upper edge as the Allies are unable to crack their war codes. That is, until a wrecked U-boat sends out an SOS signal, and the Allies realize this is their chance to seize the 'enigma coding machine'. But masquerading as Nazis and taking over the U-boat is the smallest of their problems. The action really begins when they get stranded on the U-boat.",
+  "language": "English, German",
+  "country": "France, United States",
+  "metascore": "62",
+  "imdb_rating": "6.6",
+  "imdb_votes": "91,561",
+  "box_office": "$77,122,415",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=U-571"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/U-571/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0141926/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0141926/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3536"
+  }
+}

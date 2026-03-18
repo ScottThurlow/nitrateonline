@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins total",
+  "rated": "R",
+  "released": "03 Apr 1998",
+  "runtime": "111 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Harold Becker",
+  "writer": "Ryne Douglas Pearson, Lawrence Konner, Mark Rosenthal",
+  "actors": "Bruce Willis, Miko Hughes, Alec Baldwin",
+  "plot": "Bruce Willis is an outcast FBI agent who protects a 9 year old autistic boy who is the target for assassins after cracking a top secret government code.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "37",
+  "imdb_rating": "6.1",
+  "imdb_votes": "80,918",
+  "box_office": "$32,935,289",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "21%",
+      "link": "https://www.rottentomatoes.com/search?search=Mercury+Rising"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/Mercury+Rising/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120749/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120749/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8838"
+  }
+}

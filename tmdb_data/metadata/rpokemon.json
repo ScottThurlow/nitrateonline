@@ -1,0 +1,202 @@
+{
+  "tmdb_id": 10228,
+  "title": "Pokémon: The First Movie",
+  "original_title": "劇場版ポケットモンスター ミュウツーの逆襲",
+  "release_date": "1998-07-18",
+  "runtime": 96,
+  "tagline": "The Pokémon match of all time is here.",
+  "overview": "Determined to prove its superiority, a bio-engineered Pokémon called Mewtwo lures Ash, Pikachu and others into a Pokemon match like none before.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "OLM",
+      "country": "JP"
+    },
+    {
+      "name": "Shogakukan Production",
+      "country": "JP"
+    },
+    {
+      "name": "TV Tokyo",
+      "country": "JP"
+    },
+    {
+      "name": "Pikachu Project '98",
+      "country": "JP"
+    },
+    {
+      "name": "Media Factory",
+      "country": "JP"
+    },
+    {
+      "name": "Creatures",
+      "country": "JP"
+    },
+    {
+      "name": "Nintendo",
+      "country": "JP"
+    },
+    {
+      "name": "GAME FREAK",
+      "country": "JP"
+    },
+    {
+      "name": "jeki",
+      "country": "JP"
+    },
+    {
+      "name": "Shogakukan",
+      "country": "JP"
+    },
+    {
+      "name": "Tomy",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Kunihiko Yuyama"
+  ],
+  "writers": [
+    {
+      "name": "Takeshi Shudo",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Satoshi Tajiri",
+      "job": "Original Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Choji Yoshikawa",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rica Matsumoto",
+      "character": "Satoshi (voice)",
+      "order": 0
+    },
+    {
+      "name": "Ikue Otani",
+      "character": "Pikachu (voice)",
+      "order": 1
+    },
+    {
+      "name": "Mayumi Izuka",
+      "character": "Kasumi (voice)",
+      "order": 2
+    },
+    {
+      "name": "Satomi Korogi",
+      "character": "Togepy (voice)",
+      "order": 3
+    },
+    {
+      "name": "Yuji Ueda",
+      "character": "Takeshi (voice)",
+      "order": 4
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "character": "Musashi (voice)",
+      "order": 5
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "character": "Kojirō (voice)",
+      "order": 6
+    },
+    {
+      "name": "Inuko Inuyama",
+      "character": "Nyarth (voice)",
+      "order": 7
+    },
+    {
+      "name": "Ayako Shiraishi",
+      "character": "Joy (voice)",
+      "order": 8
+    },
+    {
+      "name": "Chinami Nishimura",
+      "character": "Junsar (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xPW3AeK3iQi1Zd9dCbdNLijE48o.jpg",
+  "backdrop_path": "/eA0qc5ihjSKG05tdJO4QPgYPAwY.jpg",
+  "budget": 30000000,
+  "revenue": 163644940,
+  "vote_average": 6.949,
+  "vote_count": 1560,
+  "imdb_id": "tt0190641",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

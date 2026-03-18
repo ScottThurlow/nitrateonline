@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "11 wins & 28 nominations total",
+  "rated": "PG-13",
+  "released": "26 Nov 2003",
+  "runtime": "94 min",
+  "genre": "Drama, History",
+  "director": "Billy Ray",
+  "writer": "Buzz Bissinger, Billy Ray",
+  "actors": "Hayden Christensen, Chloë Sevigny, Steve Zahn",
+  "plot": "This film tells the true story of fraudulent Washington, D.C. journalist Stephen Glass (Christensen), who rose to meteoric heights as a young writer in his 20s, becoming a staff writer at \"The New Republic\" for three years (1995-1998), where 27 of his 41 published stories were either partially or completely made up. Looking for a short cut to fame, Glass concocted sources, quotes and even entire stories, but his deception did not go unnoticed forever, and eventually, his world came crumbling down...",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "73",
+  "imdb_rating": "7.1",
+  "imdb_votes": "39,535",
+  "box_office": "$2,220,008",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Shattered+Glass"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Shattered+Glass/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0323944/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0323944/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13537"
+  }
+}

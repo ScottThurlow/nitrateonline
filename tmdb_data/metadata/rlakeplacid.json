@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 9825,
+  "title": "Lake Placid",
+  "original_title": "Lake Placid",
+  "release_date": "1999-07-15",
+  "runtime": 82,
+  "tagline": "You'll never know what bit you.",
+  "overview": "When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for \"Crocs\", and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals...and people!",
+  "genres": [
+    "Horror",
+    "Comedy",
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Rocking Chair Productions",
+      "country": ""
+    },
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    },
+    {
+      "name": "David E. Kelley Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Miner"
+  ],
+  "writers": [
+    {
+      "name": "David E. Kelley",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Marc Messenger",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Pressman",
+      "job": "Producer"
+    },
+    {
+      "name": "David E. Kelley",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Bogart",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bill Pullman",
+      "character": "Jack Wells",
+      "order": 0
+    },
+    {
+      "name": "Bridget Fonda",
+      "character": "Kelly Scott",
+      "order": 1
+    },
+    {
+      "name": "Oliver Platt",
+      "character": "Hector Cyr",
+      "order": 2
+    },
+    {
+      "name": "Brendan Gleeson",
+      "character": "Sheriff Hank Keough",
+      "order": 3
+    },
+    {
+      "name": "Betty White",
+      "character": "Mrs. Delores Bickerman",
+      "order": 4
+    },
+    {
+      "name": "David James Lewis",
+      "character": "Walt Lawson",
+      "order": 5
+    },
+    {
+      "name": "Tim Dixon",
+      "character": "Stephen Daniels",
+      "order": 6
+    },
+    {
+      "name": "Natassia Malthe",
+      "character": "Janine",
+      "order": 7
+    },
+    {
+      "name": "Mariska Hargitay",
+      "character": "Myra Okubo",
+      "order": 8
+    },
+    {
+      "name": "Meredith Salenger",
+      "character": "Deputy Sharon Gare",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pEszakCP8j9E9S0UPLfEa3Cad3O.jpg",
+  "backdrop_path": "/vvXc5WOBJQa3igNffSxMsqYyoqy.jpg",
+  "budget": 27000000,
+  "revenue": 56870414,
+  "vote_average": 5.931,
+  "vote_count": 1225,
+  "imdb_id": "tt0139414",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

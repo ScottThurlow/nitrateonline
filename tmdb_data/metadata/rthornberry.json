@@ -1,0 +1,162 @@
+{
+  "tmdb_id": 14317,
+  "title": "The Wild Thornberrys Movie",
+  "original_title": "The Wild Thornberrys Movie",
+  "release_date": "2002-12-20",
+  "runtime": 85,
+  "tagline": "You don't need extraordinary powers to do extraordinary things.",
+  "overview": "Eliza and Debbie are two sisters who don't always get along. But their relationship is put to the test when Debbie's life is in danger, and Eliza might have to give up her power to talk to animals....",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Nickelodeon Movies",
+      "country": "US"
+    },
+    {
+      "name": "Klasky-Csupo",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Cathy Malkasian",
+    "Jeff McGrath"
+  ],
+  "writers": [
+    {
+      "name": "Kate Boutilier",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Julia Pistor",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hal Waite",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Albie Hecht",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gábor Csupó",
+      "job": "Producer"
+    },
+    {
+      "name": "Arlene Klasky",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lacey Chabert",
+      "character": "Eliza Thornberry (voice)",
+      "order": 0
+    },
+    {
+      "name": "Tom Kane",
+      "character": "Darwin (voice)",
+      "order": 1
+    },
+    {
+      "name": "Cree Summer",
+      "character": "Phaedra (voice)",
+      "order": 2
+    },
+    {
+      "name": "Tim Curry",
+      "character": "Nigel Thornberry (voice)",
+      "order": 3
+    },
+    {
+      "name": "Lynn Redgrave",
+      "character": "Cordelia Thornberry (voice)",
+      "order": 4
+    },
+    {
+      "name": "Danielle Harris",
+      "character": "Debbie Thornberry (voice)",
+      "order": 5
+    },
+    {
+      "name": "Flea",
+      "character": "Donnie Thornberry (voice)",
+      "order": 6
+    },
+    {
+      "name": "Crystal Scales",
+      "character": "Cheetah Cubs (voice)",
+      "order": 7
+    },
+    {
+      "name": "Kimberly Brooks",
+      "character": "Tally (Cheetah Cub) (voice)",
+      "order": 8
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Akela (Cheetah Mother) (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg",
+  "backdrop_path": "/gseVao2FiyRZuqWQNl05BQ8TEVM.jpg",
+  "budget": 35000000,
+  "revenue": 0,
+  "vote_average": 6.357,
+  "vote_count": 276,
+  "imdb_id": "tt0282120",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

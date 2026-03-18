@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 20009,
+  "title": "Slackers",
+  "original_title": "Slackers",
+  "release_date": "2002-02-01",
+  "runtime": 86,
+  "tagline": "When all else fails... cheat.",
+  "overview": "Dave, Sam and Jeff are about to graduate from Holden University with honors in lying, cheating and scheming. The three roommates have proudly scammed their way through the last four years of college and now, during final exams, these big-men-on-campus are about to be busted by the most unlikely dude in school. Self-dubbed Cool Ethan, an ambitious nerd with a bad crush, enters their lives one day and everything begins to unravel.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    },
+    {
+      "name": "Original Film",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dewey Nicks"
+  ],
+  "writers": [
+    {
+      "name": "David H. Steinberg",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Erik Feig",
+      "job": "Producer"
+    },
+    {
+      "name": "Bradley Jenkel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Morgan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Patrice Theroux",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Devon Sawa",
+      "character": "Dave Goodman",
+      "order": 0
+    },
+    {
+      "name": "Jaime King",
+      "character": "Angela Patton",
+      "order": 1
+    },
+    {
+      "name": "Jason Segel",
+      "character": "Sam Schechter",
+      "order": 2
+    },
+    {
+      "name": "Jason Schwartzman",
+      "character": "Ethan Dulles",
+      "order": 3
+    },
+    {
+      "name": "Laura Prepon",
+      "character": "Reanna",
+      "order": 4
+    },
+    {
+      "name": "Michael C. Maronna",
+      "character": "Jeff Davis",
+      "order": 5
+    },
+    {
+      "name": "Cameron Diaz",
+      "character": "Cameron Diaz",
+      "order": 6
+    },
+    {
+      "name": "Jim Rash",
+      "character": "Head T.A. Philip",
+      "order": 7
+    },
+    {
+      "name": "Retta",
+      "character": "Bruna",
+      "order": 8
+    },
+    {
+      "name": "Gedde Watanabe",
+      "character": "Japanese Proctor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/g3xn7tRnGxVwwKc2tge7nPssywQ.jpg",
+  "backdrop_path": "/pmwIaqu40catjSDQTlYSCAHBhzP.jpg",
+  "budget": 14000000,
+  "revenue": 6413915,
+  "vote_average": 5.2,
+  "vote_count": 208,
+  "imdb_id": "tt0240900",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

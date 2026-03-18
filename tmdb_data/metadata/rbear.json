@@ -1,0 +1,243 @@
+{
+  "tmdb_id": 10009,
+  "title": "Brother Bear",
+  "original_title": "Brother Bear",
+  "release_date": "2003-10-23",
+  "runtime": 85,
+  "tagline": "See through another’s eyes, feel through another's heart, and discover the meaning of brotherhood.",
+  "overview": "When an impulsive boy named Kenai is magically transformed into a bear, he must literally walk in another's footsteps until he learns some valuable life lessons. His courageous and often zany journey introduces him to a forest full of wildlife, including the lovable bear cub Koda, hilarious moose Rutt and Tuke, woolly mammoths and rambunctious rams.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+  ],
+  "spoken_languages": [
+    "Croatian",
+    "English",
+    "Inuktitut"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Aaron Blaise",
+    "Robert Walker"
+  ],
+  "writers": [
+    {
+      "name": "Lorne Cameron",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tab Murphy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Harkey",
+      "job": "Story"
+    },
+    {
+      "name": "Ron J. Friedman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Thom Enriquez",
+      "job": "Story"
+    },
+    {
+      "name": "Kevin Deters",
+      "job": "Story"
+    },
+    {
+      "name": "Nathan Greno",
+      "job": "Story"
+    },
+    {
+      "name": "Woody Woodman",
+      "job": "Story"
+    },
+    {
+      "name": "David Hoselton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stevie Wermers-Skelton",
+      "job": "Story"
+    },
+    {
+      "name": "John Puglisi",
+      "job": "Story"
+    },
+    {
+      "name": "Steve Bencich",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Norton",
+      "job": "Story"
+    },
+    {
+      "name": "Broose Johnson",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chuck Williams",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joaquin Phoenix",
+      "character": "Kenai (voice)",
+      "order": 0
+    },
+    {
+      "name": "Jeremy Suarez",
+      "character": "Koda (voice)",
+      "order": 1
+    },
+    {
+      "name": "Jason Raize",
+      "character": "Denahi (voice)",
+      "order": 2
+    },
+    {
+      "name": "Rick Moranis",
+      "character": "Rutt (voice)",
+      "order": 3
+    },
+    {
+      "name": "Dave Thomas",
+      "character": "Tuke (voice)",
+      "order": 4
+    },
+    {
+      "name": "D. B. Sweeney",
+      "character": "Sitka (voice)",
+      "order": 5
+    },
+    {
+      "name": "Joan Copeland",
+      "character": "Tanana (voice)",
+      "order": 6
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "Tug (voice)",
+      "order": 7
+    },
+    {
+      "name": "Harold Gould",
+      "character": "Old Denahi (voice)",
+      "order": 8
+    },
+    {
+      "name": "Paul Christie",
+      "character": "Ram #1 (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/otptPbEY0vBostmo95xwiiumMJm.jpg",
+  "backdrop_path": "/sZhY0BAsN1bMAPLIqMRqG1fqb3A.jpg",
+  "budget": 128000000,
+  "revenue": 250397798,
+  "vote_average": 7.271,
+  "vote_count": 5702,
+  "imdb_id": "tt0328880",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/3"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

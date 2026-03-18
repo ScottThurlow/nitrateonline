@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 25006,
+  "title": "State Property",
+  "original_title": "State Property",
+  "release_date": "2002-01-18",
+  "runtime": 88,
+  "tagline": "",
+  "overview": "A Philadelphia gang member becomes a drug kingpin and starts a feud with vicious rivals in his quest for the American Dream.",
+  "genres": [
+    "Crime",
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Abdul Malik Abbott"
+  ],
+  "writers": [
+    {
+      "name": "Ernest 'Tron' Anderson",
+      "job": "Writer"
+    },
+    {
+      "name": "Abdul Malik Abbott",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Damon Dash",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Rotholz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Beanie Sigel",
+      "character": "Beans",
+      "order": 0
+    },
+    {
+      "name": "Omillio Sparks",
+      "character": "Baby Boy",
+      "order": 1
+    },
+    {
+      "name": "Memphis Bleek",
+      "character": "Blizz",
+      "order": 2
+    },
+    {
+      "name": "Damon Dash",
+      "character": "'Boss' Dame",
+      "order": 3
+    },
+    {
+      "name": "Sundy Carter",
+      "character": "Aisha",
+      "order": 4
+    },
+    {
+      "name": "Jay-Z",
+      "character": "Untouchable J",
+      "order": 5
+    },
+    {
+      "name": "Tyran \"Ty Ty\" Smith",
+      "character": "Shareef",
+      "order": 6
+    },
+    {
+      "name": "Oschino",
+      "character": "D-Nice",
+      "order": 7
+    },
+    {
+      "name": "Brother Newz",
+      "character": "P-Nut",
+      "order": 8
+    },
+    {
+      "name": "Randolph Curtis Rand",
+      "character": "Saul Weisberg",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eq8ygk2egSs9QnQfrjqE4fJ44OJ.jpg",
+  "backdrop_path": "/wLMvCoBCtQ83cwKTXxtoQ5Y9Z4J.jpg",
+  "budget": 0,
+  "revenue": 2106838,
+  "vote_average": 6.4,
+  "vote_count": 46,
+  "imdb_id": "tt0301893",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,30 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "26 Oct 2001",
+  "runtime": "76 min",
+  "genre": "Documentary",
+  "director": "Peter Kern",
+  "writer": "Peter Kern, Christoph Schlingensief",
+  "actors": "Artur Albrecht, Peter Brombacher, Jurgen Drenhaus",
+  "plot": "Hamlet: This Is Your Family.",
+  "language": "German",
+  "country": "Germany",
+  "metascore": "N/A",
+  "imdb_rating": "7.0",
+  "imdb_votes": "27",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0478584/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0478584/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/271406"
+  }
+}

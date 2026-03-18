@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 32625,
+  "title": "Personal Velocity",
+  "original_title": "Personal Velocity",
+  "release_date": "2002-01-12",
+  "runtime": 86,
+  "tagline": "Three portraits.",
+  "overview": "In a series of three vignettes, three women in turn struggle to free themselves from the men who restrict their personal freedom.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    },
+    {
+      "name": "InDigEnt",
+      "country": "US"
+    },
+    {
+      "name": "Goldheart Pictures",
+      "country": ""
+    },
+    {
+      "name": "Blue Magic Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Rebecca Miller"
+  ],
+  "writers": [
+    {
+      "name": "Rebecca Miller",
+      "job": "Writer"
+    },
+    {
+      "name": "Rebecca Miller",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Winick",
+      "job": "Producer"
+    },
+    {
+      "name": "Lemore Syvan",
+      "job": "Producer"
+    },
+    {
+      "name": "John Sloss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alexis Alexanian",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kyra Sedgwick",
+      "character": "Delia Shunt",
+      "order": 0
+    },
+    {
+      "name": "Parker Posey",
+      "character": "Greta Herskowitz",
+      "order": 1
+    },
+    {
+      "name": "Fairuza Balk",
+      "character": "Paula",
+      "order": 2
+    },
+    {
+      "name": "John Ventimiglia",
+      "character": "Narrator (voice)",
+      "order": 3
+    },
+    {
+      "name": "Ron Leibman",
+      "character": "Avram Herskowitz",
+      "order": 4
+    },
+    {
+      "name": "Wallace Shawn",
+      "character": "Mr. Gelb",
+      "order": 5
+    },
+    {
+      "name": "David Warshofsky",
+      "character": "Kurt Wurtzle",
+      "order": 6
+    },
+    {
+      "name": "Leo Fitzpatrick",
+      "character": "Mylert",
+      "order": 7
+    },
+    {
+      "name": "Tim Guinee",
+      "character": "Lee",
+      "order": 8
+    },
+    {
+      "name": "Patti D'Arbanville",
+      "character": "Celia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2Jkt0PQBU2lmSm4zQcyJBWvRGpv.jpg",
+  "backdrop_path": "/zPOsgnW67I0US9fJ9kAKXGwbcWC.jpg",
+  "budget": 125000,
+  "revenue": 1025302,
+  "vote_average": 5.8,
+  "vote_count": 45,
+  "imdb_id": "tt0295238",
+  "certifications": [
+    {
+      "country": "IE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

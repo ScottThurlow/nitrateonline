@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "23 wins & 25 nominations total",
+  "rated": "PG",
+  "released": "31 Jan 2003",
+  "runtime": "94 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Phillip Noyce",
+  "writer": "Doris Pilkington, Christine Olsen",
+  "actors": "Everlyn Sampi, Tianna Sansbury, Kenneth Branagh",
+  "plot": "In 1931, three half-white, half-Aboriginal girls escape after being plucked from their houses to be trained as domestic staff, and set off on a journey across the Outback.",
+  "language": "English, Aboriginal",
+  "country": "Australia",
+  "metascore": "80",
+  "imdb_rating": "7.4",
+  "imdb_votes": "31,391",
+  "box_office": "$6,199,600",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "87%",
+      "link": "https://www.rottentomatoes.com/search?search=Rabbit-Proof+Fence"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/Rabbit-Proof+Fence/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0252444/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0252444/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9555"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 6 nominations total",
+  "rated": "PG",
+  "released": "16 Jun 2000",
+  "runtime": "94 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Don Bluth, Gary Goldman",
+  "writer": "Hans Bauer, Randall McCormick, Ben Edlund",
+  "actors": "Matt Damon, Drew Barrymore, Bill Pullman",
+  "plot": "Earth is a memory of the past; it's the 31st Century and humanity is on the brink of total annihilation, all except for one young man who holds the map to the universe's last hope: Titan. In a race against time, the human race has to find the Titan before the illusive Drej destroy it.",
+  "language": "English, Mandarin",
+  "country": "United States, United Kingdom",
+  "metascore": "48",
+  "imdb_rating": "6.6",
+  "imdb_votes": "66,405",
+  "box_office": "$22,753,426",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "51%",
+      "link": "https://www.rottentomatoes.com/search?search=Titan+A.E."
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Titan+A.E./"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120913/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120913/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/7450"
+  }
+}

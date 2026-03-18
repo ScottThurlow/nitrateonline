@@ -1,0 +1,30 @@
+{
+  "year": "1998",
+  "awards": "6 wins & 2 nominations",
+  "rated": "PG-13",
+  "released": "15 Jan 1999",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama",
+  "director": "Alejandro Agresti",
+  "writer": "Alejandro Agresti",
+  "actors": "Vera Fogwill, Fabián Vena, Ángela Molina",
+  "plot": "Soledad, a girl tired of being a taxi driver in Buenos Aires, travels with her car to Patagonia. She stops in a village whose inhabitants live in isolation and their only contact with the outside world is a cinema where old films are projected.",
+  "language": "Spanish, French",
+  "country": "Argentina, France, Netherlands, Spain",
+  "metascore": "N/A",
+  "imdb_rating": "6.4",
+  "imdb_votes": "629",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0169364/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0169364/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/56949"
+  }
+}

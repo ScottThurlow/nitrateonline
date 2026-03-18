@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 20 wins & 91 nominations total",
+  "rated": "PG-13",
+  "released": "21 Jun 2002",
+  "runtime": "145 min",
+  "genre": "Action, Crime, Mystery",
+  "director": "Steven Spielberg",
+  "writer": "Scott Frank, Jon Cohen, Philip K. Dick",
+  "actors": "Tom Cruise, Colin Farrell, Samantha Morton",
+  "plot": "In the year 2054 A.D. crime is virtually eliminated from Washington D.C. thanks to an elite law enforcing squad \"Precrime\". They use three gifted humans (called \"Pre-Cogs\") with special powers to see into the future and predict crimes beforehand. John Anderton heads Precrime and believes the system's flawlessness steadfastly. However one day the Pre-Cogs predict that Anderton will commit a murder himself in the next 36 hours. Worse, Anderton doesn't even know the victim. He decides to get to the mystery's core by finding out the 'minority report' which means the prediction of the female Pre-Cog Agatha that \"might\" tell a different story and prove Anderton innocent.",
+  "language": "English, Swedish",
+  "country": "United States",
+  "metascore": "80",
+  "imdb_rating": "7.6",
+  "imdb_votes": "617,708",
+  "box_office": "$132,072,926",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=Minority+Report"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/Minority+Report/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0181689/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0181689/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/180"
+  }
+}

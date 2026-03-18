@@ -1,0 +1,68 @@
+{
+  "tmdb_id": 1270176,
+  "title": "Bitter Smoke of Autumn",
+  "original_title": "Горький дым осени",
+  "release_date": "1997-01-01",
+  "runtime": 75,
+  "tagline": "",
+  "overview": "In the film, the theme of children and the elderly, forced to adapt to the new conditions of the perestroika period, sounds shrill. The plot is based on just one day in the life of two teenage brothers and a lonely old woman.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Zhanhai-film",
+      "country": "KZ"
+    }
+  ],
+  "director": [
+    "Gulyandan Shutanova"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Kulkesh Nurgazina",
+      "character": "",
+      "order": 0
+    },
+    {
+      "name": "Vladimir Tolokonnikov",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Zhanetdin Shutanov",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Khaidar Shutanov",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Yelena Trenina",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "Nadezhda Nechaeva",
+      "character": "",
+      "order": 5
+    }
+  ],
+  "poster_path": null,
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": null,
+  "certifications": [],
+  "status": "Released"
+}

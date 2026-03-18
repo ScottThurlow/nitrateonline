@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "5 wins & 11 nominations total",
+  "rated": "R",
+  "released": "27 Oct 2000",
+  "runtime": "90 min",
+  "genre": "Adventure, Fantasy, Horror",
+  "director": "Joe Berlinger",
+  "writer": "Daniel Myrick, Eduardo Sánchez, Dick Beebe",
+  "actors": "Jeffrey Donovan, Stephen Barker Turner, Erica Leerhsen",
+  "plot": "To cash in on all of the \"real world\" hype of the events in the first film, a man from Burkitsville, Maryland opens a \"Blair Witch Hunt\" tour, which shows patrons various locations from the original film. A bunch of college students decide to take the tour, and wind up in Rustin Parr's house. There, they decide to camp for the evening, but in the morning, they realize they didn't sleep and they don't remember anything that happened the previous night. From there, they go back to town, and discover that something...or someone has come with them.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "15",
+  "imdb_rating": "4.1",
+  "imdb_votes": "41,741",
+  "box_office": "$26,437,094",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=Book+of+Shadows%3A+Blair+Witch+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "15/100",
+      "link": "https://www.metacritic.com/search/Book+of+Shadows%3A+Blair+Witch+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0229260/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0229260/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11531"
+  }
+}

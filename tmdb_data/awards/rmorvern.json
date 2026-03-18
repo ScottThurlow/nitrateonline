@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "10 wins & 17 nominations total",
+  "rated": "R",
+  "released": "01 Nov 2002",
+  "runtime": "97 min",
+  "genre": "Drama",
+  "director": "Lynne Ramsay",
+  "writer": "Lynne Ramsay, Liana Dognini, Alan Warner",
+  "actors": "Samantha Morton, Kathleen McDermott, Linda McGuire",
+  "plot": "Following her boyfriend's suicide, supermarket clerk Morvern Callar passes off his unpublished novel as her own. With the money her boyfriend left for his funeral, she leaves Scotland for Ibiza where she travels with her closest friend. The journey prompts a series of internal and external transformations for Morvern - ones which bring to light her experiences of grief, memory, freedom, and desire.",
+  "language": "English, Spanish",
+  "country": "United Kingdom, Canada",
+  "metascore": "78",
+  "imdb_rating": "6.8",
+  "imdb_votes": "11,607",
+  "box_office": "$267,907",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Morvern+Callar"
+    },
+    {
+      "source": "Metacritic",
+      "value": "78/100",
+      "link": "https://www.metacritic.com/search/Morvern+Callar/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0300214/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0300214/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18602"
+  }
+}

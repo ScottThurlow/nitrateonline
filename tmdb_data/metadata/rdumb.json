@@ -1,0 +1,194 @@
+{
+  "tmdb_id": 10152,
+  "title": "Dumb and Dumberer: When Harry Met Lloyd",
+  "original_title": "Dumb and Dumberer: When Harry Met Lloyd",
+  "release_date": "2003-04-14",
+  "runtime": 85,
+  "tagline": "The evolution of dumb...",
+  "overview": "This wacky prequel to the 1994 blockbuster goes back to the lame-brained Harry and Lloyd's days as classmates at a Rhode Island high school, where the unprincipled principal puts the pair in remedial courses as part of a scheme to fleece the school.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Troy Miller"
+  ],
+  "writers": [
+    {
+      "name": "Robert Brener",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Troy Miller",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bennett Yellin",
+      "job": "Characters"
+    },
+    {
+      "name": "Bobby Farrelly",
+      "job": "Characters"
+    },
+    {
+      "name": "Peter Farrelly",
+      "job": "Characters"
+    },
+    {
+      "name": "Robert Brener",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brad Krevoy",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Stabler",
+      "job": "Producer"
+    },
+    {
+      "name": "Oren Koules",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles B. Wessler",
+      "job": "Producer"
+    },
+    {
+      "name": "Troy Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Brener",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bennett Yellin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cale Boyter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Brener",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Derek Richardson",
+      "character": "Harry Dunne",
+      "order": 0
+    },
+    {
+      "name": "Eric Christian Olsen",
+      "character": "Lloyd Christmas",
+      "order": 1
+    },
+    {
+      "name": "Mimi Rogers",
+      "character": "Mrs. Dunne",
+      "order": 2
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Ray",
+      "order": 3
+    },
+    {
+      "name": "Rachel Nichols",
+      "character": "Jessica",
+      "order": 4
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Principal Collins",
+      "order": 5
+    },
+    {
+      "name": "Teal Redmann",
+      "character": "Terri",
+      "order": 6
+    },
+    {
+      "name": "Shia LaBeouf",
+      "character": "Lewis",
+      "order": 7
+    },
+    {
+      "name": "Lin Shaye",
+      "character": "Margie",
+      "order": 8
+    },
+    {
+      "name": "Elden Henson",
+      "character": "Turk",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qxD6P3UXASFCdbrVavceZzgOfI9.jpg",
+  "backdrop_path": "/e2Ppz6IQcukpqyYYJsRkWcsGXvT.jpg",
+  "budget": 19000000,
+  "revenue": 39267515,
+  "vote_average": 4.144,
+  "vote_count": 893,
+  "imdb_id": "tt0329028",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

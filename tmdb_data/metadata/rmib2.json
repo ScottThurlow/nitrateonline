@@ -1,0 +1,236 @@
+{
+  "tmdb_id": 608,
+  "title": "Men in Black II",
+  "original_title": "Men in Black II",
+  "release_date": "2002-07-03",
+  "runtime": 88,
+  "tagline": "Same planet. New scum.",
+  "overview": "Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIB's untarnished mission statement – protecting Earth from the scum of the universe. It's been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions. Now it's a race against the clock as Jay must convince Kay – who not only has absolutely no memory of his time spent with the MIB, but is also the only living person left with the expertise to save the galaxy – to reunite with the MIB before the earth submits to ultimate destruction.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Parkes+MacDonald Production",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Barry Sonnenfeld"
+  ],
+  "writers": [
+    {
+      "name": "Robert Gordon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Barry Fanaro",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lowell Cunningham",
+      "job": "Comic Book"
+    },
+    {
+      "name": "Robert Gordon",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Steven Spielberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Producer"
+    },
+    {
+      "name": "Laurie MacDonald",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Kay",
+      "order": 0
+    },
+    {
+      "name": "Will Smith",
+      "character": "Jay",
+      "order": 1
+    },
+    {
+      "name": "Rip Torn",
+      "character": "Zed",
+      "order": 2
+    },
+    {
+      "name": "Lara Flynn Boyle",
+      "character": "Serleena",
+      "order": 3
+    },
+    {
+      "name": "Johnny Knoxville",
+      "character": "Scrad / Charlie",
+      "order": 4
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Laura Vasquez",
+      "order": 5
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Jeebs",
+      "order": 6
+    },
+    {
+      "name": "Patrick Warburton",
+      "character": "Agent Tee",
+      "order": 7
+    },
+    {
+      "name": "Jack Kehler",
+      "character": "Ben",
+      "order": 8
+    },
+    {
+      "name": "David Cross",
+      "character": "Newton",
+      "order": 9
+    }
+  ],
+  "poster_path": "/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
+  "backdrop_path": "/o1l6OCqA3pYDZHIc5L1s7CEzCMv.jpg",
+  "budget": 140000000,
+  "revenue": 445135288,
+  "vote_average": 6.384,
+  "vote_count": 10526,
+  "imdb_id": "tt0120912",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

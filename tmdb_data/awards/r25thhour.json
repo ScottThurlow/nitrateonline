@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 wins & 17 nominations total",
+  "rated": "R",
+  "released": "10 Jan 2003",
+  "runtime": "135 min",
+  "genre": "Drama",
+  "director": "Spike Lee",
+  "writer": "David Benioff",
+  "actors": "Edward Norton, Barry Pepper, Philip Seymour Hoffman",
+  "plot": "The 25th Hour depicts the last day of freedom for a young man before he begins serving a seven-year jail term for drug dealing. Prowling through the city until dawn with his two close male friends and his girlfriend, he is forced to re-examine his life and how he got himself into his predicament, which leads to a shocking, disturbing finale.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "7.6",
+  "imdb_votes": "187,630",
+  "box_office": "$13,084,595",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=25th+Hour"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/25th+Hour/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0307901/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0307901/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1429"
+  }
+}

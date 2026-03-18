@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 9822,
+  "title": "Mighty Joe Young",
+  "original_title": "Mighty Joe Young",
+  "release_date": "1998-12-25",
+  "runtime": 114,
+  "tagline": "Survival is an instinct.",
+  "overview": "As a child living in Africa, Jill Young saw her mother killed while protecting wild gorillas from poachers led by Andrei Strasser. Now an adult, Jill cares for an orphaned gorilla named Joe -- who, due to a genetic anomaly, is 15 feet tall. When Gregg O'Hara arrives from California and sees the animal, he convinces Jill that Joe would be safest at his wildlife refuge. But Strasser follows them to the U.S., intent on capturing Joe for himself.",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "Swahili",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "RKO Pictures",
+      "country": "US"
+    },
+    {
+      "name": "The Jacobson Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Underwood"
+  ],
+  "writers": [
+    {
+      "name": "Mark Rosenthal",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lawrence Konner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Merian C. Cooper",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Ruth Rose",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Jacobson",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Hartley",
+      "job": "Producer"
+    },
+    {
+      "name": "Gail Katz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Charlize Theron",
+      "character": "Jill Young",
+      "order": 0
+    },
+    {
+      "name": "Bill Paxton",
+      "character": "Gregg O'Hara",
+      "order": 1
+    },
+    {
+      "name": "Rade Šerbedžija",
+      "character": "Strasser",
+      "order": 2
+    },
+    {
+      "name": "Peter Firth",
+      "character": "Garth",
+      "order": 3
+    },
+    {
+      "name": "David Paymer",
+      "character": "Harry Ruben",
+      "order": 4
+    },
+    {
+      "name": "Regina King",
+      "character": "Cecily Banks",
+      "order": 5
+    },
+    {
+      "name": "Robert Wisdom",
+      "character": "Kweli",
+      "order": 6
+    },
+    {
+      "name": "Naveen Andrews",
+      "character": "Pindi",
+      "order": 7
+    },
+    {
+      "name": "Lawrence Pressman",
+      "character": "Dr. Baker",
+      "order": 8
+    },
+    {
+      "name": "Linda Purl",
+      "character": "Dr. Ruth Young",
+      "order": 9
+    }
+  ],
+  "poster_path": "/93oAWBl6UIEmeknmRKbUkVq4cKl.jpg",
+  "backdrop_path": "/dkNjhkEk2tw7hoxx7Ik1YQsdenZ.jpg",
+  "budget": 90000000,
+  "revenue": 0,
+  "vote_average": 6.307,
+  "vote_count": 860,
+  "imdb_id": "tt0120751",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "SK",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

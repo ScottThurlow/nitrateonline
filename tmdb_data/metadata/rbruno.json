@@ -1,0 +1,122 @@
+{
+  "tmdb_id": 95136,
+  "title": "Bruno",
+  "original_title": "Bruno",
+  "release_date": "2000-04-16",
+  "runtime": 108,
+  "tagline": "The comedy that is long on originality and short on pants.",
+  "overview": "The story of a unique young boy genius, Bruno, whose expression of his own individuality leads his family and community along an emotional journey.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "J&M Entertainment",
+      "country": "GB"
+    },
+    {
+      "name": "Original Voices Inc.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Shirley MacLaine"
+  ],
+  "writers": [
+    {
+      "name": "David Ciminello",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Paul Kirkpatrick",
+      "job": "Producer"
+    },
+    {
+      "name": "Julia Palau",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Doug Mankoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ivan Gulas",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan King",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jim Lotfi",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alex D. Linz",
+      "character": "Bruno Battaglia",
+      "order": 0
+    },
+    {
+      "name": "Shirley MacLaine",
+      "character": "Helen",
+      "order": 1
+    },
+    {
+      "name": "Gary Sinise",
+      "character": "Dino Battaglia",
+      "order": 2
+    },
+    {
+      "name": "Kathy Bates",
+      "character": "Mother Superior",
+      "order": 3
+    },
+    {
+      "name": "Joey Lauren Adams",
+      "character": "Donna Marie",
+      "order": 4
+    },
+    {
+      "name": "Jennifer Tilly",
+      "character": "Dolores",
+      "order": 5
+    },
+    {
+      "name": "Monica Hewes",
+      "character": "Claudia",
+      "order": 6
+    },
+    {
+      "name": "Christian Durango",
+      "character": "Young Dino / Christian G. Durango",
+      "order": 7
+    },
+    {
+      "name": "Lee Hughes",
+      "character": "Eddie Mazzaratti",
+      "order": 8
+    },
+    {
+      "name": "Joanne Pankow",
+      "character": "Sister Consolata",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6gj9iMwlKZh3C4Q21q1qNu8idVE.jpg",
+  "backdrop_path": "/2vJe8fmPu5rxlH9lJlcHrj7bs2u.jpg",
+  "budget": 10000000,
+  "revenue": 0,
+  "vote_average": 6.4,
+  "vote_count": 32,
+  "imdb_id": "tt0123003",
+  "certifications": [],
+  "status": "Released"
+}

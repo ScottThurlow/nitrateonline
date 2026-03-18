@@ -1,0 +1,162 @@
+{
+  "tmdb_id": 13920,
+  "title": "Radio",
+  "original_title": "Radio",
+  "release_date": "2003-10-24",
+  "runtime": 109,
+  "tagline": "His courage made them champions.",
+  "overview": "In the racially divided town of Anderson, South Carolina in 1976, football coach Harold Jones spots a mentally disabled African-American young man nicknamed Radio near his practice field and is inspired to befriend him. Soon, Radio is Jones' loyal assistant, and he becomes a student at T.L. Hanna High School. But things start to sour when Coach Jones begins taking guff from parents and fans who feel that his devotion to Radio is getting in the way of the team's quest for a championship.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tollin/Robbins Productions",
+      "country": "US"
+    },
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Tollin"
+  ],
+  "writers": [
+    {
+      "name": "Mike Rich",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Herb Gains",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Tollin",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Robbins",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Garner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caitlin Scanlon",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Radio",
+      "order": 0
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Coach Jones",
+      "order": 1
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Principal Daniels",
+      "order": 2
+    },
+    {
+      "name": "S. Epatha Merkerson",
+      "character": "Maggie",
+      "order": 3
+    },
+    {
+      "name": "Debra Winger",
+      "character": "Linda Jones",
+      "order": 4
+    },
+    {
+      "name": "Chris Mulkey",
+      "character": "Frank",
+      "order": 5
+    },
+    {
+      "name": "Sarah Drew",
+      "character": "Mary Helen Jones",
+      "order": 6
+    },
+    {
+      "name": "Brent Sexton",
+      "character": "Honeycutt",
+      "order": 7
+    },
+    {
+      "name": "Riley Smith",
+      "character": "Johnny",
+      "order": 8
+    },
+    {
+      "name": "Patrick Breen",
+      "character": "Tucker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uQ6ci4iFHhB6TWB2f4wftR7AEly.jpg",
+  "backdrop_path": "/wDln5edQPFYMeKvakkYCLUXOPRP.jpg",
+  "budget": 35000000,
+  "revenue": 53293628,
+  "vote_average": 7.306,
+  "vote_count": 811,
+  "imdb_id": "tt0316465",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "9"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

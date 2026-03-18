@@ -1,0 +1,181 @@
+{
+  "tmdb_id": 913,
+  "title": "The Thomas Crown Affair",
+  "original_title": "The Thomas Crown Affair",
+  "release_date": "1999-08-06",
+  "runtime": 113,
+  "tagline": "How do you get the man who has everything?",
+  "overview": "Bored billionaire executive Thomas Crown entertains himself by stealing a Monet from a reputed museum with an elaborate diversion. When Catherine Banning, the insurance company's investigator, takes an interest in Crown, he may have met his match, and a complicated back-and-forth game with seductive undertones begins between them.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "Irish Dreamtime",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John McTiernan"
+  ],
+  "writers": [
+    {
+      "name": "Leslie Dixon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kurt Wimmer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alan Trustman",
+      "job": "Story"
+    },
+    {
+      "name": "Alan Trustman",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Pierce Brosnan",
+      "job": "Producer"
+    },
+    {
+      "name": "Beau St. Clair",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Tadross",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pierce Brosnan",
+      "character": "Thomas Crown",
+      "order": 0
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Catherine Banning",
+      "order": 1
+    },
+    {
+      "name": "Denis Leary",
+      "character": "Det. Michael McCann",
+      "order": 2
+    },
+    {
+      "name": "Frankie Faison",
+      "character": "Det. Paretti",
+      "order": 3
+    },
+    {
+      "name": "Faye Dunaway",
+      "character": "Psychiatrist",
+      "order": 4
+    },
+    {
+      "name": "Esther Cañadas",
+      "character": "Anna Knudsen",
+      "order": 5
+    },
+    {
+      "name": "James Saito",
+      "character": "Paul Cheng",
+      "order": 6
+    },
+    {
+      "name": "Michael Lombard",
+      "character": "Proctor Bobby McKinley",
+      "order": 7
+    },
+    {
+      "name": "Fritz Weaver",
+      "character": "John Reynolds (Golf Buddy)",
+      "order": 8
+    },
+    {
+      "name": "Charles Keating",
+      "character": "Friedrich Golchan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+  "backdrop_path": "/iDGfPcu2CV66BCRk31uOcfB3IvU.jpg",
+  "budget": 48000000,
+  "revenue": 124305181,
+  "vote_average": 6.744,
+  "vote_count": 1321,
+  "imdb_id": "tt0155267",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

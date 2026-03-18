@@ -1,0 +1,178 @@
+{
+  "tmdb_id": 10782,
+  "title": "Basic",
+  "original_title": "Basic",
+  "release_date": "2003-04-18",
+  "runtime": 98,
+  "tagline": "Deception is their most dangerous weapon.",
+  "overview": "When a hurricane hits a US Army base on the edge of the Panama Canal, an elite covert operations team of US Army Rangers recruits are on a routine jungle training exercise that goes horribly awry. Only two recruits are rescued, one of which is badly injured, but both have different accounts regarding the fate of their leader, legendary and ruthless Army Ranger Drill Sergeant Nathan West, and the rest of their platoon. Tom Hardy, an ex-army Ranger turned maverick DEA agent is brought in to solve the mystery and uncover what really happened out there.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Phoenix Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John McTiernan"
+  ],
+  "writers": [
+    {
+      "name": "James Vanderbilt",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mike Medavoy",
+      "job": "Producer"
+    },
+    {
+      "name": "James Vanderbilt",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Messer",
+      "job": "Producer"
+    },
+    {
+      "name": "Basil Iwanyk",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Tadross",
+      "job": "Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan D. Krane",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "DEA Agent Tom Hardy",
+      "order": 0
+    },
+    {
+      "name": "Connie Nielsen",
+      "character": "CPT Julie Osborne",
+      "order": 1
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Drill Sgt. SFC Nathan West",
+      "order": 2
+    },
+    {
+      "name": "Tim Daly",
+      "character": "COL Bill Styles",
+      "order": 3
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "2LT Levi Kendall",
+      "order": 4
+    },
+    {
+      "name": "Brian Van Holt",
+      "character": "SGT Ray Dunbar",
+      "order": 5
+    },
+    {
+      "name": "Taye Diggs",
+      "character": "Pike",
+      "order": 6
+    },
+    {
+      "name": "Dash Mihok",
+      "character": "SGT Mueller",
+      "order": 7
+    },
+    {
+      "name": "Cristián de la Fuente",
+      "character": "Castro",
+      "order": 8
+    },
+    {
+      "name": "Roselyn Sánchez",
+      "character": "Nuñez",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jtyF4NF9fQlyGP8cgU1mK3DLUTB.jpg",
+  "backdrop_path": "/nbQccqxcpAV1dwofccLeM3c6qzn.jpg",
+  "budget": 50000000,
+  "revenue": 42792561,
+  "vote_average": 6.496,
+  "vote_count": 1119,
+  "imdb_id": "tt0264395",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 1 Oscar. 14 wins & 28 nominations total",
+  "rated": "PG-13",
+  "released": "09 May 2003",
+  "runtime": "91 min",
+  "genre": "Comedy, Music",
+  "director": "Christopher Guest",
+  "writer": "Christopher Guest, Eugene Levy",
+  "actors": "Christopher Guest, Eugene Levy, Michael McKean",
+  "plot": "When folk icon Irving Steinbloom passed away, he left behind a legacy of music and a family of performers he has shepherded to folk stardom. To celebrate a life spent submerged in folk, Irving's loving son Jonathan has decided to put together a memorial concert featuring some of Steinbloom's best-loved musicians. There's Mitch and Mickey, who were the epitome of young love until their partnership was torn apart by heartbreak; classic troubadours The Folksmen, whose records were endlessly entertaining for anyone able to punch a hole in the center to play them; and The New Main Street Singers, the most meticulously color-coordinated neuftet ever to hit an amusement park. Now for one night only in New York City's Town Hall, these three groups will reunite and gather together to celebrate the music that almost made them famous.",
+  "language": "English, Yiddish",
+  "country": "United States",
+  "metascore": "81",
+  "imdb_rating": "7.2",
+  "imdb_votes": "29,900",
+  "box_office": "$17,781,006",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "87%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Mighty+Wind"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/A+Mighty+Wind/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0310281/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0310281/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13370"
+  }
+}

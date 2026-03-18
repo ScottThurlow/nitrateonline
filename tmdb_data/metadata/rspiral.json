@@ -1,0 +1,115 @@
+{
+  "tmdb_id": 11366,
+  "title": "Uzumaki",
+  "original_title": "うずまき",
+  "release_date": "2000-02-11",
+  "runtime": 90,
+  "tagline": "Out of this world.",
+  "overview": "The inhabitants of a small Japanese town become increasingly obsessed with and tormented by spirals.",
+  "genres": [
+    "Mystery",
+    "Fantasy",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Space Shower TV",
+      "country": "JP"
+    },
+    {
+      "name": "Omega Micott",
+      "country": "JP"
+    },
+    {
+      "name": "Shogakukan",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Higuchinsky"
+  ],
+  "writers": [
+    {
+      "name": "Kengo Kaji",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Junji Ito",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mitsuru Kurosawa",
+      "job": "Producer"
+    },
+    {
+      "name": "Akemi Suyama",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eriko Hatsune",
+      "character": "Kirie Goshima",
+      "order": 0
+    },
+    {
+      "name": "Fhi Fan",
+      "character": "Shuichi Saito",
+      "order": 1
+    },
+    {
+      "name": "Hinako Saeki",
+      "character": "Kyoko Sekino",
+      "order": 2
+    },
+    {
+      "name": "Shin Eun-kyung",
+      "character": "Chie Marayama",
+      "order": 3
+    },
+    {
+      "name": "Keiko Takahashi",
+      "character": "Yukie Saito",
+      "order": 4
+    },
+    {
+      "name": "Ren Osugi",
+      "character": "Toshio Saito",
+      "order": 5
+    },
+    {
+      "name": "Denden",
+      "character": "Officer Futada",
+      "order": 6
+    },
+    {
+      "name": "Masami Horiuchi",
+      "character": "Reporter Ichiro Tamura",
+      "order": 7
+    },
+    {
+      "name": "Tarō Suwa",
+      "character": "Yasuo Goshima",
+      "order": 8
+    },
+    {
+      "name": "Toru Tezuka",
+      "character": "Yokota Ikuo",
+      "order": 9
+    }
+  ],
+  "poster_path": "/71SkvX0U1FinnoQkDAtrNyrYhtT.jpg",
+  "backdrop_path": "/ju66IP5AkqoHthl0T7efb7qosnS.jpg",
+  "budget": 1000000,
+  "revenue": 0,
+  "vote_average": 5.875,
+  "vote_count": 256,
+  "imdb_id": "tt0244870",
+  "certifications": [],
+  "status": "Released"
+}

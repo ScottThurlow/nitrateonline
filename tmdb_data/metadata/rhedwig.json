@@ -1,0 +1,165 @@
+{
+  "tmdb_id": 13403,
+  "title": "Hedwig and the Angry Inch",
+  "original_title": "Hedwig and the Angry Inch",
+  "release_date": "2001-07-20",
+  "runtime": 95,
+  "tagline": "An anatomically incorrect rock odyssey",
+  "overview": "Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an 'internationally ignored' but divinely talented rock diva, inhabiting a 'beautiful gender of one'.",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Killer Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Cameron Mitchell"
+  ],
+  "writers": [
+    {
+      "name": "John Cameron Mitchell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen Trask",
+      "job": "Musical"
+    },
+    {
+      "name": "John Cameron Mitchell",
+      "job": "Musical"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Pamela Koffler",
+      "job": "Producer"
+    },
+    {
+      "name": "Katie Roumel",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Vachon",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Tusk",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Amy Henkels",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Cameron Mitchell",
+      "character": "Hedwig",
+      "order": 0
+    },
+    {
+      "name": "Miriam Shor",
+      "character": "Yitzhak",
+      "order": 1
+    },
+    {
+      "name": "Stephen Trask",
+      "character": "Skszp",
+      "order": 2
+    },
+    {
+      "name": "Theodore Liscinski",
+      "character": "Jacek",
+      "order": 3
+    },
+    {
+      "name": "Rob Campbell",
+      "character": "Krzysztof",
+      "order": 4
+    },
+    {
+      "name": "Michael Aronov",
+      "character": "Schlatko",
+      "order": 5
+    },
+    {
+      "name": "Andrea Martin",
+      "character": "Phyllis Stein",
+      "order": 6
+    },
+    {
+      "name": "Ben Mayer-Goodman",
+      "character": "Hansel - 6 years old",
+      "order": 7
+    },
+    {
+      "name": "Alberta Watson",
+      "character": "Hansel's Mom",
+      "order": 8
+    },
+    {
+      "name": "Gene Pyrz",
+      "character": "Hansel's Dad",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jafIFAW8sHQkzWPGoMDR4892dFI.jpg",
+  "backdrop_path": "/uY5EB9VIX8lT03MdYcR9DzlhEGM.jpg",
+  "budget": 6000000,
+  "revenue": 3660081,
+  "vote_average": 7.451,
+  "vote_count": 416,
+  "imdb_id": "tt0248845",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

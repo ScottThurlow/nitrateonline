@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 507567,
+  "title": "The Seventh Cronicle",
+  "original_title": "Sedma kronika",
+  "release_date": "1996-01-01",
+  "runtime": 97,
+  "tagline": "",
+  "overview": "In former Yugoslavia, following Tito's break-up with Stalin, the rocky island of Goli Otok was the camp site for political prisoners. From that officially non-existant yet dreaded place a young man escapes and seeks refuge on a nearby island. The nuns from the local convent find him unconscious and decide to give him shelter. A relentless secret policeman comes to the island and starts making life miserable for its inhabitants, hoping to find his prey...",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "Croatian"
+  ],
+  "production_companies": [
+    {
+      "name": "Graphis",
+      "country": "HR"
+    },
+    {
+      "name": "Hrvatska Radiotelevizija",
+      "country": "HR"
+    },
+    {
+      "name": "Jadran Film",
+      "country": "HR"
+    }
+  ],
+  "director": [
+    "Bruno Gamulin"
+  ],
+  "writers": [
+    {
+      "name": "Grga Gamulin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Rene Medvešek",
+      "character": "Fugitive",
+      "order": 0
+    },
+    {
+      "name": "Alma Prica",
+      "character": "Sister Klara",
+      "order": 1
+    },
+    {
+      "name": "Sven Medvešek",
+      "character": "Agent",
+      "order": 2
+    },
+    {
+      "name": "Josip Genda",
+      "character": "Odoriko",
+      "order": 3
+    },
+    {
+      "name": "Ivo Gregurević",
+      "character": "Kapo",
+      "order": 4
+    },
+    {
+      "name": "Tonko Lonza",
+      "character": "Doctor",
+      "order": 5
+    },
+    {
+      "name": "Vili Matula",
+      "character": "Antonije",
+      "order": 6
+    },
+    {
+      "name": "Suzana Nikolić",
+      "character": "Vedrana",
+      "order": 7
+    },
+    {
+      "name": "Doris Šarić-Kukuljica",
+      "character": "Sister Rozalija",
+      "order": 8
+    },
+    {
+      "name": "Dragan Despot",
+      "character": "Friend",
+      "order": 9
+    }
+  ],
+  "poster_path": "/664WukxrrnUiBbqCwtxt10LnBV1.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0117591",
+  "certifications": [],
+  "status": "Released"
+}

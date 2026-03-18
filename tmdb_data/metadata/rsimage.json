@@ -1,0 +1,101 @@
+{
+  "tmdb_id": 125762,
+  "title": "Shattered Image",
+  "original_title": "Shattered Image",
+  "release_date": "1998-12-04",
+  "runtime": 103,
+  "tagline": "",
+  "overview": "Confusing realities surface in this paranoid film dealing with the fragile nature of a young woman recovering from rape and an apparent attempted suicide. In one reality, she is a killer destroyer of men. In another she is the new wife on a Jamaican honeymoon with her husband (William Baldwin), who is trying to help her recover. Which is real is the question as the story unfolds.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fireworks Entertainment",
+      "country": "CA"
+    },
+    {
+      "name": "Schroeder Hoffman Productions",
+      "country": ""
+    },
+    {
+      "name": "Seven Arts Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Raúl Ruiz"
+  ],
+  "writers": [
+    {
+      "name": "Duane Poole",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "William Baldwin",
+      "character": "Brian",
+      "order": 0
+    },
+    {
+      "name": "Anne Parillaud",
+      "character": "Jessie Markham",
+      "order": 1
+    },
+    {
+      "name": "Lisanne Falk",
+      "character": "Paula / Laura",
+      "order": 2
+    },
+    {
+      "name": "Graham Greene",
+      "character": "Detective",
+      "order": 3
+    },
+    {
+      "name": "Bulle Ogier",
+      "character": "Mrs. Ford",
+      "order": 4
+    },
+    {
+      "name": "Rick Ravanello",
+      "character": "Man in Restraurant",
+      "order": 5
+    },
+    {
+      "name": "Peter Hanlon",
+      "character": "Dr. Cohen",
+      "order": 6
+    },
+    {
+      "name": "Marc Akerstream",
+      "character": "Man in Motorboat",
+      "order": 7
+    },
+    {
+      "name": "Roger Allford",
+      "character": "Father",
+      "order": 8
+    },
+    {
+      "name": "Billy Wilmott",
+      "character": "Lamond",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bvlr7rwFilRQDxXdLVFdSR2M01N.jpg",
+  "backdrop_path": "/k3zlMg63lB4FSLpQuOJ6p2YUsYf.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.462,
+  "vote_count": 13,
+  "imdb_id": "tt0143874",
+  "certifications": [],
+  "status": "Released"
+}

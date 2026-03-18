@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 9499,
+  "title": "Le Divorce",
+  "original_title": "Le Divorce",
+  "release_date": "2003-08-08",
+  "runtime": 117,
+  "tagline": "Everything sounds sexier in French.",
+  "overview": "While visiting her sister in Paris, a young woman finds romance and learns her brother-in-law is a philanderer.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Radar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Merchant Ivory Productions",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "James Ivory"
+  ],
+  "writers": [
+    {
+      "name": "Diane Johnson",
+      "job": "Writer"
+    },
+    {
+      "name": "James Ivory",
+      "job": "Writer"
+    },
+    {
+      "name": "Ruth Prawer Jhabvala",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ismail Merchant",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Schiffer",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Bradley",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Hawley",
+      "job": "Producer"
+    },
+    {
+      "name": "Erica Huggins",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Kroopf",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Hudson",
+      "character": "Isabel Walker",
+      "order": 0
+    },
+    {
+      "name": "Naomi Watts",
+      "character": "Roxeanne de Persand",
+      "order": 1
+    },
+    {
+      "name": "Glenn Close",
+      "character": "Olivia Pace",
+      "order": 2
+    },
+    {
+      "name": "Marie-Christine Adam",
+      "character": "Amélie Cosset",
+      "order": 3
+    },
+    {
+      "name": "Thierry Lhermitte",
+      "character": "Edgar Cosset",
+      "order": 4
+    },
+    {
+      "name": "Melvil Poupaud",
+      "character": "Charles-Henri de Persand",
+      "order": 5
+    },
+    {
+      "name": "Matthew Modine",
+      "character": "Tellman",
+      "order": 6
+    },
+    {
+      "name": "Sam Waterston",
+      "character": "Chester Walker",
+      "order": 7
+    },
+    {
+      "name": "Stockard Channing",
+      "character": "Margeeve Walker",
+      "order": 8
+    },
+    {
+      "name": "Thomas Lennon",
+      "character": "Roger Walker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ucBJrWKCJ1naTylSFN8jpaEqwwe.jpg",
+  "backdrop_path": "/w2UHBWTJux7bWSi44mMS21tPhGT.jpg",
+  "budget": 0,
+  "revenue": 12991996,
+  "vote_average": 4.932,
+  "vote_count": 161,
+  "imdb_id": "tt0306734",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

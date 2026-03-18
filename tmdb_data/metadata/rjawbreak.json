@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 18892,
+  "title": "Jawbreaker",
+  "original_title": "Jawbreaker",
+  "release_date": "1999-01-30",
+  "runtime": 87,
+  "tagline": "Death totally bites.",
+  "overview": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Crossroads Films",
+      "country": ""
+    },
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Kramer-Tornell Productions",
+      "country": ""
+    },
+    {
+      "name": "Film Kitchen",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Darren Stein"
+  ],
+  "writers": [
+    {
+      "name": "Darren Stein",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stacy Kramer",
+      "job": "Producer"
+    },
+    {
+      "name": "Lisa Tornell",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rose McGowan",
+      "character": "Courtney Shayne",
+      "order": 0
+    },
+    {
+      "name": "Rebecca Gayheart",
+      "character": "Julie Freeman",
+      "order": 1
+    },
+    {
+      "name": "Julie Benz",
+      "character": "Marcie Fox",
+      "order": 2
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Fern Mayo",
+      "order": 3
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Detective Vera Cruz",
+      "order": 4
+    },
+    {
+      "name": "Carol Kane",
+      "character": "Ms. Sherwood",
+      "order": 5
+    },
+    {
+      "name": "Chad Christ",
+      "character": "Zack Tartak",
+      "order": 6
+    },
+    {
+      "name": "Ethan Erickson",
+      "character": "Dane Sanders",
+      "order": 7
+    },
+    {
+      "name": "Tatyana Ali",
+      "character": "Brenda",
+      "order": 8
+    },
+    {
+      "name": "Charlotte Ayanna",
+      "character": "Liz Purr",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7YrxXoG25hVCK4nYDHQv9YIk3Ye.jpg",
+  "backdrop_path": "/bZ7ZMu8lGuEKmwH5lXRhlJAjYWv.jpg",
+  "budget": 3000000,
+  "revenue": 3100000,
+  "vote_average": 6.4,
+  "vote_count": 573,
+  "imdb_id": "tt0155776",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

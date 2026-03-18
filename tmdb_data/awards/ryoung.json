@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win",
+  "rated": "R",
+  "released": "12 Mar 2000",
+  "runtime": "87 min",
+  "genre": "Drama",
+  "director": "Catherine Jelski",
+  "writer": "Wolfgang Bauer, Catherine Jelski",
+  "actors": "Devon Gummersall, Eion Bailey, Arly Jover",
+  "plot": "A day-in-the-life of Charlie Fox, a brash young commercials director from a troubled, show-biz family. Accompanied by three friends--his unhappy girlfriend Paloma, his party-animal buddy Joe, and a vulnerable newcomer, Cassandra--Charlie rides an emotional rollercoaster all the way from a California dream to a contemporary tragedy.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "43",
+  "imdb_rating": "4.1",
+  "imdb_votes": "214",
+  "box_office": "$59,166",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Young+Unknowns"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/The+Young+Unknowns/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0186719/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0186719/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/146269"
+  }
+}

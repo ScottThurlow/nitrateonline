@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "18 Oct 2002",
+  "runtime": "93 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Ronny Yu",
+  "writer": "Stel Pavlou",
+  "actors": "Samuel L. Jackson, Robert Carlyle, Emily Mortimer",
+  "plot": "Elmo McElroy is a streetwise American master chemist who heads to England to sell his special new formula - a powerful, blue concoction guaranteed to take you to 'the 51st state.' McElroy's new product delivers a feeling 51 times more powerful than any thrill, any pleasure, any high in history. But his plans for a quick, profitable score go comically awry when he gets stuck in Liverpool with an unlikely escort and his ex-girlfriend and becomes entangled in a bizarre web of double-dealing and double-crosses.",
+  "language": "English",
+  "country": "United Kingdom, Canada, United States",
+  "metascore": "23",
+  "imdb_rating": "6.3",
+  "imdb_votes": "52,526",
+  "box_office": "$5,204,007",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "26%",
+      "link": "https://www.rottentomatoes.com/search?search=Formula+51"
+    },
+    {
+      "source": "Metacritic",
+      "value": "23/100",
+      "link": "https://www.metacritic.com/search/Formula+51/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0227984/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0227984/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1613"
+  }
+}

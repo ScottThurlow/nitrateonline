@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 10559,
+  "title": "Frequency",
+  "original_title": "Frequency",
+  "release_date": "2000-04-28",
+  "runtime": 118,
+  "tagline": "The future is listening.",
+  "overview": "When a rare phenomenon gives police officer John Sullivan the chance to speak to his father, 30 years in the past, he takes the opportunity to prevent his dad's tragic death.  After his actions inadvertently give rise to a series of brutal murders he and his father must find a way to fix the consequences of altering time.",
+  "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Family",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gregory Hoblit"
+  ],
+  "writers": [
+    {
+      "name": "Toby Emmerich",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gregory Hoblit",
+      "job": "Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Carraro",
+      "job": "Producer"
+    },
+    {
+      "name": "Hawk Koch",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Saperstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Shaye",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Janis Rothbard Chaskin",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dennis Quaid",
+      "character": "Frank Sullivan",
+      "order": 0
+    },
+    {
+      "name": "Jim Caviezel",
+      "character": "John Sullivan",
+      "order": 1
+    },
+    {
+      "name": "Shawn Doyle",
+      "character": "Jack Shepard",
+      "order": 2
+    },
+    {
+      "name": "Elizabeth Mitchell",
+      "character": "Julia Sullivan",
+      "order": 3
+    },
+    {
+      "name": "Andre Braugher",
+      "character": "Satch DeLeon",
+      "order": 4
+    },
+    {
+      "name": "Noah Emmerich",
+      "character": "Gordo Hersch",
+      "order": 5
+    },
+    {
+      "name": "Melissa Errico",
+      "character": "Samantha Thomas",
+      "order": 6
+    },
+    {
+      "name": "Jordan Bridges",
+      "character": "Graham Gibson",
+      "order": 7
+    },
+    {
+      "name": "Daniel Henson",
+      "character": "Johnny Sullivan (6 Years)",
+      "order": 8
+    },
+    {
+      "name": "Michael Cera",
+      "character": "Gordy Jr. (10 Years)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eu3Hrjj271dnBdNAF0HqfmwWASt.jpg",
+  "backdrop_path": "/hg9fFsZjtw64wworVY5mo45gkh9.jpg",
+  "budget": 31000000,
+  "revenue": 68106245,
+  "vote_average": 7.26,
+  "vote_count": 1960,
+  "imdb_id": "tt0186151",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

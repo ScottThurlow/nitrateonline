@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 2 Oscars. 18 wins & 71 nominations total",
+  "rated": "PG-13",
+  "released": "29 Jun 2001",
+  "runtime": "146 min",
+  "genre": "Adventure, Drama, Sci-Fi",
+  "director": "Steven Spielberg",
+  "writer": "Brian Aldiss, Ian Watson, Steven Spielberg",
+  "actors": "Haley Joel Osment, Jude Law, Frances O'Connor",
+  "plot": "In the not-so-far future the polar ice caps have melted and the resulting rise of the ocean waters has drowned all the coastal cities of the world. Withdrawn to the interior of the continents, the human race keeps advancing, reaching the point of creating realistic robots (called mechas) to serve them. One of the mecha-producing companies builds David, an artificial kid which is the first to have real feelings, especially a never-ending love for his \"mother\", Monica. Monica is the woman who adopted him as a substitute for her real son, who remains in cryo-stasis, stricken by an incurable disease. David is living happily with Monica and her husband, but when their real son returns home after a cure is discovered, his life changes dramatically.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "65",
+  "imdb_rating": "7.2",
+  "imdb_votes": "337,075",
+  "box_office": "$78,616,689",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=A.I.+Artificial+Intelligence"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/A.I.+Artificial+Intelligence/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0212720/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0212720/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/644"
+  }
+}

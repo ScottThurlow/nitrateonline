@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Won 2 Oscars. 8 wins & 30 nominations total",
+  "rated": "PG-13",
+  "released": "07 Jan 2000",
+  "runtime": "126 min",
+  "genre": "Drama, Romance",
+  "director": "Lasse Hallström",
+  "writer": "John Irving",
+  "actors": "Tobey Maguire, Charlize Theron, Michael Caine",
+  "plot": "Homer is an orphan in remote St. Cloud, Maine. Never adopted, he becomes the favorite of orphanage Director Dr. Larch, who imparts his full medical knowledge on Homer, who becomes a skilled, albeit unlicensed, physician. But Homer yearns for a self-chosen life outside the orphanage. When Wally and pregnant Candy visit the orphanage, Dr. Larch provides a medically safe, albeit illegal, abortion, Homer leaves with them to work on Wally's family apple farm. Wally goes off to war, leaving Homer and Candy alone together. What will Homer learn about life and love in the cider house? What of the destiny that Dr. Larch has planned for him?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "75",
+  "imdb_rating": "7.4",
+  "imdb_votes": "109,056",
+  "box_office": "$57,545,092",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Cider+House+Rules"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/The+Cider+House+Rules/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0124315/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0124315/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1715"
+  }
+}

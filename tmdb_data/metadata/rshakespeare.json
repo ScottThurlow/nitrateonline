@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 1934,
+  "title": "Shakespeare in Love",
+  "original_title": "Shakespeare in Love",
+  "release_date": "1998-12-11",
+  "runtime": 124,
+  "tagline": "Love is the only inspiration.",
+  "overview": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love — and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy.",
+  "genres": [
+    "Romance",
+    "History",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Bedford Falls Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Madden"
+  ],
+  "writers": [
+    {
+      "name": "Marc Norman",
+      "job": "Writer"
+    },
+    {
+      "name": "Tom Stoppard",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Edward Zwick",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Producer"
+    },
+    {
+      "name": "David Parfitt",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Norman",
+      "job": "Producer"
+    },
+    {
+      "name": "Donna Gigliotti",
+      "job": "Producer"
+    },
+    {
+      "name": "Julie Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joseph Fiennes",
+      "character": "Will Shakespeare",
+      "order": 0
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Viola De Lesseps",
+      "order": 1
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Philip Henslowe",
+      "order": 2
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Hugh Fennyman",
+      "order": 3
+    },
+    {
+      "name": "Judi Dench",
+      "character": "Queen Elizabeth",
+      "order": 4
+    },
+    {
+      "name": "Imelda Staunton",
+      "character": "Nurse",
+      "order": 5
+    },
+    {
+      "name": "Colin Firth",
+      "character": "Lord Wessex",
+      "order": 6
+    },
+    {
+      "name": "Ben Affleck",
+      "character": "Ned Alleyn",
+      "order": 7
+    },
+    {
+      "name": "Simon Callow",
+      "character": "Tilney",
+      "order": 8
+    },
+    {
+      "name": "Steven Beard",
+      "character": "Makepeace",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+  "backdrop_path": "/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg",
+  "budget": 25000000,
+  "revenue": 289317794,
+  "vote_average": 6.837,
+  "vote_count": 3168,
+  "imdb_id": "tt0138097",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

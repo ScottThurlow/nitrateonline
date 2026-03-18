@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 14484,
+  "title": "Body Shots",
+  "original_title": "Body Shots",
+  "release_date": "1999-10-07",
+  "runtime": 106,
+  "tagline": "Tonight it's for sex. Tomorrow it's for real.",
+  "overview": "The Los Angeles club scene is a place of booze-fueled decadence and debauchery. In a night full of possibilities, eight 20-somethings take to the clubs seeking good times, companionship and maybe a little sex. But in the harsh light of the morning after, their worlds are thrown into a spin of confusion when hungover Sara accuses hard-partying Mike of date rape. Loyalties are tested as each among them is forced to take sides.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Colomby/Keaton Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Michael Cristofer"
+  ],
+  "writers": [
+    {
+      "name": "David McKenna",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harry Colomby",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynn Harris",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Keaton",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Guy Riedel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jennifer Keohane",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jerry O'Connell",
+      "character": "Michael Penorisi",
+      "order": 0
+    },
+    {
+      "name": "Amanda Peet",
+      "character": "Jane Bannister",
+      "order": 1
+    },
+    {
+      "name": "Sean Patrick Flanery",
+      "character": "Rick Hamilton",
+      "order": 2
+    },
+    {
+      "name": "Tara Reid",
+      "character": "Sara Olswang",
+      "order": 3
+    },
+    {
+      "name": "Ron Livingston",
+      "character": "Trent",
+      "order": 4
+    },
+    {
+      "name": "Emily Procter",
+      "character": "Whitney Bryant",
+      "order": 5
+    },
+    {
+      "name": "Joe Basile",
+      "character": "Bartender",
+      "order": 6
+    },
+    {
+      "name": "Scott Burkholder",
+      "character": "Man in Bar",
+      "order": 7
+    },
+    {
+      "name": "Liz Coke",
+      "character": "Girl #2",
+      "order": 8
+    },
+    {
+      "name": "Allison Dunbar",
+      "character": "Girl #3",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1YihuAszdbPMPxK7k46UYLdP1mz.jpg",
+  "backdrop_path": "/3wuouE2sw2ezhiuqF7SpAyLZB3s.jpg",
+  "budget": 0,
+  "revenue": 239894,
+  "vote_average": 4.815,
+  "vote_count": 89,
+  "imdb_id": "tt0172627",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "R18+"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "VM18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R(A)"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

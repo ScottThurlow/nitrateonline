@@ -1,0 +1,187 @@
+{
+  "tmdb_id": 11442,
+  "title": "Halloween: Resurrection",
+  "original_title": "Halloween: Resurrection",
+  "release_date": "2002-07-01",
+  "runtime": 89,
+  "tagline": "Evil finds its way home.",
+  "overview": "Reality programmers at DangerTainment select a group of thrill-seeking teenagers to spend one night in the childhood home of serial killer Michael Myers. Their planned live broadcast turns deadly when Michael decides to crash the party.",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Nightfall Productions",
+      "country": ""
+    },
+    {
+      "name": "Trancas International Films",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rick Rosenthal"
+  ],
+  "writers": [
+    {
+      "name": "Larry Brand",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Larry Brand",
+      "job": "Story"
+    },
+    {
+      "name": "Sean Hood",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Debra Hill",
+      "job": "Characters"
+    },
+    {
+      "name": "John Carpenter",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Moustapha Akkad",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Leahy",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Freeman",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph Rieckermann",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Laurie Strode",
+      "order": 0
+    },
+    {
+      "name": "Brad Loree",
+      "character": "Michael Myers",
+      "order": 1
+    },
+    {
+      "name": "Busta Rhymes",
+      "character": "Freddie Harris",
+      "order": 2
+    },
+    {
+      "name": "Bianca Kajlich",
+      "character": "Sara Moyer",
+      "order": 3
+    },
+    {
+      "name": "Katee Sackhoff",
+      "character": "Jen",
+      "order": 4
+    },
+    {
+      "name": "Thomas Ian Nicholas",
+      "character": "Bill",
+      "order": 5
+    },
+    {
+      "name": "Tyra Banks",
+      "character": "Nora",
+      "order": 6
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "character": "Rudy",
+      "order": 7
+    },
+    {
+      "name": "Ryan Merriman",
+      "character": "Myles Barton",
+      "order": 8
+    },
+    {
+      "name": "Daisy McCrackin",
+      "character": "Donna",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg",
+  "backdrop_path": "/jnSB3v76tGte9lzHS1XLGu75oaT.jpg",
+  "budget": 13000000,
+  "revenue": 37664958,
+  "vote_average": 4.6,
+  "vote_count": 1382,
+  "imdb_id": "tt0220506",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

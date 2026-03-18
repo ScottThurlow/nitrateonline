@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 nominations",
+  "rated": "PG-13",
+  "released": "24 May 2002",
+  "runtime": "115 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Michael Apted",
+  "writer": "Nicholas Kazan",
+  "actors": "Jennifer Lopez, Billy Campbell, Tessa Allen",
+  "plot": "Local waitress Slim Miller discovers that the dream man she married isn't who she thought he was. Slim and her young daughter try to escape (aided by her previous boyfriend), but the now villainous husband pursues her relentlessly. Fearing also for the safety of her daughter, Slim decides that there's only one way out of the marriage: kill him.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "25",
+  "imdb_rating": "5.8",
+  "imdb_votes": "48,805",
+  "box_office": "$40,007,742",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=Enough"
+    },
+    {
+      "source": "Metacritic",
+      "value": "25/100",
+      "link": "https://www.metacritic.com/search/Enough/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0278435/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0278435/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1957"
+  }
+}

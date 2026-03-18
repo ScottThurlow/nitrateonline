@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "16 Jul 1999",
+  "runtime": "82 min",
+  "genre": "Action, Comedy, Horror",
+  "director": "Steve Miner",
+  "writer": "David E. Kelley",
+  "actors": "Bridget Fonda, Bill Pullman, Oliver Platt",
+  "plot": "Shortly after the horrifying underwater attack in Maine's Black Lake, the local Fish and Game officer, Jack Wells, enlists the help of the New York City palaeontologist, Kelly Scott, to investigate. With only a mangled body as their starting point, Jack and Kelly embark on a dangerous mission to find the mysterious creature, as Sheriff Hank Keough, a mythology professor, and an eccentric inhabitant all want to locate the elusive predator first. But, something deadly is lurking beneath the silent pond, and it's already taken a liking to the juicy human flesh. What is the secret of Lake Placid?",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "34",
+  "imdb_rating": "5.8",
+  "imdb_votes": "69,872",
+  "box_office": "$31,770,414",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=Lake+Placid"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/Lake+Placid/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139414/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139414/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9825"
+  }
+}

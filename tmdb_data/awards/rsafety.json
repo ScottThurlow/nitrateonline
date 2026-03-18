@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins & 4 nominations",
+  "rated": "R",
+  "released": "15 Aug 2003",
+  "runtime": "121 min",
+  "genre": "Drama",
+  "director": "Rose Troche",
+  "writer": "A.M. Homes, Rose Troche",
+  "actors": "Glenn Close, Dermot Mulroney, Mary Kay Place",
+  "plot": "A series of overlapping stories about four suburban families dealing with different maladies. Esther Gold's life is consumed by caring for her comatose son; Jim Train is sent into a tailspin when he's passed over for a promotion; Annette Jennings' family is struggling in the wake of her divorce; Helen Christianson is determined to shake up her mundane life.",
+  "language": "English",
+  "country": "United Kingdom, United States, Canada",
+  "metascore": "58",
+  "imdb_rating": "6.5",
+  "imdb_votes": "4,383",
+  "box_office": "$319,299",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Safety+of+Objects"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/The+Safety+of+Objects/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0256359/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0256359/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24186"
+  }
+}

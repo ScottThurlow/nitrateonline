@@ -1,0 +1,48 @@
+{
+  "tmdb_id": 1030095,
+  "title": "Chunhyangjeon",
+  "original_title": "Chunhyangjeon",
+  "release_date": "1994-06-03",
+  "runtime": 120,
+  "tagline": "",
+  "overview": "Based on the Legend of Chunhyang.",
+  "genres": [
+    "Romance",
+    "TV Movie",
+    "History",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Korean"
+  ],
+  "production_companies": [],
+  "director": [],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Kim Hee-seon",
+      "character": "",
+      "order": 0
+    },
+    {
+      "name": "Lee Min-woo",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Jeon Yang-ja",
+      "character": "",
+      "order": 2
+    }
+  ],
+  "poster_path": "/ogi491PowLBNjnZjmWA8kfr8uQ3.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt13918600",
+  "certifications": [],
+  "status": "Released"
+}

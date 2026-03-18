@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 1497961,
+  "title": "William Shakespeare's Titus Andronicus",
+  "original_title": "William Shakespeare's Titus Andronicus",
+  "release_date": "2000-08-26",
+  "runtime": 147,
+  "tagline": "",
+  "overview": "A modern telling of William Shakespeare's darkest drama set against the backdrop of a corporate Rome.",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "South Main Street Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Richard Griffin"
+  ],
+  "writers": [
+    {
+      "name": "Richard Griffin",
+      "job": "Writer"
+    },
+    {
+      "name": "William Shakespeare",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Zoya Pierson",
+      "job": "Producer"
+    },
+    {
+      "name": "Christopher Pierson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nigel Gore",
+      "character": "Titus Andronicus",
+      "order": 0
+    },
+    {
+      "name": "Zoya Pierson",
+      "character": "Tamora",
+      "order": 1
+    },
+    {
+      "name": "John Capalbo",
+      "character": "Lucius Andronicus",
+      "order": 2
+    },
+    {
+      "name": "Chris Perrotti",
+      "character": "Marcus Andronicus",
+      "order": 3
+    },
+    {
+      "name": "Molly Lloyd",
+      "character": "Lavinia Andronicus",
+      "order": 4
+    },
+    {
+      "name": "Kevin Butler",
+      "character": "Aaron, the Moor",
+      "order": 5
+    },
+    {
+      "name": "Christopher Pierson",
+      "character": "Saturninus",
+      "order": 6
+    },
+    {
+      "name": "Kevin Costa",
+      "character": "Bassianus",
+      "order": 7
+    },
+    {
+      "name": "Mark Burson",
+      "character": "Young Lucius",
+      "order": 8
+    },
+    {
+      "name": "Rudy Sanda",
+      "character": "Quintus Andronicus",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mvIq4EnzjHuRFq0aVvz2Y8ufPpL.jpg",
+  "backdrop_path": null,
+  "budget": 12000,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0296898",
+  "certifications": [],
+  "status": "Released"
+}

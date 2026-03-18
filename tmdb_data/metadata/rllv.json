@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 451,
+  "title": "Leaving Las Vegas",
+  "original_title": "Leaving Las Vegas",
+  "release_date": "1995-10-27",
+  "runtime": 111,
+  "tagline": "I love you... The way you are.",
+  "overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Initial Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Lumière Pictures",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Mike Figgis"
+  ],
+  "writers": [
+    {
+      "name": "Mike Figgis",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John O'Brien",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paige Simpson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stuart Regen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Annie Stewart",
+      "job": "Producer"
+    },
+    {
+      "name": "Lila Cazès",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicolas Cage",
+      "character": "Ben Sanderson",
+      "order": 0
+    },
+    {
+      "name": "Elisabeth Shue",
+      "character": "Sera",
+      "order": 1
+    },
+    {
+      "name": "Julian Sands",
+      "character": "Yuri",
+      "order": 2
+    },
+    {
+      "name": "Richard Lewis",
+      "character": "Peter",
+      "order": 3
+    },
+    {
+      "name": "Steven Weber",
+      "character": "Marc Nussbaum",
+      "order": 4
+    },
+    {
+      "name": "Kim Adams",
+      "character": "Sheila",
+      "order": 5
+    },
+    {
+      "name": "Emily Procter",
+      "character": "Debbie",
+      "order": 6
+    },
+    {
+      "name": "Stuart Regen",
+      "character": "Man At Bar",
+      "order": 7
+    },
+    {
+      "name": "Valeria Golino",
+      "character": "Terri",
+      "order": 8
+    },
+    {
+      "name": "Graham Beckel",
+      "character": "L.A. Bartender",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+  "backdrop_path": "/uqYjy4MwB4vZScpUPGdINVaSeTd.jpg",
+  "budget": 3600000,
+  "revenue": 49800000,
+  "vote_average": 7.248,
+  "vote_count": 1612,
+  "imdb_id": "tt0113627",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

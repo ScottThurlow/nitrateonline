@@ -1,0 +1,258 @@
+{
+  "tmdb_id": 1359,
+  "title": "American Psycho",
+  "original_title": "American Psycho",
+  "release_date": "2000-04-13",
+  "runtime": 102,
+  "tagline": "Killer looks.",
+  "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "Cantonese"
+  ],
+  "production_companies": [
+    {
+      "name": "Lionsgate",
+      "country": "US"
+    },
+    {
+      "name": "Pressman Film",
+      "country": "US"
+    },
+    {
+      "name": "Muse Productions",
+      "country": "US"
+    },
+    {
+      "name": "Christian Halsey Solomon Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Mary Harron"
+  ],
+  "writers": [
+    {
+      "name": "Bret Easton Ellis",
+      "job": "Novel"
+    },
+    {
+      "name": "Mary Harron",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Guinevere Turner",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Christian Halsey Solomon",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Hanley",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward R. Pressman",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Paseornek",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeff Sackman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joseph Drake",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "character": "Patrick Bateman",
+      "order": 0
+    },
+    {
+      "name": "Justin Theroux",
+      "character": "Timothy Bryce",
+      "order": 1
+    },
+    {
+      "name": "Josh Lucas",
+      "character": "Craig McDermott",
+      "order": 2
+    },
+    {
+      "name": "Bill Sage",
+      "character": "David Van Patten",
+      "order": 3
+    },
+    {
+      "name": "Chloë Sevigny",
+      "character": "Jean",
+      "order": 4
+    },
+    {
+      "name": "Reese Witherspoon",
+      "character": "Evelyn Williams",
+      "order": 5
+    },
+    {
+      "name": "Samantha Mathis",
+      "character": "Courtney Rawlinson",
+      "order": 6
+    },
+    {
+      "name": "Matt Ross",
+      "character": "Luis Carruthers",
+      "order": 7
+    },
+    {
+      "name": "Jared Leto",
+      "character": "Paul Allen",
+      "order": 8
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Donald Kimball",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+  "backdrop_path": "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+  "budget": 7000000,
+  "revenue": 34269748,
+  "vote_average": 7.4,
+  "vote_count": 12075,
+  "imdb_id": "tt0144084",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R-15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "PE",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

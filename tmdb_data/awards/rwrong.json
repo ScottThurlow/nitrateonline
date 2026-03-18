@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "30 May 2003",
+  "runtime": "84 min",
+  "genre": "Horror, Thriller",
+  "director": "Rob Schmidt",
+  "writer": "Alan B. McElroy",
+  "actors": "Eliza Dushku, Jeremy Sisto, Emmanuelle Chriqui",
+  "plot": "Chris Flynn is driving his car for a job interview in another city. However, an accident with a trunk transporting chemical products blocks the highway and Chris looks for an alternative route through the mountains of West Virginia to accomplish his schedule. Due to a lack of attention, he crashes another car parked in the middle of the road with flat tires. Chris meets a group of five friends, who intended to camp in the forest, and they decide to leave the couple Francine and Evan on the place, while Chris, Jessie, Carly and her fiancé Scott tries to find some help. They find a weird cabin in the middle of nowhere, where three violent cannibalistic mountain men with the appearance of monsters live. The two couples try to escape from the mountain men while chased by them.",
+  "language": "English",
+  "country": "United States, Germany, Canada",
+  "metascore": "32",
+  "imdb_rating": "6.1",
+  "imdb_votes": "144,481",
+  "box_office": "$15,418,790",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Wrong+Turn"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Wrong+Turn/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295700/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295700/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9902"
+  }
+}

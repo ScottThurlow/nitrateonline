@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 nomination total",
+  "rated": "PG",
+  "released": "09 Oct 1998",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama",
+  "director": "Stephen Herek",
+  "writer": "Tom Schulman",
+  "actors": "Eddie Murphy, Jeff Goldblum, Kelly Preston",
+  "plot": "An over-the-top television evangelist finds a way to turn television home shopping into a religious experience, and takes America by storm.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "5.0",
+  "imdb_votes": "21,752",
+  "box_office": "$12,069,719",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "12%",
+      "link": "https://www.rottentomatoes.com/search?search=Holy+Man"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Holy+Man/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120701/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120701/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9713"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations",
+  "rated": "R",
+  "released": "01 Jul 2003",
+  "runtime": "82 min",
+  "genre": "Documentary, Comedy",
+  "director": "Christian Charles",
+  "writer": "N/A",
+  "actors": "Jerry Seinfeld, Chris Rock, Garry Shandling",
+  "plot": "Fresh from the success of his sitcom, comedian Jerry Seinfeld decided to do the unimaginable: he completely retired his stand-up act, electing to start over again by developing entirely new material. \"Comedian\" follows Seinfeld through this process, as he rehearses in front of small comedy club audiences, meets with fellow comics and finally appears before a national audience.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.9",
+  "imdb_votes": "7,346",
+  "box_office": "$2,751,988",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Comedian"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Comedian/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0328962/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0328962/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19973"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 wins & 2 nominations total",
+  "rated": "G",
+  "released": "26 Jul 2000",
+  "runtime": "85 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Britt Allcroft",
+  "writer": "Britt Allcroft, Wilbert Awdry, Rick Siggelkow",
+  "actors": "Alec Baldwin, Cody McMains, Russell Means",
+  "plot": "Mr. Conductor's supply of magic gold dust, which allows him to travel between Shining Time and Thomas's island, is critically low. Unfortunately, he doesn't know how to get more. Meanwhile, Thomas and his engine friends are fending off attacks by the nasty Diesel 10 and his goons. Getting more gold dust will require help from Mr. C's slacker cousin, his new friend Lilly, and her morose grandfather, plus the secret engine he's hidden all these years and couldn't get running.",
+  "language": "English",
+  "country": "United Kingdom, United States, Canada",
+  "metascore": "19",
+  "imdb_rating": "4.2",
+  "imdb_votes": "5,209",
+  "box_office": "$15,933,506",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=Thomas+and+the+Magic+Railroad"
+    },
+    {
+      "source": "Metacritic",
+      "value": "19/100",
+      "link": "https://www.metacritic.com/search/Thomas+and+the+Magic+Railroad/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0205461/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0205461/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16110"
+  }
+}

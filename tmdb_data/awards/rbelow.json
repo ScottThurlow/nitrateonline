@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "18 Oct 2002",
+  "runtime": "105 min",
+  "genre": "Action, Horror, Mystery",
+  "director": "David Twohy",
+  "writer": "Lucas Sussman, Darren Aronofsky, David Twohy",
+  "actors": "Bruce Greenwood, David Crow, Matthew Davis",
+  "plot": "In the dark silence of the sea during World War II, the submarine U.S.S. Tiger Shark prowls on what should be a routine rescue mission. But, for the shell-shocked crew, trapped together in the sub's narrow corridors and constricted spaces, this is about to become a journey into the sensory delusions, mental deceptions and runaway fear that lurk just below the surface of the ocean and deep inside the human psyche.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "55",
+  "imdb_rating": "6.1",
+  "imdb_votes": "25,101",
+  "box_office": "$605,562",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "65%",
+      "link": "https://www.rottentomatoes.com/search?search=Below"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Below/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0276816/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0276816/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12590"
+  }
+}

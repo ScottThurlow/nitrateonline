@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 31094,
+  "title": "Taking Sides",
+  "original_title": "Taking Sides",
+  "release_date": "2002-03-07",
+  "runtime": 108,
+  "tagline": "",
+  "overview": "One of the most spectacular and renowned conductors of the 1930s, Wilhelm Furtwangler's reputation rivaled that of Toscanini's. After the war, he was investigated as part of the Allies' de-Nazification programme. In the bombed-out Berlin of the immediate post-war period, the Allies slowly bring law and order to bear on an occupied Germany. An American major is given the Furtwangler file, and is told to find everything he can and to prosecute the man ruthlessly. Tough and hard-nosed, Major Steve Arnold sets out to investigate a world of which he knows nothing.",
+  "genres": [
+    "Drama",
+    "War",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "German",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Paladin Production S.A.",
+      "country": ""
+    },
+    {
+      "name": "Maecenas Film- und Fernseh GmbH",
+      "country": ""
+    },
+    {
+      "name": "Studio Babelsberg",
+      "country": "DE"
+    },
+    {
+      "name": "Little Big Bear Filmproduktion GmbH",
+      "country": ""
+    },
+    {
+      "name": "MBP",
+      "country": "DE"
+    },
+    {
+      "name": "Satel Film",
+      "country": "AT"
+    },
+    {
+      "name": "Spice Factory",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "István Szabó"
+  ],
+  "writers": [
+    {
+      "name": "Ronald Harwood",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Yves Pasquier",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Harvey Keitel",
+      "character": "Steve Arnold",
+      "order": 0
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "Wilhelm Furtwängler",
+      "order": 1
+    },
+    {
+      "name": "Moritz Bleibtreu",
+      "character": "David Wills",
+      "order": 2
+    },
+    {
+      "name": "R. Lee Ermey",
+      "character": "General Wallace",
+      "order": 3
+    },
+    {
+      "name": "Birgit Minichmayr",
+      "character": "Emmi Straube",
+      "order": 4
+    },
+    {
+      "name": "Ulrich Tukur",
+      "character": "Helmut Rode",
+      "order": 5
+    },
+    {
+      "name": "Oleg Tabakov",
+      "character": "Colonel Dymshitz",
+      "order": 6
+    },
+    {
+      "name": "Hanns Zischler",
+      "character": "Rudolf Werner",
+      "order": 7
+    },
+    {
+      "name": "Armin Rohde",
+      "character": "Schlee",
+      "order": 8
+    },
+    {
+      "name": "Daniel White",
+      "character": "Sergeant Adams",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lRkyqGbJC7omaeKgMid8LQcKsLt.jpg",
+  "backdrop_path": "/tSA7mmUW86GPwkAEDvZ3fo139BG.jpg",
+  "budget": 20000000,
+  "revenue": 0,
+  "vote_average": 6.17,
+  "vote_count": 47,
+  "imdb_id": "tt0260414",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

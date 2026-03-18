@@ -1,0 +1,180 @@
+{
+  "tmdb_id": 1946,
+  "title": "eXistenZ",
+  "original_title": "eXistenZ",
+  "release_date": "1999-04-14",
+  "runtime": 97,
+  "tagline": "Play it. Live it. Kill for it.",
+  "overview": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Serendipity Point Films",
+      "country": "CA"
+    },
+    {
+      "name": "Natural Nylon Entertainment",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "David Cronenberg"
+  ],
+  "writers": [
+    {
+      "name": "David Cronenberg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Cronenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "András Hámori",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Lantos",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Jason Leigh",
+      "character": "Allegra Geller",
+      "order": 0
+    },
+    {
+      "name": "Jude Law",
+      "character": "Ted Pikul",
+      "order": 1
+    },
+    {
+      "name": "Ian Holm",
+      "character": "Kiri Vinokur",
+      "order": 2
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Gas",
+      "order": 3
+    },
+    {
+      "name": "Don McKellar",
+      "character": "Yevgeny Nourish",
+      "order": 4
+    },
+    {
+      "name": "Callum Keith Rennie",
+      "character": "Hugo Carlaw",
+      "order": 5
+    },
+    {
+      "name": "Christopher Eccleston",
+      "character": "Seminar Leader",
+      "order": 6
+    },
+    {
+      "name": "Sarah Polley",
+      "character": "Merle",
+      "order": 7
+    },
+    {
+      "name": "Robert A. Silverman",
+      "character": "D'Arcy Nader",
+      "order": 8
+    },
+    {
+      "name": "Kris Lemche",
+      "character": "Noel Dichter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+  "backdrop_path": "/epmwIWdQLouFJ8yx55quVvgnTKu.jpg",
+  "budget": 15000000,
+  "revenue": 2856712,
+  "vote_average": 6.783,
+  "vote_count": 2131,
+  "imdb_id": "tt0120907",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

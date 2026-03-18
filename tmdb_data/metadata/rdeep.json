@@ -1,0 +1,232 @@
+{
+  "tmdb_id": 8914,
+  "title": "Deep Blue Sea",
+  "original_title": "Deep Blue Sea",
+  "release_date": "1999-07-28",
+  "runtime": 105,
+  "tagline": "Bigger. Smarter. Faster. Meaner.",
+  "overview": "Researchers on the undersea lab Aquatica have genetically altered the brains of captive sharks to develop a cure for Alzheimer's disease. But there's an unexpected side effect: the sharks got smarter, faster, and more dangerous. After a big storm damages their remote research facility, they must fight for their lives.",
+  "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Riche-Ludwig Productions",
+      "country": ""
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Groucho III Film Partnership",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Renny Harlin"
+  ],
+  "writers": [
+    {
+      "name": "Duncan Kennedy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Donna Powers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David L. Snyder",
+      "job": "Original Concept"
+    },
+    {
+      "name": "Wayne Powers",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Akiva Goldsman",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Duncan Henderson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tony Ludwig",
+      "job": "Producer"
+    },
+    {
+      "name": "Don MacBain",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Riche",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Schwartz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Saffron Burrows",
+      "character": "Dr. Susan McAlester",
+      "order": 0
+    },
+    {
+      "name": "Thomas Jane",
+      "character": "Carter Blake",
+      "order": 1
+    },
+    {
+      "name": "LL Cool J",
+      "character": "Preacher",
+      "order": 2
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Russell Franklin",
+      "order": 3
+    },
+    {
+      "name": "Jacqueline McKenzie",
+      "character": "Janice Higgins",
+      "order": 4
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "Tom Scoggins",
+      "order": 5
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "Jim Whitlock",
+      "order": 6
+    },
+    {
+      "name": "Aida Turturro",
+      "character": "Brenda Kerns",
+      "order": 7
+    },
+    {
+      "name": "Cristos",
+      "character": "Boat Captain",
+      "order": 8
+    },
+    {
+      "name": "Daniel Rey",
+      "character": "Helicopter Pilot",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
+  "backdrop_path": "/bdDTda15ZPbNumwkKa9eH9RplIe.jpg",
+  "budget": 60000000,
+  "revenue": 164648231,
+  "vote_average": 5.989,
+  "vote_count": 2609,
+  "imdb_id": "tt0149261",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

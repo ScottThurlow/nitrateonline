@@ -1,0 +1,234 @@
+{
+  "tmdb_id": 954,
+  "title": "Mission: Impossible",
+  "original_title": "Mission: Impossible",
+  "release_date": "1996-05-22",
+  "runtime": 111,
+  "tagline": "Expect the impossible.",
+  "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Czech"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Cruise/Wagner Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brian De Palma"
+  ],
+  "writers": [
+    {
+      "name": "David Koepp",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Towne",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven Zaillian",
+      "job": "Story"
+    },
+    {
+      "name": "Bruce Geller",
+      "job": "Original Series Creator"
+    },
+    {
+      "name": "David Koepp",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Cruise",
+      "job": "Producer"
+    },
+    {
+      "name": "Paula Wagner",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Hitchcock",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "character": "Ethan Hunt",
+      "order": 0
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Jim Phelps",
+      "order": 1
+    },
+    {
+      "name": "Emmanuelle Béart",
+      "character": "Claire",
+      "order": 2
+    },
+    {
+      "name": "Henry Czerny",
+      "character": "Kittridge",
+      "order": 3
+    },
+    {
+      "name": "Jean Reno",
+      "character": "Krieger",
+      "order": 4
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Luther",
+      "order": 5
+    },
+    {
+      "name": "Kristin Scott Thomas",
+      "character": "Sarah Davies",
+      "order": 6
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "character": "Max",
+      "order": 7
+    },
+    {
+      "name": "Ingeborga Dapkūnaitė",
+      "character": "Hannah",
+      "order": 8
+    },
+    {
+      "name": "Valentina Yakunina",
+      "character": "Drunken Female IMF Agent",
+      "order": 9
+    }
+  ],
+  "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+  "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+  "budget": 80000000,
+  "revenue": 457696391,
+  "vote_average": 7.02,
+  "vote_count": 9843,
+  "imdb_id": "tt0117060",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

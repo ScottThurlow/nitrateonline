@@ -1,0 +1,122 @@
+{
+  "tmdb_id": 46989,
+  "title": "Blue Car",
+  "original_title": "Blue Car",
+  "release_date": "2003-04-25",
+  "runtime": 92,
+  "tagline": "Ready or not... the future comes just the same.",
+  "overview": "Meg is a gifted but emotionally scarred 18-year-old who finds solace in writing poetry. Mr. Auster, her English teacher, recognizes her talent and encourages her to enter a national poetry contest. As tension at home escalates and Meg struggles to find a way to get to the poetry finals in Florida, Auster's role in her life becomes increasingly complex.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Peer Oppenheimer Production Inc.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Karen Moncrieff"
+  ],
+  "writers": [
+    {
+      "name": "Karen Moncrieff",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Waters",
+      "job": "Producer"
+    },
+    {
+      "name": "Amy Sommer",
+      "job": "Producer"
+    },
+    {
+      "name": "Peer J. Oppenheimer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Agnes Bruckner",
+      "character": "Megan ‘Meg’ Denning",
+      "order": 0
+    },
+    {
+      "name": "David Strathairn",
+      "character": "Auster",
+      "order": 1
+    },
+    {
+      "name": "Margaret Colin",
+      "character": "Diane",
+      "order": 2
+    },
+    {
+      "name": "Frances Fisher",
+      "character": "Delia",
+      "order": 3
+    },
+    {
+      "name": "A.J. Buckley",
+      "character": "Pat",
+      "order": 4
+    },
+    {
+      "name": "Regan Arnold",
+      "character": "Lily",
+      "order": 5
+    },
+    {
+      "name": "Sarah Buehler",
+      "character": "Georgia",
+      "order": 6
+    },
+    {
+      "name": "Dustin Sterling",
+      "character": "Rob",
+      "order": 7
+    },
+    {
+      "name": "Michael Joseph Thomas Ward",
+      "character": "Dad",
+      "order": 8
+    },
+    {
+      "name": "Wayne Armstrong",
+      "character": "Don",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6xld6dA6rlctR9mUtcVRigZTfu5.jpg",
+  "backdrop_path": "/hpfL1vsEiCsMLd5s9oKxYQtxvuX.jpg",
+  "budget": 1000000,
+  "revenue": 464000,
+  "vote_average": 6.1,
+  "vote_count": 55,
+  "imdb_id": "tt0290145",
+  "certifications": [
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

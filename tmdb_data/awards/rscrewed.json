@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "12 May 2000",
+  "runtime": "81 min",
+  "genre": "Comedy, Crime",
+  "director": "Scott Alexander, Larry Karaszewski",
+  "writer": "Scott Alexander, Larry Karaszewski",
+  "actors": "Norm MacDonald, Dave Chappelle, Elaine Stritch",
+  "plot": "A chauffeur kidnaps his rich boss's dog to hold it for ransom, but when she accidentally gets the dog back, she thinks that it's the chauffeur who's been kidnapped.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "7",
+  "imdb_rating": "5.7",
+  "imdb_votes": "9,917",
+  "box_office": "$7,027,345",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "10%",
+      "link": "https://www.rottentomatoes.com/search?search=Screwed"
+    },
+    {
+      "source": "Metacritic",
+      "value": "7/100",
+      "link": "https://www.metacritic.com/search/Screwed/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0156323/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0156323/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19419"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 9995,
+  "title": "Turn It Up",
+  "original_title": "Turn It Up",
+  "release_date": "2000-09-06",
+  "runtime": 86,
+  "tagline": "How you gonna win?",
+  "overview": "Trying to bootstrap his way out of Brooklyn's mean streets is Diamond, a rap musician. With his long-time pal Gage acting as his manager, he's trying to lay down a demo tape with cut-rate studio time. To pay the bills, he and Gage run drugs for \"Mr. B.\" Inside a week, Diamond's beloved mother dies suddenly, his father appears after an absence of 12 years and wants a relationship, and his girlfriend Kia tells him she's pregnant, asking him if he's ready to be a father. Gage steals $100,000 in a multiple-felony robbery so that Diamond can record a full album, not knowing it's Mr. B's money he's taken. B wants his money, Diamond wants his music, Tia wants an answer.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Paris Brothers",
+      "country": ""
+    },
+    {
+      "name": "MadGuy Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Robert Adetuyi"
+  ],
+  "writers": [
+    {
+      "name": "Robert Adetuyi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ray 'Cory' Daniels",
+      "job": "Story"
+    },
+    {
+      "name": "Chris Hudson",
+      "job": "Story"
+    },
+    {
+      "name": "Kelly Hilaire",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lennox Parris",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Guy Oseary",
+      "job": "Producer"
+    },
+    {
+      "name": "Happy Walters",
+      "job": "Producer"
+    },
+    {
+      "name": "E. Bennett Walsh",
+      "job": "Producer"
+    },
+    {
+      "name": "Lester Parris",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pras Michel",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Ventimiglia",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pras Michel",
+      "character": "Denzel / Diamond",
+      "order": 0
+    },
+    {
+      "name": "Ja Rule",
+      "character": "David 'Gage' Williams",
+      "order": 1
+    },
+    {
+      "name": "Jason Statham",
+      "character": "Mr. B",
+      "order": 2
+    },
+    {
+      "name": "Vondie Curtis-Hall",
+      "character": "Cliff",
+      "order": 3
+    },
+    {
+      "name": "Tamala Jones",
+      "character": "Kia",
+      "order": 4
+    },
+    {
+      "name": "John Ralston",
+      "character": "Mr. White",
+      "order": 5
+    },
+    {
+      "name": "Chris Messina",
+      "character": "Baz",
+      "order": 6
+    },
+    {
+      "name": "Eugene Clark",
+      "character": "Marshall",
+      "order": 7
+    },
+    {
+      "name": "Derwin Jordan",
+      "character": "Seamus",
+      "order": 8
+    },
+    {
+      "name": "Patrice Goodman",
+      "character": "Jane",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1LqMTyQJnI7IfeDjjGRcDh1vv0r.jpg",
+  "backdrop_path": "/9h90ga8OYzcHAVHCuwRuFYQQNm.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.667,
+  "vote_count": 27,
+  "imdb_id": "tt0216772",
+  "certifications": [
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Won 1 Oscar. 18 wins & 23 nominations total",
+  "rated": "R",
+  "released": "05 Oct 2001",
+  "runtime": "122 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Antoine Fuqua",
+  "writer": "David Ayer",
+  "actors": "Denzel Washington, Ethan Hawke, Scott Glenn",
+  "plot": "In Los Angeles, a city where streets are overrun by drug dealers, those who have sworn to uphold the law are breaking them to clean up the streets. Denzel Washington plays L.A.P.D. detective Alonzo Harris, a veteran narcotics officer whose methods of enforcing the law are questionable, if not corrupt. 'Training Day' follows Harris as he trains rookie Jake Hoyt over a 24-hour period. Ethical dilemmas arise for Hoyt as well as the audience as questions present themselves as to whether or not Harris' methodology for ridding the streets of South Central Los Angeles of drugs is right or wrong.",
+  "language": "English, Russian, Spanish, Korean, Greek",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "7.8",
+  "imdb_votes": "512,753",
+  "box_office": "$76,631,907",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=Training+Day"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Training+Day/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139654/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139654/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2034"
+  }
+}

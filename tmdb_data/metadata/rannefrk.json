@@ -1,0 +1,72 @@
+{
+  "tmdb_id": 51352,
+  "title": "Anne Frank Remembered",
+  "original_title": "Anne Frank Remembered",
+  "release_date": "1995-06-08",
+  "runtime": 117,
+  "tagline": "She is perhaps Hitler's best known victim, but what was Anne Frank really like?",
+  "overview": "Using previously unreleased archival material in addition to contemporary interviews, this Academy Award-winning documentary tells the story of the Frank family and presents the first fully-rounded portrait of their brash and free-spirited daughter Anne, perhaps the world's most famous victim of the Holocaust.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Jon Blair"
+  ],
+  "writers": [
+    {
+      "name": "Anne Frank",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jon Blair",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kenneth Branagh",
+      "character": "Narration (voice)",
+      "order": 0
+    },
+    {
+      "name": "Glenn Close",
+      "character": "Diary Readings (voice)",
+      "order": 1
+    },
+    {
+      "name": "Anne Frank",
+      "character": "Self (archival footage)",
+      "order": 2
+    },
+    {
+      "name": "Otto Frank",
+      "character": "Self (archival footage)",
+      "order": 3
+    }
+  ],
+  "poster_path": "/6nyhzrSGimCbdxiY8DEO7kI7xx4.jpg",
+  "backdrop_path": "/yeE0TxjBrOM7j2mSYPSwizsM9bR.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.6,
+  "vote_count": 24,
+  "imdb_id": "tt0112373",
+  "certifications": [
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

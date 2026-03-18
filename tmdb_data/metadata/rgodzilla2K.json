@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 10643,
+  "title": "Godzilla 2000: Millennium",
+  "original_title": "ゴジラ2000 ミレニアム",
+  "release_date": "1999-12-11",
+  "runtime": 107,
+  "tagline": "Witness! A new era of Godzilla!",
+  "overview": "An independent group of researchers called the Godzilla Prediction Network (GPN) actively track Godzilla as he makes landfall in Nemuro.  Matters are further complicated when a giant meteor is discovered in the Ibaragi Prefecture. The mysterious rock begins to levitate as it's true intentions for the world and Godzilla are revealed.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Toho Pictures",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Takao Okawara"
+  ],
+  "writers": [
+    {
+      "name": "Takao Okawara",
+      "job": "Original Story"
+    },
+    {
+      "name": "Hiroshi Kashiwabara",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Wataru Mimura",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Shogo Tomiyama",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Takehiro Murata",
+      "character": "Yuji Shinoda",
+      "order": 0
+    },
+    {
+      "name": "Naomi Nishida",
+      "character": "Yuki Ichinose",
+      "order": 1
+    },
+    {
+      "name": "Mayu Suzuki",
+      "character": "Io Shinoda",
+      "order": 2
+    },
+    {
+      "name": "Hiroshi Abe",
+      "character": "Mitsuo Katagiri",
+      "order": 3
+    },
+    {
+      "name": "Shiro Sano",
+      "character": "Prof. Shiro Miyasaka",
+      "order": 4
+    },
+    {
+      "name": "Takeshi Ōbayashi",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Shirô Namiki",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Sakae Kimura",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Bengal",
+      "character": "",
+      "order": 8
+    },
+    {
+      "name": "Ken'ichi Nagira",
+      "character": "",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7BrjFxV0j5VzZRfVYeYbFXMUweB.jpg",
+  "backdrop_path": "/qrBJKeouFUNaiGVDyHM4VJVNSUY.jpg",
+  "budget": 8300000,
+  "revenue": 25000000,
+  "vote_average": 6.927,
+  "vote_count": 294,
+  "imdb_id": "tt0188640",
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "06 Nov 1998",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Richard LaGravenese",
+  "writer": "Richard LaGravenese",
+  "actors": "Holly Hunter, Danny DeVito, Queen Latifah",
+  "plot": "Judith Nelson quit her medical studies to marry. Years later, her husband, a physician, divorces her to be with another doctor. Deeply frustrated, she now lives alone in her luxury apartment in New York, looking for a new meaning for her life. Pat Francato, the janitor and lift-boy, has a troubled life himself: Gambling debts and the tragic death of his daughter took away all his spirit. One day, he and Judith meet in the right mood and a fragile friendship starts to grow. They can help each other to get on their feet again. But one false move could destroy everything they built so carefully.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "64",
+  "imdb_rating": "6.5",
+  "imdb_votes": "5,176",
+  "box_office": "$12,905,901",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=Living+Out+Loud"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/Living+Out+Loud/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120722/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120722/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/46889"
+  }
+}

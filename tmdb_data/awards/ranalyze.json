@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win total",
+  "rated": "R",
+  "released": "06 Dec 2002",
+  "runtime": "96 min",
+  "genre": "Comedy, Crime",
+  "director": "Harold Ramis",
+  "writer": "Kenneth Lonergan, Peter Tolan, Peter Steinfeld",
+  "actors": "Robert De Niro, Billy Crystal, Lisa Kudrow",
+  "plot": "The mafia's Paul Vitti is back in prison and will need some serious counseling when he gets out. Naturally, he returns to his analyst Dr. Ben Sobel for help and finds that Sobel needs some serious help himself as he has inherited the family practice, as well as an excess stock of stress.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "37",
+  "imdb_rating": "5.9",
+  "imdb_votes": "92,068",
+  "box_office": "$32,130,627",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "26%",
+      "link": "https://www.rottentomatoes.com/search?search=Analyze+That"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/Analyze+That/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0289848/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0289848/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9932"
+  }
+}

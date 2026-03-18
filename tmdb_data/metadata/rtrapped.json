@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 9039,
+  "title": "Trapped",
+  "original_title": "Trapped",
+  "release_date": "2002-09-20",
+  "runtime": 106,
+  "tagline": "It was the perfect plan until she refused to be the perfect victim!",
+  "overview": "When their daughter is abducted by experienced kidnappers, the Jennings turn the tables on their seemingly fool-proof plan.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Senator Film",
+      "country": "DE"
+    },
+    {
+      "name": "Propaganda Films",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Luis Mandoki"
+  ],
+  "writers": [
+    {
+      "name": "Greg Iles",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Greg Iles",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rick Hess",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Glen Ballard",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mimi Polk Gitlin",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Canton",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hanno Huth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Luis Mandoki",
+      "job": "Producer"
+    },
+    {
+      "name": "Neil Canton",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Charlize Theron",
+      "character": "Karen",
+      "order": 0
+    },
+    {
+      "name": "Courtney Love",
+      "character": "Cheryl",
+      "order": 1
+    },
+    {
+      "name": "Stuart Townsend",
+      "character": "Will",
+      "order": 2
+    },
+    {
+      "name": "Kevin Bacon",
+      "character": "Hickey",
+      "order": 3
+    },
+    {
+      "name": "Pruitt Taylor Vince",
+      "character": "Marvin",
+      "order": 4
+    },
+    {
+      "name": "Dakota Fanning",
+      "character": "Abby Jennings",
+      "order": 5
+    },
+    {
+      "name": "Steve Rankin",
+      "character": "Hank Ferris",
+      "order": 6
+    },
+    {
+      "name": "Garry Chalk",
+      "character": "Agent Chalmers",
+      "order": 7
+    },
+    {
+      "name": "Jodie Markell",
+      "character": "Mary McDill",
+      "order": 8
+    },
+    {
+      "name": "Matt Koby",
+      "character": "Peter McDill",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4sujD0KP5O90TXAWrTjqDPBTnfQ.jpg",
+  "backdrop_path": "/fYIXyQnhpGjoCeXDKDpmzKHLZeW.jpg",
+  "budget": 30000000,
+  "revenue": 13414416,
+  "vote_average": 6.162,
+  "vote_count": 607,
+  "imdb_id": "tt0280380",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

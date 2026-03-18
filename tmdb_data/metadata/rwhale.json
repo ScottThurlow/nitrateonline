@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 1088,
+  "title": "Whale Rider",
+  "original_title": "Whale Rider",
+  "release_date": "2003-01-30",
+  "runtime": 101,
+  "tagline": "In the ways of the ancients she found a hope for the future.",
+  "overview": "A contemporary story of love, rejection, and triumph as a young Maori girl fights to fulfill a destiny her grandfather refuses to recognize.",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "spoken_languages": [
+    "Maori",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "South Pacific Pictures",
+      "country": "NZ"
+    },
+    {
+      "name": "Pandora Film",
+      "country": "DE"
+    },
+    {
+      "name": "ApolloMedia",
+      "country": "DE"
+    },
+    {
+      "name": "New Zealand Film Production Fund",
+      "country": ""
+    },
+    {
+      "name": "New Zealand Film Commission",
+      "country": "NZ"
+    },
+    {
+      "name": "NZ on Air",
+      "country": "NZ"
+    },
+    {
+      "name": "Filmstiftung Nordrhein-Westfalen",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Niki Caro"
+  ],
+  "writers": [
+    {
+      "name": "Witi Ihimaera",
+      "job": "Author"
+    },
+    {
+      "name": "Niki Caro",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joan Scheckel",
+      "job": "Script Consultant"
+    },
+    {
+      "name": "Gavin Strawhan",
+      "job": "Script Consultant"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Barnett",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Sanders",
+      "job": "Producer"
+    },
+    {
+      "name": "Frank Hübner",
+      "job": "Producer"
+    },
+    {
+      "name": "Linda Goldstein Knowlton",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Keisha Castle-Hughes",
+      "character": "Paikea Apirana",
+      "order": 0
+    },
+    {
+      "name": "Rawiri Paratene",
+      "character": "Koro",
+      "order": 1
+    },
+    {
+      "name": "Vicky Haughton",
+      "character": "Nanny Flowers",
+      "order": 2
+    },
+    {
+      "name": "Cliff Curtis",
+      "character": "Porourangi",
+      "order": 3
+    },
+    {
+      "name": "Grant Roa",
+      "character": "Uncle Rawiri",
+      "order": 4
+    },
+    {
+      "name": "Mana Taumaunu",
+      "character": "Hemi",
+      "order": 5
+    },
+    {
+      "name": "Rachel House",
+      "character": "Shilo",
+      "order": 6
+    },
+    {
+      "name": "Taungaroa Emile",
+      "character": "Willie",
+      "order": 7
+    },
+    {
+      "name": "Tammy Davis",
+      "character": "Dog",
+      "order": 8
+    },
+    {
+      "name": "Mabel Wharekawa",
+      "character": "Maka",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cVBZQZq091KtwBm2qObOv0JTFcH.jpg",
+  "backdrop_path": "/ppcLeOwKQLzg7BT1spZhaafuGL5.jpg",
+  "budget": 8000000,
+  "revenue": 41400000,
+  "vote_average": 7.051,
+  "vote_count": 438,
+  "imdb_id": "tt0298228",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

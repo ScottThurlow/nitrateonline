@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 6 nominations total",
+  "rated": "PG",
+  "released": "19 Sep 2003",
+  "runtime": "109 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Tim McCanlies",
+  "writer": "Tim McCanlies",
+  "actors": "Haley Joel Osment, Michael Caine, Robert Duvall",
+  "plot": "A boy named Walter is dropped by his mother Mae at his great-uncles' house. Later, Walter will find out his great-uncles' big secret, and rumors say that Hub and Garth, Walter's great-uncles, have stolen a lot of gold and money. (some say they stole it from Al Capone) Did they really steal that money or not?",
+  "language": "English",
+  "country": "United States, United Kingdom, Slovakia",
+  "metascore": "52",
+  "imdb_rating": "7.5",
+  "imdb_votes": "65,828",
+  "box_office": "$42,070,939",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Secondhand+Lions"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Secondhand+Lions/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0327137/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0327137/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13156"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "tmdb_id": 1958,
+  "title": "8 Women",
+  "original_title": "8 femmes",
+  "release_date": "2002-02-06",
+  "runtime": 111,
+  "tagline": "Living in a house full of women can be murder.",
+  "overview": "Eight women gather to celebrate Christmas in a snowbound cottage, only to find the family patriarch dead with a knife in his back. Trapped in the house, every woman becomes a suspect, each having her own motive and secret.",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Fidélité Productions",
+      "country": "FR"
+    },
+    {
+      "name": "France 2 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Mars Films",
+      "country": "FR"
+    },
+    {
+      "name": "BiM Distribuzione",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "François Ozon"
+  ],
+  "writers": [
+    {
+      "name": "François Ozon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Thomas",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Marina de Van",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Missonnier",
+      "job": "Producer"
+    },
+    {
+      "name": "Olivier Delbosc",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Catherine Deneuve",
+      "character": "Gaby",
+      "order": 0
+    },
+    {
+      "name": "Isabelle Huppert",
+      "character": "Augustine",
+      "order": 1
+    },
+    {
+      "name": "Fanny Ardant",
+      "character": "Pierrette",
+      "order": 2
+    },
+    {
+      "name": "Firmine Richard",
+      "character": "Madame Chanel",
+      "order": 3
+    },
+    {
+      "name": "Emmanuelle Béart",
+      "character": "Louise",
+      "order": 4
+    },
+    {
+      "name": "Virginie Ledoyen",
+      "character": "Suzon",
+      "order": 5
+    },
+    {
+      "name": "Ludivine Sagnier",
+      "character": "Catherine",
+      "order": 6
+    },
+    {
+      "name": "Danielle Darrieux",
+      "character": "Mamy",
+      "order": 7
+    },
+    {
+      "name": "Dominique Lamure",
+      "character": "Marcel",
+      "order": 8
+    }
+  ],
+  "poster_path": "/bJu4Gm7NQb2woPiIovrPD5jNWzf.jpg",
+  "backdrop_path": "/6TmdYhlnM7OEITeuzcrX8XVlnp2.jpg",
+  "budget": 8000000,
+  "revenue": 42400000,
+  "vote_average": 6.897,
+  "vote_count": 1055,
+  "imdb_id": "tt0283832",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "K15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

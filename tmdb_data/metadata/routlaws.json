@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 13496,
+  "title": "American Outlaws",
+  "original_title": "American Outlaws",
+  "release_date": "2001-08-17",
+  "runtime": 94,
+  "tagline": "Sometimes the wrong side of the law is the right place to be.",
+  "overview": "When a Midwest town learns that a corrupt railroad baron has captured the deeds to their homesteads without their knowledge, a group of young ranchers join forces to take back what is rightfully theirs. They will become the object of the biggest manhunt in the history of the Old West and, as their fame grows, so will the legend of their leader, a young outlaw by the name of Jesse James.",
+  "genres": [
+    "Western",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Morgan Creek Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Les Mayfield"
+  ],
+  "writers": [
+    {
+      "name": "Roderick Taylor",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Rogers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Roderick Taylor",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan A. Zimbert",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Gerber",
+      "job": "Producer"
+    },
+    {
+      "name": "James G. Robinson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Colin Farrell",
+      "character": "Jesse James",
+      "order": 0
+    },
+    {
+      "name": "Scott Caan",
+      "character": "Cole Younger",
+      "order": 1
+    },
+    {
+      "name": "Ali Larter",
+      "character": "Zerelda \"Zee\" Mimms",
+      "order": 2
+    },
+    {
+      "name": "Gabriel Macht",
+      "character": "Frank James",
+      "order": 3
+    },
+    {
+      "name": "Gregory Smith",
+      "character": "Jim Younger",
+      "order": 4
+    },
+    {
+      "name": "Harris Yulin",
+      "character": "Thaddeus Rains",
+      "order": 5
+    },
+    {
+      "name": "Kathy Bates",
+      "character": "Ma James",
+      "order": 6
+    },
+    {
+      "name": "Timothy Dalton",
+      "character": "Allan Pinkerton",
+      "order": 7
+    },
+    {
+      "name": "Will McCormack",
+      "character": "Bob Younger",
+      "order": 8
+    },
+    {
+      "name": "Ronny Cox",
+      "character": "Doc Mimms",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ov9PIn56yrwvrwOfvVTKplmV0S6.jpg",
+  "backdrop_path": "/6TkIKjHz4UYu2Z1I7tF57Frcz7i.jpg",
+  "budget": 35000000,
+  "revenue": 13678913,
+  "vote_average": 6.0,
+  "vote_count": 274,
+  "imdb_id": "tt0244000",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

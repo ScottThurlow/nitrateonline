@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "18 Feb 2000",
+  "runtime": "91 min",
+  "genre": "Comedy, Mystery",
+  "director": "John Asher",
+  "writer": "Allan Aaron Katz",
+  "actors": "Kirk Douglas, Lauren Bacall, Dan Aykroyd",
+  "plot": "Boxing champion Harry Agensky, the Polish Prince, now an elderly widower and a stroke victim, takes speech lessons and fears confinement in an old age home. He convinces his son Lance and grandson Michael to take him to Reno to look for diamonds he stashed, his payoff when he threw a fight years before. Lance doesn't believe the diamond story but wants a last trip with dad, and all three have father-son issues to work out. After some gambling, they head for a brothel where each needs psychological intervention from a prostitute. Then it's time to find out if the diamonds really exist and if a road trip together can strengthen familial bonds.",
+  "language": "English, Polish, German",
+  "country": "Germany, United States",
+  "metascore": "33",
+  "imdb_rating": "5.5",
+  "imdb_votes": "1,818",
+  "box_office": "$88,428",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "24%",
+      "link": "https://www.rottentomatoes.com/search?search=Diamonds"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/Diamonds/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0167423/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0167423/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/35118"
+  }
+}

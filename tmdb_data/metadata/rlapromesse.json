@@ -1,0 +1,138 @@
+{
+  "tmdb_id": 24183,
+  "title": "La Promesse",
+  "original_title": "La Promesse",
+  "release_date": "1996-08-07",
+  "runtime": 94,
+  "tagline": "",
+  "overview": "Igor, aged 15, and his father Roger deal in housing and peddling illicit labor in the outlying districts of Liege, Belgium. Scams, lies and swindling rule their lives. When one of his father’s illegal workers gets injured on the job and asks Igor to promise to take care of his wife and baby, Igor finds himself at a crossroad. He wants to keep the promise, but the price would be to betray his father.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "French",
+    "Romanian"
+  ],
+  "production_companies": [
+    {
+      "name": "Les Films du Fleuve",
+      "country": "BE"
+    },
+    {
+      "name": "Touza Productions",
+      "country": ""
+    },
+    {
+      "name": "Samsa Film",
+      "country": "LU"
+    },
+    {
+      "name": "RTBF",
+      "country": "BE"
+    }
+  ],
+  "director": [
+    "Jean-Pierre Dardenne",
+    "Luc Dardenne"
+  ],
+  "writers": [
+    {
+      "name": "Jean-Pierre Dardenne",
+      "job": "Writer"
+    },
+    {
+      "name": "Luc Dardenne",
+      "job": "Writer"
+    },
+    {
+      "name": "Alphonse Badolo",
+      "job": "Writer"
+    },
+    {
+      "name": "Leon Michaux",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean-Pierre Dardenne",
+      "job": "Producer"
+    },
+    {
+      "name": "Jacqueline Pierreux",
+      "job": "Producer"
+    },
+    {
+      "name": "Claude Waringo",
+      "job": "Producer"
+    },
+    {
+      "name": "Hassen Daldoul",
+      "job": "Producer"
+    },
+    {
+      "name": "Luc Dardenne",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jérémie Renier",
+      "character": "Igor",
+      "order": 0
+    },
+    {
+      "name": "Olivier Gourmet",
+      "character": "Roger",
+      "order": 1
+    },
+    {
+      "name": "Assita Ouedraogo",
+      "character": "Assita",
+      "order": 2
+    },
+    {
+      "name": "Florian Delain",
+      "character": "Riri",
+      "order": 3
+    },
+    {
+      "name": "Hachemi Haddad",
+      "character": "Nabil",
+      "order": 4
+    },
+    {
+      "name": "Rasmané Ouédraogo",
+      "character": "Amidou",
+      "order": 5
+    },
+    {
+      "name": "Jean-Michel Balthazar",
+      "character": "The Labour Inspector",
+      "order": 6
+    },
+    {
+      "name": "Frédéric Bodson",
+      "character": "The Garage Boss",
+      "order": 7
+    },
+    {
+      "name": "Jean-Paul Dermont",
+      "character": "Muller",
+      "order": 8
+    },
+    {
+      "name": "Alain Holtgen",
+      "character": "The Postman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pmGx73cJ3gVCCli1JAVQOaLbdnY.jpg",
+  "backdrop_path": "/1B5aXOwtCGicwd2gEiH45flqtrW.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.202,
+  "vote_count": 179,
+  "imdb_id": "tt0117398",
+  "status": "Released"
+}

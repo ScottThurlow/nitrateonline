@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "20 Sep 1996",
+  "runtime": "101 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Walter Hill",
+  "writer": "Ryûzô Kikushima, Akira Kurosawa, Walter Hill",
+  "actors": "Bruce Willis, Bruce Dern, William Sanderson",
+  "plot": "John Smith is an amoral gunslinger in the days of Prohibition. On the lam from his latest (unspecified) exploits, he happens upon the town of Jericho, Texas. Actually, calling Jericho a town would be too generous--it has become more like a ghost town, since two warring gangs have 'driven off all the decent folk.' Smith sees this as an opportunity to play both sides off against each other, earning himself a nice piece of change as a hired gun. Despite his strictly avowed mercenary intentions, he finds himself risking his life for his, albeit skewed, sense of honor....",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "44",
+  "imdb_rating": "6.4",
+  "imdb_votes": "63,243",
+  "box_office": "$18,115,927",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=Last+Man+Standing"
+    },
+    {
+      "source": "Metacritic",
+      "value": "44/100",
+      "link": "https://www.metacritic.com/search/Last+Man+Standing/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0116830/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0116830/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9333"
+  }
+}

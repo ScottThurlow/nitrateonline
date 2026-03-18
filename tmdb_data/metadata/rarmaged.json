@@ -1,0 +1,226 @@
+{
+  "tmdb_id": 95,
+  "title": "Armageddon",
+  "original_title": "Armageddon",
+  "release_date": "1998-07-01",
+  "runtime": 151,
+  "tagline": "For love. For honor. For mankind.",
+  "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    },
+    {
+      "name": "Valhalla Motion Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Bay"
+  ],
+  "writers": [
+    {
+      "name": "Jonathan Hensleigh",
+      "job": "Screenplay"
+    },
+    {
+      "name": "J.J. Abrams",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Roy Pool",
+      "job": "Story"
+    },
+    {
+      "name": "Jonathan Hensleigh",
+      "job": "Story"
+    },
+    {
+      "name": "Shane Salerno",
+      "job": "Adaptation"
+    },
+    {
+      "name": "Tony Gilroy",
+      "job": "Adaptation"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Bay",
+      "job": "Producer"
+    },
+    {
+      "name": "Gale Anne Hurd",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Van Wyck",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chad Oman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Hensleigh",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "Harry S. Stamper",
+      "order": 0
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Dan Truman",
+      "order": 1
+    },
+    {
+      "name": "Ben Affleck",
+      "character": "A.J. Frost",
+      "order": 2
+    },
+    {
+      "name": "Liv Tyler",
+      "character": "Grace Stamper",
+      "order": 3
+    },
+    {
+      "name": "Will Patton",
+      "character": "Chick",
+      "order": 4
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "Rockhound",
+      "order": 5
+    },
+    {
+      "name": "William Fichtner",
+      "character": "Colonel Willie Sharp",
+      "order": 6
+    },
+    {
+      "name": "Owen Wilson",
+      "character": "Oscar",
+      "order": 7
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "Bear",
+      "order": 8
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Lev Andropov",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+  "backdrop_path": "/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+  "budget": 140000000,
+  "revenue": 553799566,
+  "vote_average": 6.829,
+  "vote_count": 8454,
+  "imdb_id": "tt0120591",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

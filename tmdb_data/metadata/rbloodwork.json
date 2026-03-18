@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 100024,
+  "title": "Bloodwork",
+  "original_title": "Bloodwork",
+  "release_date": "2012-05-10",
+  "runtime": 100,
+  "tagline": "Not Dying Doesn't Mean You're Alive",
+  "overview": "A couple of college students decide to sign up for pharmaceutical testing of a new allergy drug to make some extra cash for their spring break trip. They quickly discover their two week stay will not be as easy as they first believed and fight to save themselves from the grips of the facility.",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Eric Wostenberg"
+  ],
+  "writers": [
+    {
+      "name": "David Nahmod",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Chesser",
+      "job": "Producer"
+    },
+    {
+      "name": "Karen Glasser",
+      "job": "Producer"
+    },
+    {
+      "name": "Ken Locsmandi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brandon Nutt",
+      "job": "Producer"
+    },
+    {
+      "name": "David S. Ward",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Travis Van Winkle",
+      "character": "Greg",
+      "order": 0
+    },
+    {
+      "name": "Tricia Helfer",
+      "character": "Dr. Wilcox",
+      "order": 1
+    },
+    {
+      "name": "John Bregar",
+      "character": "Rob Jeffries",
+      "order": 2
+    },
+    {
+      "name": "Mircea Monroe",
+      "character": "Stacey",
+      "order": 3
+    },
+    {
+      "name": "Rik Young",
+      "character": "Nigel",
+      "order": 4
+    },
+    {
+      "name": "Amara Zaragoza",
+      "character": "Linnea",
+      "order": 5
+    },
+    {
+      "name": "Joe Pingue",
+      "character": "Aaron",
+      "order": 6
+    },
+    {
+      "name": "Eric Roberts",
+      "character": "Man in Suit",
+      "order": 7
+    },
+    {
+      "name": "James Purcell",
+      "character": "Taylor",
+      "order": 8
+    },
+    {
+      "name": "Yanna McIntosh",
+      "character": "Patricia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3c2sYBoD2WekUy2tPu9i3U0HExa.jpg",
+  "backdrop_path": "/ovIvq4ZrUk2Y7AqveFQI8X5QR1k.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.342,
+  "vote_count": 38,
+  "imdb_id": "tt1562567",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

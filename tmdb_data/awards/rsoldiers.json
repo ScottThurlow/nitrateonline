@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 wins & 5 nominations total",
+  "rated": "R",
+  "released": "01 Mar 2002",
+  "runtime": "138 min",
+  "genre": "Action, Drama, History",
+  "director": "Randall Wallace",
+  "writer": "Harold G. Moore, Joseph Lee Galloway, Randall Wallace",
+  "actors": "Mel Gibson, Madeleine Stowe, Greg Kinnear",
+  "plot": "A telling of the 1st Battalion, 7 Cavalry Regiment, 1st Calvary Division's battle against overwhelming odds in the Ia Drang valley of Vietnam in 1965. Seen through the eyes of the battalion's commander, Lieutenant Colonel Hal Moore (played by Mel Gibson), we see him take command of the battalion and its preparations to go into Vietnam. We also see how the French had, years earlier, been defeated in the same area. The battle was to be the first major engagement between U.S. and N.V.A. forces in South Vietnam, and showed the use of helicopters as mobility providers and assault support aircraft.",
+  "language": "English, Vietnamese, French",
+  "country": "United Kingdom, France, Germany, United States",
+  "metascore": "65",
+  "imdb_rating": "7.2",
+  "imdb_votes": "158,298",
+  "box_office": "$78,122,718",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=We+Were+Soldiers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/We+Were+Soldiers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0277434/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0277434/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10590"
+  }
+}

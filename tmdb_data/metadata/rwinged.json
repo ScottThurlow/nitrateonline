@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 11516,
+  "title": "Winged Migration",
+  "original_title": "Le Peuple migrateur",
+  "release_date": "2001-12-12",
+  "runtime": 89,
+  "tagline": "The amazing odysseys of traveling birds",
+  "overview": "This documentary follows various migratory bird species on their long journeys from their summer homes to the equator and back, covering thousands of miles and navigating by the stars. These arduous treks are crucial for survival, seeking hospitable climates and food sources. Birds face numerous challenges, including crossing oceans and evading predators, illness, and injury. Although migrations are undertaken as a community, birds disperse into family units once they reach their destinations, and every continent is affected by these migrations, hosting migratory bird species at least part of the year.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Galatée Films",
+      "country": "FR"
+    },
+    {
+      "name": "France 2 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "France 3 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Les Productions de la Guéville",
+      "country": "FR"
+    },
+    {
+      "name": "Bac Films",
+      "country": "FR"
+    },
+    {
+      "name": "Pandora Film",
+      "country": "DE"
+    },
+    {
+      "name": "WDR",
+      "country": "DE"
+    },
+    {
+      "name": "Filmstiftung Nordrhein-Westfalen",
+      "country": "DE"
+    },
+    {
+      "name": "JMH Productions",
+      "country": "CH"
+    },
+    {
+      "name": "TSR",
+      "country": "CH"
+    },
+    {
+      "name": "Wanda Visión",
+      "country": "ES"
+    },
+    {
+      "name": "Eyescreen",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Jacques Perrin"
+  ],
+  "writers": [
+    {
+      "name": "Jean Dorst",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jacques Perrin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Valentine Marvel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Valentine Marvel",
+      "job": "Idea"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Christophe Barratier",
+      "job": "Producer"
+    },
+    {
+      "name": "Jacques Perrin",
+      "job": "Producer"
+    },
+    {
+      "name": "Jean De Trégomain",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jacques Perrin",
+      "character": "Narrator (voice)",
+      "order": 0
+    },
+    {
+      "name": "Philippe Labro",
+      "character": "Narrator (voice, English version)",
+      "order": 1
+    }
+  ],
+  "poster_path": "/qjv7cYLSufwf03So0SuRFU7sRxB.jpg",
+  "backdrop_path": "/c8lCUmgvyxfM3oJzbD9bQf8bV02.jpg",
+  "budget": 35866397,
+  "revenue": 20217080,
+  "vote_average": 7.586,
+  "vote_count": 198,
+  "imdb_id": "tt0301727",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

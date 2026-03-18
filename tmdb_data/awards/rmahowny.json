@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 5 nominations",
+  "rated": "R",
+  "released": "25 Sep 2003",
+  "runtime": "104 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Richard Kwietniowski",
+  "writer": "Gary Stephen Ross, Maurice Chauvet",
+  "actors": "Philip Seymour Hoffman, Minnie Driver, John Hurt",
+  "plot": "Dan Mahowny (Philip Seymour Hoffman) was a rising star at the Canadian Imperial Bank of Commerce. At twenty-four, he was Assistant Manager of a major branch in the heart of Toronto's financial district. To his colleagues, he was a workaholic. To his customers, he was astute, decisive, and helpful. To his friends, he was a quiet, but humorous man who enjoyed watching sports on television. To his girlfriend, he was shy but engaging. None of them knew the other side of Dan Mahowny, the side that executed the largest single-handed bank fraud in Canadian history, grossing over ten million dollars in eighteen months to feed his gambling obsession.",
+  "language": "English",
+  "country": "Canada, United Kingdom",
+  "metascore": "70",
+  "imdb_rating": "7.0",
+  "imdb_votes": "14,951",
+  "box_office": "$1,011,871",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=Owning+Mahowny"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Owning+Mahowny/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0285861/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0285861/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15394"
+  }
+}

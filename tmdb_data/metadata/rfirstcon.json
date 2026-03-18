@@ -1,0 +1,193 @@
+{
+  "tmdb_id": 199,
+  "title": "Star Trek: First Contact",
+  "original_title": "Star Trek: First Contact",
+  "release_date": "1996-11-22",
+  "runtime": 111,
+  "tagline": "Resistance is futile.",
+  "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Frakes"
+  ],
+  "writers": [
+    {
+      "name": "Ronald D. Moore",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brannon Braga",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rick Berman",
+      "job": "Story"
+    },
+    {
+      "name": "Brannon Braga",
+      "job": "Story"
+    },
+    {
+      "name": "Ronald D. Moore",
+      "job": "Story"
+    },
+    {
+      "name": "Gene Roddenberry",
+      "job": "Original Series Creator"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marty Hornstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Lauritson",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Berman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patrick Stewart",
+      "character": "Captain Jean-Luc Picard",
+      "order": 0
+    },
+    {
+      "name": "Jonathan Frakes",
+      "character": "Commander William T. Riker",
+      "order": 1
+    },
+    {
+      "name": "Brent Spiner",
+      "character": "Lieutenant Commander Data",
+      "order": 2
+    },
+    {
+      "name": "LeVar Burton",
+      "character": "Lieutenant Commander Geordi La Forge",
+      "order": 3
+    },
+    {
+      "name": "Michael Dorn",
+      "character": "Lieutenant Commander Worf",
+      "order": 4
+    },
+    {
+      "name": "Gates McFadden",
+      "character": "Commander Beverly Crusher",
+      "order": 5
+    },
+    {
+      "name": "Marina Sirtis",
+      "character": "Counselor Deanna Troi",
+      "order": 6
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Dr. Zefram Cochrane",
+      "order": 7
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Lily Sloane",
+      "order": 8
+    },
+    {
+      "name": "Alice Krige",
+      "character": "Borg Queen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+  "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+  "budget": 46000000,
+  "revenue": 146027888,
+  "vote_average": 7.294,
+  "vote_count": 1919,
+  "imdb_id": "tt0117731",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

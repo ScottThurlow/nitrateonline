@@ -1,0 +1,216 @@
+{
+  "tmdb_id": 602,
+  "title": "Independence Day",
+  "original_title": "Independence Day",
+  "release_date": "1996-06-25",
+  "runtime": 145,
+  "tagline": "The question of whether or not we are alone in the universe has been answered.",
+  "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Centropolis Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roland Emmerich"
+  ],
+  "writers": [
+    {
+      "name": "Dean Devlin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Roland Emmerich",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dean Devlin",
+      "job": "Producer"
+    },
+    {
+      "name": "Roland Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ute Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Fay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Will Smith",
+      "character": "Capt. Steven Hiller",
+      "order": 0
+    },
+    {
+      "name": "Bill Pullman",
+      "character": "President Thomas J. Whitmore",
+      "order": 1
+    },
+    {
+      "name": "Jeff Goldblum",
+      "character": "David Levinson",
+      "order": 2
+    },
+    {
+      "name": "Mary McDonnell",
+      "character": "Marilyn Whitmore",
+      "order": 3
+    },
+    {
+      "name": "Judd Hirsch",
+      "character": "Julius Levinson",
+      "order": 4
+    },
+    {
+      "name": "Robert Loggia",
+      "character": "General William Grey",
+      "order": 5
+    },
+    {
+      "name": "Randy Quaid",
+      "character": "Russell Casse",
+      "order": 6
+    },
+    {
+      "name": "Margaret Colin",
+      "character": "Constance Spano",
+      "order": 7
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Albert Nimzicki",
+      "order": 8
+    },
+    {
+      "name": "Harvey Fierstein",
+      "character": "Marty Gilbert",
+      "order": 9
+    }
+  ],
+  "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+  "backdrop_path": "/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+  "budget": 75000000,
+  "revenue": 817400891,
+  "vote_average": 6.9,
+  "vote_count": 10265,
+  "imdb_id": "tt0116629",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

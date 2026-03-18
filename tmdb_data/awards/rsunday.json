@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 1 BAFTA Award19 wins & 23 nominations total",
+  "rated": "R",
+  "released": "19 Apr 2002",
+  "runtime": "111 min",
+  "genre": "Drama, History, War",
+  "director": "Paul Greengrass",
+  "writer": "Paul Greengrass",
+  "actors": "James Nesbitt, Tim Pigott-Smith, Nicholas Farrell",
+  "plot": "Documentary-style drama showing the events that led up to the tragic incident on January 30, 1972 in the Northern Ireland town of Derry when a protest march led by civil rights activist Ivan Cooper was fired upon by British troops, killing 13 protesters and wounding 14 more.",
+  "language": "English",
+  "country": "United Kingdom, Ireland, United States",
+  "metascore": "90",
+  "imdb_rating": "7.6",
+  "imdb_votes": "26,009",
+  "box_office": "$773,228",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Bloody+Sunday"
+    },
+    {
+      "source": "Metacritic",
+      "value": "90/100",
+      "link": "https://www.metacritic.com/search/Bloody+Sunday/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0280491/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0280491/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4107"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "tmdb_id": 10833,
+  "title": "Heartbreakers",
+  "original_title": "Heartbreakers",
+  "release_date": "2001-03-23",
+  "runtime": 123,
+  "tagline": "Meet the mother and daughter who'll love you for richer...and leave you for poorer.",
+  "overview": "Max and Page are a brilliant mother/daughter con team who have their grift down to a fine science. Max targets wealthy, willing men and marries them. Page then seduces them, and Max catches her husband in the act. Then it's off to palimony city and the next easy mark.",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Winchester Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "David Mirkin"
+  ],
+  "writers": [
+    {
+      "name": "Robert Dunn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen Mazur",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Guay",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Irving Ong",
+      "job": "Producer"
+    },
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Smith",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Clayton Townsend",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hadeel Reda",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sigourney Weaver",
+      "character": "Max Conners",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Love Hewitt",
+      "character": "Page Conners",
+      "order": 1
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Jack Withrowe",
+      "order": 2
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "William B. Tensy",
+      "order": 3
+    },
+    {
+      "name": "Ray Liotta",
+      "character": "Dean Cumanno",
+      "order": 4
+    },
+    {
+      "name": "Anne Bancroft",
+      "character": "Gloria Vogal",
+      "order": 5
+    },
+    {
+      "name": "Stacey Travis",
+      "character": "Nurse Gale Grey",
+      "order": 6
+    },
+    {
+      "name": "Jeffrey Jones",
+      "character": "Mr. Appel",
+      "order": 7
+    },
+    {
+      "name": "Nora Dunn",
+      "character": "Miss Madress",
+      "order": 8
+    },
+    {
+      "name": "Sarah Silverman",
+      "character": "Linda",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bwvec0gRMSpLakcPuxe0RWScNv3.jpg",
+  "backdrop_path": "/qQ3aRDQnGmGbtx7OOxKBYyjdLrQ.jpg",
+  "budget": 35000000,
+  "revenue": 57800000,
+  "vote_average": 6.11,
+  "vote_count": 971,
+  "imdb_id": "tt0125022",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

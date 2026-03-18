@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win total",
+  "rated": "PG",
+  "released": "18 Jan 2002",
+  "runtime": "99 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Brian Levant",
+  "writer": "Jim Kouf, Tommy Swerdlow, Michael Goldberg",
+  "actors": "Cuba Gooding Jr., James Coburn, Sisqó",
+  "plot": "When Miami dentist Ted Brooks learns that his birth mother has passed away and that he was named in her will, he travels to Alaska to claim his inheritance. Rather than the large chunk of change that many people would expect, Ted instead receives his mother's pack of rowdy sled dogs and her property. Although the dogs seemingly have it in for Ted, he decides to keep the dogs and race them in the local race, the Arctic Challenge, spiting a mountain man who wants the dogs. What follows is a comedy detailing Ted's adventures in learning to run the sled dogs.",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "29",
+  "imdb_rating": "5.2",
+  "imdb_votes": "29,177",
+  "box_office": "$81,172,560",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "26%",
+      "link": "https://www.rottentomatoes.com/search?search=Snow+Dogs"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/Snow+Dogs/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0281373/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0281373/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11888"
+  }
+}

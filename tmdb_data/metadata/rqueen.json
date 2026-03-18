@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 11979,
+  "title": "Queen of the Damned",
+  "original_title": "Queen of the Damned",
+  "release_date": "2002-02-10",
+  "runtime": 101,
+  "tagline": "The mother of all vampires.",
+  "overview": "Vampire Lestat awakens from his slumber and becomes a rock star. But chaos strikes when his music awakens Akasha, the vampire queen, who may not rest until she makes Lestat her new king.",
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "WV Films LLC",
+      "country": ""
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Material",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Rymer"
+  ],
+  "writers": [
+    {
+      "name": "Scott Abbott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Petroni",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Anne Rice",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jorge Saralegui",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Mason",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bill Gerber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Su Armstrong",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Aaliyah",
+      "character": "Akasha",
+      "order": 0
+    },
+    {
+      "name": "Stuart Townsend",
+      "character": "Lestat de Lioncourt",
+      "order": 1
+    },
+    {
+      "name": "Marguerite Moreau",
+      "character": "Jessica 'Jesse' Reeves",
+      "order": 2
+    },
+    {
+      "name": "Vincent Perez",
+      "character": "Marius de Romanus",
+      "order": 3
+    },
+    {
+      "name": "Paul McGann",
+      "character": "David Talbot",
+      "order": 4
+    },
+    {
+      "name": "Lena Olin",
+      "character": "Maharet",
+      "order": 5
+    },
+    {
+      "name": "Claudia Black",
+      "character": "Pandora",
+      "order": 6
+    },
+    {
+      "name": "Bruce Spence",
+      "character": "Khayman",
+      "order": 7
+    },
+    {
+      "name": "Christian Manon",
+      "character": "Mael",
+      "order": 8
+    },
+    {
+      "name": "Matthew Newton",
+      "character": "Armand",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4MMpvQYgOz8K6lzlIVMXWjLzUPC.jpg",
+  "backdrop_path": "/dHkKPuiPSw9BbfAt1zdEZCuAzTX.jpg",
+  "budget": 35000000,
+  "revenue": 45479110,
+  "vote_average": 6.081,
+  "vote_count": 1146,
+  "imdb_id": "tt0238546",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

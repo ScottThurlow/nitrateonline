@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 21349,
+  "title": "Anywhere but Here",
+  "original_title": "Anywhere but Here",
+  "release_date": "1999-11-12",
+  "runtime": 114,
+  "tagline": "A story of a mother who knows best... and a daughter who knows better.",
+  "overview": "Single mother Adele August is bad with money, and even worse when it comes to making decisions. Her straight-laced daughter, Ann, is a successful high school student with Ivy League aspirations. When Adele decides to pack up and move the two of them from the Midwest to Beverly Hills, Calif., to pursue her dreams of Hollywood success, Ann grows frustrated with her mother's irresponsible and impulsive ways.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Wayne Wang"
+  ],
+  "writers": [
+    {
+      "name": "Mona Simpson",
+      "job": "Writer"
+    },
+    {
+      "name": "Alvin Sargent",
+      "job": "Writer"
+    },
+    {
+      "name": "Mona Simpson",
+      "job": "Book"
+    },
+    {
+      "name": "Alvin Sargent",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ginny Nugent",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurence Mark",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Susan Sarandon",
+      "character": "Adele August",
+      "order": 0
+    },
+    {
+      "name": "Natalie Portman",
+      "character": "Ann August",
+      "order": 1
+    },
+    {
+      "name": "Hart Bochner",
+      "character": "Josh Spritzer",
+      "order": 2
+    },
+    {
+      "name": "Eileen Ryan",
+      "character": "Lillian",
+      "order": 3
+    },
+    {
+      "name": "Ray Baker",
+      "character": "Ted",
+      "order": 4
+    },
+    {
+      "name": "John Diehl",
+      "character": "Jimmy",
+      "order": 5
+    },
+    {
+      "name": "Shawn Hatosy",
+      "character": "Benny",
+      "order": 6
+    },
+    {
+      "name": "Bonnie Bedelia",
+      "character": "Carol",
+      "order": 7
+    },
+    {
+      "name": "Faran Tahir",
+      "character": "Hisham Badir",
+      "order": 8
+    },
+    {
+      "name": "Shishir Kurup",
+      "character": "Hisham Badir (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2DNtxmXkotuaJexU57geTLIPnQf.jpg",
+  "backdrop_path": "/n03FL1Ia88Jq2nV7fz4AJE9utw0.jpg",
+  "budget": 23000000,
+  "revenue": 18653615,
+  "vote_average": 6.061,
+  "vote_count": 294,
+  "imdb_id": "tt0149691",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

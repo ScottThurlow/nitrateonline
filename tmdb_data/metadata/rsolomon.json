@@ -1,0 +1,129 @@
+{
+  "tmdb_id": 81517,
+  "title": "Solomon & Gaenor",
+  "original_title": "Solomon and Gaenor",
+  "release_date": "1999-04-30",
+  "runtime": 105,
+  "tagline": "Their tragedy was to fall in love.",
+  "overview": "A young Jew in 1911 Wales tries to make his living by selling fabrics door to door, but to do so he must hide his nationality. On one of his sales he meets and falls in love with a demure young woman with a strong-willed father and a Jew-hating brother. The two fall in love and she becomes pregnant, but only then does she learn of his ethnic background. When anti-Jewish riots break out, the two are forced to flee and become separated.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Welsh",
+    "Yiddish"
+  ],
+  "production_companies": [
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "September Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Paul Morrison"
+  ],
+  "writers": [
+    {
+      "name": "Paul Morrison",
+      "job": "Writer"
+    },
+    {
+      "name": "Clare Alan",
+      "job": "Script Editor"
+    },
+    {
+      "name": "Gruffudd Jones",
+      "job": "Script Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sheryl Crown",
+      "job": "Producer"
+    },
+    {
+      "name": "David Green",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andy Porter",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ioan Gruffudd",
+      "character": "Solomon Levinsky",
+      "order": 0
+    },
+    {
+      "name": "Nia Roberts",
+      "character": "Gaenor Rees",
+      "order": 1
+    },
+    {
+      "name": "Sue Jones-Davies",
+      "character": "Gwen",
+      "order": 2
+    },
+    {
+      "name": "William Thomas",
+      "character": "Idris Rees",
+      "order": 3
+    },
+    {
+      "name": "Mark Lewis Jones",
+      "character": "Crad Rees",
+      "order": 4
+    },
+    {
+      "name": "Maureen Lipman",
+      "character": "Rezl",
+      "order": 5
+    },
+    {
+      "name": "David Horovitch",
+      "character": "Isaac",
+      "order": 6
+    },
+    {
+      "name": "Steffan Rhodri",
+      "character": "Noah Jones",
+      "order": 7
+    },
+    {
+      "name": "Bethan Ellis Owen",
+      "character": "Bronwen",
+      "order": 8
+    },
+    {
+      "name": "Adam Jenkins",
+      "character": "Thomas",
+      "order": 9
+    }
+  ],
+  "poster_path": "/r6gpjGinYKoJxZyMqXiOGRmDxLZ.jpg",
+  "backdrop_path": "/du8vCvkBBLDJtN8qdU5npmvMxP.jpg",
+  "budget": 0,
+  "revenue": 301754,
+  "vote_average": 5.806,
+  "vote_count": 18,
+  "imdb_id": "tt0181830",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,228 @@
+{
+  "tmdb_id": 10715,
+  "title": "Looney Tunes: Back in Action",
+  "original_title": "Looney Tunes: Back in Action",
+  "release_date": "2003-11-14",
+  "runtime": 92,
+  "tagline": "How do they solve a mystery when they don't have a clue?",
+  "overview": "Fed up with all the attention going to Bugs Bunny, Daffy Duck quits Hollywood, teams up with recently-fired stuntman Damien Drake Jr. and embarks on a round-the-world adventure, along with Bugs and The VP of Warner Bros. Their mission? Find Damien's father, and the missing blue diamond... and stay one step ahead of The Acme Corp., who wants the diamond for their own purposes.",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Goldmann Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Lonely Film Productions",
+      "country": "DE"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Feature Animation",
+      "country": "US"
+    },
+    {
+      "name": "Spring Creek Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Baltimore Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joe Dante"
+  ],
+  "writers": [
+    {
+      "name": "Larry Doyle",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bob Camp",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Chris Aguirre",
+      "job": "Storyboard"
+    },
+    {
+      "name": "John Williamson",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Roger S.H. Schulman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Larry Doyle",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bernie Goldmann",
+      "job": "Producer"
+    },
+    {
+      "name": "Paula Weinstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Christopher DeFaria",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brendan Fraser",
+      "character": "DJ Drake / Tasmanian Devil (voice) / She-Devil (voice) / Self",
+      "order": 0
+    },
+    {
+      "name": "Jenna Elfman",
+      "character": "Kate",
+      "order": 1
+    },
+    {
+      "name": "Steve Martin",
+      "character": "Mr. Chairman",
+      "order": 2
+    },
+    {
+      "name": "Joe Alaskey",
+      "character": "Bugs Bunny-Daffy Duck / Beaky Buzzard / Sylvester / Mama Bear (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jeff Bennett",
+      "character": "Yosemite Sam / Foghorn Leghorn / Nasty Canasta (voice)",
+      "order": 4
+    },
+    {
+      "name": "Timothy Dalton",
+      "character": "Damien Drake",
+      "order": 5
+    },
+    {
+      "name": "Billy West",
+      "character": "Elmer Fudd / Peter Lorre (voice)",
+      "order": 6
+    },
+    {
+      "name": "Heather Locklear",
+      "character": "Dusty Tails",
+      "order": 7
+    },
+    {
+      "name": "Joan Cusack",
+      "character": "Mother",
+      "order": 8
+    },
+    {
+      "name": "Bill Goldberg",
+      "character": "Mr. Smith",
+      "order": 9
+    }
+  ],
+  "poster_path": "/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg",
+  "backdrop_path": "/iZiYzix7sMS0NEWsHURSzHF1wxt.jpg",
+  "budget": 80000000,
+  "revenue": 68500000,
+  "vote_average": 6.358,
+  "vote_count": 1587,
+  "imdb_id": "tt0318155",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "K"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "MX",
+      "rating": "AA"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

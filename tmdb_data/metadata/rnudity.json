@@ -1,0 +1,114 @@
+{
+  "tmdb_id": 251414,
+  "title": "Nudity Required",
+  "original_title": "Nudity Required",
+  "release_date": "1990-12-04",
+  "runtime": 90,
+  "tagline": "Sizzling Action, Adventure, and Comedy",
+  "overview": "Two friends use the casting couch to seduce women while pretending to be movie producers.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Raedon Video",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John T. Bone"
+  ],
+  "writers": [
+    {
+      "name": "Daniel Benton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John T. Bone",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Rubin",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Sirota",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Lavery",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julie Newmar",
+      "character": "Irina",
+      "order": 0
+    },
+    {
+      "name": "Billy Frank",
+      "character": "Buddy",
+      "order": 1
+    },
+    {
+      "name": "Brad Zutaut",
+      "character": "Scammer",
+      "order": 2
+    },
+    {
+      "name": "Troy Donahue",
+      "character": "Jack",
+      "order": 3
+    },
+    {
+      "name": "Eli Rich",
+      "character": "Mick",
+      "order": 4
+    },
+    {
+      "name": "Ty Randolph",
+      "character": "Brenda",
+      "order": 5
+    },
+    {
+      "name": "Pamela Bach-Hasselhoff",
+      "character": "Dee Dee",
+      "order": 6
+    },
+    {
+      "name": "Heidi Paine",
+      "character": "Jane",
+      "order": 7
+    },
+    {
+      "name": "Beano",
+      "character": "Irving",
+      "order": 8
+    },
+    {
+      "name": "Rhonda Gray",
+      "character": "Donna Holiday (as Rhonda Selesnow)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b8viYNajl5lXFBTkRzSdOu2PNpp.jpg",
+  "backdrop_path": "/hHWeqMaeMEZkXmLeAy1nGUIpdS3.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 3.4,
+  "vote_count": 8,
+  "imdb_id": "tt0102565",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

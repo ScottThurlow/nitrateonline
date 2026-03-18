@@ -1,0 +1,178 @@
+{
+  "tmdb_id": 11374,
+  "title": "EDtv",
+  "original_title": "EDtv",
+  "release_date": "1999-03-26",
+  "runtime": 123,
+  "tagline": "The story of a nobody everybody is watching.",
+  "overview": "Video store clerk Ed agrees to have his life filmed by a camera crew for a tv network.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Howard"
+  ],
+  "writers": [
+    {
+      "name": "Sylvie-Katherine Bouchard",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lowell Ganz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Émile Gaudreault",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Babaloo Mandel",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey T. Barabe",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Howard",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Michel Roy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Todd Hallowell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Sadler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Corser",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew McConaughey",
+      "character": "Ed 'Eddie' Pekurny",
+      "order": 0
+    },
+    {
+      "name": "Woody Harrelson",
+      "character": "Ray Pekurny",
+      "order": 1
+    },
+    {
+      "name": "Sally Kirkland",
+      "character": "Jeanette",
+      "order": 2
+    },
+    {
+      "name": "Jenna Elfman",
+      "character": "Shari",
+      "order": 3
+    },
+    {
+      "name": "Martin Landau",
+      "character": "Al",
+      "order": 4
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "character": "Cynthia Topping",
+      "order": 5
+    },
+    {
+      "name": "Rob Reiner",
+      "character": "Mr. Whitaker",
+      "order": 6
+    },
+    {
+      "name": "Dennis Hopper",
+      "character": "Henry 'Hank' Pekurny",
+      "order": 7
+    },
+    {
+      "name": "Elizabeth Hurley",
+      "character": "Jill",
+      "order": 8
+    },
+    {
+      "name": "Adam Goldberg",
+      "character": "John",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xnnjoMONNamGU6ZX6acbcxyOKv1.jpg",
+  "backdrop_path": "/ut0D7P0UGHAmEje50QuFeCIyN3b.jpg",
+  "budget": 80000000,
+  "revenue": 35242897,
+  "vote_average": 6.0,
+  "vote_count": 680,
+  "imdb_id": "tt0131369",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

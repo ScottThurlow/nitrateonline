@@ -2,8 +2,13 @@
 # This file prevents search engine indexing of the legacy archive content
 # Created: March 18, 2026
 
+# Enable Server Side Includes (SSI) - Apache equivalent to ASP server.execute
+Options +Includes
+AddHandler server-parsed .html .htm .shtml
+XBitHack on
+
 # Set X-Robots-Tag header to prevent all search engine indexing
-<FilesMatch "\.(html|htm|php|asp)$">
+<FilesMatch "\.(html|htm|php|asp|shtml)$">
     Header always set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex"
 </FilesMatch>
 
@@ -15,8 +20,24 @@ Header always set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet, notrans
     Header unset X-Robots-Tag
 </Files>
 
+# Handle ASP files for Apache compatibility
+<FilesMatch "\.asp$">
+    # Redirect ASP files to HTML equivalents or show static content
+    # This prevents broken ASP code from displaying
+</FilesMatch>
+
+# ASP to HTML redirects for legacy compatibility
+RewriteEngine On
+RewriteRule ^shop\.asp$ /shop.html [R=302,L]
+RewriteRule ^search/search\.asp$ /search/search.html [R=302,L]
+RewriteRule ^search/query\.asp$ /search/search.html [R=302,L]
+RewriteRule ^mediabar/sky/amazon/Default\.asp$ /mediabar/sky/amazon/default.html [R=302,L]
+
+# Fallback for other ASP files - show archive notice
+RewriteRule ^(.*)\.asp$ /asp-archive-notice.html [R=302,L]
+
 # Set cache control for legacy content
-<FilesMatch "\.(html|htm|css|js|jpg|jpeg|png|gif|ico)$">
+<FilesMatch "\.(html|htm|css|js|jpg|jpeg|png|gif|ico|shtml)$">
     Header always set Cache-Control "public, max-age=86400"
     Header always append Vary "Accept-Encoding"
 </FilesMatch>
@@ -29,6 +50,7 @@ Header always set Referrer-Policy "strict-origin-when-cross-origin"
 # Legacy notification header for debugging
 Header always set X-Nitrate-Branch "legacy"
 Header always set X-Archive-Status "no-index"
+Header always set X-SSI-Enabled "true"
 
 # Error pages
 ErrorDocument 403 /404.html

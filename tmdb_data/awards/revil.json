@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "7 nominations total",
+  "rated": "R",
+  "released": "15 Mar 2002",
+  "runtime": "100 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Paul W.S. Anderson",
+  "writer": "Paul W.S. Anderson",
+  "actors": "Milla Jovovich, Michelle Rodriguez, Ryan McCluskey",
+  "plot": "A virus has escaped in a secret facility called \"The Hive,\" turning the staff into hungry zombies and releasing the mutated Lab \"Animals\" that they were studying. The complex computer shuts down the base to prevent infection. The parent corporation sends in an elite military unit, where they meet Alice, who is suffering from amnesia due to exposure to nerve gas. The military team must shut down the computer and get out, fighting their way past zombies, mutants, and the computer itself, before the virus escapes and infects the rest of the world. Alice must also come to terms with her slowly-returning memories.",
+  "language": "English",
+  "country": "Germany, United Kingdom, France, Japan, United States",
+  "metascore": "35",
+  "imdb_rating": "6.6",
+  "imdb_votes": "307,619",
+  "box_office": "$40,119,709",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Resident+Evil"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/Resident+Evil/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120804/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120804/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1576"
+  }
+}

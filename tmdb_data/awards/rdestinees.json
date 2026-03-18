@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "4 wins & 6 nominations total",
+  "rated": "N/A",
+  "released": "12 Jul 2000",
+  "runtime": "180 min",
+  "genre": "Drama, Romance",
+  "director": "Olivier Assayas",
+  "writer": "Jacques Chardonne, Olivier Assayas, Jacques Fieschi",
+  "actors": "Emmanuelle Béart, Charles Berling, Isabelle Huppert",
+  "plot": "In late nineteenth century Charante, Protestant minister Jean Barnery causes local disquiet when he arranges a separation from his obsessive wife - and more talk when he decides to take her back. By this time he has been drawn to Pauline, niece of a Cognac distiller, and this precipitates him divorcing his wife, settling on her and his daughter the shares he owns in his family's porcelain factory. He resigns the ministry, marries Pauline, and moves to Switzerland and a tranquil life. On the death of his father he agrees to return home to save the factory, knowing the problems it will bring will change his life completely. So it proves, with service in the Great War having a further profound impact on him and those around him.",
+  "language": "French, English",
+  "country": "France, Switzerland",
+  "metascore": "73",
+  "imdb_rating": "6.7",
+  "imdb_votes": "1,410",
+  "box_office": "$230,900",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=Les+Destin%C3%A9es"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Les+Destin%C3%A9es/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0216689/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0216689/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/64310"
+  }
+}

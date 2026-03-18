@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Won 1 Oscar. 49 wins & 63 nominations total",
+  "rated": "G",
+  "released": "30 May 2003",
+  "runtime": "100 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Andrew Stanton, Lee Unkrich",
+  "writer": "Andrew Stanton, Bob Peterson, David Reynolds",
+  "actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+  "plot": "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. While Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour. While the two are searching the ocean far and wide, Nemo and the other sea animals in the dentist's fish tank plot a way to return to the sea to live their lives free again.",
+  "language": "English, Japanese, Russian",
+  "country": "United States, Japan, Australia, Kazakhstan, Armenia",
+  "metascore": "90",
+  "imdb_rating": "8.2",
+  "imdb_votes": "1,196,544",
+  "box_office": "$380,843,261",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "99%",
+      "link": "https://www.rottentomatoes.com/search?search=Finding+Nemo"
+    },
+    {
+      "source": "Metacritic",
+      "value": "90/100",
+      "link": "https://www.metacritic.com/search/Finding+Nemo/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0266543/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0266543/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12"
+  }
+}

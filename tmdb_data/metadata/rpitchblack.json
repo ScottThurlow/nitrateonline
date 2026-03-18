@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 2787,
+  "title": "Pitch Black",
+  "original_title": "Pitch Black",
+  "release_date": "2000-02-18",
+  "runtime": 108,
+  "tagline": "Don't be afraid of the dark. Be afraid of what's in the dark",
+  "overview": "When their ship crash-lands on a remote planet, the marooned passengers soon learn that escaped convict Riddick isn't the only thing they have to fear. Deadly creatures lurk in the shadows, waiting to attack in the dark, and the planet is rapidly plunging into the utter blackness of a total eclipse. With the body count rising, the doomed survivors are forced to turn to Riddick with his eerie eyes to guide them through the darkness to safety. With time running out, there's only one rule: Stay in the light.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Action"
+  ],
+  "spoken_languages": [
+    "Arabic",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Interscope Communications",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Twohy"
+  ],
+  "writers": [
+    {
+      "name": "Jim Wheat",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ken Wheat",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Twohy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian Murray",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Fireball Tim Lawrence",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Ken Wheat",
+      "job": "Story"
+    },
+    {
+      "name": "Jim Wheat",
+      "job": "Story"
+    },
+    {
+      "name": "Jason Brubaker",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Engelman",
+      "job": "Producer"
+    },
+    {
+      "name": "Tony Winley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Kroopf",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vin Diesel",
+      "character": "Richard B. Riddick",
+      "order": 0
+    },
+    {
+      "name": "Radha Mitchell",
+      "character": "Carolyn Fry",
+      "order": 1
+    },
+    {
+      "name": "Cole Hauser",
+      "character": "William J. Johns",
+      "order": 2
+    },
+    {
+      "name": "Lewis Fitz-Gerald",
+      "character": "Paris P. Ogilvie",
+      "order": 3
+    },
+    {
+      "name": "Claudia Black",
+      "character": "Shazza",
+      "order": 4
+    },
+    {
+      "name": "Keith David",
+      "character": "Abu 'Imam' al-Walid",
+      "order": 5
+    },
+    {
+      "name": "Rhiana Griffith",
+      "character": "Jack / Jackie",
+      "order": 6
+    },
+    {
+      "name": "John Moore",
+      "character": "John 'Zeke' Ezekiel",
+      "order": 7
+    },
+    {
+      "name": "Simon Burke",
+      "character": "Greg Owens",
+      "order": 8
+    },
+    {
+      "name": "Les Chantery",
+      "character": "Suleiman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+  "backdrop_path": "/mZGwhwIwYuF0G9XLS8j23dhNfUC.jpg",
+  "budget": 23000000,
+  "revenue": 53187659,
+  "vote_average": 6.858,
+  "vote_count": 4714,
+  "imdb_id": "tt0134847",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "청소년 관람불가"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

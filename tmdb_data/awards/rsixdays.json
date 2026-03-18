@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 5 nominations total",
+  "rated": "PG-13",
+  "released": "12 Jun 1998",
+  "runtime": "102 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Ivan Reitman",
+  "writer": "Michael Browning",
+  "actors": "Harrison Ford, Anne Heche, David Schwimmer",
+  "plot": "Taking a romantic tropical island week off with her boyfriend, an ambitious, decisive New York girl agrees to help her magazine out by covering a story on a neighboring island. The only plane available is piloted by a laid-back heavy drinker with whom she shares a mutual dislike. But she has no choice and he can't refuse the money. When the plane crash-lands on an uninhabited island with little chance of rescue they both wish they had made other arrangements - at least to start with.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "51",
+  "imdb_rating": "5.9",
+  "imdb_votes": "86,273",
+  "box_office": "$74,339,294",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Six+Days+Seven+Nights"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/Six+Days+Seven+Nights/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120828/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120828/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6068"
+  }
+}

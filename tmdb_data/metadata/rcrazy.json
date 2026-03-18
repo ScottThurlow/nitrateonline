@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 10691,
+  "title": "Crazy/Beautiful",
+  "original_title": "Crazy/Beautiful",
+  "release_date": "2001-06-29",
+  "runtime": 99,
+  "tagline": "When it's real. When it's right. Don't let anything stand in your way.",
+  "overview": "At Pacific Palisades High, a poor Latino falls hard for a troubled girl from the affluent neighborhood.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Ufland",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Stockwell"
+  ],
+  "writers": [
+    {
+      "name": "Matt Manfredi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Phil Hay",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rachel Pfeffer",
+      "job": "Producer"
+    },
+    {
+      "name": "Harry J. Ufland",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy Riedel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mary Jane Ufland",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kirsten Dunst",
+      "character": "Nicole Oakley",
+      "order": 0
+    },
+    {
+      "name": "Jay Hernandez",
+      "character": "Carlos Nuñez",
+      "order": 1
+    },
+    {
+      "name": "Bruce Davison",
+      "character": "Tom Oakley",
+      "order": 2
+    },
+    {
+      "name": "Herman Osorio",
+      "character": "Luis",
+      "order": 3
+    },
+    {
+      "name": "Miguel Castro",
+      "character": "Eddie",
+      "order": 4
+    },
+    {
+      "name": "Tommy De La Cruz",
+      "character": "Victor",
+      "order": 5
+    },
+    {
+      "name": "Rolando Molina",
+      "character": "Hector",
+      "order": 6
+    },
+    {
+      "name": "Soledad St. Hilaire",
+      "character": "Mrs. Nuñez",
+      "order": 7
+    },
+    {
+      "name": "Lucinda Jenney",
+      "character": "Courtney Oakley",
+      "order": 8
+    },
+    {
+      "name": "Taryn Manning",
+      "character": "Maddy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1kxn6w6lvKkrhmVxfVqI0cfBmLa.jpg",
+  "backdrop_path": "/zbFG63ineDZdEHHyv7WwASRpOAM.jpg",
+  "budget": 13000000,
+  "revenue": 16929123,
+  "vote_average": 6.62,
+  "vote_count": 384,
+  "imdb_id": "tt0250224",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 18856,
+  "title": "The Invisible Circus",
+  "original_title": "The Invisible Circus",
+  "release_date": "2001-02-23",
+  "runtime": 93,
+  "tagline": "A story of friendship, freedom and fate that could only happen in the Sixties.",
+  "overview": "After learning that her sister, Faith, has committed suicide in Portugal, Phoebe, an 18-year-old hippie, decides to uproot from her San Francisco home to travel to Europe. Phoebe hopes to discover and experience the life that led to her sister's death by retracing her footsteps, which eventually leads to Wolf -- Faith's boyfriend. However, as Phoebe's journey continues, a series of visions of Faith pushes her mind to the brink.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Nicolas Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Fine Line Features",
+      "country": "US"
+    },
+    {
+      "name": "Industry Entertainment Partners",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Adam Brooks"
+  ],
+  "writers": [
+    {
+      "name": "Jennifer Egan",
+      "job": "Novel"
+    },
+    {
+      "name": "Adam Brooks",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Arianna Bocco",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julia Chasman",
+      "job": "Producer"
+    },
+    {
+      "name": "António da Cunha Telles",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Van Rellim",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nick Wechsler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cameron Diaz",
+      "character": "Faith",
+      "order": 0
+    },
+    {
+      "name": "Jordana Brewster",
+      "character": "Phoebe",
+      "order": 1
+    },
+    {
+      "name": "Christopher Eccleston",
+      "character": "Wolf",
+      "order": 2
+    },
+    {
+      "name": "Blythe Danner",
+      "character": "Gail",
+      "order": 3
+    },
+    {
+      "name": "Camilla Belle",
+      "character": "Phoebe, Age 10-12",
+      "order": 4
+    },
+    {
+      "name": "Patrick Bergin",
+      "character": "Gene",
+      "order": 5
+    },
+    {
+      "name": "Isabelle Pasco",
+      "character": "Claire",
+      "order": 6
+    },
+    {
+      "name": "Moritz Bleibtreu",
+      "character": "Eric",
+      "order": 7
+    },
+    {
+      "name": "Philipp Weissert",
+      "character": "Safehouse Leader",
+      "order": 8
+    },
+    {
+      "name": "Nikola Obermann",
+      "character": "Hannah",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fJD7zRuGJ9HbgbmKSTRkKysWhu7.jpg",
+  "backdrop_path": "/iT4Og4CRGXV7gbIpIalMVuSUfFH.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.2,
+  "vote_count": 43,
+  "imdb_id": "tt0178642",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

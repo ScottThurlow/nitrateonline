@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 1619,
+  "title": "The Way of the Gun",
+  "original_title": "The Way of the Gun",
+  "release_date": "2000-09-08",
+  "runtime": 119,
+  "tagline": "Choose your side carefully, because the only way out is the way of the gun.",
+  "overview": "Two criminal drifters without sympathy get more than they bargained for after kidnapping and holding for ransom the surrogate mother of a powerful and shady man.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Aqaba Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Christopher McQuarrie"
+  ],
+  "writers": [
+    {
+      "name": "Christopher McQuarrie",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Lambert Bristol",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kenneth Kokin",
+      "job": "Producer"
+    },
+    {
+      "name": "Russell D. Markowitz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ryan Phillippe",
+      "character": "Mr. Parker",
+      "order": 0
+    },
+    {
+      "name": "Benicio del Toro",
+      "character": "Mr. Longbaugh",
+      "order": 1
+    },
+    {
+      "name": "Juliette Lewis",
+      "character": "Robin",
+      "order": 2
+    },
+    {
+      "name": "Taye Diggs",
+      "character": "Jeffers",
+      "order": 3
+    },
+    {
+      "name": "Nicky Katt",
+      "character": "Obecks",
+      "order": 4
+    },
+    {
+      "name": "Geoffrey Lewis",
+      "character": "Abner Mercer",
+      "order": 5
+    },
+    {
+      "name": "Scott Wilson",
+      "character": "Hale Chidduck",
+      "order": 6
+    },
+    {
+      "name": "Dylan Kussman",
+      "character": "Dr. Allen Painter",
+      "order": 7
+    },
+    {
+      "name": "James Caan",
+      "character": "Joe Sarno",
+      "order": 8
+    },
+    {
+      "name": "Sarah Silverman",
+      "character": "Raving Bitch",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
+  "backdrop_path": "/pW9GDWAlOwHjLrNbar442etuw0m.jpg",
+  "budget": 8500000,
+  "revenue": 19125401,
+  "vote_average": 6.3,
+  "vote_count": 479,
+  "imdb_id": "tt0202677",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,30 @@
+{
+  "year": "2001",
+  "awards": "1 win & 1 nomination",
+  "rated": "R",
+  "released": "04 Apr 2003",
+  "runtime": "97 min",
+  "genre": "Drama, Action, Romance",
+  "director": "Katherine Lindberg",
+  "writer": "Katherine Lindberg",
+  "actors": "Melora Walters, Kris Park, Jamey Sheridan",
+  "plot": "A tragedy that tells the story of murder, sex and redemption against the backdrop of a dead-end town.",
+  "language": "English",
+  "country": "Germany, Spain, United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.4",
+  "imdb_votes": "358",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0276437/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0276437/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/354307"
+  }
+}

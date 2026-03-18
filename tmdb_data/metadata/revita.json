@@ -1,0 +1,52 @@
+{
+  "tmdb_id": 1007935,
+  "title": "Evita: A Grave Without Peace",
+  "original_title": "Evita: Una Tumba Sin Paz",
+  "release_date": "1997-06-22",
+  "runtime": 51,
+  "tagline": "",
+  "overview": "The secret story of Evita Peron's dead body.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_companies": [],
+  "director": [
+    "Tristán Bauer"
+  ],
+  "writers": [
+    {
+      "name": "Miguel Bonasso",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Eva Duarte de Perón",
+      "character": "Herself (Archive)",
+      "order": 0
+    },
+    {
+      "name": "Carlos Riera",
+      "character": "Doctor Ara (voice)",
+      "order": 1
+    },
+    {
+      "name": "Juliet Stevenson",
+      "character": "Narrator",
+      "order": 2
+    }
+  ],
+  "poster_path": "/oJZbuUi6hesT2VFJ3G6MYjk1d3Y.jpg",
+  "backdrop_path": "/dzYrPvDiTfoJtuw99MynfsoYy42.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0217463",
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 13416,
+  "title": "Friday Night Lights",
+  "original_title": "Friday Night Lights",
+  "release_date": "2004-10-08",
+  "runtime": 118,
+  "tagline": "Hope comes alive on Friday nights.",
+  "overview": "A small, turbulent town in Texas obsesses over their high school football team to an unhealthy degree. When the star tailback, Boobie Miles, is seriously injured during the first game of the season, all hope is lost, and the town's dormant social problems begin to flare up. It is left to the inspiring abilities of new coach Gary Gaines to instill in the other team members -- and, by proxy, the town itself -- a sense of self-respect and honor.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Friday Night Lights",
+      "country": "US"
+    },
+    {
+      "name": "MDBF Filmgesellschaft mbH & Company KG",
+      "country": ""
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Berg"
+  ],
+  "writers": [
+    {
+      "name": "David Aaron Cohen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Buzz Bissinger",
+      "job": "Novel"
+    },
+    {
+      "name": "Peter Berg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jim Whitaker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "John Cameron",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Coach Gary Gaines",
+      "order": 0
+    },
+    {
+      "name": "Lucas Black",
+      "character": "Mike Winchell",
+      "order": 1
+    },
+    {
+      "name": "Garrett Hedlund",
+      "character": "Don Billingsley",
+      "order": 2
+    },
+    {
+      "name": "Derek Luke",
+      "character": "Boobie Miles",
+      "order": 3
+    },
+    {
+      "name": "Jay Hernandez",
+      "character": "Brian Chavez",
+      "order": 4
+    },
+    {
+      "name": "Lee Jackson",
+      "character": "Ivory Christian",
+      "order": 5
+    },
+    {
+      "name": "Lee Thompson Young",
+      "character": "Chris Comer",
+      "order": 6
+    },
+    {
+      "name": "Tim McGraw",
+      "character": "Charles Billingsley",
+      "order": 7
+    },
+    {
+      "name": "Grover Coulson",
+      "character": "L.V. Miles",
+      "order": 8
+    },
+    {
+      "name": "Connie Britton",
+      "character": "Sharon Gaines",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+  "backdrop_path": "/dxXhdYuQyuMPX0lCEo6LhCv69Xq.jpg",
+  "budget": 30000000,
+  "revenue": 61255921,
+  "vote_average": 6.902,
+  "vote_count": 619,
+  "imdb_id": "tt0390022",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "9"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

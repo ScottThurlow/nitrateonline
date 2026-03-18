@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "N/A",
+  "rated": "PG",
+  "released": "16 Jan 1998",
+  "runtime": "101 min",
+  "genre": "Adventure, Family, Sci-Fi",
+  "director": "Manny Coto",
+  "writer": "Manny Coto",
+  "actors": "Joseph Mazzello, Joey Simmrin, Alex Daniels",
+  "plot": "Shy seventh-grader Spencer Griffith's life changes when a meteor falls into a local junkyard and he finds a Cybersuit - an exoskeleton with AI from another galaxy. Spencer puts on the Cybersuit and becomes a different kind of person.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.3",
+  "imdb_votes": "3,172",
+  "box_office": "$7,029,025",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=Star+Kid"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120478/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120478/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/54007"
+  }
+}

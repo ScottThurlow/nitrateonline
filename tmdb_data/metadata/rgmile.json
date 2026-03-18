@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 497,
+  "title": "The Green Mile",
+  "original_title": "The Green Mile",
+  "release_date": "1999-12-10",
+  "runtime": 189,
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Darkwoods Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Frank Darabont"
+  ],
+  "writers": [
+    {
+      "name": "Frank Darabont",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen King",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Darabont",
+      "job": "Producer"
+    },
+    {
+      "name": "David Valdes",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "character": "Paul Edgecomb",
+      "order": 0
+    },
+    {
+      "name": "David Morse",
+      "character": "Brutus 'Brutal' Howell",
+      "order": 1
+    },
+    {
+      "name": "Bonnie Hunt",
+      "character": "Jan Edgecomb",
+      "order": 2
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "John Coffey",
+      "order": 3
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Warden Hal Moores",
+      "order": 4
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Eduard Delacroix",
+      "order": 5
+    },
+    {
+      "name": "Graham Greene",
+      "character": "Arlen Bitterbuck",
+      "order": 6
+    },
+    {
+      "name": "Doug Hutchison",
+      "character": "Percy Wetmore",
+      "order": 7
+    },
+    {
+      "name": "Sam Rockwell",
+      "character": "'Wild Bill' Wharton",
+      "order": 8
+    },
+    {
+      "name": "Barry Pepper",
+      "character": "Dean Stanton",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+  "budget": 60000000,
+  "revenue": 286801374,
+  "vote_average": 8.505,
+  "vote_count": 18953,
+  "imdb_id": "tt0120689",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "TW",
+      "rating": "普通級"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

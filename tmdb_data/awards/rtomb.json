@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 wins & 21 nominations total",
+  "rated": "PG-13",
+  "released": "15 Jun 2001",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Simon West",
+  "writer": "Sara B Cooper, Mike Werb, Michael Colleary",
+  "actors": "Angelina Jolie, Jon Voight, Iain Glen",
+  "plot": "The orphaned heiress and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artefact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
+  "language": "English, Central Khmer, Russian, Italian",
+  "country": "United Kingdom, Germany, Japan, United States",
+  "metascore": "33",
+  "imdb_rating": "5.8",
+  "imdb_votes": "229,645",
+  "box_office": "$131,168,070",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "21%",
+      "link": "https://www.rottentomatoes.com/search?search=Lara+Croft%3A+Tomb+Raider"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/Lara+Croft%3A+Tomb+Raider/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0146316/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0146316/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1995"
+  }
+}

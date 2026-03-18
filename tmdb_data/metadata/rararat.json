@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 16351,
+  "title": "Ararat",
+  "original_title": "Ararat",
+  "release_date": "2002-05-20",
+  "runtime": 115,
+  "tagline": "A quest for truth... among lies, deception, and denial.",
+  "overview": "Interrogated by a customs officer, a young man recounts how his life was changed during the making of a film about the Armenian genocide.",
+  "genres": [
+    "Drama",
+    "War",
+    "History"
+  ],
+  "spoken_languages": [
+    "Armenian",
+    "Turkish",
+    "German",
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ego Film Arts",
+      "country": "CA"
+    },
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Serendipity Point Films",
+      "country": "CA"
+    },
+    {
+      "name": "ARP Sélection",
+      "country": "FR"
+    },
+    {
+      "name": "Téléfilm Canada",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Atom Egoyan"
+  ],
+  "writers": [
+    {
+      "name": "Atom Egoyan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Atom Egoyan",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Lantos",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Musselman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Simon Abkarian",
+      "character": "Arshile Gorky",
+      "order": 0
+    },
+    {
+      "name": "Charles Aznavour",
+      "character": "Edward Saroyan",
+      "order": 1
+    },
+    {
+      "name": "Christopher Plummer",
+      "character": "David",
+      "order": 2
+    },
+    {
+      "name": "Arsinée Khanjian",
+      "character": "Ani",
+      "order": 3
+    },
+    {
+      "name": "David Alpay",
+      "character": "Raffi",
+      "order": 4
+    },
+    {
+      "name": "Marie-Josée Croze",
+      "character": "Celia",
+      "order": 5
+    },
+    {
+      "name": "Elias Koteas",
+      "character": "Ali / Jevdet Bay",
+      "order": 6
+    },
+    {
+      "name": "Brent Carver",
+      "character": "Philip",
+      "order": 7
+    },
+    {
+      "name": "Max Morrow",
+      "character": "Tony",
+      "order": 8
+    },
+    {
+      "name": "Christie MacFadyen",
+      "character": "Janet",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kQkn715VQYLIs2nddAUf19Bz5Wj.jpg",
+  "backdrop_path": "/xJZmoX5r5zcvJNbeqBGgdizC0d9.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.08,
+  "vote_count": 94,
+  "imdb_id": "tt0273435",
+  "certifications": [
+    {
+      "country": "GR",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

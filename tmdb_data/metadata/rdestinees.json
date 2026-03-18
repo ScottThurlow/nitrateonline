@@ -1,0 +1,120 @@
+{
+  "tmdb_id": 64310,
+  "title": "Sentimental Destinies",
+  "original_title": "Les Destinées sentimentales",
+  "release_date": "2000-07-12",
+  "runtime": 180,
+  "tagline": "Love is the most rewarding sacrifice",
+  "overview": "In late nineteenth century Charante, Protestant minister Jean Barnery causes local disquiet when he arranges a separation from his obsessive wife. He and his lover keep their love strong as the world changes around them.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Arena Films",
+      "country": "FR"
+    },
+    {
+      "name": "CAB Productions",
+      "country": "CH"
+    },
+    {
+      "name": "TF1 Films Production",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Olivier Assayas"
+  ],
+  "writers": [
+    {
+      "name": "Olivier Assayas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jacques Chardonne",
+      "job": "Novel"
+    },
+    {
+      "name": "Jacques Fieschi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruno Pésery",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emmanuelle Béart",
+      "character": "Pauline Pommerel",
+      "order": 0
+    },
+    {
+      "name": "Charles Berling",
+      "character": "Jean Barnery",
+      "order": 1
+    },
+    {
+      "name": "Isabelle Huppert",
+      "character": "Nathalie Barnery",
+      "order": 2
+    },
+    {
+      "name": "Olivier Perrier",
+      "character": "Philippe Pommerel",
+      "order": 3
+    },
+    {
+      "name": "Dominique Reymond",
+      "character": "Julie Desca",
+      "order": 4
+    },
+    {
+      "name": "André Marcon",
+      "character": "Paul Desca",
+      "order": 5
+    },
+    {
+      "name": "Alexandra London",
+      "character": "Louise Desca",
+      "order": 6
+    },
+    {
+      "name": "Julie Depardieu",
+      "character": "Marcelle",
+      "order": 7
+    },
+    {
+      "name": "Louis-Do de Lencquesaing",
+      "character": "Arthur Pommerel",
+      "order": 8
+    },
+    {
+      "name": "Mia Hansen-Løve",
+      "character": "Aline",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lJfjL4it2LhVQNI66lfKeaLnrri.jpg",
+  "backdrop_path": "/rz1TKlEBiJwAiXFdT4BJDSlElP7.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 28,
+  "imdb_id": "tt0216689",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

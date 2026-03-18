@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 10944,
+  "title": "In the Cut",
+  "original_title": "In the Cut",
+  "release_date": "2003-10-22",
+  "runtime": 119,
+  "tagline": "Everything you know about desire is dead wrong.",
+  "overview": "A New York City writing professor, Frannie Avery, has an affair with a police detective who is investigating the murder of a beautiful young woman in her neighborhood.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Pathe",
+      "country": "GB"
+    },
+    {
+      "name": "Laurie Parker Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jane Campion"
+  ],
+  "writers": [
+    {
+      "name": "Susanna Moore",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Susanna Moore",
+      "job": "Novel"
+    },
+    {
+      "name": "Jane Campion",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stavros Kazantzidis",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "François Ivernel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nicole Kidman",
+      "job": "Producer"
+    },
+    {
+      "name": "Effie Brown",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurie Parker",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Meg Ryan",
+      "character": "Frannie Avery",
+      "order": 0
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Giovanni A. Malloy",
+      "order": 1
+    },
+    {
+      "name": "Jennifer Jason Leigh",
+      "character": "Pauline",
+      "order": 2
+    },
+    {
+      "name": "Nick Damici",
+      "character": "Detective Rodriguez",
+      "order": 3
+    },
+    {
+      "name": "Sharrieff Pugh",
+      "character": "Cornelius Webb",
+      "order": 4
+    },
+    {
+      "name": "Heather Litteer",
+      "character": "Angela Sands",
+      "order": 5
+    },
+    {
+      "name": "Michael Nuccio",
+      "character": "Frannie's Young Father",
+      "order": 6
+    },
+    {
+      "name": "Allison Nega",
+      "character": "Young Father's Fiancee",
+      "order": 7
+    },
+    {
+      "name": "Dominick Aries",
+      "character": "Attentive Husband",
+      "order": 8
+    },
+    {
+      "name": "Susan Gardner",
+      "character": "Perfect Wife",
+      "order": 9
+    }
+  ],
+  "poster_path": "/c8Xg0yc8UQwDXooffBNLLs2BvQH.jpg",
+  "backdrop_path": "/gyE4uE9DAljHSXFTstTSblSLn2C.jpg",
+  "budget": 12000000,
+  "revenue": 23726793,
+  "vote_average": 5.125,
+  "vote_count": 449,
+  "imdb_id": "tt0199626",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

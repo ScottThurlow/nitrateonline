@@ -1,0 +1,254 @@
+{
+  "tmdb_id": 11022,
+  "title": "Narc",
+  "original_title": "Narc",
+  "release_date": "2002-01-14",
+  "runtime": 105,
+  "tagline": "",
+  "overview": "Narcotics Sergeant Nick Tellis, on leave after a trauma, is called back to investigate the murder of fellow undercover operative Michael Calvess, joined by the victim's unpredictable and brutal ex-partner, Henry Oak. Working together in the back alleys of Detroit, Tellis and Oak delve into a dark investigation that leads them to uncover shocking secrets and question the corruption and morality within the department, encountering unorthodox methods and a brutal truth about Calvess's death.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Splendid Film",
+      "country": "DE"
+    },
+    {
+      "name": "Julius R. Nasso Productions",
+      "country": "US"
+    },
+    {
+      "name": "Tiara Blu Films",
+      "country": "US"
+    },
+    {
+      "name": "Cruise/Wagner Productions",
+      "country": "US"
+    },
+    {
+      "name": "Emmett/Furla Films",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Lionsgate",
+      "country": "US"
+    },
+    {
+      "name": "Applecreek Productions",
+      "country": ""
+    },
+    {
+      "name": "Cutting Edge Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Echelon Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joe Carnahan"
+  ],
+  "writers": [
+    {
+      "name": "Joe Carnahan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Block",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Cruise",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ray Liotta",
+      "job": "Producer"
+    },
+    {
+      "name": "Diane Nabatoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Julius R. Nasso",
+      "job": "Producer"
+    },
+    {
+      "name": "Michelle Grace",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Z. Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "George Furla",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeff G. Waxman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David C. Glasser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott G. Stone",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paula Wagner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Randall Emmett",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Patric",
+      "character": "Det. Sgt. Nick Tellis",
+      "order": 0
+    },
+    {
+      "name": "Ray Liotta",
+      "character": "Det. Lt. Henry Oak",
+      "order": 1
+    },
+    {
+      "name": "Chi McBride",
+      "character": "Cpt. Mitchell Cheevers",
+      "order": 2
+    },
+    {
+      "name": "Krista Bridges",
+      "character": "Audrey Tellis",
+      "order": 3
+    },
+    {
+      "name": "John Ortiz",
+      "character": "Octavio Ruiz",
+      "order": 4
+    },
+    {
+      "name": "Busta Rhymes",
+      "character": "Darnell 'Big D Love' Beery",
+      "order": 5
+    },
+    {
+      "name": "Richard Chevolleau",
+      "character": "Latroy Steeds",
+      "order": 6
+    },
+    {
+      "name": "Alan van Sprang",
+      "character": "Michael Calvess",
+      "order": 7
+    },
+    {
+      "name": "Anne Openshaw",
+      "character": "Kathryn Calvess",
+      "order": 8
+    },
+    {
+      "name": "Tony De Santis",
+      "character": "Medical Examiner Art Harlan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uGHFyVdMQKvIXlsLAoXa5nOUGF.jpg",
+  "backdrop_path": "/lu1eTRsyZztMmfR5Q30k2jFPMri.jpg",
+  "budget": 6500000,
+  "revenue": 12633747,
+  "vote_average": 6.784,
+  "vote_count": 578,
+  "imdb_id": "tt0272207",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "PG-12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 102933,
+  "title": "Things Behind the Sun",
+  "original_title": "Things Behind the Sun",
+  "release_date": "2001-10-12",
+  "runtime": 120,
+  "tagline": "Sex, drugs and a lost soul.",
+  "overview": "A young music journalist's dark memories are awakened when he goes to interview a female rock singer, and both are forced to confront troubling secrets from their pasts.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Sidekick Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Echo Lake Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Allison Anders"
+  ],
+  "writers": [
+    {
+      "name": "Allison Anders",
+      "job": "Writer"
+    },
+    {
+      "name": "Kurt Voss",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marla Grossman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Doug Mankoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Robin Alper",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barkin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Daniel Hassid",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph Rice",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Wetherell",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kim Dickens",
+      "character": "Sherry",
+      "order": 0
+    },
+    {
+      "name": "Gabriel Mann",
+      "character": "Owen",
+      "order": 1
+    },
+    {
+      "name": "Alison Folland",
+      "character": "Lulu",
+      "order": 2
+    },
+    {
+      "name": "Elizabeth Peña",
+      "character": "Carmen",
+      "order": 3
+    },
+    {
+      "name": "Patsy Kensit",
+      "character": "Denise",
+      "order": 4
+    },
+    {
+      "name": "CCH Pounder",
+      "character": "Judge",
+      "order": 5
+    },
+    {
+      "name": "Brittany Finamore",
+      "character": "Young Sherry",
+      "order": 6
+    },
+    {
+      "name": "Owen Butler",
+      "character": "Young Owen",
+      "order": 7
+    },
+    {
+      "name": "Justin DePrume",
+      "character": "Young Dan",
+      "order": 8
+    },
+    {
+      "name": "Shawn Reaves",
+      "character": "Tex",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7x1OE6QsxlLQfCz5D1q4olCkb5g.jpg",
+  "backdrop_path": "/f4jkzl52iQ3hW2jdaR03JQsmhkB.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 22,
+  "imdb_id": "tt0245501",
+  "certifications": [],
+  "status": "Released"
+}

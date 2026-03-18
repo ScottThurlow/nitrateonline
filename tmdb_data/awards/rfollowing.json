@@ -1,0 +1,30 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "08 Aug 2001",
+  "runtime": "125 min",
+  "genre": "Comedy",
+  "director": "Saeed Hamed",
+  "writer": "Mohamed Amin",
+  "actors": "Mohamed Henedi, Hanan Turk, Lotfy Labib",
+  "plot": "Nader saif eldeen and Afet elsherbiny are two competing Egyptians newspaper reporters who expose the truth but the Channel Manager rejects that for fear of government.",
+  "language": "Arabic",
+  "country": "Egypt",
+  "metascore": "N/A",
+  "imdb_rating": "6.1",
+  "imdb_votes": "2,115",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0419765/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0419765/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/407215"
+  }
+}

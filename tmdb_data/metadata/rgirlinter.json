@@ -1,0 +1,190 @@
+{
+  "tmdb_id": 3558,
+  "title": "Girl, Interrupted",
+  "original_title": "Girl, Interrupted",
+  "release_date": "1999-12-21",
+  "runtime": 127,
+  "tagline": "Sometimes the only way to stay sane is to go a little crazy.",
+  "overview": "Set in the changing world of the late 1960s, Susanna Kaysen's prescribed \"short rest\" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Red Wagon Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Mangold"
+  ],
+  "writers": [
+    {
+      "name": "Susanna Kaysen",
+      "job": "Novel"
+    },
+    {
+      "name": "Lisa Loomer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Anna Hamilton Phelan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Mangold",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Douglas Wick",
+      "job": "Producer"
+    },
+    {
+      "name": "Cathy Konrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Carol Bodie",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Winona Ryder",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Winona Ryder",
+      "character": "Susanna",
+      "order": 0
+    },
+    {
+      "name": "Angelina Jolie",
+      "character": "Lisa",
+      "order": 1
+    },
+    {
+      "name": "Clea DuVall",
+      "character": "Georgina",
+      "order": 2
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Daisy",
+      "order": 3
+    },
+    {
+      "name": "Elisabeth Moss",
+      "character": "Polly",
+      "order": 4
+    },
+    {
+      "name": "Jared Leto",
+      "character": "Tobias Jacobs",
+      "order": 5
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "character": "Dr. Potts",
+      "order": 6
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "character": "Dr. Wick",
+      "order": 7
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "character": "Valerie",
+      "order": 8
+    },
+    {
+      "name": "Angela Bettis",
+      "character": "Janet",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+  "backdrop_path": "/gXwHuUad6Z7tBkGT0j6nGuLkyrx.jpg",
+  "budget": 40000000,
+  "revenue": 48350205,
+  "vote_average": 7.565,
+  "vote_count": 4095,
+  "imdb_id": "tt0172493",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

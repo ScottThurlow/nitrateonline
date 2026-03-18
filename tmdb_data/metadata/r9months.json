@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 11472,
+  "title": "Nine Months",
+  "original_title": "Nine Months",
+  "release_date": "1995-07-12",
+  "runtime": 103,
+  "tagline": "Ready or Not.",
+  "overview": "When he finds out his longtime girlfriend is pregnant, a commitment-phobe realizes he might have to change his lifestyle for better or much, much worse.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "1492 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chris Columbus"
+  ],
+  "writers": [
+    {
+      "name": "Chris Columbus",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Patrick Braoudé",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Columbus",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Barnathan",
+      "job": "Producer"
+    },
+    {
+      "name": "Anne François",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Radcliffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Joan Bradshaw",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Lambert",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hugh Grant",
+      "character": "Samuel Faulkner",
+      "order": 0
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Rebecca Taylor",
+      "order": 1
+    },
+    {
+      "name": "Tom Arnold",
+      "character": "Marty Dwyer",
+      "order": 2
+    },
+    {
+      "name": "Joan Cusack",
+      "character": "Gail Dwyer",
+      "order": 3
+    },
+    {
+      "name": "Jeff Goldblum",
+      "character": "Sean Fletcher",
+      "order": 4
+    },
+    {
+      "name": "Robin Williams",
+      "character": "Dr. Kosevich",
+      "order": 5
+    },
+    {
+      "name": "Mia Cottet",
+      "character": "Lili",
+      "order": 6
+    },
+    {
+      "name": "Joey Simmrin",
+      "character": "Truman",
+      "order": 7
+    },
+    {
+      "name": "Ashley Johnson",
+      "character": "Shannon Dwyer",
+      "order": 8
+    },
+    {
+      "name": "Alexa PenaVega",
+      "character": "Molly Dwyer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/y3VwPenHpiuIGb0fhgyt7PXZKLB.jpg",
+  "backdrop_path": "/4snl08qYXCUti8JBD2qeCV5kktX.jpg",
+  "budget": 35000000,
+  "revenue": 138500000,
+  "vote_average": 5.716,
+  "vote_count": 697,
+  "imdb_id": "tt0113986",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

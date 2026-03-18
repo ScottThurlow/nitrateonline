@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 45712,
+  "title": "Gloria",
+  "original_title": "Gloria",
+  "release_date": "1999-01-22",
+  "runtime": 108,
+  "tagline": "Gloria. Big mouth. Big attitude. But who knew she had a big heart.",
+  "overview": "After serving a prison term for her boyfriend, a streetwise, middle-aged moll named Gloria stands up against the mobs, which is complicated by a six-year-old urchin with a will of his own, whom she reluctantly takes under her wing after his family has been gunned down.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mandalay Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Eagle Point Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Sidney Lumet"
+  ],
+  "writers": [
+    {
+      "name": "Steve Antin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Cassavetes",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lee Rich",
+      "job": "Producer"
+    },
+    {
+      "name": "Chuck Binder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "G. Mac Brown",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sharon Stone",
+      "character": "Gloria",
+      "order": 0
+    },
+    {
+      "name": "Jeremy Northam",
+      "character": "Kevin",
+      "order": 1
+    },
+    {
+      "name": "Cathy Moriarty",
+      "character": "Diane",
+      "order": 2
+    },
+    {
+      "name": "Jean-Luke Figueroa",
+      "character": "Nicky",
+      "order": 3
+    },
+    {
+      "name": "Mike Starr",
+      "character": "Sean",
+      "order": 4
+    },
+    {
+      "name": "George C. Scott",
+      "character": "Ruby",
+      "order": 5
+    },
+    {
+      "name": "Bobby Cannavale",
+      "character": "Jack",
+      "order": 6
+    },
+    {
+      "name": "Bonnie Bedelia",
+      "character": "Brenda",
+      "order": 7
+    },
+    {
+      "name": "Barry McEvoy",
+      "character": "Terry",
+      "order": 8
+    },
+    {
+      "name": "Sarita Choudhury",
+      "character": "Angela",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1AKAfnT3nm7asU9qyNT6gtS1vbe.jpg",
+  "backdrop_path": "/6rlOgCIxCuJj1cmlPcaBekgQuRb.jpg",
+  "budget": 30000000,
+  "revenue": 4197729,
+  "vote_average": 5.754,
+  "vote_count": 128,
+  "imdb_id": "tt0120683",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

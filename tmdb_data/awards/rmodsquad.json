@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "7 nominations total",
+  "rated": "R",
+  "released": "26 Mar 1999",
+  "runtime": "92 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Scott Silver",
+  "writer": "Buddy Ruskin, Stephen Kay, Scott Silver",
+  "actors": "Claire Danes, Omar Epps, Giovanni Ribisi",
+  "plot": "Three minor delinquints (Danes, Ribisi, and Epps) are recruited by a cop (Farina) working undercover to bust a cop/drug ring. When the officer who recruited them is killed, they go above and beyond the call of duty to solve the murder; and bust the drug ring. Suffering the jibes, and ridicule of fellow officers; they struggle to save their names, and that of their deceased benefactor.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "16",
+  "imdb_rating": "4.3",
+  "imdb_votes": "9,785",
+  "box_office": "$13,263,993",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "3%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Mod+Squad"
+    },
+    {
+      "source": "Metacritic",
+      "value": "16/100",
+      "link": "https://www.metacritic.com/search/The+Mod+Squad/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120757/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120757/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16379"
+  }
+}

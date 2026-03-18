@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 1584,
+  "title": "School of Rock",
+  "original_title": "School of Rock",
+  "release_date": "2003-10-03",
+  "runtime": 110,
+  "tagline": "He just landed the gig of his life: 5th grade.",
+  "overview": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his straight-A students the finer points of rock 'n' roll and the power of sticking it to the man. But as the school’s stern principal closes in and the Battle of the Bands looms, Dewey risks everything to prove that rock ’n’ roll can change lives.",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Richard Linklater"
+  ],
+  "writers": [
+    {
+      "name": "Mike White",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Aversano",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Nicolaides",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jack Black",
+      "character": "Dewey Finn",
+      "order": 0
+    },
+    {
+      "name": "Joan Cusack",
+      "character": "Rosalie Mullins",
+      "order": 1
+    },
+    {
+      "name": "Mike White",
+      "character": "Ned Schneebly",
+      "order": 2
+    },
+    {
+      "name": "Sarah Silverman",
+      "character": "Patty Di Marco",
+      "order": 3
+    },
+    {
+      "name": "Miranda Cosgrove",
+      "character": "Summer Hathaway",
+      "order": 4
+    },
+    {
+      "name": "Joey Gaydos Jr.",
+      "character": "Zack",
+      "order": 5
+    },
+    {
+      "name": "Kevin Alexander Clark",
+      "character": "Freddy Jones",
+      "order": 6
+    },
+    {
+      "name": "Rivkah Reyes",
+      "character": "Katie",
+      "order": 7
+    },
+    {
+      "name": "Robert Tsai",
+      "character": "Lawrence",
+      "order": 8
+    },
+    {
+      "name": "Maryam Hassan",
+      "character": "Tomika",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+  "backdrop_path": "/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
+  "budget": 35000000,
+  "revenue": 131100000,
+  "vote_average": 7.082,
+  "vote_count": 6080,
+  "imdb_id": "tt0332379",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "10"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

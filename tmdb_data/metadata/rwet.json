@@ -1,0 +1,134 @@
+{
+  "tmdb_id": 2171,
+  "title": "Wet Hot American Summer",
+  "original_title": "Wet Hot American Summer",
+  "release_date": "2001-07-27",
+  "runtime": 97,
+  "tagline": "High times. Hard bodies. Soft rock.",
+  "overview": "The setting is Camp Firewood, the year 1981. It's the last day before everyone goes back to the real world, but there's still a summer's worth of unfinished business to resolve. At the center of the action is camp director Beth, who struggles to keep order while she falls in love with the local astrophysics professor. He is busy trying to save the camp from a deadly piece of NASA's Skylab which is hurtling toward earth. All that, plus: a dangerous waterfall rescue, love triangles, misfits, cool kids, and talking vegetable cans. The questions will all be resolved, of course, at the big talent show at the end of the day.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Eureka Pictures",
+      "country": "US"
+    },
+    {
+      "name": "North Coast Group",
+      "country": ""
+    }
+  ],
+  "director": [
+    "David Wain"
+  ],
+  "writers": [
+    {
+      "name": "Michael Showalter",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Wain",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Showalter",
+      "job": "Producer"
+    },
+    {
+      "name": "David Wain",
+      "job": "Producer"
+    },
+    {
+      "name": "Howard Bernstein",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Janeane Garofalo",
+      "character": "Beth",
+      "order": 0
+    },
+    {
+      "name": "David Hyde Pierce",
+      "character": "Henry",
+      "order": 1
+    },
+    {
+      "name": "Michael Showalter",
+      "character": "Coop / Alan Shemper",
+      "order": 2
+    },
+    {
+      "name": "Marguerite Moreau",
+      "character": "Katie",
+      "order": 3
+    },
+    {
+      "name": "Paul Rudd",
+      "character": "Andy",
+      "order": 4
+    },
+    {
+      "name": "Zak Orth",
+      "character": "J.J.",
+      "order": 5
+    },
+    {
+      "name": "Christopher Meloni",
+      "character": "Gene",
+      "order": 6
+    },
+    {
+      "name": "A.D. Miles",
+      "character": "Gary",
+      "order": 7
+    },
+    {
+      "name": "Molly Shannon",
+      "character": "Gail",
+      "order": 8
+    },
+    {
+      "name": "Gideon Jacobs",
+      "character": "Aaron",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eTwZCGbCIKmfwfRkbmh2fbuuH5w.jpg",
+  "backdrop_path": "/boct1C0KWZ533T6o5qjFVfaUpSt.jpg",
+  "budget": 5000000,
+  "revenue": 295206,
+  "vote_average": 6.253,
+  "vote_count": 863,
+  "imdb_id": "tt0243655",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

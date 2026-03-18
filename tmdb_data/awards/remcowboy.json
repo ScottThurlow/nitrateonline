@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "17 Nov 2004",
+  "runtime": "90 min",
+  "genre": "Documentary, Drama",
+  "director": "Andrew Molina",
+  "writer": "Eishy Hayata",
+  "actors": "Eishy Hayata, Lucho Velasco, Juan Pablo Shuk",
+  "plot": "This is the true story of the rise of a Japanese businessman from Los Angeles named Eishy Hayata from an Airline engineer into the legend of the Emerald world -- the Emerald Cowboy. He moved to Columbia in the 70's and with six guns at his side fought his way to the top by 2000.",
+  "language": "English, Spanish, Japanese",
+  "country": "Colombia",
+  "metascore": "21",
+  "imdb_rating": "7.3",
+  "imdb_votes": "114",
+  "box_office": "$101,358",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "8%",
+      "link": "https://www.rottentomatoes.com/search?search=Emerald+Cowboy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "21/100",
+      "link": "https://www.metacritic.com/search/Emerald+Cowboy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0289176/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0289176/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/278813"
+  }
+}

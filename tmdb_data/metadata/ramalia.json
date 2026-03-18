@@ -1,0 +1,71 @@
+{
+  "tmdb_id": 292927,
+  "title": "The Art of Amália",
+  "original_title": "A Arte de Amália",
+  "release_date": "2000-12-08",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "Documentary about the life of Portuguese Fado singer Amalia Rodrigues (1920-1999) with an interview and collection of footage from performances throughout her long career.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Spanish"
+  ],
+  "production_companies": [],
+  "director": [
+    "Bruno de Almeida"
+  ],
+  "writers": [
+    {
+      "name": "Frank Coelho",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Manuel Falcão",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Amália Rodrigues",
+      "character": "Self - Singer",
+      "order": 0
+    },
+    {
+      "name": "John Ventimiglia",
+      "character": "Narrator (voice)",
+      "order": 1
+    },
+    {
+      "name": "Maria de Medeiros",
+      "character": "Narrator (voice)",
+      "order": 2
+    },
+    {
+      "name": "David Byrne",
+      "character": "Introduction (English version)",
+      "order": 3
+    },
+    {
+      "name": "Alain Oulman",
+      "character": "Self - Composer (archive footage)",
+      "order": 4
+    }
+  ],
+  "poster_path": "/l898ANnq8DFzWTnZhioLo09cslK.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 1,
+  "imdb_id": "tt0204839",
+  "certifications": [],
+  "status": "Released"
+}

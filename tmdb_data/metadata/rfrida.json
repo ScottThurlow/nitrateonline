@@ -1,0 +1,257 @@
+{
+  "tmdb_id": 1360,
+  "title": "Frida",
+  "original_title": "Frida",
+  "release_date": "2002-08-29",
+  "runtime": 123,
+  "tagline": "Prepare to be seduced.",
+  "overview": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Russian",
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Margaret Rose Perenchio Productions",
+      "country": ""
+    },
+    {
+      "name": "Ventanarosa",
+      "country": "US"
+    },
+    {
+      "name": "Lionsgate",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Julie Taymor"
+  ],
+  "writers": [
+    {
+      "name": "Gregory Nava",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Diane Lake",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hayden Herrera",
+      "job": "Novel"
+    },
+    {
+      "name": "Clancy Sigal",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Anna Thomas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Julie Taymor",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sarah Green",
+      "job": "Producer"
+    },
+    {
+      "name": "Jay Polstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Lindsay Flickinger",
+      "job": "Producer"
+    },
+    {
+      "name": "Roberto Sneider",
+      "job": "Producer"
+    },
+    {
+      "name": "Salma Hayek Pinault",
+      "job": "Producer"
+    },
+    {
+      "name": "Nancy Hardin",
+      "job": "Producer"
+    },
+    {
+      "name": "Lizz Speed",
+      "job": "Producer"
+    },
+    {
+      "name": "Margaret Rose Perenchio",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Gill",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Amin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jill Messick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Amy Slotnick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Gibson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Salma Hayek Pinault",
+      "character": "Frida Kahlo",
+      "order": 0
+    },
+    {
+      "name": "Alfred Molina",
+      "character": "Diego Rivera",
+      "order": 1
+    },
+    {
+      "name": "Mía Maestro",
+      "character": "Cristina Kahlo",
+      "order": 2
+    },
+    {
+      "name": "Patricia Reyes Spíndola",
+      "character": "Matilde Kahlo",
+      "order": 3
+    },
+    {
+      "name": "Edward Norton",
+      "character": "Nelson Rockefeller",
+      "order": 4
+    },
+    {
+      "name": "Antonio Banderas",
+      "character": "David Alfaro Siqueiros",
+      "order": 5
+    },
+    {
+      "name": "Diego Luna",
+      "character": "Alejandro",
+      "order": 6
+    },
+    {
+      "name": "Roger Rees",
+      "character": "Guillermo Kahlo",
+      "order": 7
+    },
+    {
+      "name": "Ashley Judd",
+      "character": "Tina Modotti",
+      "order": 8
+    },
+    {
+      "name": "Saffron Burrows",
+      "character": "Gracie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+  "backdrop_path": "/gcGaSXzmodu53ABb0wOWrVWjKeg.jpg",
+  "budget": 12000000,
+  "revenue": 56298474,
+  "vote_average": 7.394,
+  "vote_count": 2151,
+  "imdb_id": "tt0120679",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "14 anos"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

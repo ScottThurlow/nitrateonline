@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "12 wins & 17 nominations total",
+  "rated": "R",
+  "released": "19 Jan 2001",
+  "runtime": "113 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Richard Kelly",
+  "writer": "Richard Kelly",
+  "actors": "Jake Gyllenhaal, Jena Malone, Mary McDonnell",
+  "plot": "Donnie Darko doesn't get along too well with his family, his teachers, and his classmates; but he does manage to find a sympathetic friend in Gretchen, who agrees to date him. He has a compassionate psychiatrist, who discovers hypnosis is the means to unlock hidden secrets. His other companion may not be a true ally. Donnie has a friend named Frank, a large bunny which only Donnie can see. When an engine falls off a plane and destroys his bedroom, Donnie is not there. Both the event, and Donnie's escape, seem to have been caused by supernatural events.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "88",
+  "imdb_rating": "8.0",
+  "imdb_votes": "906,192",
+  "box_office": "$1,478,493",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=Donnie+Darko"
+    },
+    {
+      "source": "Metacritic",
+      "value": "88/100",
+      "link": "https://www.metacritic.com/search/Donnie+Darko/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0246578/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0246578/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/141"
+  }
+}

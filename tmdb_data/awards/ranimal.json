@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "4 wins & 12 nominations",
+  "rated": "Unrated",
+  "released": "25 Aug 2000",
+  "runtime": "73 min",
+  "genre": "Comedy, Drama",
+  "director": "Jerzy Stuhr",
+  "writer": "Krzysztof Kieslowski, Kazimierz Orlos",
+  "actors": "Jerzy Stuhr, Anna Dymna, Dominika Bednarczyk",
+  "plot": "Left behind by a circus, a camel wanders to the house of a simple middle-aged couple. Although the wife is initially bewildered by the strange and unexpected animal, her husband immediately adopts it as a pet. As the man and his new companion take their daily walks in the village, neighbors are drawn to the odd sight and approach him about riding the camel or using it for any number of purposes. He declines to exploit or capitalize on the friendly animal, and is met with barely veiled hostility. In time, the camel becomes a burden on both the town and the man, who's edged out of community affairs and lives on shaky ground with his wife.",
+  "language": "Polish",
+  "country": "Poland",
+  "metascore": "73",
+  "imdb_rating": "7.1",
+  "imdb_votes": "1,088",
+  "box_office": "$3,733",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=Big+Animal"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Big+Animal/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0246593/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0246593/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/89823"
+  }
+}

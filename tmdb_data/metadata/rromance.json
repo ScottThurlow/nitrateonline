@@ -1,0 +1,136 @@
+{
+  "tmdb_id": 26338,
+  "title": "Romance",
+  "original_title": "Romance",
+  "release_date": "1999-04-14",
+  "runtime": 99,
+  "tagline": "Love is desolate. Romance is temporary. Sex is forever.",
+  "overview": "Frustrated by the lack of intimacy in her relationship, a young schoolteacher goes through a series of intimidating and often violent sexual partners.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "CB Films",
+      "country": "FR"
+    },
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Flach Film",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Catherine Breillat"
+  ],
+  "writers": [
+    {
+      "name": "Catherine Breillat",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Catherine Breillat",
+      "job": "Dialogue"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean-François Lepetit",
+      "job": "Producer"
+    },
+    {
+      "name": "Catherine Jacques",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Caroline Ducey",
+      "character": "Marie",
+      "order": 0
+    },
+    {
+      "name": "Sagamore Stévenin",
+      "character": "Paul",
+      "order": 1
+    },
+    {
+      "name": "François Berléand",
+      "character": "Robert",
+      "order": 2
+    },
+    {
+      "name": "Rocco Siffredi",
+      "character": "Paolo",
+      "order": 3
+    },
+    {
+      "name": "Reza Habouhossein",
+      "character": "Man on stairs",
+      "order": 4
+    },
+    {
+      "name": "Ashley Wanninger",
+      "character": "Ashley",
+      "order": 5
+    },
+    {
+      "name": "Emma Colberti",
+      "character": "Charlotte",
+      "order": 6
+    },
+    {
+      "name": "Fabien de Jomaron",
+      "character": "Claude",
+      "order": 7
+    },
+    {
+      "name": "Carla",
+      "character": "Model",
+      "order": 8
+    },
+    {
+      "name": "Pierre Maufront",
+      "character": "Photographer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xR2b19JyLr8ssLzIvaXBOkGkghm.jpg",
+  "backdrop_path": "/pi2J4AtHvigbCTYm1sEyQfrifPs.jpg",
+  "budget": 2700000,
+  "revenue": 3885642,
+  "vote_average": 5.436,
+  "vote_count": 297,
+  "imdb_id": "tt0194314",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "18+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    }
+  ],
+  "status": "Released"
+}

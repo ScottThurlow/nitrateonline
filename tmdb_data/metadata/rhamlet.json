@@ -1,0 +1,61 @@
+{
+  "tmdb_id": 271406,
+  "title": "Hamlet: This Is Your Family",
+  "original_title": "Hamlet: This Is Your Family",
+  "release_date": "2001-10-26",
+  "runtime": 81,
+  "tagline": "",
+  "overview": "A provocative and ironic pamphleteering documentary about the making of Christoph Schlingensief’s Nazi-'Hamlet’ (2001). Both a media event and a form of political action Schlingensief let ex-neo-Nazis play themselves. His provocation in so-called Nazi-free Switzerland was not appreciated and when he added fuel to the flames by calling for the local political party SVP to be banned, his media offensive made front-page news far beyond Switzerland.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "German"
+  ],
+  "production_companies": [],
+  "director": [
+    "Peter Kern"
+  ],
+  "writers": [
+    {
+      "name": "Peter Kern",
+      "job": "Writer"
+    },
+    {
+      "name": "Christoph Schlingensief",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Christoph Schlingensief",
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "name": "Bibiana Beglau",
+      "character": "Herself",
+      "order": 1
+    },
+    {
+      "name": "Irm Hermann",
+      "character": "Herself",
+      "order": 2
+    },
+    {
+      "name": "Sebastian Rudolph",
+      "character": "Himself",
+      "order": 3
+    }
+  ],
+  "poster_path": "/nqUpHR62LJfAkVsNaDbohSn3tsm.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0478584",
+  "certifications": [],
+  "status": "Released"
+}

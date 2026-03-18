@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "5 nominations total",
+  "rated": "R",
+  "released": "19 Mar 1999",
+  "runtime": "127 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Clint Eastwood",
+  "writer": "Andrew Klavan, Larry Gross, Paul Brickman",
+  "actors": "Clint Eastwood, Isaiah Washington, LisaGay Hamilton",
+  "plot": "Steve Everett (Clint Eastwood), Oakland Tribune journalist with a passion for women and alcohol, is given the coverage of the upcoming execution of murderer Frank Louis Beachum (Isaiah Washington). His attractive colleague Michelle Ziegler (Mary McCormack) died in a car accident the night before. Bob Findley (Denis Leary), Steve's boss and husband to Steve's current affair, wants him dead and gone as soon as possible. When Steve stumbles across the possibility of Frank Louis Beachum being innocently on death row, Bob feels his time to have come. Now Steve only has a few hours left to prove the innocence of Frank and to be right with this theory, as he definitely will be history if he's not.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "64",
+  "imdb_rating": "6.6",
+  "imdb_votes": "40,618",
+  "box_office": "$16,649,768",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "58%",
+      "link": "https://www.rottentomatoes.com/search?search=True+Crime"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/True+Crime/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139668/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139668/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10354"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "25 Nov 1998",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Dean Parisot",
+  "writer": "Vince Gilligan",
+  "actors": "Drew Barrymore, Luke Wilson, Catherine O'Hara",
+  "plot": "Hamburger joint waitress Sally Jackson is pregnant. When Beatrice, the wife of the father, finds out about his infidelity, she sends her sons from a previous marriage, military pilots Angus and Dorian Montier, to scare the living daylights out of him. Their gunship does such a good job, without hitting him, that he dies from a heart attack. Worrying about radio interference that night, they investigate who might have heard too much within the fairly empty reception perimeter, and soon discover only Sally could, still ignorant about her affair with his step-dad Henry. Dorian takes a job there to be sure, but soon falls for her himself, while mother-obsessed moron Angus would do anything to anyone for her honor...",
+  "language": "English",
+  "country": "United States",
+  "metascore": "45",
+  "imdb_rating": "5.1",
+  "imdb_votes": "9,058",
+  "box_office": "$10,493,366",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=Home+Fries"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/Home+Fries/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119304/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119304/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12257"
+  }
+}

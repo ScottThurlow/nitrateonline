@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 nominations total",
+  "rated": "PG-13",
+  "released": "11 Jan 2002",
+  "runtime": "82 min",
+  "genre": "Comedy, Drama",
+  "director": "Jake Kasdan",
+  "writer": "Mike White",
+  "actors": "Colin Hanks, Jack Black, Schuyler Fisk",
+  "plot": "Shaun Brumder is a local surfer kid from Orange County who dreams of going to Stanford to become a writer and to get away from his disfunctional family household. Except Shaun runs into one complication after another starting when his application is rejected after his dim-witted guidance counselor sends the wrong application. So, Shaun goes to great lengths with a little help from his girlfriend Ashley and his drugged-out loser brother Lance to get into Stanford any way they see fit.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "48",
+  "imdb_rating": "6.2",
+  "imdb_votes": "53,285",
+  "box_office": "$41,076,018",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=Orange+County"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Orange+County/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0273923/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0273923/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11857"
+  }
+}

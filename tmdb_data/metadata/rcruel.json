@@ -1,0 +1,183 @@
+{
+  "tmdb_id": 796,
+  "title": "Cruel Intentions",
+  "original_title": "Cruel Intentions",
+  "release_date": "1999-03-05",
+  "runtime": 98,
+  "tagline": "In the game of seduction, there is only one rule: Never fall in love.",
+  "overview": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Newmarket Capital Group",
+      "country": "US"
+    },
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roger Kumble"
+  ],
+  "writers": [
+    {
+      "name": "Roger Kumble",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Choderlos de Laclos",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Fottrell",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sarah Michelle Gellar",
+      "character": "Kathryn Merteuil",
+      "order": 0
+    },
+    {
+      "name": "Ryan Phillippe",
+      "character": "Sébastian Valmont",
+      "order": 1
+    },
+    {
+      "name": "Reese Witherspoon",
+      "character": "Annette Hargrove",
+      "order": 2
+    },
+    {
+      "name": "Selma Blair",
+      "character": "Cecile Caldwell",
+      "order": 3
+    },
+    {
+      "name": "Louise Fletcher",
+      "character": "Helen Rosemond",
+      "order": 4
+    },
+    {
+      "name": "Joshua Jackson",
+      "character": "Blaine Tuttle",
+      "order": 5
+    },
+    {
+      "name": "Eric Mabius",
+      "character": "Greg McConnell",
+      "order": 6
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "character": "Ronald Clifford",
+      "order": 7
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "character": "Dr.  Greenbaum",
+      "order": 8
+    },
+    {
+      "name": "Christine Baranski",
+      "character": "Bunny Caldwell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+  "backdrop_path": "/m2QvGozzKz5ux74gKocn4kFTGz1.jpg",
+  "budget": 10500000,
+  "revenue": 76347426,
+  "vote_average": 6.796,
+  "vote_count": 3513,
+  "imdb_id": "tt0139134",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "03 May 2002",
+  "runtime": "96 min",
+  "genre": "Action, Drama",
+  "director": "Scott Kalvert",
+  "writer": "Paul Kimatian, Christopher Gambale",
+  "actors": "Stephen Dorff, Brad Renfro, Fairuza Balk",
+  "plot": "Two brothers, Leon and Bobby are members of the street gang in Brooklyn known as the deuces. Their brother was killed by a drug overdose a few years earlier and the gang is determined to keep drugs off their block. Another more vicous gang known as the vipers is a possible threat to Leon and Bobby's efforts. The deuces are determined to do whatever is necessary to keep drugs off their block even if that means dying.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "16",
+  "imdb_rating": "5.6",
+  "imdb_votes": "8,199",
+  "box_office": "$6,080,065",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "3%",
+      "link": "https://www.rottentomatoes.com/search?search=Deuces+Wild"
+    },
+    {
+      "source": "Metacritic",
+      "value": "16/100",
+      "link": "https://www.metacritic.com/search/Deuces+Wild/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0231448/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0231448/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13201"
+  }
+}

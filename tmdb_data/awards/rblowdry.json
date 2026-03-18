@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "30 Mar 2001",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Paddy Breathnach",
+  "writer": "Simon Beaufoy",
+  "actors": "Alan Rickman, Natasha Richardson, Rachel Griffiths",
+  "plot": "The annual British Hairdressing Championship comes to Keighley, a town where Phil and son Brian run a barbershop, and where Phil's ex-wife Shelly and her lover Sandra run a beauty salon, yet Phil and Shelly haven't talked in the ten years since she bolted. Shelley's just found out her cancer is terminal, and Ray Roberts, the reigning underhanded hairdressing champion, blows into town taunting Phil for retreating from competitive styling into barbering. Roberts also brings his daughter, Christina, who remembers Brian from when she was a little kid (as does he her). Everything's set: Brian decides to enter the competition with his mom and Sandra. Will Phil join in? Ray wants to win at any costs. Will Christina go along?",
+  "language": "English",
+  "country": "United States, United Kingdom, Germany",
+  "metascore": "38",
+  "imdb_rating": "6.2",
+  "imdb_votes": "9,442",
+  "box_office": "$637,769",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=Blow+Dry"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Blow+Dry/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0212380/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0212380/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17203"
+  }
+}

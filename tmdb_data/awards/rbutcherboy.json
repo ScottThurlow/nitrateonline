@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "10 wins & 11 nominations total",
+  "rated": "R",
+  "released": "20 Feb 1998",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama",
+  "director": "Neil Jordan",
+  "writer": "Pat McCabe, Neil Jordan",
+  "actors": "Stephen Rea, Fiona Shaw, Eamonn Owens",
+  "plot": "Francie and Joe live the usual playful, fantasy filled childhoods of normal boys. However, with a violent, alcoholic father and a manic depressive, suicidal mother the pressure on Francie to grow up are immense. When Francie's world turns to madness, he tries to counter it with further insanity, with dire consequences.",
+  "language": "English",
+  "country": "Ireland",
+  "metascore": "N/A",
+  "imdb_rating": "7.1",
+  "imdb_votes": "11,943",
+  "box_office": "$1,995,911",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Butcher+Boy"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118804/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118804/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22797"
+  }
+}

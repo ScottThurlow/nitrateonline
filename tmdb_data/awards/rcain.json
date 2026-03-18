@@ -1,0 +1,30 @@
+{
+  "year": "1989",
+  "awards": "N/A",
+  "rated": "N/A",
+  "released": "27 Nov 1989",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Janusz Majewski",
+  "writer": "Vladimír Körner",
+  "actors": "Olaf Lubaszenko, Petr Cepek, Anna Majcher",
+  "plot": "19-year-old Ludwik joins a secret anti-Austria organization.",
+  "language": "Polish, Czech",
+  "country": "Poland, Czechoslovakia",
+  "metascore": "N/A",
+  "imdb_rating": "5.7",
+  "imdb_votes": "25",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0097139/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0097139/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/376739"
+  }
+}

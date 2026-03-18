@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "1 win & 1 nomination",
+  "rated": "Unrated",
+  "released": "09 May 1997",
+  "runtime": "99 min",
+  "genre": "Comedy, Drama",
+  "director": "Kevin Allen",
+  "writer": "Kevin Allen, Paul Durden",
+  "actors": "Llyr Ifans, Rhys Ifans, Dorien Thomas",
+  "plot": "A dinged car caused by two hell raising brothers sets off a sequence of events that in the end allow the two brothers to fulfill their dead fathers final wish all the while raising more hell, smoking lots of pot, stealing cars and getting revenge.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "6.7",
+  "imdb_votes": "6,511",
+  "box_office": "$127,923",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "46%",
+      "link": "https://www.rottentomatoes.com/search?search=Twin+Town"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120394/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120394/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15321"
+  }
+}

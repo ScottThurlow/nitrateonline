@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 13537,
+  "title": "Shattered Glass",
+  "original_title": "Shattered Glass",
+  "release_date": "2003-11-14",
+  "runtime": 94,
+  "tagline": "He'd do anything to get a great story.",
+  "overview": "The true story of fraudulent Washington, D.C. journalist Stephen Glass, who rose to meteoric heights as a young writer in his 20s, becoming a staff writer at The New Republic for three years. Looking for a short cut to fame, Glass concocted sources, quotes and even entire stories, but his deception did not go unnoticed forever, and eventually, his world came crumbling down.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cruise/Wagner Productions",
+      "country": "US"
+    },
+    {
+      "name": "Baumgarten Merims Productions",
+      "country": ""
+    },
+    {
+      "name": "Forest Park Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Billy Ray"
+  ],
+  "writers": [
+    {
+      "name": "Billy Ray",
+      "job": "Writer"
+    },
+    {
+      "name": "Buzz Bissinger",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Adam Merims",
+      "job": "Producer"
+    },
+    {
+      "name": "Craig Baumgarten",
+      "job": "Producer"
+    },
+    {
+      "name": "Gaye Hirsch",
+      "job": "Producer"
+    },
+    {
+      "name": "Paula Wagner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Cruise",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tove Christensen",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Ortenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Paseornek",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hayden Christensen",
+      "character": "Stephen Glass",
+      "order": 0
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "character": "Charles 'Chuck' Lane",
+      "order": 1
+    },
+    {
+      "name": "Chloë Sevigny",
+      "character": "Caitlin Avey",
+      "order": 2
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Andy Fox",
+      "order": 3
+    },
+    {
+      "name": "Melanie Lynskey",
+      "character": "Amy Brand",
+      "order": 4
+    },
+    {
+      "name": "Hank Azaria",
+      "character": "Michael Kelly",
+      "order": 5
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Adam Penenberg",
+      "order": 6
+    },
+    {
+      "name": "Mark Blum",
+      "character": "Lewis Estridge",
+      "order": 7
+    },
+    {
+      "name": "Simone-Elise Girard",
+      "character": "Catarina Bannier",
+      "order": 8
+    },
+    {
+      "name": "Chad Donella",
+      "character": "David Bach",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ekHG7UsZVxBUGGa0NvxrBXtZVuL.jpg",
+  "backdrop_path": "/u4OUSKeFwuP1z42dL58Mi0LYwIg.jpg",
+  "budget": 6000000,
+  "revenue": 2944752,
+  "vote_average": 6.962,
+  "vote_count": 463,
+  "imdb_id": "tt0323944",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

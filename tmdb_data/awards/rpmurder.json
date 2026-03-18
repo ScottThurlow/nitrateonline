@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 3 nominations total",
+  "rated": "R",
+  "released": "05 Jun 1998",
+  "runtime": "107 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Andrew Davis",
+  "writer": "Frederick Knott, Patrick Smith Kelly",
+  "actors": "Michael Douglas, Gwyneth Paltrow, Viggo Mortensen",
+  "plot": "Millionaire industrialist Steven Taylor is a man who has everything but what he craves most: the love and fidelity of his wife. A hugely successful player in the New York financial world, he considers her to be his most treasured acquisition. But she needs more than simply the role of dazzling accessory. Brilliant in her own right, she works at the U.N. and is involved with a struggling artist who fulfills her emotional needs. When her husband discovers her indiscretion, he sets out to commit the perfect murder and inherit her considerable trust fund in the bargain.",
+  "language": "English, Arabic",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "6.6",
+  "imdb_votes": "95,704",
+  "box_office": "$67,638,368",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "55%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Perfect+Murder"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/A+Perfect+Murder/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120787/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120787/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1965"
+  }
+}

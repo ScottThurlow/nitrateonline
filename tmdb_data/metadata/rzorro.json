@@ -1,0 +1,216 @@
+{
+  "tmdb_id": 9342,
+  "title": "The Mask of Zorro",
+  "original_title": "The Mask of Zorro",
+  "release_date": "1998-07-16",
+  "runtime": 136,
+  "tagline": "No one has seen his face... but everyone ... knows this mark.",
+  "overview": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Zorro Productions",
+      "country": "US"
+    },
+    {
+      "name": "Global Entertainment Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Martin Campbell"
+  ],
+  "writers": [
+    {
+      "name": "John Eskow",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Johnston McCulley",
+      "job": "Novel"
+    },
+    {
+      "name": "Terry Rossio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Story"
+    },
+    {
+      "name": "Terry Rossio",
+      "job": "Story"
+    },
+    {
+      "name": "Randall Jahnson",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Doug Claybourne",
+      "job": "Producer"
+    },
+    {
+      "name": "David Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "Laurie MacDonald",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Antonio Banderas",
+      "character": "Alejandro Murrieta / Zorro",
+      "order": 0
+    },
+    {
+      "name": "Anthony Hopkins",
+      "character": "Don Diego de la Vega / Zorro",
+      "order": 1
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "character": "Elena Montero / Elena Murrieta",
+      "order": 2
+    },
+    {
+      "name": "Stuart Wilson",
+      "character": "Don Rafael Montero",
+      "order": 3
+    },
+    {
+      "name": "Matt Letscher",
+      "character": "Capt. Harrison Love",
+      "order": 4
+    },
+    {
+      "name": "L.Q. Jones",
+      "character": "Three-Fingered Jack",
+      "order": 5
+    },
+    {
+      "name": "Diego Sieres",
+      "character": "Young Joaquín Murrieta",
+      "order": 6
+    },
+    {
+      "name": "José María de Tavira",
+      "character": "Young Alejandro Murrieta",
+      "order": 7
+    },
+    {
+      "name": "Tony Amendola",
+      "character": "Don Luiz",
+      "order": 8
+    },
+    {
+      "name": "Emiliano Guerra",
+      "character": "Boy Crying",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg",
+  "backdrop_path": "/wn0e4o0FYd2cBouOviUeTOWzL89.jpg",
+  "budget": 95000000,
+  "revenue": 250288523,
+  "vote_average": 6.6,
+  "vote_count": 4275,
+  "imdb_id": "tt0120746",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BG",
+      "rating": "B"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

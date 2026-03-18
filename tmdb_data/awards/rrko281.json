@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "Won 3 Primetime Emmys. 15 wins & 28 nominations total",
+  "rated": "R",
+  "released": "20 Nov 1999",
+  "runtime": "86 min",
+  "genre": "Biography, Drama",
+  "director": "Benjamin Ross",
+  "writer": "John Logan, Richard Ben Cramer, Thomas Lennon",
+  "actors": "Liev Schreiber, James Cromwell, Melanie Griffith",
+  "plot": "Coming to Hollywood as a celebrated boy genius featuring a spectacular career arc in New York including his radio hoax War of the Worlds, Orson Welles is stymied on the subject for his first film. After a dinner party at Hearst Castle, during which he has a verbal altercation with William Randolph Hearst, Welles decides to do a movie about Hearst. It takes him some time to convince co-writer Herman J. Mankiewicz and the studio, but Welles eventually gets the script and the green light, keeping the subject very hush-hush with the press. The movie is about an aging newspaper publisher who controlled his enemies as ruthlessly as he controlled his friends; and whose mistress was destined for fame. When a rough cut is screened, Hearst gets wind of the movie's theme and begins a campaign to see that it is not only never publicly screened, but destroyed.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.0",
+  "imdb_votes": "6,691",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=RKO+281"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120801/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120801/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/50008"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 15321,
+  "title": "Twin Town",
+  "original_title": "Twin Town",
+  "release_date": "1997-04-11",
+  "runtime": 99,
+  "tagline": "Pretty shitty city.",
+  "overview": "Jeremy and Julian Lewis, the \"Lewis Twins\", are two unruly brothers who terrorise the city of Swansea from the caravan park where they live with their family. When their father, Fatty, is injured while working on a roof for local kingpin Bryn Cartwright, they try in vain to claim compensation. Thus begins a campaign of terror, which local policemen Terry and Grayo are ill-equipped to prevent, involved as they are in a drugs deal with Cartwright.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Welsh",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Agenda",
+      "country": ""
+    },
+    {
+      "name": "Aimimage Productions",
+      "country": ""
+    },
+    {
+      "name": "Figment Films",
+      "country": "GB"
+    },
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kevin Allen"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Allen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter McAleese",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny Boyle",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Macdonald",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rhys Ifans",
+      "character": "Jeremy Lewis",
+      "order": 0
+    },
+    {
+      "name": "Llŷr Ifans",
+      "character": "Julian Lewis",
+      "order": 1
+    },
+    {
+      "name": "Dougray Scott",
+      "character": "Terry Walsh",
+      "order": 2
+    },
+    {
+      "name": "Di Botcher",
+      "character": "Jean Lewis",
+      "order": 3
+    },
+    {
+      "name": "David Hayman",
+      "character": "Dodgy",
+      "order": 4
+    },
+    {
+      "name": "Dorien Thomas",
+      "character": "Greyo",
+      "order": 5
+    },
+    {
+      "name": "Huw Ceredig",
+      "character": "Fatty Lewis",
+      "order": 6
+    },
+    {
+      "name": "Rachel Scorgie",
+      "character": "Adie Lewis",
+      "order": 7
+    },
+    {
+      "name": "Brian Hibbard",
+      "character": "Dai Rees",
+      "order": 8
+    },
+    {
+      "name": "Ronnie Williams",
+      "character": "Mr. Mort",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b9rf32Mq0bQ0pJ3EZ5ghY52J4tS.jpg",
+  "backdrop_path": "/8IVxmM6ZXdYjJnxJEM2f3KOjQc4.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.256,
+  "vote_count": 82,
+  "imdb_id": "tt0120394",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 22958,
+  "title": "The Shape of Things",
+  "original_title": "The Shape of Things",
+  "release_date": "2003-07-24",
+  "runtime": 96,
+  "tagline": "Seduction Is An Art",
+  "overview": "Quiet, unassuming Adam is changing in a major way, thanks to his new girlfriend, art student Evelyn. Adam's friends are a little freaked by the transformation.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Focus Features",
+      "country": "US"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "Pretty Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Neil LaBute"
+  ],
+  "writers": [
+    {
+      "name": "Neil LaBute",
+      "job": "Writer"
+    },
+    {
+      "name": "Neil LaBute",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Philip Steuer",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Bevan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Lipson",
+      "job": "Producer"
+    },
+    {
+      "name": "Gail Mutrux",
+      "job": "Producer"
+    },
+    {
+      "name": "Rachel Weisz",
+      "job": "Producer"
+    },
+    {
+      "name": "Neil LaBute",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Paul Rudd",
+      "character": "Adam",
+      "order": 0
+    },
+    {
+      "name": "Gretchen Mol",
+      "character": "Jenny",
+      "order": 1
+    },
+    {
+      "name": "Rachel Weisz",
+      "character": "Evelyn Ann Thompson",
+      "order": 2
+    },
+    {
+      "name": "Frederick Weller",
+      "character": "Phillip",
+      "order": 3
+    }
+  ],
+  "poster_path": "/iETHZRRlr9WCgx3W8hoOp7gvOn2.jpg",
+  "backdrop_path": "/bLksPXWy2lNFITFeCYGNRSOikPZ.jpg",
+  "budget": 0,
+  "revenue": 735992,
+  "vote_average": 6.1,
+  "vote_count": 152,
+  "imdb_id": "tt0308878",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

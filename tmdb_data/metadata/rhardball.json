@@ -1,0 +1,162 @@
+{
+  "tmdb_id": 20857,
+  "title": "Hardball",
+  "original_title": "Hardball",
+  "release_date": "2001-09-14",
+  "runtime": 106,
+  "tagline": "The most important thing in life is showing up",
+  "overview": "An aimless young man who is scalping tickets, gambling and drinking, agrees to coach a Little League team from the Cabrini Green housing project in Chicago as a condition of getting a loan from a friend.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Munich Film Partners & Company (MFP) GHS Productions",
+      "country": ""
+    },
+    {
+      "name": "GHS Productions KG",
+      "country": ""
+    },
+    {
+      "name": "Nides/McCormick Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Brian Robbins"
+  ],
+  "writers": [
+    {
+      "name": "John Gatins",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Daniel Coyle",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kevin McCormick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Robbins",
+      "job": "Producer"
+    },
+    {
+      "name": "Erwin Stoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Tollin",
+      "job": "Producer"
+    },
+    {
+      "name": "Tina Nides",
+      "job": "Producer"
+    },
+    {
+      "name": "Herb Gains",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "character": "Conor O'Neill",
+      "order": 0
+    },
+    {
+      "name": "Diane Lane",
+      "character": "Elizabeth Wilkes",
+      "order": 1
+    },
+    {
+      "name": "Michael B. Jordan",
+      "character": "Jamal",
+      "order": 2
+    },
+    {
+      "name": "D. B. Sweeney",
+      "character": "Matt Hyland",
+      "order": 3
+    },
+    {
+      "name": "John Hawkes",
+      "character": "Ticky Tobin",
+      "order": 4
+    },
+    {
+      "name": "Bryan Hearne",
+      "character": "Andre Ray Peetes",
+      "order": 5
+    },
+    {
+      "name": "Julian Griffith",
+      "character": "Jefferson Albert Tibbs",
+      "order": 6
+    },
+    {
+      "name": "DeWayne Warren",
+      "character": "Jarius 'G-Baby' Evans",
+      "order": 7
+    },
+    {
+      "name": "Kris D. Lofton",
+      "character": "Clarence",
+      "order": 8
+    },
+    {
+      "name": "Graham Beckel",
+      "character": "Duffy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9RMcwwnK8a9WCt8dVlwmtNsFCg3.jpg",
+  "backdrop_path": "/oONWvm6kBDVXakj8aELlTohpkUT.jpg",
+  "budget": 32000000,
+  "revenue": 40222729,
+  "vote_average": 6.48,
+  "vote_count": 540,
+  "imdb_id": "tt0180734",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "PG-13"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

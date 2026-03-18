@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 6 nominations total",
+  "rated": "R",
+  "released": "02 May 2003",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Karen Moncrieff",
+  "writer": "Karen Moncrieff",
+  "actors": "David Strathairn, Agnes Bruckner, Margaret Colin",
+  "plot": "A troubled young woman is encouraged by a teacher to enter a poetry contest.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "76",
+  "imdb_rating": "6.6",
+  "imdb_votes": "3,760",
+  "box_office": "$465,310",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Blue+Car"
+    },
+    {
+      "source": "Metacritic",
+      "value": "76/100",
+      "link": "https://www.metacritic.com/search/Blue+Car/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0290145/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0290145/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/46989"
+  }
+}

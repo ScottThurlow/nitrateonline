@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "8 wins & 13 nominations total",
+  "rated": "R",
+  "released": "12 Dec 1997",
+  "runtime": "120 min",
+  "genre": "Horror, Mystery",
+  "director": "Wes Craven",
+  "writer": "Kevin Williamson",
+  "actors": "Neve Campbell, Courteney Cox, David Arquette",
+  "plot": "Two years after the events of Scream, Sidney Prescott and Randy are attending Windsor college. They are trying to get on with their lives...Until a new Ghostface killing spree begins. With the help of Dewey and Gale, Sidney must find out who's behind the murders. As the body count goes up, the list of suspects goes down.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.3",
+  "imdb_votes": "230,683",
+  "box_office": "$101,363,301",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Scream+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Scream+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120082/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120082/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4233"
+  }
+}

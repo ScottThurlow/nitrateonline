@@ -1,0 +1,240 @@
+{
+  "tmdb_id": 129,
+  "title": "Spirited Away",
+  "original_title": "千と千尋の神隠し",
+  "release_date": "2001-07-20",
+  "runtime": 125,
+  "tagline": "Beyond the tunnel was a mysterious town.",
+  "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Studio Ghibli",
+      "country": "JP"
+    },
+    {
+      "name": "Tokuma Shoten",
+      "country": "JP"
+    },
+    {
+      "name": "Nippon Television Network Corporation",
+      "country": "JP"
+    },
+    {
+      "name": "Mitsubishi",
+      "country": "JP"
+    },
+    {
+      "name": "dentsu",
+      "country": "JP"
+    },
+    {
+      "name": "TFC",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Hayao Miyazaki"
+  ],
+  "writers": [
+    {
+      "name": "Goro Miyazaki",
+      "job": "Writers' Assistant"
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "job": "Original Story"
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Toshio Suzuki",
+      "job": "Producer"
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rumi Hiiragi",
+      "character": "Chihiro (voice)",
+      "order": 0
+    },
+    {
+      "name": "Miyu Irino",
+      "character": "Haku (voice)",
+      "order": 1
+    },
+    {
+      "name": "Mari Natsuki",
+      "character": "Yubaba / Zeniba (voice)",
+      "order": 2
+    },
+    {
+      "name": "Takashi Naito",
+      "character": "Father (voice)",
+      "order": 3
+    },
+    {
+      "name": "Yasuko Sawaguchi",
+      "character": "Mother (voice)",
+      "order": 4
+    },
+    {
+      "name": "Tatsuya Gashûin",
+      "character": "Aogaeru (voice)",
+      "order": 5
+    },
+    {
+      "name": "Ryunosuke Kamiki",
+      "character": "Boh (voice)",
+      "order": 6
+    },
+    {
+      "name": "Yumi Tamai",
+      "character": "Rin (voice)",
+      "order": 7
+    },
+    {
+      "name": "Yo Oizumi",
+      "character": "Bandai Frog (voice)",
+      "order": 8
+    },
+    {
+      "name": "Koba Hayashi",
+      "character": "River Spirit (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+  "budget": 19000000,
+  "revenue": 274925095,
+  "vote_average": 8.534,
+  "vote_count": 18061,
+  "imdb_id": "tt0245429",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "0"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "10"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PR",
+      "rating": "PG"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "TW",
+      "rating": "0+"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

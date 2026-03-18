@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "6 nominations total",
+  "rated": "PG-13",
+  "released": "19 Dec 2003",
+  "runtime": "117 min",
+  "genre": "Drama",
+  "director": "Mike Newell",
+  "writer": "Lawrence Konner, Mark Rosenthal",
+  "actors": "Julia Roberts, Kirsten Dunst, Julia Stiles",
+  "plot": "Katherine Ann Watson has accepted a position teaching art history at the prestigious Wellesley College. Watson is a very modern woman, particularly for the 1950s, and has a passion not only for art but for her students. For the most part, the students all seem to be biding their time, waiting to find the right man to marry. The students are all very bright and Watson feels they are not reaching their potential. Altough a strong bond is formed between teacher and student, Watson's views are incompatible with the dominant culture of the college.",
+  "language": "English, Italian",
+  "country": "United States",
+  "metascore": "45",
+  "imdb_rating": "6.6",
+  "imdb_votes": "97,171",
+  "box_office": "$63,860,942",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "33%",
+      "link": "https://www.rottentomatoes.com/search?search=Mona+Lisa+Smile"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/Mona+Lisa+Smile/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0304415/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0304415/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11820"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "tmdb_id": 924,
+  "title": "Dawn of the Dead",
+  "original_title": "Dawn of the Dead",
+  "release_date": "2004-03-19",
+  "runtime": 101,
+  "tagline": "When there's no more room in Hell, the dead will walk the Earth.",
+  "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+  "genres": [
+    "Horror",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Amsterdam Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Strike Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Zack Snyder"
+  ],
+  "writers": [
+    {
+      "name": "James Gunn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "George A. Romero",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric Newman",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard P. Rubinstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Abraham",
+      "job": "Producer"
+    },
+    {
+      "name": "Dennis E. Jones",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Thomas A. Bliss",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sarah Polley",
+      "character": "Ana",
+      "order": 0
+    },
+    {
+      "name": "Ving Rhames",
+      "character": "Kenneth",
+      "order": 1
+    },
+    {
+      "name": "Jake Weber",
+      "character": "Michael",
+      "order": 2
+    },
+    {
+      "name": "Mekhi Phifer",
+      "character": "Andre",
+      "order": 3
+    },
+    {
+      "name": "Ty Burrell",
+      "character": "Steve",
+      "order": 4
+    },
+    {
+      "name": "Michael Kelly",
+      "character": "C.J.",
+      "order": 5
+    },
+    {
+      "name": "Kevin Zegers",
+      "character": "Terry",
+      "order": 6
+    },
+    {
+      "name": "Michael Barry",
+      "character": "Bart",
+      "order": 7
+    },
+    {
+      "name": "Lindy Booth",
+      "character": "Nicole",
+      "order": 8
+    },
+    {
+      "name": "Jayne Eastwood",
+      "character": "Norma",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+  "backdrop_path": "/rspbS1E9wJtslrb8amfJgtMBUVh.jpg",
+  "budget": 26000000,
+  "revenue": 102278712,
+  "vote_average": 7.05,
+  "vote_count": 4388,
+  "imdb_id": "tt0363547",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BG",
+      "rating": "X"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CL",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R-15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

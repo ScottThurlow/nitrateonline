@@ -1,0 +1,217 @@
+{
+  "tmdb_id": 9816,
+  "title": "Save the Last Dance",
+  "original_title": "Save the Last Dance",
+  "release_date": "2001-01-12",
+  "runtime": 113,
+  "tagline": "The only person you need to be is yourself.",
+  "overview": "After the death of her mother, Sara moves to the South Side of Chicago to live with her father and gets transferred to a majority-black school. Her life takes a turn for the better when befriends Chenille and her brother Derek, who helps her with her dancing skills.",
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Cort/Madden Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Thomas Carter"
+  ],
+  "writers": [
+    {
+      "name": "Cheryl Edwards",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Duane Adler",
+      "job": "Story"
+    },
+    {
+      "name": "Duane Adler",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Douglas Curtis",
+      "job": "Producer"
+    },
+    {
+      "name": "David Madden",
+      "job": "Producer"
+    },
+    {
+      "name": "Scarlett Lacey",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert W. Cort",
+      "job": "Producer"
+    },
+    {
+      "name": "Marie Cantin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Stiles",
+      "character": "Sara Johnson",
+      "order": 0
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "character": "Derek Reynolds",
+      "order": 1
+    },
+    {
+      "name": "Kerry Washington",
+      "character": "Chenille Reynolds",
+      "order": 2
+    },
+    {
+      "name": "Fredro Starr",
+      "character": "Malakai",
+      "order": 3
+    },
+    {
+      "name": "Terry Kinney",
+      "character": "Roy Johnson",
+      "order": 4
+    },
+    {
+      "name": "Bianca Lawson",
+      "character": "Nikki",
+      "order": 5
+    },
+    {
+      "name": "Vince Green",
+      "character": "Snookie",
+      "order": 6
+    },
+    {
+      "name": "Garland Whitt",
+      "character": "Kenny",
+      "order": 7
+    },
+    {
+      "name": "Elisabeth Oas",
+      "character": "Diggy",
+      "order": 8
+    },
+    {
+      "name": "Artel Great",
+      "character": "Arvel",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sV8GIxT3BjHIiwgKUNwk1S8VSLa.jpg",
+  "backdrop_path": "/gy3ZWhNom6hZ1NsUDwfOKS7YDrx.jpg",
+  "budget": 13000000,
+  "revenue": 131706809,
+  "vote_average": 6.535,
+  "vote_count": 1342,
+  "imdb_id": "tt0206275",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "10"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "MY",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,249 @@
+{
+  "tmdb_id": 2655,
+  "title": "What Lies Beneath",
+  "original_title": "What Lies Beneath",
+  "release_date": "2000-07-21",
+  "runtime": 130,
+  "tagline": "He was the perfect husband until his one mistake followed them home.",
+  "overview": "Norman and Claire Spencer are a seemingly happily married couple who uncover a terrible secret… a secret so disturbing it threatens to destroy them.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "ImageMovers",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Zemeckis"
+  ],
+  "writers": [
+    {
+      "name": "Clark Gregg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Sarah Kernochan",
+      "job": "Story"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Idea"
+    },
+    {
+      "name": "Clark Gregg",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Zemeckis",
+      "job": "Producer"
+    },
+    {
+      "name": "Joan Bradshaw",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Johnson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jack Rapke",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Starkey",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Claire Spencer",
+      "order": 0
+    },
+    {
+      "name": "Harrison Ford",
+      "character": "Norman Spencer",
+      "order": 1
+    },
+    {
+      "name": "Diana Scarwid",
+      "character": "Jody",
+      "order": 2
+    },
+    {
+      "name": "James Remar",
+      "character": "Warren Feur",
+      "order": 3
+    },
+    {
+      "name": "Miranda Otto",
+      "character": "Mary Feur",
+      "order": 4
+    },
+    {
+      "name": "Ray Baker",
+      "character": "Dr. Stan Powell",
+      "order": 5
+    },
+    {
+      "name": "Wendy Crewson",
+      "character": "Elena",
+      "order": 6
+    },
+    {
+      "name": "Amber Valletta",
+      "character": "Madison Elizabeth Frank",
+      "order": 7
+    },
+    {
+      "name": "Katharine Towne",
+      "character": "Caitlin Spencer",
+      "order": 8
+    },
+    {
+      "name": "Victoria Bidewell",
+      "character": "Beatrice",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+  "backdrop_path": "/2ormFaKdyP2m8qGcB3cNlk5VjGD.jpg",
+  "budget": 100000000,
+  "revenue": 291420351,
+  "vote_average": 6.427,
+  "vote_count": 1991,
+  "imdb_id": "tt0161081",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,185 @@
+{
+  "tmdb_id": 978,
+  "title": "Seven Years in Tibet",
+  "original_title": "Seven Years in Tibet",
+  "release_date": "1997-09-12",
+  "runtime": 136,
+  "tagline": "At the end of the world his real journey began.",
+  "overview": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Lhasa, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "German",
+    "Mandarin",
+    "Hindi",
+    "English",
+    "Portuguese",
+    "Tibetan"
+  ],
+  "production_companies": [
+    {
+      "name": "Mandalay Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Reperage",
+      "country": "FR"
+    },
+    {
+      "name": "Vanguard Films",
+      "country": "US"
+    },
+    {
+      "name": "Applecross",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jean-Jacques Annaud"
+  ],
+  "writers": [
+    {
+      "name": "Becky Johnston",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Heinrich Harrer",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Iain Smith",
+      "job": "Producer"
+    },
+    {
+      "name": "Jean-Jacques Annaud",
+      "job": "Producer"
+    },
+    {
+      "name": "John H. Williams",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "character": "Heinrich Harrer",
+      "order": 0
+    },
+    {
+      "name": "Jamyang Jamtsho Wangchuk",
+      "character": "Dalai Lama, 14 Years Old",
+      "order": 1
+    },
+    {
+      "name": "David Thewlis",
+      "character": "Peter Aufschnaiter",
+      "order": 2
+    },
+    {
+      "name": "BD Wong",
+      "character": "Ngawang Jigme",
+      "order": 3
+    },
+    {
+      "name": "Mako",
+      "character": "Kungo Tsarong",
+      "order": 4
+    },
+    {
+      "name": "Lhakpa Tsamchoe",
+      "character": "Pema Lhaki",
+      "order": 5
+    },
+    {
+      "name": "Ingeborga Dapkūnaitė",
+      "character": "Ingrid Harrer",
+      "order": 6
+    },
+    {
+      "name": "Duncan Fraser",
+      "character": "British Officer",
+      "order": 7
+    },
+    {
+      "name": "Danny Denzongpa",
+      "character": "Regent",
+      "order": 8
+    },
+    {
+      "name": "Victor Wong",
+      "character": "Chinese 'Amban'",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+  "backdrop_path": "/athnSvS41TEHOSK2Ax0LAM0ulDp.jpg",
+  "budget": 70000000,
+  "revenue": 131457682,
+  "vote_average": 7.161,
+  "vote_count": 3066,
+  "imdb_id": "tt0120102",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

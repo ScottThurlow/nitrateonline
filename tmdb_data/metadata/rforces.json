@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 1641,
+  "title": "Forces of Nature",
+  "original_title": "Forces of Nature",
+  "release_date": "1999-03-12",
+  "runtime": 105,
+  "tagline": "He went from the eye of the storm, into the arms of a hurricane.",
+  "overview": "Ben Holmes, a professional book-jacket blurbologist, is trying to get to Savannah for his wedding. He just barely catches the last plane, but a seagull flies into the engine as the plane is taking off. All later flights are cancelled because of an approaching hurricane, so he is forced to hitch a ride in a Geo Metro with an attractive but eccentric woman named Sara.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Roth/Arnold Productions",
+      "country": ""
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bronwen Hughes"
+  ],
+  "writers": [
+    {
+      "name": "Marc Lawrence",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Susan Arnold",
+      "job": "Producer"
+    },
+    {
+      "name": "Donna Roth",
+      "job": "Producer"
+    },
+    {
+      "name": "Ian Bryce",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "character": "Sarah Lewis",
+      "order": 0
+    },
+    {
+      "name": "Ben Affleck",
+      "character": "Ben Holmes",
+      "order": 1
+    },
+    {
+      "name": "Maura Tierney",
+      "character": "Bridget",
+      "order": 2
+    },
+    {
+      "name": "Steve Zahn",
+      "character": "Alan",
+      "order": 3
+    },
+    {
+      "name": "Blythe Danner",
+      "character": "Virginia",
+      "order": 4
+    },
+    {
+      "name": "Ronny Cox",
+      "character": "Hadley",
+      "order": 5
+    },
+    {
+      "name": "Michael Fairman",
+      "character": "Richard Holmes",
+      "order": 6
+    },
+    {
+      "name": "Janet Carroll",
+      "character": "Barbara Holmes",
+      "order": 7
+    },
+    {
+      "name": "Richard Schiff",
+      "character": "Joe Farrell",
+      "order": 8
+    },
+    {
+      "name": "David Strickland",
+      "character": "Steve Montgomery",
+      "order": 9
+    }
+  ],
+  "poster_path": "/etmjiee84g6G9WALmLkJ1DhenAu.jpg",
+  "backdrop_path": "/lZYsPT5WzDMgHe4tZzO9GHVN9ei.jpg",
+  "budget": 75000000,
+  "revenue": 93888180,
+  "vote_average": 5.452,
+  "vote_count": 588,
+  "imdb_id": "tt0141098",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

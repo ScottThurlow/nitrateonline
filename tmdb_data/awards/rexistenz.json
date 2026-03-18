@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 wins & 14 nominations total",
+  "rated": "R",
+  "released": "23 Apr 1999",
+  "runtime": "97 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "David Cronenberg",
+  "writer": "David Cronenberg",
+  "actors": "Jude Law, Jennifer Jason Leigh, Ian Holm",
+  "plot": "Allegra Geller, the leading game designer in the world, is testing her new virtual reality game, eXistenZ with a focus group. As they begin, she is attacked by a fanatic assassin employing a bizarre organic gun. She flees with a young marketing trainee, Ted Pikul, who is suddenly assigned as her bodyguard. Unfortunately, her pod, an organic gaming device that contains the only copy of the eXistenZ game program, is damaged. To inspect it, she talks Ted into accepting a gameport in his own body so he can play the game with her. The events leading up to this, and the resulting game lead the pair on a strange adventure where reality and their actions are impossible to determine from either their own or the game's perspective.",
+  "language": "English",
+  "country": "United Kingdom, France, Canada",
+  "metascore": "70",
+  "imdb_rating": "6.8",
+  "imdb_votes": "111,094",
+  "box_office": "$2,856,712",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=eXistenZ"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/eXistenZ/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120907/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120907/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1946"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tmdb_id": 2896,
+  "title": "Agitator",
+  "original_title": "荒ぶる魂たち",
+  "release_date": "2001-10-28",
+  "runtime": 150,
+  "tagline": "thank you - and - fu*k you - brother.",
+  "overview": "When a young Yakuza torments the customers in a rival crime family's nightclub, it is not long before his dead body is found. Soon, inter-family retaliation follows, resulting in the death for a prominent crime boss. Devastated by this turn of events, the temperamental Kenzaki vows to avenge his boss's death and, as bloody violence ensues, the body count reaches excessive proportions.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Action"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Daiei Film",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Takashi Miike"
+  ],
+  "writers": [
+    {
+      "name": "Shigenori Takechi",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Yoshihiro Masuda",
+      "job": "Producer"
+    },
+    {
+      "name": "Fujio Matsushima",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Masaya Katō",
+      "character": "Kunihiko",
+      "order": 0
+    },
+    {
+      "name": "Taisaku Akino",
+      "character": "Tsuchiya",
+      "order": 1
+    },
+    {
+      "name": "Kenichi Endo",
+      "character": "Muroi",
+      "order": 2
+    },
+    {
+      "name": "Hakuryu",
+      "character": "Numata",
+      "order": 3
+    },
+    {
+      "name": "Mickey Curtis",
+      "character": "Yokomizo",
+      "order": 4
+    },
+    {
+      "name": "Takashi Miike",
+      "character": "Shinozaki",
+      "order": 5
+    },
+    {
+      "name": "Yoshiyuki Daichi",
+      "character": "Sakuraba",
+      "order": 6
+    },
+    {
+      "name": "Eiichi Furui",
+      "character": "Komine",
+      "order": 7
+    },
+    {
+      "name": "Shinzō Hotta",
+      "character": "Kijima",
+      "order": 8
+    },
+    {
+      "name": "Masatô Ibu",
+      "character": "Mizushima",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kebGMY4ORYs4RGmW4vwa1pXMrbd.jpg",
+  "backdrop_path": "/8l90i4hdsNOOnbWZZNSj3o1r4Lf.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.4,
+  "vote_count": 42,
+  "imdb_id": "tt0305240",
+  "status": "Released"
+}

@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 156,
+  "title": "Wilbur Wants to Kill Himself",
+  "original_title": "Wilbur begår selvmord",
+  "release_date": "2002-11-08",
+  "runtime": 111,
+  "tagline": "Meet a man dying to live",
+  "overview": "The strange comedy film of two close brothers; one, Wilbur, who wants to kill himself, and the other, Harbour, who tries to prevent this. When their father dies leaving them his bookstore they meet a woman who makes their lives a bit better yet with a bit more trouble as well.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Les Films du Losange",
+      "country": "FR"
+    },
+    {
+      "name": "Nordisk Film Denmark",
+      "country": "DK"
+    },
+    {
+      "name": "Scottish Screen",
+      "country": "GB"
+    },
+    {
+      "name": "TV 2",
+      "country": "DK"
+    },
+    {
+      "name": "The Glasgow Film Fund",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Lone Scherfig"
+  ],
+  "writers": [
+    {
+      "name": "Lone Scherfig",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Anders Thomas Jensen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sisse Graum Jørgensen",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Aalbæk Jensen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jamie Sives",
+      "character": "Wilbur",
+      "order": 0
+    },
+    {
+      "name": "Adrian Rawlins",
+      "character": "Harbour",
+      "order": 1
+    },
+    {
+      "name": "Shirley Henderson",
+      "character": "Alice",
+      "order": 2
+    },
+    {
+      "name": "Lisa McKinlay",
+      "character": "Mary",
+      "order": 3
+    },
+    {
+      "name": "Mads Mikkelsen",
+      "character": "Horst",
+      "order": 4
+    },
+    {
+      "name": "Julia Davis",
+      "character": "Moira",
+      "order": 5
+    },
+    {
+      "name": "Susan Vidler",
+      "character": "Sophie",
+      "order": 6
+    },
+    {
+      "name": "Lorraine McIntosh",
+      "character": "Ruby",
+      "order": 7
+    },
+    {
+      "name": "Gordon Brown",
+      "character": "Wayne",
+      "order": 8
+    },
+    {
+      "name": "Mhairi Morrison",
+      "character": "Claire",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bRrHJbr8kMb849IKBZ0RBk2Vmte.jpg",
+  "backdrop_path": "/2bCcbNyB1g5F8CXqABo0JsNig73.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.534,
+  "vote_count": 102,
+  "imdb_id": "tt0329767",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 23990,
+  "title": "Scarlet Diva",
+  "original_title": "Scarlet Diva",
+  "release_date": "2000-05-26",
+  "runtime": 91,
+  "tagline": "",
+  "overview": "A young Italian actress embarks on a self-destructive spree of sex, drugs and other excess while doing some soul searching to find the path for redemption.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Opera Film Produzione",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Asia Argento"
+  ],
+  "writers": [
+    {
+      "name": "Asia Argento",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Claudio Argento",
+      "job": "Producer"
+    },
+    {
+      "name": "Dario Argento",
+      "job": "Producer"
+    },
+    {
+      "name": "Gianluca Curti",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stefano Curti",
+      "job": "Producer"
+    },
+    {
+      "name": "Adriana Chiesa De Palma",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Sirabella",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Asia Argento",
+      "character": "Anna Battista",
+      "order": 0
+    },
+    {
+      "name": "Jean Shepard",
+      "character": "Kirk Vaines",
+      "order": 1
+    },
+    {
+      "name": "Herbert Fritsch",
+      "character": "Aaron Ulrich",
+      "order": 2
+    },
+    {
+      "name": "Gianluca Arcopinto",
+      "character": "Dr. Pascuccia",
+      "order": 3
+    },
+    {
+      "name": "Vera Gemma",
+      "character": "Veronica Lanza",
+      "order": 4
+    },
+    {
+      "name": "Daria Nicolodi",
+      "character": "Anna's Mother",
+      "order": 5
+    },
+    {
+      "name": "Francesca D'Aloja",
+      "character": "Margherita",
+      "order": 6
+    },
+    {
+      "name": "Joe Coleman",
+      "character": "Mr. Paar",
+      "order": 7
+    },
+    {
+      "name": "Leo Gullotta",
+      "character": "Dr. Vessi",
+      "order": 8
+    },
+    {
+      "name": "Schoolly D",
+      "character": "Hash-Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zo2uucPQ9FaGCwRG2tRV4V2KBVj.jpg",
+  "backdrop_path": "/hsOqtX5G0y27hfsD22D5jgUWhgX.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.7,
+  "vote_count": 67,
+  "imdb_id": "tt0218581",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    }
+  ],
+  "status": "Released"
+}

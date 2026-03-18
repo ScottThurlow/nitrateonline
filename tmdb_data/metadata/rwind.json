@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 13370,
+  "title": "A Mighty Wind",
+  "original_title": "A Mighty Wind",
+  "release_date": "2003-04-16",
+  "runtime": 92,
+  "tagline": "Back together for the first time, again.",
+  "overview": "Three eclectic, never-quite-famous folk bands come together for the first time in decades following the death of their manager to put on an reunion concert in his honor, at the request of his son.",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Christopher Guest"
+  ],
+  "writers": [
+    {
+      "name": "Christopher Guest",
+      "job": "Writer"
+    },
+    {
+      "name": "Eugene Levy",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Karen Murphy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bob Balaban",
+      "character": "Jonathan Steinbloom",
+      "order": 0
+    },
+    {
+      "name": "Christopher Guest",
+      "character": "Alan Barrows",
+      "order": 1
+    },
+    {
+      "name": "John Michael Higgins",
+      "character": "Terry Bohner",
+      "order": 2
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Mitch Cohen",
+      "order": 3
+    },
+    {
+      "name": "Jane Lynch",
+      "character": "Laurie Bohner",
+      "order": 4
+    },
+    {
+      "name": "Michael McKean",
+      "character": "Jerry Palter",
+      "order": 5
+    },
+    {
+      "name": "Catherine O'Hara",
+      "character": "Mickey Crabbe",
+      "order": 6
+    },
+    {
+      "name": "Parker Posey",
+      "character": "Sissy Knox",
+      "order": 7
+    },
+    {
+      "name": "Harry Shearer",
+      "character": "Mark Shubb",
+      "order": 8
+    },
+    {
+      "name": "Fred Willard",
+      "character": "Mike LaFontaine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5wUYwAD75BxtJ0Mp4da6XzHIFex.jpg",
+  "backdrop_path": "/4dZnJLpTzy6FKtrZmoViw3yh0CO.jpg",
+  "budget": 6000000,
+  "revenue": 18750246,
+  "vote_average": 6.754,
+  "vote_count": 260,
+  "imdb_id": "tt0310281",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

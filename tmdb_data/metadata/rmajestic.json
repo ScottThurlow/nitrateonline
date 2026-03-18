@@ -1,0 +1,159 @@
+{
+  "tmdb_id": 11086,
+  "title": "The Majestic",
+  "original_title": "The Majestic",
+  "release_date": "2001-12-21",
+  "runtime": 152,
+  "tagline": "Sometimes your life comes into focus one frame at a time.",
+  "overview": "Set in 1951, a blacklisted Hollywood writer gets into a car accident, loses his memory and settles down in a small town where he is mistaken for a long-lost son.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Darkwoods Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Frank Darabont"
+  ],
+  "writers": [
+    {
+      "name": "Michael Sloane",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Darabont",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Behnke",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "character": "Peter Appleton",
+      "order": 0
+    },
+    {
+      "name": "Martin Landau",
+      "character": "Harry Trimble",
+      "order": 1
+    },
+    {
+      "name": "Laurie Holden",
+      "character": "Adele Stanton",
+      "order": 2
+    },
+    {
+      "name": "Gerry Black",
+      "character": "Emmett Smith",
+      "order": 3
+    },
+    {
+      "name": "David Ogden Stiers",
+      "character": "Doc Stanton",
+      "order": 4
+    },
+    {
+      "name": "Bob Balaban",
+      "character": "Elvin Glyde",
+      "order": 5
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "character": "Mayor Ernie Cole",
+      "order": 6
+    },
+    {
+      "name": "Hal Holbrook",
+      "character": "Congressman Doyle",
+      "order": 7
+    },
+    {
+      "name": "Brent Briscoe",
+      "character": "Sheriff Cecil Coleman",
+      "order": 8
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "Kevin Bannerman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/m9WrB91B8ghxIZhyFugkoSleBE7.jpg",
+  "backdrop_path": "/1K1dvjsHOBrj03NqpfSWmrkdzIk.jpg",
+  "budget": 72000000,
+  "revenue": 37317673,
+  "vote_average": 6.741,
+  "vote_count": 819,
+  "imdb_id": "tt0268995",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "10"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

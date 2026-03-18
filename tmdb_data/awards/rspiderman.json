@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 2 Oscars. 17 wins & 65 nominations total",
+  "rated": "PG-13",
+  "released": "03 May 2002",
+  "runtime": "121 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Sam Raimi",
+  "writer": "Stan Lee, Steve Ditko, David Koepp",
+  "actors": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+  "plot": "Based on Marvel Comics' superhero character, this is a story of Peter Parker who is a nerdy high-schooler. He was orphaned as a child, bullied by jocks, and can't confess his crush for his stunning neighborhood girl Mary Jane Watson. To say his life is \"miserable\" is an understatement. But one day while on an excursion to a laboratory a runaway radioactive spider bites him... and his life changes in a way no one could have imagined. Peter acquires a muscle-bound physique, clear vision, ability to cling to surfaces and crawl over walls, shooting webs from his wrist ... but the fun isn't going to last. An eccentric millionaire Norman Osborn administers a performance enhancing drug on himself and his maniacal alter ego Green Goblin emerges. Now Peter Parker has to become Spider-Man and take Green Goblin to the task... or else Goblin will kill him. They come face to face and the war begins in which only one of them will survive at the end.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.4",
+  "imdb_votes": "958,249",
+  "box_office": "$408,524,875",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Spider-Man"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Spider-Man/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0145487/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0145487/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/557"
+  }
+}

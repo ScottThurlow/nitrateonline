@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "24 Aug 2001",
+  "runtime": "98 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "John Carpenter",
+  "writer": "Larry Sulkis, John Carpenter",
+  "actors": "Natasha Henstridge, Ice Cube, Pam Grier",
+  "plot": "200 years in the future a Martian police unit is dispatched to transport a dangerous prisoner from a mining outpost back to justice. But when the team arrives they find the town deserted and some of the inhabitants possessed by the former inhabitants of the planet.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "35",
+  "imdb_rating": "4.9",
+  "imdb_votes": "61,438",
+  "box_office": "$8,709,640",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "23%",
+      "link": "https://www.rottentomatoes.com/search?search=Ghosts+of+Mars"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/Ghosts+of+Mars/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0228333/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0228333/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10016"
+  }
+}

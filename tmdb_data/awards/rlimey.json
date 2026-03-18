@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 9 nominations total",
+  "rated": "R",
+  "released": "04 Aug 1999",
+  "runtime": "89 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Steven Soderbergh",
+  "writer": "Lem Dobbs",
+  "actors": "Terence Stamp, Peter Fonda, Lesley Ann Warren",
+  "plot": "An ex-con, fresh out of prison, goes to L.A. to try to learn who murdered his daughter. However, he quickly finds that he is completely out of place with no understanding of the culture he finds. His investigations are helped by another ex-con. Together they learn that his daughter had been having an affair with a record producer, who is presently having an affair with another young woman. An aging actress, who also knew his daughter, forces him to look at his own failures as a father. The movie does focus on the drama of the situation and the inter-relationships of the characters and seldom slips into an action piece.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "6.9",
+  "imdb_votes": "37,295",
+  "box_office": "$3,204,663",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Limey"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/The+Limey/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0165854/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0165854/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10388"
+  }
+}

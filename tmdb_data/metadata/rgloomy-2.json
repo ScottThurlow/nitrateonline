@@ -1,0 +1,121 @@
+{
+  "tmdb_id": 1277,
+  "title": "Gloomy Sunday",
+  "original_title": "Ein Lied von Liebe und Tod - Gloomy Sunday",
+  "release_date": "1999-10-21",
+  "runtime": 112,
+  "tagline": "",
+  "overview": "Budapest in the thirties. The restaurant owner Laszlo hires the pianist András to play in his restaurant. Both men fall in love with the beautiful waitress Ilona who inspires András to his only composition. His song of Gloomy Sunday is, at first, loved and then feared, for its melancholic melody triggers off a chain of suicides. The fragile balance of the erotic ménage à trois is sent off kilter when the German Hans goes and falls in love with Ilona as well.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "German",
+    "English",
+    "Hungarian"
+  ],
+  "production_companies": [
+    {
+      "name": "Studio Hamburg Filmproduktion",
+      "country": "DE"
+    },
+    {
+      "name": "Dom Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Rolf Schübel"
+  ],
+  "writers": [
+    {
+      "name": "Nick Barkow",
+      "job": "Original Story"
+    },
+    {
+      "name": "Rolf Schübel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ruth Toma",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Richard Schöps",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marozsán Erika",
+      "character": "Ilona",
+      "order": 0
+    },
+    {
+      "name": "Joachim Król",
+      "character": "László",
+      "order": 1
+    },
+    {
+      "name": "Ben Becker",
+      "character": "Hans Wieck",
+      "order": 2
+    },
+    {
+      "name": "Stefano Dionisi",
+      "character": "András",
+      "order": 3
+    },
+    {
+      "name": "András Bálint",
+      "character": "Ilonas Sohn",
+      "order": 4
+    },
+    {
+      "name": "Géza Boros",
+      "character": "Geigenspieler",
+      "order": 5
+    },
+    {
+      "name": "Rolf Becker",
+      "character": "Der alte Wieck",
+      "order": 6
+    },
+    {
+      "name": "Ilse Zielstorff",
+      "character": "Frau Wieck",
+      "order": 7
+    },
+    {
+      "name": "Ferenc Bács",
+      "character": "Botschafter",
+      "order": 8
+    },
+    {
+      "name": "Júlia Zsolnai",
+      "character": "Frau Botschafter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7cjNxmJUmz3gaaN6LYRJuEYtaKe.jpg",
+  "backdrop_path": "/7AkasKcoVAvK7WCW3kDiOY4Z3KY.jpg",
+  "budget": 0,
+  "revenue": 585604,
+  "vote_average": 7.687,
+  "vote_count": 67,
+  "imdb_id": "tt0155722",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    }
+  ],
+  "status": "Released"
+}

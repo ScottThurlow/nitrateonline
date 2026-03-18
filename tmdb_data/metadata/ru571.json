@@ -1,0 +1,186 @@
+{
+  "tmdb_id": 3536,
+  "title": "U-571",
+  "original_title": "U-571",
+  "release_date": "2000-04-20",
+  "runtime": 116,
+  "tagline": "Heroes are ordinary men who do extraordinary things in extraordinary times.",
+  "overview": "In the midst of World War II, the battle under the sea rages and the Nazis have the upper hand as the Allies are unable to crack their war codes. However, after a wrecked U-boat sends out an SOS signal, the Allies realise this is their chance to seize the 'enigma coding machine'.",
+  "genres": [
+    "War",
+    "Action",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "The De Laurentiis Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Mostow"
+  ],
+  "writers": [
+    {
+      "name": "David Ayer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Sam Montgomery",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jonathan Mostow",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dino De Laurentiis",
+      "job": "Producer"
+    },
+    {
+      "name": "Martha De Laurentiis",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew McConaughey",
+      "character": "Lt. Andrew Tyler",
+      "order": 0
+    },
+    {
+      "name": "Bill Paxton",
+      "character": "Lt. Cmdr. Mike Dahlgren",
+      "order": 1
+    },
+    {
+      "name": "Harvey Keitel",
+      "character": "CPO Henry Klough",
+      "order": 2
+    },
+    {
+      "name": "Jon Bon Jovi",
+      "character": "Lt. Pete Emmett",
+      "order": 3
+    },
+    {
+      "name": "David Keith",
+      "character": "Maj. Matthew Coonen",
+      "order": 4
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "character": "Capt. Lt. Gunther Wassner",
+      "order": 5
+    },
+    {
+      "name": "Jake Weber",
+      "character": "Lt. Hirsch",
+      "order": 6
+    },
+    {
+      "name": "Jack Noseworthy",
+      "character": "Bill Wentz",
+      "order": 7
+    },
+    {
+      "name": "Tom Guiry",
+      "character": "Ted Trigger Fitzgerald",
+      "order": 8
+    },
+    {
+      "name": "Will Estes",
+      "character": "Ronald Rabbit Parker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7lc7jXmjQmITnfUBX7nN4kxKKbI.jpg",
+  "backdrop_path": "/lLWTiGXchR54rGizSIdK9Ibaylx.jpg",
+  "budget": 62000000,
+  "revenue": 127700000,
+  "vote_average": 6.523,
+  "vote_count": 1326,
+  "imdb_id": "tt0141926",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

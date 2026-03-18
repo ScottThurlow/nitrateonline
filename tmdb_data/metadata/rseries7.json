@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 19513,
+  "title": "Series 7: The Contenders",
+  "original_title": "Series 7: The Contenders",
+  "release_date": "2001-01-20",
+  "runtime": 87,
+  "tagline": "Real People in Real Danger!",
+  "overview": "A reality TV program selects six contestants to participate in a free-for-all, no holds barred deathmatch, where they must skillfully outwit and kill each other in order to be the last person alive.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "October Films",
+      "country": "US"
+    },
+    {
+      "name": "Open City Films",
+      "country": "US"
+    },
+    {
+      "name": "Killer Films",
+      "country": "US"
+    },
+    {
+      "name": "Blow Up Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Daniel Minahan"
+  ],
+  "writers": [
+    {
+      "name": "Daniel Minahan",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jason Kliot",
+      "job": "Producer"
+    },
+    {
+      "name": "Joana Vicente",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Vachon",
+      "job": "Producer"
+    },
+    {
+      "name": "Katie Roumel",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brooke Smith",
+      "character": "Dawn",
+      "order": 0
+    },
+    {
+      "name": "Mark Woodbury",
+      "character": "Dairy Mart Clerk",
+      "order": 1
+    },
+    {
+      "name": "Michael Kaycheck",
+      "character": "Tony",
+      "order": 2
+    },
+    {
+      "name": "Marylouise Burke",
+      "character": "Connie",
+      "order": 3
+    },
+    {
+      "name": "Richard Venture",
+      "character": "Franklin",
+      "order": 4
+    },
+    {
+      "name": "Donna Hanover",
+      "character": "Sheila",
+      "order": 5
+    },
+    {
+      "name": "Merritt Wever",
+      "character": "Lindsay",
+      "order": 6
+    },
+    {
+      "name": "Glenn Fitzgerald",
+      "character": "Jeff",
+      "order": 7
+    },
+    {
+      "name": "Angelina Phillips",
+      "character": "Doria",
+      "order": 8
+    },
+    {
+      "name": "Tom Gilroy",
+      "character": "Dawn's Cameraman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/85tuJxQdjQcec3DTMc9dxwlYYfi.jpg",
+  "backdrop_path": "/vSAtqIdjJmoPjTkOZoV8X2f70nw.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.23,
+  "vote_count": 74,
+  "imdb_id": "tt0251031",
+  "certifications": [],
+  "status": "Released"
+}

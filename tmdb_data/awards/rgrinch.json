@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 1 Oscar. 18 wins & 37 nominations total",
+  "rated": "PG",
+  "released": "17 Nov 2000",
+  "runtime": "104 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Ron Howard",
+  "writer": "Dr. Seuss, Jeffrey Price, Peter S. Seaman",
+  "actors": "Jim Carrey, Taylor Momsen, Kelley",
+  "plot": "Inside a snowflake exists the magical land of Whoville, wherein live the Whos, an almost-mutated sort of Munchkin-like people who all love Christmas. Just outside of their beloved town lives the Grinch (Jim Carrey), a nasty creature that hates Christmas and plans to steal it from the Whos, which he equally abhors. Little Cindy Lou Who (Taylor Momsen) decides to befriend the Grinch.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "46",
+  "imdb_rating": "6.4",
+  "imdb_votes": "331,546",
+  "box_office": "$264,965,545",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "50%",
+      "link": "https://www.rottentomatoes.com/search?search=How+the+Grinch+Stole+Christmas"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/How+the+Grinch+Stole+Christmas/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0170016/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0170016/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8871"
+  }
+}

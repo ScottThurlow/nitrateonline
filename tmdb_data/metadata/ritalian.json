@@ -1,0 +1,241 @@
+{
+  "tmdb_id": 9654,
+  "title": "The Italian Job",
+  "original_title": "The Italian Job",
+  "release_date": "2003-05-30",
+  "runtime": 110,
+  "tagline": "Get in. Get out. Get even.",
+  "overview": "Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.",
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Ukrainian",
+    "English",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "De Line Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Peninsula Films",
+      "country": "FR"
+    },
+    {
+      "name": "Senator International",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "F. Gary Gray"
+  ],
+  "writers": [
+    {
+      "name": "Donna Powers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Wayne Powers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Troy Kennedy Martin",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tim Bevan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Donald De Line",
+      "job": "Producer"
+    },
+    {
+      "name": "James Dyer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wendy Japhet",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Wahlberg",
+      "character": "Charlie Croker",
+      "order": 0
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Stella Bridger",
+      "order": 1
+    },
+    {
+      "name": "Edward Norton",
+      "character": "Steve",
+      "order": 2
+    },
+    {
+      "name": "Seth Green",
+      "character": "Lyle",
+      "order": 3
+    },
+    {
+      "name": "Jason Statham",
+      "character": "Handsome Rob",
+      "order": 4
+    },
+    {
+      "name": "Yasiin Bey",
+      "character": "Left Ear",
+      "order": 5
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "John Bridger",
+      "order": 6
+    },
+    {
+      "name": "Olek Krupa",
+      "character": "Mashkov",
+      "order": 7
+    },
+    {
+      "name": "Boris Lee Krutonog",
+      "character": "Yevhen",
+      "order": 8
+    },
+    {
+      "name": "Fausto Callegarini",
+      "character": "Italian Guard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+  "backdrop_path": "/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
+  "budget": 60000000,
+  "revenue": 176070171,
+  "vote_average": 6.785,
+  "vote_count": 5915,
+  "imdb_id": "tt0317740",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "11 Aug 2000",
+  "runtime": "118 min",
+  "genre": "Comedy, Sport",
+  "director": "Howard Deutch",
+  "writer": "Vince McKewin",
+  "actors": "Keanu Reeves, Gene Hackman, Brooke Langton",
+  "plot": "A comedy based on the 1987 professional football players' strike. Gene Hackman plays the coach of the team, Jack Warden is the owner, Brett Cullen is the All-Pro quarterback that goes on strike and Keanu Reeves is the \"scab\" who replaces the star QB.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "metascore": "30",
+  "imdb_rating": "6.6",
+  "imdb_votes": "73,622",
+  "box_office": "$44,737,059",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Replacements"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/The+Replacements/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0191397/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0191397/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10393"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "3 wins & 19 nominations total",
+  "rated": "PG-13",
+  "released": "13 Dec 1996",
+  "runtime": "106 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "Tim Burton",
+  "writer": "Len Brown, Woody Gelman, Wally Wood",
+  "actors": "Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker",
+  "plot": "It is a normal day for everyone, until President of the United States James Dale (Jack Nicholson) announces Martians have been spotted circling Earth. The Martians land and a meeting is arranged, but not everything goes to plan, and the Martians seem to have other plans for Earth. Are they just misunderstood beings or do they really want to destroy all of humanity?",
+  "language": "English, French",
+  "country": "United States, Japan, United Kingdom",
+  "metascore": "52",
+  "imdb_rating": "6.4",
+  "imdb_votes": "255,116",
+  "box_office": "$37,781,197",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "55%",
+      "link": "https://www.rottentomatoes.com/search?search=Mars+Attacks%21"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Mars+Attacks%21/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0116996/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0116996/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/75"
+  }
+}

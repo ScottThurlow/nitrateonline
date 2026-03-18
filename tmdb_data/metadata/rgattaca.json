@@ -1,0 +1,190 @@
+{
+  "tmdb_id": 782,
+  "title": "Gattaca",
+  "original_title": "Gattaca",
+  "release_date": "1997-07-09",
+  "runtime": 107,
+  "tagline": "There is no gene for the human spirit.",
+  "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Esperanto"
+  ],
+  "production_companies": [
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Niccol"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Niccol",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ethan Hawke",
+      "character": "Vincent Freeman",
+      "order": 0
+    },
+    {
+      "name": "Uma Thurman",
+      "character": "Irene Cassini",
+      "order": 1
+    },
+    {
+      "name": "Jude Law",
+      "character": "Jerome Eugene Morrow",
+      "order": 2
+    },
+    {
+      "name": "Alan Arkin",
+      "character": "Detective Hugo",
+      "order": 3
+    },
+    {
+      "name": "Loren Dean",
+      "character": "Adult Anton Freeman",
+      "order": 4
+    },
+    {
+      "name": "Gore Vidal",
+      "character": "Director Josef",
+      "order": 5
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "\"German\"",
+      "order": 6
+    },
+    {
+      "name": "Ernest Borgnine",
+      "character": "Caesar",
+      "order": 7
+    },
+    {
+      "name": "Blair Underwood",
+      "character": "Geneticist",
+      "order": 8
+    },
+    {
+      "name": "Xander Berkeley",
+      "character": "Dr. Lamar",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+  "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+  "budget": 36000000,
+  "revenue": 12532777,
+  "vote_average": 7.567,
+  "vote_count": 6819,
+  "imdb_id": "tt0119177",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

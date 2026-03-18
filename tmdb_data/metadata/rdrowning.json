@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 25166,
+  "title": "Drowning Mona",
+  "original_title": "Drowning Mona",
+  "release_date": "2000-03-03",
+  "runtime": 96,
+  "tagline": "The death of Mona Dearly wasn't so much a whodunnit, as a who didn't.",
+  "overview": "A Sheriff investigating the murder of an upstate New York women learns that her extremely hateful ways gave the whole town a motive to be rid of her.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Neverland Films",
+      "country": "US"
+    },
+    {
+      "name": "Code Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Jersey Shore",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Nick Gomez"
+  ],
+  "writers": [
+    {
+      "name": "Peter Steinfeld",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bart Rosenblatt",
+      "job": "Producer"
+    },
+    {
+      "name": "Eugene Musso",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny DeVito",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Shamberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Weisgal",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Al Corley",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Danny DeVito",
+      "character": "Chief Wyatt Rash",
+      "order": 0
+    },
+    {
+      "name": "Bette Midler",
+      "character": "Mona Dearly",
+      "order": 1
+    },
+    {
+      "name": "Neve Campbell",
+      "character": "Ellen Rash",
+      "order": 2
+    },
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Rona Mace",
+      "order": 3
+    },
+    {
+      "name": "Casey Affleck",
+      "character": "Bobby Calzone",
+      "order": 4
+    },
+    {
+      "name": "William Fichtner",
+      "character": "Phil Dearly",
+      "order": 5
+    },
+    {
+      "name": "Marcus Thomas",
+      "character": "Jeff Dearly",
+      "order": 6
+    },
+    {
+      "name": "Peter Dobson",
+      "character": "Lt. Feege Gruber",
+      "order": 7
+    },
+    {
+      "name": "Kathleen Wilhoite",
+      "character": "Lucinda",
+      "order": 8
+    },
+    {
+      "name": "Tracey Walter",
+      "character": "Clarence",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iuN2SXCGPIlC7pAPCOzqAdeaDji.jpg",
+  "backdrop_path": "/a7dYlan85gcc8fyMGpPQugsTFXd.jpg",
+  "budget": 6000000,
+  "revenue": 15427192,
+  "vote_average": 5.457,
+  "vote_count": 187,
+  "imdb_id": "tt0186045",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

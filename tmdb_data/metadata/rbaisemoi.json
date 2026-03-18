@@ -1,0 +1,141 @@
+{
+  "tmdb_id": 3134,
+  "title": "Baise-moi",
+  "original_title": "Baise-moi",
+  "release_date": "2000-06-28",
+  "runtime": 77,
+  "tagline": "Art or Pornography? You be the judge! Complete and Uncut the most controversial film of all time...A hard-core Thelma & Louise.",
+  "overview": "Nadine and Manu are two mad women, as tidy as can be, almost perfectionists. They have several things in common: extreme sex, drugs, beer and the trigger. They find the solution to their problems with guns and beware to those who dare to get in their way!",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Toute Premiere Fois",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Coralie Trinh Thi",
+    "Virginie Despentes"
+  ],
+  "writers": [
+    {
+      "name": "Coralie Trinh Thi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Virginie Despentes",
+      "job": "Novel"
+    },
+    {
+      "name": "Virginie Despentes",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dominique Chiron",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Philippe Godeau",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Karen Lancaume",
+      "character": "Nadine",
+      "order": 0
+    },
+    {
+      "name": "Raffaëla Anderson",
+      "character": "Manu",
+      "order": 1
+    },
+    {
+      "name": "Ouassini Embarek",
+      "character": "Radouan",
+      "order": 2
+    },
+    {
+      "name": "Adama Niane",
+      "character": "Man in Pool Hall",
+      "order": 3
+    },
+    {
+      "name": "Marc Barrow",
+      "character": "Hotel Receptionist",
+      "order": 4
+    },
+    {
+      "name": "Patrick Eudeline",
+      "character": "Francis",
+      "order": 5
+    },
+    {
+      "name": "Ian Scott",
+      "character": "Rapist",
+      "order": 6
+    },
+    {
+      "name": "Zenza Raggi",
+      "character": "Big Guy",
+      "order": 7
+    },
+    {
+      "name": "Jean-Louis Costes",
+      "character": "Man in Swinger Club",
+      "order": 8
+    },
+    {
+      "name": "Titof",
+      "character": "Cute Guy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zmkh7qyNIQmx2xi972WL39wzqOH.jpg",
+  "backdrop_path": "/VzGoYOsn18PRcnab6qIJBC1DOs.jpg",
+  "budget": 0,
+  "revenue": 940944,
+  "vote_average": 4.8,
+  "vote_count": 478,
+  "imdb_id": "tt0249380",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins total",
+  "rated": "R",
+  "released": "26 May 2000",
+  "runtime": "90 min",
+  "genre": "Drama",
+  "director": "Asia Argento",
+  "writer": "Asia Argento",
+  "actors": "Asia Argento, Jean Shepard, Herbert Fritsch",
+  "plot": "A young Italian actress embarks on a self-destructive spree of sex, drugs and other excess while doing some soul searching to find the path for redemption.",
+  "language": "English, Italian, French",
+  "country": "Italy",
+  "metascore": "48",
+  "imdb_rating": "5.0",
+  "imdb_votes": "2,841",
+  "box_office": "$18,062",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=Scarlet+Diva"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Scarlet+Diva/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0218581/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0218581/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/23990"
+  }
+}

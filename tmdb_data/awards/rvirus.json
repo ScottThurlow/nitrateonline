@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "15 Jan 1999",
+  "runtime": "99 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "John Bruno",
+  "writer": "Chuck Pfarrer, Dennis Feldman",
+  "actors": "Jamie Lee Curtis, Donald Sutherland, William Baldwin",
+  "plot": "When a typhoon cripples their boat, the crew sails into the eye of the storm, where they discover a high-tech Russian communications and research vessel adrift. Only one Russian crew member is still alive, raving about \"intelligent lightning.\" They soon discover that an alien life form has taken over the ship's computers and is churning out mechanical warriors. With their own boat destroyed, the crew must battle the creature as the ship reenters the storm.",
+  "language": "English, Russian",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "metascore": "19",
+  "imdb_rating": "5.1",
+  "imdb_votes": "31,516",
+  "box_office": "$14,036,005",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=Virus"
+    },
+    {
+      "source": "Metacritic",
+      "value": "19/100",
+      "link": "https://www.metacritic.com/search/Virus/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120458/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120458/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9423"
+  }
+}

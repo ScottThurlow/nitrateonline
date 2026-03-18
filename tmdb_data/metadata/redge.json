@@ -1,0 +1,102 @@
+{
+  "tmdb_id": 9433,
+  "title": "The Edge",
+  "original_title": "The Edge",
+  "release_date": "1997-09-06",
+  "runtime": 117,
+  "tagline": "They were fighting over a woman when the plane went down. Now, their only chance for survival is each other.",
+  "overview": "The plane carrying wealthy Charles Morse crashes down in the Alaskan wilderness. Together with the two other passengers, photographer Robert and assistant Stephen, Charles devises a plan to help them reach civilization. However, his biggest obstacle might not be the elements, or even the Kodiak bear stalking them -- it could be Robert, whom Charles suspects is having an affair with his wife and would not mind seeing him dead.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Linson Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lee Tamahori"
+  ],
+  "writers": [
+    {
+      "name": "David Mamet",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Art Linson",
+      "job": "Producer"
+    },
+    {
+      "name": "Lloyd Phillips",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anthony Hopkins",
+      "character": "Charles Morse",
+      "order": 0
+    },
+    {
+      "name": "Alec Baldwin",
+      "character": "Robert Green",
+      "order": 1
+    },
+    {
+      "name": "Elle Macpherson",
+      "character": "Mickey Morse",
+      "order": 2
+    },
+    {
+      "name": "Harold Perrineau",
+      "character": "Stephen",
+      "order": 3
+    },
+    {
+      "name": "L.Q. Jones",
+      "character": "Styles",
+      "order": 4
+    },
+    {
+      "name": "Kathleen Wilhoite",
+      "character": "Ginny",
+      "order": 5
+    },
+    {
+      "name": "Mark Kiely",
+      "character": "Mechanic",
+      "order": 6
+    },
+    {
+      "name": "Eli Gabay",
+      "character": "Jet Pilot",
+      "order": 7
+    },
+    {
+      "name": "Larry Musser",
+      "character": "Amphibian Pilot",
+      "order": 8
+    },
+    {
+      "name": "Bart the Bear",
+      "character": "Bear",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg",
+  "backdrop_path": "/yU3nJxP2vNy8OQdDsfV09elG4k9.jpg",
+  "budget": 30000000,
+  "revenue": 43300000,
+  "vote_average": 6.844,
+  "vote_count": 1289,
+  "imdb_id": "tt0119051",
+  "status": "Released"
+}

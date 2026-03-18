@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 11779,
+  "title": "Buena Vista Social Club",
+  "original_title": "Buena Vista Social Club",
+  "release_date": "1999-06-04",
+  "runtime": 105,
+  "tagline": "In Havana, music isn't a pastime, it's a way of life.",
+  "overview": "In this fascinating Oscar-nominated documentary, American guitarist Ry Cooder brings together a group of legendary Cuban folk musicians (some in their 90s) to record a Grammy-winning CD in their native city of Havana. The result is a spectacular compilation of concert footage from the group's gigs in Amsterdam and New York City's famed Carnegie Hall, with director Wim Wenders capturing not only the music -- but also the musicians' life stories.",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Kintop Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Road Movies",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Wim Wenders"
+  ],
+  "writers": [
+    {
+      "name": "Nick Gold",
+      "job": "Original Concept"
+    },
+    {
+      "name": "Wim Wenders",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Deepak Nayar",
+      "job": "Producer"
+    },
+    {
+      "name": "Ulrich Felsberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Ulrich Felsberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Compay Segundo",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Eliades Ochoa",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Ry Cooder",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Joachim Cooder",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Ibrahim Ferrer",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Omara Portuondo",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Rubén González",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Orlando 'Cachaíto' López",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "Amadito Valdés",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Manuel 'Guajiro' Mirabal",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b203Z3qwCRMLOY00XZh4qNQCwM4.jpg",
+  "backdrop_path": "/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.499,
+  "vote_count": 369,
+  "imdb_id": "tt0186508",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "17 Apr 1998",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Nicholas Hytner",
+  "writer": "Stephen McCauley, Wendy Wasserstein",
+  "actors": "Jennifer Aniston, Paul Rudd, Kali Rocha",
+  "plot": "A pregnant New York City social worker begins to develop romantic feelings for her gay best friend, and decides she'd rather raise her child with him, much to the dismay of her overbearing boyfriend.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "6.0",
+  "imdb_votes": "21,917",
+  "box_office": "$29,187,243",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Object+of+My+Affection"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/The+Object+of+My+Affection/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120772/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120772/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17127"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "23 wins & 9 nominations",
+  "rated": "R",
+  "released": "15 Sep 2000",
+  "runtime": "87 min",
+  "genre": "Drama",
+  "director": "Denis Villeneuve",
+  "writer": "Denis Villeneuve",
+  "actors": "Marie-Josée Croze, Jean-Nicolas Verreault, Stephanie Morgenstern",
+  "plot": "On the surface, twenty-five year old Bibiane Champagne has the perfect life. She is the daughter of the famed Flo Fabert. She co-owns a chain of boutiques in Quebec with her brother, Philippe. But Bibi's life is in shambles. She has just had an abortion. And the boutiques are failing because of her incompetence, which is the result of or has led to her substance abuse. It is also the result of the high expectations on her. Bibi's story is told by a fish awaiting decapitation on a butcher's block, the fish as narrator largely because of the singular and accidental encounter she has with fifty-three year old Norwegian fishmonger, Annstein Karlsen. That encounter leads to a further failed decision by Bibi and a meeting with Annstein's son, Evian Karlsen, who does not know the full extent of Bibi and his father's relationship. Bibi's time with Evian may provide some salvation to her crumbling life.",
+  "language": "French, English, Norwegian",
+  "country": "Canada",
+  "metascore": "66",
+  "imdb_rating": "6.7",
+  "imdb_votes": "7,502",
+  "box_office": "$254,380",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=Maelstrom"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Maelstrom/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0220627/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0220627/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/35650"
+  }
+}

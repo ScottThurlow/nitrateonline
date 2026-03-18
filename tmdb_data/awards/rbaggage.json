@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "2 wins & 3 nominations total",
+  "rated": "PG-13",
+  "released": "29 Aug 1997",
+  "runtime": "101 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Marco Brambilla",
+  "writer": "Max D. Adams, Dick Clement, Ian La Frenais",
+  "actors": "Alicia Silverstone, Benicio Del Toro, Christopher Walken",
+  "plot": "Emily has always been the rich brat who tries to pull every imaginable stunt to get attention. But one day, as she fakes her own kidnapping and locks herself in the trunk of a car, a thief steals the car, with her inside. She is attracted by his reckless lifestyle and the situation makes her kidnapping the more real and frightening for her father.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "34",
+  "imdb_rating": "5.4",
+  "imdb_votes": "14,760",
+  "box_office": "$14,515,490",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "33%",
+      "link": "https://www.rottentomatoes.com/search?search=Excess+Baggage"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/Excess+Baggage/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119086/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119086/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/26180"
+  }
+}

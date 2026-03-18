@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 55123,
+  "title": "Tumbleweeds",
+  "original_title": "Tumbleweeds",
+  "release_date": "1999-11-24",
+  "runtime": 102,
+  "tagline": "They ran away from everything but each other.",
+  "overview": "Whenever trouble strikes in one of her relationships, single mother Mary Jo Walker and her daughter, Ava, pack up and move to another city, a routine Ava is tiring of. This time, they are helped on their move to San Diego by trucker Jack Ranson. While Ava settles in, getting a leading part in the school play, Jack starts dating Mary Jo but soon reveals himself to be controlling and aggressive. Mary Jo prepares to flee again, angering Ava.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fine Line Features",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gavin O'Connor"
+  ],
+  "writers": [
+    {
+      "name": "Angela Shelton",
+      "job": "Story"
+    },
+    {
+      "name": "Angela Shelton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gavin O'Connor",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ted Demme",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Thomas J. Mangan IV",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry McFadden",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gavin O'Connor",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Greg O'Connor",
+      "job": "Producer"
+    },
+    {
+      "name": "Angela Shelton",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joel Stillerman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Greg O'Connor",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Janet McTeer",
+      "character": "Mary Jo Walker",
+      "order": 0
+    },
+    {
+      "name": "Kimberly J. Brown",
+      "character": "Ava Walker",
+      "order": 1
+    },
+    {
+      "name": "Jay O. Sanders",
+      "character": "Dan Miller",
+      "order": 2
+    },
+    {
+      "name": "Gavin O'Connor",
+      "character": "Jack Ranson",
+      "order": 3
+    },
+    {
+      "name": "Laurel Holloman",
+      "character": "Laurie Pendleton",
+      "order": 4
+    },
+    {
+      "name": "Lois Smith",
+      "character": "Ginger",
+      "order": 5
+    },
+    {
+      "name": "Michael J. Pollard",
+      "character": "Mr. Cummings",
+      "order": 6
+    },
+    {
+      "name": "Linda Porter",
+      "character": "Mrs. Boman",
+      "order": 7
+    },
+    {
+      "name": "Ashley Buccille",
+      "character": "Zoe Broussard",
+      "order": 8
+    },
+    {
+      "name": "Cody McMains",
+      "character": "Adam Riley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2SdW45O7bPDTe0zLzNHhEcacNAk.jpg",
+  "backdrop_path": "/tEy2aM2C8pZykTP0uaNa656kWW7.jpg",
+  "budget": 312000,
+  "revenue": 1400000,
+  "vote_average": 6.396,
+  "vote_count": 48,
+  "imdb_id": "tt0161023",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

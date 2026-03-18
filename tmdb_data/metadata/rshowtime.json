@@ -1,0 +1,207 @@
+{
+  "tmdb_id": 5851,
+  "title": "Showtime",
+  "original_title": "Showtime",
+  "release_date": "2002-03-14",
+  "runtime": 95,
+  "tagline": "Lights. Camera. Aggravation.",
+  "overview": "A spoof of buddy cop movies where two very different cops are forced to team up on a new reality based T.V. cop show.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Material",
+      "country": ""
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tom Dey"
+  ],
+  "writers": [
+    {
+      "name": "Keith Sharon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alfred Gough",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Miles Millar",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Channing Dungey",
+      "job": "Producer"
+    },
+    {
+      "name": "James Lassiter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eric McLeod",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jane Rosenthal",
+      "job": "Producer"
+    },
+    {
+      "name": "Jorge Saralegui",
+      "job": "Producer"
+    },
+    {
+      "name": "Will Smith",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "character": "Det. Mitch Preston",
+      "order": 0
+    },
+    {
+      "name": "Eddie Murphy",
+      "character": "Officer Trey Sellars",
+      "order": 1
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Chase Renzi",
+      "order": 2
+    },
+    {
+      "name": "William Shatner",
+      "character": "William Shatner",
+      "order": 3
+    },
+    {
+      "name": "Nestor Serrano",
+      "character": "Ray",
+      "order": 4
+    },
+    {
+      "name": "Joy Bryant",
+      "character": "Lexi",
+      "order": 5
+    },
+    {
+      "name": "Yasiin Bey",
+      "character": "Lazy Boy",
+      "order": 6
+    },
+    {
+      "name": "Rachael Harris",
+      "character": "Lehrerin",
+      "order": 7
+    },
+    {
+      "name": "Peter Jacobson",
+      "character": "Brad Slocum",
+      "order": 8
+    },
+    {
+      "name": "Drena De Niro",
+      "character": "Annie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8sIooUxXZo2blCVuAYbL2wkdUfD.jpg",
+  "backdrop_path": "/4fU2ddunguMjxWK0oWdUfKES9Qo.jpg",
+  "budget": 85000000,
+  "revenue": 77885672,
+  "vote_average": 5.547,
+  "vote_count": 1057,
+  "imdb_id": "tt0284490",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

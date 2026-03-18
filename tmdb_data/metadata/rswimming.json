@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 302,
+  "title": "Swimming Pool",
+  "original_title": "Swimming Pool",
+  "release_date": "2003-05-21",
+  "runtime": 102,
+  "tagline": "On the surface, all is calm.",
+  "overview": "A British crime novelist travels to her publisher's upmarket summer house in Southern France to seek solitude in order to work on her next book. However, the unexpected arrival of the publisher's daughter induces complications and a subsequent crime.",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "France 2 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Fidélité Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Gimages",
+      "country": ""
+    },
+    {
+      "name": "FOZ",
+      "country": "FR"
+    },
+    {
+      "name": "Headforce Ltd.",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "François Ozon"
+  ],
+  "writers": [
+    {
+      "name": "François Ozon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Emmanuèle Bernheim",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Missonnier",
+      "job": "Producer"
+    },
+    {
+      "name": "Olivier Delbosc",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Charlotte Rampling",
+      "character": "Sarah Morton",
+      "order": 0
+    },
+    {
+      "name": "Ludivine Sagnier",
+      "character": "Julie",
+      "order": 1
+    },
+    {
+      "name": "Charles Dance",
+      "character": "John Bosload",
+      "order": 2
+    },
+    {
+      "name": "Marc Fayolle",
+      "character": "Marcel",
+      "order": 3
+    },
+    {
+      "name": "Jean-Marie Lamour",
+      "character": "Franck",
+      "order": 4
+    },
+    {
+      "name": "Mireille Mossé",
+      "character": "Marcel's Daughter",
+      "order": 5
+    },
+    {
+      "name": "Michel Fau",
+      "character": "First Man",
+      "order": 6
+    },
+    {
+      "name": "Jean-Claude Lecas",
+      "character": "Second Man",
+      "order": 7
+    },
+    {
+      "name": "Émilie Gavois-Kahn",
+      "character": "Waitress at Cafe",
+      "order": 8
+    },
+    {
+      "name": "Erarde Forestali",
+      "character": "Old Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/10xMAznUxI0LZPYyPxA9WjJsThr.jpg",
+  "backdrop_path": "/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
+  "budget": 7800000,
+  "revenue": 22441323,
+  "vote_average": 6.488,
+  "vote_count": 779,
+  "imdb_id": "tt0324133",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

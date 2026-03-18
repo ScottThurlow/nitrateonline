@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "5 wins & 18 nominations total",
+  "rated": "R",
+  "released": "12 Apr 2002",
+  "runtime": "100 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Bill Paxton",
+  "writer": "Brent Hanley",
+  "actors": "Bill Paxton, Matthew McConaughey, Powers Boothe",
+  "plot": "FBI agent Wesley Doyle is startled by the declaration of youngster Fenton Meiks about how his father's delusions required him and his brother, Adam to become his 'demon-slaying' murder accomplices. But when Doyle accepts to be shown concealed victim graves, the plot twists in the present just as gruesome.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "64",
+  "imdb_rating": "7.2",
+  "imdb_votes": "98,923",
+  "box_office": "$13,110,448",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=Frailty"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/Frailty/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0264616/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0264616/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12149"
+  }
+}

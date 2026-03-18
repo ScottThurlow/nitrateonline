@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 12 nominations total",
+  "rated": "R",
+  "released": "26 Nov 2003",
+  "runtime": "92 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Terry Zwigoff",
+  "writer": "Glenn Ficarra, John Requa",
+  "actors": "Billy Bob Thornton, Bernie Mac, Lauren Graham",
+  "plot": "Willie T. Stokes is a convicted con man who's led a miserable life. He drinks heavily and constantly embarrasses himself publicly. He only works once a year dressed as Santa. But then come Christmas Eve, he and his pint-sized helper dwarf Marcus stage elaborate robberies and take their department stores for everything they got. This time around, Willie gets distracted by large women, a bartender who is attracted to Santas, and a kid who's convinced he's the real deal. However, Marcus must once again put up with Willie's heavy drinking and a series of incidents that constantly shoot themselves in the foot. Will Willie and Marcus make it to next Christmas? Or will this be the year the dynamic duo finally face justice?",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "70",
+  "imdb_rating": "7.0",
+  "imdb_votes": "166,486",
+  "box_office": "$60,060,328",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "78%",
+      "link": "https://www.rottentomatoes.com/search?search=Bad+Santa"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Bad+Santa/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0307987/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0307987/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10147"
+  }
+}

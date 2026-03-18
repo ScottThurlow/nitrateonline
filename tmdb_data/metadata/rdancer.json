@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 20689,
+  "title": "The Dancer Upstairs",
+  "original_title": "The Dancer Upstairs",
+  "release_date": "2002-09-20",
+  "runtime": 132,
+  "tagline": "An honest man caught in a world of intrigue, power and passion.",
+  "overview": "A police detective in a South American country is dedicated to hunting down a revolutionary guerilla leader.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "Quechua"
+  ],
+  "production_companies": [
+    {
+      "name": "Vía Digital",
+      "country": "ES"
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Lolafilms",
+      "country": "ES"
+    },
+    {
+      "name": "Mr. Mudd",
+      "country": "US"
+    },
+    {
+      "name": "Atresmedia",
+      "country": "ES"
+    }
+  ],
+  "director": [
+    "John Malkovich"
+  ],
+  "writers": [
+    {
+      "name": "Nicholas Shakespeare",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Nicholas Shakespeare",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrés Vicente Gómez",
+      "job": "Producer"
+    },
+    {
+      "name": "John Malkovich",
+      "job": "Producer"
+    },
+    {
+      "name": "Lianne Halfon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Russell Smith",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Javier Bardem",
+      "character": "Agustín Rejas",
+      "order": 0
+    },
+    {
+      "name": "Juan Diego Botto",
+      "character": "Sucre",
+      "order": 1
+    },
+    {
+      "name": "Laura Morante",
+      "character": "Yolanda",
+      "order": 2
+    },
+    {
+      "name": "Elvira Mínguez",
+      "character": "Llosa",
+      "order": 3
+    },
+    {
+      "name": "Alexandra Lencastre",
+      "character": "Sylvina Rejas",
+      "order": 4
+    },
+    {
+      "name": "Oliver Cotton",
+      "character": "Merino",
+      "order": 5
+    },
+    {
+      "name": "Luis Miguel Cintra",
+      "character": "Calderón",
+      "order": 6
+    },
+    {
+      "name": "Javier Manrique",
+      "character": "Clorindo",
+      "order": 7
+    },
+    {
+      "name": "Abel Folk",
+      "character": "Ezequiel / Durán",
+      "order": 8
+    },
+    {
+      "name": "Xabier Elorriaga",
+      "character": "Pascual",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jG662jKzEf63fhcbbN3WiLlz5MX.jpg",
+  "backdrop_path": "/qR3Dk3ctnrrxkAI6I472RhamIbu.jpg",
+  "budget": 0,
+  "revenue": 5227348,
+  "vote_average": 6.1,
+  "vote_count": 64,
+  "imdb_id": "tt0118926",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

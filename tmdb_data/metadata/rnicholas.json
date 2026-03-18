@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 29339,
+  "title": "Nicholas Nickleby",
+  "original_title": "Nicholas Nickleby",
+  "release_date": "2002-12-27",
+  "runtime": 132,
+  "tagline": "EVERY FAMILY NEEDS A HERO.",
+  "overview": "Nicholas Nickleby, a young boy in search of a better life, struggles to save his family and friends from the abusive exploitation of his coldheartedly grasping uncle.",
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hart-Sharp Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Potboiler Productions",
+      "country": "GB"
+    },
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Douglas McGrath"
+  ],
+  "writers": [
+    {
+      "name": "Charles Dickens",
+      "job": "Novel"
+    },
+    {
+      "name": "Douglas McGrath",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Kessel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John N. Hart",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Sharp",
+      "job": "Producer"
+    },
+    {
+      "name": "Simon Channing Williams",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Hogan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gail Egan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Charlie Hunnam",
+      "character": "Nicholas Nickleby",
+      "order": 0
+    },
+    {
+      "name": "Nathan Lane",
+      "character": "Vincent Crummles",
+      "order": 1
+    },
+    {
+      "name": "Jim Broadbent",
+      "character": "Mr. Wackford Squeers",
+      "order": 2
+    },
+    {
+      "name": "Christopher Plummer",
+      "character": "Ralph Nickleby",
+      "order": 3
+    },
+    {
+      "name": "Jamie Bell",
+      "character": "Smike",
+      "order": 4
+    },
+    {
+      "name": "Anne Hathaway",
+      "character": "Madeline Bray",
+      "order": 5
+    },
+    {
+      "name": "Alan Cumming",
+      "character": "Mr. Folair",
+      "order": 6
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Charles Cheeryble",
+      "order": 7
+    },
+    {
+      "name": "Romola Garai",
+      "character": "Kate Nickleby",
+      "order": 8
+    },
+    {
+      "name": "Andrew Havill",
+      "character": "Mr. Nickleby",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uLilCY2We3Ore9Ke7CdafntHvmT.jpg",
+  "backdrop_path": "/bvhAbUMsDfFTseAAoPE49JJ0ebA.jpg",
+  "budget": 10000000,
+  "revenue": 3651462,
+  "vote_average": 6.865,
+  "vote_count": 192,
+  "imdb_id": "tt0309912",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

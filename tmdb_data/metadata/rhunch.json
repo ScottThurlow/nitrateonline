@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 148636,
+  "title": "The Hunchback",
+  "original_title": "The Hunchback",
+  "release_date": "1997-03-16",
+  "runtime": 98,
+  "tagline": "",
+  "overview": "Based on Victor Hugo's famed novel, the story of Quasimodo, the deformed bell ringer of Notre Dame, and his unrequited love for the gypsy girl, Esmeralda.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Turner Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Adelson-Baumgarten Productions",
+      "country": ""
+    },
+    {
+      "name": "Alliance Films",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Peter Medak"
+  ],
+  "writers": [
+    {
+      "name": "John Fasano",
+      "job": "Teleplay"
+    },
+    {
+      "name": "Victor Hugo",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Lantos",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Adelson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Craig Baumgarten",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stéphane Reichel",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mandy Patinkin",
+      "character": "Quasimodo",
+      "order": 0
+    },
+    {
+      "name": "Richard Harris",
+      "character": "Dom Frollo",
+      "order": 1
+    },
+    {
+      "name": "Salma Hayek Pinault",
+      "character": "Esmeralda",
+      "order": 2
+    },
+    {
+      "name": "Edward Atterton",
+      "character": "Gringoire",
+      "order": 3
+    },
+    {
+      "name": "Benedick Blythe",
+      "character": "Phoebus",
+      "order": 4
+    },
+    {
+      "name": "Nigel Terry",
+      "character": "King Louis XI",
+      "order": 5
+    },
+    {
+      "name": "Jim Dale",
+      "character": "Clopin",
+      "order": 6
+    },
+    {
+      "name": "Trevor Baxter",
+      "character": "Chief Lawyer",
+      "order": 7
+    },
+    {
+      "name": "Vernon Dobtcheff",
+      "character": "Father Michel",
+      "order": 8
+    },
+    {
+      "name": "Nickolas Grace",
+      "character": "Gauchére",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xch2lgon3mGYT9jT0SMFpBPdSPv.jpg",
+  "backdrop_path": "/nnqnpTipkMSahf8CJ9vyTZAknKq.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.87,
+  "vote_count": 46,
+  "imdb_id": "tt0119329",
+  "certifications": [],
+  "status": "Released"
+}

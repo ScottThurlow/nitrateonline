@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 3 Oscars. 18 wins & 45 nominations total",
+  "rated": "PG-13",
+  "released": "23 Oct 1998",
+  "runtime": "124 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Gary Ross",
+  "writer": "Gary Ross",
+  "actors": "Tobey Maguire, Jeff Daniels, Joan Allen",
+  "plot": "David Wagner is a kid whose mind is stuck in the 1950s. He's addicted to a classic 50's sitcom television show called \"Pleasantville\". Pleasantville is a simple place, a place where all of its citizens are swell and simple-minded folks, a place where the word \"violence\", and life outside of Pleasantville, is unbeknownst to its inhabitants; things are perfect down in Pleasantville. One evening, the life of David and his obnoxious sister Jennifer take a bizarre turn when an eccentric repairman hand them a supposed magical remote. After a quarrel between the siblings, they inexplicably zap themselves into the world of \"Pleasantville\". Now, David and Jennifer must adjust to a 50s lifestyle of repressed desires and considerably different societal values while trying to find their way home.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "71",
+  "imdb_rating": "7.5",
+  "imdb_votes": "142,658",
+  "box_office": "$40,584,421",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Pleasantville"
+    },
+    {
+      "source": "Metacritic",
+      "value": "71/100",
+      "link": "https://www.metacritic.com/search/Pleasantville/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120789/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120789/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2657"
+  }
+}

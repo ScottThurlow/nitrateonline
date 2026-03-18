@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "1 win & 9 nominations",
+  "rated": "R",
+  "released": "17 Sep 1997",
+  "runtime": "93 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Bart Freundlich",
+  "writer": "Bart Freundlich",
+  "actors": "Julianne Moore, Roy Scheider, Noah Wyle",
+  "plot": "An ambitious debut for writer/director Bart Freundlich charting the unrest with a family who gather together for Thanksgiving Day.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "58",
+  "imdb_rating": "6.0",
+  "imdb_votes": "2,707",
+  "box_office": "$523,025",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Myth+of+Fingerprints"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/The+Myth+of+Fingerprints/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119746/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119746/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/98502"
+  }
+}

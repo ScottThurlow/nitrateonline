@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 1 Oscar. 39 wins & 13 nominations total",
+  "rated": "R",
+  "released": "15 Nov 2002",
+  "runtime": "120 min",
+  "genre": "Documentary, Crime, Drama",
+  "director": "Michael Moore",
+  "writer": "Michael Moore",
+  "actors": "Michael Moore, Charlton Heston, Marilyn Manson",
+  "plot": "The United States of America is notorious for its astronomical number of people killed by firearms for a developed nation without a civil war. With his signature sense of angry humor, activist filmmaker Michael Moore sets out to explore the roots of this bloodshed. In doing so, he learns that the conventional answers of easy availability of guns, violent national history, violent entertainment and even poverty are inadequate to explain this violence when other cultures share those same factors without the equivalent carnage. In order to arrive at a possible explanation, Michael Moore takes on a deeper examination of America's culture of fear, bigotry and violence in a nation with widespread gun ownership. Furthermore, he seeks to investigate and confront the powerful elite political and corporate interests fanning this culture for their own unscrupulous gain.",
+  "language": "English",
+  "country": "United States, Canada, Germany",
+  "metascore": "72",
+  "imdb_rating": "8.0",
+  "imdb_votes": "151,563",
+  "box_office": "$21,576,018",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=Bowling+for+Columbine"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Bowling+for+Columbine/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0310793/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0310793/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1430"
+  }
+}

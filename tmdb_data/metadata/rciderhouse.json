@@ -1,0 +1,194 @@
+{
+  "tmdb_id": 1715,
+  "title": "The Cider House Rules",
+  "original_title": "The Cider House Rules",
+  "release_date": "1999-12-17",
+  "runtime": 126,
+  "tagline": "A story about how far we must travel to find the place where we belong.",
+  "overview": "Homer is an orphan who was never adopted, becoming the favorite of orphanage director Dr. Larch. Dr. Larch imparts his full medical knowledge on Homer, who becomes a skilled, albeit unlicensed, physician. But Homer yearns for a self-chosen life outside the orphanage. What will Homer learn about life and love in the cider house? What of the destiny that Dr. Larch has planned for him?",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Nina Saxon Film Design",
+      "country": ""
+    },
+    {
+      "name": "FilmColony",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lasse Hallström"
+  ],
+  "writers": [
+    {
+      "name": "John Irving",
+      "job": "Novel"
+    },
+    {
+      "name": "John Irving",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alan C. Blomquist",
+      "job": "Producer"
+    },
+    {
+      "name": "Bobby Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Leslie Holleran",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard N. Gladstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Meryl Poster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lila Yacoub",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tobey Maguire",
+      "character": "Homer Wells",
+      "order": 0
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Candy Kendall",
+      "order": 1
+    },
+    {
+      "name": "Michael Caine",
+      "character": "Dr. Wilbur Larch",
+      "order": 2
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Arthur Rose",
+      "order": 3
+    },
+    {
+      "name": "Paul Rudd",
+      "character": "Lt. Wally Worthington",
+      "order": 4
+    },
+    {
+      "name": "Jane Alexander",
+      "character": "Nurse Edna",
+      "order": 5
+    },
+    {
+      "name": "Kathy Baker",
+      "character": "Nurse Angela",
+      "order": 6
+    },
+    {
+      "name": "Erykah Badu",
+      "character": "Rose Rose",
+      "order": 7
+    },
+    {
+      "name": "Kieran Culkin",
+      "character": "Buster",
+      "order": 8
+    },
+    {
+      "name": "Kate Nelligan",
+      "character": "Olive Worthington",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg",
+  "backdrop_path": "/1bVq5JXx7d4kEx4kctrEzFuiyBo.jpg",
+  "budget": 24000000,
+  "revenue": 88500000,
+  "vote_average": 7.073,
+  "vote_count": 1268,
+  "imdb_id": "tt0124315",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

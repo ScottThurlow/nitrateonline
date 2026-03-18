@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 wins & 7 nominations total",
+  "rated": "PG",
+  "released": "25 Dec 2002",
+  "runtime": "94 min",
+  "genre": "Drama",
+  "director": "Bruce Beresford",
+  "writer": "Paul Pender",
+  "actors": "Pierce Brosnan, Julianna Margulies, Aidan Quinn",
+  "plot": "The uplifting movie is based on the true story of the Doyle Family in 1950's Ireland. Desmond Doyle is abandoned by his wife who runs off to Australia and leaves him with their three small children. He tries his best to continue supporting them singing in the pub and doing painting here and there, only to have the government and child services remove his children stating there has never been a precedent of a Father raising his children without a Mother in the picture. He goes to court, and loses, and is told he cannot appeal his case. He then happily finds a retired lawyer who has taken on constitutional law successfully in the past, who willingly helps him take his case to The Supreme Court.",
+  "language": "English",
+  "country": "Ireland, Netherlands, United Kingdom, Germany, United States",
+  "metascore": "55",
+  "imdb_rating": "7.0",
+  "imdb_votes": "7,245",
+  "box_office": "$1,487,645",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Evelyn"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Evelyn/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0298856/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0298856/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21868"
+  }
+}

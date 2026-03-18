@@ -1,0 +1,102 @@
+{
+  "tmdb_id": 107636,
+  "title": "Black Rose Mansion",
+  "original_title": "黒薔薇の館",
+  "release_date": "1969-07-30",
+  "runtime": 91,
+  "tagline": "",
+  "overview": "When wealthy Kyohei hires singer \"Black Rose\" to perform in his exclusive club, he gets more than he bargains for when she attracts scores of homicidal past lovers. The film takes a bizarre twist when Kyohei's son falls victim to the femme fatale's unique charm.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Shochiku",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Kinji Fukasaku"
+  ],
+  "writers": [
+    {
+      "name": "Kinji Fukasaku",
+      "job": "Writer"
+    },
+    {
+      "name": "Hirō Matsuda",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Akira Oda",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kikko Matsuoka",
+      "character": "Reiko",
+      "order": 0
+    },
+    {
+      "name": "Kō Nishimura",
+      "character": "Ex-husband",
+      "order": 1
+    },
+    {
+      "name": "Akihiro Miwa",
+      "character": "Ryuko",
+      "order": 2
+    },
+    {
+      "name": "Eitarō Ozawa",
+      "character": "Kyohei",
+      "order": 3
+    },
+    {
+      "name": "Ayako Hosho",
+      "character": "Kyohei's Wife",
+      "order": 4
+    },
+    {
+      "name": "Ryōhei Uchida",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Akira Jo",
+      "character": "Mulatto companion of Ryuko",
+      "order": 6
+    },
+    {
+      "name": "Hideo Murota",
+      "character": "Kyohei's son - Wataru's brother",
+      "order": 7
+    },
+    {
+      "name": "Masakazu Tamura",
+      "character": "Wataru",
+      "order": 8
+    },
+    {
+      "name": "Yūsuke Kawazu",
+      "character": "",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wba74TtymRKMNgDnX3XVai5jxyK.jpg",
+  "backdrop_path": "/bGKlCh9BoOazLX0779NxNHwNsaG.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.5,
+  "vote_count": 7,
+  "imdb_id": "tt0064556",
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,112 @@
+{
+  "tmdb_id": 123864,
+  "title": "Leaving Metropolis",
+  "original_title": "Leaving Metropolis",
+  "release_date": "2002-08-31",
+  "runtime": 89,
+  "tagline": "When art inspires forbidden passion...",
+  "overview": "David is a creatively stifled painter in desperate need of inspiration. As happenstance would have it, while seeking a job waiting tables, David stumbles upon a new muse in the form of a strapping diner owner named Matt. In short order the two bond over a shared love of art, and before long their passion for painting transforms into something more torrid. If it weren't for Matt's wife, Violet, everything would be perfect.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Original Pictures",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Brad Fraser"
+  ],
+  "writers": [
+    {
+      "name": "Brad Fraser",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ken Mead",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Stiles",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kim Todd",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Troy Ruptash",
+      "character": "David",
+      "order": 0
+    },
+    {
+      "name": "Vince Corazza",
+      "character": "Matt",
+      "order": 1
+    },
+    {
+      "name": "Lynda Boyd",
+      "character": "Kryla",
+      "order": 2
+    },
+    {
+      "name": "Cherilee Taylor",
+      "character": "Violet",
+      "order": 3
+    },
+    {
+      "name": "Thom Allison",
+      "character": "Shannon",
+      "order": 4
+    },
+    {
+      "name": "Kirsten Johnson",
+      "character": "Sharon",
+      "order": 5
+    },
+    {
+      "name": "Tom Anniko",
+      "character": "Businessman",
+      "order": 6
+    },
+    {
+      "name": "Arne MacPherson",
+      "character": "Homeless Man",
+      "order": 7
+    },
+    {
+      "name": "Paul Stafford",
+      "character": "Goth Boy",
+      "order": 8
+    },
+    {
+      "name": "Susan Kelso",
+      "character": "Dr. Starbell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dVULdjLorpCJetLPLTqM1lxqjl5.jpg",
+  "backdrop_path": "/a3KSK1y08iL2tmg9nQ2BaAFz2Bo.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.719,
+  "vote_count": 16,
+  "imdb_id": "tt0295526",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

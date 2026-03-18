@@ -1,0 +1,162 @@
+{
+  "tmdb_id": 10490,
+  "title": "Drop Dead Gorgeous",
+  "original_title": "Drop Dead Gorgeous",
+  "release_date": "1999-07-16",
+  "runtime": 98,
+  "tagline": "The battle between the good and the bad is about to get ugly.",
+  "overview": "In a small Minnesota town, the annual beauty pageant is being covered by a TV crew. Former winner Gladys Leeman wants to make sure her daughter follows in her footsteps; explosions, falling lights, and trailer fires prove that. As the Leemans are the richest family in town, the police are pretty relaxed about it all. Despite everything, main rival (but sweet) Amber Atkins won't give up without a fight.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Capella International",
+      "country": "US"
+    },
+    {
+      "name": "KC Medien AG",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Michael Patrick Jann"
+  ],
+  "writers": [
+    {
+      "name": "Lona Williams",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Judy Hofflund",
+      "job": "Producer"
+    },
+    {
+      "name": "Donna Langley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gavin Polone",
+      "job": "Producer"
+    },
+    {
+      "name": "Lona Williams",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kirsten Dunst",
+      "character": "Amber Atkins",
+      "order": 0
+    },
+    {
+      "name": "Ellen Barkin",
+      "character": "Annette Atkins",
+      "order": 1
+    },
+    {
+      "name": "Denise Richards",
+      "character": "Rebecca Ann 'Becky' Leeman",
+      "order": 2
+    },
+    {
+      "name": "Kirstie Alley",
+      "character": "Gladys Leeman",
+      "order": 3
+    },
+    {
+      "name": "Allison Janney",
+      "character": "Loretta",
+      "order": 4
+    },
+    {
+      "name": "Sam McMurray",
+      "character": "Lester Leeman",
+      "order": 5
+    },
+    {
+      "name": "Mindy Sterling",
+      "character": "Iris Clark",
+      "order": 6
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Lisa Swenson",
+      "order": 7
+    },
+    {
+      "name": "Amy Adams",
+      "character": "Leslie Miller",
+      "order": 8
+    },
+    {
+      "name": "Laurie A. Sinclair",
+      "character": "Michelle Johnson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/s4nHRCB5GqWyWiqweVf6UUv8GWt.jpg",
+  "backdrop_path": "/xXSDhhyC853VgF7OCDKpXKeA5Md.jpg",
+  "budget": 10000000,
+  "revenue": 10571408,
+  "vote_average": 6.438,
+  "vote_count": 422,
+  "imdb_id": "tt0157503",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

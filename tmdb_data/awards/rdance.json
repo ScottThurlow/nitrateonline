@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "5 nominations",
+  "rated": "PG",
+  "released": "21 Aug 1998",
+  "runtime": "126 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Randa Haines",
+  "writer": "Daryl Matthews",
+  "actors": "Vanessa Williams, Chayanne, Kris Kristofferson",
+  "plot": "Young Cuban Rafael Infante (Chayanne) just buried his mother, and comes to Houston to meet his father John Burnett (Kris Kristofferson) for the first time. The difficult part is that John doesn't know he is Rafael's father. John runs a dance studio, and everyone prepares for the World Open Dance championship in Las Vegas, Nevada. It soon becomes clear Rafael is a very good dancer, and Ruby Sinclair (Vanessa Williams) is the biggest hope for the studio at the championship.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.9",
+  "imdb_votes": "6,965",
+  "box_office": "$15,923,122",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=Dance+with+Me"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120576/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120576/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17915"
+  }
+}

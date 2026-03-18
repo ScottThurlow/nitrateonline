@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "21 May 1999",
+  "runtime": "88 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Peter Ho-Sun Chan",
+  "writer": "Cathleen Schine, Maria Maggenti",
+  "actors": "Kate Capshaw, Tom Everett Scott, Tom Selleck",
+  "plot": "The life of a provincial town becomes stormy after the appearance of an anonymous love letter.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.5",
+  "imdb_votes": "4,756",
+  "box_office": "$8,302,478",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "34%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Love+Letter"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0166252/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0166252/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/31342"
+  }
+}

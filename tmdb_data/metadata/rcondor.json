@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 10975,
+  "title": "Operation Condor",
+  "original_title": "飛鷹計劃",
+  "release_date": "1991-02-07",
+  "runtime": 107,
+  "tagline": "On his most dangerous mission ever, the world's toughest secret agent isn't going in alone.",
+  "overview": "Hired by a Spanish baron, Hong Kong treasure hunter Jackie, a.k.a. \"Asian Hawk\" and his entourage seek WWII Nazi gold buried in the Sahara Desert.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Cantonese"
+  ],
+  "production_companies": [
+    {
+      "name": "Paragon Films",
+      "country": "HK"
+    },
+    {
+      "name": "Golden Way Films Ltd.",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Jackie Chan"
+  ],
+  "writers": [
+    {
+      "name": "Jackie Chan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Edward Tang",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Fibe Ma Mei-Ping",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Edward Tang",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Raymond Chow",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Leonard Ho",
+      "job": "Producer"
+    },
+    {
+      "name": "Jackie Chan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "character": "Jackie / Asian Hawk / Condor",
+      "order": 0
+    },
+    {
+      "name": "Carol Cheng",
+      "character": "Ada",
+      "order": 1
+    },
+    {
+      "name": "Eva Cobo",
+      "character": "Elsa",
+      "order": 2
+    },
+    {
+      "name": "Shôko Ikeda",
+      "character": "Momoko",
+      "order": 3
+    },
+    {
+      "name": "Vincent Lyn",
+      "character": "Mark",
+      "order": 4
+    },
+    {
+      "name": "Jonathan Isgar",
+      "character": "Tasza",
+      "order": 5
+    },
+    {
+      "name": "Dan Mintz",
+      "character": "Amon",
+      "order": 6
+    },
+    {
+      "name": "Božidar Smiljanić",
+      "character": "Baron Bannon / Duke Scapio",
+      "order": 7
+    },
+    {
+      "name": "Aldo Sambrell",
+      "character": "Adolf",
+      "order": 8
+    },
+    {
+      "name": "Ken Lo Wai-Kwong",
+      "character": "Adolf's Mercenary #1",
+      "order": 9
+    }
+  ],
+  "poster_path": "/25kyDgsGz1HzW4SqJTylhBaU5sW.jpg",
+  "backdrop_path": "/leHpAsKAJGnNuv5EPAUZUbqrRxq.jpg",
+  "budget": 15000000,
+  "revenue": 24100000,
+  "vote_average": 7.334,
+  "vote_count": 625,
+  "imdb_id": "tt0099558",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IN",
+      "rating": "U"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

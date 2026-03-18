@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 10 wins & 12 nominations total",
+  "rated": "PG-13",
+  "released": "10 Dec 1999",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama",
+  "director": "Gavin O'Connor",
+  "writer": "Angela Shelton, Gavin O'Connor",
+  "actors": "Janet McTeer, Kimberly J. Brown, Jay O. Sanders",
+  "plot": "A woman constantly runs from town to town with her 12 year old daughter to escape failed relationships. The film opens with one escape and the shift into a new start in San Diego. There Mom takes up with a controlling trucker and fights with her weirdo boss. Meanwhile, the daughter, used to making the constant shifts, finds a fit at school including getting chosen for a play lead.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "75",
+  "imdb_rating": "6.7",
+  "imdb_votes": "3,703",
+  "box_office": "$1,350,248",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=Tumbleweeds"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/Tumbleweeds/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0161023/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0161023/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/55123"
+  }
+}

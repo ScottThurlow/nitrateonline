@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 9776,
+  "title": "Head of State",
+  "original_title": "Head of State",
+  "release_date": "2003-03-28",
+  "runtime": 95,
+  "tagline": "The only thing white is the house.",
+  "overview": "When a presidential candidate dies unexpectedly in the middle of the campaign, the Democratic party unexpectedly picks a Washington, D.C. alderman as his replacement.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "3 Arts Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chris Rock"
+  ],
+  "writers": [
+    {
+      "name": "Chris Rock",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ali LeRoi",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ali LeRoi",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Rotenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Rock",
+      "job": "Producer"
+    },
+    {
+      "name": "Ezra Swerdlow",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chris Rock",
+      "character": "Mays Gilliam",
+      "order": 0
+    },
+    {
+      "name": "Bernie Mac",
+      "character": "Mitch Gilliam",
+      "order": 1
+    },
+    {
+      "name": "Dylan Baker",
+      "character": "Martin Geller",
+      "order": 2
+    },
+    {
+      "name": "Nick Searcy",
+      "character": "Brian Lewis",
+      "order": 3
+    },
+    {
+      "name": "Lynn Whitfield",
+      "character": "Debra Lassiter",
+      "order": 4
+    },
+    {
+      "name": "Robin Givens",
+      "character": "Kim",
+      "order": 5
+    },
+    {
+      "name": "Tamala Jones",
+      "character": "Lisa Clark",
+      "order": 6
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Senator Bill Arnot",
+      "order": 7
+    },
+    {
+      "name": "Keith David",
+      "character": "Bernard Cooper",
+      "order": 8
+    },
+    {
+      "name": "Tracy Morgan",
+      "character": "Meat Man",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5itBve85q2oXmiQ3SkgCJa5Asxq.jpg",
+  "backdrop_path": "/12LmdeaGGitnPIdz9XcSlCQbuJ8.jpg",
+  "budget": 35200000,
+  "revenue": 37788228,
+  "vote_average": 5.561,
+  "vote_count": 312,
+  "imdb_id": "tt0325537",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

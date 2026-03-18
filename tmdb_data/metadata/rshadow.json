@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 10873,
+  "title": "Shadow of the Vampire",
+  "original_title": "Shadow of the Vampire",
+  "release_date": "2000-08-30",
+  "runtime": 95,
+  "tagline": "An unspeakable horror. A creative genius. Captured for eternity.",
+  "overview": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "Saturn Films",
+      "country": "US"
+    },
+    {
+      "name": "Long Shot Pictures",
+      "country": ""
+    },
+    {
+      "name": "Pilgrim Films",
+      "country": "GB"
+    },
+    {
+      "name": "Delux Productions",
+      "country": "LU"
+    },
+    {
+      "name": "Film Fund Luxembourg",
+      "country": "LU"
+    }
+  ],
+  "director": [
+    "E. Elias Merhige"
+  ],
+  "writers": [
+    {
+      "name": "Steven Katz",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nicolas Cage",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeff Levine",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Brooks",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alan Howden",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Malkovich",
+      "character": "F. W. Murnau",
+      "order": 0
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Max Schreck",
+      "order": 1
+    },
+    {
+      "name": "Udo Kier",
+      "character": "Albin Grau",
+      "order": 2
+    },
+    {
+      "name": "Cary Elwes",
+      "character": "Fritz Arno Wagner",
+      "order": 3
+    },
+    {
+      "name": "Catherine McCormack",
+      "character": "Greta Schröder",
+      "order": 4
+    },
+    {
+      "name": "Eddie Izzard",
+      "character": "Gustav von Wangenhein",
+      "order": 5
+    },
+    {
+      "name": "Aden Gillett",
+      "character": "Henrik Galeen",
+      "order": 6
+    },
+    {
+      "name": "Nicholas Elliott",
+      "character": "Paul",
+      "order": 7
+    },
+    {
+      "name": "Ronan Vibert",
+      "character": "Wolfgang Müller",
+      "order": 8
+    },
+    {
+      "name": "Sophie Langevin",
+      "character": "Elke",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
+  "backdrop_path": "/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
+  "budget": 8000000,
+  "revenue": 8279017,
+  "vote_average": 6.662,
+  "vote_count": 666,
+  "imdb_id": "tt0189998",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

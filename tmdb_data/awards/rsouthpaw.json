@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 nomination",
+  "rated": "N/A",
+  "released": "15 Jan 1999",
+  "runtime": "77 min",
+  "genre": "Documentary, Sport",
+  "director": "Liam McGrath",
+  "writer": "N/A",
+  "actors": "Francis Barrett, Chick Gillen, Tom Humphries",
+  "plot": "Follows the life of Olympic hopeful Francis Barrett as he overcomes social and cultural barriers to realise his dream of fighting for the Irish Olympic team.",
+  "language": "English",
+  "country": "United Kingdom, Ireland",
+  "metascore": "62",
+  "imdb_rating": "6.6",
+  "imdb_votes": "151",
+  "box_office": "$28,365",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Southpaw"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Southpaw/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0190027/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0190027/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/207622"
+  }
+}

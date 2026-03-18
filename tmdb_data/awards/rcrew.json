@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win",
+  "rated": "PG-13",
+  "released": "25 Aug 2000",
+  "runtime": "88 min",
+  "genre": "Comedy, Crime",
+  "director": "Michael Dinner",
+  "writer": "Barry Fanaro",
+  "actors": "Richard Dreyfuss, Burt Reynolds, Dan Hedaya",
+  "plot": "Four former made men, struggling to get by in a rundown Miami hotel, come up with a plot to drive out all of the young tenants that are slowly taking over the beach-front hotel and driving up their rent. Taking a man that was found dead on the beach, they arrange what appears to a mob hit and provide a note that says more killings are to occur. Unfortunately the old man they use turns out to be the senile father of a drug lord. The drug lord declares war on the killers of his father, thinking it was an action of his enemies. A stripper learns of the old men's involvement and threatens to squeal on them unless they kill her stepmother. Meanwhile, one man searches for his long-lost daughter, who is the investigating police officer, trying to divest herself from her crumb fellow officer and former boyfriend.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "37",
+  "imdb_rating": "5.6",
+  "imdb_votes": "6,743",
+  "box_office": "$13,023,075",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "20%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Crew"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/The+Crew/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0198386/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0198386/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19150"
+  }
+}

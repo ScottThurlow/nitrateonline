@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 1430,
+  "title": "Bowling for Columbine",
+  "original_title": "Bowling for Columbine",
+  "release_date": "2002-10-09",
+  "runtime": 120,
+  "tagline": "Are we a nation of gun nuts or are we just nuts?",
+  "overview": "This is not a film about gun control. It is a film about the fearful heart and soul of the United States, and the 280 million Americans lucky enough to have the right to a constitutionally protected Uzi. From a look at the Columbine High School security camera tapes to the home of Oscar-winning NRA President Charlton Heston, from a young man who makes homemade napalm with The Anarchist's Cookbook to the murder of a six-year-old girl by another six-year-old. Bowling for Columbine is a journey through the US, through our past, hoping to discover why our pursuit of happiness is so riddled with violence.",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Vif Babelsberger Filmproduktion",
+      "country": "DE"
+    },
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Dog Eat Dog Films",
+      "country": "US"
+    },
+    {
+      "name": "Salter Street Films",
+      "country": "CA"
+    },
+    {
+      "name": "United Artists",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Moore"
+  ],
+  "writers": [
+    {
+      "name": "Michael Moore",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wolfram Tichy",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jim Czarnecki",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Donovan",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Bishop",
+      "job": "Producer"
+    },
+    {
+      "name": "Kathleen Glynn",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Moore",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Moore",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "George H. W. Bush",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "George W. Bush",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Charlton Heston",
+      "character": "Self - NRA President",
+      "order": 3
+    },
+    {
+      "name": "Jacobo Árbenz",
+      "character": "Self - President of Guatemala",
+      "order": 4
+    },
+    {
+      "name": "Mike Bradley",
+      "character": "Self - Mayor of Sarnia, Ontario, Canada",
+      "order": 5
+    },
+    {
+      "name": "Dick Clark",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Arthur A. Busch",
+      "character": "Self - County Prosecutor: Flint, Michigan",
+      "order": 7
+    },
+    {
+      "name": "Michael Caldwell",
+      "character": "Self - Police Detective",
+      "order": 8
+    },
+    {
+      "name": "Richard Castaldo",
+      "character": "Self - Columbine Victim",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5AlgeysilsfLdEwlTlYO7fqgsLn.jpg",
+  "backdrop_path": "/70uUnpfe7en9x011UjpZoub101l.jpg",
+  "budget": 4000000,
+  "revenue": 35564473,
+  "vote_average": 7.509,
+  "vote_count": 1663,
+  "imdb_id": "tt0310793",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

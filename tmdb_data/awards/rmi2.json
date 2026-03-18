@@ -1,0 +1,35 @@
+{
+  "year": "2000",
+  "awards": "12 wins & 20 nominations total",
+  "rated": "PG-13",
+  "released": "24 May 2000",
+  "runtime": "123 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "John Woo",
+  "writer": "Bruce Geller, Ronald D. Moore, Brannon Braga",
+  "actors": "Tom Cruise, Dougray Scott, Thandiwe Newton",
+  "plot": "Chimera is a deadly virus that will bear a grisly death unless you are given the antidote. The creator of Chimera is murdered and the antidote is stolen by a disavowed I.M.F. Agent, Sean Ambrose (Dougray Scott). The Impossible Mission Force, (I.M.F.), hire the skilled and charming Ethan Hunt (Tom Cruise), and the beautiful Nyah Hall (Thandie Newton), who has had her share with Ambrose. Their mission, should they choose to accept it, is to send Hall undercover to Ambrose and learn what she can for Hunt to bring down Chimera, but they will have to break into a secure lab by jumping off of buildings and dodging bullets. Its impossible.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "59",
+  "imdb_rating": "6.1",
+  "imdb_votes": "411,072",
+  "box_office": "$215,409,889",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Mission%3A+Impossible+II/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120755/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120755/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/955"
+  }
+}

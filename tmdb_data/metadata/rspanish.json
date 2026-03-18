@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 29193,
+  "title": "The Spanish Prisoner",
+  "original_title": "The Spanish Prisoner",
+  "release_date": "1997-12-03",
+  "runtime": 110,
+  "tagline": "It's the oldest con in the book.",
+  "overview": "An inventor of a secret process suddenly finds himself alone as both his friends and the corporation he works for turn against him.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Sweetland Films",
+      "country": ""
+    },
+    {
+      "name": "Jean Doumanian Productions",
+      "country": "US"
+    },
+    {
+      "name": "Magnolia Films",
+      "country": "US"
+    },
+    {
+      "name": "Jasmine Productions Inc.",
+      "country": ""
+    },
+    {
+      "name": "Sony Pictures Classics",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Mamet"
+  ],
+  "writers": [
+    {
+      "name": "David Mamet",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean Doumanian",
+      "job": "Producer"
+    },
+    {
+      "name": "J.E. Beaucaire",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Letty Aronson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steve Martin",
+      "character": "Jimmy Dell",
+      "order": 0
+    },
+    {
+      "name": "Campbell Scott",
+      "character": "Joe Ross",
+      "order": 1
+    },
+    {
+      "name": "Ben Gazzara",
+      "character": "Mr. Klein",
+      "order": 2
+    },
+    {
+      "name": "Rebecca Pidgeon",
+      "character": "Susan Ricci",
+      "order": 3
+    },
+    {
+      "name": "Ricky Jay",
+      "character": "George Lang",
+      "order": 4
+    },
+    {
+      "name": "Felicity Huffman",
+      "character": "Pat McCune",
+      "order": 5
+    },
+    {
+      "name": "David Pittu",
+      "character": "Resort Manager",
+      "order": 6
+    },
+    {
+      "name": "J.J. Johnston",
+      "character": "Doorman",
+      "order": 7
+    },
+    {
+      "name": "Ed O'Neill",
+      "character": "FBI Team Leader",
+      "order": 8
+    },
+    {
+      "name": "Clark Gregg",
+      "character": "FBI Sniper",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cwkWlWfFrvH6WW6ovX5gfGHo7ks.jpg",
+  "backdrop_path": "/cFTzUosDnHsG0QUDP2OuiAxFoTL.jpg",
+  "budget": 10000000,
+  "revenue": 13835130,
+  "vote_average": 6.794,
+  "vote_count": 309,
+  "imdb_id": "tt0120176",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

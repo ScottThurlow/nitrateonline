@@ -1,0 +1,150 @@
+{
+  "tmdb_id": 19426,
+  "title": "Nights of Cabiria",
+  "original_title": "Le notti di Cabiria",
+  "release_date": "1957-10-03",
+  "runtime": 110,
+  "tagline": "The story of a betrayed but unquenchable little Roman street-walker.",
+  "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "DDL Cinematografica",
+      "country": "IT"
+    },
+    {
+      "name": "Les Films Marceau",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Federico Fellini"
+  ],
+  "writers": [
+    {
+      "name": "Federico Fellini",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tullio Pinelli",
+      "job": "Story"
+    },
+    {
+      "name": "Federico Fellini",
+      "job": "Story"
+    },
+    {
+      "name": "Ennio Flaiano",
+      "job": "Story"
+    },
+    {
+      "name": "Ennio Flaiano",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tullio Pinelli",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pier Paolo Pasolini",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brunello Rondi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dino De Laurentiis",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Giulietta Masina",
+      "character": "Maria 'Cabiria' Ceccarelli",
+      "order": 0
+    },
+    {
+      "name": "François Périer",
+      "character": "Oscar D'Onofrio",
+      "order": 1
+    },
+    {
+      "name": "Franca Marzi",
+      "character": "Wanda",
+      "order": 2
+    },
+    {
+      "name": "Amedeo Nazzari",
+      "character": "Alberto Lazzari",
+      "order": 3
+    },
+    {
+      "name": "Aldo Silvani",
+      "character": "The wizard",
+      "order": 4
+    },
+    {
+      "name": "Dorian Gray",
+      "character": "Jessy",
+      "order": 5
+    },
+    {
+      "name": "Ennio Girolami",
+      "character": "Amleto, 'il magnaccia'",
+      "order": 6
+    },
+    {
+      "name": "Mario Passante",
+      "character": "Uncle of Amleto",
+      "order": 7
+    },
+    {
+      "name": "Franco Balducci",
+      "character": "Spectator on the Stage of the Cinema (uncredited)",
+      "order": 8
+    },
+    {
+      "name": "Ciccio Barbi",
+      "character": "Man on the Stage (uncredited)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+  "backdrop_path": "/5Ls2O8NnH8PR21Yqh0u7PU8GPtk.jpg",
+  "budget": 0,
+  "revenue": 752045,
+  "vote_average": 8.0,
+  "vote_count": 848,
+  "imdb_id": "tt0050783",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    }
+  ],
+  "status": "Released"
+}

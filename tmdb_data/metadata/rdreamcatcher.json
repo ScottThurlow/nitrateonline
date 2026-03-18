@@ -1,0 +1,201 @@
+{
+  "tmdb_id": 6171,
+  "title": "Dreamcatcher",
+  "original_title": "Dreamcatcher",
+  "release_date": "2003-03-21",
+  "runtime": 134,
+  "tagline": "Four friends hung a dreamcatcher in their cabin. It's about to catch something it cannot stop.",
+  "overview": "Four boyhood pals perform a heroic act and are changed by the powers they gain in return. Years later, on a hunting trip in the Maine woods, they're overtaken by a vicious blizzard that harbors an ominous presence. Challenged to stop an alien force, the friends must first prevent the slaughter of innocent civilians by a military vigilante ... and then overcome a threat to the bond that unites the four of them.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Kasdan Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "WV Films II",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Lawrence Kasdan"
+  ],
+  "writers": [
+    {
+      "name": "William Goldman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen King",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Kasdan",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Okun",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Morgan Freeman",
+      "character": "Col. Abraham Curtis",
+      "order": 0
+    },
+    {
+      "name": "Thomas Jane",
+      "character": "Henry",
+      "order": 1
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Beaver",
+      "order": 2
+    },
+    {
+      "name": "Damian Lewis",
+      "character": "Jonesy",
+      "order": 3
+    },
+    {
+      "name": "Timothy Olyphant",
+      "character": "Pete",
+      "order": 4
+    },
+    {
+      "name": "Tom Sizemore",
+      "character": "Owen",
+      "order": 5
+    },
+    {
+      "name": "Donnie Wahlberg",
+      "character": "Duddits",
+      "order": 6
+    },
+    {
+      "name": "Michael O'Neill",
+      "character": "Gen. Matheson",
+      "order": 7
+    },
+    {
+      "name": "Rosemary Dunsmore",
+      "character": "Roberta Cavell",
+      "order": 8
+    },
+    {
+      "name": "Mikey Holekamp",
+      "character": "Young Henry",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lLhvwLNU4pLgvaNREVFaQ4n3lCf.jpg",
+  "backdrop_path": "/fKEF2MD4tA8G9Eywqq0k9E76sxw.jpg",
+  "budget": 68000000,
+  "revenue": 81240206,
+  "vote_average": 5.632,
+  "vote_count": 1883,
+  "imdb_id": "tt0285531",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "17 Oct 1997",
+  "runtime": "94 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Andy Wilson",
+  "writer": "Mark Haskell Smith",
+  "actors": "David Duchovny, Timothy Hutton, Angelina Jolie",
+  "plot": "Stripped of his medical license after performing an operation while high on amphetamines, famed LA surgeon Dr Eugene Sands abandons his former life only to find himself crossing paths with Raymond Blossom, an infamous counterfeiter. Employed as a \"gun-shot doctor\" when Raymond's associates cannot risk visiting a hospital, Eugene is lured deep into the criminal world and becomes entangled with his boss's girlfriend.",
+  "language": "English, Russian",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.6",
+  "imdb_votes": "8,176",
+  "box_office": "$4,166,918",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "16%",
+      "link": "https://www.rottentomatoes.com/search?search=Playing+God"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119906/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119906/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12628"
+  }
+}

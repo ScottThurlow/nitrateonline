@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "6 wins & 11 nominations total",
+  "rated": "PG-13",
+  "released": "19 Jun 1998",
+  "runtime": "121 min",
+  "genre": "Adventure, Drama, Mystery",
+  "director": "Rob Bowman",
+  "writer": "Chris Carter, Frank Spotnitz",
+  "actors": "David Duchovny, Gillian Anderson, John Neville",
+  "plot": "With problems appearing between FBI agents Fox Mulder and Dana Scully, a dangerous conspiracy is starting to appear. A deadly virus, which appears to be of extraterrestrial origin has appeared, which could destroy all life on Earth. With the help of a paranoid doctor, Alvin Kurtzweil, Mulder and Scully must act fast in order to save everyone on the planet.",
+  "language": "English, Arabic",
+  "country": "United States",
+  "metascore": "60",
+  "imdb_rating": "7.0",
+  "imdb_votes": "113,394",
+  "box_office": "$83,898,313",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=The+X+Files"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/The+X+Files/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120902/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120902/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/846"
+  }
+}

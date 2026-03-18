@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "12 wins & 30 nominations total",
+  "rated": "R",
+  "released": "16 Jul 1999",
+  "runtime": "159 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, Frederic Raphael, Arthur Schnitzler",
+  "actors": "Tom Cruise, Nicole Kidman, Todd Field",
+  "plot": "After his wife, Alice, tells him about her sexual fantasies, William Harford sets out for a night of sexual adventure. After several less than successful encounters, he meets an old friend, Nick Nightingale--now a musician--who tells him of strange sex parties where he is required to play the piano blindfolded. All the men at the party are costumed and wear masks while the women are all young and beautiful. Harford manages to find an appropriate costume and heads out to the party. Once there, however, he is warned by someone who recognizes him, despite the mask, that he is in great danger. He manages to extricate himself, but the threats prove to be quite real and sinister.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "69",
+  "imdb_rating": "7.5",
+  "imdb_votes": "424,194",
+  "box_office": "$55,691,208",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=Eyes+Wide+Shut"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Eyes+Wide+Shut/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120663/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120663/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/345"
+  }
+}

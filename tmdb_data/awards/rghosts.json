@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "27 Mar 2003",
+  "runtime": "116 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Matt Dillon",
+  "writer": "Matt Dillon, Barry Gifford",
+  "actors": "Matt Dillon, James Caan, Natascha McElhone",
+  "plot": "A con man flees to Southeast Asia when an international scam he was involved in goes sour. Suspecting he's been double-crossed by his long-time mentor, he sets off to Cambodia for his promised cut. What he finds there is a mysterious and hostile environment where even the most polished criminal can end up on deadly ground.",
+  "language": "English, French, Central Khmer, Russian",
+  "country": "United States",
+  "metascore": "57",
+  "imdb_rating": "5.9",
+  "imdb_votes": "6,012",
+  "box_office": "$357,197",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "48%",
+      "link": "https://www.rottentomatoes.com/search?search=City+of+Ghosts"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/City+of+Ghosts/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0164003/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0164003/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/31932"
+  }
+}

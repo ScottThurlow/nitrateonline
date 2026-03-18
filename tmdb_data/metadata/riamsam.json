@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 10950,
+  "title": "I Am Sam",
+  "original_title": "I Am Sam",
+  "release_date": "2001-12-28",
+  "runtime": 132,
+  "tagline": "Love is all you need.",
+  "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Bedford Falls Productions",
+      "country": "US"
+    },
+    {
+      "name": "Red Fish, Blue Fish Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jessie Nelson"
+  ],
+  "writers": [
+    {
+      "name": "Kristine Johnson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jessie Nelson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Edward Zwick",
+      "job": "Producer"
+    },
+    {
+      "name": "Jessie Nelson",
+      "job": "Producer"
+    },
+    {
+      "name": "David Scott Rubin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Solomon",
+      "job": "Producer"
+    },
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marshall Herskovitz",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Sam Dawson",
+      "order": 0
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "character": "Rita Harrison Williams",
+      "order": 1
+    },
+    {
+      "name": "Dianne Wiest",
+      "character": "Annie Cassell",
+      "order": 2
+    },
+    {
+      "name": "Dakota Fanning",
+      "character": "Lucy Diamond Dawson",
+      "order": 3
+    },
+    {
+      "name": "Richard Schiff",
+      "character": "Mr. Turner",
+      "order": 4
+    },
+    {
+      "name": "Loretta Devine",
+      "character": "Margaret Calgrove",
+      "order": 5
+    },
+    {
+      "name": "Marin Hinkle",
+      "character": "Patricia",
+      "order": 6
+    },
+    {
+      "name": "Laura Dern",
+      "character": "Randy Carpenter",
+      "order": 7
+    },
+    {
+      "name": "Brad Silverman",
+      "character": "Brad",
+      "order": 8
+    },
+    {
+      "name": "Joseph Rosenberg",
+      "character": "Joe",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8n8BTMIRPKT0KZKSa0nACG9cQ8O.jpg",
+  "backdrop_path": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+  "budget": 22000000,
+  "revenue": 92542418,
+  "vote_average": 7.562,
+  "vote_count": 2458,
+  "imdb_id": "tt0277027",
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 6 nominations total",
+  "rated": "R",
+  "released": "29 Jul 1998",
+  "runtime": "140 min",
+  "genre": "Action, Crime, Drama",
+  "director": "F. Gary Gray",
+  "writer": "James DeMonaco, Kevin Fox",
+  "actors": "Samuel L. Jackson, Kevin Spacey, David Morse",
+  "plot": "In the midst of an elaborate conspiracy, an expert negotiator is driven to the edge when he's framed for the murder of his partner, as well as embezzling money from his department's pension fund. His only chance to prove his innocence is to take hostages himself, acquire the services of another expert negotiator, and find out who's running the conspiracy before it's too late.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "62",
+  "imdb_rating": "7.3",
+  "imdb_votes": "166,146",
+  "box_office": "$44,547,681",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/The+Negotiator/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120768/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120768/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9631"
+  }
+}

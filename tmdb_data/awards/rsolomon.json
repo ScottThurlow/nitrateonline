@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 6 wins & 3 nominations total",
+  "rated": "R",
+  "released": "30 Apr 1999",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "Paul Morrison",
+  "writer": "Paul Morrison",
+  "actors": "Ioan Gruffudd, Nia Roberts, Sue Jones-Davies",
+  "plot": "A young Jew in 1911 Wales tries to make his living by selling fabrics door to door, but to do so he must hide his nationality. On one of his sales he meets and falls in love with a demure young woman with a strong-willed father and a Jew-hating brother. The two fall in love and she becomes pregnant, but only then does she learn of his ethnic background. When anti-Jewish riots break out, the two are forced to flee and become separated.",
+  "language": "English, Welsh, Yiddish",
+  "country": "United Kingdom",
+  "metascore": "58",
+  "imdb_rating": "6.8",
+  "imdb_votes": "1,482",
+  "box_office": "$165,485",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Solomon+%26+Gaenor"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/Solomon+%26+Gaenor/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0181830/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0181830/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/81517"
+  }
+}

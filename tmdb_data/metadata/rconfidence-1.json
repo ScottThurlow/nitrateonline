@@ -1,0 +1,190 @@
+{
+  "tmdb_id": 10743,
+  "title": "Confidence",
+  "original_title": "Confidence",
+  "release_date": "2003-04-25",
+  "runtime": 97,
+  "tagline": "It's not about the money. It's about the money.",
+  "overview": "What Jake Vig doesn't know just might get him killed. A sharp and polished grifter, Jake has just swindled thousands of dollars from the unsuspecting Lionel Dolby with the help of his crew. It becomes clear that Lionel wasn't just any mark, he was an accountant for eccentric crime boss Winston King. Jake and his crew will have to stay one step ahead of both the criminals and the cops to finally settle their debt.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ignite Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Lionsgate",
+      "country": "US"
+    },
+    {
+      "name": "Cinerenta",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "James Foley"
+  ],
+  "writers": [
+    {
+      "name": "Doug Jung",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Paseornek",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Kopeloff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Bernstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marco Mehlitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Ohoven",
+      "job": "Producer"
+    },
+    {
+      "name": "Eberhard Kayser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Butan",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Burns",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Edward Burns",
+      "character": "Jake Vig",
+      "order": 0
+    },
+    {
+      "name": "Rachel Weisz",
+      "character": "Lily",
+      "order": 1
+    },
+    {
+      "name": "Andy Garcia",
+      "character": "Gunther Butan",
+      "order": 2
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Gordo",
+      "order": 3
+    },
+    {
+      "name": "Morris Chestnut",
+      "character": "Travis",
+      "order": 4
+    },
+    {
+      "name": "Dustin Hoffman",
+      "character": "Winston King",
+      "order": 5
+    },
+    {
+      "name": "Luis Guzmán",
+      "character": "Manzano",
+      "order": 6
+    },
+    {
+      "name": "Donal Logue",
+      "character": "Whitworth",
+      "order": 7
+    },
+    {
+      "name": "Brian Van Holt",
+      "character": "Miles",
+      "order": 8
+    },
+    {
+      "name": "Franky G",
+      "character": "Lupus",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yJzmAtY9DmhhjJwFnW0Zjlvz6yg.jpg",
+  "backdrop_path": "/g5woRbuOrwynegzoMKOg8GmMf0j.jpg",
+  "budget": 15000000,
+  "revenue": 23014206,
+  "vote_average": 6.3,
+  "vote_count": 472,
+  "imdb_id": "tt0310910",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

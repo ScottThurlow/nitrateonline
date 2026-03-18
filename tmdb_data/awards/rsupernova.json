@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "14 Jan 2000",
+  "runtime": "90 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Walter Hill, Francis Ford Coppola, Jack Sholder",
+  "writer": "William Malone, Daniel Chuba, David C. Wilson",
+  "actors": "James Spader, Peter Facinelli, Robin Tunney",
+  "plot": "Supernova chronicles the search and rescue patrol of a medical ship in deep space in the early 22nd century and its six-member crew which includes a captain and pilot, a co-pilot, a medical officer, a medical technician, a search and rescue.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "19",
+  "imdb_rating": "4.9",
+  "imdb_votes": "20,483",
+  "box_office": "$14,230,455",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "11%",
+      "link": "https://www.rottentomatoes.com/search?search=Supernova"
+    },
+    {
+      "source": "Metacritic",
+      "value": "19/100",
+      "link": "https://www.metacritic.com/search/Supernova/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0134983/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0134983/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10384"
+  }
+}

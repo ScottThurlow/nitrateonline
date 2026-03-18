@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "4 wins & 10 nominations total",
+  "rated": "R",
+  "released": "17 Oct 1997",
+  "runtime": "101 min",
+  "genre": "Horror, Mystery",
+  "director": "Jim Gillespie",
+  "writer": "Kevin Williamson, Lois Duncan",
+  "actors": "Jennifer Love Hewitt, Sarah Michelle Gellar, Anne Heche",
+  "plot": "After an accident on a winding road, four teens make the fatal mistake of dumping their victim's body into the sea. But exactly one year later, the dead man returns from his watery grave and he's looking for more than an apology.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "5.9",
+  "imdb_votes": "179,499",
+  "box_office": "$72,586,134",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=I+Know+What+You+Did+Last+Summer"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/I+Know+What+You+Did+Last+Summer/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119345/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119345/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3597"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 8 nominations",
+  "rated": "R",
+  "released": "23 Mar 2001",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Gary Hardwick",
+  "writer": "Gary Hardwick",
+  "actors": "Morris Chestnut, Shemar Moore, D.L. Hughley",
+  "plot": "\"The Brothers\" traces the journey of four African-American men as they take on love, sex, friendship and two of life's most terrifying prospects honesty and commitment. Smart, successful and sexy, Jackson Smith, Brian Palmer, Derrick West and Terry White are \"The Brothers\" lifelong friends banded together to weather love's innate terrors and occasional triumphs in this brazenly comic yet painfully true exploration of the battle between the sexes. Amidst the career track, basketball and bar hopping, \"The Brothers\" love women, as many as possible, but shocking revelation tests the foursome's friendship and changes their dating habits forever.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "6.3",
+  "imdb_votes": "5,147",
+  "box_office": "$27,457,409",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Brothers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/The+Brothers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250274/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250274/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20322"
+  }
+}

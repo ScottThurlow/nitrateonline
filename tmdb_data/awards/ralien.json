@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "7 wins & 21 nominations total",
+  "rated": "R",
+  "released": "26 Nov 1997",
+  "runtime": "109 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Jean-Pierre Jeunet",
+  "writer": "Dan O'Bannon, Ronald Shusett, Joss Whedon",
+  "actors": "Sigourney Weaver, Winona Ryder, Dominique Pinon",
+  "plot": "The saga continues 200 years after Ripley sacrificed herself for the sake of humanity. Her erstwhile employers long gone, this time it is the military that resurrects the one-woman killing machine through genetic cloning to extract the alien from within her, but during the process her DNA is fused with the queen and then the aliens escape. Now Ripley must decide where her allegiance lies.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.2",
+  "imdb_votes": "290,537",
+  "box_office": "$47,795,658",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "56%",
+      "link": "https://www.rottentomatoes.com/search?search=Alien%3A+Resurrection"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Alien%3A+Resurrection/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118583/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118583/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8078"
+  }
+}

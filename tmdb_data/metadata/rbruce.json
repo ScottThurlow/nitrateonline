@@ -1,0 +1,275 @@
+{
+  "tmdb_id": 310,
+  "title": "Bruce Almighty",
+  "original_title": "Bruce Almighty",
+  "release_date": "2003-05-23",
+  "runtime": 101,
+  "tagline": "If you could be God for one week, what would you do?",
+  "overview": "Bruce Nolan toils as a \"human interest\" television reporter in Buffalo, NY, but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God — and the Almighty responds, endowing Bruce with all of His divine powers.",
+  "genres": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Pit Bull Productions",
+      "country": ""
+    },
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Shady Acres Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tom Shadyac"
+  ],
+  "writers": [
+    {
+      "name": "Mark O'Keefe",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Koren",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark O'Keefe",
+      "job": "Story"
+    },
+    {
+      "name": "Steve Koren",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jim Carrey",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Shadyac",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Koren",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Bostick",
+      "job": "Producer"
+    },
+    {
+      "name": "James D. Brubaker",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark O'Keefe",
+      "job": "Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "character": "Bruce Nolan",
+      "order": 0
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "God",
+      "order": 1
+    },
+    {
+      "name": "Jennifer Aniston",
+      "character": "Grace Connelly",
+      "order": 2
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Jack Baylor",
+      "order": 3
+    },
+    {
+      "name": "Catherine Bell",
+      "character": "Susan Ortega",
+      "order": 4
+    },
+    {
+      "name": "Lisa Ann Walter",
+      "character": "Debbie",
+      "order": 5
+    },
+    {
+      "name": "Steve Carell",
+      "character": "Evan Baxter",
+      "order": 6
+    },
+    {
+      "name": "Nora Dunn",
+      "character": "Ally Loman",
+      "order": 7
+    },
+    {
+      "name": "Eddie Jemison",
+      "character": "Bobby",
+      "order": 8
+    },
+    {
+      "name": "Paul Satterfield",
+      "character": "Dallas Coleman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/f0QqG14SZYYZcV4VWykVc5w13dz.jpg",
+  "backdrop_path": "/cgjLr9VVQzp0mYQ6IUc3JlZ8Frp.jpg",
+  "budget": 80000000,
+  "revenue": 484592874,
+  "vote_average": 6.723,
+  "vote_count": 11357,
+  "imdb_id": "tt0315327",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "pg-13"
+    },
+    {
+      "country": "AT",
+      "rating": "pg-13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "pg-13"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CO",
+      "rating": "pg-13"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "EE",
+      "rating": "pg-13"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "21 wins & 11 nominations",
+  "rated": "PG-13",
+  "released": "22 May 2002",
+  "runtime": "90 min",
+  "genre": "Drama",
+  "director": "Emanuele Crialese",
+  "writer": "Emanuele Crialese",
+  "actors": "Valeria Golino, Vincenzo Amato, Francesco Casisa",
+  "plot": "Grazia is a mother of three who spends suffocating days packing fish while her husband Pietro is at sea. Her oft-erratic behavior leads Pietro into thinking she may need medical attention, and he prepares to send her off to a psychiatric institute in Milan. Their son Pasquale, the one person who understand his mother the most, vows to do whatever it takes to foil his father's plan.",
+  "language": "Italian, Sicilian",
+  "country": "Italy, France",
+  "metascore": "65",
+  "imdb_rating": "7.0",
+  "imdb_votes": "4,894",
+  "box_office": "$1,072,834",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Respiro"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/Respiro/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0286516/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0286516/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12544"
+  }
+}

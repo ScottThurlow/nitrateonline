@@ -1,0 +1,136 @@
+{
+  "tmdb_id": 38295,
+  "title": "She's So Lovely",
+  "original_title": "She's So Lovely",
+  "release_date": "1997-08-29",
+  "runtime": 100,
+  "tagline": "The story of one outrageous woman. Caught between two men. Both of them certain of one thing...",
+  "overview": "After being released from a psychiatric institution, a man tries to redeem himself in the eyes of his now-ex wife from the events that led up to his incarceration.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Hachette Première",
+      "country": "FR"
+    },
+    {
+      "name": "Clyde Is Hungry Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Nick Cassavetes"
+  ],
+  "writers": [
+    {
+      "name": "John Cassavetes",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bernard Bouix",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sean Penn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "René Cleitman",
+      "job": "Producer"
+    },
+    {
+      "name": "John Travolta",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gérard Depardieu",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Eddie Quinn",
+      "order": 0
+    },
+    {
+      "name": "Robin Wright",
+      "character": "Maureen Murphy Quinn",
+      "order": 1
+    },
+    {
+      "name": "John Travolta",
+      "character": "Joey Germoni",
+      "order": 2
+    },
+    {
+      "name": "Harry Dean Stanton",
+      "character": "Tony 'Shorty' Russo",
+      "order": 3
+    },
+    {
+      "name": "Debi Mazar",
+      "character": "Georgie",
+      "order": 4
+    },
+    {
+      "name": "James Gandolfini",
+      "character": "Kiefer",
+      "order": 5
+    },
+    {
+      "name": "David Thornton",
+      "character": "Saul Sunday",
+      "order": 6
+    },
+    {
+      "name": "Susan Traylor",
+      "character": "Lucinda",
+      "order": 7
+    },
+    {
+      "name": "Bobby Cooper",
+      "character": "Cooper",
+      "order": 8
+    },
+    {
+      "name": "John Marshall Jones",
+      "character": "Leonard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oZISQ7Cnmezs5NgBaL6uHUkDMFZ.jpg",
+  "backdrop_path": "/uEPLII5bciHwDeJLbFjUD8KzvYx.jpg",
+  "budget": 18000000,
+  "revenue": 7300000,
+  "vote_average": 5.9,
+  "vote_count": 126,
+  "imdb_id": "tt0120112",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

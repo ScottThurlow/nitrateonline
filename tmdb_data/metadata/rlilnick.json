@@ -1,0 +1,191 @@
+{
+  "tmdb_id": 9678,
+  "title": "Little Nicky",
+  "original_title": "Little Nicky",
+  "release_date": "2000-11-10",
+  "runtime": 90,
+  "tagline": "If your father was the Devil and your mother was an angel, you'd be messed up too.",
+  "overview": "After the lord of darkness decides he will not cede his throne to any of his three sons, the two most powerful of them escape to Earth to create a kingdom for themselves. This action closes the portal filtering sinful souls to Hell and causes Satan to wither away. He must send his most weak but beloved son, Little Nicky, to Earth to return his brothers to Hell.",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Happy Madison Productions",
+      "country": "US"
+    },
+    {
+      "name": "Robert Simonds Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Brill"
+  ],
+  "writers": [
+    {
+      "name": "Tim Herlihy",
+      "job": "Writer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Writer"
+    },
+    {
+      "name": "Steven Brill",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jack Giarraputo",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Simonds",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Simonds",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Witten",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Engelman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Adam Sandler",
+      "character": "Nicky",
+      "order": 0
+    },
+    {
+      "name": "Patricia Arquette",
+      "character": "Valerie Veran",
+      "order": 1
+    },
+    {
+      "name": "Harvey Keitel",
+      "character": "Dad",
+      "order": 2
+    },
+    {
+      "name": "Rhys Ifans",
+      "character": "Adrian",
+      "order": 3
+    },
+    {
+      "name": "Tommy Lister Jr.",
+      "character": "Cassius",
+      "order": 4
+    },
+    {
+      "name": "Rodney Dangerfield",
+      "character": "Lucifer",
+      "order": 5
+    },
+    {
+      "name": "Allen Covert",
+      "character": "Todd",
+      "order": 6
+    },
+    {
+      "name": "Peter Dante",
+      "character": "Peter",
+      "order": 7
+    },
+    {
+      "name": "Jonathan Loughran",
+      "character": "John",
+      "order": 8
+    },
+    {
+      "name": "Robert Smigel",
+      "character": "Beefy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/AudA8gnTWSBWXBHSBHnr3HHUXXM.jpg",
+  "backdrop_path": "/fYKfPWArkWeMcril9JxhVRP9bYk.jpg",
+  "budget": 85000000,
+  "revenue": 58292295,
+  "vote_average": 5.8,
+  "vote_count": 1947,
+  "imdb_id": "tt0185431",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

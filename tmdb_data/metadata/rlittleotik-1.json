@@ -1,0 +1,133 @@
+{
+  "tmdb_id": 18939,
+  "title": "Little Otik",
+  "original_title": "Otesánek",
+  "release_date": "2001-01-25",
+  "runtime": 132,
+  "tagline": "From the creator of \"Alice\" and \"Faust\" comes a most unusual baby…",
+  "overview": "When a childless couple learn that they cannot have children, it causes great distress. To ease his wife's pain, the man finds a piece of root in the backyard and chops it and varnishes it into the shape of a child. However the woman takes the root as her baby and starts to pretend that it is real.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Animation"
+  ],
+  "spoken_languages": [
+    "Czech"
+  ],
+  "production_companies": [
+    {
+      "name": "ATHANOR",
+      "country": "CZ"
+    },
+    {
+      "name": "Illuminations Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Jan Švankmajer"
+  ],
+  "writers": [
+    {
+      "name": "Jan Švankmajer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jan Švankmajer",
+      "job": "Story"
+    },
+    {
+      "name": "Karel Jaromír Erben",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Keith Griffiths",
+      "job": "Producer"
+    },
+    {
+      "name": "Jan Švankmajer",
+      "job": "Producer"
+    },
+    {
+      "name": "Jaromír Kallista",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Veronika Žilková",
+      "character": "Bozena",
+      "order": 0
+    },
+    {
+      "name": "Jan Hartl",
+      "character": "Karel",
+      "order": 1
+    },
+    {
+      "name": "Jaroslava Kretschmerová",
+      "character": "Mrs. Stadler",
+      "order": 2
+    },
+    {
+      "name": "Pavel Nový",
+      "character": "Frantisek Stadler",
+      "order": 3
+    },
+    {
+      "name": "Kristina Adamcová",
+      "character": "Alzbetka",
+      "order": 4
+    },
+    {
+      "name": "Dagmar Stríbrná",
+      "character": "Mrs. Administrator",
+      "order": 5
+    },
+    {
+      "name": "Zdeněk Kozák",
+      "character": "Mr. Zlabek",
+      "order": 6
+    },
+    {
+      "name": "Gustav Vondráček",
+      "character": "Mladek",
+      "order": 7
+    },
+    {
+      "name": "Arnošt Goldflam",
+      "character": "Gynaecologist",
+      "order": 8
+    },
+    {
+      "name": "Jitka Smutná",
+      "character": "Bulankova",
+      "order": 9
+    }
+  ],
+  "poster_path": "/86uoXmcgXKZQa35V1AsKVXY3NvX.jpg",
+  "backdrop_path": "/4iThHj4wK5A5Rfbe66y3KpyhD3Z.jpg",
+  "budget": 0,
+  "revenue": 116710,
+  "vote_average": 7.007,
+  "vote_count": 150,
+  "imdb_id": "tt0228687",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    }
+  ],
+  "status": "Released"
+}

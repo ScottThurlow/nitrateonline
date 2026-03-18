@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 10402,
+  "title": "Deuce Bigalow: Male Gigolo",
+  "original_title": "Deuce Bigalow: Male Gigolo",
+  "release_date": "1999-12-10",
+  "runtime": 88,
+  "tagline": "He charges $10 but he’s willing to negotiate.",
+  "overview": "Deuce Bigalow is a less than attractive, down on his luck aquarium cleaner. One day he wrecks the house of a gigolo and needs quick money to repair it. The only way he can make it is to become a gigolo himself, taking on an unusual mix of female clients. He encounters a couple of problems, though. He falls in love with one of his unusual clients, and a sleazy police officer is hot on his trail.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Quinta Communications",
+      "country": "FR"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Happy Madison Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mike Mitchell"
+  ],
+  "writers": [
+    {
+      "name": "Rob Schneider",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Cachuela",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Harris Goldberg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sidney Ganis",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Bernardi",
+      "job": "Producer"
+    },
+    {
+      "name": "Jack Giarraputo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rob Schneider",
+      "character": "Deuce Bigalow",
+      "order": 0
+    },
+    {
+      "name": "William Forsythe",
+      "character": "Det. Chuck Fowler",
+      "order": 1
+    },
+    {
+      "name": "Eddie Griffin",
+      "character": "Tiberius Jefferson \"T.J.\" Hicks",
+      "order": 2
+    },
+    {
+      "name": "Arija Bareikis",
+      "character": "Kate",
+      "order": 3
+    },
+    {
+      "name": "Oded Fehr",
+      "character": "Antoine Laconte",
+      "order": 4
+    },
+    {
+      "name": "Gail O'Grady",
+      "character": "Claire",
+      "order": 5
+    },
+    {
+      "name": "Richard Riehle",
+      "character": "Bob Bigalow",
+      "order": 6
+    },
+    {
+      "name": "Jacqueline Obradors",
+      "character": "Elaine Fowler",
+      "order": 7
+    },
+    {
+      "name": "Big Boy",
+      "character": "Fluisa",
+      "order": 8
+    },
+    {
+      "name": "Amy Poehler",
+      "character": "Ruth",
+      "order": 9
+    }
+  ],
+  "poster_path": "/w0UKAcY4fAPuQW2GhAoIMwutIA5.jpg",
+  "backdrop_path": "/per5h5iqTtwQ27nrk6YF2Hwe39T.jpg",
+  "budget": 17000000,
+  "revenue": 92938755,
+  "vote_average": 5.974,
+  "vote_count": 1512,
+  "imdb_id": "tt0205000",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

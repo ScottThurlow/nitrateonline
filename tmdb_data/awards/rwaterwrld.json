@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Nominated for 1 Oscar. 6 wins & 9 nominations total",
+  "rated": "PG-13",
+  "released": "28 Jul 1995",
+  "runtime": "135 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Kevin Reynolds",
+  "writer": "Peter Rader, David Twohy",
+  "actors": "Kevin Costner, Jeanne Tripplehorn, Dennis Hopper",
+  "plot": "The polar ice caps have melted, and the earth is covered by water. The remaining people travel the seas, in search of survival. Several different societies exist. The Mariner falls from his customary and solitary existence into having to care for a woman and a young girl while being pursued by the evil forces of the Deacon.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "56",
+  "imdb_rating": "6.3",
+  "imdb_votes": "222,867",
+  "box_office": "$88,246,220",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Waterworld"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Waterworld/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0114898/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0114898/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9804"
+  }
+}

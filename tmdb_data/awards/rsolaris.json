@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 11 nominations total",
+  "rated": "PG-13",
+  "released": "27 Nov 2002",
+  "runtime": "99 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Steven Soderbergh",
+  "writer": "Stanislaw Lem, Steven Soderbergh",
+  "actors": "George Clooney, Natascha McElhone, Ulrich Tukur",
+  "plot": "Grieving psychologist Chris Kelvin is sent to investigate a lonely space station orbiting the mysterious planet Solaris, where terrified crewmembers are experiencing a host of strange phenomena, including impossibly halcyon visitors that seem all too human. Once aboard, he confronts an unfathomable power that could hold the key to mankind's deepest dreams and darkest nightmares.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "6.2",
+  "imdb_votes": "88,658",
+  "box_office": "$14,973,382",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=Solaris"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Solaris/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0307479/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0307479/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2103"
+  }
+}

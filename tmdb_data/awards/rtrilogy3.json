@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "8 wins & 4 nominations total",
+  "rated": "R",
+  "released": "08 Jan 2003",
+  "runtime": "124 min",
+  "genre": "Crime, Drama",
+  "director": "Lucas Belvaux",
+  "writer": "Lucas Belvaux",
+  "actors": "Gilbert Melki, Lucas Belvaux, Dominique Blanc",
+  "plot": "The final installment in director Lucas Belvaux's trilogy follows Pascal, a cop who sees a return to credibility in the capture of escaped convict Bruno--who in turn is harbored by Pascal's morphine-addicted wife Agnes. Pascal's already precarious ties to Agnes are strained further when he meets and falls for her fellow schoolteacher friend Cecile. With Pascal focused on Bruno and Cecile, Agnes is forced to find a fix on her own.",
+  "language": "French",
+  "country": "France, Belgium",
+  "metascore": "73",
+  "imdb_rating": "7.0",
+  "imdb_votes": "942",
+  "box_office": "$27,256",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Apr%C3%A8s+la+vie"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Apr%C3%A8s+la+vie/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0233230/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0233230/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/44674"
+  }
+}

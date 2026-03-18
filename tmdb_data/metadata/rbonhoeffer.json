@@ -1,0 +1,36 @@
+{
+  "tmdb_id": 206065,
+  "title": "Bonhoeffer",
+  "original_title": "Bonhoeffer",
+  "release_date": "2003-06-19",
+  "runtime": 93,
+  "tagline": "",
+  "overview": "Dramatic documentary about the young German pacifist and theologian Dietrich Bonhoeffer who resisted the Nazi regime and was hanged two weeks before World War II was over.",
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "spoken_languages": [],
+  "production_companies": [],
+  "director": [
+    "Martin Doblmeier"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Klaus Maria Brandauer",
+      "character": "Dietrich Bonhoeffer",
+      "order": 0
+    }
+  ],
+  "poster_path": "/5rwm6aD1336BvHPdH2rIgh5er3J.jpg",
+  "backdrop_path": "/jEXCm2fFyCy422XESl1C2GbnmcF.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 2,
+  "imdb_id": "tt0371583",
+  "certifications": [],
+  "status": "Released"
+}

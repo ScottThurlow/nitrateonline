@@ -1,0 +1,191 @@
+{
+  "tmdb_id": 9023,
+  "title": "Spirit: Stallion of the Cimarron",
+  "original_title": "Spirit: Stallion of the Cimarron",
+  "release_date": "2002-05-24",
+  "runtime": 83,
+  "tagline": "Some legends can never be tamed.",
+  "overview": "A captured mustang remains determined to return to his herd no matter what.",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Drama",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Animation",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kelly Asbury",
+    "Lorna Cook"
+  ],
+  "writers": [
+    {
+      "name": "John Fusco",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Lucker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ronnie del Carmen",
+      "job": "Story Supervisor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Max Howard",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mireille Soria",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Spirit (voice)",
+      "order": 0
+    },
+    {
+      "name": "James Cromwell",
+      "character": "The Colonel (voice)",
+      "order": 1
+    },
+    {
+      "name": "Daniel Studi",
+      "character": "Little Creek (voice)",
+      "order": 2
+    },
+    {
+      "name": "Chopper Bernet",
+      "character": "Sgt. Adams (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jeff LeBeau",
+      "character": "Murphy / Railroad Foreman (voice)",
+      "order": 4
+    },
+    {
+      "name": "John Rubano",
+      "character": "Soldier (voice)",
+      "order": 5
+    },
+    {
+      "name": "Richard McGonagle",
+      "character": "Bill (voice)",
+      "order": 6
+    },
+    {
+      "name": "Matt Levin",
+      "character": "Joe (voice)",
+      "order": 7
+    },
+    {
+      "name": "Adam Paul",
+      "character": "Pete (voice)",
+      "order": 8
+    },
+    {
+      "name": "Robert Cait",
+      "character": "Jake (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+  "backdrop_path": "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+  "budget": 80000000,
+  "revenue": 122563539,
+  "vote_average": 7.686,
+  "vote_count": 4837,
+  "imdb_id": "tt0166813",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 24584,
+  "title": "Get Real",
+  "original_title": "Get Real",
+  "release_date": "1998-08-16",
+  "runtime": 111,
+  "tagline": "Boy meets boy. Boy likes boy. Boy, oh, boy.",
+  "overview": "Sensitive rural town model student Steven Carter hides his gay feelings, except with his neighbor and best friend Linda. Suddenly his desperate search for partners leads to a blind date with golden boy John Dixon, bound for an Oxbridge career.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Graphite Film Production (GB)",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Simon Shore"
+  ],
+  "writers": [
+    {
+      "name": "Patrick Wilde",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anant Singh",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Silverstone",
+      "character": "Steven Carter",
+      "order": 0
+    },
+    {
+      "name": "Brad Gorton",
+      "character": "John Dixon",
+      "order": 1
+    },
+    {
+      "name": "Charlotte Brittain",
+      "character": "Linda",
+      "order": 2
+    },
+    {
+      "name": "Stacy Hart",
+      "character": "Jessica",
+      "order": 3
+    },
+    {
+      "name": "Kate McEnery",
+      "character": "Wendy",
+      "order": 4
+    },
+    {
+      "name": "Patrick Nielsen",
+      "character": "Mark Watkins",
+      "order": 5
+    },
+    {
+      "name": "Tim Harris",
+      "character": "Kevin Grainger",
+      "order": 6
+    },
+    {
+      "name": "James D. White",
+      "character": "Dave",
+      "order": 7
+    },
+    {
+      "name": "James Perkins",
+      "character": "Young Steve",
+      "order": 8
+    },
+    {
+      "name": "Nicholas Hunter",
+      "character": "Young Mark",
+      "order": 9
+    }
+  ],
+  "poster_path": "/k7KCBnt1VXFhPjoTSt4MePr1MpI.jpg",
+  "backdrop_path": "/zQ4sKBzuX3tgGpl6eiGYT0ur9Nk.jpg",
+  "budget": 1200000,
+  "revenue": 1200000,
+  "vote_average": 7.0,
+  "vote_count": 187,
+  "imdb_id": "tt0162973",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

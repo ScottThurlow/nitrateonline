@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Won 2 Oscars. 13 wins & 28 nominations total",
+  "rated": "R",
+  "released": "11 Feb 2000",
+  "runtime": "160 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Mike Leigh",
+  "writer": "Mike Leigh",
+  "actors": "Jim Broadbent, Allan Corduner, Dexter Fletcher",
+  "plot": "After their last production meets with less-than-stunning reviews, the relationship between Gilbert and Sullivan is strained to breaking. Their friends and associates attempt to get them to work together again, which opens the way to The Mikado, one of the duo's greatest successes.",
+  "language": "English, French, German, Italian, Japanese",
+  "country": "United Kingdom, United States",
+  "metascore": "90",
+  "imdb_rating": "7.3",
+  "imdb_votes": "13,861",
+  "box_office": "$6,208,548",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Topsy-Turvy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "90/100",
+      "link": "https://www.metacritic.com/search/Topsy-Turvy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0151568/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0151568/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/46435"
+  }
+}

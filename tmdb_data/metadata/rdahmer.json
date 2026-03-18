@@ -1,0 +1,137 @@
+{
+  "tmdb_id": 25853,
+  "title": "Dahmer",
+  "original_title": "Dahmer",
+  "release_date": "2002-06-21",
+  "runtime": 101,
+  "tagline": "The mind is a place of its own.",
+  "overview": "On February 15, 1992 in Milwaukee, Wisconsin, Jeffrey Dahmer, one of the world's most infamous serial killers, was convicted of 15 counts of murder and sentenced to 937 years in federal prison. This movie is based on events from his life.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Two Left Shoes Films",
+      "country": ""
+    },
+    {
+      "name": "Blockbuster Films",
+      "country": ""
+    },
+    {
+      "name": "DEJ Productions",
+      "country": "US"
+    },
+    {
+      "name": "Peninsula Films",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "David Jacobson"
+  ],
+  "writers": [
+    {
+      "name": "David Jacobson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Larry Rattner",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Swain",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Leonard Shapiro",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeremy Renner",
+      "character": "Jeffrey Dahmer",
+      "order": 0
+    },
+    {
+      "name": "Bruce Davison",
+      "character": "Lionel Dahmer",
+      "order": 1
+    },
+    {
+      "name": "Artel Great",
+      "character": "Rodney",
+      "order": 2
+    },
+    {
+      "name": "Matt Newton",
+      "character": "Lance Bell",
+      "order": 3
+    },
+    {
+      "name": "Dionysio Basco",
+      "character": "Khamtay",
+      "order": 4
+    },
+    {
+      "name": "Kate Williamson",
+      "character": "Grandma",
+      "order": 5
+    },
+    {
+      "name": "Lily Knight",
+      "character": "Mrs. Dahmer",
+      "order": 6
+    },
+    {
+      "name": "Christina Payano",
+      "character": "Letitia",
+      "order": 7
+    },
+    {
+      "name": "Tom'ya Bowden",
+      "character": "Shawna",
+      "order": 8
+    },
+    {
+      "name": "Sean Blakemore",
+      "character": "Corliss",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gZPrXBXYf2s4VztHdQpd0441jF6.jpg",
+  "backdrop_path": "/bypraAsU9NdFm3HXWYLBKPlipke.jpg",
+  "budget": 250000,
+  "revenue": 144008,
+  "vote_average": 5.3,
+  "vote_count": 319,
+  "imdb_id": "tt0285728",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 2 Oscars. 30 wins & 79 nominations total",
+  "rated": "R",
+  "released": "16 Jan 2004",
+  "runtime": "124 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Alejandro G. Iñárritu",
+  "writer": "Guillermo Arriaga",
+  "actors": "Sean Penn, Benicio Del Toro, Naomi Watts",
+  "plot": "Paul Rivers, an ailing mathematician lovelessly married to English émigré; Christina Peck, who's hiding a secret past; and Jack Jordan, an ex-convict who has found Jesus are brought together by a terrible accident which changes their lives.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "70",
+  "imdb_rating": "7.6",
+  "imdb_votes": "252,892",
+  "box_office": "$16,290,476",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=21+Grams"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/21+Grams/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0315733/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0315733/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/470"
+  }
+}

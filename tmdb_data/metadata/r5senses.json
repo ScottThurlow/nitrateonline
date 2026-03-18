@@ -1,0 +1,124 @@
+{
+  "tmdb_id": 47585,
+  "title": "The Five Senses",
+  "original_title": "The Five Senses",
+  "release_date": "1999-05-18",
+  "runtime": 106,
+  "tagline": "Nothing can cure the soul but the senses. — Oscar Wilde",
+  "overview": "Interconnected stories examine situations involving the five senses. Touch is represented by a massage therapist who is treating a woman, while her daughter accidentally loses the woman's pre-school daughter in the park. The older daughter meets a voyeur (vision), a professional house-cleaner has an acute sense of smell, a cake maker has lost her sense of taste, and an older man is losing his hearing.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "CBC Films",
+      "country": "CA"
+    },
+    {
+      "name": "Five Senses Productions",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Jeremy Podeswa"
+  ],
+  "writers": [
+    {
+      "name": "Jeremy Podeswa",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David R. Ginsburg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charlotte Mickie",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Camelia Frieberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeremy Podeswa",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mary-Louise Parker",
+      "character": "Rona",
+      "order": 0
+    },
+    {
+      "name": "Pascale Bussières",
+      "character": "Gail",
+      "order": 1
+    },
+    {
+      "name": "Richard Clarkin",
+      "character": "Raymond",
+      "order": 2
+    },
+    {
+      "name": "Brendan Fletcher",
+      "character": "Rupert",
+      "order": 3
+    },
+    {
+      "name": "Marco Leonardi",
+      "character": "Roberto",
+      "order": 4
+    },
+    {
+      "name": "Nadia Litz",
+      "character": "Rachel Seraph",
+      "order": 5
+    },
+    {
+      "name": "Daniel MacIvor",
+      "character": "Robert",
+      "order": 6
+    },
+    {
+      "name": "Molly Parker",
+      "character": "Anna Miller",
+      "order": 7
+    },
+    {
+      "name": "Gabrielle Rose",
+      "character": "Ruth Seraph",
+      "order": 8
+    },
+    {
+      "name": "Tara Rosling",
+      "character": "Rebecca",
+      "order": 9
+    }
+  ],
+  "poster_path": "/y4UjdQJYxQEhenI7DFIM301Df7d.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.6,
+  "vote_count": 28,
+  "imdb_id": "tt0168794",
+  "status": "Released"
+}

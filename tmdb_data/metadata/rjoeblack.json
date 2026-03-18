@@ -1,0 +1,205 @@
+{
+  "tmdb_id": 297,
+  "title": "Meet Joe Black",
+  "original_title": "Meet Joe Black",
+  "release_date": "1998-11-12",
+  "runtime": 178,
+  "tagline": "Sooner or later everyone does.",
+  "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Dutch",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "City Light Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Martin Brest"
+  ],
+  "writers": [
+    {
+      "name": "Ron Osborn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeff Reno",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bo Goldman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Wade",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alberto Casella",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Walter Ferris",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Maxwell Anderson",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Gladys Lehman",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Martin Brest",
+      "job": "Producer"
+    },
+    {
+      "name": "Ronald L. Schwary",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "character": "Joe Black / Young Man in Coffee Shop",
+      "order": 0
+    },
+    {
+      "name": "Anthony Hopkins",
+      "character": "William Parrish",
+      "order": 1
+    },
+    {
+      "name": "Claire Forlani",
+      "character": "Susan Parrish",
+      "order": 2
+    },
+    {
+      "name": "Jake Weber",
+      "character": "Drew",
+      "order": 3
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "character": "Allison",
+      "order": 4
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "character": "Quince",
+      "order": 5
+    },
+    {
+      "name": "David S. Howard",
+      "character": "Eddie Sloane",
+      "order": 6
+    },
+    {
+      "name": "Lois Kelly-Miller",
+      "character": "Jamaican Woman",
+      "order": 7
+    },
+    {
+      "name": "Jahnni St. John",
+      "character": "Jamaican Woman's Daughter",
+      "order": 8
+    },
+    {
+      "name": "Richard Clarke",
+      "character": "Butler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+  "backdrop_path": "/uMBByiSDpgFwWVegAtwwnuzvogJ.jpg",
+  "budget": 90000000,
+  "revenue": 142940100,
+  "vote_average": 7.354,
+  "vote_count": 5660,
+  "imdb_id": "tt0119643",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

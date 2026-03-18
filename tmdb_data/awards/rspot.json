@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination",
+  "rated": "PG",
+  "released": "02 Mar 2001",
+  "runtime": "94 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "John Whitesell",
+  "writer": "George Gallo, Gregory Poirier, Dan Baron",
+  "actors": "David Arquette, Michael Clarke Duncan, Leslie Bibb",
+  "plot": "A drug sniffing agent canine is a target for an assassin boss so the FBI calls Witness Protection to send him somewhere else. Meanwhile a single Mom puts her 6 year old boy James in the care of her irresponsible, mailman, neighbor, Gordon, when the babysitter bails on her. Meanwhile, an assassin mob boss hires 2 goons to kill Agent 11. But when 11 escapes from the van when they tried to kill him, he hides in Gordon's Mailtruck that James is in too. And guess what they name him. Spot.",
+  "language": "English, American Sign ",
+  "country": "United States, Australia, Canada",
+  "metascore": "24",
+  "imdb_rating": "5.4",
+  "imdb_votes": "9,869",
+  "box_office": "$33,357,476",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "24%",
+      "link": "https://www.rottentomatoes.com/search?search=See+Spot+Run"
+    },
+    {
+      "source": "Metacritic",
+      "value": "24/100",
+      "link": "https://www.metacritic.com/search/See+Spot+Run/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250720/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250720/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/39180"
+  }
+}

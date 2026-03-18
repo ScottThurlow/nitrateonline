@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "08 Mar 2002",
+  "runtime": "95 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Kevin Bray",
+  "writer": "Ronald Lang, Ice Cube",
+  "actors": "Ice Cube, Mike Epps, Tommy Flanagan",
+  "plot": "Bounty hunter Bucum Jackson (Ice Cube) teams with the small-time con artist, Reggie Wright (Mike Epps), that he is pursuing, in an attempt to locate a missing stash of diamonds and a lottery ticket worth millions of dollars. Bucum and Reggie find themselves in a race to the finish as they embark on an unlikely partnership that should - when all is said and done - prove beneficial to them both.",
+  "language": "English, French",
+  "country": "United States, Germany",
+  "metascore": "34",
+  "imdb_rating": "5.8",
+  "imdb_votes": "16,197",
+  "box_office": "$25,916,319",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "31%",
+      "link": "https://www.rottentomatoes.com/search?search=All+About+the+Benjamins"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/All+About+the+Benjamins/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0278295/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0278295/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13950"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 3 Oscars. 36 wins & 64 nominations total",
+  "rated": "R",
+  "released": "31 Oct 1997",
+  "runtime": "155 min",
+  "genre": "Drama",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Mark Wahlberg, Julianne Moore, Burt Reynolds",
+  "plot": "Adult film director Jack Horner is always on the lookout for new talent and it's only by chance that he meets Eddie Adams who is working as a busboy in a restaurant. Eddie is young, good looking and plenty of libido to spare. Using the screen name Dirk Diggler, he quickly rises to the top of his industry winning awards year after year. Drugs and ego however come between Dirk and those around him and he soon finds that fame is fleeting.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "86",
+  "imdb_rating": "7.9",
+  "imdb_votes": "294,236",
+  "box_office": "$26,416,349",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Boogie+Nights"
+    },
+    {
+      "source": "Metacritic",
+      "value": "86/100",
+      "link": "https://www.metacritic.com/search/Boogie+Nights/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118749/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118749/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4995"
+  }
+}

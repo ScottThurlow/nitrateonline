@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 6283,
+  "title": "MouseHunt",
+  "original_title": "MouseHunt",
+  "release_date": "1997-12-19",
+  "runtime": 98,
+  "tagline": "Who's hunting who?",
+  "overview": "Down-on-their luck brothers, Lars and Ernie Smuntz, aren't happy with the crumbling old mansion they inherit... until they discover the estate is worth millions. Before they can cash in, they have to rid the house of its single, stubborn occupant—a tiny and tenacious mouse.",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Riche-Ludwig Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Gore Verbinski"
+  ],
+  "writers": [
+    {
+      "name": "Adam Rifkin",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tony Ludwig",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Cohen",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Riche",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nathan Lane",
+      "character": "Ernie Smuntz",
+      "order": 0
+    },
+    {
+      "name": "Lee Evans",
+      "character": "Lars Smuntz",
+      "order": 1
+    },
+    {
+      "name": "Vicki Lewis",
+      "character": "April Smuntz",
+      "order": 2
+    },
+    {
+      "name": "Maury Chaykin",
+      "character": "Alexander Falko",
+      "order": 3
+    },
+    {
+      "name": "Eric Christmas",
+      "character": "The Lawyer",
+      "order": 4
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Quincy Thorpe",
+      "order": 5
+    },
+    {
+      "name": "Debra Christofferson",
+      "character": "Ingrid",
+      "order": 6
+    },
+    {
+      "name": "Camilla Søeberg",
+      "character": "Hilde",
+      "order": 7
+    },
+    {
+      "name": "Ian Abercrombie",
+      "character": "Auctioneer",
+      "order": 8
+    },
+    {
+      "name": "Annabelle Gurwitch",
+      "character": "Roxanne Atkins",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg",
+  "backdrop_path": "/sqk5jLiyTDd9AHfrDdHBf1ecmte.jpg",
+  "budget": 38000000,
+  "revenue": 122417389,
+  "vote_average": 6.531,
+  "vote_count": 1342,
+  "imdb_id": "tt0119715",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

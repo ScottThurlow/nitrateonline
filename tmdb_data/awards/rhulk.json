@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "3 wins & 15 nominations total",
+  "rated": "PG-13",
+  "released": "20 Jun 2003",
+  "runtime": "138 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Ang Lee",
+  "writer": "Stan Lee, Jack Kirby, James Schamus",
+  "actors": "Eric Bana, Jennifer Connelly, Sam Elliott",
+  "plot": "Bruce is an ordinary Gamma expert who one day gets blasted with radiation and somehow survives. But in the process a monster was born. Now whenever he gets angry he grows bigger and stronger until he is no longer Bruce Banner. He becomes The Hulk",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "54",
+  "imdb_rating": "5.7",
+  "imdb_votes": "290,412",
+  "box_office": "$132,177,234",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=Hulk"
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/Hulk/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0286716/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0286716/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1927"
+  }
+}

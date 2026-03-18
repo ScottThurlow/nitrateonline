@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "1 win & 2 nominations total",
+  "rated": "PG-13",
+  "released": "12 Jul 1995",
+  "runtime": "103 min",
+  "genre": "Comedy, Romance",
+  "director": "Chris Columbus",
+  "writer": "Patrick Braoudé, Chris Columbus",
+  "actors": "Hugh Grant, Julianne Moore, Tom Arnold",
+  "plot": "Samuels life is perfect. That is, until he finds out his girlfriend is pregnant. Now he must face the issues that come with being an expecting father, in a most entertaining way.",
+  "language": "English, Russian",
+  "country": "United States",
+  "metascore": "47",
+  "imdb_rating": "5.5",
+  "imdb_votes": "39,483",
+  "box_office": "$69,684,532",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "26%",
+      "link": "https://www.rottentomatoes.com/search?search=Nine+Months"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/Nine+Months/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0113986/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0113986/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11472"
+  }
+}

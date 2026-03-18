@@ -1,0 +1,216 @@
+{
+  "tmdb_id": 846,
+  "title": "The X-Files",
+  "original_title": "The X-Files",
+  "release_date": "1998-06-19",
+  "runtime": 121,
+  "tagline": "Fight the future.",
+  "overview": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+  "genres": [
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ten Thirteen Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Bowman"
+  ],
+  "writers": [
+    {
+      "name": "Chris Carter",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chris Carter",
+      "job": "Story"
+    },
+    {
+      "name": "Frank Spotnitz",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Carter",
+      "job": "Producer"
+    },
+    {
+      "name": "Lata Ryan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Daniel Sackheim",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Duchovny",
+      "character": "Agent Fox Mulder",
+      "order": 0
+    },
+    {
+      "name": "Gillian Anderson",
+      "character": "Agent Dana Scully",
+      "order": 1
+    },
+    {
+      "name": "Mitch Pileggi",
+      "character": "Assistant Director Walter Skinner",
+      "order": 2
+    },
+    {
+      "name": "William B. Davis",
+      "character": "The Cigarette-Smoking Man",
+      "order": 3
+    },
+    {
+      "name": "John Neville",
+      "character": "The Well-Manicured Man",
+      "order": 4
+    },
+    {
+      "name": "Martin Landau",
+      "character": "Kurtzweil",
+      "order": 5
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "character": "Bronschweig",
+      "order": 6
+    },
+    {
+      "name": "Tom Braidwood",
+      "character": "Frohike",
+      "order": 7
+    },
+    {
+      "name": "Blythe Danner",
+      "character": "Cassidy",
+      "order": 8
+    },
+    {
+      "name": "Terry O'Quinn",
+      "character": "Michaud",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+  "backdrop_path": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+  "budget": 66000000,
+  "revenue": 189198313,
+  "vote_average": 6.904,
+  "vote_count": 1765,
+  "imdb_id": "tt0120902",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,199 @@
+{
+  "tmdb_id": 8198,
+  "title": "The Quiet American",
+  "original_title": "The Quiet American",
+  "release_date": "2002-11-22",
+  "runtime": 101,
+  "tagline": "In war, the most powerful weapon is seduction.",
+  "overview": "Cynical British journalist Fowler falls in love with a young Vietnamese woman but is dismayed when a naïve U.S. official also begins vying for her attention. In retaliation, Fowler informs the communists that the American is selling arms to their enemy.",
+  "genres": [
+    "Romance",
+    "Thriller",
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Vietnamese"
+  ],
+  "production_companies": [
+    {
+      "name": "Mirage Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "IMF Internationale Medien und Film 2 & Produktions",
+      "country": "DE"
+    },
+    {
+      "name": "Giai Phong Film Studio",
+      "country": "VN"
+    },
+    {
+      "name": "Saga Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Senator International",
+      "country": "US"
+    },
+    {
+      "name": "Pacifica Film",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Phillip Noyce"
+  ],
+  "writers": [
+    {
+      "name": "Christopher Hampton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Graham Greene",
+      "job": "Novel"
+    },
+    {
+      "name": "Robert Schenkkan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Matthias Deyle",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sydney Pollack",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Horberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Staffan Ahrenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Anthony Minghella",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Caine",
+      "character": "Thomas Fowler",
+      "order": 0
+    },
+    {
+      "name": "Brendan Fraser",
+      "character": "Alden Pyle",
+      "order": 1
+    },
+    {
+      "name": "Đỗ Thị Hải Yến",
+      "character": "Phuong",
+      "order": 2
+    },
+    {
+      "name": "Tzi Ma",
+      "character": "Hinh",
+      "order": 3
+    },
+    {
+      "name": "Rade Šerbedžija",
+      "character": "Inspector Vigot",
+      "order": 4
+    },
+    {
+      "name": "Robert Stanton",
+      "character": "Joe Tunney",
+      "order": 5
+    },
+    {
+      "name": "Holmes Osborne",
+      "character": "Bill Granger",
+      "order": 6
+    },
+    {
+      "name": "Ngo Quang Hai",
+      "character": "General Thế",
+      "order": 7
+    },
+    {
+      "name": "Ferdinand Hoang",
+      "character": "Mr. Muoi",
+      "order": 8
+    },
+    {
+      "name": "Pham Thi Mai Hoa",
+      "character": "Phuong's Sister",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nLooNNrvzpf49G7HsB9siQT4036.jpg",
+  "backdrop_path": "/fay6quwuE1sqGJ7R9I2PH5SNmTn.jpg",
+  "budget": 30000000,
+  "revenue": 27674124,
+  "vote_average": 6.546,
+  "vote_count": 323,
+  "imdb_id": "tt0258068",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

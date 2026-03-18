@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 3 nominations total",
+  "rated": "PG-13",
+  "released": "17 Oct 2003",
+  "runtime": "127 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Gary Fleder",
+  "writer": "John Grisham, Brian Koppelman, David Levien",
+  "actors": "John Cusack, Rachel Weisz, Gene Hackman",
+  "plot": "Wendell Rohr is a torts lawyer taking on the gun lobby. Rankin Fitch is the jury consultant for the Defendants and between them the battle is for the hearts and minds of the jury. But there is someone on the inside. Nicholas Easter is a juror with a girlfriend, Marlee, on the outside. they have a past ..... and their own agenda.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "7.1",
+  "imdb_votes": "120,799",
+  "box_office": "$49,443,628",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=Runaway+Jury"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Runaway+Jury/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0313542/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0313542/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11329"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins & 9 nominations total",
+  "rated": "R",
+  "released": "25 Aug 2000",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Christian Duguay",
+  "writer": "Wayne Beach, Simon Barry",
+  "actors": "Wesley Snipes, Donald Sutherland, Maury Chaykin",
+  "plot": "Shaw is an operative for the United Nations' covert dirty-tricks squad, using espionage and quasi-ethical tactics to secure peace and cooperation. When a shipping container full of dead Vietnamese refugees turns up on the docks and China's ambassador is gunned down at a dinner celebrating a new trade agreement with China and the US, Shaw is framed for the murder and must evade the FBI and Triad gangsters to find out what is really going on.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "30",
+  "imdb_rating": "5.7",
+  "imdb_votes": "31,792",
+  "box_office": "$30,208,599",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "16%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Art+of+War"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/The+Art+of+War/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160009/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160009/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11398"
+  }
+}

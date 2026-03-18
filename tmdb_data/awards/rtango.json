@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "22 Oct 1999",
+  "runtime": "98 min",
+  "genre": "Comedy, Romance",
+  "director": "Damon Santostefano",
+  "writer": "Rodney Patrick Vaccaro, Aline Brosh McKenna",
+  "actors": "Neve Campbell, Matthew Perry, Dylan McDermott",
+  "plot": "A rich businessman, Dylan McDermott, mistakenly believes that Matthew Perry, who is bidding on a $90 million restoration contract, is gay and asks him to keep tabs on his mistress, Neve Campbell. Perry, who is not gay, falls for Neve in a big way but she thinks he's gay.",
+  "language": "English",
+  "country": "Australia, United States",
+  "metascore": "36",
+  "imdb_rating": "6.1",
+  "imdb_votes": "20,765",
+  "box_office": "$10,570,375",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=Three+to+Tango"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/Three+to+Tango/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0144640/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0144640/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10563"
+  }
+}

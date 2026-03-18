@@ -1,0 +1,35 @@
+{
+  "year": "2004",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "09 Apr 2004",
+  "runtime": "137 min",
+  "genre": "Drama, History, War",
+  "director": "John Lee Hancock",
+  "writer": "Leslie Bohem, Stephen Gaghan, John Lee Hancock",
+  "actors": "Dennis Quaid, Billy Bob Thornton, Emilio Echevarría",
+  "plot": "Historical drama detailing the 1835-36 Texas revolution before, during, and after the famous siege of the Alamo (February 23-March 6, 1836) where 183 Texans (American-born Texans) and Tejanos (Mexican-born Texans) commanded by Colonel Travis, along with Davey Crockett and Jim Bowie, were besieged in an abandoned mission outside San Antonio by a Mexican army of nearly 2,000 men under the personal command of the dictator of Mexico, General Santa Anna, as well as detailing the Battle of San Jacinto (April 21, 1836) where General Sam Houston's rag-tag army of Texans took on and defeated Santa Anna's army which led to the Independence of Texas.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "47",
+  "imdb_rating": "6.1",
+  "imdb_votes": "23,182",
+  "box_office": "$22,414,961",
+  "dvd": "28 Sep 2004",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/The+Alamo/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0318974/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0318974/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10733"
+  }
+}

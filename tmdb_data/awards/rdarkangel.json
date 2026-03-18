@@ -1,0 +1,30 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "19 May 2000",
+  "runtime": "87 min",
+  "genre": "Sci-Fi, Action",
+  "director": "John Lafia",
+  "writer": "Bennett Cohen, Ronnie Christensen",
+  "actors": "Bobbie Phillips, Teal Redmann, Alex Kuzelicki",
+  "plot": "In the final film of the trilogy, Kam, a genetically engineered agent, attempts to thwart the plans of her evil twin brother.",
+  "language": "English",
+  "country": "United States, Australia",
+  "metascore": "N/A",
+  "imdb_rating": "4.9",
+  "imdb_votes": "398",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.9/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0238116/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0238116/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/103509"
+  }
+}

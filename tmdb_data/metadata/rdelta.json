@@ -1,0 +1,121 @@
+{
+  "tmdb_id": 125582,
+  "title": "Down in the Delta",
+  "original_title": "Down in the Delta",
+  "release_date": "1998-12-25",
+  "runtime": 112,
+  "tagline": "Sometimes, the last place you expected to be is the one place you've always belonged...",
+  "overview": "A single mother plagued by alcohol and drug addictions is sent with her children from Chicago to her ancestral home in the Mississippi Delta, to live with her uncle and aunt for the summer.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Amen Ra Films",
+      "country": "US"
+    },
+    {
+      "name": "Chris/Rose Productions",
+      "country": "US"
+    },
+    {
+      "name": "Showtime Networks",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Maya Angelou"
+  ],
+  "writers": [
+    {
+      "name": "Myron Goble",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wesley Snipes",
+      "job": "Producer"
+    },
+    {
+      "name": "Reuben Cannon",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Victor McGauley",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert W. Christiansen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alfre Woodard",
+      "character": "Loretta Sinclair",
+      "order": 0
+    },
+    {
+      "name": "Al Freeman Jr.",
+      "character": "Earl Sinclair",
+      "order": 1
+    },
+    {
+      "name": "Esther Rolle",
+      "character": "Annie Sinclair",
+      "order": 2
+    },
+    {
+      "name": "Mary Alice",
+      "character": "Rosa Lynn Sinclair",
+      "order": 3
+    },
+    {
+      "name": "Loretta Devine",
+      "character": "Zenia",
+      "order": 4
+    },
+    {
+      "name": "Wesley Snipes",
+      "character": "Will Sinclair",
+      "order": 5
+    },
+    {
+      "name": "Mpho Koaho",
+      "character": "Thomas",
+      "order": 6
+    },
+    {
+      "name": "Anne-Marie Johnson",
+      "character": "Monica",
+      "order": 7
+    },
+    {
+      "name": "Justin Lord",
+      "character": "Dr. Rainey",
+      "order": 8
+    },
+    {
+      "name": "Richard Yearwood",
+      "character": "Marco",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2ygShFSdj1hug8xj2q28OMktAU4.jpg",
+  "backdrop_path": "/4hS2FAz65RKwNYmzyAq4uc994CG.jpg",
+  "budget": 0,
+  "revenue": 5672903,
+  "vote_average": 6.241,
+  "vote_count": 27,
+  "imdb_id": "tt0142231",
+  "certifications": [],
+  "status": "Released"
+}

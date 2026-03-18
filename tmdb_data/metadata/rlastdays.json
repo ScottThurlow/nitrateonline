@@ -1,0 +1,177 @@
+{
+  "tmdb_id": 4966,
+  "title": "The Last Days",
+  "original_title": "Pan Tadeusz",
+  "release_date": "1999-10-22",
+  "runtime": 147,
+  "tagline": "",
+  "overview": "Romance brings two warring families together in this historical drama. As citizens fight for independence in 1810s Lithuania, Tadeusz, the son of a murderer, and Zosia, a young woman, come together for a wedding against a backdrop of changing politics, ancient traditions, and the uncertain future of a country.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "History"
+  ],
+  "spoken_languages": [
+    "French",
+    "Polish"
+  ],
+  "production_companies": [
+    {
+      "name": "Canal+",
+      "country": "FR"
+    },
+    {
+      "name": "CANAL+ Polska",
+      "country": "PL"
+    },
+    {
+      "name": "Vision Film",
+      "country": "PL"
+    },
+    {
+      "name": "Komitet Kinematografii",
+      "country": "PL"
+    },
+    {
+      "name": "Apollo Film",
+      "country": "PL"
+    },
+    {
+      "name": "Film Art",
+      "country": "PL"
+    },
+    {
+      "name": "Max Film",
+      "country": "PL"
+    },
+    {
+      "name": "Neptun-Film",
+      "country": "PL"
+    },
+    {
+      "name": "Odra-Film",
+      "country": "PL"
+    },
+    {
+      "name": "Silesia Film",
+      "country": "PL"
+    },
+    {
+      "name": "Wizja TV",
+      "country": "PL"
+    },
+    {
+      "name": "Telewizja Polska",
+      "country": "PL"
+    },
+    {
+      "name": "Agencja Produkcji Filmowej",
+      "country": "PL"
+    },
+    {
+      "name": "Les Films du Losange",
+      "country": "FR"
+    },
+    {
+      "name": "Heritage Films",
+      "country": "PL"
+    }
+  ],
+  "director": [
+    "Andrzej Wajda"
+  ],
+  "writers": [
+    {
+      "name": "Adam Mickiewicz",
+      "job": "Novel"
+    },
+    {
+      "name": "Piotr Wereśniak",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jan Nowina-Zarzycki",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andrzej Wajda",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lew Rywin",
+      "job": "Producer"
+    },
+    {
+      "name": "Paweł Poppe",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bogusław Linda",
+      "character": "Jacek Soplica",
+      "order": 0
+    },
+    {
+      "name": "Daniel Olbrychski",
+      "character": "Gerwazy Rębajło",
+      "order": 1
+    },
+    {
+      "name": "Grażyna Szapołowska",
+      "character": "Telimena",
+      "order": 2
+    },
+    {
+      "name": "Andrzej Seweryn",
+      "character": "Judge Soplica",
+      "order": 3
+    },
+    {
+      "name": "Marek Kondrat",
+      "character": "Count Horeszko",
+      "order": 4
+    },
+    {
+      "name": "Krzysztof Kolberger",
+      "character": "Adam Mickiewicz",
+      "order": 5
+    },
+    {
+      "name": "Sergey Shakurov",
+      "character": "Nikita Rykow",
+      "order": 6
+    },
+    {
+      "name": "Jerzy Bińczycki",
+      "character": "Maciej Królik-Rózeczka",
+      "order": 7
+    },
+    {
+      "name": "Alicja Bachleda-Curuś",
+      "character": "Zosia",
+      "order": 8
+    },
+    {
+      "name": "Michał Żebrowski",
+      "character": "Tadeusz Soplica",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zUhFR2DQLpt8YWMvEMVTa55bIEL.jpg",
+  "backdrop_path": "/df5iAHuH2brY9zXMeeRuL2AAE6O.jpg",
+  "budget": 3330000,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 59,
+  "imdb_id": "tt0170351",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    }
+  ],
+  "status": "Released"
+}

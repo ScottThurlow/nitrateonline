@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 2 Oscars. 7 wins & 11 nominations total",
+  "rated": "R",
+  "released": "06 Jun 1997",
+  "runtime": "115 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Simon West",
+  "writer": "Scott Rosenberg",
+  "actors": "Nicolas Cage, John Cusack, John Malkovich",
+  "plot": "Cameron Poe, a highly decorated Army Ranger, comes home to Alabama to his wife Tricia, only to run into a few drunken regulars at the bar where she works. Cameron accidentally kills one of the drunks, and is sent to a federal penitentiary for involuntary manslaughter for seven years. He becomes eligible for parole and can now go home to his wife and daughter. Unfortunately, Cameron has to share a prison airplane with some of the country's most dangerous criminals, who take control of the plane and are now planning to escape the country. Cameron has to find a way to stop them while playing along. Meanwhile, United States Marshal Vince Larkin is trying to help Cameron get free and stop the criminals, led by Cyrus \"The Virus\" Grissom.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "6.9",
+  "imdb_votes": "334,216",
+  "box_office": "$101,117,573",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=Con+Air"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Con+Air/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118880/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118880/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1701"
+  }
+}

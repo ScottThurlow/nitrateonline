@@ -1,0 +1,72 @@
+{
+  "tmdb_id": 245260,
+  "title": "Six Days in Roswell",
+  "original_title": "Six Days in Roswell",
+  "release_date": "1998-01-02",
+  "runtime": 82,
+  "tagline": "",
+  "overview": "This award-winning documentary probes UFO fanatics, government cover-ups, and top alien experts Stanton T. Friedman, Robert O. Dean, Budd Hopkins, Peter Gersten, Don Schmidt, Whitley Strieber, Rich Kronfeld, and hundreds of alien enthusiasts, abductees, and the denizens of Roswell's odd, hilarious Americana.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Timothy Johnson"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Richard Kronfeld",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Stanton Friedman",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Robert Dean",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Budd Hopkins",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Peter Gersten",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Whitley Strieber",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Donald R. Schmitt",
+      "character": "Self",
+      "order": 6
+    }
+  ],
+  "poster_path": "/2ml4lrdJoDyZbwreBAEVmKXGZKi.jpg",
+  "backdrop_path": "/9qq4ECiMmbynlb6BSANErxpBEPa.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 2,
+  "imdb_id": "tt0177227",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

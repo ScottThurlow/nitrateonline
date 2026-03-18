@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 wins & 6 nominations",
+  "rated": "Not Rated",
+  "released": "01 Feb 2002",
+  "runtime": "81 min",
+  "genre": "Drama",
+  "director": "Mohsen Makhmalbaf",
+  "writer": "Mohsen Makhmalbaf",
+  "actors": "Nelofer Pazira, Hassan Tantai, Ike Ogut",
+  "plot": "Nafas is a reporter who was born in Afghanistan, but fled with her family to Canada when she was a child. However, her sister wasn't so lucky; she lost her legs to a land mine while young, and when Nafas and her family left the country, her sister was accidentally left behind. Nafas receives a letter from her sister announcing that she's decided to commit suicide during the final eclipse before the dawn of the 21st century; desperate to spare her sister's life, Nafas makes haste to Afghanistan, where she joins a caravan of refugees who, for a variety of reasons, are returning to the war-torn nation. As Nafas searches for her sister, she soon gets a clear and disturbing portrait of the toll the Taliban regime has taken upon its people.",
+  "language": "Persian, English, Pashtu, Polish",
+  "country": "Iran, France",
+  "metascore": "76",
+  "imdb_rating": "6.8",
+  "imdb_votes": "7,123",
+  "box_office": "$1,418,314",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=Kandahar"
+    },
+    {
+      "source": "Metacritic",
+      "value": "76/100",
+      "link": "https://www.metacritic.com/search/Kandahar/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0283431/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0283431/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/28171"
+  }
+}

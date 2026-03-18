@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 nominations total",
+  "rated": "PG-13",
+  "released": "21 Nov 2001",
+  "runtime": "95 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Gil Junger",
+  "writer": "Darryl Quarles, Peter Gaulke, Gerry Swallow",
+  "actors": "Martin Lawrence, Marsha Thomason, Tom Wilkinson",
+  "plot": "This is the story an amusement park employee named Jamal Walker who is magically transported back to medieval times in 14th-century England. There, Jamal meets Sir Knolte, a dissolute knight, before he stumbles into the court of the usurper King Leo. Jamal is impressed by what he thinks is the realism of the theme park; only after witnessing a gory beheading does he realize, with horror, where he really is. Jamal encounters the beautiful Victoria who is scheming to return the queen to the throne, and falls afoul of the evil Sir Percival. Joining forces with Sir Knolte and Victoria, Jamal teaches the rebels some helpful football, golfing, and boxing moves, before he dons the armor of the awesome \"Black Knight\"!",
+  "language": "English",
+  "country": "United States",
+  "metascore": "32",
+  "imdb_rating": "4.9",
+  "imdb_votes": "45,049",
+  "box_office": "$33,426,971",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=Black+Knight"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Black+Knight/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0265087/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0265087/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11469"
+  }
+}

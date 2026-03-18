@@ -1,0 +1,228 @@
+{
+  "tmdb_id": 14442,
+  "title": "Ella Enchanted",
+  "original_title": "Ella Enchanted",
+  "release_date": "2004-04-09",
+  "runtime": 96,
+  "tagline": "Get enchanted",
+  "overview": "Ella lives in a magical world in which each child, at the moment of their birth, is given a virtuous \"gift\" from a fairy godmother. Ella's so-called gift, however, is obedience. This birthright proves itself to be quite the curse once Ella finds herself in the hands of several unscrupulous characters whom she quite literally cannot disobey. Determined to gain control of her life and decisions, Ella sets off on a journey to find her fairy godmother who she hopes will lift the curse. The path, however, isn't easy -- Ella must outwit a slew of unpleasant obstacles including ogres, giants, wicked stepsisters, elves and Prince Charmont's evil uncle, who wants to take over the crown and rule the kingdom.",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "World 2000 Entertainment",
+      "country": "IE"
+    },
+    {
+      "name": "Enchanted Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Tommy O'Haver"
+  ],
+  "writers": [
+    {
+      "name": "Karen McCullah",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Laurie Craig",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kirsten Smith",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jennifer Heath",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michele J. Wolff",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen Daly",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Martin Asbury",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Gail Carson Levine",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Parfitt",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julie Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Su Armstrong",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jane Startz",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anne Hathaway",
+      "character": "Ella",
+      "order": 0
+    },
+    {
+      "name": "Hugh Dancy",
+      "character": "Char",
+      "order": 1
+    },
+    {
+      "name": "Cary Elwes",
+      "character": "Edgar",
+      "order": 2
+    },
+    {
+      "name": "Aidan McArdle",
+      "character": "Slannen",
+      "order": 3
+    },
+    {
+      "name": "Joanna Lumley",
+      "character": "Dame Olga",
+      "order": 4
+    },
+    {
+      "name": "Lucy Punch",
+      "character": "Hattie",
+      "order": 5
+    },
+    {
+      "name": "Jennifer Higham",
+      "character": "Olive",
+      "order": 6
+    },
+    {
+      "name": "Minnie Driver",
+      "character": "Mandy",
+      "order": 7
+    },
+    {
+      "name": "Eric Idle",
+      "character": "Narrator",
+      "order": 8
+    },
+    {
+      "name": "Steve Coogan",
+      "character": "Heston (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7AyNzwSEpJEG1gBdgwRfXi1cjs8.jpg",
+  "backdrop_path": "/r4Q7GKzTiAzr1MGU1b13s9L12YZ.jpg",
+  "budget": 31000000,
+  "revenue": 27400000,
+  "vote_average": 6.477,
+  "vote_count": 1949,
+  "imdb_id": "tt0327679",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "6"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "LT",
+      "rating": "N-7"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

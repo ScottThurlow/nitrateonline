@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 wins & 34 nominations total",
+  "rated": "PG-13",
+  "released": "02 Aug 2002",
+  "runtime": "106 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "M. Night Shyamalan",
+  "writer": "M. Night Shyamalan",
+  "actors": "Mel Gibson, Joaquin Phoenix, Rory Culkin",
+  "plot": "Preacher Graham Hess loses his faith in God after his wife dies in a brutal car accident. He lives with his children and brother in a farmhouse. Crop circles start to appear in their cornfields; Graham dismisses them as mischief by miscreants. After hearing strange noises and watching news coverage on crop circles appearing all over the world, the family grows suspicious of alien activities. Now they must stick together as a family and believe, to survive and escape the ordeal.",
+  "language": "English, Portuguese",
+  "country": "United States",
+  "metascore": "59",
+  "imdb_rating": "6.8",
+  "imdb_votes": "409,811",
+  "box_office": "$227,966,634",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=Signs"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Signs/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0286106/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0286106/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2675"
+  }
+}

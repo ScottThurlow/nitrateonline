@@ -1,0 +1,202 @@
+{
+  "tmdb_id": 1624,
+  "title": "Liar Liar",
+  "original_title": "Liar Liar",
+  "release_date": "1997-03-21",
+  "runtime": 86,
+  "tagline": "Trust me.",
+  "overview": "Forced by his son's birthday wish, fast-talking attorney and habitual liar Fletcher Reede must tell the truth for the next 24 hours.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tom Shadyac"
+  ],
+  "writers": [
+    {
+      "name": "Paul Guay",
+      "job": "Writer"
+    },
+    {
+      "name": "Stephen Mazur",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Bostick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James D. Brubaker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "character": "Fletcher Reede",
+      "order": 0
+    },
+    {
+      "name": "Maura Tierney",
+      "character": "Audrey Reede",
+      "order": 1
+    },
+    {
+      "name": "Justin Cooper",
+      "character": "Max Reede",
+      "order": 2
+    },
+    {
+      "name": "Cary Elwes",
+      "character": "Jerry",
+      "order": 3
+    },
+    {
+      "name": "Anne Haney",
+      "character": "Greta",
+      "order": 4
+    },
+    {
+      "name": "Amanda Donohoe",
+      "character": "Miranda",
+      "order": 5
+    },
+    {
+      "name": "Swoosie Kurtz",
+      "character": "Dana Appleton",
+      "order": 6
+    },
+    {
+      "name": "Jason Bernard",
+      "character": "Judge Marshall Stevens",
+      "order": 7
+    },
+    {
+      "name": "Krista Allen",
+      "character": "Lady in Elevator",
+      "order": 8
+    },
+    {
+      "name": "Jennifer Tilly",
+      "character": "Samantha Cole",
+      "order": 9
+    }
+  ],
+  "poster_path": "/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+  "backdrop_path": "/nuDMG0uTaiWFVD6XfHPruum5JOL.jpg",
+  "budget": 45000000,
+  "revenue": 302710615,
+  "vote_average": 6.705,
+  "vote_count": 6139,
+  "imdb_id": "tt0119528",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

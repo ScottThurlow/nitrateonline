@@ -1,0 +1,224 @@
+{
+  "tmdb_id": 9804,
+  "title": "Waterworld",
+  "original_title": "Waterworld",
+  "release_date": "1995-07-28",
+  "runtime": 135,
+  "tagline": "Beyond the horizon lies the secret to a new beginning.",
+  "overview": "In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland'—which is tattooed on Enola's back.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Gordon Company",
+      "country": "US"
+    },
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Licht/Mueller Film Corporation",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Kevin Reynolds"
+  ],
+  "writers": [
+    {
+      "name": "Peter Rader",
+      "job": "Writer"
+    },
+    {
+      "name": "David Twohy",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Kevin Costner",
+      "job": "Producer"
+    },
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Ilona Herzberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeffrey A. Mueller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Licht",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Costner",
+      "character": "Mariner",
+      "order": 0
+    },
+    {
+      "name": "Dennis Hopper",
+      "character": "Deacon",
+      "order": 1
+    },
+    {
+      "name": "Jeanne Tripplehorn",
+      "character": "Helen",
+      "order": 2
+    },
+    {
+      "name": "Tina Majorino",
+      "character": "Enola",
+      "order": 3
+    },
+    {
+      "name": "R. D. Call",
+      "character": "Enforcer",
+      "order": 4
+    },
+    {
+      "name": "Gerard Murphy",
+      "character": "Nord",
+      "order": 5
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Old Gregor",
+      "order": 6
+    },
+    {
+      "name": "Rick Aviles",
+      "character": "Gatesman",
+      "order": 7
+    },
+    {
+      "name": "Kim Coates",
+      "character": "Drifter",
+      "order": 8
+    },
+    {
+      "name": "Chaim Jeraffi",
+      "character": "Drifter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+  "backdrop_path": "/yaIu82UiD9QZEkKCGrAd8VAmc0V.jpg",
+  "budget": 175000000,
+  "revenue": 264218220,
+  "vote_average": 6.218,
+  "vote_count": 3994,
+  "imdb_id": "tt0114898",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

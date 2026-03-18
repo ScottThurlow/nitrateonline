@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 2 Oscars. 9 wins & 18 nominations total",
+  "rated": "PG-13",
+  "released": "17 Jul 1998",
+  "runtime": "136 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Martin Campbell",
+  "writer": "Johnston McCulley, Ted Elliott, Terry Rossio",
+  "actors": "Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones",
+  "plot": "In 1821 Old California, mysterious black-caped masked avenger of the oppressed, Don Diego de la Vega--Zorro--lands in jail after once again humiliating the evil Spanish governor Don Rafael Montero. With his only daughter raised by Don Rafael as his own, the grizzled swordsman makes a daring escape nearly two decades later, and takes under his wing the unrefined outlaw Alejandro Murietta to teach him the ropes and hopefully become the next Zorro. Now, the stage is set for a ferocious final confrontation, as the new young rapier-wielder prepares to thwart the despicable governor's sinister plans. Can Alejandro live up to legendary Zorro's name?",
+  "language": "English",
+  "country": "United States, Mexico, Germany",
+  "metascore": "62",
+  "imdb_rating": "6.8",
+  "imdb_votes": "209,066",
+  "box_office": "$94,095,523",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Mask+of+Zorro"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/The+Mask+of+Zorro/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120746/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120746/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9342"
+  }
+}

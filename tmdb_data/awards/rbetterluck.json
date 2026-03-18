@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 2 nominations total",
+  "rated": "R",
+  "released": "25 Apr 2003",
+  "runtime": "101 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Justin Lin",
+  "writer": "Ernesto Foronda, Justin Lin, Fabian Marquez",
+  "actors": "Parry Shen, Jason Tobin, Sung Kang",
+  "plot": "Ben is a perfectionist and overachiever whose tunnel vision leads to nothing less than graduating at the top of his class. As he struggles to achieve social success, he discovers his darker side. He and his friends: Virgil, Daric and Han lead a double life of mischief and petty crimes to alleviate the pressures of perfection. As their adopted identity grows, the gang tumbles into a downward spiral of excitement, excess and fun.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "7.0",
+  "imdb_votes": "10,735",
+  "box_office": "$3,802,390",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Better+Luck+Tomorrow"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Better+Luck+Tomorrow/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0280477/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0280477/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14290"
+  }
+}

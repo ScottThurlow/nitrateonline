@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 29946,
+  "title": "The Golden Bowl",
+  "original_title": "The Golden Bowl",
+  "release_date": "2000-05-14",
+  "runtime": 130,
+  "tagline": "From the novel by Henry James",
+  "overview": "Wealthy American widower Adam Verver and his daughter Maggie live a refined life in Europe, surrounded by art. Maggie marries impoverished Italian Prince Amerigo, while Adam marries Maggie's friend Charlotte Stant. The Prince and Charlotte are having an affair, which Maggie discovers and navigates through a silent, psychological battle of wills, ultimately using her cunning to preserve her marriage and protect her father.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Merchant Ivory Productions",
+      "country": "US"
+    },
+    {
+      "name": "TF1 International",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "James Ivory"
+  ],
+  "writers": [
+    {
+      "name": "Henry James",
+      "job": "Novel"
+    },
+    {
+      "name": "Ruth Prawer Jhabvala",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ismail Merchant",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Hawley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Bradley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Beckinsale",
+      "character": "Maggie Verver",
+      "order": 0
+    },
+    {
+      "name": "Uma Thurman",
+      "character": "Charlotte Stant",
+      "order": 1
+    },
+    {
+      "name": "Jeremy Northam",
+      "character": "Prince Amerigo",
+      "order": 2
+    },
+    {
+      "name": "Nick Nolte",
+      "character": "Adam Verver",
+      "order": 3
+    },
+    {
+      "name": "Anjelica Huston",
+      "character": "Fanny Assingham",
+      "order": 4
+    },
+    {
+      "name": "James Fox",
+      "character": "Colonel Bob Assingham",
+      "order": 5
+    },
+    {
+      "name": "Madeleine Potter",
+      "character": "Lady Castledean",
+      "order": 6
+    },
+    {
+      "name": "Nicholas Day",
+      "character": "Lord Castledean",
+      "order": 7
+    },
+    {
+      "name": "Peter Eyre",
+      "character": "A.R. Jarvis, Shopkeeper",
+      "order": 8
+    },
+    {
+      "name": "Nickolas Grace",
+      "character": "Lecturer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xgUcUWu7lirlZbMPz21qo8RhK57.jpg",
+  "backdrop_path": "/1kLyl3IyjBOO74g4YRUC63Hx5qE.jpg",
+  "budget": 15000000,
+  "revenue": 5753678,
+  "vote_average": 5.9,
+  "vote_count": 66,
+  "imdb_id": "tt0200669",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

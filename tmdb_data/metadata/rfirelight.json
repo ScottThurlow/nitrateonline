@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 38621,
+  "title": "Firelight",
+  "original_title": "Firelight",
+  "release_date": "1998-05-27",
+  "runtime": 103,
+  "tagline": "Passion has no limits.",
+  "overview": "In 1838, lovely governess Elisabeth agrees to bear a child of anonymous English landowner, and he will in return pay her father's debt. At birth she, as agreed, gives up the child. Seven years later she is hired as governess to a girl on a remote Sussex estate. The father of the girl, Charles Godwin, turns out to be that anonymous landowner. So Elisabeth has to be her own daughter's governess, and she can't reveal the secret of her tie with little Louisa.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Wind Dancer Productions",
+      "country": ""
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Carnival Films",
+      "country": "GB"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "William Nicholson"
+  ],
+  "writers": [
+    {
+      "name": "William Nicholson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David McFadzean",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rick Leed",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Eastman",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Morley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Matt Williams",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Carmen Finestra",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sophie Marceau",
+      "character": "Elisabeth Laurier",
+      "order": 0
+    },
+    {
+      "name": "Stephen Dillane",
+      "character": "Charles Godwin",
+      "order": 1
+    },
+    {
+      "name": "Dominique Belcourt",
+      "character": "Louisa Godwin",
+      "order": 2
+    },
+    {
+      "name": "Kevin Anderson",
+      "character": "John Taylor",
+      "order": 3
+    },
+    {
+      "name": "Joss Ackland",
+      "character": "Lord Clare",
+      "order": 4
+    },
+    {
+      "name": "Lia Williams",
+      "character": "Constance",
+      "order": 5
+    },
+    {
+      "name": "Sally Dexter",
+      "character": "Molly Holland",
+      "order": 6
+    },
+    {
+      "name": "Emma Amos",
+      "character": "Ellen",
+      "order": 7
+    },
+    {
+      "name": "Maggie McCarthy",
+      "character": "Mrs. Jago",
+      "order": 8
+    },
+    {
+      "name": "Wolf Kahler",
+      "character": "Sussman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hkgSUgPdOehzyGjczoytG3bzNaW.jpg",
+  "backdrop_path": "/tQuem05XAAX4bGNvpn7xGYIN6bq.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.7,
+  "vote_count": 72,
+  "imdb_id": "tt0119125",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 30949,
+  "title": "Palmetto",
+  "original_title": "Palmetto",
+  "release_date": "1998-02-20",
+  "runtime": 114,
+  "tagline": "In a town this bad, it's no use being good.",
+  "overview": "After being released from prison on a bum charge, Harry Barber is out for payback to regain his lost two years. He's hired by Mrs. Malroux to fake the kidnapping of her stepdaughter (the daughter of a dying millionaire). He discovers that he is being set up on multiple levels and will soon face a longer sentence if he doesn't prove the truth.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Rialto Films",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Volker Schlöndorff"
+  ],
+  "writers": [
+    {
+      "name": "E. Max Frye",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Hadley Chase",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Matthias Wendlandt",
+      "job": "Producer"
+    },
+    {
+      "name": "Bart Rosenblatt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eugene Musso",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Al Corley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Woody Harrelson",
+      "character": "Harry Barber",
+      "order": 0
+    },
+    {
+      "name": "Gina Gershon",
+      "character": "Nina",
+      "order": 1
+    },
+    {
+      "name": "Elisabeth Shue",
+      "character": "Rhea Malroux",
+      "order": 2
+    },
+    {
+      "name": "Rolf Hoppe",
+      "character": "Felix Malroux",
+      "order": 3
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "Donnelly",
+      "order": 4
+    },
+    {
+      "name": "Chloë Sevigny",
+      "character": "Odette",
+      "order": 5
+    },
+    {
+      "name": "Tom Wright",
+      "character": "John Renick",
+      "order": 6
+    },
+    {
+      "name": "Marc Macaulay",
+      "character": "Miles Meadows",
+      "order": 7
+    },
+    {
+      "name": "Joe Hickey",
+      "character": "Lawyer",
+      "order": 8
+    },
+    {
+      "name": "Ralph Wilcox",
+      "character": "Judge",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3R8At5ll1ZyCJT7FWbLmCjVqFlp.jpg",
+  "backdrop_path": "/gSsiZrjjgN1MDVpeBUjDzFlZzPu.jpg",
+  "budget": 0,
+  "revenue": 5878911,
+  "vote_average": 5.9,
+  "vote_count": 131,
+  "imdb_id": "tt0120782",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

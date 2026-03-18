@@ -1,0 +1,253 @@
+{
+  "tmdb_id": 63,
+  "title": "Twelve Monkeys",
+  "original_title": "Twelve Monkeys",
+  "release_date": "1995-12-29",
+  "runtime": 129,
+  "tagline": "The future is history.",
+  "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+  "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Atlas Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Classico",
+      "country": ""
+    },
+    {
+      "name": "Twelve Monkeys Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Terry Gilliam"
+  ],
+  "writers": [
+    {
+      "name": "Janet Peoples",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Webb Peoples",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chris Marker",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Cavallo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Kosberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charles Roven",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Levinsohn",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruce Willis",
+      "character": "James Cole",
+      "order": 0
+    },
+    {
+      "name": "Madeleine Stowe",
+      "character": "Dr. Kathryn Railly",
+      "order": 1
+    },
+    {
+      "name": "Brad Pitt",
+      "character": "Jeffrey Goines",
+      "order": 2
+    },
+    {
+      "name": "Christopher Plummer",
+      "character": "Dr. Goines",
+      "order": 3
+    },
+    {
+      "name": "David Morse",
+      "character": "Dr. Peters",
+      "order": 4
+    },
+    {
+      "name": "Jon Seda",
+      "character": "Jose",
+      "order": 5
+    },
+    {
+      "name": "Christopher Meloni",
+      "character": "Lt. Halperin",
+      "order": 6
+    },
+    {
+      "name": "Joey Perillo",
+      "character": "Detective Franki",
+      "order": 7
+    },
+    {
+      "name": "LisaGay Hamilton",
+      "character": "Teddy",
+      "order": 8
+    },
+    {
+      "name": "Matt Ross",
+      "character": "Bee",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+  "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+  "budget": 29000000,
+  "revenue": 168841459,
+  "vote_average": 7.603,
+  "vote_count": 8984,
+  "imdb_id": "tt0114746",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "13+"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IS",
+      "rating": "14"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "NC-16"
+    },
+    {
+      "country": "TH",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

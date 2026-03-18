@@ -1,0 +1,137 @@
+{
+  "tmdb_id": 22267,
+  "title": "Ride with the Devil",
+  "original_title": "Ride with the Devil",
+  "release_date": "1999-11-24",
+  "runtime": 138,
+  "tagline": "In a No-man's Land between North and South, You didn't fight for the Blue or the Grey... You fought for your friends and family.",
+  "overview": "Ride with the Devil follows four people who are fighting for truth and justice amidst the turmoil of the American Civil War. Director Ang Lee takes us to a no man's land on the Missouri/Kansas border where a staunch loyalist, an immigrant's son, a freed slave, and a young widow form an unlikely friendship as they learn how to survive in an uncertain time. In a place without rules and redefine the meaning of bravery and honor.",
+  "genres": [
+    "Drama",
+    "War",
+    "Romance",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Good Machine",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ang Lee"
+  ],
+  "writers": [
+    {
+      "name": "James Schamus",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Daniel Woodrell",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James Schamus",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Hope",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert F. Colesberry",
+      "job": "Producer"
+    },
+    {
+      "name": "David Linde",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Skeet Ulrich",
+      "character": "Jack Bull Chiles",
+      "order": 0
+    },
+    {
+      "name": "Tobey Maguire",
+      "character": "Jake Roedel",
+      "order": 1
+    },
+    {
+      "name": "Jewel",
+      "character": "Sue Lee Shelley",
+      "order": 2
+    },
+    {
+      "name": "Jeffrey Wright",
+      "character": "Daniel Holt",
+      "order": 3
+    },
+    {
+      "name": "Simon Baker",
+      "character": "George Clyde",
+      "order": 4
+    },
+    {
+      "name": "Jonathan Rhys Meyers",
+      "character": "Pitt Mackeson",
+      "order": 5
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Orton Brown",
+      "order": 6
+    },
+    {
+      "name": "Jim Caviezel",
+      "character": "Black John",
+      "order": 7
+    },
+    {
+      "name": "Tom Guiry",
+      "character": "Riley Crawford",
+      "order": 8
+    },
+    {
+      "name": "Jonathan Brandis",
+      "character": "Cave Wyatt",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pH3J5IUzho4ZVaRuTuErzqHHovb.jpg",
+  "backdrop_path": "/yBkZyxzIl46PVgFEDsTCtoGd5F4.jpg",
+  "budget": 35000000,
+  "revenue": 635096,
+  "vote_average": 6.335,
+  "vote_count": 203,
+  "imdb_id": "tt0134154",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,280 @@
+{
+  "tmdb_id": 1995,
+  "title": "Lara Croft: Tomb Raider",
+  "original_title": "Lara Croft: Tomb Raider",
+  "release_date": "2001-06-15",
+  "runtime": 100,
+  "tagline": "Born into Wealth. Groomed by the Elite. Trained for Combat.",
+  "overview": "Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artifact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Lawrence Gordon Productions",
+      "country": "US"
+    },
+    {
+      "name": "Eidos Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Simon West"
+  ],
+  "writers": [
+    {
+      "name": "Patrick Massett",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Zinman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Werb",
+      "job": "Story"
+    },
+    {
+      "name": "Sara B. Cooper",
+      "job": "Story"
+    },
+    {
+      "name": "Michael Colleary",
+      "job": "Story"
+    },
+    {
+      "name": "Simon West",
+      "job": "Adaptation"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Colin Wilson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeremy Heath Smith",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lawrence Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Lloyd Levin",
+      "job": "Producer"
+    },
+    {
+      "name": "Stuart Baird",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Angelina Jolie",
+      "character": "Lara Croft",
+      "order": 0
+    },
+    {
+      "name": "Iain Glen",
+      "character": "Manfred Powell",
+      "order": 1
+    },
+    {
+      "name": "Daniel Craig",
+      "character": "Alex West",
+      "order": 2
+    },
+    {
+      "name": "Noah Taylor",
+      "character": "Bryce",
+      "order": 3
+    },
+    {
+      "name": "Chris Barrie",
+      "character": "Hillary",
+      "order": 4
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Lord Richard Croft",
+      "order": 5
+    },
+    {
+      "name": "Julian Rhind-Tutt",
+      "character": "Mr. Pimms",
+      "order": 6
+    },
+    {
+      "name": "Leslie Phillips",
+      "character": "Wilson",
+      "order": 7
+    },
+    {
+      "name": "Richard Johnson",
+      "character": "Distinguished Gentleman",
+      "order": 8
+    },
+    {
+      "name": "Robert Phillips",
+      "character": "Assault Team Leader (Julius)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ye5h6fhfz8TkKV4QeuTucvFzxB9.jpg",
+  "backdrop_path": "/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+  "budget": 115000000,
+  "revenue": 274703340,
+  "vote_average": 5.91,
+  "vote_count": 6432,
+  "imdb_id": "tt0146316",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-11"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "ID",
+      "rating": "13+"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "TH",
+      "rating": "13"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    },
+    {
+      "country": "ZA",
+      "rating": "10-12PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,239 @@
+{
+  "tmdb_id": 393,
+  "title": "Kill Bill: Vol. 2",
+  "original_title": "Kill Bill: Vol. 2",
+  "release_date": "2004-04-16",
+  "runtime": 136,
+  "tagline": "The bride is back for the final cut.",
+  "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin",
+    "Spanish",
+    "Cantonese"
+  ],
+  "production_companies": [
+    {
+      "name": "Super Cool ManChu",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "A Band Apart",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Quentin Tarantino"
+  ],
+  "writers": [
+    {
+      "name": "Quentin Tarantino",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Uma Thurman",
+      "job": "Characters"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Bender",
+      "job": "Producer"
+    },
+    {
+      "name": "Erica Steinberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "E. Bennett Walsh",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Uma Thurman",
+      "character": "Beatrix Kiddo / The Bride / 'Black Mamba' / Mommy",
+      "order": 0
+    },
+    {
+      "name": "David Carradine",
+      "character": "Bill 'Snake Charmer'",
+      "order": 1
+    },
+    {
+      "name": "Daryl Hannah",
+      "character": "Elle Driver 'California Mountain Snake'",
+      "order": 2
+    },
+    {
+      "name": "Michael Madsen",
+      "character": "Budd 'Sidewinder'",
+      "order": 3
+    },
+    {
+      "name": "Gordon Liu Chia-Hui",
+      "character": "Johnny Mo / Pai Mei",
+      "order": 4
+    },
+    {
+      "name": "Michael Parks",
+      "character": "Earl McGraw / Esteban Vihaio",
+      "order": 5
+    },
+    {
+      "name": "Perla Haney-Jardine",
+      "character": "B.B.",
+      "order": 6
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Vernita Green 'Copperhead'",
+      "order": 7
+    },
+    {
+      "name": "Ambrosia Kelley",
+      "character": "Nikki",
+      "order": 8
+    },
+    {
+      "name": "James Parks",
+      "character": "Edgar McGraw",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+  "backdrop_path": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+  "budget": 30000000,
+  "revenue": 152159461,
+  "vote_average": 7.876,
+  "vote_count": 14873,
+  "imdb_id": "tt0378194",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BG",
+      "rating": "D"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

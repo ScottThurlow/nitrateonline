@@ -1,0 +1,221 @@
+{
+  "tmdb_id": 869,
+  "title": "Planet of the Apes",
+  "original_title": "Planet of the Apes",
+  "release_date": "2001-07-26",
+  "runtime": 120,
+  "tagline": "",
+  "overview": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "The Zanuck Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tim Burton"
+  ],
+  "writers": [
+    {
+      "name": "Lawrence Konner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Rosenthal",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Broyles Jr.",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pierre Boulle",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Richard D. Zanuck",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph Winter",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Wahlberg",
+      "character": "Captain Leo Davidson",
+      "order": 0
+    },
+    {
+      "name": "Tim Roth",
+      "character": "Thade",
+      "order": 1
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "character": "Ari",
+      "order": 2
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "Attar",
+      "order": 3
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Limbo",
+      "order": 4
+    },
+    {
+      "name": "Estella Warren",
+      "character": "Daena",
+      "order": 5
+    },
+    {
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "Krull",
+      "order": 6
+    },
+    {
+      "name": "David Warner",
+      "character": "Sandar",
+      "order": 7
+    },
+    {
+      "name": "Kris Kristofferson",
+      "character": "Karubi",
+      "order": 8
+    },
+    {
+      "name": "Erick Avari",
+      "character": "Tival",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eEsOgbgKXMvI2FEw1WENamVXi41.jpg",
+  "backdrop_path": "/1N0MYYFvYwpM5fi3mjw4150ReoR.jpg",
+  "budget": 100000000,
+  "revenue": 362211740,
+  "vote_average": 5.763,
+  "vote_count": 4352,
+  "imdb_id": "tt0133152",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

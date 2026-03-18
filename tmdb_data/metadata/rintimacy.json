@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 11845,
+  "title": "Intimacy",
+  "original_title": "Intimacy",
+  "release_date": "2001-01-20",
+  "runtime": 119,
+  "tagline": "Every Wednesday. She meets him once per week.",
+  "overview": "Failed musician Jay abandoned his family and now earns a living as head bartender in a trendy London pub. Every Wednesday afternoon, a woman comes to his house for graphic, almost wordless, sex. One day, Jay follows her and learns about her. This eventually disrupts their relationship.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Téléma Productions",
+      "country": ""
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "France 2 Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "WDR/Arte",
+      "country": "DE"
+    },
+    {
+      "name": "Mikado Film",
+      "country": "IT"
+    },
+    {
+      "name": "Azor Films",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Patrice Chéreau"
+  ],
+  "writers": [
+    {
+      "name": "Patrice Chéreau",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Anne-Louise Trividic",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hanif Kureishi",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Patrick Cassavetti",
+      "job": "Producer"
+    },
+    {
+      "name": "Jacques Hinstin",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Gassot",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mark Rylance",
+      "character": "Jay",
+      "order": 0
+    },
+    {
+      "name": "Kerry Fox",
+      "character": "Claire",
+      "order": 1
+    },
+    {
+      "name": "Susannah Harker",
+      "character": "Susan, Jay's wife",
+      "order": 2
+    },
+    {
+      "name": "Alastair Galbraith",
+      "character": "Victor",
+      "order": 3
+    },
+    {
+      "name": "Philippe Calvario",
+      "character": "Ian",
+      "order": 4
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Andy, Claire's husband",
+      "order": 5
+    },
+    {
+      "name": "Marianne Faithfull",
+      "character": "Betty",
+      "order": 6
+    },
+    {
+      "name": "Fraser Ayres",
+      "character": "Dave",
+      "order": 7
+    },
+    {
+      "name": "Michael Fitzgerald",
+      "character": "Bar Owner",
+      "order": 8
+    },
+    {
+      "name": "Robert Addie",
+      "character": "Bar Owner",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aiPhBVo2eNhuPw5Pezx4BHagvUx.jpg",
+  "backdrop_path": "/qoxriJ6n1qxvG1bBMPnsZBHKGco.jpg",
+  "budget": 0,
+  "revenue": 2672527,
+  "vote_average": 6.238,
+  "vote_count": 547,
+  "imdb_id": "tt0256103",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

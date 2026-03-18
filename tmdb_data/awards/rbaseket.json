@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "31 Jul 1998",
+  "runtime": "103 min",
+  "genre": "Comedy, Sport",
+  "director": "David Zucker",
+  "writer": "David Zucker, Robert LoCash, Lewis Friedman",
+  "actors": "Trey Parker, Matt Stone, Dian Bachar",
+  "plot": "Two losers from Milwaukee, Coop &amp; Remer, invent a new game playing basketball, using baseball rules. When the game becomes a huge success, they, along with a billionaire's help, form the Professional Baseketball League where everyone gets the same pay and no team can change cities. Coop &amp; Remer's team, the Milwaukee Beers is the only team standing in the way of major rule changes that the owner of the Dallas Felons wants to institute.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "6.5",
+  "imdb_votes": "68,305",
+  "box_office": "$7,027,290",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=BASEketball"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/BASEketball/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0131857/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0131857/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14013"
+  }
+}

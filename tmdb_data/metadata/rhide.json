@@ -1,0 +1,94 @@
+{
+  "tmdb_id": 27812,
+  "title": "Kakurenbo: Hide & Seek",
+  "original_title": "カクレンボ",
+  "release_date": "2004-09-01",
+  "runtime": 25,
+  "tagline": "",
+  "overview": "Among the ruins of the city, there is a game only children can play. It is called “Otokoyo”; a game of hide-and-seek. But whenever children play this game, one by one they would disappear into the blinds of the buildings… The story begins when a boy enters the world of Otokoyo, to find his missing sister.",
+  "genres": [
+    "Animation",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "dentsu",
+      "country": "JP"
+    },
+    {
+      "name": "CoMix Wave Films",
+      "country": "JP"
+    },
+    {
+      "name": "YAMATOWORKS",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Shuhei Morita"
+  ],
+  "writers": [
+    {
+      "name": "Shuhei Morita",
+      "job": "Scenario Writer"
+    },
+    {
+      "name": "Shiro Kuro",
+      "job": "Scenario Writer"
+    },
+    {
+      "name": "Shiro Kuro",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Shuhei Morita",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Junko Takeuchi",
+      "character": "Hikora (voice)",
+      "order": 0
+    },
+    {
+      "name": "Ryou Naitou",
+      "character": "Noshiga (voice)",
+      "order": 1
+    },
+    {
+      "name": "Masami Suzuki",
+      "character": "Sorincha (voice)",
+      "order": 2
+    },
+    {
+      "name": "Akiko Kobayashi",
+      "character": "Suku (voice)",
+      "order": 3
+    },
+    {
+      "name": "Mika Ishibashi",
+      "character": "Tachiji (voice)",
+      "order": 4
+    },
+    {
+      "name": "Makoto Ueki",
+      "character": "Yaimao (voice)",
+      "order": 5
+    }
+  ],
+  "poster_path": "/u7RhGFaP1gFxZKNrm9nqZL1MNFb.jpg",
+  "backdrop_path": "/9qRvjrOCZj4dSJJqgjEqsPRgHiE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 49,
+  "imdb_id": "tt0489102",
+  "certifications": [],
+  "status": "Released"
+}

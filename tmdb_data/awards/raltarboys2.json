@@ -1,0 +1,35 @@
+{
+  "year": "2002",
+  "awards": "2 wins",
+  "rated": "R",
+  "released": "28 Jun 2002",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama",
+  "director": "Peter Care",
+  "writer": "Chris Fuhrman, Jeff Stockwell, Michael Petroni",
+  "actors": "Kieran Culkin, Jena Malone, Emile Hirsch",
+  "plot": "In mid-1970s Savannah, two bright but rebellious boys, Francis Doyle and Tim Sullivan, fight boredom, hormones and harsh teachers as they struggle to find something meaningful beyond the walls of their parish school. Francis, an exceptional artist whose imaginative forays into a fictional universe of good and evil fill his notebooks with comic-book imagery, creates a netherworld of superhero alter egos for the two boys. When the ultra-strict Sister Assumpta seizes their artwork one day, the boys embark upon an obsessed trail of revenge that ultimately changes their lives.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "6.9",
+  "imdb_votes": "14,325",
+  "box_office": "$1,815,864",
+  "dvd": "10 Jan 2006",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/The+Dangerous+Lives+of+Altar+Boys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0238924/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0238924/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16857"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "5 wins & 25 nominations total",
+  "rated": "R",
+  "released": "22 Dec 1999",
+  "runtime": "118 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Milos Forman",
+  "writer": "Scott Alexander, Larry Karaszewski",
+  "actors": "Jim Carrey, Danny DeVito, Gerry Becker",
+  "plot": "A biographical film on the late comedian Andy Kaufman. Kaufman, along with his role on Taxi (1978), was famous for being the self-declared Intergender Wrestling Champion of the world. After beating women time and time again, Jerry Lawler (who plays himself in the movie), a professional wrestler, got tired of seeing all of this and decided to challenge Kaufman to a match. In most of the matches the two had, Lawler prevailed with the piledriver, which is a move by spiking an opponent head-first into the mat. One of the most famous moments in this feud was in the early 80s when Kaufman threw coffee on Lawler on [error], got into fisticuffs with Lawler, and proceeded to sue NBC.",
+  "language": "English",
+  "country": "United Kingdom, Germany, Japan, United States",
+  "metascore": "58",
+  "imdb_rating": "7.4",
+  "imdb_votes": "140,789",
+  "box_office": "$34,607,430",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=Man+on+the+Moon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/Man+on+the+Moon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0125664/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0125664/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1850"
+  }
+}

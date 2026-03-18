@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 4816,
+  "title": "Ghost Dog: The Way of the Samurai",
+  "original_title": "Ghost Dog: The Way of the Samurai",
+  "release_date": "1999-10-06",
+  "runtime": 116,
+  "tagline": "Live by the code. Die by the code.",
+  "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "JVC",
+      "country": "JP"
+    },
+    {
+      "name": "Bac Films",
+      "country": "FR"
+    },
+    {
+      "name": "Pandora Film",
+      "country": "DE"
+    },
+    {
+      "name": "Plywood Productions",
+      "country": "US"
+    },
+    {
+      "name": "ARD Degeto",
+      "country": "DE"
+    },
+    {
+      "name": "Le Studio Canal+",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Jim Jarmusch"
+  ],
+  "writers": [
+    {
+      "name": "Sara Driver",
+      "job": "Story Consultant"
+    },
+    {
+      "name": "Jim Jarmusch",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Richard Guay",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Jarmusch",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Forest Whitaker",
+      "character": "Ghost Dog",
+      "order": 0
+    },
+    {
+      "name": "John Tormey",
+      "character": "Louie",
+      "order": 1
+    },
+    {
+      "name": "Cliff Gorman",
+      "character": "Sonny Valerio",
+      "order": 2
+    },
+    {
+      "name": "Frank Minucci",
+      "character": "Big Angie",
+      "order": 3
+    },
+    {
+      "name": "Richard Portnow",
+      "character": "Handsome Frank",
+      "order": 4
+    },
+    {
+      "name": "Tricia Vessey",
+      "character": "Louise Vargo",
+      "order": 5
+    },
+    {
+      "name": "Henry Silva",
+      "character": "Ray Vargo",
+      "order": 6
+    },
+    {
+      "name": "Gene Ruffini",
+      "character": "Old Consigliere",
+      "order": 7
+    },
+    {
+      "name": "Frank Adonis",
+      "character": "Valerio's Bodyguard",
+      "order": 8
+    },
+    {
+      "name": "Victor Argo",
+      "character": "Vinny",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gkH4zOxIfbb4BEbk9Q4cVOEpDaY.jpg",
+  "backdrop_path": "/80A15cocDNupdJw5f5i9TogpBum.jpg",
+  "budget": 2000000,
+  "revenue": 9392768,
+  "vote_average": 7.342,
+  "vote_count": 1367,
+  "imdb_id": "tt0165798",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "TR",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

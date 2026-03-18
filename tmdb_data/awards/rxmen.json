@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "14 wins & 26 nominations total",
+  "rated": "PG-13",
+  "released": "14 Jul 2000",
+  "runtime": "104 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Bryan Singer",
+  "writer": "Tom DeSanto, Bryan Singer, David Hayter",
+  "actors": "Patrick Stewart, Hugh Jackman, Ian McKellen",
+  "plot": "In a world where both Mutants and Humans fear each other, Marie, better known as Rogue, runs away from home and hitches a ride with another mutant, known as Logan, a.k.a. Wolverine. Professor Charles Xavier, who owns a school for young mutants, sends Storm and Cyclops to bring them back before it is too late. Magneto, who believes a war is approaching, has an evil plan in mind, and needs young Rogue to help him.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "64",
+  "imdb_rating": "7.3",
+  "imdb_votes": "688,134",
+  "box_office": "$157,299,718",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=X-Men"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/X-Men/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120903/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120903/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/36657"
+  }
+}

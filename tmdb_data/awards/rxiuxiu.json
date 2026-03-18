@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "12 wins & 13 nominations",
+  "rated": "R",
+  "released": "29 Apr 1999",
+  "runtime": "99 min",
+  "genre": "Drama",
+  "director": "Joan Chen",
+  "writer": "Joan Chen, Geling Yan",
+  "actors": "Xiaolu Li, Lopsang, Zheng Qian",
+  "plot": "Young teen girl Xiu Xiu is sent away to a remote corner of the Sichuan steppes for manual labor in 1975 (sending young people to there was a part of Cultural Revolution in China). A year later, she agrees to go to even more remote spot with a Tibetan saddle tramp Lao Jin to learn horse herding.",
+  "language": "Mandarin",
+  "country": "China, United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "3,713",
+  "box_office": "$1,010,933",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "96%",
+      "link": "https://www.rottentomatoes.com/search?search=Xiu+Xiu%3A+The+Sent-Down+Girl"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0115005/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0115005/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/33194"
+  }
+}

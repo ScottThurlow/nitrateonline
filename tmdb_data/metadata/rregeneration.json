@@ -1,0 +1,119 @@
+{
+  "tmdb_id": 49798,
+  "title": "Regeneration",
+  "original_title": "Regeneration",
+  "release_date": "1997-08-27",
+  "runtime": 114,
+  "tagline": "Between duty and destiny, loyalty and love, lies the road to...",
+  "overview": "Wilfred Owen and Siegfried Sassoon, two of England's most important World War I poets are sent, along with other traumatized combatants, to a rest home in order to treat their emotional troubles, caused by the psychological fatigue that suffer the soldiers fighting in the no man's land.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "BBC",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Gillies MacKinnon"
+  ],
+  "writers": [
+    {
+      "name": "Allan Scott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pat Barker",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Allan Scott",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter R. Simpson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jonathan Pryce",
+      "character": "Capt. William Rivers",
+      "order": 0
+    },
+    {
+      "name": "James Wilby",
+      "character": "2nd Lt. Siegfried Sassoon",
+      "order": 1
+    },
+    {
+      "name": "Jonny Lee Miller",
+      "character": "2nd Lt. Billy Prior",
+      "order": 2
+    },
+    {
+      "name": "Stuart Bunce",
+      "character": "2nd Lt. Wilfred Owen",
+      "order": 3
+    },
+    {
+      "name": "Tanya Allen",
+      "character": "Sarah Lumb",
+      "order": 4
+    },
+    {
+      "name": "Dougray Scott",
+      "character": "Capt. Robert Graves",
+      "order": 5
+    },
+    {
+      "name": "David Hayman",
+      "character": "Maj. Bryce",
+      "order": 6
+    },
+    {
+      "name": "John Neville",
+      "character": "Dr. Yealland",
+      "order": 7
+    },
+    {
+      "name": "Paul Young",
+      "character": "Dr. Brock",
+      "order": 8
+    },
+    {
+      "name": "Alastair Galbraith",
+      "character": "Capt. Campbell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jWNif4E8ZRhqRBItr0FWVMz1ooO.jpg",
+  "backdrop_path": "/kMVOGxOzn0ukgcOg8GLwpDpIOC6.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 29,
+  "imdb_id": "tt0120001",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

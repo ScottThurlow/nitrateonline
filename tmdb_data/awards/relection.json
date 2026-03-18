@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 16 wins & 34 nominations total",
+  "rated": "R",
+  "released": "07 May 1999",
+  "runtime": "103 min",
+  "genre": "Comedy, Romance",
+  "director": "Alexander Payne",
+  "writer": "Tom Perrotta, Alexander Payne, Jim Taylor",
+  "actors": "Matthew Broderick, Reese Witherspoon, Loren Nelson",
+  "plot": "The high school Class President election is approaching and it looks like Tracy Flick is going to win, unopposed. However, teacher Jim McAllister has other plans. He convinces jock Paul Metzler to run, sparking off an interesting chain of events.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "83",
+  "imdb_rating": "7.2",
+  "imdb_votes": "109,811",
+  "box_office": "$14,902,041",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Election"
+    },
+    {
+      "source": "Metacritic",
+      "value": "83/100",
+      "link": "https://www.metacritic.com/search/Election/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0126886/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0126886/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9451"
+  }
+}

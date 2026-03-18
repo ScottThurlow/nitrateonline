@@ -1,0 +1,195 @@
+{
+  "tmdb_id": 786,
+  "title": "Almost Famous",
+  "original_title": "Almost Famous",
+  "release_date": "2000-09-15",
+  "runtime": 124,
+  "tagline": "Experience it. Enjoy it. Just don't fall for it.",
+  "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Vinyl Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Cameron Crowe"
+  ],
+  "writers": [
+    {
+      "name": "Cameron Crowe",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lisa Stewart",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott M. Martin",
+      "job": "Producer"
+    },
+    {
+      "name": "Cameron Crowe",
+      "job": "Producer"
+    },
+    {
+      "name": "Ian Bryce",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Billy Crudup",
+      "character": "Russell Hammond",
+      "order": 0
+    },
+    {
+      "name": "Frances McDormand",
+      "character": "Elaine Miller",
+      "order": 1
+    },
+    {
+      "name": "Kate Hudson",
+      "character": "Penny Lane",
+      "order": 2
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Jeff Bebe",
+      "order": 3
+    },
+    {
+      "name": "Patrick Fugit",
+      "character": "William Miller",
+      "order": 4
+    },
+    {
+      "name": "Zooey Deschanel",
+      "character": "Anita Miller",
+      "order": 5
+    },
+    {
+      "name": "Michael Angarano",
+      "character": "Young William",
+      "order": 6
+    },
+    {
+      "name": "Anna Paquin",
+      "character": "Polexia Aphrodisia",
+      "order": 7
+    },
+    {
+      "name": "Fairuza Balk",
+      "character": "Sapphire",
+      "order": 8
+    },
+    {
+      "name": "Noah Taylor",
+      "character": "Dick Roswell",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+  "backdrop_path": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+  "budget": 60000000,
+  "revenue": 47386287,
+  "vote_average": 7.496,
+  "vote_count": 3047,
+  "imdb_id": "tt0181875",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

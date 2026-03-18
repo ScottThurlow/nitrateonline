@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 Oscar. 9 wins & 16 nominations total",
+  "rated": "G",
+  "released": "27 Jun 1997",
+  "runtime": "93 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Ron Clements, John Musker",
+  "writer": "Ron Clements, John Musker, Don McEnery",
+  "actors": "Tate Donovan, Susan Egan, James Woods",
+  "plot": "Hercules, son of the Greek God, Zeus, is turned into a half-god, half-mortal by evil Hades, God of the Underworld, who plans to overthrow Zeus. Hercules is raised on Earth and retains his god-like strength, but when he discovers his immortal heritage Zeus tells him that to return to Mount Olympus he must become a true hero. Hercules becomes a famous hero with the help of his friend Pegasus and his personal trainer, Phil the satyr. Hercules battles monsters, Hades and the Titans, but it is his self-sacrifice to rescue his love Meg which makes him a true hero.",
+  "language": "English, Spanish, Greek",
+  "country": "United States",
+  "metascore": "74",
+  "imdb_rating": "7.3",
+  "imdb_votes": "277,130",
+  "box_office": "$99,112,101",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "83%",
+      "link": "https://www.rottentomatoes.com/search?search=Hercules"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/Hercules/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119282/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119282/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11970"
+  }
+}

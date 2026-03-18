@@ -1,0 +1,35 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "16 Apr 2000",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama",
+  "director": "Shirley MacLaine",
+  "writer": "David Ciminello",
+  "actors": "Alex D. Linz, Shirley MacLaine, Gary Sinise",
+  "plot": "Bruno is the story of a unique young boy genius, Bruno (Alex D. Linz), whose expression of his own individuality leads his family and community along an emotional journey. By the time he reaches his final destination, Bruno's story becomes a fable of the importance of each person's uniqueness and originality.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.0",
+  "imdb_votes": "1,621",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "20%",
+      "link": "https://www.rottentomatoes.com/search?search=Bruno"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0123003/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0123003/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/95136"
+  }
+}

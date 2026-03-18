@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "9 nominations total",
+  "rated": "PG",
+  "released": "02 Jul 2003",
+  "runtime": "86 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Patrick Gilmore, Tim Johnson",
+  "writer": "John Logan",
+  "actors": "Brad Pitt, Catherine Zeta-Jones, Joseph Fiennes",
+  "plot": "A Persian sailor named Sinbad is on a quest to find the magical legendary Book of Peace, a mysterious artifact that Eris, the wicked Greek goddess of chaos, has ultimately framed him for stealing. If he fails on this quest, his childhood friend Prince Proteus of Syracuse will take Sinbad's death penalty while Eris gains a desired foothold of power in the world of mortals.",
+  "language": "English, Cantonese, Italian",
+  "country": "United States, Canada",
+  "metascore": "48",
+  "imdb_rating": "6.7",
+  "imdb_votes": "62,500",
+  "box_office": "$26,483,452",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "44%",
+      "link": "https://www.rottentomatoes.com/search?search=Sinbad%3A+Legend+of+the+Seven+Seas"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Sinbad%3A+Legend+of+the+Seven+Seas/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0165982/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0165982/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14411"
+  }
+}

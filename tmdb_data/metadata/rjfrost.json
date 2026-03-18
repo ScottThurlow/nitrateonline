@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 9745,
+  "title": "Jack Frost",
+  "original_title": "Jack Frost",
+  "release_date": "1998-11-15",
+  "runtime": 101,
+  "tagline": "He's the world's coolest dad and he's gonna prove it.",
+  "overview": "A father, who can't keep his promises, dies in a car accident. One year later, he returns as a snowman, who has the final chance to put things right with his son before he is gone forever.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Drama",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Canton Company",
+      "country": "US"
+    },
+    {
+      "name": "Azoff Films",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Troy Miller"
+  ],
+  "writers": [
+    {
+      "name": "Mark Steven Johnson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeff Cesario",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Bloom",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Steven Johnson",
+      "job": "Story"
+    },
+    {
+      "name": "Jonathan Roberts",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Irving Azoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeff Barry",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Canton",
+      "job": "Producer"
+    },
+    {
+      "name": "Matthew Baer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Goldsmith",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Tadross",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Keaton",
+      "character": "Jack Frost",
+      "order": 0
+    },
+    {
+      "name": "Kelly Preston",
+      "character": "Gabby Frost",
+      "order": 1
+    },
+    {
+      "name": "Mark Addy",
+      "character": "Mac MacArthur",
+      "order": 2
+    },
+    {
+      "name": "Joseph Cross",
+      "character": "Charlie Frost",
+      "order": 3
+    },
+    {
+      "name": "Henry Rollins",
+      "character": "Sid Gronic",
+      "order": 4
+    },
+    {
+      "name": "Mika Boorem",
+      "character": "Natalie",
+      "order": 5
+    },
+    {
+      "name": "Andrew Lawrence",
+      "character": "Tuck Gronic",
+      "order": 6
+    },
+    {
+      "name": "Eli Marienthal",
+      "character": "Spencer",
+      "order": 7
+    },
+    {
+      "name": "Will Rothhaar",
+      "character": "Dennis",
+      "order": 8
+    },
+    {
+      "name": "Taylor Handley",
+      "character": "Rory Buck",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg",
+  "backdrop_path": "/kVM45FdWgirD08xJAwnRRWMC3QL.jpg",
+  "budget": 27000000,
+  "revenue": 34562925,
+  "vote_average": 6.028,
+  "vote_count": 1213,
+  "imdb_id": "tt0141109",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

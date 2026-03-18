@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 2 nominations",
+  "rated": "R",
+  "released": "08 Oct 1999",
+  "runtime": "90 min",
+  "genre": "Comedy",
+  "director": "Robinson Devor",
+  "writer": "Charles Willeford, Robinson Devor",
+  "actors": "Patrick Warburton, Eugene Roche, Ron Morgan",
+  "plot": "Set in 1950s Los Angeles, Richard Hudson (Warburton) is a shrewd car dealer who moves from San Francisco and sets up a used-car dealership. Tiring of this job, he turns the lot over to an assistant and starts writing his first movie, The Man Who Got Away. It turns out to be an uncommercial picture chronicling the story of a truck driver who goes berserk, runs over a little girl and dies fending off a platoon of police officers. In making his film, Richard enlists the help of his father-in-law, Leo (Paul Malevich), a washed-up former film director whose notable possession is a Rouault painting of a clown. Through Leo, Richard pitches his idea to the Man (Ernie Vincent), the chief executive of Mammoth Pictures who green-lights the project. Conflict inevitably arises when Richard's obsession for making the movie his way clashes with the Man. Other kooky characters include Richard's mother (Lynette Bennett), a former ballerina who lures her hirsute lug of a son into a comic pas de deux ; Richard's sexually curious stepsister, Becky (Marilyn Rising), who seduces him, and his secretary, Laura (Emily Newman), whom he impregnates with a boorish indifference.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "46",
+  "imdb_rating": "7.1",
+  "imdb_votes": "697",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Woman+Chaser"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/The+Woman+Chaser/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0217894/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0217894/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/28666"
+  }
+}

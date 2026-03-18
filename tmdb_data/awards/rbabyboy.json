@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 14 nominations total",
+  "rated": "R",
+  "released": "27 Jun 2001",
+  "runtime": "130 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "John Singleton",
+  "writer": "John Singleton",
+  "actors": "Alexsandra Wright, Tyrese Gibson, Taraji P. Henson",
+  "plot": "This is the story of Jody, an unemployed young black man, who's been living with his mother for several years, even though he's got a child of his own. Romantically, he's having relationships with two women: Yvette, the mother of his son, and a new interest.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "55",
+  "imdb_rating": "6.5",
+  "imdb_votes": "17,600",
+  "box_office": "$28,734,552",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Baby+Boy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Baby+Boy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0255819/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0255819/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16161"
+  }
+}

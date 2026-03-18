@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "6 nominations total",
+  "rated": "R",
+  "released": "29 Aug 2003",
+  "runtime": "104 min",
+  "genre": "Horror",
+  "director": "Victor Salva",
+  "writer": "Victor Salva",
+  "actors": "Jonathan Breck, Ray Wise, Nicki Aycox",
+  "plot": "Stranded on a lonely road, a schoolbus full of high school basketball players, their coaches, and cheerleaders must defend themselves from the Creeper - a flesh-eating ancient beast that resurfaces on the earth every 23 years to feed. Meanwhile, a farmer and his son set out on a personal mission to hunt the Creeper down.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "36",
+  "imdb_rating": "5.7",
+  "imdb_votes": "75,679",
+  "box_office": "$35,667,218",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=Jeepers+Creepers+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/Jeepers+Creepers+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0301470/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0301470/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11351"
+  }
+}

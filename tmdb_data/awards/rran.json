@@ -1,0 +1,30 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "N/A",
+  "runtime": "91 min",
+  "genre": "Action",
+  "director": "Yossi Wein",
+  "writer": "Danny Lerner, Bernard Stone",
+  "actors": "Trae Thomas, Todd Jensen, Anthony Bishop",
+  "plot": "An elite task force is assigned to handle a Middle-Eastern terrorist mastermind who is using mind-control techniques to create an army of willing suicide bombers.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "3.3",
+  "imdb_votes": "432",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.3/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0227200/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0227200/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/95251"
+  }
+}

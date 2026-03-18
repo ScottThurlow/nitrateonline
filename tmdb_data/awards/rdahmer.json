@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "13 Mar 2003",
+  "runtime": "101 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "David Jacobson",
+  "writer": "David Jacobson, David Birke",
+  "actors": "Jeremy Renner, Bruce Davison, Artel Great",
+  "plot": "Before his arrest and conviction for serial murders, chocolate factory worker Jeffrey Dahmer hunts Milwaukee, Wisconsin, for young attractive males to turn into unconscious (eventually dead) human sex toys, current acts which often prompt memories of earlier killings and of dealings with his suspicious but unaware father.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "63",
+  "imdb_rating": "5.6",
+  "imdb_votes": "11,990",
+  "box_office": "$144,008",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "73%",
+      "link": "https://www.rottentomatoes.com/search?search=Dahmer"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Dahmer/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0285728/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0285728/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/25853"
+  }
+}

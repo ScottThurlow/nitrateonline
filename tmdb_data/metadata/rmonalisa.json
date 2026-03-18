@@ -1,0 +1,189 @@
+{
+  "tmdb_id": 11820,
+  "title": "Mona Lisa Smile",
+  "original_title": "Mona Lisa Smile",
+  "release_date": "2003-12-19",
+  "runtime": 117,
+  "tagline": "They had everything. She showed them more.",
+  "overview": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Red Om Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mike Newell"
+  ],
+  "writers": [
+    {
+      "name": "Mark Rosenthal",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lawrence Konner",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joe Roth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elaine Goldsmith-Thomas",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Schiff",
+      "job": "Producer"
+    },
+    {
+      "name": "Deborah Schindler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julia Roberts",
+      "character": "Katherine Ann Watson",
+      "order": 0
+    },
+    {
+      "name": "Kirsten Dunst",
+      "character": "Betty Warren",
+      "order": 1
+    },
+    {
+      "name": "Julia Stiles",
+      "character": "Joan Brandwyn",
+      "order": 2
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "character": "Giselle Levy",
+      "order": 3
+    },
+    {
+      "name": "Ginnifer Goodwin",
+      "character": "Connie Baker",
+      "order": 4
+    },
+    {
+      "name": "Dominic West",
+      "character": "Bill Dunbar",
+      "order": 5
+    },
+    {
+      "name": "Juliet Stevenson",
+      "character": "Amanda Armstrong",
+      "order": 6
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "character": "Nancy Abbey",
+      "order": 7
+    },
+    {
+      "name": "John Slattery",
+      "character": "Paul Moore",
+      "order": 8
+    },
+    {
+      "name": "Marian Seldes",
+      "character": "President Jocelyn Carr",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+  "backdrop_path": "/trfjdJI51Krnig9UmxJQkz15ICo.jpg",
+  "budget": 72300000,
+  "revenue": 141337989,
+  "vote_average": 6.91,
+  "vote_count": 1878,
+  "imdb_id": "tt0304415",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

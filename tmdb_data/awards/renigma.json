@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins & 6 nominations total",
+  "rated": "R",
+  "released": "07 Jun 2002",
+  "runtime": "119 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Michael Apted",
+  "writer": "Robert Harris, Tom Stoppard",
+  "actors": "Dougray Scott, Kate Winslet, Saffron Burrows",
+  "plot": "During the heart of World War II, in March of 1943, cryptoanalysts at Britain's code-breaking center have discovered to their horror that Nazi U-boats have changed their Enigma Code. Authorities enlist the help of a brilliant young man named Tom Jericho to help them break the code again. The possibility of a spy within the British code-breakers' ranks looms and Tom's love, Claire, has disappeared. To solve the mysteries, Tom recruits Claire's best friend, Hester Wallace. In investigating Claire's personal life, the pair discovers personal and international betrayals.",
+  "language": "English, German",
+  "country": "United Kingdom, United States, Germany, Netherlands",
+  "metascore": "64",
+  "imdb_rating": "6.4",
+  "imdb_votes": "22,166",
+  "box_office": "$4,301,582",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=Enigma"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/Enigma/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0157583/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0157583/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10491"
+  }
+}

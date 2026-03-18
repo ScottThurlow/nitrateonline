@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "10 Nov 2000",
+  "runtime": "106 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Antony Hoffman",
+  "writer": "Chuck Pfarrer, Jonathan Lemkin",
+  "actors": "Val Kilmer, Carrie-Anne Moss, Tom Sizemore",
+  "plot": "In the near future, Earth is dying. A new colony on Mars could be humanity's only hope. A team of American astronauts, each a specialist in a different field, is making the first manned expedition to the red planet and must struggle to overcome the differences in their personalities, backgrounds and ideologies for the overall good of the mission. When their equipment suffers life-threatening damage and the crew must depend on one another for survival on the hostile surface of Mars, their doubts, fears and questions about God, man's destiny and the nature of the universe become defining elements in their fates. In this alien environment they must come face to face with their most human selves.",
+  "language": "English",
+  "country": "United States, Australia",
+  "metascore": "34",
+  "imdb_rating": "5.7",
+  "imdb_votes": "61,121",
+  "box_office": "$17,480,890",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=Red+Planet"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/Red+Planet/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0199753/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0199753/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8870"
+  }
+}

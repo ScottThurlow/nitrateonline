@@ -1,0 +1,239 @@
+{
+  "tmdb_id": 8916,
+  "title": "Antz",
+  "original_title": "Antz",
+  "release_date": "1998-10-02",
+  "runtime": 83,
+  "tagline": "See the world from a whole new perspective.",
+  "overview": "A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "War"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Pacific Data Images",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Animation",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Eric Darnell",
+    "Tim Johnson"
+  ],
+  "writers": [
+    {
+      "name": "Paul Weitz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Todd Alcott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chris Weitz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Catherine Dingman",
+      "job": "Story Coordinator"
+    },
+    {
+      "name": "Mike Cachuela",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Zak Penn",
+      "job": "Story Consultant"
+    },
+    {
+      "name": "Randy Cartwright",
+      "job": "Head of Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Patty Wooton",
+      "job": "Producer"
+    },
+    {
+      "name": "Bradford Lewis",
+      "job": "Producer"
+    },
+    {
+      "name": "Aron Warner",
+      "job": "Producer"
+    },
+    {
+      "name": "Carl Rosendahl",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Penney Finkelman Cox",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sandra Rabins",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Woody Allen",
+      "character": "Z-4195 “Z” (voice)",
+      "order": 0
+    },
+    {
+      "name": "Sharon Stone",
+      "character": "Princess Bala (voice)",
+      "order": 1
+    },
+    {
+      "name": "Dan Aykroyd",
+      "character": "Chip (voice)",
+      "order": 2
+    },
+    {
+      "name": "Anne Bancroft",
+      "character": "Queen (voice)",
+      "order": 3
+    },
+    {
+      "name": "Danny Glover",
+      "character": "Barbatus (voice)",
+      "order": 4
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "General Mandible (voice)",
+      "order": 5
+    },
+    {
+      "name": "Jane Curtin",
+      "character": "Muffy (voice)",
+      "order": 6
+    },
+    {
+      "name": "Sylvester Stallone",
+      "character": "Weaver (voice)",
+      "order": 7
+    },
+    {
+      "name": "Jennifer Lopez",
+      "character": "Azteca (voice)",
+      "order": 8
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Colonel Cutter (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg",
+  "backdrop_path": "/i4NvcHeYeAdLEFiLxEVvUA3BT0.jpg",
+  "budget": 60000000,
+  "revenue": 171757863,
+  "vote_average": 6.177,
+  "vote_count": 4681,
+  "imdb_id": "tt0120587",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

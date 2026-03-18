@@ -1,0 +1,164 @@
+{
+  "tmdb_id": 473,
+  "title": "Pi",
+  "original_title": "Pi",
+  "release_date": "1998-07-10",
+  "runtime": 84,
+  "tagline": "Faith in chaos.",
+  "overview": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Harvest Filmworks",
+      "country": "US"
+    },
+    {
+      "name": "Plantain Films",
+      "country": "US"
+    },
+    {
+      "name": "Protozoa Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Truth & Soul",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Darren Aronofsky"
+  ],
+  "writers": [
+    {
+      "name": "Darren Aronofsky",
+      "job": "Story"
+    },
+    {
+      "name": "Eric Watson",
+      "job": "Story"
+    },
+    {
+      "name": "Darren Aronofsky",
+      "job": "Writer"
+    },
+    {
+      "name": "Sean Gullette",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric Watson",
+      "job": "Producer"
+    },
+    {
+      "name": "Randy Simon",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Gullette",
+      "character": "Maximillian Cohen",
+      "order": 0
+    },
+    {
+      "name": "Mark Margolis",
+      "character": "Sol Robeson",
+      "order": 1
+    },
+    {
+      "name": "Ben Shenkman",
+      "character": "Lenny Meyer",
+      "order": 2
+    },
+    {
+      "name": "Pamela Hart",
+      "character": "Marcy Dawson",
+      "order": 3
+    },
+    {
+      "name": "Stephen Pearlman",
+      "character": "Rabbi Cohen",
+      "order": 4
+    },
+    {
+      "name": "Samia Shoaib",
+      "character": "Devi",
+      "order": 5
+    },
+    {
+      "name": "Ajay Naidu",
+      "character": "Farroukh",
+      "order": 6
+    },
+    {
+      "name": "Kristyn Mae-Anne Lao",
+      "character": "Jenna",
+      "order": 7
+    },
+    {
+      "name": "Espher Lao Nieves",
+      "character": "Jenna's Mom",
+      "order": 8
+    },
+    {
+      "name": "Joanne Gordon",
+      "character": "Mrs. Ovadia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+  "backdrop_path": "/pVmCanXNPYqE74cJoL0U6C9ONf5.jpg",
+  "budget": 60000,
+  "revenue": 3221152,
+  "vote_average": 7.1,
+  "vote_count": 2447,
+  "imdb_id": "tt0138704",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

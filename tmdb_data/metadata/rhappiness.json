@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 10683,
+  "title": "Happiness",
+  "original_title": "Happiness",
+  "release_date": "1998-10-11",
+  "runtime": 140,
+  "tagline": "You want. He wants. She wants. But nobody wants what I want.",
+  "overview": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Good Machine",
+      "country": "US"
+    },
+    {
+      "name": "Killer Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Todd Solondz"
+  ],
+  "writers": [
+    {
+      "name": "Todd Solondz",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ted Hope",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Vachon",
+      "job": "Producer"
+    },
+    {
+      "name": "David Linde",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jane Adams",
+      "character": "Joy Jordan",
+      "order": 0
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Allen",
+      "order": 1
+    },
+    {
+      "name": "Dylan Baker",
+      "character": "Bill Maplewood",
+      "order": 2
+    },
+    {
+      "name": "Lara Flynn Boyle",
+      "character": "Helen Jordan",
+      "order": 3
+    },
+    {
+      "name": "Cynthia Stevenson",
+      "character": "Trish Maplewood",
+      "order": 4
+    },
+    {
+      "name": "Louise Lasser",
+      "character": "Mona Jordan",
+      "order": 5
+    },
+    {
+      "name": "Ben Gazzara",
+      "character": "Lenny Jordan",
+      "order": 6
+    },
+    {
+      "name": "Camryn Manheim",
+      "character": "Kristina",
+      "order": 7
+    },
+    {
+      "name": "Rufus Read",
+      "character": "Billy Maplewood",
+      "order": 8
+    },
+    {
+      "name": "Jon Lovitz",
+      "character": "Andy Kornbluth",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+  "backdrop_path": "/3AE92av4pGYx9NKKss7x5zEgEOS.jpg",
+  "budget": 3000000,
+  "revenue": 2800000,
+  "vote_average": 7.431,
+  "vote_count": 912,
+  "imdb_id": "tt0147612",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "18+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "NC-17"
+    }
+  ],
+  "status": "Released"
+}

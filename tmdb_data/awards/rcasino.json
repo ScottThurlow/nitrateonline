@@ -1,0 +1,39 @@
+{
+  "year": "1995",
+  "awards": "Nominated for 1 Oscar. 4 wins & 11 nominations total",
+  "rated": "R",
+  "released": "22 Nov 1995",
+  "runtime": "178 min",
+  "genre": "Crime, Drama",
+  "director": "Martin Scorsese",
+  "writer": "Nicholas Pileggi, Martin Scorsese",
+  "actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+  "plot": "This Martin Scorsese film depicts the Janus-like quality of Las Vegas--it has a glittering, glamorous face, as well as a brutal, cruel one. Ace Rothstein and Nicky Santoro, mobsters who move to Las Vegas to make their mark, live and work in this paradoxical world. Seen through their eyes, each as a foil to the other, the details of mob involvement in the casinos of the 1970s and '80s are revealed. Ace is the smooth operator of the Tangiers casino, while Nicky is his boyhood friend and tough strongman, robbing and shaking down the locals. However, they each have a tragic flaw--Ace falls in love with a hustler, Ginger, and Nicky falls into an ever-deepening spiral of drugs and violence.",
+  "language": "English",
+  "country": "United States, France",
+  "metascore": "73",
+  "imdb_rating": "8.2",
+  "imdb_votes": "613,907",
+  "box_office": "$42,512,375",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=Casino"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Casino/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0112641/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0112641/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/524"
+  }
+}

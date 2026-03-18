@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 2 nominations total",
+  "rated": "R",
+  "released": "07 Apr 2000",
+  "runtime": "128 min",
+  "genre": "Drama, Thriller, War",
+  "director": "William Friedkin",
+  "writer": "Jim Webb, Stephen Gaghan",
+  "actors": "Tommy Lee Jones, Samuel L. Jackson, Guy Pearce",
+  "plot": "Hayes Hodges finds his career aspirations dashed when he's wounded in Vietnam. He returns to America and becomes a disillusioned lawyer who goes up against the Service to defend Colonel Terry Childers, who is accused of inciting an incident that leaves many demonstrators dead. Hodges is in no position to decline: Childers saved his life in Vietnam.",
+  "language": "English, Arabic",
+  "country": "United Kingdom, Germany, Canada, United States",
+  "metascore": "45",
+  "imdb_rating": "6.4",
+  "imdb_votes": "52,097",
+  "box_office": "$61,335,230",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Rules+of+Engagement"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/Rules+of+Engagement/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160797/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160797/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10479"
+  }
+}

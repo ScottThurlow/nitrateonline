@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 2 nominations",
+  "rated": "PG-13",
+  "released": "31 Mar 2000",
+  "runtime": "118 min",
+  "genre": "Drama, Sport",
+  "director": "Carlos Avila",
+  "writer": "Phil Berger",
+  "actors": "Jimmy Smits, Maria del Mar, Jon Seda",
+  "plot": "An ex-boxer, living with the knowledge that his fight career was cut short by a crooked manager, channels his bitter disappointment in a single-minded quest for boxing championships for his three sons. We see them in pee-wee Silver Glove matches with dad constantly pushing them. Ten years later, they're young men, with dad as both father and manager. A professional promoter, Nick Everson, wants to sign the boys, but dad rejects those offers. Then, in expressions of their varied relationships with their father, each son makes his own decisions. Can dad ever step aside, and can the family hold together?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "32",
+  "imdb_rating": "6.1",
+  "imdb_votes": "913",
+  "box_office": "$3,440,228",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "34%",
+      "link": "https://www.rottentomatoes.com/search?search=Price+of+Glory"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Price+of+Glory/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0188160/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0188160/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/53263"
+  }
+}

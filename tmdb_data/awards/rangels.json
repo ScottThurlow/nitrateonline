@@ -1,0 +1,30 @@
+{
+  "year": "2017",
+  "awards": "1 win",
+  "rated": "N/A",
+  "released": "20 Jul 2017",
+  "runtime": "220 min",
+  "genre": "Drama",
+  "director": "Marianne Elliott, Bridget Caldwell",
+  "writer": "Tony Kushner",
+  "actors": "Andrew Garfield, Russell Tovey, Denise Gough",
+  "plot": "The National Theatre's live theatrical production of Tony Kushner's play 'Angels in America' about New Yorkers grappling with the AIDS crisis during the mid-1980s.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "8.8",
+  "imdb_votes": "817",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.8/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt6846664/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt6846664/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/444459"
+  }
+}

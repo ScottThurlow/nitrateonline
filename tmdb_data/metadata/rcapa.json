@@ -1,0 +1,57 @@
+{
+  "tmdb_id": 447602,
+  "title": "Robert Capa: In Love and War",
+  "original_title": "Robert Capa: In Love and War",
+  "release_date": "2003-05-28",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "Profile of iconic war photographer Robert Capa, whose career spanned five epic conflicts across three continents before his untimely death at the age of 40. The film traces Endre Freidman's transformation from a young Jewish boy in Budapest to his becoming Robert Capa, the most famous war photographer in the world. (Storyville)",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Thirteen",
+      "country": "US"
+    },
+    {
+      "name": "Eagle Rock Entertainment",
+      "country": "GB"
+    },
+    {
+      "name": "Parthenon Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Anne Makepeace"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Steven Spielberg",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Goran Višnjić",
+      "character": "Robert Capa (voice)",
+      "order": 1
+    }
+  ],
+  "poster_path": "/2ZlJw8WvNozhQAhezjfIhht6s9Z.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 3,
+  "imdb_id": "tt0342939",
+  "certifications": [],
+  "status": "Released"
+}

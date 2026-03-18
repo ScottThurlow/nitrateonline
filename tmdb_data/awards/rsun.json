@@ -1,0 +1,35 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 Primetime Emmy. 1 win & 6 nominations total",
+  "rated": "R",
+  "released": "24 Jan 2001",
+  "runtime": "120 min",
+  "genre": "Drama, Music",
+  "director": "Allison Anders",
+  "writer": "Allison Anders, Kurt Voss",
+  "actors": "Kim Dickens, Gabriel Mann, Aria Alpert Adjani",
+  "plot": "In Cocoa Beach FL, a woman shows up drunk on the same lawn on the same date three years running. What's going on? She's Sherry McGrale, a singer building a reputation on college campuses, especially for her signature song about having been raped. A rock magazine in L.A. takes notice, and writer Owen Richardson recognizes her: his older brother orchestrated the assault and involved him. Owen heads for Florida, ostensibly to do a piece on her, but in reality to try to put his own demons to rest. Wounds from the event are ruining Sherry and Owen's current relationships. Is there any prospect of healing? A judge, Sherry's manager, and a widow with young kids provide supporting arms.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.0",
+  "imdb_votes": "1,526",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "100%",
+      "link": "https://www.rottentomatoes.com/search?search=Things+Behind+the+Sun"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0245501/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0245501/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/102933"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 452,
+  "title": "The Idiots",
+  "original_title": "Idioterne",
+  "release_date": "1998-04-28",
+  "runtime": 110,
+  "tagline": "Take a long ride on the short bus.",
+  "overview": "A group of people gather at a Copenhagen suburban home to break all the limitations and to bring out the 'inner idiot' in themselves.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_companies": [
+    {
+      "name": "Zentropa Entertainments",
+      "country": "DK"
+    },
+    {
+      "name": "DR TV",
+      "country": "DK"
+    },
+    {
+      "name": "La Sept Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Liberator Productions",
+      "country": "FR"
+    },
+    {
+      "name": "VPRO",
+      "country": "NL"
+    },
+    {
+      "name": "Argus Film Produktie",
+      "country": "NL"
+    },
+    {
+      "name": "ZDF/Arte",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Lars von Trier"
+  ],
+  "writers": [
+    {
+      "name": "Lars von Trier",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mogens Rukov",
+      "job": "Script Consultant"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Aalbæk Jensen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Vibeke Windeløv",
+      "job": "Producer"
+    },
+    {
+      "name": "Dag Alveberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Svend Abrahamsen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bodil Jørgensen",
+      "character": "Karen",
+      "order": 0
+    },
+    {
+      "name": "Jens Albinus",
+      "character": "Stoffer",
+      "order": 1
+    },
+    {
+      "name": "Anne Louise Hassing",
+      "character": "Susanne",
+      "order": 2
+    },
+    {
+      "name": "Troels Lyby",
+      "character": "Henrik",
+      "order": 3
+    },
+    {
+      "name": "Nikolaj Lie Kaas",
+      "character": "Jeppe",
+      "order": 4
+    },
+    {
+      "name": "Louise Mieritz",
+      "character": "Josephine",
+      "order": 5
+    },
+    {
+      "name": "Henrik Prip",
+      "character": "Ped",
+      "order": 6
+    },
+    {
+      "name": "Luis Mesonero",
+      "character": "Miguel",
+      "order": 7
+    },
+    {
+      "name": "Trine Michelsen",
+      "character": "Nana",
+      "order": 8
+    },
+    {
+      "name": "Anne-Grethe Bjarup Riis",
+      "character": "Katrine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dZUgHe2XH8egBFerMC6yLoqUqii.jpg",
+  "backdrop_path": "/3l28DnWMafB4dEXdYROxw3HFaKD.jpg",
+  "budget": 2500000,
+  "revenue": 7200,
+  "vote_average": 6.457,
+  "vote_count": 639,
+  "imdb_id": "tt0154421",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

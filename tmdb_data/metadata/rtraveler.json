@@ -1,0 +1,134 @@
+{
+  "tmdb_id": 59199,
+  "title": "World Traveler",
+  "original_title": "World Traveler",
+  "release_date": "2002-04-19",
+  "runtime": 103,
+  "tagline": "ever wander?",
+  "overview": "After hitting the road a man encounters characters that make him realize the importance of family.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Eureka Pictures",
+      "country": "US"
+    },
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    },
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    },
+    {
+      "name": "Process Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bart Freundlich"
+  ],
+  "writers": [
+    {
+      "name": "Bart Freundlich",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "William Perkins",
+      "job": "Producer"
+    },
+    {
+      "name": "Howard Bernstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Bart Freundlich",
+      "job": "Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tim Perrell",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Billy Crudup",
+      "character": "Cal",
+      "order": 0
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Dulcie",
+      "order": 1
+    },
+    {
+      "name": "Cleavant Derricks",
+      "character": "Carl",
+      "order": 2
+    },
+    {
+      "name": "Liane Balaban",
+      "character": "Meg",
+      "order": 3
+    },
+    {
+      "name": "David Keith",
+      "character": "Richard",
+      "order": 4
+    },
+    {
+      "name": "Mary McCormack",
+      "character": "Margaret",
+      "order": 5
+    },
+    {
+      "name": "Francie Swift",
+      "character": "Joanie",
+      "order": 6
+    },
+    {
+      "name": "Karen Allen",
+      "character": "Delores",
+      "order": 7
+    },
+    {
+      "name": "James Le Gros",
+      "character": "Jack",
+      "order": 8
+    },
+    {
+      "name": "Kaili Vernoff",
+      "character": "Andrea",
+      "order": 9
+    }
+  ],
+  "poster_path": "/24d6LPAYXhudU8HAlxohPaVPRuL.jpg",
+  "backdrop_path": "/dMXTKDe0SuYiC6dxdHhyT6V9uL1.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 3.917,
+  "vote_count": 24,
+  "imdb_id": "tt0262911",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

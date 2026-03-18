@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "5 wins & 21 nominations total",
+  "rated": "R",
+  "released": "07 Mar 2002",
+  "runtime": "99 min",
+  "genre": "Animation, Drama, Fantasy",
+  "director": "Richard Linklater",
+  "writer": "Richard Linklater",
+  "actors": "Ethan Hawke, Trevor Jack Brooks, Lorelei Linklater",
+  "plot": "Dreams. What are they? An escape from reality or reality itself? Waking Life follows the dream(s) of one man and his attempt to find and discern the absolute difference between waking life and the dreamworld. While trying to figure out a way to wake up, he runs into many people on his way; some of which offer one sentence asides on life, others delving deeply into existential questions and life's mysteries. We become the main character. It becomes our dream and our questions being asked and answered. Can we control our dreams? What are they telling us about life? About death? About ourselves and where we come from and where we are going? The film does not answer all these for us. Instead, it inspires us to ask the questions and find the answers ourselves.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "85",
+  "imdb_rating": "7.6",
+  "imdb_votes": "69,294",
+  "box_office": "$2,901,447",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Waking+Life"
+    },
+    {
+      "source": "Metacritic",
+      "value": "85/100",
+      "link": "https://www.metacritic.com/search/Waking+Life/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0243017/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0243017/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9081"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "tmdb_id": 9713,
+  "title": "Holy Man",
+  "original_title": "Holy Man",
+  "release_date": "1998-10-08",
+  "runtime": 114,
+  "tagline": "God's gift to home shopping.",
+  "overview": "In a world governed by commerce, Ricky and Kate, dedicated employees, find their lives forever changed when they encounter the enigmatic stranger G. As they navigate the realm of commerce, their paths intertwine in a surreal dance of love, loss, and redemption. G's presence, amplified through the pervasive influence of globalized television, casts a spell that reverberates beyond Ricky and Kate, impacting the lives of those who bear witness to their intertwined destinies.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Caravan Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Roger Birnbaum Productions",
+      "country": "US"
+    },
+    {
+      "name": "Eddie Murphy Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stephen Herek"
+  ],
+  "writers": [
+    {
+      "name": "Tom Schulman",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Chernov",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Herek",
+      "job": "Producer"
+    },
+    {
+      "name": "Eddie Murphy",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "G",
+      "order": 0
+    },
+    {
+      "name": "Jeff Goldblum",
+      "character": "Ricky Hayman",
+      "order": 1
+    },
+    {
+      "name": "Kelly Preston",
+      "character": "Kate Newell",
+      "order": 2
+    },
+    {
+      "name": "Robert Loggia",
+      "character": "McBainbridge",
+      "order": 3
+    },
+    {
+      "name": "Jon Cryer",
+      "character": "Barry",
+      "order": 4
+    },
+    {
+      "name": "Eric McCormack",
+      "character": "Scott Hawkes",
+      "order": 5
+    },
+    {
+      "name": "Sam Kitchin",
+      "character": "Director",
+      "order": 6
+    },
+    {
+      "name": "Robert Small",
+      "character": "Assistant Director",
+      "order": 7
+    },
+    {
+      "name": "Marc Macaulay",
+      "character": "Assistant Director (Brutus)",
+      "order": 8
+    },
+    {
+      "name": "Mary Stout",
+      "character": "Laundry Lady #1",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sfJBsOdSbgLLarO6GIS0dWzFcCv.jpg",
+  "backdrop_path": "/bab3M73GxIf0UfxPeXG1GsGjnXu.jpg",
+  "budget": 60000000,
+  "revenue": 12069719,
+  "vote_average": 5.258,
+  "vote_count": 451,
+  "imdb_id": "tt0120701",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,227 @@
+{
+  "tmdb_id": 2789,
+  "title": "The Chronicles of Riddick",
+  "original_title": "The Chronicles of Riddick",
+  "release_date": "2004-06-11",
+  "runtime": 119,
+  "tagline": "All the power in the universe can't change destiny.",
+  "overview": "After years of outrunning ruthless bounty hunters, escaped convict Riddick suddenly finds himself caught between opposing forces in a fight for the future of the human race. Now, waging incredible battles on fantastic and deadly worlds, this lone, reluctant hero will emerge as humanity's champion - and the last hope for a universe on the edge of annihilation.",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Radar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "One Race",
+      "country": "US"
+    },
+    {
+      "name": "Primal Foe Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "David Twohy"
+  ],
+  "writers": [
+    {
+      "name": "Jim Wheat",
+      "job": "Characters"
+    },
+    {
+      "name": "Ken Wheat",
+      "job": "Characters"
+    },
+    {
+      "name": "David Twohy",
+      "job": "Writer"
+    },
+    {
+      "name": "Benton Jew",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Womark",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Kroopf",
+      "job": "Producer"
+    },
+    {
+      "name": "George Zakk",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Vin Diesel",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vin Diesel",
+      "character": "Riddick",
+      "order": 0
+    },
+    {
+      "name": "Colm Feore",
+      "character": "Lord Marshal",
+      "order": 1
+    },
+    {
+      "name": "Thandiwe Newton",
+      "character": "Dame Vaako",
+      "order": 2
+    },
+    {
+      "name": "Judi Dench",
+      "character": "Aereon",
+      "order": 3
+    },
+    {
+      "name": "Karl Urban",
+      "character": "Vaako",
+      "order": 4
+    },
+    {
+      "name": "Alexa Davalos",
+      "character": "Kyra",
+      "order": 5
+    },
+    {
+      "name": "Linus Roache",
+      "character": "Purifier",
+      "order": 6
+    },
+    {
+      "name": "Yorick van Wageningen",
+      "character": "The Guv",
+      "order": 7
+    },
+    {
+      "name": "Nick Chinlund",
+      "character": "Toombs",
+      "order": 8
+    },
+    {
+      "name": "Keith David",
+      "character": "Abu 'Imam' al-Walid",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bVO1r90diKfFLzvZ5D3qK6Z558O.jpg",
+  "backdrop_path": "/lt3NqorBMWn786m9bzqM0OLdMS8.jpg",
+  "budget": 105000000,
+  "revenue": 115772733,
+  "vote_average": 6.546,
+  "vote_count": 4400,
+  "imdb_id": "tt0296572",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "D"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "VM18"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

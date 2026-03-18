@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 Oscar. 1 win & 7 nominations total",
+  "rated": "PG-13",
+  "released": "25 Dec 1998",
+  "runtime": "115 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Tom Shadyac",
+  "writer": "Patch Adams, Maureen Mylander, Steve Oedekerk",
+  "actors": "Robin Williams, Daniel London, Monica Potter",
+  "plot": "Patch Adams is determined to become a medical doctor because he enjoys helping people. Unfortunately, the medical and scientific community does not appreciate his methods of healing the sick, while the actual patients, medical professors, and hospital nurses all appreciate the work *he* can do, because they are unable to do it.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "26",
+  "imdb_rating": "6.9",
+  "imdb_votes": "128,833",
+  "box_office": "$135,026,902",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=Patch+Adams"
+    },
+    {
+      "source": "Metacritic",
+      "value": "26/100",
+      "link": "https://www.metacritic.com/search/Patch+Adams/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0129290/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0129290/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10312"
+  }
+}

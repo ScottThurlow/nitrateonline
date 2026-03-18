@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 2109,
+  "title": "Rush Hour",
+  "original_title": "Rush Hour",
+  "release_date": "1998-09-18",
+  "runtime": 97,
+  "tagline": "The fastest hands in the East meet the biggest mouth in the West.",
+  "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Cantonese",
+    "Mandarin",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Arthur Sarkissian Productions",
+      "country": "US"
+    },
+    {
+      "name": "Roger Birnbaum Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Brett Ratner"
+  ],
+  "writers": [
+    {
+      "name": "Jim Kouf",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ross LaManna",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ross LaManna",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Producer"
+    },
+    {
+      "name": "Arthur M. Sarkissian",
+      "job": "Producer"
+    },
+    {
+      "name": "Jay Stern",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "character": "Lee",
+      "order": 0
+    },
+    {
+      "name": "Chris Tucker",
+      "character": "Carter",
+      "order": 1
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Griffin",
+      "order": 2
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Captain Diel",
+      "order": 3
+    },
+    {
+      "name": "Elizabeth Peña",
+      "character": "Johnson",
+      "order": 4
+    },
+    {
+      "name": "Chris Penn",
+      "character": "Clive",
+      "order": 5
+    },
+    {
+      "name": "Mark Rolston",
+      "character": "Agent Russ",
+      "order": 6
+    },
+    {
+      "name": "Tzi Ma",
+      "character": "Consul Han",
+      "order": 7
+    },
+    {
+      "name": "Rex Linn",
+      "character": "Agent Whitney",
+      "order": 8
+    },
+    {
+      "name": "Ken Leung",
+      "character": "Sang",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vmFxRwGbvLEFEYYj2iVcenhPTCV.jpg",
+  "backdrop_path": "/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+  "budget": 33000000,
+  "revenue": 244721064,
+  "vote_average": 7.061,
+  "vote_count": 5533,
+  "imdb_id": "tt0120812",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

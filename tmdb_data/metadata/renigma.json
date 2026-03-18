@@ -1,0 +1,153 @@
+{
+  "tmdb_id": 10491,
+  "title": "Enigma",
+  "original_title": "Enigma",
+  "release_date": "2001-01-22",
+  "runtime": 119,
+  "tagline": "Unlock the secret.",
+  "overview": "The story of the WWII project to crack the code behind the Enigma machine, used by the Germans to encrypt messages sent to their submarines.",
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller",
+    "Romance",
+    "War"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Senator Film",
+      "country": "DE"
+    },
+    {
+      "name": "Meespierson Film CV",
+      "country": "NL"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Jagged Films",
+      "country": "US"
+    },
+    {
+      "name": "Broadway Video",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Apted"
+  ],
+  "writers": [
+    {
+      "name": "Tom Stoppard",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Harris",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lorne Michaels",
+      "job": "Producer"
+    },
+    {
+      "name": "Mick Jagger",
+      "job": "Producer"
+    },
+    {
+      "name": "David Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hanno Huth",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael White",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Victoria Pearman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Thomas Garvin",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dougray Scott",
+      "character": "Tom Jericho",
+      "order": 0
+    },
+    {
+      "name": "Kate Winslet",
+      "character": "Hester Wallace",
+      "order": 1
+    },
+    {
+      "name": "Saffron Burrows",
+      "character": "Claire Romilly",
+      "order": 2
+    },
+    {
+      "name": "Jeremy Northam",
+      "character": "Mr. Wigram",
+      "order": 3
+    },
+    {
+      "name": "Nikolaj Coster-Waldau",
+      "character": "Puck",
+      "order": 4
+    },
+    {
+      "name": "Tom Hollander",
+      "character": "Logie",
+      "order": 5
+    },
+    {
+      "name": "Donald Sumpter",
+      "character": "Leveret",
+      "order": 6
+    },
+    {
+      "name": "Matthew Macfadyen",
+      "character": "Cave",
+      "order": 7
+    },
+    {
+      "name": "Richard Leaf",
+      "character": "Baxter",
+      "order": 8
+    },
+    {
+      "name": "Bohdan Poraj",
+      "character": "Pinker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7gBFkDYBqvSzrPOWlpGTXRp97NQ.jpg",
+  "backdrop_path": "/pE334YKo9NNgee3VEGl6VR6gGSZ.jpg",
+  "budget": 0,
+  "revenue": 15705007,
+  "vote_average": 6.313,
+  "vote_count": 329,
+  "imdb_id": "tt0157583",
+  "status": "Released"
+}

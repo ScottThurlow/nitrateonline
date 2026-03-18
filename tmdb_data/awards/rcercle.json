@@ -1,0 +1,40 @@
+{
+  "year": "1970",
+  "awards": "N/A",
+  "rated": "Not Rated",
+  "released": "20 Oct 1970",
+  "runtime": "140 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Jean-Pierre Melville",
+  "writer": "Jean-Pierre Melville",
+  "actors": "Alain Delon, Bourvil, Gian Maria Volontè",
+  "plot": "On the eve of his release after five years imprisoned, the thief Corey is contacted by one guard of the prison that offers him a jewelry heist. However Corey seeks out his former boss Rico and steals money from him. Rico sends two gangsters to hunt Corey down and retrieve the stolen amount. Meanwhile the criminal Vogel is transported by train by the Police Officer Mattei and succeeds to escape. Corey drives from Marseille to Paris and Vogel hides in the trunk of his car. Corey finds him but does not object to ride Vogel to Paris hidden in the trunk. When the gangsters sent by Rico cut in Corey's car, Vogel saves him from the criminals, but Corey loses the money. Without money, Corey decides to heist the jewelry with Vogel and invites the former police detective Jansen to team-up with them. The trio executes a perfect heist but Rico is seeking revenge and Mattei is an unethical but efficient police officer capable to use any means to resolve the case.",
+  "language": "French",
+  "country": "France, Italy",
+  "metascore": "92",
+  "imdb_rating": "7.9",
+  "imdb_votes": "31,078",
+  "box_office": "$432,820",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "96%",
+      "link": "https://www.rottentomatoes.com/search?search=Le+cercle+rouge"
+    },
+    {
+      "source": "Metacritic",
+      "value": "92/100",
+      "link": "https://www.metacritic.com/search/Le+cercle+rouge/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0065531/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0065531/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11657"
+  }
+}

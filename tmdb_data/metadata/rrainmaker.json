@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 11975,
+  "title": "The Rainmaker",
+  "original_title": "The Rainmaker",
+  "release_date": "1997-11-18",
+  "runtime": 135,
+  "tagline": "They were totally unqualified to try the case of a lifetime... but every underdog has his day.",
+  "overview": "Fresh out of law school and desperate for work, idealistic rookie Rudy Baylor takes on a powerful insurance company accused of denying a dying boy’s claim. Teaming up with a scrappy, unlicensed paralegal, he finds himself in a David-versus-Goliath courtroom battle that tests his ethics, courage, and belief in justice.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Douglas/Reuther Productions",
+      "country": "US"
+    },
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    },
+    {
+      "name": "Constellation Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Francis Ford Coppola"
+  ],
+  "writers": [
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Herr",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Grisham",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Douglas",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred Fuchs",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Reuther",
+      "job": "Producer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Rudy Baylor",
+      "order": 0
+    },
+    {
+      "name": "Claire Danes",
+      "character": "Kelly Riker",
+      "order": 1
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Deck Shifflet",
+      "order": 2
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Leo F. Drummond",
+      "order": 3
+    },
+    {
+      "name": "Mary Kay Place",
+      "character": "Dot Black",
+      "order": 4
+    },
+    {
+      "name": "Dean Stockwell",
+      "character": "Judge Harvey Hale",
+      "order": 5
+    },
+    {
+      "name": "Mickey Rourke",
+      "character": "Bruiser Stone",
+      "order": 6
+    },
+    {
+      "name": "Danny Glover",
+      "character": "Richter Tyrone Kipler",
+      "order": 7
+    },
+    {
+      "name": "Virginia Madsen",
+      "character": "Jackie Lemancyzk",
+      "order": 8
+    },
+    {
+      "name": "Randy Travis",
+      "character": "Billy Porter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg",
+  "backdrop_path": "/c9RwZm40IizTKwWPO933SyDufHS.jpg",
+  "budget": 40000000,
+  "revenue": 45916769,
+  "vote_average": 7.015,
+  "vote_count": 1442,
+  "imdb_id": "tt0119978",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

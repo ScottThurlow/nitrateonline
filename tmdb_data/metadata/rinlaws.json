@@ -1,0 +1,143 @@
+{
+  "tmdb_id": 5146,
+  "title": "The In-Laws",
+  "original_title": "The In-Laws",
+  "release_date": "2003-05-23",
+  "runtime": 98,
+  "tagline": "He's not losing his daughter. He's gaining a madman.",
+  "overview": "Right before his daughter's wedding, a mild-mannered foot doctor discovers that his new in-laws are international smugglers.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "French",
+    "Mandarin",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gerber Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Furthur Films",
+      "country": "US"
+    },
+    {
+      "name": "MHF Zweite Academy Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Andrew Fleming"
+  ],
+  "writers": [
+    {
+      "name": "Nat Mauldin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ed Solomon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andrew Bergman",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bill Gerber",
+      "job": "Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Simon",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Todman Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "Oliver Hengst",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tracee Stanley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael Douglas",
+      "character": "Steve Tobias",
+      "order": 0
+    },
+    {
+      "name": "Albert Brooks",
+      "character": "Jerry Peyser",
+      "order": 1
+    },
+    {
+      "name": "Ryan Reynolds",
+      "character": "Mark Tobias",
+      "order": 2
+    },
+    {
+      "name": "Candice Bergen",
+      "character": "Judy Tobias",
+      "order": 3
+    },
+    {
+      "name": "Lindsay Sloane",
+      "character": "Melissa Peyser",
+      "order": 4
+    },
+    {
+      "name": "Maria Ricossa",
+      "character": "Katherine Peyser",
+      "order": 5
+    },
+    {
+      "name": "Michael Bodnar",
+      "character": "Bodyguard",
+      "order": 6
+    },
+    {
+      "name": "Vladimir Radian",
+      "character": "Cherkasov",
+      "order": 7
+    },
+    {
+      "name": "Robin Tunney",
+      "character": "Angela Harris",
+      "order": 8
+    },
+    {
+      "name": "Susan Aceron",
+      "character": "Nurse",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uziAQLzimrP8eW3w37F8lo8CnD3.jpg",
+  "backdrop_path": "/2cT8Q75gYiseEuPOE55n3lmBpRk.jpg",
+  "budget": 40000000,
+  "revenue": 26800000,
+  "vote_average": 5.6,
+  "vote_count": 304,
+  "imdb_id": "tt0314786",
+  "status": "Released"
+}

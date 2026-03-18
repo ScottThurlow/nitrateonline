@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 12112,
+  "title": "He Loves Me… He Loves Me Not",
+  "original_title": "À la folie... pas du tout",
+  "release_date": "2002-03-27",
+  "runtime": 92,
+  "tagline": "Every love story has two sides.",
+  "overview": "A talented art student named Angélique is passionately in love with Dr. Loïc Le Garrec, a handsome married man whom she believes will leave his wife. When he eventually decides to stay in his marriage, it causes Angélique to spiral. However, as the story shifts from Angélique's perspective to Loïc's, the surprising truth about their relationship is revealed.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Téléma",
+      "country": ""
+    },
+    {
+      "name": "TPS Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Cofimage 12",
+      "country": ""
+    },
+    {
+      "name": "TF1 Films Production",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Laetitia Colombani"
+  ],
+  "writers": [
+    {
+      "name": "Caroline Thivel",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Laetitia Colombani",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dominique Brunner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charles Gassot",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Audrey Tautou",
+      "character": "Angélique",
+      "order": 0
+    },
+    {
+      "name": "Isabelle Carré",
+      "character": "Rachel",
+      "order": 1
+    },
+    {
+      "name": "Samuel Le Bihan",
+      "character": "Loïc",
+      "order": 2
+    },
+    {
+      "name": "Clément Sibony",
+      "character": "David",
+      "order": 3
+    },
+    {
+      "name": "Sophie Guillemin",
+      "character": "Héloïse",
+      "order": 4
+    },
+    {
+      "name": "Éric Savin",
+      "character": "Julien",
+      "order": 5
+    },
+    {
+      "name": "Élodie Navarre",
+      "character": "Anita",
+      "order": 6
+    },
+    {
+      "name": "Vania Vilers",
+      "character": "Le commissaire",
+      "order": 7
+    },
+    {
+      "name": "Michèle Garay",
+      "character": "Claire Belmont",
+      "order": 8
+    },
+    {
+      "name": "Catherine Cyler",
+      "character": "Jeanne",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dW5txTgCQADtHSyl2iRIc05iANX.jpg",
+  "backdrop_path": "/xwPS4U5DoAohQJ8orDsEEg22zot.jpg",
+  "budget": 0,
+  "revenue": 5126264,
+  "vote_average": 6.7,
+  "vote_count": 249,
+  "imdb_id": "tt0291579",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 BAFTA Award12 wins & 5 nominations total",
+  "rated": "R",
+  "released": "01 May 1998",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Shane Meadows",
+  "writer": "Paul Fraser, Shane Meadows",
+  "actors": "Bob Hoskins, Danny Nussbaum, Toby",
+  "plot": "In a typical English working-class town, the juveniles have nothing more to do than hang around in gangs. One day, Alan Darcy, a highly motivated man with the same kind of youth experience, starts trying to get the young people off the street and into doing something they can believe in: Boxing. Soon he opens a training facility which is accepted gratefully by them and the gangs start to grow together into friends. Darcy manages to organize a public fight for them to prove what they have learned. A training camp with hiking tours into the mountains of Wales forge the group into a tight-knit club society. With the day of the fight drawing closer, the young boxers get more and more excited.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "N/A",
+  "imdb_rating": "7.0",
+  "imdb_votes": "2,737",
+  "box_office": "$91,805",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=TwentyFourSeven"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120391/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120391/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22913"
+  }
+}

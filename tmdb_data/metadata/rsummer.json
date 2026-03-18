@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 3597,
+  "title": "I Know What You Did Last Summer",
+  "original_title": "I Know What You Did Last Summer",
+  "release_date": "1997-10-17",
+  "runtime": 102,
+  "tagline": "If you're going to bury the truth, make sure it stays buried.",
+  "overview": "After an accident on a winding road, four teens make the fatal mistake of dumping their victim's body into the sea. Exactly one year later, the deadly secret resurfaces as they're stalked by a hook-handed figure.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mandalay Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jim Gillespie"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Williamson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lois Duncan",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Stokely Chaffin",
+      "job": "Producer"
+    },
+    {
+      "name": "Erik Feig",
+      "job": "Producer"
+    },
+    {
+      "name": "William S. Beasley",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Love Hewitt",
+      "character": "Julie James",
+      "order": 0
+    },
+    {
+      "name": "Freddie Prinze Jr.",
+      "character": "Ray Bronson",
+      "order": 1
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "character": "Helen Shivers",
+      "order": 2
+    },
+    {
+      "name": "Ryan Phillippe",
+      "character": "Barry Cox",
+      "order": 3
+    },
+    {
+      "name": "Bridgette Wilson-Sampras",
+      "character": "Elsa Shivers",
+      "order": 4
+    },
+    {
+      "name": "Johnny Galecki",
+      "character": "Max Neurick",
+      "order": 5
+    },
+    {
+      "name": "Muse Watson",
+      "character": "Benjamin Willis / Fisherman",
+      "order": 6
+    },
+    {
+      "name": "Anne Heche",
+      "character": "Melissa Egan",
+      "order": 7
+    },
+    {
+      "name": "Stuart Greer",
+      "character": "David Caporizo",
+      "order": 8
+    },
+    {
+      "name": "Dan Albright",
+      "character": "Sheriff",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+  "backdrop_path": "/6wpIPoE1H7N5yCuFsfcYoGBhFlP.jpg",
+  "budget": 17000000,
+  "revenue": 125586134,
+  "vote_average": 5.998,
+  "vote_count": 3191,
+  "imdb_id": "tt0119345",
+  "status": "Released"
+}

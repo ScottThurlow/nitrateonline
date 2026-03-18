@@ -1,0 +1,185 @@
+{
+  "tmdb_id": 10610,
+  "title": "The Medallion",
+  "original_title": "The Medallion",
+  "release_date": "2003-08-15",
+  "runtime": 88,
+  "tagline": "Follow the mystery. Fight the enemy. Discover the power of The Medallion.",
+  "overview": "A Hong Kong detective suffers a fatal accident involving a mysterious medallion and is transformed into an immortal warrior with superhuman powers.",
+  "genres": [
+    "Thriller",
+    "Fantasy",
+    "Action",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Living Films",
+      "country": "TH"
+    },
+    {
+      "name": "Emperor Multimedia Group",
+      "country": "HK"
+    },
+    {
+      "name": "Golden Port Productions Ltd.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Gordon Chan"
+  ],
+  "writers": [
+    {
+      "name": "Alfred Cheung Kin-Ting",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gordon Chan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bey Logan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alfred Cheung Kin-Ting",
+      "job": "Characters"
+    },
+    {
+      "name": "Paul Wheeler",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bennett Davlin",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alfred Cheung Kin-Ting",
+      "job": "Producer"
+    },
+    {
+      "name": "Jackie Chan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Albert Yeung",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Willie Chan Chi-Keung",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "character": "Eddie Yang",
+      "order": 0
+    },
+    {
+      "name": "Lee Evans",
+      "character": "Arthur Watson",
+      "order": 1
+    },
+    {
+      "name": "Claire Forlani",
+      "character": "Nicole James",
+      "order": 2
+    },
+    {
+      "name": "Christy Chung Lai-Tai",
+      "character": "Charlotte Watson",
+      "order": 3
+    },
+    {
+      "name": "Julian Sands",
+      "character": "Snakehead",
+      "order": 4
+    },
+    {
+      "name": "Anthony Wong Chau-Sang",
+      "character": "Lester Wong",
+      "order": 5
+    },
+    {
+      "name": "Johann Myers",
+      "character": "Giscard",
+      "order": 6
+    },
+    {
+      "name": "John Rhys-Davies",
+      "character": "Cmdr. Hammerstock-Smythe",
+      "order": 7
+    },
+    {
+      "name": "Alexander Bao",
+      "character": "Jai",
+      "order": 8
+    },
+    {
+      "name": "Lau Siu-Ming",
+      "character": "Antiquarium Dealer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lbjFWKfe8WdS8Pj6WVPlyEKeVEo.jpg",
+  "backdrop_path": "/bfegQ8scwwEASEXZzdtTNQErY7F.jpg",
+  "budget": 38000000,
+  "revenue": 34300000,
+  "vote_average": 5.605,
+  "vote_count": 1173,
+  "imdb_id": "tt0288045",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

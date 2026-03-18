@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 17941,
+  "title": "Hush",
+  "original_title": "Hush",
+  "release_date": "1998-03-06",
+  "runtime": 95,
+  "tagline": "Don't breathe a word.",
+  "overview": "Jackson and Helen are in love and about to have their first child when they move in with Jackson's mother, Martha, in order to take care of the family estate. But all is not well in this household. Martha is jealous of her son's affection for Helen, and, despite her Southern smile, she's starting to act strangely. As Helen tries to create a happy home life, Martha attempts to divide the family so that Jackson will become hers alone.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jonathan Darby"
+  ],
+  "writers": [
+    {
+      "name": "Jonathan Darby",
+      "job": "Writer"
+    },
+    {
+      "name": "Jane Rusconi",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Douglas Wick",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jessica Lange",
+      "character": "Martha Baring",
+      "order": 0
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Helen Baring",
+      "order": 1
+    },
+    {
+      "name": "Johnathon Schaech",
+      "character": "Jackson Baring",
+      "order": 2
+    },
+    {
+      "name": "Nina Foch",
+      "character": "Alice Baring",
+      "order": 3
+    },
+    {
+      "name": "Debi Mazar",
+      "character": "Lisa",
+      "order": 4
+    },
+    {
+      "name": "Kaiulani Lee",
+      "character": "Sister O'Shaughnessy",
+      "order": 5
+    },
+    {
+      "name": "David Thornton",
+      "character": "Gavin",
+      "order": 6
+    },
+    {
+      "name": "Hal Holbrook",
+      "character": "Dr. Franklin Hill",
+      "order": 7
+    },
+    {
+      "name": "Richard Lineback",
+      "character": "Hal Bentall",
+      "order": 8
+    },
+    {
+      "name": "Richard Kohn",
+      "character": "Clayton Richards",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8MYep3CqMoPZPbuISXPqzIEpuPv.jpg",
+  "backdrop_path": "/rMCZoAVjXmZq26ujyq84khtRG4P.jpg",
+  "budget": 21000000,
+  "revenue": 13583690,
+  "vote_average": 5.7,
+  "vote_count": 324,
+  "imdb_id": "tt0118744",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

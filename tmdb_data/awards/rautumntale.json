@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "5 wins & 3 nominations total",
+  "rated": "PG",
+  "released": "23 Sep 1998",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Éric Rohmer",
+  "writer": "Éric Rohmer",
+  "actors": "Marie Rivière, Béatrice Romand, Alain Libolt",
+  "plot": "Magali, 45, is a wine producer in the south of France. She's a widow, and her best friend, Isabelle, decides to find her a new husband. She puts an ad in the local newspaper and finds a nice man, Gérald. At Isabelle's daughter's wedding, Magali eventually meets Gérald. But there's another man around, Etienne...",
+  "language": "French",
+  "country": "France",
+  "metascore": "81",
+  "imdb_rating": "7.4",
+  "imdb_votes": "6,652",
+  "box_office": "$2,205,339",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=Autumn+Tale"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/Autumn+Tale/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0137439/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0137439/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10239"
+  }
+}

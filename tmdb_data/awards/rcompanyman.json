@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "03 May 2000",
+  "runtime": "86 min",
+  "genre": "Comedy",
+  "director": "Peter Askin, Douglas McGrath",
+  "writer": "Peter Askin, Douglas McGrath",
+  "actors": "Douglas McGrath, Sigourney Weaver, Paul Guilfoyle",
+  "plot": "A high-school teacher in the 1960s becomes an international spy and becomes involved in a plot to overthrow Fidel Castro.",
+  "language": "English",
+  "country": "United Kingdom, France, United States",
+  "metascore": "18",
+  "imdb_rating": "5.2",
+  "imdb_votes": "2,200",
+  "box_office": "$146,193",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=Company+Man"
+    },
+    {
+      "source": "Metacritic",
+      "value": "18/100",
+      "link": "https://www.metacritic.com/search/Company+Man/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0177650/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0177650/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/44412"
+  }
+}

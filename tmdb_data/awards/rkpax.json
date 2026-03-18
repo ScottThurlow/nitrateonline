@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 nominations total",
+  "rated": "PG-13",
+  "released": "26 Oct 2001",
+  "runtime": "120 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Iain Softley",
+  "writer": "Gene Brewer, Charles Leavitt",
+  "actors": "Kevin Spacey, Jeff Bridges, Mary McCormack",
+  "plot": "PROT is a patient at a mental hospital who claims to be from a faraway planet named K-PAX. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "49",
+  "imdb_rating": "7.4",
+  "imdb_votes": "201,388",
+  "box_office": "$50,338,485",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=K-PAX"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/K-PAX/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0272152/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0272152/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/167"
+  }
+}

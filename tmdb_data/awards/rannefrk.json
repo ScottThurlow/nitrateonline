@@ -1,0 +1,35 @@
+{
+  "year": "1995",
+  "awards": "Won 1 Oscar. 9 wins & 6 nominations total",
+  "rated": "PG",
+  "released": "08 Jun 1995",
+  "runtime": "117 min",
+  "genre": "Documentary, Biography, War",
+  "director": "Jon Blair",
+  "writer": "Jon Blair, Anne Frank",
+  "actors": "Kenneth Branagh, Glenn Close, Isa Baschwitz",
+  "plot": "Using previously unreleased archival material in addition to contemporary interviews, this academy award-winning documentary tells the story of the Frank family and presents the first fully-rounded portrait of their brash and free-spirited daughter Anne, perhaps the world's most famous victim of the Holocaust.",
+  "language": "English, German, Dutch",
+  "country": "United Kingdom, United States, Netherlands",
+  "metascore": "N/A",
+  "imdb_rating": "8.1",
+  "imdb_votes": "1,386",
+  "box_office": "$1,310,200",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "97%",
+      "link": "https://www.rottentomatoes.com/search?search=Anne+Frank+Remembered"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0112373/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0112373/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/51352"
+  }
+}

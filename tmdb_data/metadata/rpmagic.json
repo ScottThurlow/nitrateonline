@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 6435,
+  "title": "Practical Magic",
+  "original_title": "Practical Magic",
+  "release_date": "1998-10-16",
+  "runtime": 104,
+  "tagline": "For two sisters from a family of witches, falling in love is the trickiest spell of all.",
+  "overview": "Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Di Novi Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Fortis Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Griffin Dunne"
+  ],
+  "writers": [
+    {
+      "name": "Robin Swicord",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Adam Brooks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alice Hoffman",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Denise Di Novi",
+      "job": "Producer"
+    },
+    {
+      "name": "Mary McLaglen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "character": "Sally Owens",
+      "order": 0
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Gillian Owens",
+      "order": 1
+    },
+    {
+      "name": "Stockard Channing",
+      "character": "Aunt Frances",
+      "order": 2
+    },
+    {
+      "name": "Dianne Wiest",
+      "character": "Aunt Jet",
+      "order": 3
+    },
+    {
+      "name": "Goran Višnjić",
+      "character": "Jimmy Angelov",
+      "order": 4
+    },
+    {
+      "name": "Aidan Quinn",
+      "character": "Gary Hallet",
+      "order": 5
+    },
+    {
+      "name": "Evan Rachel Wood",
+      "character": "Kylie Owens",
+      "order": 6
+    },
+    {
+      "name": "Alexandra Artrip",
+      "character": "Antonia Owens",
+      "order": 7
+    },
+    {
+      "name": "Mark Feuerstein",
+      "character": "Michael",
+      "order": 8
+    },
+    {
+      "name": "Caprice Benedetti",
+      "character": "Maria Owens",
+      "order": 9
+    }
+  ],
+  "poster_path": "/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+  "backdrop_path": "/mGznDQ8opBuRd004ChVWhDqjAyW.jpg",
+  "budget": 75000000,
+  "revenue": 46733235,
+  "vote_average": 6.765,
+  "vote_count": 1677,
+  "imdb_id": "tt0120791",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

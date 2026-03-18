@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 16888,
+  "title": "The Ladies Man",
+  "original_title": "The Ladies Man",
+  "release_date": "2000-10-13",
+  "runtime": 84,
+  "tagline": "He's cool. He's clean. He's a love machine.",
+  "overview": "Because of his salacious language, late-night radio advice-show host Leon Phelps, along with his sweet and loyal producer Julie, is fired from his Chicago gig. Leon gets a letter from a former lover promising a life of wealth, but he doesn't know who she is. Can Leon find his secret sugar-mama? What about Julie?",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "SNL Studios",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Reginald Hudlin"
+  ],
+  "writers": [
+    {
+      "name": "Tim Meadows",
+      "job": "Writer"
+    },
+    {
+      "name": "Dennis McNicholas",
+      "job": "Writer"
+    },
+    {
+      "name": "Harper Steele",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Erin Fraser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Thomas Levine",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lorne Michaels",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert K. Weiss",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tim Meadows",
+      "character": "Leon Phelps",
+      "order": 0
+    },
+    {
+      "name": "Karyn Parsons",
+      "character": "Julie Simmons",
+      "order": 1
+    },
+    {
+      "name": "Billy Dee Williams",
+      "character": "Lester",
+      "order": 2
+    },
+    {
+      "name": "John Witherspoon",
+      "character": "Scrap Iron",
+      "order": 3
+    },
+    {
+      "name": "Jill Talley",
+      "character": "Candy",
+      "order": 4
+    },
+    {
+      "name": "Lee Evans",
+      "character": "Barney",
+      "order": 5
+    },
+    {
+      "name": "Will Ferrell",
+      "character": "Lance DeLune",
+      "order": 6
+    },
+    {
+      "name": "Sofia Milos",
+      "character": "Cheryl",
+      "order": 7
+    },
+    {
+      "name": "Eugene Levy",
+      "character": "Bucky Kent",
+      "order": 8
+    },
+    {
+      "name": "David Huband",
+      "character": "Frank",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kKMhGSwydCVjrOWwggDlSvcgzCl.jpg",
+  "backdrop_path": "/lzWnfs5cR7JYjP7zrvNdD4hxrCz.jpg",
+  "budget": 24000000,
+  "revenue": 13700000,
+  "vote_average": 5.3,
+  "vote_count": 148,
+  "imdb_id": "tt0213790",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

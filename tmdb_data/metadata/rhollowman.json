@@ -1,0 +1,220 @@
+{
+  "tmdb_id": 9383,
+  "title": "Hollow Man",
+  "original_title": "Hollow Man",
+  "release_date": "2000-08-04",
+  "runtime": 112,
+  "tagline": "Think you’re alone? Think again.",
+  "overview": "Cocky researcher Sebastian Caine is working on a project to make living creatures invisible. Determined to achieve the ultimate breakthrough, Caine pushes his team to move to the next phase — using himself as the subject. The test is a success, but when the process can't be reversed and Caine seems doomed to future without flesh, he starts to turn increasingly dangerous.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Red Wagon Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Global Medien KG",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Paul Verhoeven"
+  ],
+  "writers": [
+    {
+      "name": "Andrew W. Marlowe",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gary Scott Thompson",
+      "job": "Story"
+    },
+    {
+      "name": "Andrew W. Marlowe",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alan Marshall",
+      "job": "Producer"
+    },
+    {
+      "name": "Marion Rosenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Douglas Wick",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Bacon",
+      "character": "Sebastian Caine",
+      "order": 0
+    },
+    {
+      "name": "Elisabeth Shue",
+      "character": "Linda McKay",
+      "order": 1
+    },
+    {
+      "name": "Josh Brolin",
+      "character": "Matthew Kensington",
+      "order": 2
+    },
+    {
+      "name": "Kim Dickens",
+      "character": "Sarah Kennedy",
+      "order": 3
+    },
+    {
+      "name": "Greg Grunberg",
+      "character": "Carter Abbey",
+      "order": 4
+    },
+    {
+      "name": "Joey Slotnick",
+      "character": "Frank Chase",
+      "order": 5
+    },
+    {
+      "name": "Mary Randle",
+      "character": "Janice Walton",
+      "order": 6
+    },
+    {
+      "name": "William Devane",
+      "character": "Dr. Kramer",
+      "order": 7
+    },
+    {
+      "name": "Rhona Mitra",
+      "character": "Sebastian's Neighbor",
+      "order": 8
+    },
+    {
+      "name": "Tom Woodruff Jr.",
+      "character": "Isabelle the Gorilla",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sd3qUIv5uoP2oTbqv66CzXSPjKG.jpg",
+  "backdrop_path": "/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
+  "budget": 95000000,
+  "revenue": 190213455,
+  "vote_average": 5.958,
+  "vote_count": 2709,
+  "imdb_id": "tt0164052",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

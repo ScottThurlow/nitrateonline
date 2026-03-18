@@ -1,0 +1,231 @@
+{
+  "tmdb_id": 9532,
+  "title": "Final Destination",
+  "original_title": "Final Destination",
+  "release_date": "2000-03-17",
+  "runtime": 98,
+  "tagline": "No accidents. No coincidences. No escapes. You can't cheat death.",
+  "overview": "After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Hard Eight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Zide-Perry Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Wong"
+  ],
+  "writers": [
+    {
+      "name": "James Wong",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeffrey Reddick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Glen Morgan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Burpo",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Jeffrey Reddick",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Richard Brener",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Craig Perry",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Witten",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Warren Zide",
+      "job": "Producer"
+    },
+    {
+      "name": "Glen Morgan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Devon Sawa",
+      "character": "Alex Browning",
+      "order": 0
+    },
+    {
+      "name": "Ali Larter",
+      "character": "Clear Rivers",
+      "order": 1
+    },
+    {
+      "name": "Kerr Smith",
+      "character": "Carter Horton",
+      "order": 2
+    },
+    {
+      "name": "Kristen Cloke",
+      "character": "Valerie Lewton",
+      "order": 3
+    },
+    {
+      "name": "Daniel Roebuck",
+      "character": "Agent Weine",
+      "order": 4
+    },
+    {
+      "name": "Roger Guenveur Smith",
+      "character": "Agent Schreck",
+      "order": 5
+    },
+    {
+      "name": "Chad Donella",
+      "character": "Tod Waggner",
+      "order": 6
+    },
+    {
+      "name": "Seann William Scott",
+      "character": "Billy Hitchcock",
+      "order": 7
+    },
+    {
+      "name": "Tony Todd",
+      "character": "Bludworth",
+      "order": 8
+    },
+    {
+      "name": "Amanda Detmer",
+      "character": "Terry Chaney",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+  "backdrop_path": "/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
+  "budget": 23000000,
+  "revenue": 112880294,
+  "vote_average": 6.63,
+  "vote_count": 6545,
+  "imdb_id": "tt0195714",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

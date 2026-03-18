@@ -1,0 +1,182 @@
+{
+  "tmdb_id": 10307,
+  "title": "Stigmata",
+  "original_title": "Stigmata",
+  "release_date": "1999-09-02",
+  "runtime": 103,
+  "tagline": "The messenger must be silenced.",
+  "overview": "A young woman with no strong religious beliefs, Frankie Paige begins having strange and violent experiences, showing signs of the wounds that Jesus received when crucified. When the Vatican gets word of Frankie's situation, a high-ranking cardinal requests that the Rev. Andrew Kiernan investigate her case. Soon Kiernan realizes that very sinister forces are at work, and tries to rescue Frankie from the entity that is plaguing her.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian",
+    "Portuguese"
+  ],
+  "production_companies": [
+    {
+      "name": "FGM Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rupert Wainwright"
+  ],
+  "writers": [
+    {
+      "name": "Tom Lazarus",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rick Ramage",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom Lazarus",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank Mancuso Jr.",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patricia Arquette",
+      "character": "Frankie Paige",
+      "order": 0
+    },
+    {
+      "name": "Gabriel Byrne",
+      "character": "Father Andrew Kiernan",
+      "order": 1
+    },
+    {
+      "name": "Jonathan Pryce",
+      "character": "Cardinal Daniel Houseman",
+      "order": 2
+    },
+    {
+      "name": "Nia Long",
+      "character": "Donna Chadway",
+      "order": 3
+    },
+    {
+      "name": "Thomas Kopache",
+      "character": "Father Durning",
+      "order": 4
+    },
+    {
+      "name": "Rade Šerbedžija",
+      "character": "Marion Petrocelli",
+      "order": 5
+    },
+    {
+      "name": "Enrico Colantoni",
+      "character": "Father Dario",
+      "order": 6
+    },
+    {
+      "name": "Dick Latessa",
+      "character": "Father Gianni Delmonico",
+      "order": 7
+    },
+    {
+      "name": "Portia De Rossi",
+      "character": "Jennifer Kelliho",
+      "order": 8
+    },
+    {
+      "name": "Patrick Muldoon",
+      "character": "Steven",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sKS1Vuqj7OQpOumfs6ArC0TICTN.jpg",
+  "backdrop_path": "/i9tMK3nzmZJ8MBG92iIxGXHWDq4.jpg",
+  "budget": 29000000,
+  "revenue": 50041732,
+  "vote_average": 6.287,
+  "vote_count": 1210,
+  "imdb_id": "tt0145531",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

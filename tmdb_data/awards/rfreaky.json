@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 wins & 11 nominations total",
+  "rated": "PG",
+  "released": "06 Aug 2003",
+  "runtime": "97 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Mark Waters",
+  "writer": "Mary Rodgers, Heather Hach, Leslie Dixon",
+  "actors": "Jamie Lee Curtis, Lindsay Lohan, Mark Harmon",
+  "plot": "The wide generation gap between Tess Coleman and her teenage daughter Anna is more than evident. They simply cannot understand each other's preferences. On a Thursday night they have a big argument in a Chinese restaurant. Both receive a fortune cookie each from the restaurant owner's mother which causes them to switch bodies next day. As they adjust with their new personalities, they begin to understand each other more and eventually it's the mutual self-respect that sorts the things out.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "metascore": "70",
+  "imdb_rating": "6.4",
+  "imdb_votes": "176,301",
+  "box_office": "$110,230,332",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=Freaky+Friday"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Freaky+Friday/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0322330/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0322330/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10330"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "02 Oct 1998",
+  "runtime": "82 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "John Fortenberry",
+  "writer": "Steve Koren, Will Ferrell, Chris Kattan",
+  "actors": "Chris Kattan, Will Ferrell, Raquel Gardner",
+  "plot": "The Roxbury Guys, Steve and Doug Butabi, want to get into the best club in town, and also hope to open their own club. Vivica, a gold-digging supermodel, and her friend Cambi try to work the Roxbury Guys for their money, only to find out the pair is broke.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "26",
+  "imdb_rating": "6.2",
+  "imdb_votes": "68,191",
+  "box_office": "$30,331,165",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "11%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Night+at+the+Roxbury"
+    },
+    {
+      "source": "Metacritic",
+      "value": "26/100",
+      "link": "https://www.metacritic.com/search/A+Night+at+the+Roxbury/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120770/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120770/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9429"
+  }
+}

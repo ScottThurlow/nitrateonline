@@ -1,0 +1,124 @@
+{
+  "tmdb_id": 40562,
+  "title": "Committed",
+  "original_title": "Committed",
+  "release_date": "2000-04-28",
+  "runtime": 98,
+  "tagline": "She'll get what she wants... no matter what it takes!",
+  "overview": "After her husband, Carl, suddenly leaves, Joline travels from New York to Texas to track him down. Although Joline tries to remain upbeat, she is discouraged when she discovers that Carl already has a new girlfriend, the lovely Carmen. Familiarizing herself with Carl's new home and friends, Joline gets company in the form of her brother, Jay. Will Joline win Carl back, or are there other romantic possibilities on her horizon?",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lisa Krueger"
+  ],
+  "writers": [
+    {
+      "name": "Lisa Krueger",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dean Silvers",
+      "job": "Producer"
+    },
+    {
+      "name": "Marlen Hecht",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Amy Slotnick",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Heather Graham",
+      "character": "Joline",
+      "order": 0
+    },
+    {
+      "name": "Casey Affleck",
+      "character": "Jay",
+      "order": 1
+    },
+    {
+      "name": "Luke Wilson",
+      "character": "Carl",
+      "order": 2
+    },
+    {
+      "name": "Goran Višnjić",
+      "character": "Neil",
+      "order": 3
+    },
+    {
+      "name": "Patricia Velásquez",
+      "character": "Carmen",
+      "order": 4
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "T-Bo",
+      "order": 5
+    },
+    {
+      "name": "Summer Phoenix",
+      "character": "Meg",
+      "order": 6
+    },
+    {
+      "name": "Art Alexakis",
+      "character": "New York Car Thief",
+      "order": 7
+    },
+    {
+      "name": "Mary Kay Place",
+      "character": "Psychiatrist",
+      "order": 8
+    },
+    {
+      "name": "Dylan Baker",
+      "character": "Carl's Editor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/10vXic9IMUTW5FrB1ivmieM2ydY.jpg",
+  "backdrop_path": "/awVyzo630F3p0M7WnW3nJt5sQIo.jpg",
+  "budget": 3000000,
+  "revenue": 0,
+  "vote_average": 4.8,
+  "vote_count": 61,
+  "imdb_id": "tt0144142",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 6 nominations total",
+  "rated": "PG",
+  "released": "03 Jul 2002",
+  "runtime": "99 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "John Schultz",
+  "writer": "Michael Elliot, Jordan Moffet",
+  "actors": "Shad Moss, Jonathan Lipnicki, Morris Chestnut",
+  "plot": "Calvin and his friends, who all live an in orphanage, find old shoes with the faded letters MJ connected to a powerline. One stormy night, they go to get the shoes when Calvin and the shoes are struck by lightning. Calvin now has unbelievable basketball powers and has the chance to play for the NBA.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "47",
+  "imdb_rating": "5.4",
+  "imdb_votes": "23,622",
+  "box_office": "$51,432,760",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=Like+Mike"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/Like+Mike/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0308506/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0308506/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21972"
+  }
+}

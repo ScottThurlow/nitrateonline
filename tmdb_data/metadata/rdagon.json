@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 10836,
+  "title": "Dagon",
+  "original_title": "Dagon",
+  "release_date": "2001-10-12",
+  "runtime": 95,
+  "tagline": "A cursed people... an ancient cult... a nightmare come true.",
+  "overview": "A boating accident off the coast of Spain sends Paul and his girlfriend Barbara to the decrepit fishing village of Imboca. As night falls, people start to disappear and things not quite human start to appear. Paul is pursued by the entire town. Running for his life, he uncovers Imboca's secret..they worship Dagon, a monstrous god of the sea...and Dagon's unholy offspring are on the loose...",
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Galician",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Castelao Productions",
+      "country": "ES"
+    },
+    {
+      "name": "Estudios Picasso",
+      "country": "ES"
+    },
+    {
+      "name": "TV3",
+      "country": "ES"
+    },
+    {
+      "name": "TVG",
+      "country": "ES"
+    },
+    {
+      "name": "Vía Digital",
+      "country": "ES"
+    },
+    {
+      "name": "Xunta de Galicia",
+      "country": "ES"
+    },
+    {
+      "name": "ICEC",
+      "country": "ES"
+    }
+  ],
+  "director": [
+    "Stuart Gordon"
+  ],
+  "writers": [
+    {
+      "name": "Dennis Paoli",
+      "job": "Screenplay"
+    },
+    {
+      "name": "H.P. Lovecraft",
+      "job": "Novel"
+    },
+    {
+      "name": "H.P. Lovecraft",
+      "job": "Original Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carlos Fernández",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julio Fernández",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Yuzna",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ezra Godden",
+      "character": "Paul Marsh",
+      "order": 0
+    },
+    {
+      "name": "Francisco Rabal",
+      "character": "Ezequiel",
+      "order": 1
+    },
+    {
+      "name": "Raquel Meroño",
+      "character": "Bárbara",
+      "order": 2
+    },
+    {
+      "name": "Macarena Gómez",
+      "character": "Uxía Cambarro",
+      "order": 3
+    },
+    {
+      "name": "Brendan Price",
+      "character": "Howard",
+      "order": 4
+    },
+    {
+      "name": "Birgit Bofarull",
+      "character": "Vicki",
+      "order": 5
+    },
+    {
+      "name": "Uxía Blanco",
+      "character": "Ezequiel's Mother",
+      "order": 6
+    },
+    {
+      "name": "Ferran Lahoz",
+      "character": "Priest",
+      "order": 7
+    },
+    {
+      "name": "Joan Minguell",
+      "character": "Xavier Cambarro",
+      "order": 8
+    },
+    {
+      "name": "Alfredo Villa",
+      "character": "Captain Orpheus Cambarro",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8S648eMKObi8ERFS7cSYDocxSaZ.jpg",
+  "backdrop_path": "/nO8lpaJLo1UVIXL7eM5ewwudvtY.jpg",
+  "budget": 4800000,
+  "revenue": 0,
+  "vote_average": 6.146,
+  "vote_count": 461,
+  "imdb_id": "tt0264508",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

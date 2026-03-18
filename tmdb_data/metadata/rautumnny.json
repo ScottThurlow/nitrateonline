@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 10641,
+  "title": "Autumn in New York",
+  "original_title": "Autumn in New York",
+  "release_date": "2000-08-11",
+  "runtime": 103,
+  "tagline": "He fell in love for the first time. She fell in love forever.",
+  "overview": "Will Keane, a Manhattan restaurateur, is content with his playboy lifestyle until he meets Charlotte Fielding, a free-spirited young woman. Together the pair pursue a passionate affair that forces them both to reevaluate what they want out of life, even as fate threatens to steal away their future.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joan Chen"
+  ],
+  "writers": [
+    {
+      "name": "Allison Burnett",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Lucchesi",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Amy Robinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Bozman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard Gere",
+      "character": "Will Keane",
+      "order": 0
+    },
+    {
+      "name": "Winona Ryder",
+      "character": "Charlotte Fielding",
+      "order": 1
+    },
+    {
+      "name": "Anthony LaPaglia",
+      "character": "John Volpe",
+      "order": 2
+    },
+    {
+      "name": "Elaine Stritch",
+      "character": "Dolores \"Dolly\" Talbot",
+      "order": 3
+    },
+    {
+      "name": "Vera Farmiga",
+      "character": "Lisa Tyler",
+      "order": 4
+    },
+    {
+      "name": "Sherry Stringfield",
+      "character": "Sarah",
+      "order": 5
+    },
+    {
+      "name": "Jill Hennessy",
+      "character": "Lynn",
+      "order": 6
+    },
+    {
+      "name": "J.K. Simmons",
+      "character": "Dr. Tom Grandy",
+      "order": 7
+    },
+    {
+      "name": "Sam Trammell",
+      "character": "Simon",
+      "order": 8
+    },
+    {
+      "name": "Mary Beth Hurt",
+      "character": "Dr. Sibley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/avtPZ5vGvFugnY0NK8d3Przx6P7.jpg",
+  "backdrop_path": "/9t8zSBYMSV8fc51FV4xCdmK7oyP.jpg",
+  "budget": 65000000,
+  "revenue": 90726668,
+  "vote_average": 6.118,
+  "vote_count": 753,
+  "imdb_id": "tt0174480",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

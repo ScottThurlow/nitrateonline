@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 7 nominations",
+  "rated": "PG",
+  "released": "13 Nov 1998",
+  "runtime": "95 min",
+  "genre": "Drama, Romance",
+  "director": "Pat O'Connor",
+  "writer": "Brian Friel, Frank McGuinness, William Butler Yeats",
+  "actors": "Meryl Streep, Michael Gambon, Gerard McSorley",
+  "plot": "A young boy tells the story of growing up in a fatherless home with his unmarried mother and four spinster aunts in 1930s Ireland. Five women different in temperament and capability from one another form a firm emotional support system for one another (reluctantly at times), with the eldest assuming the role of \"somewhat meddling\" overseer. Into this comes their elderly brother, a priest too senile to perform his clerical functions who has \"come home to die\" after a lifetime in Africa. Then the boy's father rides up on a motorcycle--to announce that he's on his way to Spain to fight against Franco. Although undeniably affected by the presence of the two men, the sisters continue to cope as a close-knit unit until something happens that disrupts the fabric of that cohesiveness beyond repair.",
+  "language": "English",
+  "country": "Ireland, United Kingdom, United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.3",
+  "imdb_votes": "4,053",
+  "box_office": "$2,287,818",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Dancing+at+Lughnasa"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120643/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120643/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/5332"
+  }
+}

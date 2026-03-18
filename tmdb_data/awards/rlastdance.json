@@ -1,0 +1,35 @@
+{
+  "year": "2001",
+  "awards": "7 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "12 Jan 2001",
+  "runtime": "112 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Thomas Carter",
+  "writer": "Duane Adler, Cheryl Edwards",
+  "actors": "Julia Stiles, Sean Patrick Thomas, Kerry Washington",
+  "plot": "Sara wants to be a ballerina, but her dreams are cut short by the sudden death of her mother. She moves in with her father, who she has not seen for a long time. He lives on the other side of town, in a predominantly Black neighborhood. She gets transferred to a new school where she is one of the few White students there. She becomes friends with Chenille, and later, falls in love with Chenille's brother, Derek.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "53",
+  "imdb_rating": "6.2",
+  "imdb_votes": "68,792",
+  "box_office": "$91,057,006",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/Save+the+Last+Dance/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0206275/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0206275/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9816"
+  }
+}

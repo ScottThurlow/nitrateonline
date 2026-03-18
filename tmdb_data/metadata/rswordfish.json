@@ -1,0 +1,209 @@
+{
+  "tmdb_id": 9705,
+  "title": "Swordfish",
+  "original_title": "Swordfish",
+  "release_date": "2001-06-08",
+  "runtime": 99,
+  "tagline": "Log on. Hack in. Go anywhere. Steal everything.",
+  "overview": "Rogue agent Gabriel Shear is determined to get his mitts on $9 billion stashed in a secret Drug Enforcement Administration account. He wants the cash to fight terrorism, but lacks the computer skills necessary to hack into the government mainframe. Enter Stanley Jobson, a n'er-do-well encryption expert who can log into anything.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Silver Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jonathan Krane Group",
+      "country": ""
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dominic Sena"
+  ],
+  "writers": [
+    {
+      "name": "Skip Woods",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan D. Krane",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Winze",
+      "job": "Producer"
+    },
+    {
+      "name": "Jim Van Wyck",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "Gabriel",
+      "order": 0
+    },
+    {
+      "name": "Hugh Jackman",
+      "character": "Stanley",
+      "order": 1
+    },
+    {
+      "name": "Halle Berry",
+      "character": "Ginger",
+      "order": 2
+    },
+    {
+      "name": "Don Cheadle",
+      "character": "Roberts",
+      "order": 3
+    },
+    {
+      "name": "Vinnie Jones",
+      "character": "Marco",
+      "order": 4
+    },
+    {
+      "name": "Sam Shepard",
+      "character": "Senator Reisman",
+      "order": 5
+    },
+    {
+      "name": "Drea De Matteo",
+      "character": "Melissa",
+      "order": 6
+    },
+    {
+      "name": "Rudolf Martin",
+      "character": "Axl Torvalds",
+      "order": 7
+    },
+    {
+      "name": "Zach Grenier",
+      "character": "A.D. Joy",
+      "order": 8
+    },
+    {
+      "name": "Camryn Grimes",
+      "character": "Holly",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mM6h4jMqC4q5IaFgBIGKQDLnRU.jpg",
+  "backdrop_path": "/eSxvC0Qw0A9AfI355MF9dSItrfR.jpg",
+  "budget": 102000000,
+  "revenue": 147080413,
+  "vote_average": 6.255,
+  "vote_count": 2890,
+  "imdb_id": "tt0244244",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

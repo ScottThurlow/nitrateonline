@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "08 Nov 2001",
+  "runtime": "87 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Todd Solondz",
+  "writer": "Todd Solondz",
+  "actors": "Selma Blair, Leo Fitzpatrick, Robert Wisdom",
+  "plot": "Storytelling is comprised of two separate stories set against the sadly comical terrain of college and high school, past and present. Following the paths of its young hopeful/ troubled characters, it explores issues of sex, race, celebrity and exploitation",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "6.8",
+  "imdb_votes": "18,732",
+  "box_office": "$921,445",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=Storytelling"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/Storytelling/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250081/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250081/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16550"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 wins & 2 nominations total",
+  "rated": "R",
+  "released": "02 Mar 2001",
+  "runtime": "123 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Gore Verbinski",
+  "writer": "J.H. Wyman",
+  "actors": "Brad Pitt, Julia Roberts, James Gandolfini",
+  "plot": "Jerry Welbach is given two ultimatums. His mob boss wants him to travel to Mexico to get a priceless antique pistol called \"The Mexican\" or he will suffer the consequences. The other ultimatum comes from his girlfriend Samantha, who wants him to end his association with the mob. Jerry figures that being alive, although in trouble with his girlfriend is the better alternative so he heads south of the border. Finding the pistol is easy but getting it home is a whole other matter. The pistol supposedly carries a curse - a curse Jerry is given every reason to believe, especially when Samantha is held hostage by the gay hit man Leroy to ensure the safe return of the pistol.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "metascore": "43",
+  "imdb_rating": "6.1",
+  "imdb_votes": "118,184",
+  "box_office": "$66,845,033",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Mexican"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/The+Mexican/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0236493/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0236493/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6073"
+  }
+}

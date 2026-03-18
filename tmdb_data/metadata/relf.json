@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 10719,
+  "title": "Elf",
+  "original_title": "Elf",
+  "release_date": "2003-11-07",
+  "runtime": 97,
+  "tagline": "Discover your inner elf.",
+  "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Guy Walks into a Bar Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jon Favreau"
+  ],
+  "writers": [
+    {
+      "name": "David Berenbaum",
+      "job": "Writer"
+    },
+    {
+      "name": "Jon Favreau",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cale Boyter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kent Alterman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julie Wixson Darmody",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jimmy Miller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Todd Komarnicki",
+      "job": "Producer"
+    },
+    {
+      "name": "Shauna Robertson",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Berg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Will Ferrell",
+      "character": "Buddy",
+      "order": 0
+    },
+    {
+      "name": "James Caan",
+      "character": "Walter",
+      "order": 1
+    },
+    {
+      "name": "Bob Newhart",
+      "character": "Papa Elf",
+      "order": 2
+    },
+    {
+      "name": "Ed Asner",
+      "character": "Santa",
+      "order": 3
+    },
+    {
+      "name": "Mary Steenburgen",
+      "character": "Emily",
+      "order": 4
+    },
+    {
+      "name": "Zooey Deschanel",
+      "character": "Jovie",
+      "order": 5
+    },
+    {
+      "name": "Daniel Tay",
+      "character": "Michael",
+      "order": 6
+    },
+    {
+      "name": "Faizon Love",
+      "character": "Gimbels Manager",
+      "order": 7
+    },
+    {
+      "name": "Peter Dinklage",
+      "character": "Miles Finch",
+      "order": 8
+    },
+    {
+      "name": "Amy Sedaris",
+      "character": "Deb",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+  "backdrop_path": "/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+  "budget": 32000000,
+  "revenue": 228500000,
+  "vote_average": 6.666,
+  "vote_count": 4478,
+  "imdb_id": "tt0319343",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "SK",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

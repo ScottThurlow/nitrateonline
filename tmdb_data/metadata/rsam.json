@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 10279,
+  "title": "Summer of Sam",
+  "original_title": "Summer of Sam",
+  "release_date": "1999-06-28",
+  "runtime": 142,
+  "tagline": "No one is safe from Son of Sam.",
+  "overview": "Spike Lee's take on the \"Son of Sam\" murders in New York City during the summer of 1977 centering on the residents of an Italian-American Northeast Bronx neighborhood who live in fear and distrust of one another.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "40 Acres and a Mule Filmworks",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Spike Lee"
+  ],
+  "writers": [
+    {
+      "name": "Michael Imperioli",
+      "job": "Writer"
+    },
+    {
+      "name": "Victor Colicchio",
+      "job": "Writer"
+    },
+    {
+      "name": "Spike Lee",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeri Carroll-Colicchio",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jon Kilik",
+      "job": "Producer"
+    },
+    {
+      "name": "Spike Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Imperioli",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Leguizamo",
+      "character": "Vinny",
+      "order": 0
+    },
+    {
+      "name": "Adrien Brody",
+      "character": "Ritchie",
+      "order": 1
+    },
+    {
+      "name": "Mira Sorvino",
+      "character": "Dionna",
+      "order": 2
+    },
+    {
+      "name": "Jennifer Esposito",
+      "character": "Ruby",
+      "order": 3
+    },
+    {
+      "name": "Michael Rispoli",
+      "character": "Joey T",
+      "order": 4
+    },
+    {
+      "name": "Saverio Guerra",
+      "character": "Woodstock",
+      "order": 5
+    },
+    {
+      "name": "Brian Tarantina",
+      "character": "Bobby Del Fiore",
+      "order": 6
+    },
+    {
+      "name": "Al Palagonia",
+      "character": "Anthony",
+      "order": 7
+    },
+    {
+      "name": "Ken Garito",
+      "character": "Brian",
+      "order": 8
+    },
+    {
+      "name": "Bebe Neuwirth",
+      "character": "Gloria",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yvGGA2CbT6xyFVTZUA9f2ok0q5V.jpg",
+  "backdrop_path": "/pXXhErx4sn30BuOnhNeGJX8mQ7r.jpg",
+  "budget": 22000000,
+  "revenue": 19288130,
+  "vote_average": 6.486,
+  "vote_count": 520,
+  "imdb_id": "tt0162677",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

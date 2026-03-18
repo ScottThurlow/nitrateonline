@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "5 wins & 4 nominations total",
+  "rated": "R",
+  "released": "09 Aug 2001",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Jon Shear",
+  "writer": "Daniel Reitz, Jon Shear",
+  "actors": "Dan Futterman, Scott Denny, Paige Turco",
+  "plot": "Charlie takes an odyssey through grief during a fall weekend in New York City. His encounters are planned and chance: with a homeless man who sleeps by his building, with a friend who's dying, with the couple who lives (and noisily loves) in the flat above him, with a bartender and a one-night-stand he follows home, and with a tattooed stranger whom he seeks out and befriends. Along the way, Charlie inhabits a city full of moments of violence and of stories and legends: a kidney thief, a microwaved poodle, a rat in a hot dog bun, a baby left on a car top, a tourist's toothbrush, needles in public-phone change slots. Charlie lives and tells his own stories. What caused his melancholy?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "6.8",
+  "imdb_votes": "3,257",
+  "box_office": "$1,032,075",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=Urbania"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Urbania/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0182508/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0182508/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/77332"
+  }
+}

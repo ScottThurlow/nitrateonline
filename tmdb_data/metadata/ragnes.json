@@ -1,0 +1,126 @@
+{
+  "tmdb_id": 15506,
+  "title": "Agnes Browne",
+  "original_title": "Agnes Browne",
+  "release_date": "1999-11-08",
+  "runtime": 92,
+  "tagline": "When Agnes Browne's husband died, she discovered something amazing... Herself.",
+  "overview": "Set in Dublin in 1967, the story of feisty woman, who along with her seven children, learns to cope with adversity after the unexpected death of her husband.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hell's Kitchen",
+      "country": "IE"
+    }
+  ],
+  "director": [
+    "Anjelica Huston"
+  ],
+  "writers": [
+    {
+      "name": "Brendan O'Carroll",
+      "job": "Novel"
+    },
+    {
+      "name": "Brendan O'Carroll",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Goldsmith",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jim Sheridan",
+      "job": "Producer"
+    },
+    {
+      "name": "Arthur Lappin",
+      "job": "Producer"
+    },
+    {
+      "name": "Anjelica Huston",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anjelica Huston",
+      "character": "Agnes Browne",
+      "order": 0
+    },
+    {
+      "name": "Marion O'Dwyer",
+      "character": "Marion Monks",
+      "order": 1
+    },
+    {
+      "name": "Niall O'Shea",
+      "character": "Mark Browne",
+      "order": 2
+    },
+    {
+      "name": "Ciarán Owens",
+      "character": "Frankie Browne",
+      "order": 3
+    },
+    {
+      "name": "Roxanna Nic Liam",
+      "character": "Cathy Browne",
+      "order": 4
+    },
+    {
+      "name": "Carl Power",
+      "character": "Simon Browne",
+      "order": 5
+    },
+    {
+      "name": "Mark Power",
+      "character": "Dermot Browne",
+      "order": 6
+    },
+    {
+      "name": "Gareth O'Connor",
+      "character": "Rory Browne",
+      "order": 7
+    },
+    {
+      "name": "James Lappin",
+      "character": "Trevor Browne",
+      "order": 8
+    },
+    {
+      "name": "Ray Winstone",
+      "character": "Mr. Billy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bgZ0lDvN0W8OLjPki1Me1JhtBrH.jpg",
+  "backdrop_path": "/ylWm0EQNIrcIbjpeUhHKTfD1Ugw.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.197,
+  "vote_count": 32,
+  "imdb_id": "tt0160509",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

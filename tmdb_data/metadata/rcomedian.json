@@ -1,0 +1,97 @@
+{
+  "tmdb_id": 19973,
+  "title": "Comedian",
+  "original_title": "Comedian",
+  "release_date": "2002-10-11",
+  "runtime": 82,
+  "tagline": "Where does comedy come from?",
+  "overview": "A look at the work of two stand-up comics, Jerry Seinfeld and a lesser-known newcomer, detailing the effort and frustration behind putting together a successful act and career while living a life on the road.",
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Bridgnorth Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Christian Charles"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Jerry Seinfeld",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Streiner",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jerry Seinfeld",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Orny Adams",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Greg Giraldo",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Jim Norton",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Sherrod Small",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Allan Havey",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Colin Quinn",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Cynthia Koury",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "George Wallace",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Robert Klein",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tktajWQ91P09zTV7HdefzeVw1UV.jpg",
+  "backdrop_path": "/pHxgGdEXEz8QKc3K92gYwg2nxUg.jpg",
+  "budget": 0,
+  "revenue": 2744253,
+  "vote_average": 6.624,
+  "vote_count": 89,
+  "imdb_id": "tt0328962",
+  "certifications": [],
+  "status": "Released"
+}

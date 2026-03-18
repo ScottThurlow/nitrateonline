@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 21430,
+  "title": "New Rose Hotel",
+  "original_title": "New Rose Hotel",
+  "release_date": "1999-03-19",
+  "runtime": 93,
+  "tagline": "No possession is sacred.  No secret is safe.",
+  "overview": "A corporate raider and his henchman use a chanteuse to lure a scientific genius away from his employer and family.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "Japanese",
+    "English",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Quadra Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Pressman Film",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Abel Ferrara"
+  ],
+  "writers": [
+    {
+      "name": "Abel Ferrara",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Gibson",
+      "job": "Short Story"
+    },
+    {
+      "name": "Christ Zois",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jay Cannold",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gregory G. Woertz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alessandro Camon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Edward R. Pressman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christopher Walken",
+      "character": "Fox",
+      "order": 0
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "X",
+      "order": 1
+    },
+    {
+      "name": "Asia Argento",
+      "character": "Sandii",
+      "order": 2
+    },
+    {
+      "name": "Annabella Sciorra",
+      "character": "Madame Rosa",
+      "order": 3
+    },
+    {
+      "name": "John Lurie",
+      "character": "Distinguished Man",
+      "order": 4
+    },
+    {
+      "name": "Kimmy Suzuki",
+      "character": "Asian Girl #1",
+      "order": 5
+    },
+    {
+      "name": "Miou",
+      "character": "Asian Girl #2",
+      "order": 6
+    },
+    {
+      "name": "Yoshitaka Amano",
+      "character": "Hiroshi",
+      "order": 7
+    },
+    {
+      "name": "Gretchen Mol",
+      "character": "Hiroshi's Wife",
+      "order": 8
+    },
+    {
+      "name": "Phil Neilson",
+      "character": "The Welshman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pMk6iJSmbt5uovZ1LEhhBZdR5cz.jpg",
+  "backdrop_path": "/9GXU40cPceT5L4AgQs4cl0yjA8l.jpg",
+  "budget": 0,
+  "revenue": 21521,
+  "vote_average": 5.2,
+  "vote_count": 142,
+  "imdb_id": "tt0133122",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

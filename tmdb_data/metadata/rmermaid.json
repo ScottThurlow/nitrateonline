@@ -1,0 +1,230 @@
+{
+  "tmdb_id": 10144,
+  "title": "The Little Mermaid",
+  "original_title": "The Little Mermaid",
+  "release_date": "1989-11-17",
+  "runtime": 83,
+  "tagline": "Somewhere under the sea and beyond your imagination is an adventure in fantasy.",
+  "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Silver Screen Partners IV",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Musker",
+    "Ron Clements"
+  ],
+  "writers": [
+    {
+      "name": "John Musker",
+      "job": "Writer"
+    },
+    {
+      "name": "Ron Clements",
+      "job": "Writer"
+    },
+    {
+      "name": "Matthew O'Callaghan",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Ed Gombert",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Gary Trousdale",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Thom Enriquez",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Brenda Chapman",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Roger Allers",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Joe Ranft",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Hans Christian Andersen",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Howard Ashman",
+      "job": "Producer"
+    },
+    {
+      "name": "John Musker",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jodi Benson",
+      "character": "Ariel / Vanessa (voice)",
+      "order": 0
+    },
+    {
+      "name": "Samuel E. Wright",
+      "character": "Sebastian (voice)",
+      "order": 1
+    },
+    {
+      "name": "Pat Carroll",
+      "character": "Ursula (voice)",
+      "order": 2
+    },
+    {
+      "name": "Christopher Daniel Barnes",
+      "character": "Prince Eric (voice)",
+      "order": 3
+    },
+    {
+      "name": "Kenneth Mars",
+      "character": "King Triton (voice)",
+      "order": 4
+    },
+    {
+      "name": "Buddy Hackett",
+      "character": "Scuttle (voice)",
+      "order": 5
+    },
+    {
+      "name": "Jason Marin",
+      "character": "Flounder (voice)",
+      "order": 6
+    },
+    {
+      "name": "René Auberjonois",
+      "character": "Louis (voice)",
+      "order": 7
+    },
+    {
+      "name": "Paddi Edwards",
+      "character": "Flotsam & Jetsam (voice)",
+      "order": 8
+    },
+    {
+      "name": "Ben Wright",
+      "character": "Grimsby (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+  "backdrop_path": "/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+  "budget": 40000000,
+  "revenue": 211343479,
+  "vote_average": 7.351,
+  "vote_count": 8338,
+  "imdb_id": "tt0097757",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "G"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

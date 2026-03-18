@@ -1,0 +1,153 @@
+{
+  "tmdb_id": 26618,
+  "title": "Clay Pigeons",
+  "original_title": "Clay Pigeons",
+  "release_date": "1998-09-25",
+  "runtime": 104,
+  "tagline": "Lester Long never forgets a friend.",
+  "overview": "Clay is a young man in a small town who witnesses his friend, Earl, kill himself because of the ongoing affair that Clay was having with the man's wife, Amanda. Feeling guilty, Clay now resists the widow when she presses him to continue with the affair. Clay unknowingly befriends a serial killer named Lester Long who murders the widow in an attempt to \"help\" his \"fishing buddy.\"",
+  "genres": [
+    "Crime",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Fade In Films",
+      "country": "US"
+    },
+    {
+      "name": "IMF Internationale Medien und Film 2 & Produktions",
+      "country": "DE"
+    },
+    {
+      "name": "Scott Free Productions",
+      "country": "GB"
+    },
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Gramercy Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Dobkin"
+  ],
+  "writers": [
+    {
+      "name": "Matthew L. Healy",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ridley Scott",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Zarpas",
+      "job": "Producer"
+    },
+    {
+      "name": "Tony Scott",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joaquin Phoenix",
+      "character": "Clay Bidwell",
+      "order": 0
+    },
+    {
+      "name": "Vince Vaughn",
+      "character": "Lester Long",
+      "order": 1
+    },
+    {
+      "name": "Janeane Garofalo",
+      "character": "Agent Dale Shelby",
+      "order": 2
+    },
+    {
+      "name": "Scott Wilson",
+      "character": "Sheriff Dan Mooney",
+      "order": 3
+    },
+    {
+      "name": "Gregory Sporleder",
+      "character": "Earl",
+      "order": 4
+    },
+    {
+      "name": "Georgina Cates",
+      "character": "Amanda",
+      "order": 5
+    },
+    {
+      "name": "Vince Vieluf",
+      "character": "Deputy Barney",
+      "order": 6
+    },
+    {
+      "name": "Joseph D. Reitman",
+      "character": "Glen",
+      "order": 7
+    },
+    {
+      "name": "Nicole Arlyn",
+      "character": "Gloria Collins",
+      "order": 8
+    },
+    {
+      "name": "Wayne Brennan",
+      "character": "Minister",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6cxoftMuiwcQ9xzXfvGWAQfWUmK.jpg",
+  "backdrop_path": "/brB272BzxcuTG5NdTRcjNEqAb3A.jpg",
+  "budget": 8000000,
+  "revenue": 1800000,
+  "vote_average": 6.179,
+  "vote_count": 135,
+  "imdb_id": "tt0118863",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

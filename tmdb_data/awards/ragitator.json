@@ -1,0 +1,30 @@
+{
+  "year": "2001",
+  "awards": "1 win",
+  "rated": "N/A",
+  "released": "30 Mar 2002",
+  "runtime": "150 min",
+  "genre": "Crime, Drama",
+  "director": "Takashi Miike",
+  "writer": "Shigenori Takechi",
+  "actors": "Taisaku Akino, Mickey Curtis, Yoshiyuki Daichi",
+  "plot": "A fearless Yakuza captain's loyalty is tested as two ambitious underbosses attempt a takeover of both his clan and a rival Yakuza gang.",
+  "language": "Japanese",
+  "country": "Japan",
+  "metascore": "N/A",
+  "imdb_rating": "6.7",
+  "imdb_votes": "1,192",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0305240/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0305240/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2896"
+  }
+}

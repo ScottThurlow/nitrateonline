@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 10934,
+  "title": "Under the Tuscan Sun",
+  "original_title": "Under the Tuscan Sun",
+  "release_date": "2003-09-20",
+  "runtime": 113,
+  "tagline": "Life offers you a thousand chances ... all you have to do is take one.",
+  "overview": "Frances Mayes, a 35-year-old professor and writer from San Francisco, decides to take a tour of Tuscany following a difficult divorce. After impulsively buying a run-down villa in the Italian countryside, she begins to piece her life back together in unexpected ways.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "German",
+    "Spanish",
+    "French",
+    "English",
+    "Italian",
+    "Polish"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Timnick Films",
+      "country": "US"
+    },
+    {
+      "name": "Blue Gardenia Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Audrey Wells"
+  ],
+  "writers": [
+    {
+      "name": "Frances Mayes",
+      "job": "Novel"
+    },
+    {
+      "name": "Audrey Wells",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Audrey Wells",
+      "job": "Screenstory"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Gill",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Audrey Wells",
+      "job": "Producer"
+    },
+    {
+      "name": "Sandy Kroopf",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laura Fattori",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Sternberg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Diane Lane",
+      "character": "Frances",
+      "order": 0
+    },
+    {
+      "name": "Lindsay Duncan",
+      "character": "Katherine",
+      "order": 1
+    },
+    {
+      "name": "Vincent Riotta",
+      "character": "Martini",
+      "order": 2
+    },
+    {
+      "name": "Giulia Louise Steigerwalt",
+      "character": "Chiara",
+      "order": 3
+    },
+    {
+      "name": "Raoul Bova",
+      "character": "Marcello",
+      "order": 4
+    },
+    {
+      "name": "Sandra Oh",
+      "character": "Patti",
+      "order": 5
+    },
+    {
+      "name": "Pawel Szajda",
+      "character": "Pawel",
+      "order": 6
+    },
+    {
+      "name": "Roberto Nobile",
+      "character": "Placido",
+      "order": 7
+    },
+    {
+      "name": "Anita Zagaria",
+      "character": "Fiorella",
+      "order": 8
+    },
+    {
+      "name": "Evelina Gori",
+      "character": "Nona Cardinale",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3vQUQwdtfPt1Sl2GZrIECWWA0dk.jpg",
+  "backdrop_path": "/dy516GsG7lvszB47FiotNjLARDY.jpg",
+  "budget": 18000000,
+  "revenue": 58878723,
+  "vote_average": 6.873,
+  "vote_count": 951,
+  "imdb_id": "tt0328589",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

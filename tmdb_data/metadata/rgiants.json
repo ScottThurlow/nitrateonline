@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 125123,
+  "title": "Among Giants",
+  "original_title": "Among Giants",
+  "release_date": "1998-06-24",
+  "runtime": 93,
+  "tagline": "Some Heights Can Only Be Reached By The Heart",
+  "overview": "A manager hires Ray, off the books, to paint all the power towers in a 15-mile stretch of high-tension wires outside Sheffield. Ray's crew of men are friends, especially Ray with Steve, a young Romeo. Into the mix comes Gerry, an Australian with a spirit of adventure and mountain climbing skills. She wants a job, and against the others' advice, who don't want a woman on the job, Ray hires her. Then she and Ray fall in love. He asks her to marry him, gives her a ring. Steve's jealous; Ray's ex-wife complains that he spends on Gerry, not his own kids, and she predicts that Gerry won't stay around. Plus, there's pressure to finish the job fast. Economics, romance, and wanderlust spark the end.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "BBC",
+      "country": "GB"
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "British Screen Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Sam Miller"
+  ],
+  "writers": [
+    {
+      "name": "Simon Beaufoy",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stephen Garrett",
+      "job": "Producer"
+    },
+    {
+      "name": "Jana Edelbaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jane Barclay",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sharon Harel-Cohen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Colin Pons",
+      "job": "Producer"
+    },
+    {
+      "name": "David M. Thompson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Pete Postlethwaite",
+      "character": "Ray",
+      "order": 0
+    },
+    {
+      "name": "Rachel Griffiths",
+      "character": "Gerry",
+      "order": 1
+    },
+    {
+      "name": "James Thornton",
+      "character": "Steve",
+      "order": 2
+    },
+    {
+      "name": "Andy Serkis",
+      "character": "Bob",
+      "order": 3
+    },
+    {
+      "name": "Lennie James",
+      "character": "Shovel",
+      "order": 4
+    },
+    {
+      "name": "Rob Jarvis",
+      "character": "Weasel",
+      "order": 5
+    },
+    {
+      "name": "Alan Williams",
+      "character": "Frank",
+      "order": 6
+    },
+    {
+      "name": "Steve Huison",
+      "character": "Derek",
+      "order": 7
+    },
+    {
+      "name": "Sharon Bower",
+      "character": "Lyn",
+      "order": 8
+    },
+    {
+      "name": "Emma Cunniffe",
+      "character": "Barmaid",
+      "order": 9
+    }
+  ],
+  "poster_path": "/u90H3K6XeQEzECkarfysZ2p5IZE.jpg",
+  "backdrop_path": "/qeSHuqKaBbx9apM29NnJYoEffE3.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.571,
+  "vote_count": 7,
+  "imdb_id": "tt0122906",
+  "certifications": [],
+  "status": "Released"
+}

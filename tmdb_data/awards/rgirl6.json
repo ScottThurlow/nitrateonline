@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "22 Mar 1996",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama",
+  "director": "Spike Lee",
+  "writer": "Suzan-Lori Parks",
+  "actors": "Theresa Randle, Isaiah Washington, Spike Lee",
+  "plot": "This Spike Lee film examines the life of an aspiring actress in New York who becomes upset by the treatment of women in the film industry during one of her screen tests with 'QT.' Out of work and desperate for money, she takes a job as a phone-sex operator. Her female boss is kind, caring, and sensitive--quite a difference from her previous potential employers. Later she gets too engrossed in her work and starts to lose touch with reality, represented by her friend and neighbor Jimmy.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "44",
+  "imdb_rating": "5.4",
+  "imdb_votes": "6,945",
+  "box_office": "$4,939,939",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "39%",
+      "link": "https://www.rottentomatoes.com/search?search=Girl+6"
+    },
+    {
+      "source": "Metacritic",
+      "value": "44/100",
+      "link": "https://www.metacritic.com/search/Girl+6/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0116414/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0116414/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/61752"
+  }
+}

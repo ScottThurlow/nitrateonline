@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "6 wins & 10 nominations total",
+  "rated": "R",
+  "released": "23 Oct 1998",
+  "runtime": "111 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Bryan Singer",
+  "writer": "Stephen King, Brandon Boyce",
+  "actors": "Ian McKellen, Brad Renfro, Joshua Jackson",
+  "plot": "Neighborhood boy Todd Bowden (Brad Renfro) discovers that an old man living on his block named Arthur Denker (Sir Ian Mackellan) is a Nazi war criminal. Bowden confronts Denker and offers him a deal: Bowden will not go to the authorities if Denker tells him stories of the concentration camps in World War II. Denker agrees and Bowden starts visiting him regularly. The more stories Bowden hears, the more it affects his personality.",
+  "language": "English, German",
+  "country": "United States, France, Canada",
+  "metascore": "53",
+  "imdb_rating": "6.7",
+  "imdb_votes": "43,869",
+  "box_office": "$8,863,193",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=Apt+Pupil"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/Apt+Pupil/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118636/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118636/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9445"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 wins & 2 nominations",
+  "rated": "PG-13",
+  "released": "16 May 2002",
+  "runtime": "246 min",
+  "genre": "Documentary",
+  "director": "Martin Scorsese",
+  "writer": "Suso Cecchi D'Amico, Raffaele Donato, Kent Jones",
+  "actors": "Martin Scorsese",
+  "plot": "\"I saw these movies. They had a powerful effect on me. You should see them.\" That's Martin Scorsese's message for this documentary. We meet his family on Elizabeth Street in New York; he's a third generation Italian with Sicilian roots. Starting in 1949, they watched movies on TV as well as in theaters, lots of Italian imports. Scorsese, with his narration giving a personal as well as a public context, shows extended clips of these movies. Films of Rossellini and De Sica fill part one; those of Visconti, Fellini, and Antonioni comprise part two. Scorsese takes time with emotion, style, staging, technique, political context, and cinematic influence. It's his movie family.",
+  "language": "English, Italian, French, German",
+  "country": "Italy, United States",
+  "metascore": "90",
+  "imdb_rating": "8.2",
+  "imdb_votes": "3,576",
+  "box_office": "$11,683",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "100%",
+      "link": "https://www.rottentomatoes.com/search?search=My+Voyage+to+Italy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "90/100",
+      "link": "https://www.metacritic.com/search/My+Voyage+to+Italy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0173772/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0173772/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/53198"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tmdb_id": 819513,
+  "title": "E.T. the Extra-Terrestrial 20th Anniversary Special",
+  "original_title": "E.T. the Extra-Terrestrial 20th Anniversary Special",
+  "release_date": "2002-03-16",
+  "runtime": 44,
+  "tagline": "",
+  "overview": "A retrospective of \"E.T.,\" featuring a cast reunion and a look at the making of the 20th anniversary edition of the film.",
+  "genres": [
+    "Documentary",
+    "Science Fiction",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NBC",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Laurent Bouzereau"
+  ],
+  "writers": [
+    {
+      "name": "Laurent Bouzereau",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sharon Scott",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurent Bouzereau",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Naughton",
+      "character": "Narrator (voice)",
+      "order": 0
+    },
+    {
+      "name": "Henry Thomas",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Drew Barrymore",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Peter Coyote",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Dee Wallace",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Robert MacNaughton",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Steven Spielberg",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "Melissa Mathison",
+      "character": "Self",
+      "order": 8
+    }
+  ],
+  "poster_path": "/c64WkoMwipfEd277ded6RtrhwPm.jpg",
+  "backdrop_path": "/qsfawMsSJeOaanzSWv9scDwzoyW.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "imdb_id": "tt1500812",
+  "certifications": [],
+  "status": "Released"
+}

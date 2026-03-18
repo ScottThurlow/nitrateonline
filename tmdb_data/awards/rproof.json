@@ -1,0 +1,22 @@
+{
+  "awards": "5 nominations total",
+  "rated": "R",
+  "metascore": "45",
+  "imdb_rating": "6.3",
+  "imdb_votes": "60,394",
+  "box_office": "$32,598,931",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "38%"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100"
+    }
+  ]
+}

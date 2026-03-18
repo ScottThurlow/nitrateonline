@@ -1,0 +1,219 @@
+{
+  "tmdb_id": 2157,
+  "title": "Lost in Space",
+  "original_title": "Lost in Space",
+  "release_date": "1998-04-03",
+  "runtime": 130,
+  "tagline": "Danger, Will Robinson!",
+  "overview": "The prospects for continuing life on Earth in the year 2058 are grim. So the Robinsons are launched into space to colonize Alpha Prime, the only other inhabitable planet in the galaxy. But when a stowaway sabotages the mission, the Robinsons find themselves hurtling through uncharted space.",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Saltire Entertainment",
+      "country": ""
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Irwin Allen Productions",
+      "country": ""
+    },
+    {
+      "name": "Prelude Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stephen Hopkins"
+  ],
+  "writers": [
+    {
+      "name": "Akiva Goldsman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Irwin Allen",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carla Fry",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark W. Koch",
+      "job": "Producer"
+    },
+    {
+      "name": "Akiva Goldsman",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Hopkins",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Rehme",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mace Neufeld",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Saperstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "William Hurt",
+      "character": "Prof. John Robinson",
+      "order": 0
+    },
+    {
+      "name": "Matt LeBlanc",
+      "character": "Maj. Don West",
+      "order": 1
+    },
+    {
+      "name": "Mimi Rogers",
+      "character": "Dr. Maureen Robinson",
+      "order": 2
+    },
+    {
+      "name": "Heather Graham",
+      "character": "Dr. Judy Robinson",
+      "order": 3
+    },
+    {
+      "name": "Gary Oldman",
+      "character": "Dr. Zachary Smith",
+      "order": 4
+    },
+    {
+      "name": "Lacey Chabert",
+      "character": "Penny Robinson",
+      "order": 5
+    },
+    {
+      "name": "Jack Johnson",
+      "character": "Will Robinson",
+      "order": 6
+    },
+    {
+      "name": "Jared Harris",
+      "character": "Older Will Robinson",
+      "order": 7
+    },
+    {
+      "name": "Mark Goddard",
+      "character": "General",
+      "order": 8
+    },
+    {
+      "name": "Lennie James",
+      "character": "Jeb Walker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fCocPDUFuKswY2GxDdfYsT9BXMd.jpg",
+  "backdrop_path": "/qu0HXKZBsugBiHJm4QZdFiSrvPi.jpg",
+  "budget": 80000000,
+  "revenue": 136159423,
+  "vote_average": 5.44,
+  "vote_count": 1290,
+  "imdb_id": "tt0120738",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

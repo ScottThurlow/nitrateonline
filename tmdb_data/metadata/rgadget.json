@@ -1,0 +1,224 @@
+{
+  "tmdb_id": 332,
+  "title": "Inspector Gadget",
+  "original_title": "Inspector Gadget",
+  "release_date": "1999-07-23",
+  "runtime": 78,
+  "tagline": "The greatest hero ever assembled.",
+  "overview": "John Brown is a bumbling but well-intentioned security guard who is badly injured in an explosion planned by an evil mastermind. He is taken to a laboratory, where Brenda, a leading robotics surgeon, replaces his damaged limbs with state-of-the-art gadgets and tools. Named \"Inspector Gadget\" by the press, John -- along with his niece, Penny, and her trusty dog, Brain -- uses his new powers to discover who was behind the explosion.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English",
+    "Norwegian",
+    "French",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "DiC Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Caravan Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Avnet/Kerner Productions",
+      "country": ""
+    },
+    {
+      "name": "Roger Birnbaum Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Kellogg"
+  ],
+  "writers": [
+    {
+      "name": "Kerry Ehrin",
+      "job": "Story"
+    },
+    {
+      "name": "Zak Penn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kerry Ehrin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dana Olsen",
+      "job": "Story"
+    },
+    {
+      "name": "Bruno Bianchi",
+      "job": "Characters"
+    },
+    {
+      "name": "Jean Chalopin",
+      "job": "Characters"
+    },
+    {
+      "name": "Andy Heyward",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph Winter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jon Avnet",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jordan Kerner",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Bernardi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andy Heyward",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Aaron Meyerson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew Broderick",
+      "character": "John Brown / Inspector Gadget / Robo Gadget",
+      "order": 0
+    },
+    {
+      "name": "Rupert Everett",
+      "character": "Sanford Scolex / Dr. Claw",
+      "order": 1
+    },
+    {
+      "name": "Joely Fisher",
+      "character": "Brenda / Robobrenda",
+      "order": 2
+    },
+    {
+      "name": "Michelle Trachtenberg",
+      "character": "Penny",
+      "order": 3
+    },
+    {
+      "name": "Andy Dick",
+      "character": "Kramer",
+      "order": 4
+    },
+    {
+      "name": "Cheri Oteri",
+      "character": "Mayor Wilson",
+      "order": 5
+    },
+    {
+      "name": "Mike Hagerty",
+      "character": "Sikes",
+      "order": 6
+    },
+    {
+      "name": "Dabney Coleman",
+      "character": "Chief Quimby",
+      "order": 7
+    },
+    {
+      "name": "D.L. Hughley",
+      "character": "Gadgetmobile (voice)",
+      "order": 8
+    },
+    {
+      "name": "René Auberjonois",
+      "character": "Artemus Bradford",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dDcsv1Lql5aM6H4JYfDHjBAXKgT.jpg",
+  "backdrop_path": "/7OsGo8yVkTgD1ZJMBi9M8GP5aes.jpg",
+  "budget": 75000000,
+  "revenue": 134403112,
+  "vote_average": 4.497,
+  "vote_count": 1302,
+  "imdb_id": "tt0141369",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

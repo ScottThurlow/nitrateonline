@@ -1,0 +1,251 @@
+{
+  "tmdb_id": 9552,
+  "title": "The Exorcist",
+  "original_title": "The Exorcist",
+  "release_date": "1973-12-26",
+  "runtime": 122,
+  "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house…And a man has been sent for as a last resort. This man is The Exorcist.",
+  "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "German",
+    "French",
+    "Latin",
+    "Arabic",
+    "Greek",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hoya Productions",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "William Friedkin"
+  ],
+  "writers": [
+    {
+      "name": "William Peter Blatty",
+      "job": "Novel"
+    },
+    {
+      "name": "William Peter Blatty",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "William Peter Blatty",
+      "job": "Producer"
+    },
+    {
+      "name": "Noel Marshall",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ellen Burstyn",
+      "character": "Chris MacNeil",
+      "order": 0
+    },
+    {
+      "name": "Linda Blair",
+      "character": "Regan MacNeil",
+      "order": 1
+    },
+    {
+      "name": "Jason Miller",
+      "character": "Father Damien Karras",
+      "order": 2
+    },
+    {
+      "name": "Max von Sydow",
+      "character": "Father Lankester Merrin",
+      "order": 3
+    },
+    {
+      "name": "Lee J. Cobb",
+      "character": "Lt. Bill Kinderman",
+      "order": 4
+    },
+    {
+      "name": "William O'Malley",
+      "character": "Father Joseph Kevin Dyer",
+      "order": 5
+    },
+    {
+      "name": "Kitty Winn",
+      "character": "Sharon Spencer",
+      "order": 6
+    },
+    {
+      "name": "Barton Heyman",
+      "character": "Dr. Klein",
+      "order": 7
+    },
+    {
+      "name": "Peter Masterson",
+      "character": "Dr. Barringer",
+      "order": 8
+    },
+    {
+      "name": "Jack MacGowran",
+      "character": "Burke Dennings",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+  "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+  "budget": 12000000,
+  "revenue": 441306145,
+  "vote_average": 7.74,
+  "vote_count": 8511,
+  "imdb_id": "tt0070047",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-16"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "輔12級"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

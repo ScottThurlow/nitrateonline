@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 1 Oscar. 1 win & 14 nominations total",
+  "rated": "PG",
+  "released": "29 Nov 2002",
+  "runtime": "95 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Ron Clements, John Musker",
+  "writer": "Ron Clements, John Musker, Rob Edwards",
+  "actors": "Joseph Gordon-Levitt, Emma Thompson, Martin Short",
+  "plot": "In this science fiction rendering of the classic novel \"Treasure Island\", Jim Hawkins (Joseph Gordon-Levitt) is a rebellious teen seen by the world as an aimless slacker. After he receives a map from a dying pirate, he embarks on an odyssey across the universe to find the legendary Treasure Planet.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "60",
+  "imdb_rating": "7.2",
+  "imdb_votes": "146,751",
+  "box_office": "$38,176,783",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "68%",
+      "link": "https://www.rottentomatoes.com/search?search=Treasure+Planet"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Treasure+Planet/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0133240/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0133240/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9016"
+  }
+}

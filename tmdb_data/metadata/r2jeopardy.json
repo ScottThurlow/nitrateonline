@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 10398,
+  "title": "Double Jeopardy",
+  "original_title": "Double Jeopardy",
+  "release_date": "1999-09-24",
+  "runtime": 105,
+  "tagline": "Murder isn't always a crime.",
+  "overview": "Libby Parsons, wrongly convicted of her husband Nick's murder, thinks he is still alive. She survives the long years in prison with two burning desires sustaining her -- finding her son and solving the mystery that destroyed her once-happy life. Standing between her and her quest, however, is her parole officer, Travis Lehman. Libby poses a challenge to the cynical officer, one that forces him to face up to his own failings while pitting him against his superior and law enforcement colleagues, as she plunges into a desperate fight for justice, survival, and revenge.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "MFP Munich Film Partners GmbH & Company I. Produktions KG",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Bruce Beresford"
+  ],
+  "writers": [
+    {
+      "name": "David Weisberg",
+      "job": "Writer"
+    },
+    {
+      "name": "Douglas S. Cook",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Leonard Goldberg",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ashley Judd",
+      "character": "Libby Parsons",
+      "order": 0
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Travis Lehman",
+      "order": 1
+    },
+    {
+      "name": "Bruce Greenwood",
+      "character": "Nick Parsons",
+      "order": 2
+    },
+    {
+      "name": "Annabeth Gish",
+      "character": "Angie Green",
+      "order": 3
+    },
+    {
+      "name": "Benjamin Weir",
+      "character": "Matty Parsons, Age 4",
+      "order": 4
+    },
+    {
+      "name": "Jay Brazeau",
+      "character": "Bobby Long",
+      "order": 5
+    },
+    {
+      "name": "Roma Maffia",
+      "character": "Margaret Skolowski",
+      "order": 6
+    },
+    {
+      "name": "Davenia McFadden",
+      "character": "Evelyn",
+      "order": 7
+    },
+    {
+      "name": "Gillian Barber",
+      "character": "Rebecca Tingely",
+      "order": 8
+    },
+    {
+      "name": "Michael Gaston",
+      "character": "Cutter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dPd9QvEeMQpgHO6iLB1LqALTZl.jpg",
+  "backdrop_path": "/fk4NXhazfRKtQaVEV9IPeM7OIVH.jpg",
+  "budget": 70000000,
+  "revenue": 177841558,
+  "vote_average": 6.6,
+  "vote_count": 1445,
+  "imdb_id": "tt0150377",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

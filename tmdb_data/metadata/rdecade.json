@@ -1,0 +1,126 @@
+{
+  "tmdb_id": 38868,
+  "title": "A Decade Under the Influence",
+  "original_title": "A Decade Under the Influence",
+  "release_date": "2003-04-25",
+  "runtime": 110,
+  "tagline": "",
+  "overview": "A documentary examining the decade of the 1970s as a turning point in American cinema. Some of today's best filmmakers interview the influential directors of that time.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Constant Communications",
+      "country": ""
+    },
+    {
+      "name": "Written in Stone",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Ted Demme",
+    "Richard LaGravenese"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Alison Palmer Bourke",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Demme",
+      "job": "Producer"
+    },
+    {
+      "name": "Gini Reticker",
+      "job": "Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard LaGravenese",
+      "job": "Producer"
+    },
+    {
+      "name": "Jerry Kupfer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julie Christie",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Sydney Pollack",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Robert Altman",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Paul Schrader",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Polly Platt",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Jon Voight",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "William Friedkin",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Martin Scorsese",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uzt9AkMIxm84IStnjU1hB4o3bWG.jpg",
+  "backdrop_path": "/Q12KsBMEk6XZoqp7GoG5khaHos.jpg",
+  "budget": 0,
+  "revenue": 34837,
+  "vote_average": 7.9,
+  "vote_count": 41,
+  "imdb_id": "tt0342275",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

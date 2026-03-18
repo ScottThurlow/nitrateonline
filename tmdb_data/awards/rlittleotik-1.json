@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "6 wins & 9 nominations total",
+  "rated": "TV-14",
+  "released": "25 Jan 2001",
+  "runtime": "132 min",
+  "genre": "Animation, Comedy, Drama",
+  "director": "Jan Svankmajer",
+  "writer": "Karel Jaromír Erben, Jan Svankmajer",
+  "actors": "Veronika Zilková, Jan Hartl, Jaroslava Kretschmerová",
+  "plot": "When a childless couple learn that they cannot have children, it causes great distress. To ease his wife's pain, the man finds a stump in the backyard and chops it and varnishes it into the shape of a child. However the woman takes the root as her baby and starts to pretend that it is real. When the root takes life they seem to have gained a child; but its appetite is much greater than that of a normal child.",
+  "language": "Czech",
+  "country": "Czech Republic, United Kingdom, Japan",
+  "metascore": "74",
+  "imdb_rating": "7.3",
+  "imdb_votes": "7,278",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "84%",
+      "link": "https://www.rottentomatoes.com/search?search=Little+Otik"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/Little+Otik/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0228687/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0228687/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18939"
+  }
+}

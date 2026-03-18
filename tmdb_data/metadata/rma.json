@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 11448,
+  "title": "Mighty Aphrodite",
+  "original_title": "Mighty Aphrodite",
+  "release_date": "1995-09-13",
+  "runtime": 95,
+  "tagline": "Of all human weaknesses, obsession is the most dangerous, and the silliest!",
+  "overview": "When Lenny and his wife, Amanda, adopt a baby, Lenny realizes that his son is a genius and becomes obsessed with finding the boy's biological mother in hopes that she will be brilliant too. But when he learns that Max's mother is Linda Ash, a kindhearted prostitute and porn star, Lenny is determined to reform her immoral lifestyle. A Greek chorus chimes in to relate the plot to Greek mythology in this quirky comedy.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Jean Doumanian Productions",
+      "country": "US"
+    },
+    {
+      "name": "Sweetland Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Woody Allen"
+  ],
+  "writers": [
+    {
+      "name": "Woody Allen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean Doumanian",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Greenhut",
+      "job": "Producer"
+    },
+    {
+      "name": "J.E. Beaucaire",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Woody Allen",
+      "character": "Lenny",
+      "order": 0
+    },
+    {
+      "name": "Mira Sorvino",
+      "character": "Linda Ash",
+      "order": 1
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "character": "Amanda",
+      "order": 2
+    },
+    {
+      "name": "F. Murray Abraham",
+      "character": "Chorleiter",
+      "order": 3
+    },
+    {
+      "name": "Donald Symington",
+      "character": "Amanda's Father",
+      "order": 4
+    },
+    {
+      "name": "Claire Bloom",
+      "character": "Amanda's Mother",
+      "order": 5
+    },
+    {
+      "name": "Olympia Dukakis",
+      "character": "Jocasta",
+      "order": 6
+    },
+    {
+      "name": "Michael Rapaport",
+      "character": "Kevin",
+      "order": 7
+    },
+    {
+      "name": "David Ogden Stiers",
+      "character": "Laius",
+      "order": 8
+    },
+    {
+      "name": "Jack Warden",
+      "character": "Tiresias",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ice135yQZp4iX2SgCmd90nKgS5j.jpg",
+  "backdrop_path": "/hSY4PYJSFW5JWeQqOs2LAzG0W8a.jpg",
+  "budget": 15000000,
+  "revenue": 26000000,
+  "vote_average": 6.72,
+  "vote_count": 733,
+  "imdb_id": "tt0113819",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,217 @@
+{
+  "tmdb_id": 9631,
+  "title": "The Negotiator",
+  "original_title": "The Negotiator",
+  "release_date": "1998-07-29",
+  "runtime": 140,
+  "tagline": "He frees hostages for a living. Now he's taking hostages to survive.",
+  "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Mandeville Films",
+      "country": "US"
+    },
+    {
+      "name": "Taurus Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "F. Gary Gray"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Fox",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James DeMonaco",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Arnon Milchan",
+      "job": "Producer"
+    },
+    {
+      "name": "Webster Stone",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Hoberman",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Stone",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Nicksay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Lt. Danny Roman",
+      "order": 0
+    },
+    {
+      "name": "Kevin Spacey",
+      "character": "Lt. Chris Sabian",
+      "order": 1
+    },
+    {
+      "name": "David Morse",
+      "character": "Cdr. Adam Beck",
+      "order": 2
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "Cdr. Grant Frost",
+      "order": 3
+    },
+    {
+      "name": "John Spencer",
+      "character": "Chief Al Travis",
+      "order": 4
+    },
+    {
+      "name": "J. T. Walsh",
+      "character": "Insp. Terence Niebaum",
+      "order": 5
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "character": "Maggie",
+      "order": 6
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Rudy",
+      "order": 7
+    },
+    {
+      "name": "Regina Taylor",
+      "character": "Karen Roman",
+      "order": 8
+    },
+    {
+      "name": "Bruce Beatty",
+      "character": "Markus",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg",
+  "backdrop_path": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+  "budget": 50000000,
+  "revenue": 44547681,
+  "vote_average": 7.106,
+  "vote_count": 2325,
+  "imdb_id": "tt0120768",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

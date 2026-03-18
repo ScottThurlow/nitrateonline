@@ -1,0 +1,190 @@
+{
+  "tmdb_id": 10756,
+  "title": "The Haunted Mansion",
+  "original_title": "The Haunted Mansion",
+  "release_date": "2003-11-26",
+  "runtime": 88,
+  "tagline": "Check your pulse at the door... if you have one.",
+  "overview": "Workaholic Jim Evers and his wife/business partner Sara get a call one night from  a mansion owner, Edward Gracey, who wants to sell his house. Once the Evers family arrive at the mansion, a torrential thunderstorm of mysterious origin strands them with the brooding, eccentric Gracey, his mysterious butler, and a variety of residents both seen and unseen.",
+  "genres": [
+    "Thriller",
+    "Fantasy",
+    "Comedy",
+    "Family",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Doom Buggy Productions",
+      "country": ""
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gunn Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Minkoff"
+  ],
+  "writers": [
+    {
+      "name": "David Berenbaum",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry Bernardi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Gunn",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Hahn",
+      "job": "Producer"
+    },
+    {
+      "name": "Rob Minkoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ben Apley",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "Jim Evers",
+      "order": 0
+    },
+    {
+      "name": "Marsha Thomason",
+      "character": "Sara Evers",
+      "order": 1
+    },
+    {
+      "name": "Terence Stamp",
+      "character": "Ramsley",
+      "order": 2
+    },
+    {
+      "name": "Nathaniel Parker",
+      "character": "Master Gracey",
+      "order": 3
+    },
+    {
+      "name": "Jennifer Tilly",
+      "character": "Madame Leota",
+      "order": 4
+    },
+    {
+      "name": "Dina Spybey-Waters",
+      "character": "Emma",
+      "order": 5
+    },
+    {
+      "name": "Wallace Shawn",
+      "character": "Ezra",
+      "order": 6
+    },
+    {
+      "name": "Marc John Jefferies",
+      "character": "Michael Evers",
+      "order": 7
+    },
+    {
+      "name": "Aree Davis",
+      "character": "Megan Evers",
+      "order": 8
+    },
+    {
+      "name": "Jim Doughan",
+      "character": "Mr. Coleman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lGi5yio4pdDz5PkSeZCbnMQz5vK.jpg",
+  "backdrop_path": "/bz7bdPMzBQcWTsyiT7LrLm0S4rL.jpg",
+  "budget": 90000000,
+  "revenue": 182290266,
+  "vote_average": 5.687,
+  "vote_count": 2111,
+  "imdb_id": "tt0338094",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

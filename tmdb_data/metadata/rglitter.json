@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 10696,
+  "title": "Glitter",
+  "original_title": "Glitter",
+  "release_date": "2001-09-21",
+  "runtime": 104,
+  "tagline": "In music she found her dream, her love, herself.",
+  "overview": "A young woman is catapulted into pop stardom, with her already-famous DJ boyfriend calling the shots.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Glitter Productions",
+      "country": ""
+    },
+    {
+      "name": "Maroon Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Laurence Mark Productions",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Vondie Curtis-Hall"
+  ],
+  "writers": [
+    {
+      "name": "Kate Lanier",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cheryl L. West",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Laurence Mark",
+      "job": "Producer"
+    },
+    {
+      "name": "Kate Lanier",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mariah Carey",
+      "character": "Billie Frank",
+      "order": 0
+    },
+    {
+      "name": "Max Beesley",
+      "character": "Julian 'Dice' Black",
+      "order": 1
+    },
+    {
+      "name": "Da Brat",
+      "character": "Louise",
+      "order": 2
+    },
+    {
+      "name": "Tia Texada",
+      "character": "Roxanne",
+      "order": 3
+    },
+    {
+      "name": "Valarie Pettiford",
+      "character": "Lillian Frank",
+      "order": 4
+    },
+    {
+      "name": "Ann Magnuson",
+      "character": "Kelly",
+      "order": 5
+    },
+    {
+      "name": "Terrence Howard",
+      "character": "Timothy Walker",
+      "order": 6
+    },
+    {
+      "name": "Padma Lakshmi",
+      "character": "Sylk",
+      "order": 7
+    },
+    {
+      "name": "Dorian Harewood",
+      "character": "Guy Richardson",
+      "order": 8
+    },
+    {
+      "name": "Grant Nickalls",
+      "character": "Jack Bridges",
+      "order": 9
+    }
+  ],
+  "poster_path": "/388ru0R7fnBFPaVuJe4caRGGh54.jpg",
+  "backdrop_path": "/qSukSg6JBR3A4iEkRGIfHPC0W5H.jpg",
+  "budget": 22000000,
+  "revenue": 5271666,
+  "vote_average": 4.3,
+  "vote_count": 163,
+  "imdb_id": "tt0118589",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

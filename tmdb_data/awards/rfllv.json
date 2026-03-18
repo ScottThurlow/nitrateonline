@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "22 May 1998",
+  "runtime": "118 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Terry Gilliam",
+  "writer": "Hunter S. Thompson, Terry Gilliam, Tony Grisoni",
+  "actors": "Johnny Depp, Benicio Del Toro, Tobey Maguire",
+  "plot": "The big-screen version of Hunter S. Thompson's seminal psychedelic classic about his road trip across Western America as he and his large Samoan lawyer searched desperately for the \"American dream\"... they were helped in large part by the huge amount of drugs and alcohol kept in their convertible, The Red Shark.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "41",
+  "imdb_rating": "7.5",
+  "imdb_votes": "316,089",
+  "box_office": "$10,680,275",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "51%",
+      "link": "https://www.rottentomatoes.com/search?search=Fear+and+Loathing+in+Las+Vegas"
+    },
+    {
+      "source": "Metacritic",
+      "value": "41/100",
+      "link": "https://www.metacritic.com/search/Fear+and+Loathing+in+Las+Vegas/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120669/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120669/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1878"
+  }
+}

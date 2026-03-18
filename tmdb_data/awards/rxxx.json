@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 wins & 14 nominations total",
+  "rated": "PG-13",
+  "released": "09 Aug 2002",
+  "runtime": "124 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Rob Cohen",
+  "writer": "Rich Wilkes",
+  "actors": "Vin Diesel, Asia Argento, Marton Csokas",
+  "plot": "Xander \"XXX\" Cage is a thrill seeker who until now has been deemed untouchable by the law. NSA Agent Gibbons forces XXX to cooperate with the government to infiltrate an underground Russian crime ring, and avoid going to prison. Gibbons sends XXX to enter this world of crime undetected where others have failed, using his natural athletic prowess and a whole lot of attitude. Xander must combat an organization led by a clever, ruthless and nihilistic Yorgi whose first target is the city of Prague.",
+  "language": "English, German, Spanish, Russian, Czech",
+  "country": "United States",
+  "metascore": "48",
+  "imdb_rating": "5.9",
+  "imdb_votes": "192,071",
+  "box_office": "$142,109,382",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "48%",
+      "link": "https://www.rottentomatoes.com/search?search=xXx"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/xXx/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295701/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295701/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/7451"
+  }
+}

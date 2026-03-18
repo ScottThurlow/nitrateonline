@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win",
+  "rated": "R",
+  "released": "01 Feb 2002",
+  "runtime": "95 min",
+  "genre": "Drama, Comedy, Romance",
+  "director": "Richard Glatzer, Wash Westmoreland",
+  "writer": "Wash Westmoreland",
+  "actors": "Scott Gurney, Michael Cunio, Roxanne Day",
+  "plot": "The story, set in the world of adult entertainment, centers around three characters: Johnny Rebel, a straight man who has become a star in the world of gay porn; Johnny's stripper girlfriend Babylon; and Sean, a naive young man in love with Johnny, who ends up becoming Johnny's \"fluffer\".",
+  "language": "English",
+  "country": "United States",
+  "metascore": "53",
+  "imdb_rating": "5.6",
+  "imdb_votes": "3,085",
+  "box_office": "$563,373",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Fluffer"
+    },
+    {
+      "source": "Metacritic",
+      "value": "53/100",
+      "link": "https://www.metacritic.com/search/The+Fluffer/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0245115/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0245115/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17731"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 1 Oscar. 7 wins & 27 nominations total",
+  "rated": "G",
+  "released": "15 Dec 2000",
+  "runtime": "78 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Mark Dindal",
+  "writer": "David Reynolds, Chris Williams, Mark Dindal",
+  "actors": "David Spade, John Goodman, Eartha Kitt",
+  "plot": "In this animated comedy from the folks at Disney, the vain and cocky Emperor Kuzco (David Spade) is a very busy man. Besides maintaining his \"groove\", and firing his suspicious administrator, Yzma (Eartha Kitt), he's also planning to build a new waterpark just for himself for his birthday. However, this means destroying one of the villages in his kingdom. Meanwhile, Yzma is hatching a plan to get revenge and usurp the throne. But, in a botched assassination courtesy of Yzma's right-hand man, Kronk (Patrick Warburton), Kuzco is magically transformed into a llama. Now, Kuzco finds himself the property of Pacha, a lowly llama herder whose home is ground zero for the water park. Upon discovering the llama's true self, Pacha offers to help resolve the Emperor's problem and regain his throne, only if he promises to move his water park.",
+  "language": "English",
+  "country": "United States, Japan, France",
+  "metascore": "70",
+  "imdb_rating": "7.4",
+  "imdb_votes": "246,493",
+  "box_office": "$89,636,687",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Emperor%27s+New+Groove"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/The+Emperor%27s+New+Groove/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120917/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120917/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11688"
+  }
+}

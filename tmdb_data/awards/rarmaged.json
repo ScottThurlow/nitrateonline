@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 4 Oscars. 15 wins & 41 nominations total",
+  "rated": "PG-13",
+  "released": "01 Jul 1998",
+  "runtime": "151 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Michael Bay",
+  "writer": "Jonathan Hensleigh, J.J. Abrams, Tony Gilroy",
+  "actors": "Bruce Willis, Billy Bob Thornton, Ben Affleck",
+  "plot": "Due to a shuttle's unfortunate demise in outer space, NASA becomes aware of a doomsday asteroid that is on a collision course with Earth. It seems that the only way to knock it off course is to drill into its surface and detonate a nuclear weapon. But as NASA's under-funded yet resourceful team train the world's best drillers for the job, the social order of the world begins to break down as the information reaches the public and hysteria results. As high-ranking officials play politics with the effort, the drilling team all faces deep personal issues which may jeopardize humanity's last chance...",
+  "language": "English, Russian, Indonesian",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "6.7",
+  "imdb_votes": "476,912",
+  "box_office": "$201,578,182",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "43%",
+      "link": "https://www.rottentomatoes.com/search?search=Armageddon"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Armageddon/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120591/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120591/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/95"
+  }
+}

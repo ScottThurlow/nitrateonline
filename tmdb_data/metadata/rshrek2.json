@@ -1,0 +1,280 @@
+{
+  "tmdb_id": 809,
+  "title": "Shrek 2",
+  "original_title": "Shrek 2",
+  "release_date": "2004-05-19",
+  "runtime": 92,
+  "tagline": "What happens after happily ever after?",
+  "overview": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of his faithful Donkey, Shrek takes on a potion-brewing Fairy Godmother, the pompous Prince Charming, and the ogre-killer, Puss In Boots.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Animation",
+      "country": "US"
+    },
+    {
+      "name": "Pacific Data Images",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Conrad Vernon",
+    "Kelly Asbury",
+    "Andrew Adamson"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Adamson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "J. David Stem",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joe Stillman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David N. Weiss",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Steig",
+      "job": "Novel"
+    },
+    {
+      "name": "Mike de Seve",
+      "job": "Story Consultant"
+    },
+    {
+      "name": "Steven E. Gordon",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Andrew Adamson",
+      "job": "Story"
+    },
+    {
+      "name": "Ted Tally",
+      "job": "Script Consultant"
+    },
+    {
+      "name": "Chris Miller",
+      "job": "Head of Story"
+    },
+    {
+      "name": "Walt Dohrn",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Dan Vickrey",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Characters"
+    },
+    {
+      "name": "Terry Rossio",
+      "job": "Characters"
+    },
+    {
+      "name": "Roger S.H. Schulman",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Aron Warner",
+      "job": "Producer"
+    },
+    {
+      "name": "John H. Williams",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Lipman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Myers",
+      "character": "Shrek (voice)",
+      "order": 0
+    },
+    {
+      "name": "Eddie Murphy",
+      "character": "Donkey (voice)",
+      "order": 1
+    },
+    {
+      "name": "Cameron Diaz",
+      "character": "Princess Fiona (voice)",
+      "order": 2
+    },
+    {
+      "name": "Julie Andrews",
+      "character": "Queen Lillian (voice)",
+      "order": 3
+    },
+    {
+      "name": "Antonio Banderas",
+      "character": "Puss in Boots (voice)",
+      "order": 4
+    },
+    {
+      "name": "John Cleese",
+      "character": "King Harold (voice)",
+      "order": 5
+    },
+    {
+      "name": "Rupert Everett",
+      "character": "Prince Charming (voice)",
+      "order": 6
+    },
+    {
+      "name": "Jennifer Saunders",
+      "character": "Fairy Godmother (voice)",
+      "order": 7
+    },
+    {
+      "name": "Aron Warner",
+      "character": "Wolf (voice)",
+      "order": 8
+    },
+    {
+      "name": "Kelly Asbury",
+      "character": "Page / Elf / Nobleman / Nobleman's Son (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+  "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+  "budget": 150000000,
+  "revenue": 935454538,
+  "vote_average": 7.309,
+  "vote_count": 13271,
+  "imdb_id": "tt0298148",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "Ai"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "6+"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    },
+    {
+      "country": "ZA",
+      "rating": "A"
+    }
+  ],
+  "status": "Released"
+}

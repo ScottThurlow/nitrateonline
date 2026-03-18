@@ -1,0 +1,241 @@
+{
+  "tmdb_id": 2668,
+  "title": "Sleepy Hollow",
+  "original_title": "Sleepy Hollow",
+  "release_date": "1999-11-19",
+  "runtime": 105,
+  "tagline": "Heads will roll.",
+  "overview": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+  "genres": [
+    "Fantasy",
+    "Thriller",
+    "Mystery",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mandalay Pictures",
+      "country": "US"
+    },
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    },
+    {
+      "name": "Karol Film Productions",
+      "country": ""
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    },
+    {
+      "name": "Tim Burton Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tim Burton"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Kevin Walker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Yagher",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Andrew Kevin Walker",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Washington Irving",
+      "job": "Novel"
+    },
+    {
+      "name": "Narges Takesh",
+      "job": "Story Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Larry Franco",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Johnny Depp",
+      "character": "Ichabod Crane",
+      "order": 0
+    },
+    {
+      "name": "Christina Ricci",
+      "character": "Katrina Van Tassel",
+      "order": 1
+    },
+    {
+      "name": "Miranda Richardson",
+      "character": "Lady Mary Van Tassel / Crone Witch",
+      "order": 2
+    },
+    {
+      "name": "Michael Gambon",
+      "character": "Baltus Van Tassel",
+      "order": 3
+    },
+    {
+      "name": "Casper Van Dien",
+      "character": "Brom Van Brunt",
+      "order": 4
+    },
+    {
+      "name": "Jeffrey Jones",
+      "character": "Reverend Steenwyck",
+      "order": 5
+    },
+    {
+      "name": "Richard Griffiths",
+      "character": "Bürgermeister Phillipse",
+      "order": 6
+    },
+    {
+      "name": "Ian McDiarmid",
+      "character": "Dr. Lancaster",
+      "order": 7
+    },
+    {
+      "name": "Michael Gough",
+      "character": "Notary Hardenbrook",
+      "order": 8
+    },
+    {
+      "name": "Christopher Walken",
+      "character": "Hessian Horseman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
+  "backdrop_path": "/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
+  "budget": 100000000,
+  "revenue": 206071526,
+  "vote_average": 7.188,
+  "vote_count": 7272,
+  "imdb_id": "tt0162661",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    }
+  ],
+  "status": "Released"
+}

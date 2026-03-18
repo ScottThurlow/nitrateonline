@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 11478,
+  "title": "The Skulls",
+  "original_title": "The Skulls",
+  "release_date": "2000-03-31",
+  "runtime": 106,
+  "tagline": "Getting in is easy. Getting out is a killer.",
+  "overview": "A senior at an Ivy League college, who depends on scholarships and working on the side, gets accepted into the secret society The Skulls. He hopes it betters chances at Harvard but The Skulls is not what he thought and comes at a price.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "Newmarket Capital Group",
+      "country": "US"
+    },
+    {
+      "name": "Cranium Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Rob Cohen"
+  ],
+  "writers": [
+    {
+      "name": "John Pogue",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Pogue",
+      "job": "Producer"
+    },
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "William Tyrer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Mellon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christopher Ball",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joshua Jackson",
+      "character": "Luke McNamara",
+      "order": 0
+    },
+    {
+      "name": "Paul Walker",
+      "character": "Caleb Mandrake",
+      "order": 1
+    },
+    {
+      "name": "Hill Harper",
+      "character": "Will Beckford",
+      "order": 2
+    },
+    {
+      "name": "Leslie Bibb",
+      "character": "Chloe",
+      "order": 3
+    },
+    {
+      "name": "Christopher McDonald",
+      "character": "Martin Lombard",
+      "order": 4
+    },
+    {
+      "name": "Steve Harris",
+      "character": "Detective Sparrow",
+      "order": 5
+    },
+    {
+      "name": "William Petersen",
+      "character": "Ames Levritt",
+      "order": 6
+    },
+    {
+      "name": "Craig T. Nelson",
+      "character": "Litten Mandrake",
+      "order": 7
+    },
+    {
+      "name": "David Asman",
+      "character": "Jason Pitcairn",
+      "order": 8
+    },
+    {
+      "name": "Scott Gibson",
+      "character": "Travis Wheeler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pYuggibfzm8LWgjnUKMMtii2430.jpg",
+  "backdrop_path": "/4kWVUyJAF9AUrcBlNBOxs4ikcQf.jpg",
+  "budget": 15000000,
+  "revenue": 50802120,
+  "vote_average": 5.8,
+  "vote_count": 585,
+  "imdb_id": "tt0192614",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

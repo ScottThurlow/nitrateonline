@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "4 wins & 6 nominations total",
+  "rated": "R",
+  "released": "04 Dec 1998",
+  "runtime": "105 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Gus Van Sant",
+  "writer": "Robert Bloch, Joseph Stefano",
+  "actors": "Vince Vaughn, Anne Heche, Julianne Moore",
+  "plot": "Marion Crane steals a lot of cash from a man whom her boss is in business with. On the way to see her boyfriend, she stops off by an old motel, run by the odd Norman Bates. She is murdered in the shower. Her sister, boyfriend, and a private investigator try to find out where she is, while we learn more about Norman Bates.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "47",
+  "imdb_rating": "4.6",
+  "imdb_votes": "51,842",
+  "box_office": "$21,485,655",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "40%",
+      "link": "https://www.rottentomatoes.com/search?search=Psycho"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/Psycho/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0155975/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0155975/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11252"
+  }
+}

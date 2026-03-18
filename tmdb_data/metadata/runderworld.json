@@ -1,0 +1,236 @@
+{
+  "tmdb_id": 277,
+  "title": "Underworld",
+  "original_title": "Underworld",
+  "release_date": "2003-09-19",
+  "runtime": 122,
+  "tagline": "An immortal battle for supremacy.",
+  "overview": "Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war.",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Len Wiseman"
+  ],
+  "writers": [
+    {
+      "name": "Danny McBride",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Grevioux",
+      "job": "Story"
+    },
+    {
+      "name": "Len Wiseman",
+      "job": "Story"
+    },
+    {
+      "name": "Danny McBride",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Lucchesi",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard S. Wright",
+      "job": "Producer"
+    },
+    {
+      "name": "Skip Williamson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Henry Winterstern",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Terry McKay",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James McQuaide",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Bernacchi",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Beckinsale",
+      "character": "Selene",
+      "order": 0
+    },
+    {
+      "name": "Scott Speedman",
+      "character": "Michael Corvin",
+      "order": 1
+    },
+    {
+      "name": "Michael Sheen",
+      "character": "Lucian",
+      "order": 2
+    },
+    {
+      "name": "Shane Brolly",
+      "character": "Kraven",
+      "order": 3
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "Viktor",
+      "order": 4
+    },
+    {
+      "name": "Erwin Leder",
+      "character": "Singe",
+      "order": 5
+    },
+    {
+      "name": "Sophia Myles",
+      "character": "Erika",
+      "order": 6
+    },
+    {
+      "name": "Robbie Gee",
+      "character": "Kahn",
+      "order": 7
+    },
+    {
+      "name": "Wentworth Miller",
+      "character": "Dr. Adam Lockwood",
+      "order": 8
+    },
+    {
+      "name": "Kevin Grevioux",
+      "character": "Raze",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg",
+  "backdrop_path": "/zsgdVbuEwqZbnUN9qLGEMBYf2Zo.jpg",
+  "budget": 22000000,
+  "revenue": 95708457,
+  "vote_average": 6.846,
+  "vote_count": 6510,
+  "imdb_id": "tt0320691",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "UA",
+      "rating": "R"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

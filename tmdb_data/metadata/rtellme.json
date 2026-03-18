@@ -1,0 +1,133 @@
+{
+  "tmdb_id": 16371,
+  "title": "Tell Me Something",
+  "original_title": "텔 미 썸딩",
+  "release_date": "1999-11-13",
+  "runtime": 118,
+  "tagline": "Crimes This Horrible... Are Better Left Unsolved.",
+  "overview": "Detective Cho, a cop on the edge, is mourning his mother's recent death while under investigation for graft; on top of that he is suddenly put in charge of a seemingly-impenetrable mystery.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "Korean"
+  ],
+  "production_companies": [
+    {
+      "name": "Koo & Cee Film",
+      "country": ""
+    },
+    {
+      "name": "Mirovision",
+      "country": "KR"
+    }
+  ],
+  "director": [
+    "Chang Youn-hyun"
+  ],
+  "writers": [
+    {
+      "name": "Chang Youn-hyun",
+      "job": "Author"
+    },
+    {
+      "name": "Kim Eun-jeong",
+      "job": "Author"
+    },
+    {
+      "name": "Shim Hye-weon",
+      "job": "Author"
+    },
+    {
+      "name": "Kong Su-chang",
+      "job": "Author"
+    },
+    {
+      "name": "In Eun-ah",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ku Bon-han",
+      "job": "Producer"
+    },
+    {
+      "name": "Choe Kwi-deok",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chang Youn-hyun",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Han Suk-kyu",
+      "character": "Detective Cho",
+      "order": 0
+    },
+    {
+      "name": "Shim Eun-ha",
+      "character": "Chae Su-yeon",
+      "order": 1
+    },
+    {
+      "name": "Jang Hang-seon",
+      "character": "Detective Oh",
+      "order": 2
+    },
+    {
+      "name": "Yu Jun-sang",
+      "character": "Kim Ki-yeon",
+      "order": 3
+    },
+    {
+      "name": "Yum Jung-ah",
+      "character": "Oh Seung-min",
+      "order": 4
+    },
+    {
+      "name": "Ahn Suk-hwan",
+      "character": "Prosecutor Gu",
+      "order": 5
+    },
+    {
+      "name": "Kim Jung-hak",
+      "character": "Detective Lee",
+      "order": 6
+    },
+    {
+      "name": "Gil Eun-hye",
+      "character": "Young Soo-yeon",
+      "order": 7
+    },
+    {
+      "name": "Park Cheol-ho",
+      "character": "Section Chief Yoo",
+      "order": 8
+    },
+    {
+      "name": "Lee Hwan-jun",
+      "character": "Detective Kim",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jRyGUU4WiK8EOQqeIUvhutITFlr.jpg",
+  "backdrop_path": "/v2lrrGksxcc0hDD2LP8RxKz712b.jpg",
+  "budget": 0,
+  "revenue": 68416,
+  "vote_average": 6.2,
+  "vote_count": 58,
+  "imdb_id": "tt0220806",
+  "certifications": [
+    {
+      "country": "KR",
+      "rating": "19"
+    }
+  ],
+  "status": "Released"
+}

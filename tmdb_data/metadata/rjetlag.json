@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 18300,
+  "title": "Jet Lag",
+  "original_title": "Décalage Horaire",
+  "release_date": "2002-10-30",
+  "runtime": 91,
+  "tagline": "",
+  "overview": "At Charles de Gaulle Airport in Paris, a beautician on her way to a new job in Mexico accidentally meets a cook who is on his way back from America. Labor strikes, bad weather, and pure luck cause the two of them to share a room overnight at the airport Hilton hotel. Will their initial mutual indifference and downright hostility turn into a one night stand or perhaps something more?",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "Les Films Alain Sarde",
+      "country": "FR"
+    },
+    {
+      "name": "TF1 Films Production",
+      "country": "FR"
+    },
+    {
+      "name": "Pathé",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Danièle Thompson"
+  ],
+  "writers": [
+    {
+      "name": "Danièle Thompson",
+      "job": "Writer"
+    },
+    {
+      "name": "Christopher Thompson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Gozlan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jean Reno",
+      "character": "Félix",
+      "order": 0
+    },
+    {
+      "name": "Juliette Binoche",
+      "character": "Rose",
+      "order": 1
+    },
+    {
+      "name": "Sergi López",
+      "character": "Sergio",
+      "order": 2
+    },
+    {
+      "name": "Scali Delpeyrat",
+      "character": "Doctor",
+      "order": 3
+    },
+    {
+      "name": "Karine Belly",
+      "character": "Air France Attendant",
+      "order": 4
+    },
+    {
+      "name": "Raoul Billerey",
+      "character": "Félix's Father",
+      "order": 5
+    },
+    {
+      "name": "Nadège Beausson-Diagne",
+      "character": "Roissy Passenger",
+      "order": 6
+    },
+    {
+      "name": "Alice Taglioni",
+      "character": "Ground Hostess",
+      "order": 7
+    },
+    {
+      "name": "Jérôme Keen",
+      "character": "Concierge",
+      "order": 8
+    },
+    {
+      "name": "Sébastien Lalanne",
+      "character": "Barman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/us5es90wJgcXcWbFbmQG1yp6pEk.jpg",
+  "backdrop_path": "/93MS7SP7mLrNpGbBA7bhJf91fMm.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 139,
+  "imdb_id": "tt0293116",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    }
+  ],
+  "status": "Released"
+}

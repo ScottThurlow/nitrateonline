@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "3 wins & 4 nominations total",
+  "rated": "PG-13",
+  "released": "13 Mar 1998",
+  "runtime": "132 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Randall Wallace",
+  "writer": "Alexandre Dumas, Randall Wallace",
+  "actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich",
+  "plot": "Paris is starving, but the King of France is more interested in money and bedding women. When a young soldier dies for the sake of a shag, Aramis, Athos and Porthos band together with a plan to replace the king. Unknown to many, there is a 2nd king, a twin, hidden at birth, then imprisoned for 6 years behind an iron mask. All that remains now is D'Artagnan, will he stand against his long time friends, or do what is best for his country?",
+  "language": "English, Italian",
+  "country": "United Kingdom, United States",
+  "metascore": "49",
+  "imdb_rating": "6.5",
+  "imdb_votes": "189,340",
+  "box_office": "$56,968,902",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "33%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Man+in+the+Iron+Mask"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/The+Man+in+the+Iron+Mask/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120744/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120744/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9313"
+  }
+}

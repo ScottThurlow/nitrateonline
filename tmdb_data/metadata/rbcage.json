@@ -1,0 +1,171 @@
+{
+  "tmdb_id": 11000,
+  "title": "The Birdcage",
+  "original_title": "The Birdcage",
+  "release_date": "1996-03-03",
+  "runtime": 119,
+  "tagline": "Come as you are.",
+  "overview": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "United Artists",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mike Nichols"
+  ],
+  "writers": [
+    {
+      "name": "Elaine May",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Édouard Molinaro",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Francis Veber",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Jean Poiret",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Marcello Danon",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Jean Poiret",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mike Nichols",
+      "job": "Producer"
+    },
+    {
+      "name": "Marcello Danon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Neil Machlis",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "character": "Armand Goldman",
+      "order": 0
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "Senator Kevin Keeley",
+      "order": 1
+    },
+    {
+      "name": "Nathan Lane",
+      "character": "Albert",
+      "order": 2
+    },
+    {
+      "name": "Dianne Wiest",
+      "character": "Louise Keeley",
+      "order": 3
+    },
+    {
+      "name": "Dan Futterman",
+      "character": "Val Goldman",
+      "order": 4
+    },
+    {
+      "name": "Calista Flockhart",
+      "character": "Barbara Keeley",
+      "order": 5
+    },
+    {
+      "name": "Hank Azaria",
+      "character": "Agador",
+      "order": 6
+    },
+    {
+      "name": "Christine Baranski",
+      "character": "Katharine Archer",
+      "order": 7
+    },
+    {
+      "name": "Tom McGowan",
+      "character": "Harry Radman",
+      "order": 8
+    },
+    {
+      "name": "Grant Heslov",
+      "character": "Photographer - National Enquirer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hU2XeckncHS61TWZKDtw1BrKmOO.jpg",
+  "backdrop_path": "/yNOtXSNep1BLnfZ0yhLejm1TULi.jpg",
+  "budget": 31000000,
+  "revenue": 185300000,
+  "vote_average": 7.1,
+  "vote_count": 1325,
+  "imdb_id": "tt0115685",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

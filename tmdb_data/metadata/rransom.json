@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 3595,
+  "title": "Ransom",
+  "original_title": "Ransom",
+  "release_date": "1996-11-08",
+  "runtime": 121,
+  "tagline": "Someone is going to pay.",
+  "overview": "When a rich man's son is kidnapped, he cooperates with the police at first but then tries a unique tactic against the criminals.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Howard"
+  ],
+  "writers": [
+    {
+      "name": "Richard Price",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alexander Ignon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cyril Hume",
+      "job": "Original Story"
+    },
+    {
+      "name": "Richard Maibaum",
+      "job": "Original Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Hallowell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mel Gibson",
+      "character": "Tom Mullen",
+      "order": 0
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Katherine Mullen",
+      "order": 1
+    },
+    {
+      "name": "Gary Sinise",
+      "character": "Det. Jimmy Shaker",
+      "order": 2
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Agent Lonnie Hawkins",
+      "order": 3
+    },
+    {
+      "name": "Lili Taylor",
+      "character": "Maris",
+      "order": 4
+    },
+    {
+      "name": "Brawley Nolte",
+      "character": "Sean Mullen",
+      "order": 5
+    },
+    {
+      "name": "Liev Schreiber",
+      "character": "Clark Barnes",
+      "order": 6
+    },
+    {
+      "name": "Donnie Wahlberg",
+      "character": "Cubby Barnes",
+      "order": 7
+    },
+    {
+      "name": "Evan Handler",
+      "character": "Miles Roberts",
+      "order": 8
+    },
+    {
+      "name": "Nancy Ticotin",
+      "character": "Agent Kimba Welch",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+  "backdrop_path": "/vb6JwkHIcKiVvYrUFzuZbN7nUqN.jpg",
+  "budget": 80000000,
+  "revenue": 309492681,
+  "vote_average": 6.7,
+  "vote_count": 2027,
+  "imdb_id": "tt0117438",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

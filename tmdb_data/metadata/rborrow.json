@@ -1,0 +1,150 @@
+{
+  "tmdb_id": 9449,
+  "title": "The Borrowers",
+  "original_title": "The Borrowers",
+  "release_date": "1997-12-05",
+  "runtime": 87,
+  "tagline": "Little People. Big Trouble. Lots of fun.",
+  "overview": "The four-inch-tall Clock family secretly share a house with the normal-sized Lender family, \"borrowing\" such items as thread, safety pins, batteries and scraps of food. However, their peaceful co-existence is disturbed when evil lawyer Ocious P. Potter steals the will granting title to the house, which he plans to demolish in order to build apartments. The Lenders are forced to move, and the Clocks face the risk of being exposed to the normal-sized world.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "PolyGram Filmed Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Hewitt"
+  ],
+  "writers": [
+    {
+      "name": "Gavin Scott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Kamps",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mary Norton",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rachel Talalay",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Bevan",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Producer"
+    },
+    {
+      "name": "Walt deFaria",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Goodman",
+      "character": "Ocious P. Potter",
+      "order": 0
+    },
+    {
+      "name": "Mark Williams",
+      "character": "Exterminator Jeff",
+      "order": 1
+    },
+    {
+      "name": "Jim Broadbent",
+      "character": "Pod Clock",
+      "order": 2
+    },
+    {
+      "name": "Celia Imrie",
+      "character": "Homily Clock",
+      "order": 3
+    },
+    {
+      "name": "Flora Newbigin",
+      "character": "Arrietty Clock",
+      "order": 4
+    },
+    {
+      "name": "Tom Felton",
+      "character": "Peagreen Clock",
+      "order": 5
+    },
+    {
+      "name": "Raymond Pickard",
+      "character": "Spiller",
+      "order": 6
+    },
+    {
+      "name": "Bradley Pierce",
+      "character": "Pete Lender",
+      "order": 7
+    },
+    {
+      "name": "Aden Gillett",
+      "character": "Joe Lender",
+      "order": 8
+    },
+    {
+      "name": "Doon Mackichan",
+      "character": "Victoria Lender",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kgaocWyuxihDe5aNqok6fORIHnY.jpg",
+  "backdrop_path": "/8lINDPYxDBKIedM7ZGsTytmZ0ga.jpg",
+  "budget": 29000000,
+  "revenue": 22619699,
+  "vote_average": 6.035,
+  "vote_count": 512,
+  "imdb_id": "tt0118755",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 15192,
+  "title": "The Grey Zone",
+  "original_title": "The Grey Zone",
+  "release_date": "2001-09-13",
+  "runtime": 108,
+  "tagline": "The story you've never seen.",
+  "overview": "The story of Auschwitz's twelfth Sonderkommando — one of the thirteen consecutive \"Special Squads\" of Jewish prisoners placed by the Nazis in the excruciating moral dilemma of assisting in the extermination of fellow Jews in exchange for a few more months of life.",
+  "genres": [
+    "Drama",
+    "War",
+    "History"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "The Goatsingers",
+      "country": "US"
+    },
+    {
+      "name": "Millennium Media",
+      "country": "US"
+    },
+    {
+      "name": "Killer Films",
+      "country": "US"
+    },
+    {
+      "name": "Martien Holdings A.V.V.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Tim Blake Nelson"
+  ],
+  "writers": [
+    {
+      "name": "Miklos Nyiszli",
+      "job": "Novel"
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harvey Keitel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pamela Koffler",
+      "job": "Producer"
+    },
+    {
+      "name": "Avi Lerner",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny Lerner",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Vachon",
+      "job": "Producer"
+    },
+    {
+      "name": "Danny Dimbort",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peggy Gormley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Trevor Short",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Wells",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brad Weston",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Arquette",
+      "character": "Hoffman",
+      "order": 0
+    },
+    {
+      "name": "Velizar Binev",
+      "character": "Moll",
+      "order": 1
+    },
+    {
+      "name": "Michael Stuhlbarg",
+      "character": "Cohen",
+      "order": 2
+    },
+    {
+      "name": "Daniel Benzali",
+      "character": "Simon Schlermer",
+      "order": 3
+    },
+    {
+      "name": "Allan Corduner",
+      "character": "Nyiszli",
+      "order": 4
+    },
+    {
+      "name": "Steve Buscemi",
+      "character": "'Hesch' Abramowics",
+      "order": 5
+    },
+    {
+      "name": "Harvey Keitel",
+      "character": "SS-Oberscharfuhrer Eric Muhsfeldt",
+      "order": 6
+    },
+    {
+      "name": "Natasha Lyonne",
+      "character": "Rosa",
+      "order": 7
+    },
+    {
+      "name": "Mira Sorvino",
+      "character": "Dina",
+      "order": 8
+    },
+    {
+      "name": "Brían F. O'Byrne",
+      "character": "Interrogator",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8jRsWnpciWHRy0MC7K5eMDKKqPw.jpg",
+  "backdrop_path": "/mbkRfz30Ywyck2dWrjOlNmxXgVw.jpg",
+  "budget": 5000000,
+  "revenue": 621592,
+  "vote_average": 6.6,
+  "vote_count": 173,
+  "imdb_id": "tt0252480",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "6 wins & 16 nominations total",
+  "rated": "R",
+  "released": "20 Oct 1995",
+  "runtime": "105 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Barry Sonnenfeld",
+  "writer": "Elmore Leonard, Scott Frank",
+  "actors": "Gene Hackman, Rene Russo, Danny DeVito",
+  "plot": "Some guys get all the luck, whether they like it or not. Chili Palmer happens to be in Hollywood collecting a gambling debt when he's struck by lightning (not literally). Called a natural for the movie business, he's snagged up by a producer. The rest is history.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "81",
+  "imdb_rating": "6.9",
+  "imdb_votes": "95,310",
+  "box_office": "$72,101,622",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "89%",
+      "link": "https://www.rottentomatoes.com/search?search=Get+Shorty"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/Get+Shorty/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0113161/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0113161/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8012"
+  }
+}

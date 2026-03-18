@@ -1,0 +1,213 @@
+{
+  "tmdb_id": 564,
+  "title": "The Mummy",
+  "original_title": "The Mummy",
+  "release_date": "1999-04-16",
+  "runtime": 124,
+  "tagline": "The sands will rise. The heavens will part. The power will be unleashed.",
+  "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Arabic"
+  ],
+  "production_companies": [
+    {
+      "name": "Alphaville Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stephen Sommers"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Sommers",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lloyd Fonvielle",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Kevin Jarre",
+      "job": "Screenstory"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kevin Jarre",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sean Daniel",
+      "job": "Producer"
+    },
+    {
+      "name": "James Jacks",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brendan Fraser",
+      "character": "Rick O'Connell",
+      "order": 0
+    },
+    {
+      "name": "Rachel Weisz",
+      "character": "Evelyn Carnahan",
+      "order": 1
+    },
+    {
+      "name": "John Hannah",
+      "character": "Jonathan Carnahan",
+      "order": 2
+    },
+    {
+      "name": "Arnold Vosloo",
+      "character": "Imhotep",
+      "order": 3
+    },
+    {
+      "name": "Patricia Velásquez",
+      "character": "Anck-Su-Namun",
+      "order": 4
+    },
+    {
+      "name": "Oded Fehr",
+      "character": "Ardeth Bay",
+      "order": 5
+    },
+    {
+      "name": "Kevin J. O'Connor",
+      "character": "Beni Gabor",
+      "order": 6
+    },
+    {
+      "name": "Jonathan Hyde",
+      "character": "Allen Chamberlain",
+      "order": 7
+    },
+    {
+      "name": "Erick Avari",
+      "character": "Terence Bey",
+      "order": 8
+    },
+    {
+      "name": "Stephen Dunham",
+      "character": "Isaac Henderson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+  "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+  "budget": 80000000,
+  "revenue": 415885488,
+  "vote_average": 6.962,
+  "vote_count": 9817,
+  "imdb_id": "tt0120616",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-11"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

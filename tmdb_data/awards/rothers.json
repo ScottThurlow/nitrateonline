@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 2 BAFTA 29 wins & 55 nominations total",
+  "rated": "PG-13",
+  "released": "10 Aug 2001",
+  "runtime": "104 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Alejandro Amenábar",
+  "writer": "Alejandro Amenábar",
+  "actors": "Nicole Kidman, Christopher Eccleston, Fionnula Flanagan",
+  "plot": "A woman named Grace retires with her two children to a mansion on Jersey, towards the end of the Second World War, where she's waiting for her husband to come back from battle. The children have a disease which means they cannot be touched by direct sunlight without being hurt in some way. They will live alone there with oppressive, strange and almost religious rules, until she needs to hire a group of servants for them. Their arrival will accidentally begin to break the rules with unexpected consequences.",
+  "language": "English",
+  "country": "Spain, France, United States",
+  "metascore": "74",
+  "imdb_rating": "7.6",
+  "imdb_votes": "424,115",
+  "box_office": "$96,578,502",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "84%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Others"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/The+Others/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0230600/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0230600/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1933"
+  }
+}

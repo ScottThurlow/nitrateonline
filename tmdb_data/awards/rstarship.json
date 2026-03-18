@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 1 Oscar. 3 wins & 16 nominations total",
+  "rated": "R",
+  "released": "07 Nov 1997",
+  "runtime": "129 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Paul Verhoeven",
+  "writer": "Edward Neumeier, Robert A. Heinlein",
+  "actors": "Casper Van Dien, Denise Richards, Dina Meyer",
+  "plot": "In the distant future high school kids are encouraged to become citizens by joining the military. What they don't know is that they'll soon be engaged in a full scale war against a planet of alien insects. The fight is on to ensure the safety of humanity.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "7.3",
+  "imdb_votes": "343,889",
+  "box_office": "$54,814,377",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Starship+Troopers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Starship+Troopers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120201/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120201/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/563"
+  }
+}

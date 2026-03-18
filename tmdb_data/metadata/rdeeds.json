@@ -1,0 +1,199 @@
+{
+  "tmdb_id": 2022,
+  "title": "Mr. Deeds",
+  "original_title": "Mr. Deeds",
+  "release_date": "2002-06-28",
+  "runtime": 97,
+  "tagline": "Don't let the fancy clothes fool you.",
+  "overview": "When Longfellow Deeds, a small-town pizzeria owner and poet, inherits $40 billion from his deceased uncle, he quickly begins rolling in a different kind of dough. Moving to the big city, Deeds finds himself besieged by opportunists all gunning for their piece of the pie. Babe, a television tabloid reporter, poses as an innocent small-town girl to do an exposé on Deeds.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Happy Madison Productions",
+      "country": "US"
+    },
+    {
+      "name": "Out of the Blue... Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Steven Brill"
+  ],
+  "writers": [
+    {
+      "name": "Tim Herlihy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robert Riskin",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Clarence Budington Kelland",
+      "job": "Short Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jack Giarraputo",
+      "job": "Producer"
+    },
+    {
+      "name": "Sidney Ganis",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph M. Caracciolo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Sandler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Adam Sandler",
+      "character": "Longfellow Deeds",
+      "order": 0
+    },
+    {
+      "name": "Winona Ryder",
+      "character": "Babe Bennett",
+      "order": 1
+    },
+    {
+      "name": "John Turturro",
+      "character": "Emilio Lopez",
+      "order": 2
+    },
+    {
+      "name": "Allen Covert",
+      "character": "Marty",
+      "order": 3
+    },
+    {
+      "name": "Peter Gallagher",
+      "character": "Chuck Cedar",
+      "order": 4
+    },
+    {
+      "name": "Jared Harris",
+      "character": "Mac McGrath",
+      "order": 5
+    },
+    {
+      "name": "Erick Avari",
+      "character": "Cecil Anderson",
+      "order": 6
+    },
+    {
+      "name": "Peter Dante",
+      "character": "Murph",
+      "order": 7
+    },
+    {
+      "name": "Conchata Ferrell",
+      "character": "Jan",
+      "order": 8
+    },
+    {
+      "name": "Harve Presnell",
+      "character": "Preston Blake",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7gGk3pkpRsNlJ4PrJgEfgY9PG43.jpg",
+  "backdrop_path": "/7P3VyWQTnZOYIQnk5seM0YQ9ucg.jpg",
+  "budget": 50000000,
+  "revenue": 171269565,
+  "vote_average": 5.916,
+  "vote_count": 2473,
+  "imdb_id": "tt0280590",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

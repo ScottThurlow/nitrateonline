@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations total",
+  "rated": "PG-13",
+  "released": "27 Mar 2002",
+  "runtime": "92 min",
+  "genre": "Romance, Thriller",
+  "director": "Laetitia Colombani",
+  "writer": "Laetitia Colombani, Caroline Thivel",
+  "actors": "Audrey Tautou, Samuel Le Bihan, Isabelle Carré",
+  "plot": "Angelique, a young student, is in love with a married doctor. We see her attempts to make him leave his pregnant wife, but he does not appear for meetings or finally the booked journey to Florence. Then the movie is turned back to the beginning, and the view changes: We are now following the view of the doctor instead of Angeliques. And things look quite different now...",
+  "language": "French",
+  "country": "France",
+  "metascore": "63",
+  "imdb_rating": "7.1",
+  "imdb_votes": "19,914",
+  "box_office": "$1,011,102",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=He+Loves+Me%2C+He+Loves+Me+Not"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/He+Loves+Me%2C+He+Loves+Me+Not/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0291579/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0291579/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12112"
+  }
+}

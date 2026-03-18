@@ -1,0 +1,183 @@
+{
+  "tmdb_id": 6623,
+  "title": "The Peacemaker",
+  "original_title": "The Peacemaker",
+  "release_date": "1997-09-26",
+  "runtime": 124,
+  "tagline": "In the fall of 1997, every nuclear device in the world will be accounted for...except one.",
+  "overview": "When a train carrying atomic warheads mysteriously crashes in the former Soviet Union, a nuclear specialist discovers the accident is really part of a plot to cover up the theft of the weapons. Assigned to help her recover the missing bombs is a crack Special Forces Colonel.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian",
+    "Serbian",
+    "Bosnian",
+    "Croatian"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mimi Leder"
+  ],
+  "writers": [
+    {
+      "name": "Michael Schiffer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Bernhardt",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Branko Lustig",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Grillo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurie MacDonald",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kevin Bernhardt",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "George Clooney",
+      "character": "Lt. Col. Thomas Devoe",
+      "order": 0
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Dr. Julia Kelly",
+      "order": 1
+    },
+    {
+      "name": "Marcel Iureș",
+      "character": "Dusan Gavrich",
+      "order": 2
+    },
+    {
+      "name": "Aleksandr Baluev",
+      "character": "General Aleksandr Kodoroff",
+      "order": 3
+    },
+    {
+      "name": "Rene Medvešek",
+      "character": "Vlado Mirich",
+      "order": 4
+    },
+    {
+      "name": "Armin Mueller-Stahl",
+      "character": "Dimitri Vertikoff",
+      "order": 5
+    },
+    {
+      "name": "Goran Višnjić",
+      "character": "Bazta Sergeant",
+      "order": 6
+    },
+    {
+      "name": "Tamara Tunie",
+      "character": "Jody",
+      "order": 7
+    },
+    {
+      "name": "Gary Werntz",
+      "character": "Terry Hamilton",
+      "order": 8
+    },
+    {
+      "name": "Randall Batinkoff",
+      "character": "Ken",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg",
+  "backdrop_path": "/lwEuFWTUsXbQWF6wU3Ui7mcAoId.jpg",
+  "budget": 50000000,
+  "revenue": 110463140,
+  "vote_average": 6.0,
+  "vote_count": 1102,
+  "imdb_id": "tt0119874",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

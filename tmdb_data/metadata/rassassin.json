@@ -1,0 +1,86 @@
+{
+  "tmdb_id": 36584,
+  "title": "Interview with the Assassin",
+  "original_title": "Interview with the Assassin",
+  "release_date": "2002-10-10",
+  "runtime": 88,
+  "tagline": "Dallas. 1963. The second shooter.",
+  "overview": "Out of work TV cameraman Ron Kobelski is approached by his formerly reclusive neighbor Walter Ohlinger. Ohlinger claims that he was the mysterious \"second gunman\" that shot and killed President Kennedy. Ohlinger has kept quiet all these years, but has decided to tell his story now that he has been diagnosed with terminal cancer. Kobelski is skeptical of his neighbor's story, after his investigations provide ambiguous answers. His attitude changes, however, after he receives threatening messages on his answering machine, and spots shadowy figures in his backyard. Is Ohlinger telling the truth? Or is there a bigger conspiracy at work?",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Magnolia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Neil Burger"
+  ],
+  "writers": [
+    {
+      "name": "Neil Burger",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Levien",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Tucker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Koppelman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dylan Haggerty",
+      "character": "Ron Kobeleski",
+      "order": 0
+    },
+    {
+      "name": "Renee Faia",
+      "character": "Sharon Kobeleski",
+      "order": 1
+    },
+    {
+      "name": "Raymond J. Barry",
+      "character": "Walter Ohlinger",
+      "order": 3
+    },
+    {
+      "name": "Kelsey Kemper",
+      "character": "Karen Kobeleski",
+      "order": 4
+    },
+    {
+      "name": "Jared McVay",
+      "character": "Jimmy Jones",
+      "order": 5
+    },
+    {
+      "name": "Dennis Lau",
+      "character": "Steven Wu",
+      "order": 6
+    }
+  ],
+  "poster_path": "/yCEP43DIYqx8NM9ttcmgSnxScRI.jpg",
+  "backdrop_path": "/4OI84heveHnK3BSUN3AtXsIXTWh.jpg",
+  "budget": 500000,
+  "revenue": 0,
+  "vote_average": 5.375,
+  "vote_count": 24,
+  "imdb_id": "tt0308411",
+  "certifications": [],
+  "status": "Released"
+}

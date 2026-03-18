@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 9437,
+  "title": "Kiss the Girls",
+  "original_title": "Kiss the Girls",
+  "release_date": "1997-09-29",
+  "runtime": 115,
+  "tagline": "Smart girls. Pretty girls. Missing girls.",
+  "overview": "Forensic psychologist and detective Alex Cross travels to North Carolina and teams with escaped kidnap victim Kate McTiernan to hunt down \"Casanova,\" a serial killer who abducts strong-willed women and forces them to submit to his demands. The trail leads to Los Angeles, where the duo discovers that the psychopath may not be working alone.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Rysher Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "David Brown Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Fleder"
+  ],
+  "writers": [
+    {
+      "name": "James Patterson",
+      "job": "Novel"
+    },
+    {
+      "name": "David Klass",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "Joe Wizan",
+      "job": "Producer"
+    },
+    {
+      "name": "C.O. Erickson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Morgan Freeman",
+      "character": "Det. Alex Cross",
+      "order": 0
+    },
+    {
+      "name": "Ashley Judd",
+      "character": "Dr. Kate McTiernan",
+      "order": 1
+    },
+    {
+      "name": "Cary Elwes",
+      "character": "Det. Nick Ruskin",
+      "order": 2
+    },
+    {
+      "name": "Alex McArthur",
+      "character": "Det. Davey Sikes",
+      "order": 3
+    },
+    {
+      "name": "Tony Goldwyn",
+      "character": "Dr. Will Rudolph",
+      "order": 4
+    },
+    {
+      "name": "Jay O. Sanders",
+      "character": "FBI Agent Kyle Craig",
+      "order": 5
+    },
+    {
+      "name": "Bill Nunn",
+      "character": "Det. John Sampson, LAPD",
+      "order": 6
+    },
+    {
+      "name": "Brian Cox",
+      "character": "Chief Hatfield, Durham PD",
+      "order": 7
+    },
+    {
+      "name": "Richard T. Jones",
+      "character": "Seth Samuel",
+      "order": 8
+    },
+    {
+      "name": "Roma Maffia",
+      "character": "Dr. Ruocco",
+      "order": 9
+    }
+  ],
+  "poster_path": "/25h5I3E3ydhazsPDnscWHivq5pn.jpg",
+  "backdrop_path": "/y319VH0gIFie6KEO5L4nHhxxQUw.jpg",
+  "budget": 27000000,
+  "revenue": 60527873,
+  "vote_average": 6.522,
+  "vote_count": 1848,
+  "imdb_id": "tt0119468",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

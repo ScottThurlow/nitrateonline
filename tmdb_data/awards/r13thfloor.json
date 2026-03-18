@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 nomination total",
+  "rated": "R",
+  "released": "28 May 1999",
+  "runtime": "100 min",
+  "genre": "Mystery, Sci-Fi, Thriller",
+  "director": "Josef Rusnak",
+  "writer": "Daniel F. Galouye, Josef Rusnak, Ravel Centeno-Rodriguez",
+  "actors": "Craig Bierko, Armin Mueller-Stahl, Gretchen Mol",
+  "plot": "Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "36",
+  "imdb_rating": "7.0",
+  "imdb_votes": "81,579",
+  "box_office": "$11,916,661",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Thirteenth+Floor"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/The+Thirteenth+Floor/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139809/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139809/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1090"
+  }
+}

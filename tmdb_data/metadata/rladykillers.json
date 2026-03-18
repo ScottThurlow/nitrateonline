@@ -1,0 +1,198 @@
+{
+  "tmdb_id": 5516,
+  "title": "The Ladykillers",
+  "original_title": "The Ladykillers",
+  "release_date": "2004-03-25",
+  "runtime": 104,
+  "tagline": "The greatest criminal minds of all time have finally met their match.",
+  "overview": "An eccentric, if not charming Southern professor and his crew pose as a band in order to rob a casino, all under the nose of his unsuspecting landlord – a sharp old woman.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "The Jacobson Company",
+      "country": "US"
+    },
+    {
+      "name": "Mike Zoss Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ethan Coen",
+    "Joel Coen"
+  ],
+  "writers": [
+    {
+      "name": "Ethan Coen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joel Coen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Rose",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ethan Coen",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Coen",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Jacobson",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Josephson",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Sonnenfeld",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "character": "Professor G.H. Dorr",
+      "order": 0
+    },
+    {
+      "name": "Irma P. Hall",
+      "character": "Marva Munson",
+      "order": 1
+    },
+    {
+      "name": "Marlon Wayans",
+      "character": "Gawain MacSam",
+      "order": 2
+    },
+    {
+      "name": "J.K. Simmons",
+      "character": "Garth Pancake",
+      "order": 3
+    },
+    {
+      "name": "Tzi Ma",
+      "character": "The General",
+      "order": 4
+    },
+    {
+      "name": "Ryan Hurst",
+      "character": "Lump Hudson",
+      "order": 5
+    },
+    {
+      "name": "Diane Delano",
+      "character": "Mountain Girl",
+      "order": 6
+    },
+    {
+      "name": "George Wallace",
+      "character": "Sherriff Wyner",
+      "order": 7
+    },
+    {
+      "name": "John McConnell",
+      "character": "Deputy Sheriff",
+      "order": 8
+    },
+    {
+      "name": "Jason Weaver",
+      "character": "Weemack Funthes",
+      "order": 9
+    }
+  ],
+  "poster_path": "/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg",
+  "backdrop_path": "/mdaBC7yEcorGC4uI9U5CEyfWsvK.jpg",
+  "budget": 35000000,
+  "revenue": 76700000,
+  "vote_average": 6.133,
+  "vote_count": 1714,
+  "imdb_id": "tt0335245",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

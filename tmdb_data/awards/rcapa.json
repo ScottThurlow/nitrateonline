@@ -1,0 +1,30 @@
+{
+  "year": "2003",
+  "awards": "1 nomination",
+  "rated": "TV-14",
+  "released": "28 May 2003",
+  "runtime": "90 min",
+  "genre": "Documentary, Biography, History",
+  "director": "Anne Makepeace",
+  "writer": "Anne Makepeace",
+  "actors": "Steven Spielberg, Goran Visnjic",
+  "plot": "A documentary about the life of famed war photographer Robert Capa.",
+  "language": "French, Spanish, English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.5",
+  "imdb_votes": "210",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0342939/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0342939/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/447602"
+  }
+}

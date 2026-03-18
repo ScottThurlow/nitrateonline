@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 2 Oscars. 5 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "08 Jan 1999",
+  "runtime": "115 min",
+  "genre": "Biography, Drama",
+  "director": "Steven Zaillian",
+  "writer": "Jonathan Harr, Steven Zaillian",
+  "actors": "John Travolta, Robert Duvall, Tony Shalhoub",
+  "plot": "Jan Schlichtmann, a tenacious lawyer, is addressed by a group of families. When investigating the seemingly non-profiting case, he finds it to be a major environmental issue that has a lot of impact potential. A leather production company could be responsible for several deadly cases of leukemia, but also is the main employer for the area. Schlichtmann and his three colleagues set out to have the company forced to decontaminate the affected areas, and of course to sue for a major sum of compensation. But the lawyers of the leather company's mother company are not easy to get to, and soon Schlichtmann and his friends find themselves in a battle of mere survival.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "68",
+  "imdb_rating": "6.6",
+  "imdb_votes": "32,240",
+  "box_office": "$56,709,981",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "65%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Civil+Action"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/A+Civil+Action/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120633/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120633/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9422"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 30950,
+  "title": "Metroland",
+  "original_title": "Metroland",
+  "release_date": "1997-08-30",
+  "runtime": 105,
+  "tagline": "It's not a place, it's a state of mind.",
+  "overview": "In late-1970s suburban London, Chris and Marion have settled into a comfortable yet all-too-predictable middle-class existence. Chris receives an unexpected visit from his free-spirited friend Toni, a reunion that reminds him of a more carefree time in 1960s Paris. Now, with lingering doubts about his marriage bubbling up, Chris must make the choice between revisiting his youthful abandon with Toni or facing the here and now with Marion.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "MACT Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "Blue Horizon Productions",
+      "country": ""
+    },
+    {
+      "name": "Eurimages",
+      "country": "FR"
+    },
+    {
+      "name": "European Co-production Fund",
+      "country": "GB"
+    },
+    {
+      "name": "Filmanía S.L.",
+      "country": ""
+    },
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Philip Saville"
+  ],
+  "writers": [
+    {
+      "name": "Adrian Hodges",
+      "job": "Writer"
+    },
+    {
+      "name": "Julian Barnes",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Bendel",
+      "job": "Producer"
+    },
+    {
+      "name": "Martine De Clermont-Tonnerre",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Wyn Evans",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "character": "Chris",
+      "order": 0
+    },
+    {
+      "name": "Emily Watson",
+      "character": "Marion",
+      "order": 1
+    },
+    {
+      "name": "Lee Ross",
+      "character": "Toni",
+      "order": 2
+    },
+    {
+      "name": "Elsa Zylberstein",
+      "character": "Annick",
+      "order": 3
+    },
+    {
+      "name": "John Wood",
+      "character": "The Retired Commuter",
+      "order": 4
+    },
+    {
+      "name": "Bill Thomas",
+      "character": "Middle-Aged Commuter",
+      "order": 5
+    },
+    {
+      "name": "Lucy Speed",
+      "character": "Punk Girl",
+      "order": 6
+    },
+    {
+      "name": "Boris Terral",
+      "character": "Jacques",
+      "order": 7
+    },
+    {
+      "name": "Ifan Meredith",
+      "character": "Mickey",
+      "order": 8
+    },
+    {
+      "name": "Jonathan Aris",
+      "character": "Dave",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qUFYBfOY3Ec2S6PR6apgFwfR6je.jpg",
+  "backdrop_path": "/xpruvUb86o09QOvOMUNWGOVeEdv.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.8,
+  "vote_count": 54,
+  "imdb_id": "tt0119665",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

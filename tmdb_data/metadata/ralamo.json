@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 10733,
+  "title": "The Alamo",
+  "original_title": "The Alamo",
+  "release_date": "2004-04-07",
+  "runtime": 137,
+  "tagline": "You will never forget",
+  "overview": "Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio, Texas.",
+  "genres": [
+    "History",
+    "War",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Lee Hancock"
+  ],
+  "writers": [
+    {
+      "name": "John Lee Hancock",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen Gaghan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Leslie Bohem",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Todd Hallowell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Philip Steuer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ron Howard",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Johnson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dennis Quaid",
+      "character": "Sam Houston",
+      "order": 0
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Davy Crockett",
+      "order": 1
+    },
+    {
+      "name": "Jason Patric",
+      "character": "James Bowie",
+      "order": 2
+    },
+    {
+      "name": "Patrick Wilson",
+      "character": "William Travis",
+      "order": 3
+    },
+    {
+      "name": "Emilio Echevarría",
+      "character": "Antonio Lopez de Santa Ana",
+      "order": 4
+    },
+    {
+      "name": "Edwin Hodge",
+      "character": "Joe",
+      "order": 5
+    },
+    {
+      "name": "Emily Deschanel",
+      "character": "Rosanna Travis",
+      "order": 6
+    },
+    {
+      "name": "Jordi Mollà",
+      "character": "Juan Seguin",
+      "order": 7
+    },
+    {
+      "name": "Leon Rippy",
+      "character": "Sgt. William Ward",
+      "order": 8
+    },
+    {
+      "name": "Marc Blucas",
+      "character": "James Bonham",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg",
+  "backdrop_path": "/fy8E5sF1Phf5aihA3nxx4Qqxotl.jpg",
+  "budget": 107000000,
+  "revenue": 25819961,
+  "vote_average": 5.764,
+  "vote_count": 358,
+  "imdb_id": "tt0318974",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

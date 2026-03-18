@@ -1,0 +1,230 @@
+{
+  "tmdb_id": 11970,
+  "title": "Hercules",
+  "original_title": "Hercules",
+  "release_date": "1997-06-13",
+  "runtime": 93,
+  "tagline": "The man. The myth. The movie.",
+  "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "Greek"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ron Clements",
+    "John Musker"
+  ],
+  "writers": [
+    {
+      "name": "Ron Clements",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Musker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Irene Mecchi",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Don McEnery",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bob Shaw",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Zippel",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Joe Haidar",
+      "job": "Idea"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Musker",
+      "job": "Producer"
+    },
+    {
+      "name": "Alice Dewey",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Clements",
+      "job": "Producer"
+    },
+    {
+      "name": "Noreen Tobin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tate Donovan",
+      "character": "Hercules (voice)",
+      "order": 0
+    },
+    {
+      "name": "Josh Keaton",
+      "character": "Young Hercules (voice)",
+      "order": 1
+    },
+    {
+      "name": "Roger Bart",
+      "character": "Young Hercules (singing voice)",
+      "order": 2
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "Philoctetes (voice)",
+      "order": 3
+    },
+    {
+      "name": "James Woods",
+      "character": "Hades (voice)",
+      "order": 4
+    },
+    {
+      "name": "Susan Egan",
+      "character": "Meg (voice)",
+      "order": 5
+    },
+    {
+      "name": "Bobcat Goldthwait",
+      "character": "Pain (voice)",
+      "order": 6
+    },
+    {
+      "name": "Matt Frewer",
+      "character": "Panic (voice)",
+      "order": 7
+    },
+    {
+      "name": "Rip Torn",
+      "character": "Zeus (voice)",
+      "order": 8
+    },
+    {
+      "name": "Samantha Eggar",
+      "character": "Hera (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+  "backdrop_path": "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+  "budget": 85000000,
+  "revenue": 252712101,
+  "vote_average": 7.491,
+  "vote_count": 7848,
+  "imdb_id": "tt0119282",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7i"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IL",
+      "rating": "הותר לכול"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PH",
+      "rating": "G"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SG",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

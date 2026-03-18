@@ -1,0 +1,166 @@
+{
+  "tmdb_id": 11535,
+  "title": "Rollerball",
+  "original_title": "Rollerball",
+  "release_date": "2002-02-08",
+  "runtime": 98,
+  "tagline": "Get in the game.",
+  "overview": "In this fast action-packed thriller, Jonathan, Marcus, and Aurora compete in a dangerous, fierce sport called Rollerball. Although, Johnathan and Marcus try to quit, cruel and vindictive promoter Alexi Petrovich encourages them to still participate.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "German",
+    "French",
+    "Japanese",
+    "Korean",
+    "Russian",
+    "Arabic",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Atlas Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "TOHO-TOWA",
+      "country": "JP"
+    },
+    {
+      "name": "Mosaic Media Group",
+      "country": "US"
+    },
+    {
+      "name": "Yorktown Productions",
+      "country": "US"
+    },
+    {
+      "name": "Helkon Media",
+      "country": "DE"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John McTiernan"
+  ],
+  "writers": [
+    {
+      "name": "John Pogue",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Larry Ferguson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Harrison",
+      "job": "Original Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Roven",
+      "job": "Producer"
+    },
+    {
+      "name": "Beau St. Clair",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Tadross",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John McTiernan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chris Klein",
+      "character": "Jonathan Cross",
+      "order": 0
+    },
+    {
+      "name": "LL Cool J",
+      "character": "Marcus Ridley",
+      "order": 1
+    },
+    {
+      "name": "Rebecca Romijn",
+      "character": "Aurora",
+      "order": 2
+    },
+    {
+      "name": "Naveen Andrews",
+      "character": "Sanjay",
+      "order": 3
+    },
+    {
+      "name": "Jean Reno",
+      "character": "Alexi Petrovich",
+      "order": 4
+    },
+    {
+      "name": "Oleg Taktarov",
+      "character": "Denekin",
+      "order": 5
+    },
+    {
+      "name": "David Hemblen",
+      "character": "Serokin",
+      "order": 6
+    },
+    {
+      "name": "Eugene Lipinski",
+      "character": "Yuri Kotlev",
+      "order": 7
+    },
+    {
+      "name": "Frank Ferrara Sr.",
+      "character": "Assistant Gold Coach",
+      "order": 8
+    },
+    {
+      "name": "Janet Wright",
+      "character": "Coach Olga",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5Wquo3EjfDpK7S1BHcybuC3TZDO.jpg",
+  "backdrop_path": "/tjCAyz2Tu2xdZSFJrtU4fQrZ32A.jpg",
+  "budget": 70000000,
+  "revenue": 25852764,
+  "vote_average": 3.907,
+  "vote_count": 504,
+  "imdb_id": "tt0246894",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

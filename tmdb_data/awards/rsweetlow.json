@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 2 Oscars. 1 win & 15 nominations total",
+  "rated": "PG-13",
+  "released": "10 Mar 2000",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Sean Penn, Samantha Morton, Woody Allen",
+  "plot": "A comedic biopic focused on the life of fictional jazz guitarist Emmett Ray. Ray was an irresponsible, free-spending, arrogant, obnoxious, alcohol-abusing, miserable human being, who was also arguably the best guitarist in the world. We follow Ray's life: bouts of getting drunk, his bizzare hobbies of shooting rats and watching passing trains, his dreams of fame and fortune, his strange obsession with the better-known guitarist Django Reinhardt, and of course, playing his beautiful music.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "70",
+  "imdb_rating": "7.2",
+  "imdb_votes": "37,096",
+  "box_office": "$4,197,015",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "77%",
+      "link": "https://www.rottentomatoes.com/search?search=Sweet+and+Lowdown"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Sweet+and+Lowdown/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0158371/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0158371/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9684"
+  }
+}

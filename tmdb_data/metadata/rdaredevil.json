@@ -1,0 +1,241 @@
+{
+  "tmdb_id": 9480,
+  "title": "Daredevil",
+  "original_title": "Daredevil",
+  "release_date": "2003-02-14",
+  "runtime": 103,
+  "tagline": "When the streets have gone to Hell, have faith in the devil.",
+  "overview": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
+  "genres": [
+    "Fantasy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian",
+    "Greek"
+  ],
+  "production_companies": [
+    {
+      "name": "Marvel Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "New Regency Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    },
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Steven Johnson"
+  ],
+  "writers": [
+    {
+      "name": "Mark Steven Johnson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Frank Miller",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Avi Arad",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Producer"
+    },
+    {
+      "name": "Bernard Williams",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "character": "Matt Murdock / Daredevil",
+      "order": 0
+    },
+    {
+      "name": "Jennifer Garner",
+      "character": "Elektra Natchios",
+      "order": 1
+    },
+    {
+      "name": "Colin Farrell",
+      "character": "Bullseye",
+      "order": 2
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "Wilson Fisk / The Kingpin",
+      "order": 3
+    },
+    {
+      "name": "Jon Favreau",
+      "character": "Franklin \"Foggy\" Nelson",
+      "order": 4
+    },
+    {
+      "name": "Scott Terra",
+      "character": "Young Matt",
+      "order": 5
+    },
+    {
+      "name": "Ellen Pompeo",
+      "character": "Karen Page",
+      "order": 6
+    },
+    {
+      "name": "Joe Pantoliano",
+      "character": "Ben Urich",
+      "order": 7
+    },
+    {
+      "name": "Leland Orser",
+      "character": "Wesley Owen Welch",
+      "order": 8
+    },
+    {
+      "name": "Lennie Loftin",
+      "character": "Nick Manolis",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+  "backdrop_path": "/e7jIX02GiSwsgkU5lMpeKjwq2Zc.jpg",
+  "budget": 78000000,
+  "revenue": 179179718,
+  "vote_average": 5.291,
+  "vote_count": 5395,
+  "imdb_id": "tt0287978",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

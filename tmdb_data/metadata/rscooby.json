@@ -1,0 +1,224 @@
+{
+  "tmdb_id": 9637,
+  "title": "Scooby-Doo",
+  "original_title": "Scooby-Doo",
+  "release_date": "2002-06-14",
+  "runtime": 87,
+  "tagline": "Be afraid. Be kind of afraid.",
+  "overview": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings.",
+  "genres": [
+    "Mystery",
+    "Adventure",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mosaic Media Group",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Raja Gosnell"
+  ],
+  "writers": [
+    {
+      "name": "James Gunn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bob Camp",
+      "job": "Storyboard"
+    },
+    {
+      "name": "James Gunn",
+      "job": "Story"
+    },
+    {
+      "name": "Craig Titley",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joseph Barbera",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Mason",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Engelman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Suckle",
+      "job": "Producer"
+    },
+    {
+      "name": "Kelley Smith-Wait",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charles Roven",
+      "job": "Producer"
+    },
+    {
+      "name": "William Hanna",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "character": "Fred",
+      "order": 0
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "character": "Daphne",
+      "order": 1
+    },
+    {
+      "name": "Matthew Lillard",
+      "character": "Shaggy",
+      "order": 2
+    },
+    {
+      "name": "Linda Cardellini",
+      "character": "Velma",
+      "order": 3
+    },
+    {
+      "name": "Neil Fanning",
+      "character": "Scooby Voice (voice)",
+      "order": 4
+    },
+    {
+      "name": "Rowan Atkinson",
+      "character": "Mondavarious",
+      "order": 5
+    },
+    {
+      "name": "Isla Fisher",
+      "character": "Mary Jane",
+      "order": 6
+    },
+    {
+      "name": "Miguel A. Núñez Jr.",
+      "character": "Voodoo Maestro",
+      "order": 7
+    },
+    {
+      "name": "Steven Grives",
+      "character": "N' Goo Tuana",
+      "order": 8
+    },
+    {
+      "name": "Charles Stan Frazier",
+      "character": "Sugar Ray",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg",
+  "backdrop_path": "/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg",
+  "budget": 84000000,
+  "revenue": 275650703,
+  "vote_average": 6.096,
+  "vote_count": 4717,
+  "imdb_id": "tt0267913",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BE",
+      "rating": "9"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "9"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

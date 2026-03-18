@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 21311,
+  "title": "I Dreamed of Africa",
+  "original_title": "I Dreamed of Africa",
+  "release_date": "2000-05-05",
+  "runtime": 114,
+  "tagline": "Sometimes the adventure of a lifetime becomes life itself.",
+  "overview": "Inspired by the true story of indomitable Kuki Gallmann, the film tells of a beautiful and inquisitive woman who had the courage to escape from her comfortable yet monotonous life in Italy to start anew in the African wilderness with her son, Emanuele, and her new husband, Paolo. Gallmann faces great danger there but eventually becomes a celebrated conservationist.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Hugh Hudson"
+  ],
+  "writers": [
+    {
+      "name": "Susan Shilliday",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paula Milne",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kuki Gallmann",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stanley R. Jaffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Allyn Stewart",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kim Basinger",
+      "character": "Kuki Gallmann",
+      "order": 0
+    },
+    {
+      "name": "Vincent Perez",
+      "character": "Paolo Gallmann",
+      "order": 1
+    },
+    {
+      "name": "Liam Aiken",
+      "character": "7-Year-Old Emanuele",
+      "order": 2
+    },
+    {
+      "name": "Daniel Craig",
+      "character": "Declan Fielding",
+      "order": 3
+    },
+    {
+      "name": "Eva Marie Saint",
+      "character": "Franca",
+      "order": 4
+    },
+    {
+      "name": "Lance Reddick",
+      "character": "Simon",
+      "order": 5
+    },
+    {
+      "name": "Stephen Jennings",
+      "character": "Vincenzo",
+      "order": 6
+    },
+    {
+      "name": "Nick Boraine",
+      "character": "Duncan Maitland",
+      "order": 7
+    },
+    {
+      "name": "Garrett Strommen",
+      "character": "17-Year-Old Emanuele",
+      "order": 8
+    },
+    {
+      "name": "Connie Chiume",
+      "character": "Wanjiku",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kuDIrcsUI0duLSTUgKKLKEiEdrK.jpg",
+  "backdrop_path": "/iLByx9FInCiEptsOqqePG32w2UT.jpg",
+  "budget": 34000000,
+  "revenue": 14400327,
+  "vote_average": 5.387,
+  "vote_count": 84,
+  "imdb_id": "tt0167203",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

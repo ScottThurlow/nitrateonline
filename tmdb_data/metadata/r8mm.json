@@ -1,0 +1,252 @@
+{
+  "tmdb_id": 8224,
+  "title": "8MM",
+  "original_title": "8MM",
+  "release_date": "1999-02-26",
+  "runtime": 123,
+  "tagline": "You can't prepare for where the truth will take you.",
+  "overview": "A small, seemingly innocuous plastic reel of film leads surveillance specialist Tom Welles down an increasingly dark and frightening path. With the help of the streetwise Max, he relentlessly follows a bizarre trail of evidence to determine the fate of a complete stranger. As his work turns into obsession, he drifts farther and farther away from his wife, family and simple life as a small-town PI.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Global Medien KG",
+      "country": "DE"
+    },
+    {
+      "name": "Hofflund/Polone",
+      "country": ""
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joel Schumacher"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Kevin Walker",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joel Schumacher",
+      "job": "Producer"
+    },
+    {
+      "name": "Gavin Polone",
+      "job": "Producer"
+    },
+    {
+      "name": "Judy Hofflund",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph M. Caracciolo",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicolas Cage",
+      "character": "Tom Welles",
+      "order": 0
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "character": "Max California",
+      "order": 1
+    },
+    {
+      "name": "James Gandolfini",
+      "character": "Eddie Poole",
+      "order": 2
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Dino Velvet",
+      "order": 3
+    },
+    {
+      "name": "Anthony Heald",
+      "character": "Longdale",
+      "order": 4
+    },
+    {
+      "name": "Chris Bauer",
+      "character": "Machine",
+      "order": 5
+    },
+    {
+      "name": "Catherine Keener",
+      "character": "Amy Welles",
+      "order": 6
+    },
+    {
+      "name": "Myra Carter",
+      "character": "Mrs. Christian",
+      "order": 7
+    },
+    {
+      "name": "Amy Morton",
+      "character": "Mrs. Mathews",
+      "order": 8
+    },
+    {
+      "name": "Norman Reedus",
+      "character": "Warren Anderson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mhr9xRpjOBqlBjgDwtiOx6FsLvV.jpg",
+  "backdrop_path": "/eEP8pyCmldfbnml0SFMvPK7kE4x.jpg",
+  "budget": 40000000,
+  "revenue": 96618699,
+  "vote_average": 6.469,
+  "vote_count": 2215,
+  "imdb_id": "tt0134273",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BE",
+      "rating": "KNT/ENA"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "VM18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

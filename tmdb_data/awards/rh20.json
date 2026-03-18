@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 12 nominations total",
+  "rated": "R",
+  "released": "05 Aug 1998",
+  "runtime": "86 min",
+  "genre": "Horror, Thriller",
+  "director": "Steve Miner",
+  "writer": "Debra Hill, John Carpenter, Robert Zappia",
+  "actors": "Jamie Lee Curtis, Josh Hartnett, Adam Arkin",
+  "plot": "Twenty years after Michael Myers' massacre in Haddonfield, Laurie Strode faked her own death, traveled to California, and took on the identity Keri Tate. Michael discovers Laurie's new identity and travels to California to kill his sister. Laurie must now take on her brother with her son's life at stake.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "5.8",
+  "imdb_votes": "88,079",
+  "box_office": "$55,041,738",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "54%",
+      "link": "https://www.rottentomatoes.com/search?search=Halloween+H20%3A+20+Years+Later"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Halloween+H20%3A+20+Years+Later/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120694/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120694/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11675"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "tmdb_id": 10480,
+  "title": "Nurse Betty",
+  "original_title": "Nurse Betty",
+  "release_date": "2000-08-30",
+  "runtime": 108,
+  "tagline": "She's chasing a dream... they're chasing her.",
+  "overview": "What happens when a person decides that life is merely a state of mind? If you're Betty, a small-town waitress and soap opera fan from Fair Oaks, Kansas, you refuse to believe that you can't be with the love of your life just because he doesn't really exist. After all, life is no excuse for not living. Traumatized by a savage event, Betty enters into a fugue state that allows -- even encourages -- her to keep functioning... in a kind of alternate reality.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "IMF",
+      "country": "DE"
+    },
+    {
+      "name": "Gramercy Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Propaganda Films",
+      "country": "US"
+    },
+    {
+      "name": "ab'-strakt Pictures",
+      "country": ""
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "USA Films",
+      "country": "US"
+    },
+    {
+      "name": "Pacifica Film Distribution",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Neil LaBute"
+  ],
+  "writers": [
+    {
+      "name": "John C. Richards",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John C. Richards",
+      "job": "Story"
+    },
+    {
+      "name": "James Flamberg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Steve Golin",
+      "job": "Producer"
+    },
+    {
+      "name": "Gail Mutrux",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Sievernich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Philip Steuer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stephen Pevner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Morgan Freeman",
+      "character": "Charlie",
+      "order": 0
+    },
+    {
+      "name": "Renée Zellweger",
+      "character": "Betty",
+      "order": 1
+    },
+    {
+      "name": "Chris Rock",
+      "character": "Wesley",
+      "order": 2
+    },
+    {
+      "name": "Greg Kinnear",
+      "character": "Dr. David Ravell",
+      "order": 3
+    },
+    {
+      "name": "Aaron Eckhart",
+      "character": "Del",
+      "order": 4
+    },
+    {
+      "name": "Tia Texada",
+      "character": "Rosa",
+      "order": 5
+    },
+    {
+      "name": "Crispin Glover",
+      "character": "Roy",
+      "order": 6
+    },
+    {
+      "name": "Pruitt Taylor Vince",
+      "character": "Ballard",
+      "order": 7
+    },
+    {
+      "name": "Allison Janney",
+      "character": "Lyla",
+      "order": 8
+    },
+    {
+      "name": "Kathleen Wilhoite",
+      "character": "Sue Ann",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1OCHR9z9k7go669AsShOkTj4CFb.jpg",
+  "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
+  "budget": 24000000,
+  "revenue": 29364989,
+  "vote_average": 6.1,
+  "vote_count": 425,
+  "imdb_id": "tt0171580",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

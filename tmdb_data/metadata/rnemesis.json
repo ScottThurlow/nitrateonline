@@ -1,0 +1,205 @@
+{
+  "tmdb_id": 201,
+  "title": "Star Trek: Nemesis",
+  "original_title": "Star Trek: Nemesis",
+  "release_date": "2002-12-13",
+  "runtime": 116,
+  "tagline": "A generation's final journey begins.",
+  "overview": "En route to the honeymoon of William Riker to Deanna Troi on her home planet of Betazed, Captain Jean-Luc Picard and the crew of the U.S.S. Enterprise receives word from Starfleet that a coup has resulted in the installation of a new Romulan political leader, Shinzon, who claims to seek peace with the human-backed United Federation of Planets. Once in enemy territory, the captain and his crew make a startling discovery: Shinzon is human, a slave from the Romulan sister planet of Remus, and has a secret, shocking relationship to Picard himself.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Digital Image Associates",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Stuart Baird"
+  ],
+  "writers": [
+    {
+      "name": "John Logan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Logan",
+      "job": "Story"
+    },
+    {
+      "name": "Rick Berman",
+      "job": "Story"
+    },
+    {
+      "name": "Brent Spiner",
+      "job": "Story"
+    },
+    {
+      "name": "Gene Roddenberry",
+      "job": "Original Series Creator"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marty Hornstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Lauritson",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Berman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Patrick Stewart",
+      "character": "Captain Jean-Luc Picard",
+      "order": 0
+    },
+    {
+      "name": "Jonathan Frakes",
+      "character": "Commander William T. Riker",
+      "order": 1
+    },
+    {
+      "name": "Brent Spiner",
+      "character": "Lt. Commander Data",
+      "order": 2
+    },
+    {
+      "name": "LeVar Burton",
+      "character": "Lt. Commander Geordi La Forge",
+      "order": 3
+    },
+    {
+      "name": "Michael Dorn",
+      "character": "Lt. Commander Worf",
+      "order": 4
+    },
+    {
+      "name": "Gates McFadden",
+      "character": "Dr. Beverly Crusher",
+      "order": 5
+    },
+    {
+      "name": "Marina Sirtis",
+      "character": "Counselor Deanna Troi",
+      "order": 6
+    },
+    {
+      "name": "Tom Hardy",
+      "character": "Praetor Shinzon",
+      "order": 7
+    },
+    {
+      "name": "Ron Perlman",
+      "character": "Viceroy Vkruk",
+      "order": 8
+    },
+    {
+      "name": "Dina Meyer",
+      "character": "Commander Donatra",
+      "order": 9
+    }
+  ],
+  "poster_path": "/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg",
+  "backdrop_path": "/6z9w8eidKWDDXwZNSVNaRolAYEP.jpg",
+  "budget": 60000000,
+  "revenue": 67336470,
+  "vote_average": 6.299,
+  "vote_count": 1552,
+  "imdb_id": "tt0253754",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 26602,
+  "title": "Summer Catch",
+  "original_title": "Summer Catch",
+  "release_date": "2001-08-22",
+  "runtime": 104,
+  "tagline": "Are you game?",
+  "overview": "Local boy Ryan Dunne, now a pitcher for Boston College, meets Tenley Parrish, the daughter of a wealthy couple who summer on the Cape. Ryan and Tenley fall in love, much to the chagrin of their families, while Ryan clings to one last hope of being discovered and signed to a pro baseball contract.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tollin/Robbins Productions",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Tollin"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Falls",
+      "job": "Writer"
+    },
+    {
+      "name": "John Gatins",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Herb Gains",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sam Weisman",
+      "job": "Producer"
+    },
+    {
+      "name": "Brian Robbins",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Freddie Prinze Jr.",
+      "character": "Ryan Dunne",
+      "order": 0
+    },
+    {
+      "name": "Jessica Biel",
+      "character": "Tenley Parrish",
+      "order": 1
+    },
+    {
+      "name": "Fred Ward",
+      "character": "Sean Dunne",
+      "order": 2
+    },
+    {
+      "name": "Matthew Lillard",
+      "character": "Billy Brubaker",
+      "order": 3
+    },
+    {
+      "name": "Brian Dennehy",
+      "character": "John Schiffner",
+      "order": 4
+    },
+    {
+      "name": "Jason Gedrick",
+      "character": "Mike Dunne",
+      "order": 5
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Dede Mulligan",
+      "order": 6
+    },
+    {
+      "name": "Bruce Davison",
+      "character": "Rand Parrish",
+      "order": 7
+    },
+    {
+      "name": "Marc Blucas",
+      "character": "Miles Dalrymple",
+      "order": 8
+    },
+    {
+      "name": "Wilmer Valderrama",
+      "character": "Mickey Dominguez",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hMp5Iev56BUu3xJGpAeCCPC1ZwY.jpg",
+  "backdrop_path": "/5HgxyieEFHyke2aVpwKfQXTHmcB.jpg",
+  "budget": 34000000,
+  "revenue": 19693891,
+  "vote_average": 5.397,
+  "vote_count": 212,
+  "imdb_id": "tt0234829",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

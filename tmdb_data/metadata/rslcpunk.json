@@ -1,0 +1,137 @@
+{
+  "tmdb_id": 6396,
+  "title": "SLC Punk",
+  "original_title": "SLC Punk",
+  "release_date": "1998-09-24",
+  "runtime": 97,
+  "tagline": "God bless America... they're going to need it.",
+  "overview": "Two former geeks become 1980s punks, then party and go to concerts while deciding what to do with their lives.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Crime",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Beyond Films",
+      "country": "US"
+    },
+    {
+      "name": "Blue Tulip Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James Merendino"
+  ],
+  "writers": [
+    {
+      "name": "James Merendino",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sam Maydew",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrea Kreuzhage",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Peyser",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter Ward",
+      "job": "Producer"
+    },
+    {
+      "name": "Jan de Bont",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew Lillard",
+      "character": "Stevo",
+      "order": 0
+    },
+    {
+      "name": "Michael A. Goorjian",
+      "character": "Bob",
+      "order": 1
+    },
+    {
+      "name": "Annabeth Gish",
+      "character": "Trish",
+      "order": 2
+    },
+    {
+      "name": "Jennifer Lien",
+      "character": "Sandy",
+      "order": 3
+    },
+    {
+      "name": "Christopher McDonald",
+      "character": "Dad",
+      "order": 4
+    },
+    {
+      "name": "Devon Sawa",
+      "character": "Sean",
+      "order": 5
+    },
+    {
+      "name": "Jason Segel",
+      "character": "Mike",
+      "order": 6
+    },
+    {
+      "name": "Adam Pascal",
+      "character": "Eddie",
+      "order": 7
+    },
+    {
+      "name": "Til Schweiger",
+      "character": "Mark",
+      "order": 8
+    },
+    {
+      "name": "James Duval",
+      "character": "John the Mod",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7u3IZPuIOPjICi55K7cJgzV3e3B.jpg",
+  "backdrop_path": "/wihjnnTf6C2VReQgKKINCdzfjby.jpg",
+  "budget": 600000,
+  "revenue": 299200,
+  "vote_average": 7.1,
+  "vote_count": 424,
+  "imdb_id": "tt0133189",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

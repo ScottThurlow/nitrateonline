@@ -1,0 +1,279 @@
+{
+  "tmdb_id": 641,
+  "title": "Requiem for a Dream",
+  "original_title": "Requiem for a Dream",
+  "release_date": "2000-10-06",
+  "runtime": 102,
+  "tagline": "",
+  "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Artisan Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Thousand Words",
+      "country": "US"
+    },
+    {
+      "name": "Protozoa Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Industry Entertainment Partners",
+      "country": "US"
+    },
+    {
+      "name": "Bandeira Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Darren Aronofsky"
+  ],
+  "writers": [
+    {
+      "name": "Hubert Selby Jr.",
+      "job": "Novel"
+    },
+    {
+      "name": "Hubert Selby Jr.",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Darren Aronofsky",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stefan Simchowitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Beau Flynn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Eric Watson",
+      "job": "Producer"
+    },
+    {
+      "name": "Palmer West",
+      "job": "Producer"
+    },
+    {
+      "name": "Nick Wechsler",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ellen Burstyn",
+      "character": "Sara Goldfarb",
+      "order": 0
+    },
+    {
+      "name": "Jared Leto",
+      "character": "Harry Goldfarb",
+      "order": 1
+    },
+    {
+      "name": "Jennifer Connelly",
+      "character": "Marion Silver",
+      "order": 2
+    },
+    {
+      "name": "Marlon Wayans",
+      "character": "Tyrone C. Love",
+      "order": 3
+    },
+    {
+      "name": "Christopher McDonald",
+      "character": "Tappy Tibbons",
+      "order": 4
+    },
+    {
+      "name": "Louise Lasser",
+      "character": "Ada",
+      "order": 5
+    },
+    {
+      "name": "Marcia Jean Kurtz",
+      "character": "Rae",
+      "order": 6
+    },
+    {
+      "name": "Janet Sarno",
+      "character": "Mrs. Pearlman",
+      "order": 7
+    },
+    {
+      "name": "Suzanne Shepherd",
+      "character": "Mrs. Scarlini",
+      "order": 8
+    },
+    {
+      "name": "Joanne Gordon",
+      "character": "Mrs. Ovadia",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+  "backdrop_path": "/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
+  "budget": 4500000,
+  "revenue": 7390108,
+  "vote_average": 8.012,
+  "vote_count": 10801,
+  "imdb_id": "tt0180093",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CO",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "18+"
+    },
+    {
+      "country": "JP",
+      "rating": "R-18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MO",
+      "rating": "D"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "18"
+    },
+    {
+      "country": "PE",
+      "rating": "14"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "US",
+      "rating": "NR"
+    },
+    {
+      "country": "ZA",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

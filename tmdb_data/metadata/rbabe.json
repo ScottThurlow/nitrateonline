@@ -1,0 +1,165 @@
+{
+  "tmdb_id": 9447,
+  "title": "Babe: Pig in the City",
+  "original_title": "Babe: Pig in the City",
+  "release_date": "1998-11-25",
+  "runtime": 96,
+  "tagline": "In the heart of the city, a pig with heart.",
+  "overview": "Babe, fresh from his victory in the sheepherding contest, returns to Farmer Hoggett's farm, but after Farmer Hoggett is injured and unable to work, Babe has to go to the big city to save the farm.",
+  "genres": [
+    "Family",
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Kennedy Miller Productions",
+      "country": "AU"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Miller"
+  ],
+  "writers": [
+    {
+      "name": "George Miller",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Lamprell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Judy Morris",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "George Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "Doug Mitchell",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Miller",
+      "job": "Producer"
+    },
+    {
+      "name": "Barbara Gibbs",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "E. G. Daily",
+      "character": "Babe (voice)",
+      "order": 0
+    },
+    {
+      "name": "Magda Szubanski",
+      "character": "Mrs. Esme Cordelia Hoggett",
+      "order": 1
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Farmer Arthur Hoggett",
+      "order": 2
+    },
+    {
+      "name": "Mickey Rooney",
+      "character": "Fugly Floom, the Speechless Man in Hotel",
+      "order": 3
+    },
+    {
+      "name": "Mary Stein",
+      "character": "Miss Floom",
+      "order": 4
+    },
+    {
+      "name": "Danny Mann",
+      "character": "Ferdinand / Tug / Additional Character Voices (voice)",
+      "order": 5
+    },
+    {
+      "name": "Glenne Headly",
+      "character": "Zootie (voice)",
+      "order": 6
+    },
+    {
+      "name": "Steven Wright",
+      "character": "Bob (voice)",
+      "order": 7
+    },
+    {
+      "name": "James Cosmo",
+      "character": "Thelonius (voice)",
+      "order": 8
+    },
+    {
+      "name": "Nathan Kress",
+      "character": "Easy / Tough Pup (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/glO6LcTWUZcbxWT2SB4eRDnFSsP.jpg",
+  "backdrop_path": "/73Zd7StP4Ln0hSCwmqhCaZomYWB.jpg",
+  "budget": 90000000,
+  "revenue": 69100000,
+  "vote_average": 5.659,
+  "vote_count": 1308,
+  "imdb_id": "tt0120595",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

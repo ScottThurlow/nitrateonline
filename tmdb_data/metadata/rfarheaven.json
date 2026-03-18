@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 10712,
+  "title": "Far from Heaven",
+  "original_title": "Far from Heaven",
+  "release_date": "2002-11-08",
+  "runtime": 107,
+  "tagline": "What imprisons desires of the heart?",
+  "overview": "In 1950s Connecticut, a housewife's life is upended by a marital crisis and mounting racial tensions in society.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Vulcan Productions",
+      "country": "US"
+    },
+    {
+      "name": "Killer Films",
+      "country": "US"
+    },
+    {
+      "name": "John Wells Productions",
+      "country": "US"
+    },
+    {
+      "name": "Section Eight",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Todd Haynes"
+  ],
+  "writers": [
+    {
+      "name": "Todd Haynes",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tracy Brimm",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "George Clooney",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jody Patton",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Robison",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Sloss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Soderbergh",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christine Vachon",
+      "job": "Producer"
+    },
+    {
+      "name": "John Wells",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Julianne Moore",
+      "character": "Cathy Whitaker",
+      "order": 0
+    },
+    {
+      "name": "Dennis Quaid",
+      "character": "Frank Whitaker",
+      "order": 1
+    },
+    {
+      "name": "Dennis Haysbert",
+      "character": "Raymond Deagan",
+      "order": 2
+    },
+    {
+      "name": "Patricia Clarkson",
+      "character": "Eleanor Fine",
+      "order": 3
+    },
+    {
+      "name": "Viola Davis",
+      "character": "Sybil",
+      "order": 4
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Dr. Bowman",
+      "order": 5
+    },
+    {
+      "name": "Bette Henritze",
+      "character": "Mrs. Leacock",
+      "order": 6
+    },
+    {
+      "name": "Michael Gaston",
+      "character": "Stan Fine",
+      "order": 7
+    },
+    {
+      "name": "Ryan Ward",
+      "character": "David Whitaker",
+      "order": 8
+    },
+    {
+      "name": "Lindsay Andretta",
+      "character": "Janice Whitaker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9gQuvFDRPLx39smUvyafm36tp0d.jpg",
+  "backdrop_path": "/k0HFJNOfwuWbYKon7BwCbnX8OkB.jpg",
+  "budget": 13500000,
+  "revenue": 29027914,
+  "vote_average": 7.0,
+  "vote_count": 664,
+  "imdb_id": "tt0297884",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 9407,
+  "title": "Red Corner",
+  "original_title": "Red Corner",
+  "release_date": "1997-10-30",
+  "runtime": 122,
+  "tagline": "Severity for those who resist.",
+  "overview": "An American attorney on business in China, ends up wrongfully on trial for murder and his only key to innocence is a female defense lawyer from the country.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Avnet/Kerner Productions",
+      "country": ""
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jon Avnet"
+  ],
+  "writers": [
+    {
+      "name": "Robert King",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Rosalie Swedlin",
+      "job": "Producer"
+    },
+    {
+      "name": "Jordan Kerner",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Mulvehill",
+      "job": "Producer"
+    },
+    {
+      "name": "Wolfgang Petersen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gail Katz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jon Avnet",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Richard Gere",
+      "character": "Jack Moore",
+      "order": 0
+    },
+    {
+      "name": "Bai Ling",
+      "character": "Shen Yuelin",
+      "order": 1
+    },
+    {
+      "name": "Bradley Whitford",
+      "character": "Bob Ghery",
+      "order": 2
+    },
+    {
+      "name": "Byron Mann",
+      "character": "Lin Dan",
+      "order": 3
+    },
+    {
+      "name": "Peter Donat",
+      "character": "David McAndrews",
+      "order": 4
+    },
+    {
+      "name": "Robert Stanton",
+      "character": "Ed Pratt",
+      "order": 5
+    },
+    {
+      "name": "Tsai Chin",
+      "character": "Chairman Xu",
+      "order": 6
+    },
+    {
+      "name": "James Hong",
+      "character": "Lin Shou",
+      "order": 7
+    },
+    {
+      "name": "Tzi Ma",
+      "character": "Li Cheng",
+      "order": 8
+    },
+    {
+      "name": "Ulrich Matschoss",
+      "character": "Gerhardt Hoffman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xsIbKOO1CacqTagyJmEGGf4kOnn.jpg",
+  "backdrop_path": "/lCczq2kw7PzHgwpwGfuXAK946lm.jpg",
+  "budget": 48000000,
+  "revenue": 22420000,
+  "vote_average": 6.34,
+  "vote_count": 397,
+  "imdb_id": "tt0119994",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

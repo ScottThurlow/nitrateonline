@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 31662,
+  "title": "Affliction",
+  "original_title": "Affliction",
+  "release_date": "1998-02-12",
+  "runtime": 114,
+  "tagline": "Like father like son...?",
+  "overview": "A small town policeman must investigate a suspicious hunting accident. The investigation and other events result in him slowly disintegrating mentally.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Largo Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Reisman / Kingsgate Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Paul Schrader"
+  ],
+  "writers": [
+    {
+      "name": "Russell Banks",
+      "job": "Novel"
+    },
+    {
+      "name": "Paul Schrader",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nick Nolte",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barr B. Potter",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Linda Reisman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nick Nolte",
+      "character": "Wade Whitehouse",
+      "order": 0
+    },
+    {
+      "name": "Sissy Spacek",
+      "character": "Margie Fogg",
+      "order": 1
+    },
+    {
+      "name": "James Coburn",
+      "character": "Glen Whitehouse",
+      "order": 2
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Rolfe Whitehouse",
+      "order": 3
+    },
+    {
+      "name": "Mary Beth Hurt",
+      "character": "Lillian",
+      "order": 4
+    },
+    {
+      "name": "Jim True-Frost",
+      "character": "Jack Hewitt",
+      "order": 5
+    },
+    {
+      "name": "Marian Seldes",
+      "character": "Alma Pittman",
+      "order": 6
+    },
+    {
+      "name": "Holmes Osborne",
+      "character": "Gordon LaRiviere",
+      "order": 7
+    },
+    {
+      "name": "Brigid Tierney",
+      "character": "Jill",
+      "order": 8
+    },
+    {
+      "name": "Sean McCann",
+      "character": "Evan Twombley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hNu8ePwoRyXDQxhLY4iurCVXAQs.jpg",
+  "backdrop_path": "/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
+  "budget": 6000000,
+  "revenue": 6330054,
+  "vote_average": 6.343,
+  "vote_count": 309,
+  "imdb_id": "tt0118564",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

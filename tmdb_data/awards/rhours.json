@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 1 Oscar. 43 wins & 126 nominations total",
+  "rated": "PG-13",
+  "released": "14 Feb 2003",
+  "runtime": "110 min",
+  "genre": "Drama, Romance",
+  "director": "Stephen Daldry",
+  "writer": "Michael Cunningham, David Hare",
+  "actors": "Meryl Streep, Nicole Kidman, Julianne Moore",
+  "plot": "In 1951, Laura Brown (Julianne Moore), a pregnant housewife, is planning a party for her husband, but she can't stop reading the novel \"Mrs. Dalloway\". Clarissa Vaughan (Meryl Streep), a modern woman living in present times is throwing a party for her friend Richard (Ed Harris), a famous author dying of A.I.D.S. These two stories are simultaneously linked to the work and life of Virginia Woolf (Nicole Kidman), who's writing the novel mentioned before.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "80",
+  "imdb_rating": "7.5",
+  "imdb_votes": "145,484",
+  "box_office": "$41,675,994",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Hours"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/The+Hours/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0274558/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0274558/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/590"
+  }
+}

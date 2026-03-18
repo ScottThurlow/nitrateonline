@@ -1,0 +1,159 @@
+{
+  "tmdb_id": 20024,
+  "title": "The End of the Affair",
+  "original_title": "The End of the Affair",
+  "release_date": "1999-12-03",
+  "runtime": 102,
+  "tagline": "The end was just the beginning.",
+  "overview": "On a rainy London night in 1946, novelist Maurice Bendrix has a chance meeting with Henry Miles, husband of his ex-mistress Sarah, who abruptly ended their affair two years before. Bendrix's obsession with Sarah is rekindled; he succumbs to his own jealousy and arranges to have her followed.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Neil Jordan"
+  ],
+  "writers": [
+    {
+      "name": "Graham Greene",
+      "job": "Novel"
+    },
+    {
+      "name": "Neil Jordan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stephen Woolley",
+      "job": "Producer"
+    },
+    {
+      "name": "Neil Jordan",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ralph Fiennes",
+      "character": "Maurice Bendrix",
+      "order": 0
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Sarah Miles",
+      "order": 1
+    },
+    {
+      "name": "Stephen Rea",
+      "character": "Henry Miles",
+      "order": 2
+    },
+    {
+      "name": "James Bolam",
+      "character": "Mr. Savage",
+      "order": 3
+    },
+    {
+      "name": "Ian Hart",
+      "character": "Mr. Parkis",
+      "order": 4
+    },
+    {
+      "name": "Jason Isaacs",
+      "character": "Father Richard Smythe",
+      "order": 5
+    },
+    {
+      "name": "Deborah Findlay",
+      "character": "Miss Smythe",
+      "order": 6
+    },
+    {
+      "name": "Sam Bould",
+      "character": "Lance Parkis",
+      "order": 7
+    },
+    {
+      "name": "Cyril Shaps",
+      "character": "Waiter",
+      "order": 8
+    },
+    {
+      "name": "Simon Turner",
+      "character": "Dr Gilbert",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xTp5cyp6qG0YTdI4AEz4ytjODOQ.jpg",
+  "backdrop_path": "/hO1UwCPxI5tpz21hzITij3DPwFY.jpg",
+  "budget": 23000000,
+  "revenue": 10827816,
+  "vote_average": 6.6,
+  "vote_count": 264,
+  "imdb_id": "tt0172396",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

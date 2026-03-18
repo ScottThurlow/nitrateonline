@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 57022,
+  "title": "Sunshine State",
+  "original_title": "Sunshine State",
+  "release_date": "2002-06-21",
+  "runtime": 141,
+  "tagline": "Greetings from...",
+  "overview": "A woman and her new husband returns to her hometown roots in coastal northern Florida, and must deal with family, business, and encroaching real estate development.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Anarchist's Convention Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "John Sayles"
+  ],
+  "writers": [
+    {
+      "name": "John Sayles",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Maggie Renzi",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jane Alexander",
+      "character": "Delia Temple",
+      "order": 0
+    },
+    {
+      "name": "Mary Alice",
+      "character": "Eunice Stokes",
+      "order": 1
+    },
+    {
+      "name": "Angela Bassett",
+      "character": "Desiree Perry",
+      "order": 2
+    },
+    {
+      "name": "Gordon Clapp",
+      "character": "Earl Pinkney",
+      "order": 3
+    },
+    {
+      "name": "Bill Cobbs",
+      "character": "Dr. Elton Lloyd",
+      "order": 4
+    },
+    {
+      "name": "Edie Falco",
+      "character": "Marly Temple",
+      "order": 5
+    },
+    {
+      "name": "Miguel Ferrer",
+      "character": "Lester",
+      "order": 6
+    },
+    {
+      "name": "Timothy Hutton",
+      "character": "Jack Meadows",
+      "order": 7
+    },
+    {
+      "name": "Alan King",
+      "character": "Murray Silver",
+      "order": 8
+    },
+    {
+      "name": "James McDaniel",
+      "character": "Reggie Perry",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8OsgdG53vzF5uC8pCE61SA1tiNF.jpg",
+  "backdrop_path": "/kAyMSlYrrvvMg2v9TaDvF9nVVS8.jpg",
+  "budget": 0,
+  "revenue": 3369654,
+  "vote_average": 6.345,
+  "vote_count": 42,
+  "imdb_id": "tt0286179",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

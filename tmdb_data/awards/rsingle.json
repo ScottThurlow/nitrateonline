@@ -1,0 +1,35 @@
+{
+  "year": "2002",
+  "awards": "N/A",
+  "rated": "PG",
+  "released": "30 Jan 2002",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Kurt Hale",
+  "writer": "John E. Moyer, Kurt Hale, Eric Player",
+  "actors": "Will Swenson, Connie Young, Daryn Tufts",
+  "plot": "When Jonathan Jordan gets divorced he's thrust back into the world of being a single Mormon - a world whose ultimate goal is eternal marriage. Struggling to fit in, Jonathan decides to stop going to church only to be pursued by the members of the local singles ward who want to reactivate him. Nothing works until Jonathan falls for Cammie Giles, the ward activities director. Suddenly, going to church becomes much more appealing. But is he going for the right reasons?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.1",
+  "imdb_votes": "1,530",
+  "box_office": "$1,250,798",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "50%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Singles+Ward"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0306069/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0306069/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16653"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "tmdb_id": 480,
+  "title": "Monsoon Wedding",
+  "original_title": "Monsoon Wedding",
+  "release_date": "2001-08-30",
+  "runtime": 114,
+  "tagline": "The rain is coming... and so is the family.",
+  "overview": "A stressed father, a bride-to-be with a secret, a smitten event planner, and relatives from around the world create much ado about the preparations for an arranged marriage in India.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hindi"
+  ],
+  "production_companies": [
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    },
+    {
+      "name": "Mirabai Films",
+      "country": "US"
+    },
+    {
+      "name": "Key Film Productions",
+      "country": "IT"
+    },
+    {
+      "name": "Pandora Film",
+      "country": "DE"
+    },
+    {
+      "name": "Paradis Films",
+      "country": "FR"
+    },
+    {
+      "name": "iDream Productions",
+      "country": "IN"
+    }
+  ],
+  "director": [
+    "Mira Nair"
+  ],
+  "writers": [
+    {
+      "name": "Sabrina Dhawan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Caroline Baron",
+      "job": "Producer"
+    },
+    {
+      "name": "Robyn Aronstam",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mira Nair",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Naseeruddin Shah",
+      "character": "Lalit Verma",
+      "order": 0
+    },
+    {
+      "name": "Lillete Dubey",
+      "character": "Pimmi Verma",
+      "order": 1
+    },
+    {
+      "name": "Shefali Shah",
+      "character": "Ria Verma",
+      "order": 2
+    },
+    {
+      "name": "Vasundhara Das",
+      "character": "Aditi Verma",
+      "order": 3
+    },
+    {
+      "name": "Parvin Dabas",
+      "character": "Hemant Rai",
+      "order": 4
+    },
+    {
+      "name": "Vijay Raaz",
+      "character": "P.K. Dubey",
+      "order": 5
+    },
+    {
+      "name": "Tillotama Shome",
+      "character": "Alice",
+      "order": 6
+    },
+    {
+      "name": "Kulbhushan Kharbanda",
+      "character": "C. L. Chadha",
+      "order": 7
+    },
+    {
+      "name": "Kamini Khanna",
+      "character": "Shashi Chadha",
+      "order": 8
+    },
+    {
+      "name": "Randeep Hooda",
+      "character": "Rahul Chadha",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vCwkv7tYFem0tQ9Duoq2MX7T7Zd.jpg",
+  "backdrop_path": "/bEkGHeIZYtULSgEvyjIbGHnMqgf.jpg",
+  "budget": 1200000,
+  "revenue": 30787356,
+  "vote_average": 6.77,
+  "vote_count": 215,
+  "imdb_id": "tt0265343",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

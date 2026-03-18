@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 10384,
+  "title": "Supernova",
+  "original_title": "Supernova",
+  "release_date": "2000-01-14",
+  "runtime": 91,
+  "tagline": "All hell is about to break loose.",
+  "overview": "Set in the 22nd century, when a battered salvage ship sends out a distress signal, the seasoned crew of the rescue hospital ship Nova-17 responds. What they find is a black hole--that threatens to destroy both ships--and a mysterious survivor whose body quickly mutates into a monstrous and deadly form.",
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hammerhead Productions",
+      "country": ""
+    },
+    {
+      "name": "Screenland Pictures",
+      "country": ""
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Walter Hill"
+  ],
+  "writers": [
+    {
+      "name": "David C. Wilson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dan Chuba",
+      "job": "Story"
+    },
+    {
+      "name": "William Malone",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ash R. Shah",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Chuba",
+      "job": "Producer"
+    },
+    {
+      "name": "Jamie Dixon",
+      "job": "Producer"
+    },
+    {
+      "name": "Ralph S. Singleton",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Spader",
+      "character": "Nick Vanzant",
+      "order": 0
+    },
+    {
+      "name": "Angela Bassett",
+      "character": "Kaela Evers",
+      "order": 1
+    },
+    {
+      "name": "Robert Forster",
+      "character": "A.J. Marley",
+      "order": 2
+    },
+    {
+      "name": "Lou Diamond Phillips",
+      "character": "Yerzy Penalosa",
+      "order": 3
+    },
+    {
+      "name": "Peter Facinelli",
+      "character": "Karl Larson",
+      "order": 4
+    },
+    {
+      "name": "Robin Tunney",
+      "character": "Danika Lund",
+      "order": 5
+    },
+    {
+      "name": "Wilson Cruz",
+      "character": "Benj Sotomejor",
+      "order": 6
+    },
+    {
+      "name": "Eddy Rice Jr.",
+      "character": "Flyboy",
+      "order": 7
+    },
+    {
+      "name": "Knox White",
+      "character": "Troy Larson",
+      "order": 8
+    },
+    {
+      "name": "Kerrigan Mahan",
+      "character": "Troy Larson (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/AmHGUjhgXnOYRYrF2ZYMtzfwxPe.jpg",
+  "backdrop_path": "/przsU4aiGsdlDkCp5uV8kq8gbLe.jpg",
+  "budget": 90000000,
+  "revenue": 14828081,
+  "vote_average": 4.938,
+  "vote_count": 425,
+  "imdb_id": "tt0134983",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

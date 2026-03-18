@@ -1,0 +1,285 @@
+{
+  "tmdb_id": 1018,
+  "title": "Mulholland Drive",
+  "original_title": "Mulholland Drive",
+  "release_date": "2001-06-06",
+  "runtime": 147,
+  "tagline": "An actress longing to be a star. A woman searching for herself. Both worlds will collide... on Mulholland Drive.",
+  "overview": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "Les Films Alain Sarde",
+      "country": "FR"
+    },
+    {
+      "name": "Asymmetrical Productions",
+      "country": "US"
+    },
+    {
+      "name": "Babbo",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David Lynch"
+  ],
+  "writers": [
+    {
+      "name": "David Lynch",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tony Krantz",
+      "job": "Producer"
+    },
+    {
+      "name": "Mary Sweeney",
+      "job": "Producer"
+    },
+    {
+      "name": "Neal Edelstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Polaire",
+      "job": "Producer"
+    },
+    {
+      "name": "Pierre Edelman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Naomi Watts",
+      "character": "Betty Elms / Diane Selwyn",
+      "order": 0
+    },
+    {
+      "name": "Laura Harring",
+      "character": "Rita / Camilla Rhodes",
+      "order": 1
+    },
+    {
+      "name": "Justin Theroux",
+      "character": "Adam",
+      "order": 2
+    },
+    {
+      "name": "Ann Miller",
+      "character": "Coco",
+      "order": 3
+    },
+    {
+      "name": "Mark Pellegrino",
+      "character": "Joe",
+      "order": 4
+    },
+    {
+      "name": "Robert Forster",
+      "character": "Detective McKnight",
+      "order": 5
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "Vincenzo Castigliane",
+      "order": 6
+    },
+    {
+      "name": "Angelo Badalamenti",
+      "character": "Luigi Castigliane",
+      "order": 7
+    },
+    {
+      "name": "Patrick Fischler",
+      "character": "Dan",
+      "order": 8
+    },
+    {
+      "name": "Brent Briscoe",
+      "character": "Detective Domgaard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+  "backdrop_path": "/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
+  "budget": 15000000,
+  "revenue": 20289986,
+  "vote_average": 7.801,
+  "vote_count": 6907,
+  "imdb_id": "tt0166924",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "KNT/ENA"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CL",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "K-16"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IN",
+      "rating": "UA"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "TH",
+      "rating": "18"
+    },
+    {
+      "country": "TR",
+      "rating": "16+"
+    },
+    {
+      "country": "TW",
+      "rating": "15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "18"
+    }
+  ],
+  "status": "Released"
+}

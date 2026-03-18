@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win total",
+  "rated": "R",
+  "released": "29 Aug 2003",
+  "runtime": "100 min",
+  "genre": "Crime, Drama",
+  "director": "Ed Solomon",
+  "writer": "Ed Solomon",
+  "actors": "Billy Bob Thornton, Morgan Freeman, Kirsten Dunst",
+  "plot": "After two decades in prison for murder, a man is released on parole and returns to his hometown seeking redemption.",
+  "language": "English",
+  "country": "United States, France",
+  "metascore": "45",
+  "imdb_rating": "6.3",
+  "imdb_votes": "6,884",
+  "box_office": "$209,695",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "34%",
+      "link": "https://www.rottentomatoes.com/search?search=Levity"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/Levity/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0304328/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0304328/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21052"
+  }
+}

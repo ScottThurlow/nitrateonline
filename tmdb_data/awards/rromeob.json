@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "3 nominations",
+  "rated": "R",
+  "released": "04 Feb 2000",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama",
+  "director": "Shane Meadows",
+  "writer": "Robyn Slovo, Paul Fraser, Shane Meadows",
+  "actors": "Martin Arrowsmith, Dave Blant, Darren Campbell",
+  "plot": "Two twelve-year-old boys, Romeo and Gavin, undergo an extraordinary test of character and friendship when Morell, a naive but eccentric and dangerous stranger, comes between them. Morell befriends with the two boys and later asks them to help him pursue Romeo's beautiful elder sister. He gradually becomes more violent after she rejects him ...",
+  "language": "English",
+  "country": "United Kingdom, Canada",
+  "metascore": "65",
+  "imdb_rating": "7.5",
+  "imdb_votes": "6,261",
+  "box_office": "$19,478",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=A+Room+for+Romeo+Brass"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/A+Room+for+Romeo+Brass/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0202559/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0202559/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/22908"
+  }
+}

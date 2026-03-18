@@ -1,0 +1,150 @@
+{
+  "tmdb_id": 68924,
+  "title": "The Ice Storm",
+  "original_title": "The Ice Storm",
+  "release_date": "1997-09-27",
+  "runtime": 113,
+  "tagline": "It was 1973, and the climate was changing.",
+  "overview": "In the weekend after thanksgiving 1973 the Hood family is skidding out of control. Then an ice storm hits, the worst in a century.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Canal+ Droits Audiovisuels",
+      "country": "FR"
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ang Lee"
+  ],
+  "writers": [
+    {
+      "name": "Rick Moody",
+      "job": "Novel"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ted Hope",
+      "job": "Producer"
+    },
+    {
+      "name": "Ang Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Kline",
+      "character": "Ben Hood",
+      "order": 0
+    },
+    {
+      "name": "Joan Allen",
+      "character": "Elena Hood",
+      "order": 1
+    },
+    {
+      "name": "Sigourney Weaver",
+      "character": "Janey Carver",
+      "order": 2
+    },
+    {
+      "name": "Jamey Sheridan",
+      "character": "Jim Carver",
+      "order": 3
+    },
+    {
+      "name": "Christina Ricci",
+      "character": "Wendy Hood",
+      "order": 4
+    },
+    {
+      "name": "Tobey Maguire",
+      "character": "Paul Hood",
+      "order": 5
+    },
+    {
+      "name": "Elijah Wood",
+      "character": "Mikey Carver",
+      "order": 6
+    },
+    {
+      "name": "Adam Hann-Byrd",
+      "character": "Sandy Carver",
+      "order": 7
+    },
+    {
+      "name": "Michael Cumpsty",
+      "character": "Philip Edwards",
+      "order": 8
+    },
+    {
+      "name": "Katie Holmes",
+      "character": "Libbets Casey",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3a6uLta7K8Dzojps4RoJAPHD0km.jpg",
+  "backdrop_path": "/r700X6U2hVX0haLRItATSVn5Rj4.jpg",
+  "budget": 18000000,
+  "revenue": 16000000,
+  "vote_average": 6.864,
+  "vote_count": 731,
+  "imdb_id": "tt0119349",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "K15"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

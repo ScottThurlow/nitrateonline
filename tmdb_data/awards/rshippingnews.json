@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 2 BAFTA 2 wins & 13 nominations total",
+  "rated": "R",
+  "released": "18 Jan 2002",
+  "runtime": "111 min",
+  "genre": "Drama",
+  "director": "Lasse Hallström",
+  "writer": "Annie Proulx, Robert Nelson Jacobs",
+  "actors": "Kevin Spacey, Julianne Moore, Judi Dench",
+  "plot": "An inksetter in New York, Quoyle (Kevin Spacey) returns to his family's longtime home, a small fishing town in Newfoundland, with his young daughter, Bunny (Alyssa, Kaitlyn, and Lauren Gainer), after a traumatizing experience with her mother, Petal (Cate Blanchett), who sold her to an illegal adoption agency. Though Quoyle has had little success thus far in life, his shipping news column in the newspaper \"The Gammy Bird\" finds an audience, and his experiences in the town change his life. Then he meets the widow Wavey Prowse (Julianne Moore).",
+  "language": "English",
+  "country": "Canada, United States, Sweden",
+  "metascore": "47",
+  "imdb_rating": "6.7",
+  "imdb_votes": "34,123",
+  "box_office": "$11,434,216",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Shipping+News"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/The+Shipping+News/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120824/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120824/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6440"
+  }
+}

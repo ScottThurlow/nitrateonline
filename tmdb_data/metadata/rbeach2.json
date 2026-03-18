@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 1907,
+  "title": "The Beach",
+  "original_title": "The Beach",
+  "release_date": "2000-02-03",
+  "runtime": 119,
+  "tagline": "Somewhere on this planet it must exist.",
+  "overview": "Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.",
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Romance",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Croatian",
+    "Swedish",
+    "Thai"
+  ],
+  "production_companies": [
+    {
+      "name": "Figment Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Danny Boyle"
+  ],
+  "writers": [
+    {
+      "name": "John Hodge",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alex Garland",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Macdonald",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "character": "Richard",
+      "order": 0
+    },
+    {
+      "name": "Virginie Ledoyen",
+      "character": "Françoise",
+      "order": 1
+    },
+    {
+      "name": "Guillaume Canet",
+      "character": "Étienne",
+      "order": 2
+    },
+    {
+      "name": "Tilda Swinton",
+      "character": "Sal",
+      "order": 3
+    },
+    {
+      "name": "Staffan Kihlbom",
+      "character": "Christo",
+      "order": 4
+    },
+    {
+      "name": "Paterson Joseph",
+      "character": "Keaty",
+      "order": 5
+    },
+    {
+      "name": "Peter Youngblood Hills",
+      "character": "Zeph",
+      "order": 6
+    },
+    {
+      "name": "Robert Carlyle",
+      "character": "Daffy",
+      "order": 7
+    },
+    {
+      "name": "Jerry Swindall",
+      "character": "Sammy",
+      "order": 8
+    },
+    {
+      "name": "Lars Arentz-Hansen",
+      "character": "Bugs",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+  "backdrop_path": "/f7sQHmdZdPHaRVt3428XmdoZ8Hs.jpg",
+  "budget": 40000000,
+  "revenue": 144056873,
+  "vote_average": 6.482,
+  "vote_count": 4651,
+  "imdb_id": "tt0163978",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

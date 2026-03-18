@@ -1,0 +1,155 @@
+{
+  "tmdb_id": 15720,
+  "title": "The Man from Elysian Fields",
+  "original_title": "The Man from Elysian Fields",
+  "release_date": "2001-09-13",
+  "runtime": 106,
+  "tagline": "",
+  "overview": "A failed novelist's inability to pay the bills strains relations with his wife and leads him to work at an escort service, where he becomes entwined with a wealthy woman whose husband is a successful writer.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TVA International",
+      "country": ""
+    },
+    {
+      "name": "CineSon Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Fireworks Pictures",
+      "country": "CA"
+    },
+    {
+      "name": "Gold Circle Films",
+      "country": "US"
+    },
+    {
+      "name": "Pfilmco",
+      "country": ""
+    },
+    {
+      "name": "Shoreline Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "George Hickenlooper"
+  ],
+  "writers": [
+    {
+      "name": "Phillip Jayson Lasker",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Donald Zuckerman",
+      "job": "Producer"
+    },
+    {
+      "name": "Norm Waitt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Morris Ruskin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Pfeffer",
+      "job": "Producer"
+    },
+    {
+      "name": "David Kronemeyer",
+      "job": "Producer"
+    },
+    {
+      "name": "Larry Katz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andy Garcia",
+      "job": "Producer"
+    },
+    {
+      "name": "Joe Drago",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Brooks",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Andy Garcia",
+      "character": "Byron",
+      "order": 0
+    },
+    {
+      "name": "Julianna Margulies",
+      "character": "Dena",
+      "order": 1
+    },
+    {
+      "name": "Anjelica Huston",
+      "character": "Jennifer Adler",
+      "order": 2
+    },
+    {
+      "name": "Olivia Williams",
+      "character": "Andrea",
+      "order": 3
+    },
+    {
+      "name": "Mick Jagger",
+      "character": "Luther",
+      "order": 4
+    },
+    {
+      "name": "James Coburn",
+      "character": "Alcot",
+      "order": 5
+    },
+    {
+      "name": "Susan Barnes",
+      "character": "Attractive Woman",
+      "order": 6
+    },
+    {
+      "name": "Michael Des Barres",
+      "character": "Nigel",
+      "order": 7
+    },
+    {
+      "name": "Richard Bradford",
+      "character": "Edward Rodgers",
+      "order": 8
+    },
+    {
+      "name": "Xander Berkeley",
+      "character": "Virgil Koster",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mCUzyYDMHNdihZVTVH1g3KvTo8p.jpg",
+  "backdrop_path": "/9SP0ARVcFzVhh1zHKFYQ3uFt5nV.jpg",
+  "budget": 6500000,
+  "revenue": 2006391,
+  "vote_average": 5.9,
+  "vote_count": 62,
+  "imdb_id": "tt0265307",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

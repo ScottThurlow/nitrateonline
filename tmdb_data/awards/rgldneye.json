@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Nominated for 2 BAFTA 2 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "17 Nov 1995",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Martin Campbell",
+  "writer": "Ian Fleming, Michael France, Jeffrey Caine",
+  "actors": "Pierce Brosnan, Sean Bean, Izabella Scorupco",
+  "plot": "When a deadly satellite weapon system falls into the wrong hands, only Agent James Bond 007 (Pierce Brosnan) can save the world from certain disaster. Armed with his licence to kill, Bond races to Russia in search of the stolen access codes for \"GoldenEye\", an awesome space weapon that can fire a devastating electromagnetic pulse toward Earth. But 007 is up against an enemy who anticipates his every move: a mastermind motivated by years of simmering hatred. Bond also squares off against Xenia Onatopp (Famke Janssen), an assassin who uses pleasure as her ultimate weapon.",
+  "language": "English, Russian, Spanish",
+  "country": "United Kingdom, United States, Russia",
+  "metascore": "65",
+  "imdb_rating": "7.2",
+  "imdb_votes": "281,321",
+  "box_office": "$106,429,941",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "80%",
+      "link": "https://www.rottentomatoes.com/search?search=GoldenEye"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/GoldenEye/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0113189/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0113189/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/710"
+  }
+}

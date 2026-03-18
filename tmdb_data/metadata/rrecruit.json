@@ -1,0 +1,201 @@
+{
+  "tmdb_id": 1647,
+  "title": "The Recruit",
+  "original_title": "The Recruit",
+  "release_date": "2003-01-31",
+  "runtime": 115,
+  "tagline": "Trust. Betrayal. Deception. In the C.I.A. nothing is what it seems.",
+  "overview": "A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Persian",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Birnbaum/Barber Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roger Donaldson"
+  ],
+  "writers": [
+    {
+      "name": "Mitch Glazer",
+      "job": "Writer"
+    },
+    {
+      "name": "Roger Towne",
+      "job": "Writer"
+    },
+    {
+      "name": "Kurt Wimmer",
+      "job": "Writer"
+    },
+    {
+      "name": "Rob McCallum",
+      "job": "Storyboard"
+    },
+    {
+      "name": "Ron Hobbs",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeff Apple",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ric Kidney",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Colin Farrell",
+      "character": "James Clayton",
+      "order": 0
+    },
+    {
+      "name": "Al Pacino",
+      "character": "Walter Burke",
+      "order": 1
+    },
+    {
+      "name": "Bridget Moynahan",
+      "character": "Layla Moore",
+      "order": 2
+    },
+    {
+      "name": "Gabriel Macht",
+      "character": "Zack",
+      "order": 3
+    },
+    {
+      "name": "Karl Pruner",
+      "character": "Dennis Slayne",
+      "order": 4
+    },
+    {
+      "name": "Eugene Lipinski",
+      "character": "Husky Man",
+      "order": 5
+    },
+    {
+      "name": "Mike Realba",
+      "character": "Ronnie Gibson",
+      "order": 6
+    },
+    {
+      "name": "Domenico Fiore",
+      "character": "Instructor #1",
+      "order": 7
+    },
+    {
+      "name": "Ron Lea",
+      "character": "Dell Rep (Bill Rudolph)",
+      "order": 8
+    },
+    {
+      "name": "Jeanie Calleja",
+      "character": "Co-Ed #1",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xInKytrHV3EJeCAulOpn5Q0bMxh.jpg",
+  "backdrop_path": "/bwDTWOd0SCFWfRw8ophhykOgUBS.jpg",
+  "budget": 46000000,
+  "revenue": 101200000,
+  "vote_average": 6.378,
+  "vote_count": 1876,
+  "imdb_id": "tt0292506",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

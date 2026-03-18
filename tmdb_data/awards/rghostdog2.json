@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 8 nominations total",
+  "rated": "R",
+  "released": "24 Mar 2000",
+  "runtime": "116 min",
+  "genre": "Crime, Drama",
+  "director": "Jim Jarmusch",
+  "writer": "Jim Jarmusch",
+  "actors": "Forest Whitaker, Henry Silva, John Tormey",
+  "plot": "A hitman who lives by the code of the samurai, works for the mafia and finds himself in their crosshairs when his recent job doesn't go according to plan. Now he must find a way to defend himself and his honor while retaining the code he lives by.",
+  "language": "English, French",
+  "country": "France, Germany, United States, Japan",
+  "metascore": "68",
+  "imdb_rating": "7.5",
+  "imdb_votes": "102,710",
+  "box_office": "$3,308,029",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "84%",
+      "link": "https://www.rottentomatoes.com/search?search=Ghost+Dog%3A+The+Way+of+the+Samurai"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Ghost+Dog%3A+The+Way+of+the+Samurai/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0165798/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0165798/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4816"
+  }
+}

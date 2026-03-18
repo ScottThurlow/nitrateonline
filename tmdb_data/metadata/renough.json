@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 1957,
+  "title": "Enough",
+  "original_title": "Enough",
+  "release_date": "2002-05-21",
+  "runtime": 114,
+  "tagline": "Everyone has a limit.",
+  "overview": "Working-class waitress Slim thought she was entering a life of domestic bliss when she married Mitch, the man of her dreams. After the arrival of their first child, her picture perfect life is shattered when she discovers Mitch's hidden possessive dark side, a controlling and abusive alter ego that can turn trust, love and tranquility into terror. Terrified for her child's safety, Slim flees with her daughter. Relentless in his pursuit and enlisting the aid of lethal henchmen, Mitch continually stalks the prey that was once his family.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Winkler Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Apted"
+  ],
+  "writers": [
+    {
+      "name": "Nicholas Kazan",
+      "job": "Writer"
+    },
+    {
+      "name": "Aimee Mann",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Irwin Winkler",
+      "job": "Producer"
+    },
+    {
+      "name": "Rob Cowan",
+      "job": "Producer"
+    },
+    {
+      "name": "E. Bennett Walsh",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Lopez",
+      "character": "Slim Hiller",
+      "order": 0
+    },
+    {
+      "name": "Billy Campbell",
+      "character": "Mitch Hiller",
+      "order": 1
+    },
+    {
+      "name": "Tessa Allen",
+      "character": "Gracie Hiller",
+      "order": 2
+    },
+    {
+      "name": "Juliette Lewis",
+      "character": "Ginny",
+      "order": 3
+    },
+    {
+      "name": "Dan Futterman",
+      "character": "Joe",
+      "order": 4
+    },
+    {
+      "name": "Noah Wyle",
+      "character": "Robbie",
+      "order": 5
+    },
+    {
+      "name": "Fred Ward",
+      "character": "Jupiter",
+      "order": 6
+    },
+    {
+      "name": "Christopher Maher",
+      "character": "Phil",
+      "order": 7
+    },
+    {
+      "name": "Janet Carroll",
+      "character": "Mrs. Hiller",
+      "order": 8
+    },
+    {
+      "name": "Bill Cobbs",
+      "character": "Jim Toller",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yAfXnB6B69iM8KiWwzGulCXF4Mo.jpg",
+  "backdrop_path": "/ozbkcXmqcGqWKMKLE2o1QBIlPeW.jpg",
+  "budget": 38000000,
+  "revenue": 51800000,
+  "vote_average": 6.649,
+  "vote_count": 1226,
+  "imdb_id": "tt0278435",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

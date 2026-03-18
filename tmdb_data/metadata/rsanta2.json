@@ -1,0 +1,220 @@
+{
+  "tmdb_id": 9021,
+  "title": "The Santa Clause 2",
+  "original_title": "The Santa Clause 2",
+  "release_date": "2002-09-29",
+  "runtime": 104,
+  "tagline": "What's Christmas Fun without some Reindeer Games?",
+  "overview": "Better watch out! The big guy in red is coming to town once again. This time, Scott Calvin -- also known as Santa Claus -- finds out there's an obscure clause in his contract requiring him to take on a wife. He has to leave the North Pole to fulfill his obligations, or else he'll be forced to give up his Yuletide gig.",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Outlaw Productions",
+      "country": "US"
+    },
+    {
+      "name": "Boxing Cat Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Lembeck"
+  ],
+  "writers": [
+    {
+      "name": "Cinco Paul",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ken Daurio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John J. Strauss",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Don Rhymer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Rudnick",
+      "job": "Story"
+    },
+    {
+      "name": "Ed Decter",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Rudnick",
+      "job": "Characters"
+    },
+    {
+      "name": "Leo Benvenuti",
+      "job": "Characters"
+    },
+    {
+      "name": "Leo Benvenuti",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Newmyer",
+      "job": "Producer"
+    },
+    {
+      "name": "William W. Wilson III",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeffrey Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Messina",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Reilly",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Baker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James Miller",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tim Allen",
+      "character": "Scott Calvin / Santa / Toy Santa",
+      "order": 0
+    },
+    {
+      "name": "Judge Reinhold",
+      "character": "Neil Miller",
+      "order": 1
+    },
+    {
+      "name": "Wendy Crewson",
+      "character": "Laura Miller",
+      "order": 2
+    },
+    {
+      "name": "Elizabeth Mitchell",
+      "character": "Carol Newman",
+      "order": 3
+    },
+    {
+      "name": "David Krumholtz",
+      "character": "Bernard",
+      "order": 4
+    },
+    {
+      "name": "Eric Lloyd",
+      "character": "Charlie Calvin",
+      "order": 5
+    },
+    {
+      "name": "Spencer Breslin",
+      "character": "Curtis",
+      "order": 6
+    },
+    {
+      "name": "Liliana Mumy",
+      "character": "Lucy Miller",
+      "order": 7
+    },
+    {
+      "name": "Danielle Woodman",
+      "character": "Abby",
+      "order": 8
+    },
+    {
+      "name": "Art LaFleur",
+      "character": "Tooth Fairy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg",
+  "backdrop_path": "/ycQyXPqcTOgBNVDCTBTHBqsAbOk.jpg",
+  "budget": 65000000,
+  "revenue": 172842355,
+  "vote_average": 6.0,
+  "vote_count": 1411,
+  "imdb_id": "tt0304669",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 17612,
+  "title": "Lost and Delirious",
+  "original_title": "Lost and Delirious",
+  "release_date": "2001-01-21",
+  "runtime": 103,
+  "tagline": "Friends. Roommates. Lovers.",
+  "overview": "After starting at an upmarket boarding school, a teenage girl forms close friendships with her two older roommates. However, when she discovers that her new friends are lovers she finds herself caught in a complicated situation.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Cité-Amérique",
+      "country": "CA"
+    },
+    {
+      "name": "Dummett Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Léa Pool"
+  ],
+  "writers": [
+    {
+      "name": "Judith Thompson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Susan Swan",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Louis-Philippe Rochon",
+      "job": "Producer"
+    },
+    {
+      "name": "Louis Laverdière",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lorraine Richard",
+      "job": "Producer"
+    },
+    {
+      "name": "Greg Dummett",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mischa Barton",
+      "character": "Mary 'Mouse' Bedford",
+      "order": 0
+    },
+    {
+      "name": "Piper Perabo",
+      "character": "Pauline 'Paulie' Oster",
+      "order": 1
+    },
+    {
+      "name": "Jessica Paré",
+      "character": "Victoria 'Tori' Moller",
+      "order": 2
+    },
+    {
+      "name": "Mimi Kuzyk",
+      "character": "Eleanor Bannet",
+      "order": 3
+    },
+    {
+      "name": "Emily VanCamp",
+      "character": "Allison Moller",
+      "order": 4
+    },
+    {
+      "name": "Amy Stewart",
+      "character": "Cordelia",
+      "order": 5
+    },
+    {
+      "name": "Caroline Dhavernas",
+      "character": "Kara",
+      "order": 6
+    },
+    {
+      "name": "Jackie Burroughs",
+      "character": "Fay Vaughn",
+      "order": 7
+    },
+    {
+      "name": "Grace Lynn Kung",
+      "character": "Lauren",
+      "order": 8
+    },
+    {
+      "name": "Lydia Zadel",
+      "character": "Monica",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3Cu95A09arsfTsOJfygVwhJe5qc.jpg",
+  "backdrop_path": "/j1FMMJhWWK3im0XtnBAYm9IaEXD.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.793,
+  "vote_count": 526,
+  "imdb_id": "tt0245238",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

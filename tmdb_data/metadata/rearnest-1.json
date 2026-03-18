@@ -1,0 +1,142 @@
+{
+  "tmdb_id": 9026,
+  "title": "The Importance of Being Earnest",
+  "original_title": "The Importance of Being Earnest",
+  "release_date": "2002-05-17",
+  "runtime": 97,
+  "tagline": "Everybody Loves Ernest... But Nobody's Quite Sure Who He Really Is.",
+  "overview": "Two young gentlemen living in 1890s England use the same pseudonym ('Ernest') on the sly, which is fine until they both fall in love with women using that name, which leads to a comedy of mistaken identities.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ealing Studios",
+      "country": "GB"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Fragile Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Oliver Parker"
+  ],
+  "writers": [
+    {
+      "name": "Oscar Wilde",
+      "job": "Theatre Play"
+    },
+    {
+      "name": "Oliver Parker",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Uri Fruchtmann",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barnaby Thompson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rupert Everett",
+      "character": "Algernon “Algy” Moncrieff",
+      "order": 0
+    },
+    {
+      "name": "Colin Firth",
+      "character": "John “Jack” Worthing",
+      "order": 1
+    },
+    {
+      "name": "Reese Witherspoon",
+      "character": "Cecily Cardew",
+      "order": 2
+    },
+    {
+      "name": "Judi Dench",
+      "character": "Lady Bracknell",
+      "order": 3
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Dr. Chasuble",
+      "order": 4
+    },
+    {
+      "name": "Frances O'Connor",
+      "character": "Gwendolen Fairfax",
+      "order": 5
+    },
+    {
+      "name": "Anna Massey",
+      "character": "Miss Laetitia Prism",
+      "order": 6
+    },
+    {
+      "name": "Edward Fox",
+      "character": "Lane",
+      "order": 7
+    },
+    {
+      "name": "Patrick Godfrey",
+      "character": "Merriman",
+      "order": 8
+    },
+    {
+      "name": "Charles Kay",
+      "character": "Gribsby",
+      "order": 9
+    }
+  ],
+  "poster_path": "/87r4e4pL4STfpdjtqNZxlyjvcMd.jpg",
+  "backdrop_path": "/zIwsL0bIScIMu4CV0C3DxWxKFSN.jpg",
+  "budget": 15000000,
+  "revenue": 17300000,
+  "vote_average": 6.827,
+  "vote_count": 501,
+  "imdb_id": "tt0278500",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

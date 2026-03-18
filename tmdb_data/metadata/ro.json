@@ -1,0 +1,272 @@
+{
+  "tmdb_id": 120,
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+  "release_date": "2001-12-18",
+  "runtime": 179,
+  "tagline": "One ring to rule them all.",
+  "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "WingNut Films",
+      "country": "NZ"
+    },
+    {
+      "name": "The Saul Zaentz Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Jackson"
+  ],
+  "writers": [
+    {
+      "name": "Peter Jackson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Fran Walsh",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Philippa Boyens",
+      "job": "Screenplay"
+    },
+    {
+      "name": "J. R. R. Tolkien",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Jackson",
+      "job": "Producer"
+    },
+    {
+      "name": "Barrie M. Osborne",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Ordesky",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Lynne",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tim Sanders",
+      "job": "Producer"
+    },
+    {
+      "name": "Fran Walsh",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Shaye",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Elijah Wood",
+      "character": "Frodo",
+      "order": 0
+    },
+    {
+      "name": "Ian McKellen",
+      "character": "Gandalf",
+      "order": 1
+    },
+    {
+      "name": "Viggo Mortensen",
+      "character": "Aragorn",
+      "order": 2
+    },
+    {
+      "name": "Sean Astin",
+      "character": "Sam",
+      "order": 3
+    },
+    {
+      "name": "Ian Holm",
+      "character": "Bilbo",
+      "order": 4
+    },
+    {
+      "name": "Liv Tyler",
+      "character": "Arwen",
+      "order": 5
+    },
+    {
+      "name": "Christopher Lee",
+      "character": "Saruman",
+      "order": 6
+    },
+    {
+      "name": "Sean Bean",
+      "character": "Boromir",
+      "order": 7
+    },
+    {
+      "name": "Billy Boyd",
+      "character": "Pippin",
+      "order": 8
+    },
+    {
+      "name": "Dominic Monaghan",
+      "character": "Merry",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+  "backdrop_path": "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+  "budget": 93000000,
+  "revenue": 871368364,
+  "vote_average": 8.429,
+  "vote_count": 27159,
+  "imdb_id": "tt0120737",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "Κ-12"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "15"
+    },
+    {
+      "country": "PR",
+      "rating": "PG-13"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

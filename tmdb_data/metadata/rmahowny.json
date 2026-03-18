@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 15394,
+  "title": "Owning Mahowny",
+  "original_title": "Owning Mahowny",
+  "release_date": "2003-05-02",
+  "runtime": 104,
+  "tagline": "The true story of a mild mannered banker and his magnificent obsession.",
+  "overview": "Dan Mahowny was a rising star at the Canadian Imperial Bank of Commerce. At twenty-four he was assistant manager of a major branch in the heart of Toronto's financial district. To his colleagues he was a workaholic. To his customers, he was astute, decisive and helpful. To his friends, he was a quiet, but humorous man who enjoyed watching sports on television. To his girlfriend, he was shy but engaging. None of them knew the other side of Dan Mahowny--the side that executed the largest single-handed bank fraud in Canadian history, grossing over $10 million in eighteen months to feed his gambling obsession.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Alliance Atlantis",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Richard Kwietniowski"
+  ],
+  "writers": [
+    {
+      "name": "Gary Stephen Ross",
+      "job": "Novel"
+    },
+    {
+      "name": "Maurice Chauvet",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alessandro Camon",
+      "job": "Producer"
+    },
+    {
+      "name": "Sean Furst",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "András Hámori",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward R. Pressman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Seaton McLean",
+      "job": "Producer"
+    },
+    {
+      "name": "Lisa Batke",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Dan Mahowny",
+      "order": 0
+    },
+    {
+      "name": "Minnie Driver",
+      "character": "Belinda",
+      "order": 1
+    },
+    {
+      "name": "John Hurt",
+      "character": "Victor Foss",
+      "order": 2
+    },
+    {
+      "name": "Maury Chaykin",
+      "character": "Frank Perlin",
+      "order": 3
+    },
+    {
+      "name": "Ian Tracey",
+      "character": "Det. Ben Lock",
+      "order": 4
+    },
+    {
+      "name": "K.C. Collins",
+      "character": "Bernie",
+      "order": 5
+    },
+    {
+      "name": "Jason Blicker",
+      "character": "Dave Quinson",
+      "order": 6
+    },
+    {
+      "name": "Vince Corazza",
+      "character": "Doug",
+      "order": 7
+    },
+    {
+      "name": "Sonja Smits",
+      "character": "Dana Selkirk",
+      "order": 8
+    },
+    {
+      "name": "Roger Dunn",
+      "character": "Bill Gooden",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xQYKqpN6fD7Dc7Vu8xnShHPKDwe.jpg",
+  "backdrop_path": "/EZzC6VIaZDHLmtLv80kcQFWDa4.jpg",
+  "budget": 10000000,
+  "revenue": 1271244,
+  "vote_average": 6.767,
+  "vote_count": 195,
+  "imdb_id": "tt0285861",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

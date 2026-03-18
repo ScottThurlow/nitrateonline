@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 10366,
+  "title": "Universal Soldier: The Return",
+  "original_title": "Universal Soldier: The Return",
+  "release_date": "1999-08-05",
+  "runtime": 82,
+  "tagline": "Prepare to become obsolete.",
+  "overview": "Luc Deveraux, the heroic former Universal Soldier, is about to be thrown into action once again. When SETH, the supercomputer-controlled ultra-warrior, decides to take revenge and destroy its creators, only Luc can stop it. All hell breaks loose as Luc battles SETH and a deadly team of perfect soldiers in a struggle that pits man against machine and good against evil.",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Baumgarten-Prophet Entertainment",
+      "country": ""
+    },
+    {
+      "name": "IndieProd Company Productions",
+      "country": "US"
+    },
+    {
+      "name": "Long Road Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Mic Rodgers"
+  ],
+  "writers": [
+    {
+      "name": "John Fasano",
+      "job": "Screenplay"
+    },
+    {
+      "name": "William Malone",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dean Devlin",
+      "job": "Characters"
+    },
+    {
+      "name": "Richard Rothstein",
+      "job": "Characters"
+    },
+    {
+      "name": "Christopher Leitch",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Daniel Melnick",
+      "job": "Producer"
+    },
+    {
+      "name": "Jean-Claude Van Damme",
+      "job": "Producer"
+    },
+    {
+      "name": "Craig Baumgarten",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael I. Rachmil",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Allen Shapiro",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jean-Claude Van Damme",
+      "character": "Luc Deveraux",
+      "order": 0
+    },
+    {
+      "name": "Kiana Tom",
+      "character": "Maggie",
+      "order": 1
+    },
+    {
+      "name": "Bill Goldberg",
+      "character": "Romeo",
+      "order": 2
+    },
+    {
+      "name": "Michael Jai White",
+      "character": "SETH",
+      "order": 3
+    },
+    {
+      "name": "Heidi Schanz",
+      "character": "Erin Young, KTXD",
+      "order": 4
+    },
+    {
+      "name": "Xander Berkeley",
+      "character": "Dr. Dylan Cotner",
+      "order": 5
+    },
+    {
+      "name": "Justin Lazard",
+      "character": "Captain Blackburn",
+      "order": 6
+    },
+    {
+      "name": "Daniel von Bargen",
+      "character": "General Radford",
+      "order": 7
+    },
+    {
+      "name": "James Black",
+      "character": "Sergeant Morrow",
+      "order": 8
+    },
+    {
+      "name": "Karis Paige Bryant",
+      "character": "Hillary Deveraux",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg",
+  "backdrop_path": "/5qbratSc9h2UlTYFLEp8JH0s6F5.jpg",
+  "budget": 33500000,
+  "revenue": 10667893,
+  "vote_average": 5.913,
+  "vote_count": 1321,
+  "imdb_id": "tt0176269",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

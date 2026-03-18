@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "6 wins & 6 nominations total",
+  "rated": "PG-13",
+  "released": "06 Nov 1998",
+  "runtime": "90 min",
+  "genre": "Comedy, Sport",
+  "director": "Frank Coraci",
+  "writer": "Tim Herlihy, Adam Sandler",
+  "actors": "Adam Sandler, Kathy Bates, Henry Winkler",
+  "plot": "Bobby Boucher is the lowly waterboy for a college football team, until the coach discovers his amazing talent for tackling people much bigger than him. He signs the Waterboy as the new star player, but Bobby must keep it secret from his overbearing and domineering mother.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "41",
+  "imdb_rating": "6.2",
+  "imdb_votes": "189,980",
+  "box_office": "$161,491,646",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "32%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Waterboy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "41/100",
+      "link": "https://www.metacritic.com/search/The+Waterboy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120484/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120484/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10663"
+  }
+}

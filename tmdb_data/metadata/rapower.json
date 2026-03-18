@@ -1,0 +1,114 @@
+{
+  "tmdb_id": 66,
+  "title": "Absolute Power",
+  "original_title": "Absolute Power",
+  "release_date": "1997-02-14",
+  "runtime": 121,
+  "tagline": "Corrupts absolutely.",
+  "overview": "A master thief coincidentally is robbing a house where a murder—in which the President of the United States is involved—occurs in front of his eyes. He is forced to run, while holding evidence that could convict the President.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Castle Rock Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Malpaso Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Clint Eastwood"
+  ],
+  "writers": [
+    {
+      "name": "William Goldman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Baldacci",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Clint Eastwood",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rooker",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Karen S. Spiegel",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Clint Eastwood",
+      "character": "Luther Whitney",
+      "order": 0
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "President Richmond",
+      "order": 1
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Seth Frank",
+      "order": 2
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Kate Whitney",
+      "order": 3
+    },
+    {
+      "name": "Judy Davis",
+      "character": "Gloria Russell",
+      "order": 4
+    },
+    {
+      "name": "Scott Glenn",
+      "character": "Bill Burton",
+      "order": 5
+    },
+    {
+      "name": "Dennis Haysbert",
+      "character": "Tim Collin",
+      "order": 6
+    },
+    {
+      "name": "E.G. Marshall",
+      "character": "Walter Sullivan",
+      "order": 7
+    },
+    {
+      "name": "Melora Hardin",
+      "character": "Christy Sullivan",
+      "order": 8
+    },
+    {
+      "name": "Kenneth Welsh",
+      "character": "Sandy Lord",
+      "order": 9
+    }
+  ],
+  "poster_path": "/izvyt3cxlilhbYwybTOteDWqf99.jpg",
+  "backdrop_path": "/cLftTzGw40BlLw8IggKSWDjKOQo.jpg",
+  "budget": 50000000,
+  "revenue": 50100000,
+  "vote_average": 6.661,
+  "vote_count": 1209,
+  "imdb_id": "tt0118548",
+  "status": "Released"
+}

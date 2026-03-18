@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 1 Oscar. 33 wins & 59 nominations total",
+  "rated": "R",
+  "released": "17 Mar 2000",
+  "runtime": "131 min",
+  "genre": "Biography, Drama",
+  "director": "Steven Soderbergh",
+  "writer": "Susannah Grant",
+  "actors": "Julia Roberts, Albert Finney, David Brisbin",
+  "plot": "Erin Brockovich-Ellis is an unemployed single mother, desperate to find a job, but is having no luck. This losing streak even extends to a failed lawsuit against a doctor in a car accident she was in. With no alternative, she successfully browbeats her lawyer to give her a job in compensation for the loss. While no one takes her seriously, with her trashy clothes and earthy manners, that soon changes when she begins to investigate a suspicious real estate case involving the Pacific Gas &amp; Electric Company. What she discovers is that the company is trying quietly to buy land that was contaminated by hexavalent chromium, a deadly toxic waste that the company is improperly and illegally dumping and, in turn, poisoning the residents in the area. As she digs deeper, Erin finds herself leading point in a series of events that would involve her law firm in one of the biggest class action lawsuits in American history against a multi-billion dollar corporation.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "73",
+  "imdb_rating": "7.5",
+  "imdb_votes": "243,561",
+  "box_office": "$125,595,205",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Erin+Brockovich"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Erin+Brockovich/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0195685/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0195685/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/462"
+  }
+}

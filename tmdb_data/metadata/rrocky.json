@@ -1,0 +1,218 @@
+{
+  "tmdb_id": 17711,
+  "title": "The Adventures of Rocky & Bullwinkle",
+  "original_title": "The Adventures of Rocky & Bullwinkle",
+  "release_date": "2000-06-30",
+  "runtime": 92,
+  "tagline": "This summer it's not the same old bull.",
+  "overview": "Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.",
+  "genres": [
+    "Family",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tribeca Productions",
+      "country": "US"
+    },
+    {
+      "name": "Wildbrain Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jay Ward Productions",
+      "country": ""
+    },
+    {
+      "name": "Capella International",
+      "country": "US"
+    },
+    {
+      "name": "KC Medien",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Des McAnuff"
+  ],
+  "writers": [
+    {
+      "name": "Kenneth Lonergan",
+      "job": "Writer"
+    },
+    {
+      "name": "Jay Ward",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jane Rosenthal",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert De Niro",
+      "job": "Producer"
+    },
+    {
+      "name": "Tiffany Ward",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Nicksay",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roland Pellegrino",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeff Zino",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "June Foray",
+      "character": "Rocky / Cartoon Natasha / Narrator's Mother (voice)",
+      "order": 0
+    },
+    {
+      "name": "Keith Scott",
+      "character": "Bullwinkle / Narrator / Cartoon Boris / Cartoon Leader (voice)",
+      "order": 1
+    },
+    {
+      "name": "Rene Russo",
+      "character": "Natasha",
+      "order": 2
+    },
+    {
+      "name": "Jason Alexander",
+      "character": "Boris",
+      "order": 3
+    },
+    {
+      "name": "Piper Perabo",
+      "character": "Karen Sympathy",
+      "order": 4
+    },
+    {
+      "name": "Randy Quaid",
+      "character": "Cappy von Trapment",
+      "order": 5
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Fearless Leader",
+      "order": 6
+    },
+    {
+      "name": "Jonathan Winters",
+      "character": "Whoppa Chopper Pilot / Ohio Cop with Bullhorn / Jeb",
+      "order": 7
+    },
+    {
+      "name": "Janeane Garofalo",
+      "character": "Minnie Mogul",
+      "order": 8
+    },
+    {
+      "name": "Carl Reiner",
+      "character": "P.G. Biggershot",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xCFSsftt2rglC81I6QLWcZSTCBM.jpg",
+  "backdrop_path": "/9K1y8HCokYpuU92jKauiFwu0y7P.jpg",
+  "budget": 76000000,
+  "revenue": 35100000,
+  "vote_average": 4.269,
+  "vote_count": 388,
+  "imdb_id": "tt0131704",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "ATP"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "AL"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HK",
+      "rating": "I"
+    },
+    {
+      "country": "HU",
+      "rating": "KN"
+    },
+    {
+      "country": "IE",
+      "rating": "G"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

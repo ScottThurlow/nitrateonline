@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 10167,
+  "title": "Half Past Dead",
+  "original_title": "Half Past Dead",
+  "release_date": "2002-11-15",
+  "runtime": 98,
+  "tagline": "The good. The bad. And the deadly.",
+  "overview": "A man goes undercover in a hi-tech prison to find out information to help prosecute those who killed his wife. While there, he stumbles onto a plot involving a death-row inmate and his $200 million stash of gold.",
+  "genres": [
+    "Crime",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Modern Media Filmproduktion",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Don Michael Paul"
+  ],
+  "writers": [
+    {
+      "name": "Don Michael Paul",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Christopher Eberts",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Uwe Schott",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Seagal",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Steven Seagal",
+      "character": "Sasha Petrosevitch",
+      "order": 0
+    },
+    {
+      "name": "Morris Chestnut",
+      "character": "Donald Robert Johnson",
+      "order": 1
+    },
+    {
+      "name": "Ja Rule",
+      "character": "Nicolas 'Nick' Frazier",
+      "order": 2
+    },
+    {
+      "name": "Nia Peeples",
+      "character": "49er Six",
+      "order": 3
+    },
+    {
+      "name": "Alexandra Kamp",
+      "character": "Reporter",
+      "order": 4
+    },
+    {
+      "name": "Claudia Christian",
+      "character": "Special Agent Ellen Williams",
+      "order": 5
+    },
+    {
+      "name": "Tony Plana",
+      "character": "Warden El Fuego",
+      "order": 6
+    },
+    {
+      "name": "Kurupt",
+      "character": "Twitch",
+      "order": 7
+    },
+    {
+      "name": "Michael Taliferro",
+      "character": "Little Joe",
+      "order": 8
+    },
+    {
+      "name": "Bruce Weitz",
+      "character": "Lester McKenna",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fJhudecoqyoZLoCwAZvqNPd7MK5.jpg",
+  "backdrop_path": "/kn2DrfbjYWyNAXlYjCIhQPOTEYd.jpg",
+  "budget": 25000000,
+  "revenue": 19233280,
+  "vote_average": 5.114,
+  "vote_count": 383,
+  "imdb_id": "tt0297162",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

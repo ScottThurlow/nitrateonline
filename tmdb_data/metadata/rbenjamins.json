@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 13950,
+  "title": "All About the Benjamins",
+  "original_title": "All About the Benjamins",
+  "release_date": "2002-03-08",
+  "runtime": 95,
+  "tagline": "Money can make people do funny things.",
+  "overview": "Bounty hunter Bucum Jackson teams with the small-time con artist, Reggie Wright, that he is pursuing, in an attempt to locate a missing stash of diamonds and a lottery ticket worth millions of dollars. Bucum and Reggie find themselves in a race to the finish as they embark on an unlikely partnership that should -- when all is said and done -- prove beneficial to them both.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Cube Vision",
+      "country": "US"
+    },
+    {
+      "name": "Flipside Entertainment",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Kevin Bray"
+  ],
+  "writers": [
+    {
+      "name": "Ice Cube",
+      "job": "Writer"
+    },
+    {
+      "name": "Ronald Lang",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Matt Moore",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Matt Alvarez",
+      "job": "Producer"
+    },
+    {
+      "name": "Toby Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ice Cube",
+      "job": "Producer"
+    },
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ronald Lang",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ice Cube",
+      "character": "Bucum",
+      "order": 0
+    },
+    {
+      "name": "Mike Epps",
+      "character": "Reggie",
+      "order": 1
+    },
+    {
+      "name": "Eva Mendes",
+      "character": "Gina",
+      "order": 2
+    },
+    {
+      "name": "Tommy Flanagan",
+      "character": "Williamson",
+      "order": 3
+    },
+    {
+      "name": "Carmen Chaplin",
+      "character": "Ursula",
+      "order": 4
+    },
+    {
+      "name": "Valarie Rae Miller",
+      "character": "Pam",
+      "order": 5
+    },
+    {
+      "name": "Roger Guenveur Smith",
+      "character": "Julian",
+      "order": 6
+    },
+    {
+      "name": "Anthony Michael Hall",
+      "character": "Lil J",
+      "order": 7
+    },
+    {
+      "name": "Anthony Giaimo",
+      "character": "Martinez",
+      "order": 8
+    },
+    {
+      "name": "Jeff Chase",
+      "character": "Mango",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sO7IpJHjZBGLevi8Ozj9EsAUw5h.jpg",
+  "backdrop_path": "/3Z9n1DjfYzvknQvoLLkMCvQsSxz.jpg",
+  "budget": 14000000,
+  "revenue": 25482931,
+  "vote_average": 5.868,
+  "vote_count": 185,
+  "imdb_id": "tt0278295",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

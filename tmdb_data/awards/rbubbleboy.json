@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "24 Aug 2001",
+  "runtime": "84 min",
+  "genre": "Adventure, Comedy, Romance",
+  "director": "Blair Hayes",
+  "writer": "Cinco Paul, Ken Daurio",
+  "actors": "Jake Gyllenhaal, Swoosie Kurtz, Marley Shelton",
+  "plot": "A young man who was born without an immune system and has lived his life within a plastic bubble in his bedroom finds out that the woman he has loved since childhood is about to be married at Niagara Falls, so he builds a portable bubble suit and ventures into the outside world to win her affections.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "41",
+  "imdb_rating": "5.7",
+  "imdb_votes": "37,295",
+  "box_office": "$5,007,898",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "32%",
+      "link": "https://www.rottentomatoes.com/search?search=Bubble+Boy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "41/100",
+      "link": "https://www.metacritic.com/search/Bubble+Boy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0258470/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0258470/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9683"
+  }
+}

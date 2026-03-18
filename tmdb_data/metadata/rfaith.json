@@ -1,0 +1,165 @@
+{
+  "tmdb_id": 4967,
+  "title": "Keeping the Faith",
+  "original_title": "Keeping the Faith",
+  "release_date": "2000-04-14",
+  "runtime": 127,
+  "tagline": "If you have to believe in something, you may as well believe in love.",
+  "overview": "Best friends since they were kids, Rabbi Jacob Schram and Father Brian Finn are dynamic and popular young men living and working on New York's Upper West Side. When Anna Reilly, once their childhood friend and now grown into a beautiful corporate executive, suddenly returns to the city, she reenters Jake and Brian's lives and hearts with a vengeance. Sparks fly and an unusual and complicated love triangle ensues.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Hebrew",
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Triple Threat Talent",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Edward Norton"
+  ],
+  "writers": [
+    {
+      "name": "Stuart Blumberg",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stuart Blumberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Hawk Koch",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward Norton",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Stiller",
+      "character": "Rabbi Jake Schram",
+      "order": 0
+    },
+    {
+      "name": "Edward Norton",
+      "character": "Father Brian Finn",
+      "order": 1
+    },
+    {
+      "name": "Jenna Elfman",
+      "character": "Anna Riley",
+      "order": 2
+    },
+    {
+      "name": "Anne Bancroft",
+      "character": "Ruth Schram",
+      "order": 3
+    },
+    {
+      "name": "Eli Wallach",
+      "character": "Rabbi Ben Lewis",
+      "order": 4
+    },
+    {
+      "name": "Ron Rifkin",
+      "character": "Larry Friedman",
+      "order": 5
+    },
+    {
+      "name": "Miloš Forman",
+      "character": "Father Havel",
+      "order": 6
+    },
+    {
+      "name": "Holland Taylor",
+      "character": "Bonnie Rose",
+      "order": 7
+    },
+    {
+      "name": "Lisa Edelstein",
+      "character": "Ali Decker",
+      "order": 8
+    },
+    {
+      "name": "Brian George",
+      "character": "Paulie Chopra, the Sikh Catholic Muslim with Jewish in-laws who owns an Irish Pub",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9NF199FTvHr9ggqdBTVbPhF1MGk.jpg",
+  "backdrop_path": "/3xJFFU3YF9WcpK2WXDF15zVcSQZ.jpg",
+  "budget": 30000000,
+  "revenue": 59945183,
+  "vote_average": 6.089,
+  "vote_count": 655,
+  "imdb_id": "tt0171433",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

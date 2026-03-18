@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 50380,
+  "title": "Lockdown",
+  "original_title": "Lockdown",
+  "release_date": "2000-09-15",
+  "runtime": 105,
+  "tagline": "",
+  "overview": "Avery (Jones) returns to college as a competitive swimmer after getting his life back on track. But his life takes another unexpected turn when he and his two friends (Bonds, Casseus) are wrongly accused of murder and end up in prison.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Rainforest Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "No Limit Films",
+      "country": ""
+    },
+    {
+      "name": "Evolution Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Luessenhop"
+  ],
+  "writers": [
+    {
+      "name": "Preston A. Whitmore II",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Burg",
+      "job": "Producer"
+    },
+    {
+      "name": "Oren Koules",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gabriel Casseus",
+      "character": "Cashmere",
+      "order": 0
+    },
+    {
+      "name": "De'Aundre Bonds",
+      "character": "Dre",
+      "order": 1
+    },
+    {
+      "name": "Melissa De Sousa",
+      "character": "Krista",
+      "order": 2
+    },
+    {
+      "name": "Clifton Powell",
+      "character": "Malachi Young",
+      "order": 3
+    },
+    {
+      "name": "Paulette Braxton",
+      "character": "Marisa",
+      "order": 4
+    },
+    {
+      "name": "Richard T. Jones",
+      "character": "Avery Montgomery",
+      "order": 5
+    },
+    {
+      "name": "Chrystale Wilson",
+      "character": "Dana",
+      "order": 6
+    },
+    {
+      "name": "Tait Fletcher",
+      "character": "Shaz",
+      "order": 7
+    },
+    {
+      "name": "Master P",
+      "character": "Clean Up",
+      "order": 8
+    },
+    {
+      "name": "Bill Nunn",
+      "character": "Charles",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5nWDXa8zOK0Jf2dVjBtUgmsw8fs.jpg",
+  "backdrop_path": "/2tUCOsH8PW14ShjJdz8zU4EBJsq.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.9,
+  "vote_count": 50,
+  "imdb_id": "tt0196708",
+  "certifications": [
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

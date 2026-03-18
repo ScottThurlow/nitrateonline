@@ -1,0 +1,196 @@
+{
+  "tmdb_id": 7299,
+  "title": "Equilibrium",
+  "original_title": "Equilibrium",
+  "release_date": "2002-12-06",
+  "runtime": 107,
+  "tagline": "In a future where freedom is outlawed, outlaws will become heroes.",
+  "overview": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Blue Tulip Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Kurt Wimmer"
+  ],
+  "writers": [
+    {
+      "name": "Kurt Wimmer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lucas Foster",
+      "job": "Producer"
+    },
+    {
+      "name": "Jan de Bont",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Rona",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "character": "John Preston",
+      "order": 0
+    },
+    {
+      "name": "Taye Diggs",
+      "character": "Brandt",
+      "order": 1
+    },
+    {
+      "name": "Angus Macfadyen",
+      "character": "Dupont",
+      "order": 2
+    },
+    {
+      "name": "Matthew Harbour",
+      "character": "Robbie Preston",
+      "order": 3
+    },
+    {
+      "name": "Sean Bean",
+      "character": "Errol Partridge",
+      "order": 4
+    },
+    {
+      "name": "Emily Watson",
+      "character": "Mary O'Brien",
+      "order": 5
+    },
+    {
+      "name": "Sean Pertwee",
+      "character": "Father",
+      "order": 6
+    },
+    {
+      "name": "Emily Siewert",
+      "character": "Lisa Preston",
+      "order": 7
+    },
+    {
+      "name": "Maria Pia Calzone",
+      "character": "Preston's Wife",
+      "order": 8
+    },
+    {
+      "name": "Dominic Purcell",
+      "character": "Seamus",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yQuovle5Ov6q69XSdTNdH52eANc.jpg",
+  "backdrop_path": "/mBdZvD8jCDXDHmtVDLOJeAErxVw.jpg",
+  "budget": 20000000,
+  "revenue": 5400000,
+  "vote_average": 7.045,
+  "vote_count": 4928,
+  "imdb_id": "tt0238380",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

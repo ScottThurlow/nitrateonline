@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 nominations total",
+  "rated": "PG-13",
+  "released": "06 Mar 1998",
+  "runtime": "131 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Stuart Baird",
+  "writer": "Roy Huggins, John Pogue",
+  "actors": "Tommy Lee Jones, Wesley Snipes, Robert Downey Jr.",
+  "plot": "When a prisoner transport plane crashes, one prisoner, Mark Sheridan, skillfully escapes and saves lives at the same time. Deputy Sam Gerard and his team of U.S. Marshals pursue relentlessly, but Gerard begins to suspect that there is more to the exceptional fugitive than what he has been told. Meanwhile, Sheridan struggles to avoid capture while seeking answers of his own. Until the final scene, both Gerard and Sheridan are in jeopardy of the unknown.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "47",
+  "imdb_rating": "6.6",
+  "imdb_votes": "120,038",
+  "box_office": "$57,167,405",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "31%",
+      "link": "https://www.rottentomatoes.com/search?search=U.S.+Marshals"
+    },
+    {
+      "source": "Metacritic",
+      "value": "47/100",
+      "link": "https://www.metacritic.com/search/U.S.+Marshals/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120873/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120873/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11808"
+  }
+}

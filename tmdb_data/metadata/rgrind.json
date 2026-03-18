@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 20210,
+  "title": "Grind",
+  "original_title": "Grind",
+  "release_date": "2003-08-15",
+  "runtime": 104,
+  "tagline": "Live Fast... Play Hard... Die Laughing...",
+  "overview": "Four skaters follow their idol on his summer tour in an attempt to get noticed, get sponsored, and become stars themselves.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Pandora Cinema",
+      "country": "US"
+    },
+    {
+      "name": "900 Films",
+      "country": ""
+    },
+    {
+      "name": "Asphalt Productions",
+      "country": ""
+    },
+    {
+      "name": "Gaylord Films",
+      "country": ""
+    },
+    {
+      "name": "Gerber Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Casey La Scala"
+  ],
+  "writers": [
+    {
+      "name": "Ralph Sall",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bill Gerber",
+      "job": "Producer"
+    },
+    {
+      "name": "Casey La Scala",
+      "job": "Producer"
+    },
+    {
+      "name": "Hunt Lowry",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mike Vogel",
+      "character": "Eric Rivers",
+      "order": 0
+    },
+    {
+      "name": "Vince Vieluf",
+      "character": "Matt Jensen",
+      "order": 1
+    },
+    {
+      "name": "Adam Brody",
+      "character": "Dustin Knight",
+      "order": 2
+    },
+    {
+      "name": "Joey Kern",
+      "character": "Sweet Lou",
+      "order": 3
+    },
+    {
+      "name": "Jennifer Morrison",
+      "character": "Jamie",
+      "order": 4
+    },
+    {
+      "name": "Bam Margera",
+      "character": "Bam",
+      "order": 5
+    },
+    {
+      "name": "Jason London",
+      "character": "Jimmy Wilson",
+      "order": 6
+    },
+    {
+      "name": "Summer Altice",
+      "character": "Winona",
+      "order": 7
+    },
+    {
+      "name": "Erin Murphy",
+      "character": "Hot Mama",
+      "order": 8
+    },
+    {
+      "name": "Baron La Scala",
+      "character": "In Utero",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3ijvfbWQYLaFQ2PaX6hywnMW3Hv.jpg",
+  "backdrop_path": "/5DSsPOA54cb5ffIqJX9Dp5IKgtb.jpg",
+  "budget": 6000000,
+  "revenue": 5141166,
+  "vote_average": 5.952,
+  "vote_count": 155,
+  "imdb_id": "tt0338077",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

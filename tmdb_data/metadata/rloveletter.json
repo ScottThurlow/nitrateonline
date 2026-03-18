@@ -1,0 +1,119 @@
+{
+  "tmdb_id": 31342,
+  "title": "The Love Letter",
+  "original_title": "The Love Letter",
+  "release_date": "1999-05-21",
+  "runtime": 88,
+  "tagline": "Comedy that pushes the envelope",
+  "overview": "In the sleepy New England town of Loblolly By The Sea, a letter has arrived that is going to wake things up. It is a love letter - ardent, sensual... and unsigned. As the letter falls into different hands, residents of the small town to eye one another with renewed interest - wondering who it's for and who it's from. Determined to find the letter's author, Helen MacFarquhar begins a quest that will open her life to a new chapter involving two decidedly different men: George, an old friend from her past, and Johnny, a young man very much in her present. Unexpectedly, one mysterious love note has the power to unlock some startling secrets, leaving a trail of wonderful surprises as it turns an entire town upside down.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Peter Chan Ho-Sun"
+  ],
+  "writers": [
+    {
+      "name": "Cathleen Schine",
+      "job": "Novel"
+    },
+    {
+      "name": "Maria Maggenti",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Beau Flynn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stefan Simchowitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sarah Pillsbury",
+      "job": "Producer"
+    },
+    {
+      "name": "Midge Sanford",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Capshaw",
+      "character": "Helen",
+      "order": 0
+    },
+    {
+      "name": "Blythe Danner",
+      "character": "Lillian",
+      "order": 1
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "character": "Janet",
+      "order": 2
+    },
+    {
+      "name": "Geraldine McEwan",
+      "character": "Miss Scattergoods",
+      "order": 3
+    },
+    {
+      "name": "Julianne Nicholson",
+      "character": "Jennifer",
+      "order": 4
+    },
+    {
+      "name": "Tom Everett Scott",
+      "character": "Johnny",
+      "order": 5
+    },
+    {
+      "name": "Tom Selleck",
+      "character": "George",
+      "order": 6
+    },
+    {
+      "name": "Gloria Stuart",
+      "character": "Eleanor",
+      "order": 7
+    },
+    {
+      "name": "Bill Buell",
+      "character": "Officer Dan",
+      "order": 8
+    },
+    {
+      "name": "Alice Drummond",
+      "character": "Postal Clerk",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7w8QCvKDFn1cJ3sW3RGWcwlitgX.jpg",
+  "backdrop_path": "/oYEp07KhxUuPYJHrLqq7S4FHcaA.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.1,
+  "vote_count": 70,
+  "imdb_id": "tt0166252",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,22 @@
+{
+  "awards": "2 wins & 3 nominations total",
+  "rated": "PG",
+  "metascore": "7",
+  "imdb_rating": "2.6",
+  "imdb_votes": "27,943",
+  "box_office": "$27,250,736",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "2.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "2%"
+    },
+    {
+      "source": "Metacritic",
+      "value": "7/100"
+    }
+  ]
+}

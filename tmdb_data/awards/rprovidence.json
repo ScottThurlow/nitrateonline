@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "01 Sep 1999",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Michael Corrente",
+  "writer": "Peter Farrelly, Michael Corrente, Bobby Farrelly",
+  "actors": "Shawn Hatosy, Amy Smart, Alec Baldwin",
+  "plot": "A boy from Pawtucket, Rhode Island, caught up in the drug scene of the mid-70s, gets in trouble one too many times with the law. To stave off a jail term, his father arranges for him to be placed into a prep school in Cornwall, Connecticut. The terms: Graduate, or else.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.4",
+  "imdb_votes": "9,461",
+  "box_office": "$7,302,522",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=Outside+Providence"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Outside+Providence/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0125971/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0125971/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14578"
+  }
+}

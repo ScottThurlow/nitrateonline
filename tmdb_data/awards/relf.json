@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 wins & 9 nominations total",
+  "rated": "PG",
+  "released": "07 Nov 2003",
+  "runtime": "97 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Jon Favreau",
+  "writer": "David Berenbaum",
+  "actors": "Will Ferrell, James Caan, Bob Newhart",
+  "plot": "Buddy was a baby in an orphanage who stowed away in Santa's sack and ended up at the North Pole. Later, as an adult who happened to be raised by elves, Santa allows him to go to New York City to find his birth father, Walter Hobbs. Walter, who is on Santa's naughty list for being a heartless jerk, had no idea that Buddy was even born. Buddy, meanwhile, experiences the delights of New York City (and human culture) as only an elf can. When Walter's relationship with him interferes with his job, he is forced to reevaluate his priorities.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "66",
+  "imdb_rating": "7.1",
+  "imdb_votes": "345,306",
+  "box_office": "$179,757,261",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Elf"
+    },
+    {
+      "source": "Metacritic",
+      "value": "66/100",
+      "link": "https://www.metacritic.com/search/Elf/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0319343/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0319343/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10719"
+  }
+}

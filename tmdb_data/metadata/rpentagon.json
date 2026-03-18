@@ -1,0 +1,112 @@
+{
+  "tmdb_id": 40113,
+  "title": "The Pentagon Papers",
+  "original_title": "The Pentagon Papers",
+  "release_date": "2003-03-09",
+  "runtime": 92,
+  "tagline": "His greatest act of patriotism was an act of treason.",
+  "overview": "This compelling political drama is based on the true story of high-ranking Pentagon official Daniel Ellsberg, who, during the Nixon era, strove to preserve American democracy by leaking top-secret documents to the New York Times and Washington Post. The documents in question would eventually become famous as the Pentagon Papers, which revealed the true reasons for U.S. involvement in Vietnam.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "History"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "City Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Paramount Television",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rod Holcomb"
+  ],
+  "writers": [
+    {
+      "name": "Jason Horwitch",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joshua Maurer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Fritzi Horstman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Spader",
+      "character": "Daniel Ellsberg",
+      "order": 0
+    },
+    {
+      "name": "Claire Forlani",
+      "character": "Patricia Marx",
+      "order": 1
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Anthony Russo",
+      "order": 2
+    },
+    {
+      "name": "Alan Arkin",
+      "character": "Harry Rowen",
+      "order": 3
+    },
+    {
+      "name": "Kenneth Welsh",
+      "character": "John McNaughon",
+      "order": 4
+    },
+    {
+      "name": "Maria del Mar",
+      "character": "Carol Ellsberg",
+      "order": 5
+    },
+    {
+      "name": "Aaron Ashmore",
+      "character": "Randy Kehler",
+      "order": 6
+    },
+    {
+      "name": "Jonas Chernick",
+      "character": "Neil Sheehan",
+      "order": 7
+    },
+    {
+      "name": "Martin Roach",
+      "character": "Sgt. Watson",
+      "order": 8
+    },
+    {
+      "name": "Bruce Gooch",
+      "character": "Supreme Court Marshal",
+      "order": 9
+    }
+  ],
+  "poster_path": "/q2npPf6898vk78b20DPpcglyNcA.jpg",
+  "backdrop_path": "/eZCNm8u9w7nEYWgbPXHFQpGf9A7.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.8,
+  "vote_count": 36,
+  "imdb_id": "tt0330760",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

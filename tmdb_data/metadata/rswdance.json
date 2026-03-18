@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 11239,
+  "title": "Shall We Dance?",
+  "original_title": "Shall we ダンス?",
+  "release_date": "1996-01-27",
+  "runtime": 136,
+  "tagline": "She's got the moves… but he's got two left feet!",
+  "overview": "A bored accountant spots a beautiful woman in the window of a ballroom dance studio. He secretly starts taking dancing lessons to be near her, and then over time discovers how much he loves dancing. His wife, meanwhile, has hired a private detective to find out why he has started coming home late smelling of perfume.",
+  "genres": [
+    "Music",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Japanese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Altamira Pictures",
+      "country": "JP"
+    },
+    {
+      "name": "TOHO",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Masayuki Suō"
+  ],
+  "writers": [
+    {
+      "name": "Masayuki Suō",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Masayuki Suō",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Yuji Ogata",
+      "job": "Producer"
+    },
+    {
+      "name": "Shoji Masui",
+      "job": "Producer"
+    },
+    {
+      "name": "Yasuharu Urushido",
+      "job": "Producer"
+    },
+    {
+      "name": "Kazuhiro Igarashi",
+      "job": "Producer"
+    },
+    {
+      "name": "Shigeru Ohno",
+      "job": "Producer"
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hiroyuki Kato",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Koji Yakusho",
+      "character": "Shohei Sugiyama",
+      "order": 0
+    },
+    {
+      "name": "Tamiyo Kusakari",
+      "character": "Mai Kishikawa",
+      "order": 1
+    },
+    {
+      "name": "Naoto Takenaka",
+      "character": "Tomio Aoki",
+      "order": 2
+    },
+    {
+      "name": "Eri Watanabe",
+      "character": "Toyoko Takahashi",
+      "order": 3
+    },
+    {
+      "name": "Akira Emoto",
+      "character": "Detective Miwa",
+      "order": 4
+    },
+    {
+      "name": "Yuu Tokui",
+      "character": "Tokichi Hattori",
+      "order": 5
+    },
+    {
+      "name": "Hiromasa Taguchi",
+      "character": "Masahiro Tanaka",
+      "order": 6
+    },
+    {
+      "name": "Reiko Kusamura",
+      "character": "Tamako Tamura",
+      "order": 7
+    },
+    {
+      "name": "Hideko Hara",
+      "character": "Masako Sugiyama",
+      "order": 8
+    },
+    {
+      "name": "Hiroshi Miyasaka",
+      "character": "Macho",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rCpqoo4phrDQSaLs9ToJnAqPG83.jpg",
+  "backdrop_path": "/utumW9rZtRymRQuFJXG3uZlowPG.jpg",
+  "budget": 0,
+  "revenue": 43000000,
+  "vote_average": 7.444,
+  "vote_count": 177,
+  "imdb_id": "tt0117615",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

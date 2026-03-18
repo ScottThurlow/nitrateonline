@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 10028,
+  "title": "Honey",
+  "original_title": "Honey",
+  "release_date": "2003-12-05",
+  "runtime": 94,
+  "tagline": "Her dream. Her terms.",
+  "overview": "Honey Daniels dreams of making a name for herself as a hip-hop choreographer. When she's not busy hitting downtown clubs with her friends, she teaches dance classes at a nearby community center in Harlem, N.Y., as a way to keep kids off the streets. Honey thinks she's hit the jackpot when she meets a hotshot director casts her in one of his music videos. But, when he starts demanding sexual favors from her, Honey makes a decision that will change her life.",
+  "genres": [
+    "Music",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "NuAmerica Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Marc Platt Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Bille Woodruff"
+  ],
+  "writers": [
+    {
+      "name": "Kim Watson",
+      "job": "Writer"
+    },
+    {
+      "name": "Alonzo Brown",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Platt",
+      "job": "Producer"
+    },
+    {
+      "name": "Andre Harrell",
+      "job": "Producer"
+    },
+    {
+      "name": "Billy Higgins",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jessica Alba",
+      "character": "Honey Daniels",
+      "order": 0
+    },
+    {
+      "name": "Mekhi Phifer",
+      "character": "Chaz",
+      "order": 1
+    },
+    {
+      "name": "Romeo",
+      "character": "Benny (as Lil' Romeo)",
+      "order": 2
+    },
+    {
+      "name": "Joy Bryant",
+      "character": "Gina",
+      "order": 3
+    },
+    {
+      "name": "David Moscow",
+      "character": "Michael Ellis",
+      "order": 4
+    },
+    {
+      "name": "Lonette McKee",
+      "character": "Mrs. Daniels",
+      "order": 5
+    },
+    {
+      "name": "Zachary Isaiah Williams",
+      "character": "Raymond",
+      "order": 6
+    },
+    {
+      "name": "Christian Monzon",
+      "character": "Bar Customer",
+      "order": 7
+    },
+    {
+      "name": "Al Shearer",
+      "character": "Bar Customer",
+      "order": 8
+    },
+    {
+      "name": "Jull Weber",
+      "character": "Joey",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gnY6d7BoddAAQ8s42fxCJK8lL1A.jpg",
+  "backdrop_path": "/9dixOiaWMKAJiqBiIf7GgHADsG4.jpg",
+  "budget": 18000000,
+  "revenue": 62646763,
+  "vote_average": 6.34,
+  "vote_count": 1225,
+  "imdb_id": "tt0322589",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NO",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

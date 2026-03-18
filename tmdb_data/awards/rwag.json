@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 2 Oscars. 2 wins & 23 nominations total",
+  "rated": "R",
+  "released": "09 Jan 1998",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama",
+  "director": "Barry Levinson",
+  "writer": "Larry Beinhart, Hilary Henkin, David Mamet",
+  "actors": "Dustin Hoffman, Robert De Niro, Anne Heche",
+  "plot": "After being caught in a scandalous situation days before the election, the president does not seem to have much of a chance of being re-elected. One of his advisers contacts a top Hollywood producer in order to manufacture a war in Albania that the president can heroically end, all through mass media.",
+  "language": "English, Albanian",
+  "country": "United States",
+  "metascore": "74",
+  "imdb_rating": "7.1",
+  "imdb_votes": "92,861",
+  "box_office": "$43,061,945",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=Wag+the+Dog"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/Wag+the+Dog/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120885/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120885/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/586"
+  }
+}

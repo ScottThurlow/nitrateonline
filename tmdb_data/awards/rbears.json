@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 nominations total",
+  "rated": "G",
+  "released": "26 Jul 2002",
+  "runtime": "88 min",
+  "genre": "Comedy, Family, Music",
+  "director": "Peter Hastings",
+  "writer": "Mark Perez",
+  "actors": "Haley Joel Osment, Diedrich Bader, Candy Ford",
+  "plot": "Based on a Disneyland attraction, The Country Bear Jamboree, this movie is one in a long line of live-action Disney family films. The movie is a satire of \"Behind the Music\" rock-and-roll bands. Beary, a young bear raised by a human family in a world where humans and talking bears coexist, attempts to trace his roots. He meets up with the Country Bears, a long-since broken-up band, a parody of bands like the Eagles. Beary helps the Country Bears reunite for one final concert, while searching for who he truly is.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "37",
+  "imdb_rating": "4.2",
+  "imdb_votes": "6,405",
+  "box_office": "$16,990,825",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Country+Bears"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/The+Country+Bears/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0276033/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0276033/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18357"
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "tmdb_id": 9473,
+  "title": "South Park: Bigger, Longer & Uncut",
+  "original_title": "South Park: Bigger, Longer & Uncut",
+  "release_date": "1999-06-24",
+  "runtime": 81,
+  "tagline": "Uh-oh.",
+  "overview": "In this feature film based on the hit animated series, the third graders of South Park sneak into an R-rated film by ultra-vulgar Canadian television personalities Terrance and Phillip, and emerge with expanded vocabularies that leave their parents and teachers scandalized. When outraged Americans try to censor the film, the controversy spirals into a call to wage war on Canada and Terrance and Phillip end up on death row, with the kids their only hope of rescue.",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Comedy Central",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    },
+    {
+      "name": "Braniff Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Trey Parker"
+  ],
+  "writers": [
+    {
+      "name": "Trey Parker",
+      "job": "Writer"
+    },
+    {
+      "name": "Matt Stone",
+      "job": "Writer"
+    },
+    {
+      "name": "Pam Brady",
+      "job": "Writer"
+    },
+    {
+      "name": "Trey Parker",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Joshua C. Hersko",
+      "job": "Story Coordinator"
+    },
+    {
+      "name": "Narges Takesh",
+      "job": "Story Editor"
+    },
+    {
+      "name": "Marc Shaiman",
+      "job": "Lyricist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Frank C. Agnone II",
+      "job": "Producer"
+    },
+    {
+      "name": "Trey Parker",
+      "job": "Producer"
+    },
+    {
+      "name": "Scott Rudin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Schroeder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Matt Stone",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Trey Parker",
+      "character": "Stan Marsh / Eric Cartman / Gregory / Satan / Mr. Garrison / Mr. Hat / Phillip Niles Argyle / Randy Marsh / Clyde Donovan / Tom - News Reporter / Midget In A Bikini / Canadian Ambassador / Bombardiers / Mr. Mackey / Army General / Ned Gerblanski / Christophe - Ze Mole (or The Mole) / Big Gay Al (singing) / Adolf Hitler / Additional Voices (voice)",
+      "order": 0
+    },
+    {
+      "name": "Matt Stone",
+      "character": "Kyle Broflovski / Kenny McCormick / Saddam Hussein / Terrance Henry Stoot / Big Gay Al / Ticket Taker / Stuart McCormick / Jimbo Kearn / Gerald Broflovski / Butters Stotch / Additional Voices (voice)",
+      "order": 1
+    },
+    {
+      "name": "Mary Kay Bergman",
+      "character": "Liane Cartman / Sheila Broflovski / Sharon Marsh / Carol McCormick / Wendy Testaburger / Clitoris / Additional Voices (voice)",
+      "order": 2
+    },
+    {
+      "name": "Isaac Hayes",
+      "character": "Chef (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jesse Brant Howell",
+      "character": "Ike Broflovski (voice)",
+      "order": 4
+    },
+    {
+      "name": "Anthony Cross-Thomas",
+      "character": "Ike Broflovski (voice)",
+      "order": 5
+    },
+    {
+      "name": "Franchesca Clifford",
+      "character": "Ike Broflovski (voice)",
+      "order": 6
+    },
+    {
+      "name": "Bruce Howell",
+      "character": "Man in Theater (voice)",
+      "order": 7
+    },
+    {
+      "name": "Deb Adair",
+      "character": "Woman in Theater (voice)",
+      "order": 8
+    },
+    {
+      "name": "Jennifer Howell",
+      "character": "Bebe Stevens (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
+  "backdrop_path": "/2q3B90h2hZ6xJTvna9CIFDNaIr4.jpg",
+  "budget": 21000000,
+  "revenue": 83137864,
+  "vote_average": 7.3,
+  "vote_count": 2902,
+  "imdb_id": "tt0158983",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AS",
+      "rating": "R16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CL",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "ID",
+      "rating": "17+"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "청소년 관람불가"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "TW",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

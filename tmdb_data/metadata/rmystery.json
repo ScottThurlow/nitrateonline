@@ -1,0 +1,131 @@
+{
+  "tmdb_id": 15198,
+  "title": "Mystery, Alaska",
+  "original_title": "Mystery, Alaska",
+  "release_date": "1999-10-01",
+  "runtime": 119,
+  "tagline": "A Small Town on the Outskirts of Greatness.",
+  "overview": "In Mystery, Alaska, life revolves around the legendary Saturday hockey game at the local pond. But everything changes when the hometown team unexpectedly gets booked in an exhibition match against the New York Rangers. When quirky small-towners, slick promoters and millionaire athletes come together.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Baldwin/Cohen Productions",
+      "country": ""
+    },
+    {
+      "name": "Rocking Chair Productions",
+      "country": ""
+    },
+    {
+      "name": "David E. Kelley Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jay Roach"
+  ],
+  "writers": [
+    {
+      "name": "Sean O'Byrne",
+      "job": "Writer"
+    },
+    {
+      "name": "David E. Kelley",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Dan Kolsrud",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Howard Baldwin",
+      "job": "Producer"
+    },
+    {
+      "name": "David E. Kelley",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Russell Crowe",
+      "character": "John Biebe",
+      "order": 0
+    },
+    {
+      "name": "Hank Azaria",
+      "character": "Charles Danner",
+      "order": 1
+    },
+    {
+      "name": "Mary McCormack",
+      "character": "Donna Biebe",
+      "order": 2
+    },
+    {
+      "name": "Burt Reynolds",
+      "character": "Judge Walter Burns",
+      "order": 3
+    },
+    {
+      "name": "Lolita Davidovich",
+      "character": "Mary Jane Pitcher",
+      "order": 4
+    },
+    {
+      "name": "Ron Eldard",
+      "character": "'Skank' Marden",
+      "order": 5
+    },
+    {
+      "name": "Colm Meaney",
+      "character": "Mayor Scott Pitcher",
+      "order": 6
+    },
+    {
+      "name": "Maury Chaykin",
+      "character": "Bailey Pruitt",
+      "order": 7
+    },
+    {
+      "name": "Michael McKean",
+      "character": "Mr. Walsh",
+      "order": 8
+    },
+    {
+      "name": "Judith Ivey",
+      "character": "Joanne Burns",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bmg4sjOQswcrP5mPL9YzNom9cXx.jpg",
+  "backdrop_path": "/swwCQk5sDGeuVWub4GLyS2YETrT.jpg",
+  "budget": 28000000,
+  "revenue": 8891623,
+  "vote_average": 6.3,
+  "vote_count": 276,
+  "imdb_id": "tt0134618",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

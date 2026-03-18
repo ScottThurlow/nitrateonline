@@ -1,0 +1,275 @@
+{
+  "tmdb_id": 673,
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "original_title": "Harry Potter and the Prisoner of Azkaban",
+  "release_date": "2004-05-31",
+  "runtime": 141,
+  "tagline": "Something wicked this way comes.",
+  "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "1492 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Heyday Films",
+      "country": "GB"
+    },
+    {
+      "name": "P of A Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Alfonso Cuarón"
+  ],
+  "writers": [
+    {
+      "name": "J.K. Rowling",
+      "job": "Novel"
+    },
+    {
+      "name": "Steve Kloves",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Enfys Dickinson",
+      "job": "Creative Producer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Radcliffe",
+      "job": "Producer"
+    },
+    {
+      "name": "David Heyman",
+      "job": "Producer"
+    },
+    {
+      "name": "Tanya Seghatchian",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Callum McDougall",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lorne Orleans",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Barnathan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Columbus",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "character": "Harry Potter",
+      "order": 0
+    },
+    {
+      "name": "Rupert Grint",
+      "character": "Ron Weasley",
+      "order": 1
+    },
+    {
+      "name": "Emma Watson",
+      "character": "Hermione Granger",
+      "order": 2
+    },
+    {
+      "name": "Robbie Coltrane",
+      "character": "Rubeus Hagrid",
+      "order": 3
+    },
+    {
+      "name": "Michael Gambon",
+      "character": "Albus Dumbledore",
+      "order": 4
+    },
+    {
+      "name": "Gary Oldman",
+      "character": "Sirius Black",
+      "order": 5
+    },
+    {
+      "name": "David Thewlis",
+      "character": "Remus Lupin",
+      "order": 6
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Peter Pettigrew",
+      "order": 7
+    },
+    {
+      "name": "Alan Rickman",
+      "character": "Severus Snape",
+      "order": 8
+    },
+    {
+      "name": "Tom Felton",
+      "character": "Draco Malfoy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+  "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+  "budget": 130000000,
+  "revenue": 789804554,
+  "vote_average": 8.008,
+  "vote_count": 22922,
+  "imdb_id": "tt0304141",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-11"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "K"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IL",
+      "rating": "All"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "9"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "6+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "TH",
+      "rating": "PG"
+    },
+    {
+      "country": "TR",
+      "rating": "Genel İzleyici Kitlesi"
+    },
+    {
+      "country": "TW",
+      "rating": "12+"
+    },
+    {
+      "country": "UA",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

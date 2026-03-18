@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 14578,
+  "title": "Outside Providence",
+  "original_title": "Outside Providence",
+  "release_date": "1999-09-01",
+  "runtime": 96,
+  "tagline": "Tim's getting a future... whether he likes it or not!",
+  "overview": "In this coming-of-age comedy, Tim Dunphy is leading a go-nowhere existence, spending his days smoking pot and hanging out with his best friend, Drugs Delaney. But Tim's lazy days of getting high are jettisoned after a brush with the law convinces his blue-collar dad to send him to a Connecticut prep school. The one saving grace of the new school is Jane, a fellow student Tim falls for immediately.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Eagle Beach Productions",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Corrente"
+  ],
+  "writers": [
+    {
+      "name": "Michael Corrente",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Farrelly",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bobby Farrelly",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Peter Farrelly",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bobby Farrelly",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Farrelly",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Corrente",
+      "job": "Producer"
+    },
+    {
+      "name": "Randy Finch",
+      "job": "Producer"
+    },
+    {
+      "name": "Billy Heinzerling",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Shawn Hatosy",
+      "character": "Tim Dunphy",
+      "order": 0
+    },
+    {
+      "name": "Amy Smart",
+      "character": "Jane Weston",
+      "order": 1
+    },
+    {
+      "name": "Alec Baldwin",
+      "character": "Old Man Dunphy",
+      "order": 2
+    },
+    {
+      "name": "Jon Abrahams",
+      "character": "\"Drugs\" Delaney",
+      "order": 3
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Barney",
+      "order": 4
+    },
+    {
+      "name": "George Wendt",
+      "character": "Joey",
+      "order": 5
+    },
+    {
+      "name": "Robert Turano",
+      "character": "Fran",
+      "order": 6
+    },
+    {
+      "name": "Gabriel Mann",
+      "character": "Jack Wheeler",
+      "order": 7
+    },
+    {
+      "name": "George Martin",
+      "character": "Dean Mort",
+      "order": 8
+    },
+    {
+      "name": "Libby Langdon",
+      "character": "Tim's mother",
+      "order": 9
+    }
+  ],
+  "poster_path": "/o3e67GugVHkEOhl5TwjWAVVxtFf.jpg",
+  "backdrop_path": "/fEr2cdMiY1OPmGRUGnH12F0VYRN.jpg",
+  "budget": 7000000,
+  "revenue": 7292175,
+  "vote_average": 5.83,
+  "vote_count": 103,
+  "imdb_id": "tt0125971",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

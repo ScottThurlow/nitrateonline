@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "28 Apr 2000",
+  "runtime": "118 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Gregory Hoblit",
+  "writer": "Toby Emmerich",
+  "actors": "Dennis Quaid, Jim Caviezel, Shawn Doyle",
+  "plot": "A rare atmospheric phenomenon allows a New York City firefighter to communicate with his son 30 years in the future via HAM radio. The son uses this opportunity to warn the father of his impending death in a warehouse fire, and manages to save his life. However, what he does not realize is that changing history has triggered a new set of tragic events, including the murder of his mother. The two men must now work together, 30 years apart, to find the murderer before he strikes so that they can change history--again.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "7.4",
+  "imdb_votes": "122,508",
+  "box_office": "$45,010,278",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "70%",
+      "link": "https://www.rottentomatoes.com/search?search=Frequency"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Frequency/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0186151/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0186151/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10559"
+  }
+}

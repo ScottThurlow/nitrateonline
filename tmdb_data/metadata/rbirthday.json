@@ -1,0 +1,95 @@
+{
+  "tmdb_id": 437413,
+  "title": "Birthday Girl",
+  "original_title": "Birthday Girl",
+  "release_date": "2002-12-22",
+  "runtime": 120,
+  "tagline": "",
+  "overview": "A woman decides to celebrate her recovery from leukaemia by throwing a party. But before the big night, she discovers that the illness has returned. She decides to postpone telling everyone until the aprty is over, but during the evening she discovers that she is not the only one with a secret.",
+  "genres": [
+    "TV Movie",
+    "Drama"
+  ],
+  "spoken_languages": [],
+  "production_companies": [
+    {
+      "name": "ITV",
+      "country": "GB"
+    },
+    {
+      "name": "Yorkshire Television",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Morag Fullarton"
+  ],
+  "writers": [
+    {
+      "name": "Jonathan Harvey",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Sarah Lancashire",
+      "character": "Rachel Jones",
+      "order": 0
+    },
+    {
+      "name": "Emma Fielding",
+      "character": "Tracey Jones",
+      "order": 1
+    },
+    {
+      "name": "Mina Anwar",
+      "character": "Nina Kapoor",
+      "order": 2
+    },
+    {
+      "name": "Julia Ford",
+      "character": "Karen",
+      "order": 3
+    },
+    {
+      "name": "Ciarán McMenamin",
+      "character": "Donal",
+      "order": 4
+    },
+    {
+      "name": "Peter Gunn",
+      "character": "Charlie Boyd",
+      "order": 5
+    },
+    {
+      "name": "Paul Higgins",
+      "character": "Drew",
+      "order": 6
+    },
+    {
+      "name": "Christine Mackie",
+      "character": "Dr. Kate Morris",
+      "order": 7
+    },
+    {
+      "name": "Matthew McNulty",
+      "character": "Justin",
+      "order": 8
+    },
+    {
+      "name": "Beatrice Kelley",
+      "character": "Dulcie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6pcZSxatftkhawVR0jTQakLdwuh.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0346621",
+  "certifications": [],
+  "status": "Released"
+}

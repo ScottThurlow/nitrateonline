@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win total",
+  "rated": "PG-13",
+  "released": "01 Oct 1999",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Schultz",
+  "writer": "Todd Strasser, Rob Thomas",
+  "actors": "Melissa Joan Hart, Adrian Grenier, Stephen Collins",
+  "plot": "Nicole (Melissa Joan Hart) and Chase (Adrian Grenier) are neighbors but are from two very different worlds. Despite their differences their love lives have a common theme. Their most recent plans for love have fallen through putting them both in a desperate state to fix them. Both Nicole and Chase conspire to pretend to find a romantic interest in each other, with the hopes of attracting the \"ones who got away\" from them. Leading up to the big school dance, Chase and Nicole find that their scam worked out better than they had planned.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "5.8",
+  "imdb_votes": "22,300",
+  "box_office": "$17,845,337",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "27%",
+      "link": "https://www.rottentomatoes.com/search?search=Drive+Me+Crazy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/Drive+Me+Crazy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0164114/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0164114/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14429"
+  }
+}

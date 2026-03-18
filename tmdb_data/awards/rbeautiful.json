@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "19 Jan 2001",
+  "runtime": "86 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Bill Eagles",
+  "writer": "Simon Donald",
+  "actors": "Rachel Weisz, Susan Lynch, Iain Glen",
+  "plot": "One stormy Glasgow night Dorothy and Petula's lives are inextricably thrown together, bonded by a common flaw. Dorothy's on the run from her boyfriend and Petula should be doing the same. Evasion, blackmail, murder, betrayal, revenge and a suitcase loaded with a million quid... it's all there... and then some.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "metascore": "40",
+  "imdb_rating": "5.8",
+  "imdb_votes": "3,982",
+  "box_office": "$55,835",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "38%",
+      "link": "https://www.rottentomatoes.com/search?search=Beautiful+Creatures"
+    },
+    {
+      "source": "Metacritic",
+      "value": "40/100",
+      "link": "https://www.metacritic.com/search/Beautiful+Creatures/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0221889/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0221889/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15940"
+  }
+}

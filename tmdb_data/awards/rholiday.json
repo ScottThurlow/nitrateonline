@@ -1,0 +1,35 @@
+{
+  "year": "2000",
+  "awards": "13 nominations total",
+  "rated": "R",
+  "released": "10 Dec 2000",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Robert Townsend",
+  "writer": "Cheryl L. West",
+  "actors": "Ving Rhames, Alfre Woodard, Jesika Reynolds",
+  "plot": "A drag queen takes in a drug addict and her daughter and helps raise the daughter.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.4",
+  "imdb_votes": "1,529",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=Holiday+Heart"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250425/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250425/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/57450"
+  }
+}

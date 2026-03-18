@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination",
+  "rated": "R",
+  "released": "N/A",
+  "runtime": "97 min",
+  "genre": "Drama",
+  "director": "Jed Weintrob",
+  "writer": "Andrew Osborne, Jed Weintrob",
+  "actors": "Josh Hamilton, Harold Perrineau, Isabel Gillies",
+  "plot": "A computer whiz and his roommate get caught up in an adult chat site they create, and computer fiction blends with reality. A 2002 Sundance Film Festival Official Selection.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "36",
+  "imdb_rating": "5.4",
+  "imdb_votes": "636",
+  "box_office": "$167,102",
+  "dvd": "24 Feb 2004",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "38%",
+      "link": "https://www.rottentomatoes.com/search?search=On_Line"
+    },
+    {
+      "source": "Metacritic",
+      "value": "36/100",
+      "link": "https://www.metacritic.com/search/On_Line/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0302889/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0302889/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/94996"
+  }
+}

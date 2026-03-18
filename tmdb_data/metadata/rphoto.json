@@ -1,0 +1,100 @@
+{
+  "tmdb_id": 153190,
+  "title": "Trial Without Jury",
+  "original_title": "Trial Without Jury",
+  "release_date": "1950-07-08",
+  "runtime": 60,
+  "tagline": "",
+  "overview": "A homicide detective suspects a playwright who bases his play on a murder.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Republic Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Philip Ford"
+  ],
+  "writers": [
+    {
+      "name": "Lawrence L. Goldman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Albert DeMond",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rose Simon Kohn",
+      "job": "Story"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Robert Rockwell",
+      "character": "Police Lt. Bill Peters",
+      "order": 0
+    },
+    {
+      "name": "Kent Taylor",
+      "character": "Jed Kilgore",
+      "order": 1
+    },
+    {
+      "name": "Audrey Long",
+      "character": "Myra Peters",
+      "order": 2
+    },
+    {
+      "name": "K. Elmo Lowe",
+      "character": "John Webb",
+      "order": 3
+    },
+    {
+      "name": "Stanley Waxman",
+      "character": "Arthur Gentry",
+      "order": 4
+    },
+    {
+      "name": "John Whitney",
+      "character": "Riley Wentworth",
+      "order": 5
+    },
+    {
+      "name": "Barbara Billingsley",
+      "character": "Rheta Mulford",
+      "order": 6
+    },
+    {
+      "name": "Ruthelma Stevens",
+      "character": "Mrs. Mannings",
+      "order": 7
+    },
+    {
+      "name": "William Grueneberg",
+      "character": "Detective Turner",
+      "order": 8
+    },
+    {
+      "name": "Christine Larson",
+      "character": "Bernice Andrews - Myra's Secretary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uiRVrvgVqPkxTXyzCHst2QQClAo.jpg",
+  "backdrop_path": "/ziG4I593Yyorkk05MPyFqAaNCIl.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0043068",
+  "status": "Released"
+}

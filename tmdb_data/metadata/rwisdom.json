@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 1448,
+  "title": "Immortality",
+  "original_title": "The Wisdom of Crocodiles",
+  "release_date": "1998-11-27",
+  "runtime": 98,
+  "tagline": "He seduces for blood.",
+  "overview": "A vampire in London is searching for the ideal woman to 'redeem' him.",
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Film Foundry Partners",
+      "country": "GB"
+    },
+    {
+      "name": "Zenith Entertainment",
+      "country": "GB"
+    },
+    {
+      "name": "Arts Council of England",
+      "country": "GB"
+    },
+    {
+      "name": "EFD Films",
+      "country": "GB"
+    },
+    {
+      "name": "Goldwyn Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Leong Po-Chih"
+  ],
+  "writers": [
+    {
+      "name": "Paul Hoffman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carolyn Choa",
+      "job": "Producer"
+    },
+    {
+      "name": "David Lascelles",
+      "job": "Producer"
+    },
+    {
+      "name": "Dorothy Berwin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Meek",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Stafford-Clark",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jude Law",
+      "character": "Steven Grlscz",
+      "order": 0
+    },
+    {
+      "name": "Elina Löwensohn",
+      "character": "Anne Levels",
+      "order": 1
+    },
+    {
+      "name": "Timothy Spall",
+      "character": "Inspector Healey",
+      "order": 2
+    },
+    {
+      "name": "Jack Davenport",
+      "character": "Sergeant Roche",
+      "order": 3
+    },
+    {
+      "name": "Hitler Wong",
+      "character": "Noodles Chan",
+      "order": 4
+    },
+    {
+      "name": "Kerry Fox",
+      "character": "Maria Vaughan",
+      "order": 5
+    },
+    {
+      "name": "Ashley Artus",
+      "character": "Gang Leader",
+      "order": 6
+    },
+    {
+      "name": "Antony Cotton",
+      "character": "Gang Member",
+      "order": 7
+    },
+    {
+      "name": "Neran Persaud",
+      "character": "Gang Member",
+      "order": 8
+    },
+    {
+      "name": "Carlton Headley",
+      "character": "Gang Member",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rMxdX8QXWjIZDsZthsN8axFR4ws.jpg",
+  "backdrop_path": "/t3yTlQShxPu883luyFXsfBttXCX.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.762,
+  "vote_count": 103,
+  "imdb_id": "tt0120894",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

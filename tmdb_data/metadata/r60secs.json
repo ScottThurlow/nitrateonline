@@ -1,0 +1,208 @@
+{
+  "tmdb_id": 9679,
+  "title": "Gone in Sixty Seconds",
+  "original_title": "Gone in Sixty Seconds",
+  "release_date": "2000-06-09",
+  "runtime": 118,
+  "tagline": "Ice Cold, Hot Wired.",
+  "overview": "Ex-car thief Randall Raines is forced out of retirement to save his brother Kip after a boost gone wrong. With the help of allies old and new, they race to meet the demands of notorious crime boss Raymond Calitri as the police are in hot pursuit.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dominic Sena"
+  ],
+  "writers": [
+    {
+      "name": "Scott Rosenberg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "H.B. Halicki",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan Hensleigh",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Denice Shakarian Halicki",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Stone",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Webster Stone",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chad Oman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry H. Waldman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nicolas Cage",
+      "character": "Memphis Raines",
+      "order": 0
+    },
+    {
+      "name": "Angelina Jolie",
+      "character": "Sara 'Sway' Wayland",
+      "order": 1
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "character": "Kip Raines",
+      "order": 2
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Otto Halliwell",
+      "order": 3
+    },
+    {
+      "name": "Delroy Lindo",
+      "character": "Det. Roland Castlebeck",
+      "order": 4
+    },
+    {
+      "name": "Timothy Olyphant",
+      "character": "Detective Drycoff",
+      "order": 5
+    },
+    {
+      "name": "Chi McBride",
+      "character": "Donny Astricky",
+      "order": 6
+    },
+    {
+      "name": "Christopher Eccleston",
+      "character": "Raymond Calitri",
+      "order": 7
+    },
+    {
+      "name": "Will Patton",
+      "character": "Atley Jackson",
+      "order": 8
+    },
+    {
+      "name": "William Lee Scott",
+      "character": "Toby",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg",
+  "backdrop_path": "/mAeDJ3P4ZRDBsuDlKgL2mNXFvsc.jpg",
+  "budget": 90000000,
+  "revenue": 237200000,
+  "vote_average": 6.4,
+  "vote_count": 4785,
+  "imdb_id": "tt0187078",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

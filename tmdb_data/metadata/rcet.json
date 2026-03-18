@@ -1,0 +1,70 @@
+{
+  "tmdb_id": 284096,
+  "title": "Cet amour-là",
+  "original_title": "Cet amour-là",
+  "release_date": "2001-09-11",
+  "runtime": 100,
+  "tagline": "",
+  "overview": "Cet Amour-là is an intimate portrait of a legendary love affair. Set against the beauty of the Breton seaside, it is also a film that revels in the insights that Marguerite Duras' writing affords.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Les Films Alain Sarde",
+      "country": "FR"
+    },
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Josée Dayan"
+  ],
+  "writers": [
+    {
+      "name": "Yann Andréa",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    },
+    {
+      "name": "Christine Gozlan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeanne Moreau",
+      "character": "Marguerite Duras",
+      "order": 0
+    },
+    {
+      "name": "Aymeric Demarigny",
+      "character": "Yann Andréa",
+      "order": 1
+    },
+    {
+      "name": "Christiane Rorato",
+      "character": "Woman in a Smock",
+      "order": 2
+    }
+  ],
+  "poster_path": "/qfaXyeKt46s16kbPcNyWL5WFxaP.jpg",
+  "backdrop_path": "/rh5q4mYVwUYiE18VmNuQFN8GuUf.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.5,
+  "vote_count": 10,
+  "imdb_id": "tt0277622",
+  "certifications": [],
+  "status": "Released"
+}

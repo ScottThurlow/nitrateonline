@@ -1,0 +1,161 @@
+{
+  "tmdb_id": 784,
+  "title": "Kolya",
+  "original_title": "Kolja",
+  "release_date": "1996-05-15",
+  "runtime": 105,
+  "tagline": "",
+  "overview": "After a fictitious marriage with a Russian emigrant, Cellisten Louka, a Czech man, must suddenly take responsibility for her son. However, it’s not long before the communication barrier is broken between the two new family members.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Slovak",
+    "Russian",
+    "Czech"
+  ],
+  "production_companies": [
+    {
+      "name": "Space Films",
+      "country": "CZ"
+    },
+    {
+      "name": "Pandora Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Portobello Pictures",
+      "country": "GB"
+    },
+    {
+      "name": "Biograf Jan Svěrák",
+      "country": "CZ"
+    },
+    {
+      "name": "CinemArt",
+      "country": "CZ"
+    },
+    {
+      "name": "Česká televize",
+      "country": "CZ"
+    }
+  ],
+  "director": [
+    "Jan Svěrák"
+  ],
+  "writers": [
+    {
+      "name": "Zdeněk Svěrák",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pavel Taussig",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric Abraham",
+      "job": "Producer"
+    },
+    {
+      "name": "Jan Svěrák",
+      "job": "Producer"
+    },
+    {
+      "name": "Jiří Ježek",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pavel Šolc",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Zdeněk Svěrák",
+      "character": "František Louka",
+      "order": 0
+    },
+    {
+      "name": "Andrei Khalimon",
+      "character": "Kolya",
+      "order": 1
+    },
+    {
+      "name": "Libuše Šafránková",
+      "character": "Klára",
+      "order": 2
+    },
+    {
+      "name": "Ondřej Vetchý",
+      "character": "Brož",
+      "order": 3
+    },
+    {
+      "name": "Stella Zázvorková",
+      "character": "Mom",
+      "order": 4
+    },
+    {
+      "name": "Ladislav Smoljak",
+      "character": "Houdek",
+      "order": 5
+    },
+    {
+      "name": "Irina Bezrukova",
+      "character": "Nadezda",
+      "order": 6
+    },
+    {
+      "name": "Silvia Šuvadová",
+      "character": "Blanka",
+      "order": 7
+    },
+    {
+      "name": "Liliyan Malkina",
+      "character": "Aunt Tamara",
+      "order": 8
+    },
+    {
+      "name": "Karel Heřmánek",
+      "character": "Musil",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fB0cGiEOngfsfyDHXIpFOmEwFgi.jpg",
+  "backdrop_path": "/q9GAThBRXMeXFLArzxt1tpbjK7E.jpg",
+  "budget": 1031764,
+  "revenue": 7566841,
+  "vote_average": 7.35,
+  "vote_count": 206,
+  "imdb_id": "tt0116790",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

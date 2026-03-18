@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 1213,
+  "title": "The Talented Mr. Ripley",
+  "original_title": "The Talented Mr. Ripley",
+  "release_date": "1999-12-25",
+  "runtime": 140,
+  "tagline": "How far would you go to become someone else.",
+  "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Mirage Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Timnick Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Anthony Minghella"
+  ],
+  "writers": [
+    {
+      "name": "Anthony Minghella",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Patricia Highsmith",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "William Horberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Sternberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Sydney Pollack",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "Tom Ripley",
+      "order": 0
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "character": "Marge Sherwood",
+      "order": 1
+    },
+    {
+      "name": "Jude Law",
+      "character": "Dickie Greenleaf",
+      "order": 2
+    },
+    {
+      "name": "Cate Blanchett",
+      "character": "Meredith Logue",
+      "order": 3
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Freddie Miles",
+      "order": 4
+    },
+    {
+      "name": "Jack Davenport",
+      "character": "Peter Smith-Kingsley",
+      "order": 5
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Herbert Greenleaf",
+      "order": 6
+    },
+    {
+      "name": "Sergio Rubini",
+      "character": "Inspector Roverini",
+      "order": 7
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Alvin MacCarron",
+      "order": 8
+    },
+    {
+      "name": "Celia Weston",
+      "character": "Aunt Joan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+  "backdrop_path": "/51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg",
+  "budget": 40000000,
+  "revenue": 128798265,
+  "vote_average": 7.198,
+  "vote_count": 4079,
+  "imdb_id": "tt0134119",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "NR"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

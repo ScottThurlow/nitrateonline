@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 wins & 3 nominations",
+  "rated": "R",
+  "released": "28 Oct 2016",
+  "runtime": "96 min",
+  "genre": "Crime, Drama",
+  "director": "A. Dean Bell",
+  "writer": "A. Dean Bell",
+  "actors": "Emily Grace, Judith Ivey, Bill Raymond",
+  "plot": "Young Alice has hit the road in her beat-up Ford Escort, escaping from her dead end life in small town New England. She's off to Florida, following her friend Julie who's gone to college in Miami. But Alice gets into trouble on the road, and she's saved by Sandra and Bill, an older couple in an RV. They take Alice under their wing, but are they really good samaritans, or did they have something else in mind? And is Alice telling the truth to them about herself?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "62",
+  "imdb_rating": "6.5",
+  "imdb_votes": "1,053",
+  "box_office": "$67,436",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "68%",
+      "link": "https://www.rottentomatoes.com/search?search=What+Alice+Found"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/What+Alice+Found/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0343172/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0343172/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/96393"
+  }
+}

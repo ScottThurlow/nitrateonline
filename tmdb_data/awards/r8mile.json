@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 1 Oscar. 17 wins & 21 nominations total",
+  "rated": "R",
+  "released": "08 Nov 2002",
+  "runtime": "110 min",
+  "genre": "Drama, Music",
+  "director": "Curtis Hanson",
+  "writer": "Scott Silver",
+  "actors": "Eminem, Brittany Murphy, Kim Basinger",
+  "plot": "The setting is Detroit in 1995. The city is divided by 8 Mile, a road that splits the town in half along racial lines. A young white rapper, Jimmy \"B-Rabbit\" Smith Jr. summons strength within himself to cross over these arbitrary boundaries to fulfill his dream of success in hip hop. With his pal Future and the three one third in place, all he has to do is not choke.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "77",
+  "imdb_rating": "7.2",
+  "imdb_votes": "347,308",
+  "box_office": "$116,750,901",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "76%",
+      "link": "https://www.rottentomatoes.com/search?search=8+Mile"
+    },
+    {
+      "source": "Metacritic",
+      "value": "77/100",
+      "link": "https://www.metacritic.com/search/8+Mile/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0298203/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0298203/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/65"
+  }
+}

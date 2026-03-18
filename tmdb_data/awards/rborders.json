@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "24 Oct 2003",
+  "runtime": "127 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Martin Campbell",
+  "writer": "Caspian Tredwell-Owen",
+  "actors": "Clive Owen, Angelina Jolie, Linus Roache",
+  "plot": "Beyond Borders is an epic tale of the turbulent romance between two star-crossed lovers set against the backdrop of the world's most dangerous hot spots. Academy Award winner Angelina Jolie stars as Sarah Jordan, an American living in London in 1984. She is married to Henry Bauford, son of a wealthy British industrialist. When she encounters Nick Callahan a renegade doctor, whose impassioned plea for help to support his relief efforts in war-torn Africa moves her deeply. As a result, Sarah embarks upon a journey of discovery that leads to danger, heartbreak and romance in the far corners of the world.",
+  "language": "English, Amharic, Central Khmer, German, Chechen",
+  "country": "Germany, United States",
+  "metascore": "32",
+  "imdb_rating": "6.4",
+  "imdb_votes": "29,419",
+  "box_office": "$4,430,101",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "14%",
+      "link": "https://www.rottentomatoes.com/search?search=Beyond+Borders"
+    },
+    {
+      "source": "Metacritic",
+      "value": "32/100",
+      "link": "https://www.metacritic.com/search/Beyond+Borders/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0294357/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0294357/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9839"
+  }
+}

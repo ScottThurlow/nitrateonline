@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "03 Mar 2000",
+  "runtime": "96 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Nick Gomez",
+  "writer": "Peter Steinfeld",
+  "actors": "Danny DeVito, Bette Midler, Neve Campbell",
+  "plot": "Mona Dearly, a spiteful, loud-mouthed, unpopular woman, dies when the car she is driving plunges off a cliff and into a river near the small upstate New York town where she lives. Wyatt Rash, the local police chief, investigates and suspects foul play in Mona's death. The whole town is suspect, including Wyatt's daughter Ellen, who is about to marry landscape artist Bobby Calzone, whose business suffers from his lazy business partner, Jeff, Mona's slow-witted son, as well as waitress Rona Mace, who was having an affair with Mona's husband.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "25",
+  "imdb_rating": "5.7",
+  "imdb_votes": "16,214",
+  "box_office": "$15,506,764",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "29%",
+      "link": "https://www.rottentomatoes.com/search?search=Drowning+Mona"
+    },
+    {
+      "source": "Metacritic",
+      "value": "25/100",
+      "link": "https://www.metacritic.com/search/Drowning+Mona/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0186045/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0186045/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/25166"
+  }
+}

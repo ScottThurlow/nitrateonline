@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 470,
+  "title": "21 Grams",
+  "original_title": "21 Grams",
+  "release_date": "2003-09-06",
+  "runtime": 124,
+  "tagline": "How much does life weigh?",
+  "overview": "Paul Rivers, an ailing mathematician lovelessly married to an English émigré; Christina Peck, an upper-middle-class suburban housewife and mother of two girls; and Jack Jordan, a born-again ex-con, are brought together by a terrible accident that changes their lives.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "This is that",
+      "country": "US"
+    },
+    {
+      "name": "Y Productions",
+      "country": ""
+    },
+    {
+      "name": "Mediana Productions Filmgesellschaft",
+      "country": ""
+    },
+    {
+      "name": "Focus Features",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Alejandro González Iñárritu"
+  ],
+  "writers": [
+    {
+      "name": "Guillermo Arriaga",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Salerno",
+      "job": "Producer"
+    },
+    {
+      "name": "Alejandro González Iñárritu",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Hope",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Paul Rivers",
+      "order": 0
+    },
+    {
+      "name": "Naomi Watts",
+      "character": "Cristina Peck",
+      "order": 1
+    },
+    {
+      "name": "Benicio del Toro",
+      "character": "Jack Jordan",
+      "order": 2
+    },
+    {
+      "name": "Charlotte Gainsbourg",
+      "character": "Mary Rivers",
+      "order": 3
+    },
+    {
+      "name": "Danny Huston",
+      "character": "Michael Peck",
+      "order": 4
+    },
+    {
+      "name": "Melissa Leo",
+      "character": "Marianne Jordan",
+      "order": 5
+    },
+    {
+      "name": "Clea DuVall",
+      "character": "Claudia",
+      "order": 6
+    },
+    {
+      "name": "Carly Nahon",
+      "character": "Cathy",
+      "order": 7
+    },
+    {
+      "name": "Claire Pakis",
+      "character": "Laura",
+      "order": 8
+    },
+    {
+      "name": "Nick Nichols",
+      "character": "Boy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+  "backdrop_path": "/5SgrtPH6kBmmHao0PofxpvOYfWC.jpg",
+  "budget": 20000000,
+  "revenue": 60427839,
+  "vote_average": 7.321,
+  "vote_count": 3342,
+  "imdb_id": "tt0315733",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

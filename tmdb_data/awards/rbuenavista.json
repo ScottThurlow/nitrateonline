@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Nominated for 1 Oscar. 21 wins & 12 nominations total",
+  "rated": "G",
+  "released": "04 Jun 1999",
+  "runtime": "105 min",
+  "genre": "Documentary, Music",
+  "director": "Wim Wenders",
+  "writer": "Wim Wenders, Nick Gold",
+  "actors": "Compay Segundo, Ibrahim Ferrer, Rubén González",
+  "plot": "A group of legendary Cuban musicians, some as old as their nineties, were brought together by Ry Cooder to record a CD. In this film, we see and hear some of the songs being recorded in Havana. There is also footage from concerts in Amsterdam and New York City's Carnegie Hall. In addition, many of the individual musicians talk about their lives in Cuba and about how they got started in music.",
+  "language": "English, Spanish",
+  "country": "Germany, United States, United Kingdom, France, Cuba",
+  "metascore": "81",
+  "imdb_rating": "7.6",
+  "imdb_votes": "21,125",
+  "box_office": "$7,002,182",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "92%",
+      "link": "https://www.rottentomatoes.com/search?search=Buena+Vista+Social+Club"
+    },
+    {
+      "source": "Metacritic",
+      "value": "81/100",
+      "link": "https://www.metacritic.com/search/Buena+Vista+Social+Club/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0186508/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0186508/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11779"
+  }
+}

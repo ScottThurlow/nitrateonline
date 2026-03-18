@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 14844,
+  "title": "Chasing Liberty",
+  "original_title": "Chasing Liberty",
+  "release_date": "2004-01-09",
+  "runtime": 111,
+  "tagline": "How do you fall in love with the whole world watching?",
+  "overview": "The President's daughter, unable to experience life like a normal 18 year-old, escapes from her entourage of Secret Service agents while traveling in Europe. She falls in love with a handsome British stranger, who also happens to be working undercover for her father.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Hebrew",
+    "Italian",
+    "Spanish",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Micro Fusion 2003-2",
+      "country": ""
+    },
+    {
+      "name": "Alcon Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Trademark Films",
+      "country": "GB"
+    },
+    {
+      "name": "C.R.G. International",
+      "country": "IT"
+    },
+    {
+      "name": "ETIC Films",
+      "country": "CZ"
+    }
+  ],
+  "director": [
+    "Andy Cadiff"
+  ],
+  "writers": [
+    {
+      "name": "David Schneiderman",
+      "job": "Author"
+    },
+    {
+      "name": "Derek Guiley",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew A. Kosove",
+      "job": "Producer"
+    },
+    {
+      "name": "Broderick Johnson",
+      "job": "Producer"
+    },
+    {
+      "name": "David Parfitt",
+      "job": "Producer"
+    },
+    {
+      "name": "Wayne Allan Rice",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Mandy Moore",
+      "character": "Anna Foster",
+      "order": 0
+    },
+    {
+      "name": "Matthew Goode",
+      "character": "Ben Calder",
+      "order": 1
+    },
+    {
+      "name": "Stark Sands",
+      "character": "Grant Hillman",
+      "order": 2
+    },
+    {
+      "name": "Caroline Goodall",
+      "character": "Michelle Foster",
+      "order": 3
+    },
+    {
+      "name": "Jeremy Piven",
+      "character": "Alan Weiss",
+      "order": 4
+    },
+    {
+      "name": "Annabella Sciorra",
+      "character": "Cynthia Morales",
+      "order": 5
+    },
+    {
+      "name": "Briony Glassco",
+      "character": "Photo Mother",
+      "order": 6
+    },
+    {
+      "name": "Sam Ellis",
+      "character": "Phil",
+      "order": 7
+    },
+    {
+      "name": "Terence Maynard",
+      "character": "Harper",
+      "order": 8
+    },
+    {
+      "name": "Mark Harmon",
+      "character": "James Foster",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aGh5zpJSuxcx4lzFFbZ2QyY8wQP.jpg",
+  "backdrop_path": "/cXlUiO1keDZAiSo9432x2H5yb6Y.jpg",
+  "budget": 23000000,
+  "revenue": 12195626,
+  "vote_average": 6.2,
+  "vote_count": 643,
+  "imdb_id": "tt0360139",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

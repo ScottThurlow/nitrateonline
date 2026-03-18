@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 11042,
+  "title": "The Barbarian Invasions",
+  "original_title": "Les invasions barbares",
+  "release_date": "2003-05-01",
+  "runtime": 99,
+  "tagline": "A comedy about sex, friendship, and all other things that invade our lives.",
+  "overview": "In this belated sequel to 'The Decline of the American Empire', middle-aged Montreal college professor, Remy, learns that he is dying of liver cancer. His ex-wife, Louise, asks their estranged son, Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the Canadian healthcare system in every way possible to help his father fight his terminal illness to the bitter end, while reuniting some of Remy's old friends, including Pierre, Alain, Dominique, Diane, and Claude, who return to see their friend before he passes on.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Pyramide Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Cinémaginaire",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Denys Arcand"
+  ],
+  "writers": [
+    {
+      "name": "Denys Arcand",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Daniel Louis",
+      "job": "Producer"
+    },
+    {
+      "name": "Denise Robert",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rémy Girard",
+      "character": "Rémy",
+      "order": 0
+    },
+    {
+      "name": "Stéphane Rousseau",
+      "character": "Sébastien",
+      "order": 1
+    },
+    {
+      "name": "Marie-Josée Croze",
+      "character": "Nathalie",
+      "order": 2
+    },
+    {
+      "name": "Dorothée Berryman",
+      "character": "Louise",
+      "order": 3
+    },
+    {
+      "name": "Louise Portal",
+      "character": "Diane Leonard",
+      "order": 4
+    },
+    {
+      "name": "Dominique Michel",
+      "character": "Dominique St. Arnaud",
+      "order": 5
+    },
+    {
+      "name": "Pierre Curzi",
+      "character": "Pierre Citrouillard",
+      "order": 6
+    },
+    {
+      "name": "Yves Jacques",
+      "character": "Claude",
+      "order": 7
+    },
+    {
+      "name": "Marina Hands",
+      "character": "Gaëlle",
+      "order": 8
+    },
+    {
+      "name": "Sophie Lorain",
+      "character": "First Lover",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg",
+  "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+  "budget": 8000000,
+  "revenue": 34883010,
+  "vote_average": 7.0,
+  "vote_count": 396,
+  "imdb_id": "tt0338135",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

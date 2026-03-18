@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 5 nominations",
+  "rated": "R",
+  "released": "11 Jan 2002",
+  "runtime": "109 min",
+  "genre": "Drama",
+  "director": "Fred Schepisi",
+  "writer": "Graham Swift, Fred Schepisi",
+  "actors": "Michael Caine, Bob Hoskins, Tom Courtenay",
+  "plot": "Jack Dodd (Sir Michael Caine) was a London butcher who enjoyed a pint with his mates for over fifty years. When he died, he died as he lived, with a smile on his face watching a horse race on which he had bet, with borrowed money. But before he died, he had a final request, \"Last Orders\", that his ashes be scattered in the sea at Margate. This movie follows his mates, Ray (Bob Hoskins), Lenny (David Hemmings), and Vic (Sir Tom Courtenay), and his son Vince (Ray Winstone) as they journey to the sea with the ashes. Along the way, the threads of their lives, their loves and their disappointments are woven together in their memories of Jack and his wife Amy (Dame Helen Mirren).",
+  "language": "English",
+  "country": "United Kingdom, Germany",
+  "metascore": "78",
+  "imdb_rating": "6.9",
+  "imdb_votes": "6,836",
+  "box_office": "$2,329,631",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=Last+Orders"
+    },
+    {
+      "source": "Metacritic",
+      "value": "78/100",
+      "link": "https://www.metacritic.com/search/Last+Orders/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0253200/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0253200/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14778"
+  }
+}

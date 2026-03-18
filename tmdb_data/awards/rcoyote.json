@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "4 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "04 Aug 2000",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "David McNally",
+  "writer": "Gina Wendkos",
+  "actors": "Piper Perabo, Adam Garcia, John Goodman",
+  "plot": "Sexy, romantic comedy about a girl in her early 20s named Violet Sanford going to NYC to pursue a dream of becoming a songwriter. Violet gets a \"day\" job as a bar maid at a nightclub called Coyote Ugly. Coyote Ugly is the city's newest hot spot where the employees are a team of sexy, resourceful women that provoke the clientele and press with their mischief.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "27",
+  "imdb_rating": "5.8",
+  "imdb_votes": "125,922",
+  "box_office": "$60,786,269",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "23%",
+      "link": "https://www.rottentomatoes.com/search?search=Coyote+Ugly"
+    },
+    {
+      "source": "Metacritic",
+      "value": "27/100",
+      "link": "https://www.metacritic.com/search/Coyote+Ugly/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0200550/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0200550/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6282"
+  }
+}

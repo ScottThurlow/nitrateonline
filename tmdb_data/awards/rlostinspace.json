@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "3 wins & 17 nominations total",
+  "rated": "PG-13",
+  "released": "03 Apr 1998",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Stephen Hopkins",
+  "writer": "Irwin Allen, Akiva Goldsman",
+  "actors": "Gary Oldman, William Hurt, Matt LeBlanc",
+  "plot": "In the year 2058, the Earth will soon be uninhabitable after the irreversible effects of pollution and global warming! Professor John Robinson, lead scientist of the Jupiter 2 Mission, will lead his family to the habitable planet Alpha Prime to prep it for colonization. The Jupiter 2 is equipped with a hyperdrive that allows faster-than-light travel, which will eventually be employed to evacuate the citizens of Earth. However hypergates must be constructed on Earth and Alpha Prime to provide stable points of departure and arrival. Dr. Zachary Smith is bribed by a terrorist organization to sabotage the mission, and ends up an unwilling stowaway as the ship blasts off.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "43",
+  "imdb_rating": "5.2",
+  "imdb_votes": "76,464",
+  "box_office": "$69,117,629",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "27%",
+      "link": "https://www.rottentomatoes.com/search?search=Lost+in+Space"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/Lost+in+Space/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120738/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120738/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2157"
+  }
+}

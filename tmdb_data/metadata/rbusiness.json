@@ -1,0 +1,114 @@
+{
+  "tmdb_id": 31064,
+  "title": "The Business of Strangers",
+  "original_title": "The Business of Strangers",
+  "release_date": "2001-09-13",
+  "runtime": 84,
+  "tagline": "",
+  "overview": "A dark thriller about a successful businesswoman and her young assistant who toy with a slow-witted businessman while stuck at an airport hotel.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "i5 Films",
+      "country": ""
+    },
+    {
+      "name": "Headquarters",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Patrick Stettner"
+  ],
+  "writers": [
+    {
+      "name": "Patrick Stettner",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott McGehee",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Siegel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert H. Nathan",
+      "job": "Producer"
+    },
+    {
+      "name": "Susan A. Stover",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Stockard Channing",
+      "character": "Julie Styron",
+      "order": 0
+    },
+    {
+      "name": "Julia Stiles",
+      "character": "Paula Murphy",
+      "order": 1
+    },
+    {
+      "name": "Frederick Weller",
+      "character": "Nick Harris",
+      "order": 2
+    },
+    {
+      "name": "Mary Testa",
+      "character": "Receptionist",
+      "order": 3
+    },
+    {
+      "name": "Jack Hallett",
+      "character": "Mr. Fostwick",
+      "order": 4
+    },
+    {
+      "name": "Marcus Giamatti",
+      "character": "Robert",
+      "order": 5
+    },
+    {
+      "name": "Buddy Fitzpatrick",
+      "character": "Waiter",
+      "order": 6
+    },
+    {
+      "name": "Salem Ludwig",
+      "character": "Man at Pool",
+      "order": 7
+    },
+    {
+      "name": "Shelagh Ratner",
+      "character": "Airport Announcer",
+      "order": 8
+    }
+  ],
+  "poster_path": "/5iVwXnV2fraxy6NYzxZ07jMWW0u.jpg",
+  "backdrop_path": "/jGweQLLgnn2Kj4I2S6XZzvNa14O.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 40,
+  "imdb_id": "tt0270259",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

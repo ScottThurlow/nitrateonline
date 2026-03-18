@@ -1,0 +1,180 @@
+{
+  "tmdb_id": 11001,
+  "title": "Blue Streak",
+  "original_title": "Blue Streak",
+  "release_date": "1999-09-17",
+  "runtime": 93,
+  "tagline": "He's a cop that's not. Believe that!",
+  "overview": "Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an LAPD detective.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "IndieProd Company Productions",
+      "country": "US"
+    },
+    {
+      "name": "Neal H. Moritz Productions",
+      "country": "US"
+    },
+    {
+      "name": "Jaffe Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Les Mayfield"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Carpenter",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Blumenthal",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Berry",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Toby Jaffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Daniel Melnick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Allen Shapiro",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Martin Lawrence",
+      "character": "Miles Logan",
+      "order": 0
+    },
+    {
+      "name": "Luke Wilson",
+      "character": "Carlson",
+      "order": 1
+    },
+    {
+      "name": "Dave Chappelle",
+      "character": "Tulley",
+      "order": 2
+    },
+    {
+      "name": "Peter Greene",
+      "character": "Deacon",
+      "order": 3
+    },
+    {
+      "name": "Nicole Ari Parker",
+      "character": "Mellisa Green",
+      "order": 4
+    },
+    {
+      "name": "William Forsythe",
+      "character": "Detective Hardcastle",
+      "order": 5
+    },
+    {
+      "name": "Graham Beckel",
+      "character": "Rizzo",
+      "order": 6
+    },
+    {
+      "name": "Robert Miranda",
+      "character": "Glenfiddish",
+      "order": 7
+    },
+    {
+      "name": "Olek Krupa",
+      "character": "Jean LaFleur",
+      "order": 8
+    },
+    {
+      "name": "Saverio Guerra",
+      "character": "Benny",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg",
+  "backdrop_path": "/xDKuTzBVpJPqFc39H4hctrle87T.jpg",
+  "budget": 65000000,
+  "revenue": 117758500,
+  "vote_average": 6.506,
+  "vote_count": 1600,
+  "imdb_id": "tt0181316",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Won 1 Oscar. 8 wins & 19 nominations total",
+  "rated": "R",
+  "released": "19 Feb 1999",
+  "runtime": "114 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Paul Schrader",
+  "writer": "Russell Banks, Paul Schrader",
+  "actors": "Nick Nolte, Brigid Tierney, Holmes Osborne",
+  "plot": "Boston University professor Whitehouse tells of the events leading up to the disappearance of his older Wade. The police officer who investigates is deeply troubled, and the murder case drains his mental acuity to the point of a total mental collapse.",
+  "language": "English",
+  "country": "United States, Canada, Japan",
+  "metascore": "79",
+  "imdb_rating": "6.9",
+  "imdb_votes": "21,133",
+  "box_office": "$6,330,054",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "88%",
+      "link": "https://www.rottentomatoes.com/search?search=Affliction"
+    },
+    {
+      "source": "Metacritic",
+      "value": "79/100",
+      "link": "https://www.metacritic.com/search/Affliction/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118564/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118564/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/31662"
+  }
+}

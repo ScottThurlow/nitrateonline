@@ -1,0 +1,119 @@
+{
+  "tmdb_id": 4154,
+  "title": "Three Seasons",
+  "original_title": "Ba Mùa",
+  "release_date": "1999-04-30",
+  "runtime": 105,
+  "tagline": "A haunting tale of changes, choices and second chances.",
+  "overview": "The residents of Ho Chi Minh City face modernization amid widespread poverty. A retired American Marine arrives on a search for his daughter, whom he abandoned at the end of the Vietnam War. Elsewhere, a cyclo driver falls for a troubled prostitute and schemes to raise money so he can spend time with her. Additionally, a young women begins harvesting lotuses for a writer suffering from leprosy, and a child trinket seller loses his traveling case.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "production_companies": [
+    {
+      "name": "Open City Films",
+      "country": "US"
+    },
+    {
+      "name": "October Films",
+      "country": "US"
+    },
+    {
+      "name": "Giai Phong Film Studio",
+      "country": "VN"
+    }
+  ],
+  "director": [
+    "Tony Bui"
+  ],
+  "writers": [
+    {
+      "name": "Tony Bui",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harvey Keitel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jason Kliot",
+      "job": "Producer"
+    },
+    {
+      "name": "Tony Bui",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Đơn Dương",
+      "character": "Hai",
+      "order": 0
+    },
+    {
+      "name": "Nguyễn Thị Ngọc Hiệp",
+      "character": "Kien An",
+      "order": 1
+    },
+    {
+      "name": "Diep Bui",
+      "character": "Lan",
+      "order": 2
+    },
+    {
+      "name": "Huu Duoc Nguyen",
+      "character": "Woody",
+      "order": 3
+    },
+    {
+      "name": "Diễm Kiều",
+      "character": "Singing Lotus Woman",
+      "order": 4
+    },
+    {
+      "name": "Harvey Keitel",
+      "character": "James Hager",
+      "order": 5
+    },
+    {
+      "name": "Lola Guimond",
+      "character": "Hager's Daughter",
+      "order": 6
+    },
+    {
+      "name": "Phát Triệu",
+      "character": "Huy, Dao's Headman",
+      "order": 7
+    },
+    {
+      "name": "Hong Son Le",
+      "character": "Binh, Cyclo Driver",
+      "order": 8
+    },
+    {
+      "name": "Mạnh Cường",
+      "character": "Teacher Dao",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9BRzgNVCrb40TsEUKZt2ODXgWMQ.jpg",
+  "backdrop_path": "/hbvg9M2S3ufj6uWsCPQdmqinPPf.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.162,
+  "vote_count": 34,
+  "imdb_id": "tt0138874",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

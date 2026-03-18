@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 19214,
+  "title": "Passion of Mind",
+  "original_title": "Passion of Mind",
+  "release_date": "2000-01-07",
+  "runtime": 105,
+  "tagline": "What if you had two lives at once. What if you knew that one life took place only in your dreams. What if you didn't know which life was real.",
+  "overview": "A psychological romantic thriller where fantasy and reality become indistinguishable for a woman leading a double life in her dreams.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Ron Bass Productions",
+      "country": ""
+    },
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Classics",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Alain Berliner"
+  ],
+  "writers": [
+    {
+      "name": "David Field",
+      "job": "Writer"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Lucchesi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sigurjón Sighvatsson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Carole Scotta",
+      "job": "Producer"
+    },
+    {
+      "name": "William Kepper",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Demi Moore",
+      "character": "Martha Marie / 'Marty' Talridge",
+      "order": 0
+    },
+    {
+      "name": "William Fichtner",
+      "character": "Aaron Reilly",
+      "order": 1
+    },
+    {
+      "name": "Eloise Eonnet",
+      "character": "Jennifer 'Jenny' Talridge",
+      "order": 2
+    },
+    {
+      "name": "Julianne Nicholson",
+      "character": "Kim",
+      "order": 3
+    },
+    {
+      "name": "Sinéad Cusack",
+      "character": "Jessie",
+      "order": 4
+    },
+    {
+      "name": "Joss Ackland",
+      "character": "Dr. Langer, the French Psychiatrist",
+      "order": 5
+    },
+    {
+      "name": "Peter Riegert",
+      "character": "Dr. Peters, the New York Psychiatrist",
+      "order": 6
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "William Granther",
+      "order": 7
+    },
+    {
+      "name": "Gerry Bamman",
+      "character": "Edward 'Ed' Youngerman",
+      "order": 8
+    },
+    {
+      "name": "Hélène Cardona",
+      "character": "French Newscaster (uncredited) (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/A7lzVd2YHz85pgOugGJCJ983bQB.jpg",
+  "backdrop_path": "/vyqmGMafFwTa8phpx234MGFIuE6.jpg",
+  "budget": 12000000,
+  "revenue": 769272,
+  "vote_average": 5.733,
+  "vote_count": 45,
+  "imdb_id": "tt0160644",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

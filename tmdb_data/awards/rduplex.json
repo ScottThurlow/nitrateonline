@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "2 nominations total",
+  "rated": "PG-13",
+  "released": "26 Sep 2003",
+  "runtime": "89 min",
+  "genre": "Comedy",
+  "director": "Danny DeVito",
+  "writer": "Larry Doyle",
+  "actors": "Ben Stiller, Drew Barrymore, Eileen Essell",
+  "plot": "Alex Rose and Nancy Kendricks are a young couple who believe they have found their perfect home to start a family in. There is just one problem. An elderly tenant is staying upstairs and won't move out. Alex and Nancy desperately try everything to convince her to leave, but she refuses to move. Soon, their dream home becomes their home of nightmares.",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "50",
+  "imdb_rating": "5.9",
+  "imdb_votes": "64,605",
+  "box_office": "$9,692,135",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Duplex"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/Duplex/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0266489/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0266489/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/7288"
+  }
+}

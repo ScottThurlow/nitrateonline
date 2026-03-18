@@ -1,0 +1,244 @@
+{
+  "tmdb_id": 929,
+  "title": "Godzilla",
+  "original_title": "Godzilla",
+  "release_date": "1998-05-20",
+  "runtime": 139,
+  "tagline": "Size does matter.",
+  "overview": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Japanese",
+    "Russian",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Independent Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Fried Films",
+      "country": ""
+    },
+    {
+      "name": "Centropolis Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roland Emmerich"
+  ],
+  "writers": [
+    {
+      "name": "Roland Emmerich",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dean Devlin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ted Elliott",
+      "job": "Story"
+    },
+    {
+      "name": "Roland Emmerich",
+      "job": "Story"
+    },
+    {
+      "name": "Terry Rossio",
+      "job": "Story"
+    },
+    {
+      "name": "Dean Devlin",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roland Emmerich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "William Fay",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dean Devlin",
+      "job": "Producer"
+    },
+    {
+      "name": "Ute Emmerich",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew Broderick",
+      "character": "Dr. Niko Tatopoulos",
+      "order": 0
+    },
+    {
+      "name": "Jean Reno",
+      "character": "Philippe Roaché",
+      "order": 1
+    },
+    {
+      "name": "Maria Pitillo",
+      "character": "Audrey Timmonds",
+      "order": 2
+    },
+    {
+      "name": "Hank Azaria",
+      "character": "Victor 'Animal' Palotti",
+      "order": 3
+    },
+    {
+      "name": "Kevin Dunn",
+      "character": "Colonel Hicks",
+      "order": 4
+    },
+    {
+      "name": "Michael Lerner",
+      "character": "Mayor Ebert",
+      "order": 5
+    },
+    {
+      "name": "Harry Shearer",
+      "character": "Charles Caiman",
+      "order": 6
+    },
+    {
+      "name": "Arabella Field",
+      "character": "Lucy Palotti",
+      "order": 7
+    },
+    {
+      "name": "Vicki Lewis",
+      "character": "Dr. Elsie Chapman",
+      "order": 8
+    },
+    {
+      "name": "Doug Savant",
+      "character": "Sergeant O'Neal",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xJVl1I95StraYAwaNbBkVoWE2qA.jpg",
+  "backdrop_path": "/gT4XVSEmGKOJ0EgSEUTfCeqgEtc.jpg",
+  "budget": 130000000,
+  "revenue": 379014294,
+  "vote_average": 5.65,
+  "vote_count": 4162,
+  "imdb_id": "tt0120685",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

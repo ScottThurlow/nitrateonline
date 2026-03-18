@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Nominated for 2 Oscars. 16 wins & 46 nominations total",
+  "rated": "PG-13",
+  "released": "25 Dec 2002",
+  "runtime": "141 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Steven Spielberg",
+  "writer": "Frank Abagnale Jr., Stan Redding, Jeff Nathanson",
+  "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken",
+  "plot": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+  "language": "English, French",
+  "country": "United States, Canada",
+  "metascore": "75",
+  "imdb_rating": "8.1",
+  "imdb_votes": "1,221,144",
+  "box_office": "$164,615,351",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "96%",
+      "link": "https://www.rottentomatoes.com/search?search=Catch+Me+If+You+Can"
+    },
+    {
+      "source": "Metacritic",
+      "value": "75/100",
+      "link": "https://www.metacritic.com/search/Catch+Me+If+You+Can/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0264464/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0264464/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/640"
+  }
+}

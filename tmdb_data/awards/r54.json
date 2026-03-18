@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "9 nominations total",
+  "rated": "R",
+  "released": "28 Aug 1998",
+  "runtime": "93 min",
+  "genre": "Drama, Music",
+  "director": "Mark Christopher",
+  "writer": "Mark Christopher",
+  "actors": "Ryan Phillippe, Salma Hayek, Neve Campbell",
+  "plot": "An anthology film retelling the story of the famous Studio 54, a hot disco hangout for the social elite of New York. The movie follows several characters at once, some of whom are in desperate straits and on the verge of crashing.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "33",
+  "imdb_rating": "5.9",
+  "imdb_votes": "35,671",
+  "box_office": "$16,757,163",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=54"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/54/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120577/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120577/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/3682"
+  }
+}

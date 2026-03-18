@@ -1,0 +1,163 @@
+{
+  "tmdb_id": 21052,
+  "title": "Levity",
+  "original_title": "Levity",
+  "release_date": "2003-03-16",
+  "runtime": 100,
+  "tagline": "How you gonna make it right?",
+  "overview": "Manuel Jordan is a man who is free after serving 23 years for killing a teenager during an attempted robbery. After nearly two decades of staring at his victim's face on a newspaper clipping in his cell, the newly paroled man seeks redemption. Instead, redemption—in the form of a mysterious minister and two needy women— finds him.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Sony Pictures Classics",
+      "country": "US"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "FilmColony",
+      "country": "US"
+    },
+    {
+      "name": "Echo Lake Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "entitled entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Revelations Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ed Solomon"
+  ],
+  "writers": [
+    {
+      "name": "Ed Solomon",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ed Solomon",
+      "job": "Producer"
+    },
+    {
+      "name": "Adam Merims",
+      "job": "Producer"
+    },
+    {
+      "name": "Doug Mankoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James C.E. Burke",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard N. Gladstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Fred Schepisi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Morgan Freeman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lori McCreary",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Spaulding",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Manuel Jordan",
+      "order": 0
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "Miles Evans",
+      "order": 1
+    },
+    {
+      "name": "Holly Hunter",
+      "character": "Adele Easley",
+      "order": 2
+    },
+    {
+      "name": "Kirsten Dunst",
+      "character": "Sofia Mellinger",
+      "order": 3
+    },
+    {
+      "name": "Manuel Aranguiz",
+      "character": "Senor Aguilar",
+      "order": 4
+    },
+    {
+      "name": "Geoffrey Wigdor",
+      "character": "Abner Easley",
+      "order": 5
+    },
+    {
+      "name": "Luke Robertson",
+      "character": "Young Abner Easley",
+      "order": 6
+    },
+    {
+      "name": "Dorian Harewood",
+      "character": "Mackie Whittaker",
+      "order": 7
+    },
+    {
+      "name": "Catherine Colvey",
+      "character": "Claire Mellinger",
+      "order": 8
+    },
+    {
+      "name": "Billoah Greene",
+      "character": "Don",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pLmF3LChsgxkF6dCBN0aHJR91Gu.jpg",
+  "backdrop_path": "/x0eVAQeg2XplCx8MQlvhtejtVag.jpg",
+  "budget": 7500000,
+  "revenue": 723000,
+  "vote_average": 6.081,
+  "vote_count": 118,
+  "imdb_id": "tt0304328",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

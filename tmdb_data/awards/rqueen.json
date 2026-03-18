@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "7 nominations total",
+  "rated": "R",
+  "released": "22 Feb 2002",
+  "runtime": "101 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Michael Rymer",
+  "writer": "Anne Rice, Scott Abbott, Michael Petroni",
+  "actors": "Aaliyah, Stuart Townsend, Marguerite Moreau",
+  "plot": "After losing interest in immortality, vampire Lestat goes to sleep, awakening after a long time to the sounds of punk rock. Taking up as the leader of an undead band, Lestat gains fame but exposes vampires, drawing the attention of vampire enthusiast Jesse. His music also awakens the queen of the damned, Akasha the first vampire, who decides to make Lestat her king. After learning of her bloodlust, and designs to take over humankind, Lestat teams with the other vampire nobility to take her down. Lestat then turns Jesse into his undead mistress to spend eternity together.",
+  "language": "English",
+  "country": "United States, Australia",
+  "metascore": "30",
+  "imdb_rating": "5.3",
+  "imdb_votes": "63,912",
+  "box_office": "$30,336,800",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "17%",
+      "link": "https://www.rottentomatoes.com/search?search=Queen+of+the+Damned"
+    },
+    {
+      "source": "Metacritic",
+      "value": "30/100",
+      "link": "https://www.metacritic.com/search/Queen+of+the+Damned/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0238546/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0238546/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11979"
+  }
+}

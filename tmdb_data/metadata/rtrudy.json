@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 49929,
+  "title": "When Brendan Met Trudy",
+  "original_title": "When Brendan Met Trudy",
+  "release_date": "2000-12-14",
+  "runtime": 95,
+  "tagline": "",
+  "overview": "Brendan is an earnest, introverted schoolteacher who, aside from his participation in the local choir, has only one passion in his life -- the movies. That is until he meets Trudy, a woman who is gregarious and adventurous beyond his imagination. His entire persona changes as he becomes enveloped in her carefree and sometimes dangerous world.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Fís Éireann/Screen Ireland",
+      "country": "IE"
+    },
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "Collins Avenue",
+      "country": "US"
+    },
+    {
+      "name": "RTÉ",
+      "country": "IE"
+    },
+    {
+      "name": "Deadly Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Kieron J. Walsh"
+  ],
+  "writers": [
+    {
+      "name": "Roddy Doyle",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roddy Doyle",
+      "job": "Producer"
+    },
+    {
+      "name": "Claire Duignan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynda Myles",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Phillips",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Rod Stoneman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David M. Thompson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Peter McDonald",
+      "character": "Brendan",
+      "order": 0
+    },
+    {
+      "name": "Flora Montgomery",
+      "character": "Trudy",
+      "order": 1
+    },
+    {
+      "name": "Pauline McLynn",
+      "character": "Nuala",
+      "order": 2
+    },
+    {
+      "name": "Don Wycherley",
+      "character": "Niall",
+      "order": 3
+    },
+    {
+      "name": "Maynard Eziashi",
+      "character": "Edgar",
+      "order": 4
+    },
+    {
+      "name": "Eileen Walsh",
+      "character": "Siobhan",
+      "order": 5
+    },
+    {
+      "name": "Barry Cassin",
+      "character": "Headmaster",
+      "order": 6
+    },
+    {
+      "name": "Niall O'Brien",
+      "character": "Judge",
+      "order": 7
+    },
+    {
+      "name": "Rynagh O'Grady",
+      "character": "Lynn",
+      "order": 8
+    },
+    {
+      "name": "Ali White",
+      "character": "Mary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tI2yl0z0nZpeMEl0bGn5z98eilk.jpg",
+  "backdrop_path": "/xx366LK78SBqXiuiexJZs0BoMF7.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.042,
+  "vote_count": 12,
+  "imdb_id": "tt0220157",
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "1 win & 8 nominations total",
+  "rated": "PG-13",
+  "released": "07 Feb 2003",
+  "runtime": "116 min",
+  "genre": "Comedy, Romance",
+  "director": "Donald Petrie",
+  "writer": "Michele Alexander, Jeannie Long, Kristen Buckley",
+  "actors": "Kate Hudson, Matthew McConaughey, Adam Goldberg",
+  "plot": "Benjamin Barry is an advertising executive competing with two female co-workers for a major campaign for a diamond merchant. He cuts a deal with his competitors that the account is his if he can make a woman of their choice fall in love with him in 10 days. In comes Andie Anderson who, in turn, is writing a story on how to lose a guy in 10 days as a bet with her boss to be allowed to write more substantial stories. With a hidden agenda in each camp, will either party be able to complete their mission?",
+  "language": "English",
+  "country": "Germany, United States",
+  "metascore": "45",
+  "imdb_rating": "6.5",
+  "imdb_votes": "309,600",
+  "box_office": "$105,813,373",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "42%",
+      "link": "https://www.rottentomatoes.com/search?search=How+to+Lose+a+Guy+in+10+Days"
+    },
+    {
+      "source": "Metacritic",
+      "value": "45/100",
+      "link": "https://www.metacritic.com/search/How+to+Lose+a+Guy+in+10+Days/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0251127/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0251127/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9919"
+  }
+}

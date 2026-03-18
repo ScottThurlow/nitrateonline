@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "2 wins & 2 nominations total",
+  "rated": "R",
+  "released": "04 Sep 1998",
+  "runtime": "103 min",
+  "genre": "Drama, Romance",
+  "director": "William Nicholson",
+  "writer": "William Nicholson",
+  "actors": "Sophie Marceau, Stephen Dillane, Dominique Belcourt",
+  "plot": "In 1838, Elisabeth agrees to bear a child for an anonymous landowner who'll pay her father's debt. Employed as a governess on a Sussex estate, Mr. Godwin turns out to be the landowner.",
+  "language": "English, French",
+  "country": "United Kingdom, United States",
+  "metascore": "N/A",
+  "imdb_rating": "7.2",
+  "imdb_votes": "5,147",
+  "box_office": "$785,482",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "41%",
+      "link": "https://www.rottentomatoes.com/search?search=Firelight"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119125/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119125/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/38621"
+  }
+}

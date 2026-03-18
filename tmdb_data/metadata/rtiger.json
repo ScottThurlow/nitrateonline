@@ -1,0 +1,225 @@
+{
+  "tmdb_id": 146,
+  "title": "Crouching Tiger, Hidden Dragon",
+  "original_title": "卧虎藏龍",
+  "release_date": "2000-07-06",
+  "runtime": 120,
+  "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+  "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Action",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Sony Pictures Classics",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures Film Production Asia",
+      "country": "HK"
+    },
+    {
+      "name": "Edko Films",
+      "country": "HK"
+    },
+    {
+      "name": "Zoom Hunt",
+      "country": "TW"
+    },
+    {
+      "name": "China Film Co-Production",
+      "country": "CN"
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ang Lee"
+  ],
+  "writers": [
+    {
+      "name": "Tsai Kuo-Jung",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Wang Huiling",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Wang Dulu",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Hsu Li-Kong",
+      "job": "Producer"
+    },
+    {
+      "name": "Ang Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Kong Chi-Keung",
+      "job": "Producer"
+    },
+    {
+      "name": "James Schamus",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Linde",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chow Yun-Fat",
+      "character": "Li Mu Bai",
+      "order": 0
+    },
+    {
+      "name": "Michelle Yeoh",
+      "character": "Yu Shu Lien",
+      "order": 1
+    },
+    {
+      "name": "Zhang Ziyi",
+      "character": "Jen",
+      "order": 2
+    },
+    {
+      "name": "Chang Chen",
+      "character": "Lo",
+      "order": 3
+    },
+    {
+      "name": "Lung Sihung",
+      "character": "Sir Te",
+      "order": 4
+    },
+    {
+      "name": "Cheng Pei-Pei",
+      "character": "Jade Fox",
+      "order": 5
+    },
+    {
+      "name": "Li Fazeng",
+      "character": "Governor Yu",
+      "order": 6
+    },
+    {
+      "name": "Gao Xian",
+      "character": "Bo",
+      "order": 7
+    },
+    {
+      "name": "Hai Yan",
+      "character": "Madame Yu",
+      "order": 8
+    },
+    {
+      "name": "Wang Deming",
+      "character": "Tsai",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+  "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+  "budget": 17000000,
+  "revenue": 213978518,
+  "vote_average": 7.434,
+  "vote_count": 3503,
+  "imdb_id": "tt0190332",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,199 @@
+{
+  "tmdb_id": 8584,
+  "title": "Shanghai Noon",
+  "original_title": "Shanghai Noon",
+  "release_date": "2000-05-26",
+  "runtime": 110,
+  "tagline": "The old west meets the far east.",
+  "overview": "Chon Wang, a clumsy imperial guard, trails Princess Pei Pei when she's kidnapped from the Forbidden City and transported to America. Wang follows her captors to Nevada, where he teams up with an unlikely partner, outcast outlaw Roy O'Bannon, and tries to spring the princess from her imprisonment.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Comedy",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Birnbaum/Barber Productions",
+      "country": "US"
+    },
+    {
+      "name": "JCE Movies",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Tom Dey"
+  ],
+  "writers": [
+    {
+      "name": "Alfred Gough",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Miles Millar",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Solon So Chi-Hung",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Willie Chan Chi-Keung",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Glickman",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Producer"
+    },
+    {
+      "name": "Jackie Chan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "character": "Chon Wang",
+      "order": 0
+    },
+    {
+      "name": "Owen Wilson",
+      "character": "Roy O'Bannon",
+      "order": 1
+    },
+    {
+      "name": "Lucy Liu",
+      "character": "Princess Pei Pei",
+      "order": 2
+    },
+    {
+      "name": "Xander Berkeley",
+      "character": "Nathan Van Cleef",
+      "order": 3
+    },
+    {
+      "name": "Roger Yuan",
+      "character": "Lo Fong",
+      "order": 4
+    },
+    {
+      "name": "Yu Rongguang",
+      "character": "Imperial Guard",
+      "order": 5
+    },
+    {
+      "name": "Walton Goggins",
+      "character": "Wallace",
+      "order": 6
+    },
+    {
+      "name": "Brandon Merrill",
+      "character": "Indian Wife",
+      "order": 7
+    },
+    {
+      "name": "Jason Connery",
+      "character": "Andrews",
+      "order": 8
+    },
+    {
+      "name": "Adrien Dorval",
+      "character": "Blue",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
+  "backdrop_path": "/x4dH86KvLTGlIBMQb7kNTB0svy5.jpg",
+  "budget": 55000000,
+  "revenue": 99274467,
+  "vote_average": 6.4,
+  "vote_count": 2723,
+  "imdb_id": "tt0184894",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

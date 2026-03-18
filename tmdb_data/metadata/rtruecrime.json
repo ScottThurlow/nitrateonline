@@ -1,0 +1,192 @@
+{
+  "tmdb_id": 10354,
+  "title": "True Crime",
+  "original_title": "True Crime",
+  "release_date": "1999-03-19",
+  "runtime": 127,
+  "tagline": "An innocent man has only 12 hours to live...",
+  "overview": "Boozer, skirt chaser, careless father. You could create your own list of reporter Steve Everett's faults but there's no time. A San Quentin Death Row prisoner is slated to die at midnight – a man Everett has suddenly realized is innocent.",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Zanuck Company",
+      "country": "US"
+    },
+    {
+      "name": "Malpaso Productions",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Clint Eastwood"
+  ],
+  "writers": [
+    {
+      "name": "Andrew Klavan",
+      "job": "Novel"
+    },
+    {
+      "name": "Larry Gross",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Brickman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen Schiff",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Clint Eastwood",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard D. Zanuck",
+      "job": "Producer"
+    },
+    {
+      "name": "Lili Fini Zanuck",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rooker",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Clint Eastwood",
+      "character": "Steve Everett",
+      "order": 0
+    },
+    {
+      "name": "Isaiah Washington",
+      "character": "Frank Louis Beechum",
+      "order": 1
+    },
+    {
+      "name": "LisaGay Hamilton",
+      "character": "Bonnie Beechum",
+      "order": 2
+    },
+    {
+      "name": "James Woods",
+      "character": "Alan Mann",
+      "order": 3
+    },
+    {
+      "name": "Denis Leary",
+      "character": "Bob Findley",
+      "order": 4
+    },
+    {
+      "name": "Bernard Hill",
+      "character": "Warden Luther Plunkitt",
+      "order": 5
+    },
+    {
+      "name": "Diane Venora",
+      "character": "Barbara Everett",
+      "order": 6
+    },
+    {
+      "name": "Michael McKean",
+      "character": "Réverend Shillerman",
+      "order": 7
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Dale Porthouse",
+      "order": 8
+    },
+    {
+      "name": "Mary McCormack",
+      "character": "Michelle Ziegler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5usB2gQSiIsj5l2ybzoypgX55HG.jpg",
+  "backdrop_path": "/891kxjT04dJNMhbsyMOlycO5wAN.jpg",
+  "budget": 55000000,
+  "revenue": 16700000,
+  "vote_average": 6.5,
+  "vote_count": 847,
+  "imdb_id": "tt0139668",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

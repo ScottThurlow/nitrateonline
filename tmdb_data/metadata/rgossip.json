@@ -1,0 +1,144 @@
+{
+  "tmdb_id": 18041,
+  "title": "Gossip",
+  "original_title": "Gossip",
+  "release_date": "2000-04-21",
+  "runtime": 90,
+  "tagline": "Some people are dying to hear it.",
+  "overview": "For a class project, three college students decide to invent an unfounded rumor about the most popular girl on campus. But as the rumor spreads, it begins to spiral out of control.",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Outlaw Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Davis Guggenheim"
+  ],
+  "writers": [
+    {
+      "name": "Gregory Poirier",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Newmyer",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Schumacher",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Marsden",
+      "character": "Derrick Webb",
+      "order": 0
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Cathy Jones",
+      "order": 1
+    },
+    {
+      "name": "Norman Reedus",
+      "character": "Travis",
+      "order": 2
+    },
+    {
+      "name": "Kate Hudson",
+      "character": "Naomi Preston",
+      "order": 3
+    },
+    {
+      "name": "Eric Bogosian",
+      "character": "Professor Goodwin",
+      "order": 4
+    },
+    {
+      "name": "Edward James Olmos",
+      "character": "Detective Curtis",
+      "order": 5
+    },
+    {
+      "name": "Joshua Jackson",
+      "character": "Beau Edson",
+      "order": 6
+    },
+    {
+      "name": "Sharon Lawrence",
+      "character": "Detective Kelly",
+      "order": 7
+    },
+    {
+      "name": "Marisa Coughlan",
+      "character": "Sheila",
+      "order": 8
+    },
+    {
+      "name": "Charles Guggenheim",
+      "character": "Derrick's father",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1fyQiQyBFlqjeqgT6sAEh5vo4Fe.jpg",
+  "backdrop_path": "/aJCHbwgrrizPSyZTzywSSeLqYQv.jpg",
+  "budget": 14000000,
+  "revenue": 5108820,
+  "vote_average": 5.811,
+  "vote_count": 264,
+  "imdb_id": "tt0176783",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

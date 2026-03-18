@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 6 nominations total",
+  "rated": "R",
+  "released": "19 Mar 1999",
+  "runtime": "101 min",
+  "genre": "Adventure, Drama, Horror",
+  "director": "Antonia Bird",
+  "writer": "Ted Griffin",
+  "actors": "Guy Pearce, Robert Carlyle, David Arquette",
+  "plot": "Captain John Boyd receives a promotion after defeating the enemy command in a battle of the Mexican-American War, but because the general realizes it was an act of cowardice that got him there, he is given a backhanded promotion to Fort Spencer, where he is third in command. The others at the fort are two Indians, George and his sister, Martha, who came with the place, Chaplain Toffler, Reich, the soldier; Cleaves, a drugged-up cook; and Knox, who is frequently drunk. When a Scottish stranger named Colquhoun appears and recovers from frostbite almost instantly after being bathed, he tells a story about his party leader, Ives, eating members of the party to survive. As part of their duty, they must go up to the cave where this occurred to see if any have survived. Only Martha, Knox, and Cleaves stay behind. George warns that since Colquhoun admits to eating human flesh, he must be a Windigo, a ravenous cannibalistic creature.",
+  "language": "English, Italian, Spanish, Washoe",
+  "country": "United Kingdom, Mexico, United States, Czech Republic",
+  "metascore": "46",
+  "imdb_rating": "6.9",
+  "imdb_votes": "45,940",
+  "box_office": "$2,062,405",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "52%",
+      "link": "https://www.rottentomatoes.com/search?search=Ravenous"
+    },
+    {
+      "source": "Metacritic",
+      "value": "46/100",
+      "link": "https://www.metacritic.com/search/Ravenous/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0129332/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0129332/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10212"
+  }
+}

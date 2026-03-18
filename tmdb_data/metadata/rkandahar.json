@@ -1,0 +1,117 @@
+{
+  "tmdb_id": 28171,
+  "title": "Kandahar",
+  "original_title": "Safar e Ghandehar",
+  "release_date": "2001-05-11",
+  "runtime": 85,
+  "tagline": "",
+  "overview": "After an Afghanistan-born woman who lives in Canada receives a letter from her suicidal sister, she takes a perilous journey through Afghanistan to try to find her.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Pushto",
+    "Persian",
+    "Polish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Makhmalbaf Film House Productions",
+      "country": "IR"
+    },
+    {
+      "name": "Bac Films",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Mohsen Makhmalbaf"
+  ],
+  "writers": [
+    {
+      "name": "Mohsen Makhmalbaf",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mohsen Makhmalbaf",
+      "job": "Producer"
+    },
+    {
+      "name": "Abbas Sagharisaz",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Nelofer Pazira",
+      "character": "Nafas",
+      "order": 0
+    },
+    {
+      "name": "Ike Ogut",
+      "character": "Naghadar",
+      "order": 1
+    },
+    {
+      "name": "Hassan Tantai",
+      "character": "Tabib Sahid",
+      "order": 2
+    },
+    {
+      "name": "Sadou Teymouri",
+      "character": "Khak",
+      "order": 3
+    },
+    {
+      "name": "Hoyatala Hakimi",
+      "character": "Hayat",
+      "order": 4
+    },
+    {
+      "name": "Noam Morgensztern",
+      "character": "Three children (voice)",
+      "order": 5
+    },
+    {
+      "name": "Monica Hankievich",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Zahra Shafahi",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Safdar Shodjai",
+      "character": "",
+      "order": 8
+    },
+    {
+      "name": "Mollazaher Teymouri",
+      "character": "",
+      "order": 9
+    }
+  ],
+  "poster_path": "/uTeYg3RPKlGYbyvEYKq5Ht5QGch.jpg",
+  "backdrop_path": "/2LdpiR2Se0xhxSLA9r2al4YSYYj.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.3,
+  "vote_count": 88,
+  "imdb_id": "tt0283431",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "KR",
+      "rating": "All"
+    }
+  ],
+  "status": "Released"
+}

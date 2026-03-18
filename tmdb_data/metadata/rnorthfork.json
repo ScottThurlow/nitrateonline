@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 32235,
+  "title": "Northfork",
+  "original_title": "Northfork",
+  "release_date": "2003-07-11",
+  "runtime": 103,
+  "tagline": "We are all angels. It is what we do with our wings that separates us.",
+  "overview": "The year is 1955, and a great flood is coming to Northfork, Montana. A new hydroelectric dam is about to be installed in the mountains above the town, ready to submerge the valley in the name of progress. It is the responsibility of a six-man Evacuation Committee to relocate the townsfolk to higher ground. Most have duly departed, but a few stubborn stragglers remain – among them a priest caring for a sickly orphan, a boy whose fevered visions are leading him to believe he is a member of a roaming band of lost angels desperately searching for a way home.",
+  "genres": [
+    "Fantasy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Romano Shane Productions",
+      "country": ""
+    },
+    {
+      "name": "Departure Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Prohibition Pictures",
+      "country": ""
+    },
+    {
+      "name": "Polish Brothers Construction",
+      "country": ""
+    },
+    {
+      "name": "Departure Studios",
+      "country": ""
+    },
+    {
+      "name": "Northfork Productions",
+      "country": ""
+    },
+    {
+      "name": "Paramount Classics",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Polish"
+  ],
+  "writers": [
+    {
+      "name": "Michael Polish",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Polish",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "James Woods",
+      "character": "Walter O'Brien",
+      "order": 0
+    },
+    {
+      "name": "Nick Nolte",
+      "character": "Father Harlan",
+      "order": 1
+    },
+    {
+      "name": "Claire Forlani",
+      "character": "Mrs. Hadfield",
+      "order": 2
+    },
+    {
+      "name": "Daryl Hannah",
+      "character": "Flower Hercules",
+      "order": 3
+    },
+    {
+      "name": "Douglas Sebern",
+      "character": "Mayor",
+      "order": 4
+    },
+    {
+      "name": "Ben Foster",
+      "character": "Cod",
+      "order": 5
+    },
+    {
+      "name": "Anthony Edwards",
+      "character": "Happy",
+      "order": 6
+    },
+    {
+      "name": "Duel Farnes",
+      "character": "Irwin",
+      "order": 7
+    },
+    {
+      "name": "Mark Polish",
+      "character": "Willis O'Brien",
+      "order": 8
+    },
+    {
+      "name": "Peter Coyote",
+      "character": "Eddie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jb3qheP75UgVibpnfubotrBDY5v.jpg",
+  "backdrop_path": "/2u8uQchpm5zUIwax4XdWqZF6DNY.jpg",
+  "budget": 1900000,
+  "revenue": 1600000,
+  "vote_average": 5.938,
+  "vote_count": 80,
+  "imdb_id": "tt0322659",
+  "certifications": [
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 12257,
+  "title": "Home Fries",
+  "original_title": "Home Fries",
+  "release_date": "1998-11-25",
+  "runtime": 93,
+  "tagline": "A long shot romance in a short order world.",
+  "overview": "Dorian and Angus chase down their womanizing stepfather with a helicopter, frightening him to death. In his effort to cover their tracks, Dorian begins investigating his stepfather's mistress, Sally. She works at a fast-food drive-through, she's pregnant and Dorian quickly falls in love with her. Unfortunately, his scheming mother wants Sally dead. And Sally isn't sure she wants Dorian to be her child's father and also his brother.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gran Via Productions",
+      "country": "US"
+    },
+    {
+      "name": "Baltimore Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Kasdan Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Dean Parisot"
+  ],
+  "writers": [
+    {
+      "name": "Vince Gilligan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Romi Lassally",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Johnson",
+      "job": "Producer"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Newirth",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Levinson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Drew Barrymore",
+      "character": "Sally Jackson",
+      "order": 0
+    },
+    {
+      "name": "Catherine O'Hara",
+      "character": "Beatrice Lever",
+      "order": 1
+    },
+    {
+      "name": "Luke Wilson",
+      "character": "Dorian Montier",
+      "order": 2
+    },
+    {
+      "name": "Jake Busey",
+      "character": "Angus Montier",
+      "order": 3
+    },
+    {
+      "name": "Shelley Duvall",
+      "character": "Mrs. Jackson",
+      "order": 4
+    },
+    {
+      "name": "Kim Robillard",
+      "character": "Billy",
+      "order": 5
+    },
+    {
+      "name": "Daryl Mitchell",
+      "character": "Roy",
+      "order": 6
+    },
+    {
+      "name": "Lanny Flaherty",
+      "character": "Red Jackson",
+      "order": 7
+    },
+    {
+      "name": "Chris Ellis",
+      "character": "Henry Lever",
+      "order": 8
+    },
+    {
+      "name": "Blue Deckert",
+      "character": "Sheriff",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rXEpaJIPlBqKq7QepB8uowmeAT2.jpg",
+  "backdrop_path": "/rpwWJbqI8br33aktuKTz1ml6uee.jpg",
+  "budget": 15000000,
+  "revenue": 10443316,
+  "vote_average": 5.104,
+  "vote_count": 106,
+  "imdb_id": "tt0119304",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

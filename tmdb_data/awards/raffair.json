@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 Oscar. 1 win & 2 nominations total",
+  "rated": "R",
+  "released": "07 Dec 2001",
+  "runtime": "118 min",
+  "genre": "Drama, History, Romance",
+  "director": "Charles Shyer",
+  "writer": "John Sweet",
+  "actors": "Hilary Swank, Simon Baker, Jonathan Pryce",
+  "plot": "Paris, 1786: a woman in court. The Crown murdered her father for his views about the poor, now Jeanne wants her home and good name back. She believes all can be set right if she can talk to the Queen, whose House Minister rebuffs her. With the help of a courtside gigolo, she learns to use what others desire to get what she wants. She needs a patron: with forged letters, she convinces Cardinal de Rohan she is the Queen's confidante and can help him regain royal favor. Jeanne conspires to have the Cardinal purchase a fabulous diamond necklace for the Queen. He delivers it to Jeanne for Marie Antoinette. If the scheme breaks down, what then? Might this affair spark revolution?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "42",
+  "imdb_rating": "6.0",
+  "imdb_votes": "5,635",
+  "box_office": "$471,210",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Affair+of+the+Necklace"
+    },
+    {
+      "source": "Metacritic",
+      "value": "42/100",
+      "link": "https://www.metacritic.com/search/The+Affair+of+the+Necklace/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0242252/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0242252/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19076"
+  }
+}

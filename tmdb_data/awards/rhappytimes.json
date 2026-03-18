@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "5 wins & 4 nominations total",
+  "rated": "PG",
+  "released": "31 Dec 2000",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Yimou Zhang",
+  "writer": "Yan Mo, Gai Zi",
+  "actors": "Lifan Dong, Benshan Zhao, Jie Dong",
+  "plot": "Zhao is an aging bachelor who hasn't been lucky in love. Thinking he has finally met the woman of his dreams, Zhao leads her to believe he is wealthy and agrees to a wedding far beyond his means. Zhao's best friend Li hatches the idea to raise the money by refurbishing an abandoned bus, which they will rent out by the hour--the Happy Times Hotel--to young couples starved for privacy. Unfortunately, this plan goes awry because Zhao is too old fashioned to allow the couples to leave the bus door closed. Meanwhile, Zhao's fiancee introduces him to her spoiled son and beautiful blind stepdaughter Wu Ying, whom she sees as a burden. To be rid of the girl, she insists that Zhao take her to the Happy Times Hotel and give her a job. Zhao reluctantly agrees, then creates a series of deceptions to keep the girl occupied, including setting her up as a masseuse and enlisting his friends to pretend to be her customers. Everything that is happening between Zhao and Wu is superficially about trickery, but gradually a very real empathy grows between the young woman and the old man.",
+  "language": "Mandarin",
+  "country": "China",
+  "metascore": "63",
+  "imdb_rating": "7.3",
+  "imdb_votes": "4,297",
+  "box_office": "$240,093",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=Happy+Times"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Happy+Times/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0303243/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0303243/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/45861"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins & 7 nominations total",
+  "rated": "R",
+  "released": "22 Mar 2000",
+  "runtime": "115 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Andrzej Bartkowiak",
+  "writer": "Mitchell Kapner, Eric Bernt, John Jarrell",
+  "actors": "Jet Li, Aaliyah, Isaiah Washington",
+  "plot": "In this modern day Romeo and Juliet, kung fu action star Jet Li plays Romeo to hip-hop singer, Aaliyah Haughton's Juliet. Li is an ex-cop investigating the murder of his brother, who had ties with the Chinese mafia in America. Aaliyah plays the daughter of the American mob boss. Neither side approves of their romance, so, obviously, kung fu action ensues, with a soundtrack by Aaliyah.",
+  "language": "English, Chinese",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "6.1",
+  "imdb_votes": "76,698",
+  "box_office": "$55,973,336",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "33%",
+      "link": "https://www.rottentomatoes.com/search?search=Romeo+Must+Die"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Romeo+Must+Die/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0165929/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0165929/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2085"
+  }
+}

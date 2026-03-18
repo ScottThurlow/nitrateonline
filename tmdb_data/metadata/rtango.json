@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 10563,
+  "title": "Three to Tango",
+  "original_title": "Three to Tango",
+  "release_date": "1999-10-22",
+  "runtime": 98,
+  "tagline": "All's fair in the war of love.",
+  "overview": "Oscar and Peter land a career-making opportunity when a Chicago tycoon chooses them to compete for the design of a cultural center. The tycoon mistakenly believes that Oscar is gay and has him spy on his mistress Amy. Oscar goes along with it and ends up falling in love with Amy.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow-Hoyts Film Partnership",
+      "country": "AU"
+    },
+    {
+      "name": "Outlaw Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Damon Santostefano"
+  ],
+  "writers": [
+    {
+      "name": "Rodney Patrick Vaccaro",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Rodney Patrick Vaccaro",
+      "job": "Story"
+    },
+    {
+      "name": "Aline Brosh McKenna",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jeffrey Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lawrence Abramson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bettina Sofia Viviano",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Newmyer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew Perry",
+      "character": "Oscar Novak",
+      "order": 0
+    },
+    {
+      "name": "Neve Campbell",
+      "character": "Amy Post",
+      "order": 1
+    },
+    {
+      "name": "Dylan McDermott",
+      "character": "Charles Newman",
+      "order": 2
+    },
+    {
+      "name": "Oliver Platt",
+      "character": "Peter Steinberg",
+      "order": 3
+    },
+    {
+      "name": "Cylk Cozart",
+      "character": "Kevin Cartwright",
+      "order": 4
+    },
+    {
+      "name": "John C. McGinley",
+      "character": "Strauss",
+      "order": 5
+    },
+    {
+      "name": "Bob Balaban",
+      "character": "Decker",
+      "order": 6
+    },
+    {
+      "name": "Deborah Rush",
+      "character": "Lenore",
+      "order": 7
+    },
+    {
+      "name": "Kelly Rowan",
+      "character": "Olivia Newman",
+      "order": 8
+    },
+    {
+      "name": "Rick Gomez",
+      "character": "Rick",
+      "order": 9
+    }
+  ],
+  "poster_path": "/z2EhRgWvzNa2NgoX0uModV6mEb2.jpg",
+  "backdrop_path": "/6TKNEKwc4tLgx3bj3mGvYHKKjys.jpg",
+  "budget": 20000000,
+  "revenue": 0,
+  "vote_average": 5.685,
+  "vote_count": 270,
+  "imdb_id": "tt0144640",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "10"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

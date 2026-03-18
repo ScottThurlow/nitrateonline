@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 2 BAFTA 6 wins & 29 nominations total",
+  "rated": "PG",
+  "released": "13 Oct 2000",
+  "runtime": "135 min",
+  "genre": "Romance, Drama",
+  "director": "Terence Davies",
+  "writer": "Edith Wharton, Terence Davies",
+  "actors": "Gillian Anderson, Dan Aykroyd, Eleanor Bron",
+  "plot": "Terence Davies' The House of Mirth is a tragic love story set against a background of wealth and social hypocrisy in turn of the century New York. Lily Bart is a ravishing socialite at the height of her success who quickly discovers the precariousness of her position when her beauty and charm start attracting unwelcome interest and jealousy. Torn between her heart and her head, Lily always seems to do the right thing at the wrong time. She seeks a wealthy husband and in trying to conform to social expectations, she misses her chance for real love with Lawrence Selden.",
+  "language": "English, French, German",
+  "country": "United Kingdom, France, Germany, United States",
+  "metascore": "78",
+  "imdb_rating": "7.0",
+  "imdb_votes": "8,187",
+  "box_office": "$3,043,284",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "82%",
+      "link": "https://www.rottentomatoes.com/search?search=The+House+of+Mirth"
+    },
+    {
+      "source": "Metacritic",
+      "value": "78/100",
+      "link": "https://www.metacritic.com/search/The+House+of+Mirth/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0200720/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0200720/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/25520"
+  }
+}

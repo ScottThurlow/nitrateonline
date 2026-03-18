@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 nominations total",
+  "rated": "PG",
+  "released": "26 Oct 2001",
+  "runtime": "85 min",
+  "genre": "Comedy, Family, Romance",
+  "director": "Eric Bross",
+  "writer": "Eric Aronson, Paul B. Stanton",
+  "actors": "Lance Bass, Joey Fatone, Emmanuelle Chriqui",
+  "plot": "A young man meets a girl on a train, only to spend the rest of the movie trying to reunite with her (one of the love-at-first-sight things), aided by his best friend in a quest of posters and signs that soon gains public notice. Will he ever find his soul mate?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "34",
+  "imdb_rating": "4.2",
+  "imdb_votes": "4,474",
+  "box_office": "$4,365,455",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "18%",
+      "link": "https://www.rottentomatoes.com/search?search=On+the+Line"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/On+the+Line/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0279286/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0279286/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/34043"
+  }
+}

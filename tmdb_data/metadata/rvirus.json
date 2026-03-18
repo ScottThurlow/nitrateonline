@@ -1,0 +1,181 @@
+{
+  "tmdb_id": 9423,
+  "title": "Virus",
+  "original_title": "Virus",
+  "release_date": "1999-01-14",
+  "runtime": 100,
+  "tagline": "Life on earth is in for a shock.",
+  "overview": "When the crew of an American tugboat boards an abandoned Russian research vessel, the alien life form aboard regards them as a virus which must be destroyed.",
+  "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Dark Horse Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Valhalla Motion Pictures",
+      "country": "US"
+    },
+    {
+      "name": "UGC PH",
+      "country": "FR"
+    },
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "Marubeni",
+      "country": "JP"
+    },
+    {
+      "name": "TOHO-TOWA",
+      "country": "JP"
+    },
+    {
+      "name": "Tele München",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "John Bruno"
+  ],
+  "writers": [
+    {
+      "name": "Chuck Pfarrer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Dennis Feldman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Chuck Pfarrer",
+      "job": "Comic Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gale Anne Hurd",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Kelly Foster",
+      "order": 0
+    },
+    {
+      "name": "William Baldwin",
+      "character": "Steve Baker",
+      "order": 1
+    },
+    {
+      "name": "Donald Sutherland",
+      "character": "Captain Robert Everton",
+      "order": 2
+    },
+    {
+      "name": "Joanna Pacula",
+      "character": "Nadia Vinogradova",
+      "order": 3
+    },
+    {
+      "name": "Marshall Bell",
+      "character": "J.W. Woods Jr.",
+      "order": 4
+    },
+    {
+      "name": "Sherman Augustus",
+      "character": "Richie",
+      "order": 5
+    },
+    {
+      "name": "Cliff Curtis",
+      "character": "Hiko",
+      "order": 6
+    },
+    {
+      "name": "Julio Oscar Mechoso",
+      "character": "Squeaky",
+      "order": 7
+    },
+    {
+      "name": "Levan Uchaneishvili",
+      "character": "Captain Alexi",
+      "order": 8
+    },
+    {
+      "name": "Yuri Chervotkin",
+      "character": "Colonel Kominski",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg",
+  "backdrop_path": "/j3Nvs9rZDjsOU3jwtxUwyEum1pn.jpg",
+  "budget": 75000000,
+  "revenue": 30700000,
+  "vote_average": 5.389,
+  "vote_count": 667,
+  "imdb_id": "tt0120458",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

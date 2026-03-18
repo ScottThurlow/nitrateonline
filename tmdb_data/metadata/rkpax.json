@@ -1,0 +1,184 @@
+{
+  "tmdb_id": 167,
+  "title": "K-PAX",
+  "original_title": "K-PAX",
+  "release_date": "2001-10-26",
+  "runtime": 120,
+  "tagline": "Change the way you look at the world.",
+  "overview": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+  "genres": [
+    "Science Fiction",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "Lawrence Gordon Productions",
+      "country": "US"
+    },
+    {
+      "name": "IMF Internationale Medien und Film 3 & Produktions",
+      "country": "DE"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Senator International",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Iain Softley"
+  ],
+  "writers": [
+    {
+      "name": "Gene Brewer",
+      "job": "Novel"
+    },
+    {
+      "name": "Charles Leavitt",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert F. Colesberry",
+      "job": "Producer"
+    },
+    {
+      "name": "Lloyd Levin",
+      "job": "Producer"
+    },
+    {
+      "name": "Susan G. Pollock",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeff Bridges",
+      "character": "Dr. Mark Powell",
+      "order": 0
+    },
+    {
+      "name": "Kevin Spacey",
+      "character": "Prot",
+      "order": 1
+    },
+    {
+      "name": "Mary McCormack",
+      "character": "Rachel Powell",
+      "order": 2
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Claudia Villars",
+      "order": 3
+    },
+    {
+      "name": "David Patrick Kelly",
+      "character": "Howie",
+      "order": 4
+    },
+    {
+      "name": "Saul Williams",
+      "character": "Ernie",
+      "order": 5
+    },
+    {
+      "name": "Peter Gerety",
+      "character": "Sal",
+      "order": 6
+    },
+    {
+      "name": "Celia Weston",
+      "character": "Mrs. Archer",
+      "order": 7
+    },
+    {
+      "name": "Ajay Naidu",
+      "character": "Dr. Chakaraborty",
+      "order": 8
+    },
+    {
+      "name": "Tracy Vilar",
+      "character": "Maria",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tafXZX0I6rso7EyoEzfygfTqxq6.jpg",
+  "backdrop_path": "/ybuw5OBokXye6e53qFMl3r7bT2y.jpg",
+  "budget": 48000000,
+  "revenue": 50315140,
+  "vote_average": 7.205,
+  "vote_count": 2690,
+  "imdb_id": "tt0272152",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

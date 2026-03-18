@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 1 Oscar. 21 wins & 21 nominations total",
+  "rated": "R",
+  "released": "13 Jul 2001",
+  "runtime": "89 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Jonathan Glazer",
+  "writer": "Louis Mellis, David Scinto",
+  "actors": "Ray Winstone, Ben Kingsley, Ian McShane",
+  "plot": "Gal, Deedee, Aitch and Jackie, having left behind respective lives of ill-repute, bask in the sun of Spain and in the most essential brand of leisure. A hazy yarn of barbecues, beer and botched hunting expeditions make up their retirements, until a sudden and unforeseen disruption emerges from their past. Enter the childishly violent and hilariously edgy Don Logan. Through a series of side-splitting negotiations and irrevocable acts, retired crook Gal is forced to shake off the rust and accept one last mission, put forth by the menacing Logan, his ex-mentor. A heist of legendary proportion and personal implications, this job should make for one hell of an encore.",
+  "language": "English, Spanish",
+  "country": "United Kingdom, Spain, United States",
+  "metascore": "79",
+  "imdb_rating": "7.3",
+  "imdb_votes": "73,041",
+  "box_office": "$6,946,056",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "87%",
+      "link": "https://www.rottentomatoes.com/search?search=Sexy+Beast"
+    },
+    {
+      "source": "Metacritic",
+      "value": "79/100",
+      "link": "https://www.metacritic.com/search/Sexy+Beast/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0203119/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0203119/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11826"
+  }
+}

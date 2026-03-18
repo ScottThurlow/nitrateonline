@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Won 1 BAFTA Award11 wins & 17 nominations total",
+  "rated": "PG-13",
+  "released": "28 May 1999",
+  "runtime": "124 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Roger Michell",
+  "writer": "Richard Curtis",
+  "actors": "Hugh Grant, Julia Roberts, Richard McCabe",
+  "plot": "Every man's dream comes true for William Thacker, an unsuccessful Notting Hill bookstore owner, when Anna Scott, the world's most beautiful woman and best-liked actress, enters his shop. A little later, he still can't believe it himself, William runs into her again - this time spilling orange juice over her. Anna accepts his offer to change in his nearby apartment, and thanks him with a kiss, which seems to surprise her even more than him. Eventually, Anna and William get to know each other better over the months, but being together with the world's most wanted woman is not easy - neither around your closest friends, nor in front of the all-devouring press.",
+  "language": "English, Spanish, French",
+  "country": "United Kingdom, United States",
+  "metascore": "68",
+  "imdb_rating": "7.2",
+  "imdb_votes": "380,809",
+  "box_office": "$116,089,678",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "84%",
+      "link": "https://www.rottentomatoes.com/search?search=Notting+Hill"
+    },
+    {
+      "source": "Metacritic",
+      "value": "68/100",
+      "link": "https://www.metacritic.com/search/Notting+Hill/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0125439/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0125439/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/509"
+  }
+}

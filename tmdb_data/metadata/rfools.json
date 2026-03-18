@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 46702,
+  "title": "Why Do Fools Fall In Love",
+  "original_title": "Why Do Fools Fall In Love",
+  "release_date": "1998-08-28",
+  "runtime": 116,
+  "tagline": "The story of three very different women.....with one husband in common.",
+  "overview": "In the mid-80s, three women (each with an attorney) arrive at the office of New York entertainment manager, Morris Levy. One is an L.A. singer, formerly of the Platters; one is a petty thief from Philly; one teaches school in a small Georgia town. Each claims to be the widow of long-dead doo-wop singer-songwriter Frankie Lyman, and each wants years of royalties due to his estate, money Levy has never shared. During an ensuing civil trial, flashbacks tell the story of each one's life with Lyman, a boyish, high-pitched, dynamic performer, lost to heroin. Slowly, the three wives establish their own bond.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Rhino Films",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gregory Nava"
+  ],
+  "writers": [
+    {
+      "name": "Tina Andrews",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paul Hall",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Larenz Tate",
+      "character": "Frankie Lymon",
+      "order": 0
+    },
+    {
+      "name": "Halle Berry",
+      "character": "Zola Taylor",
+      "order": 1
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Elizabeth 'Mickey' Waters",
+      "order": 2
+    },
+    {
+      "name": "Lela Rochon",
+      "character": "Emira Eagle",
+      "order": 3
+    },
+    {
+      "name": "Pamela Reed",
+      "character": "Judge Lambrey",
+      "order": 4
+    },
+    {
+      "name": "Clifton Powell",
+      "character": "Lawrence Roberts",
+      "order": 5
+    },
+    {
+      "name": "Paul Mazursky",
+      "character": "Morris Levy",
+      "order": 6
+    },
+    {
+      "name": "Miguel A. Núñez Jr.",
+      "character": "Young Little Richard",
+      "order": 7
+    },
+    {
+      "name": "James Gleason",
+      "character": "Stage Manager",
+      "order": 8
+    },
+    {
+      "name": "Ben Vereen",
+      "character": "Richard Barrett",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tSj2g6VdJ2UXeWk9wRa19SsxRFg.jpg",
+  "backdrop_path": "/aFt9A4TK8n869uBsOBJj5cfZRDi.jpg",
+  "budget": 0,
+  "revenue": 12413650,
+  "vote_average": 6.3,
+  "vote_count": 49,
+  "imdb_id": "tt0123324",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,145 @@
+{
+  "tmdb_id": 18764,
+  "title": "Twin Dragons",
+  "original_title": "双龙会",
+  "release_date": "1992-01-15",
+  "runtime": 104,
+  "tagline": "Twice the action!",
+  "overview": "Identical twins are separated at birth, one becoming a streetwise mechanic, and the other an acclaimed classical concert conductor. Finally meeting in adulthood, they're mistaken for the other and entangled in each other's worlds.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Cantonese"
+  ],
+  "production_companies": [
+    {
+      "name": "Hong Kong Film Directors Guild",
+      "country": ""
+    },
+    {
+      "name": "Golden Way Films Ltd.",
+      "country": "HK"
+    },
+    {
+      "name": "Paragon Films",
+      "country": "HK"
+    },
+    {
+      "name": "Orange Sky Golden Harvest",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Ringo Lam Ling-Tung",
+    "Tsui Hark"
+  ],
+  "writers": [
+    {
+      "name": "Barry Wong Ping-Yiu",
+      "job": "Writer"
+    },
+    {
+      "name": "Tsui Hark",
+      "job": "Writer"
+    },
+    {
+      "name": "Joe Cheung Tung-Cho",
+      "job": "Writer"
+    },
+    {
+      "name": "Teddy Robin",
+      "job": "Story"
+    },
+    {
+      "name": "Wong Yik",
+      "job": "Story"
+    },
+    {
+      "name": "Joe Cheung Tung-Cho",
+      "job": "Story"
+    },
+    {
+      "name": "Tsui Hark",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ng See-Yuen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "character": "Ma Yau (John Ma) / Bok Min (Boomer)",
+      "order": 0
+    },
+    {
+      "name": "Maggie Cheung",
+      "character": "Barbara",
+      "order": 1
+    },
+    {
+      "name": "Nina Li Chi",
+      "character": "Tong Sum (Tammy)",
+      "order": 2
+    },
+    {
+      "name": "Teddy Robin",
+      "character": "Tarzan (Tyson)",
+      "order": 3
+    },
+    {
+      "name": "James Wong Jim",
+      "character": "Mr. Ma",
+      "order": 4
+    },
+    {
+      "name": "Sylvia Chang",
+      "character": "Mrs. Ma",
+      "order": 5
+    },
+    {
+      "name": "Kirk Wong Chi-Keung",
+      "character": "Crazy Bull",
+      "order": 6
+    },
+    {
+      "name": "David Chiang Da-Wei",
+      "character": "Sgt Chiang / Hotel Security",
+      "order": 7
+    },
+    {
+      "name": "Mabel Cheung Yuen-Ting",
+      "character": "Tsui",
+      "order": 8
+    },
+    {
+      "name": "Alfred Cheung Kin-Ting",
+      "character": "Boss Yung",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tm153lMrHy6HykEYwoP0EI3dQ8k.jpg",
+  "backdrop_path": "/h3vctOuLlF0V3liuTfaWVC9utKG.jpg",
+  "budget": 10000000,
+  "revenue": 46861333,
+  "vote_average": 6.7,
+  "vote_count": 419,
+  "imdb_id": "tt0105399",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

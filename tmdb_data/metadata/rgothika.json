@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 4970,
+  "title": "Gothika",
+  "original_title": "Gothika",
+  "release_date": "2003-11-21",
+  "runtime": 98,
+  "tagline": "Because someone is dead doesn't mean they're gone.",
+  "overview": "After a car crash, criminal psychologist Dr. Miranda Grey regains consciousness only to find that she's a patient in the same mental institution that currently employs her. She's been accused of murdering her husband Dr. Douglas Grey — but she has no memory of committing the crime. As she tries to regain her memory and convince her co-worker, Dr. Pete Graham, of her innocence, a vengeful spirit uses her as an earthly pawn, which further convinces everyone of her guilt.",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dark Castle Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mathieu Kassovitz"
+  ],
+  "writers": [
+    {
+      "name": "Sebastian Gutierrez",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Susan Downey",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Zemeckis",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Carmody",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Richards",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Ungar",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Halle Berry",
+      "character": "Miranda Grey",
+      "order": 0
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "character": "Pete Graham",
+      "order": 1
+    },
+    {
+      "name": "Charles S. Dutton",
+      "character": "Douglas Grey",
+      "order": 2
+    },
+    {
+      "name": "John Carroll Lynch",
+      "character": "Sheriff Ryan",
+      "order": 3
+    },
+    {
+      "name": "Bernard Hill",
+      "character": "Phil Parsons",
+      "order": 4
+    },
+    {
+      "name": "Penélope Cruz",
+      "character": "Chloe Sava",
+      "order": 5
+    },
+    {
+      "name": "Dorian Harewood",
+      "character": "Teddy Howard",
+      "order": 6
+    },
+    {
+      "name": "Bronwen Mantel",
+      "character": "Irene",
+      "order": 7
+    },
+    {
+      "name": "Kathleen Mackey",
+      "character": "Rachel Parsons",
+      "order": 8
+    },
+    {
+      "name": "Matthew G. Taylor",
+      "character": "Turlington",
+      "order": 9
+    }
+  ],
+  "poster_path": "/frSGNQcWx1ek8dCduFYCux1ho7n.jpg",
+  "backdrop_path": "/eLBHPVQkJZyaSEUAGAFWNJJwmeo.jpg",
+  "budget": 40000000,
+  "revenue": 141591324,
+  "vote_average": 6.118,
+  "vote_count": 2453,
+  "imdb_id": "tt0348836",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,146 @@
+{
+  "tmdb_id": 926180,
+  "title": "Amandla",
+  "original_title": "Amandla",
+  "release_date": "2022-01-21",
+  "runtime": 106,
+  "tagline": "",
+  "overview": "Amandla is an anti-apartheid resistance slogan and means power. Apartheid in South Africa is still in full force when, in 1987, the two brothers Impi and Nkosana grew up on a farm as the sons of servants. The white owners are liberal people who aren't too particular about racial segregation. Black Africans have it relatively good there. Even a tender love bond develops between Impi and the blond daughter Elizabeth. But they have to be on their guard when neighboring farmers come to visit. When three racist upstart Boers arrive on the farm one day, tragic incidents occur with terrible consequences. The two Zulu boys are now on their own. Several years after surviving this childhood tragedy, the now grown brothers each find themselves on the opposing sides of the law. One is a gangster, the other is a police officer. A heinous gang crime tests their loyalty to one another.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Afrikaans",
+    "French",
+    "Zulu"
+  ],
+  "production_companies": [
+    {
+      "name": "M4gic-J Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Firegrass Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Nerina de Jager"
+  ],
+  "writers": [
+    {
+      "name": "Nerina de Jager",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jarrod de Jong",
+      "job": "Producer"
+    },
+    {
+      "name": "Greig Buckle",
+      "job": "Producer"
+    },
+    {
+      "name": "Riaan van der Wart",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nerina de Jager",
+      "job": "Producer"
+    },
+    {
+      "name": "Riaan van der Wart",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lemogang Tsipa",
+      "character": "Impi",
+      "order": 0
+    },
+    {
+      "name": "Thabo Rametsi",
+      "character": "Nkosana",
+      "order": 1
+    },
+    {
+      "name": "Thabiso Masoti",
+      "character": "Young Impi",
+      "order": 2
+    },
+    {
+      "name": "Bahle Hadebe",
+      "character": "Young Nkosana",
+      "order": 3
+    },
+    {
+      "name": "Israel Makoe",
+      "character": "Shaka",
+      "order": 4
+    },
+    {
+      "name": "Nqobile Sipamla",
+      "character": "Nomusa",
+      "order": 5
+    },
+    {
+      "name": "Ncibijana Madlala",
+      "character": "Bangizwe",
+      "order": 6
+    },
+    {
+      "name": "Jeanique Fourie",
+      "character": "Young Elizabeth",
+      "order": 7
+    },
+    {
+      "name": "Liza van Deventer",
+      "character": "Elizabeth",
+      "order": 8
+    },
+    {
+      "name": "Zondwa Njokweni",
+      "character": "Alina",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qrT3Y0ERClIKCeq025L5rN1xgzr.jpg",
+  "backdrop_path": "/xy4E2dApJ2AFFIIXX0cx7xOBfI9.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.9,
+  "vote_count": 10,
+  "imdb_id": "tt5343008",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    }
+  ],
+  "status": "Released"
+}

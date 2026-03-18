@@ -1,0 +1,124 @@
+{
+  "tmdb_id": 20761,
+  "title": "Play It to the Bone",
+  "original_title": "Play It to the Bone",
+  "release_date": "1999-12-25",
+  "runtime": 124,
+  "tagline": "",
+  "overview": "Two aging fighters in LA, friends, get a call from a Vegas promoter because his undercard fighters for a Mike Tyson bout that night are suddenly unavailable. He wants them to box each other. They agree as long as the winner gets a shot at the middleweight title. They enlist Grace, Cesar's current and Vinnie's ex girlfriend, to drive them to Vegas.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Shanghai'd Films",
+      "country": ""
+    },
+    {
+      "name": "Play It Inc.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Ron Shelton"
+  ],
+  "writers": [
+    {
+      "name": "Ron Shelton",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stephen Chin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Antonio Banderas",
+      "character": "Cesar Dominguez",
+      "order": 0
+    },
+    {
+      "name": "Woody Harrelson",
+      "character": "Vince Boudreau",
+      "order": 1
+    },
+    {
+      "name": "Lolita Davidovich",
+      "character": "Grace Pasic",
+      "order": 2
+    },
+    {
+      "name": "Tom Sizemore",
+      "character": "Joe Domino",
+      "order": 3
+    },
+    {
+      "name": "Lucy Liu",
+      "character": "Lia",
+      "order": 4
+    },
+    {
+      "name": "Robert Wagner",
+      "character": "Hank Goody",
+      "order": 5
+    },
+    {
+      "name": "Richard Masur",
+      "character": "Artie",
+      "order": 6
+    },
+    {
+      "name": "Willie Garson",
+      "character": "Cappie Caplan",
+      "order": 7
+    },
+    {
+      "name": "Cylk Cozart",
+      "character": "Rudy",
+      "order": 8
+    },
+    {
+      "name": "Jack Carter",
+      "character": "Dante Solomon",
+      "order": 9
+    }
+  ],
+  "poster_path": "/qSJl8pD17doJsAkou5mPvDogBQT.jpg",
+  "backdrop_path": "/dgRVFKHRf1frNXtX2aDesBBES9t.jpg",
+  "budget": 24000000,
+  "revenue": 8678812,
+  "vote_average": 5.4,
+  "vote_count": 172,
+  "imdb_id": "tt0196857",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

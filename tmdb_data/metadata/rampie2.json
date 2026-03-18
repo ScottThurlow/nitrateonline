@@ -1,0 +1,223 @@
+{
+  "tmdb_id": 2770,
+  "title": "American Pie 2",
+  "original_title": "American Pie 2",
+  "release_date": "2001-08-10",
+  "runtime": 111,
+  "tagline": "This summer it's all about sticking together.",
+  "overview": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Zide-Perry Productions",
+      "country": "US"
+    },
+    {
+      "name": "LivePlanet",
+      "country": ""
+    }
+  ],
+  "director": [
+    "J.B. Rogers"
+  ],
+  "writers": [
+    {
+      "name": "Adam Herz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David H. Steinberg",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chris Moore",
+      "job": "Producer"
+    },
+    {
+      "name": "Warren Zide",
+      "job": "Producer"
+    },
+    {
+      "name": "Craig Perry",
+      "job": "Producer"
+    },
+    {
+      "name": "Adam Herz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Weitz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Weitz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Biggs",
+      "character": "Jim Levenstein",
+      "order": 0
+    },
+    {
+      "name": "Thomas Ian Nicholas",
+      "character": "Kevin Myers",
+      "order": 1
+    },
+    {
+      "name": "Chris Klein",
+      "character": "Chris 'Oz' Ostreicher",
+      "order": 2
+    },
+    {
+      "name": "Seann William Scott",
+      "character": "Steve Stifler",
+      "order": 3
+    },
+    {
+      "name": "Eddie Kaye Thomas",
+      "character": "Paul Finch",
+      "order": 4
+    },
+    {
+      "name": "Alyson Hannigan",
+      "character": "Michelle Flaherty",
+      "order": 5
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "character": "Nadia",
+      "order": 6
+    },
+    {
+      "name": "Tara Reid",
+      "character": "Vicky Lathum",
+      "order": 7
+    },
+    {
+      "name": "Mena Suvari",
+      "character": "Heather",
+      "order": 8
+    },
+    {
+      "name": "Natasha Lyonne",
+      "character": "Jessica",
+      "order": 9
+    }
+  ],
+  "poster_path": "/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+  "backdrop_path": "/sgU7YubDFMosoJQLtcrBCcEG1sq.jpg",
+  "budget": 30000000,
+  "revenue": 287553595,
+  "vote_average": 6.249,
+  "vote_count": 5225,
+  "imdb_id": "tt0252866",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,170 @@
+{
+  "tmdb_id": 39180,
+  "title": "See Spot Run",
+  "original_title": "See Spot Run",
+  "release_date": "2001-03-02",
+  "runtime": 94,
+  "tagline": "The Smart One Isn't Wearing Any Pants.",
+  "overview": "A drug sniffing agent canine is a target for an assassin boss so the FBI calls Witness Protection to send him somewhere else. Meanwhile a single Mom puts her 6 year old boy James in the care of her irresponsible, mailman, neighbor, Gordon, when the babysitter bails on her. Meanwhile, an assassin mob boss hires 2 goons to kill Agent 11. But when 11 escapes from the van when they tried to kill him, he hides in Gordon's Mailtruck that James is in too. And guess what they name him. Spot.",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Action",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Spot Pictures",
+      "country": ""
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Robert Simonds Productions",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Whitesell"
+  ],
+  "writers": [
+    {
+      "name": "Gregory Poirier",
+      "job": "Writer"
+    },
+    {
+      "name": "Dan Baron",
+      "job": "Writer"
+    },
+    {
+      "name": "Chris Faber",
+      "job": "Writer"
+    },
+    {
+      "name": "Andrew Deane",
+      "job": "Story"
+    },
+    {
+      "name": "Michael Alexander Miller",
+      "job": "Story"
+    },
+    {
+      "name": "George Gallo",
+      "job": "Story"
+    },
+    {
+      "name": "Stuart Gibbs",
+      "job": "Adaptation"
+    },
+    {
+      "name": "George Gallo",
+      "job": "Writer"
+    },
+    {
+      "name": "Craig Titley",
+      "job": "Adaptation"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Simonds",
+      "job": "Producer"
+    },
+    {
+      "name": "Tracey Trench",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Deane",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Arquette",
+      "character": "Gordon",
+      "order": 0
+    },
+    {
+      "name": "Leslie Bibb",
+      "character": "Stephanie",
+      "order": 1
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "character": "Murdoch",
+      "order": 2
+    },
+    {
+      "name": "Angus T. Jones",
+      "character": "James",
+      "order": 3
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "Benny",
+      "order": 4
+    },
+    {
+      "name": "Paul Sorvino",
+      "character": "Sonny Talia",
+      "order": 5
+    },
+    {
+      "name": "Joe Viterelli",
+      "character": "Gino",
+      "order": 6
+    },
+    {
+      "name": "Steve Schirripa",
+      "character": "Arliss (as Steven R. Schirripa)",
+      "order": 7
+    },
+    {
+      "name": "Kim Hawthorne",
+      "character": "Cassavettes (as Kim Hawthorne)",
+      "order": 8
+    },
+    {
+      "name": "Constance Marie",
+      "character": "The Neighbor (uncredited)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/29iKqRGRcNqhrT710ohxVq5WwcE.jpg",
+  "backdrop_path": "/7CYcy9eZZdhgBzaHGPH73hrjcNr.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 236,
+  "imdb_id": "tt0250720",
+  "certifications": [
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

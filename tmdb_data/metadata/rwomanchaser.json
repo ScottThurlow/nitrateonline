@@ -1,0 +1,91 @@
+{
+  "tmdb_id": 28666,
+  "title": "The Woman Chaser",
+  "original_title": "The Woman Chaser",
+  "release_date": "1999-10-08",
+  "runtime": 90,
+  "tagline": "He got reality mixed up with a dream. A bad dream!",
+  "overview": "An unscrupulous used car salesman and aspiring filmmaker in 1950s Los Angeles struggles to get his first film made, at all costs.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Robinson Devor"
+  ],
+  "writers": [
+    {
+      "name": "Robinson Devor",
+      "job": "Writer"
+    },
+    {
+      "name": "Charles Willeford",
+      "job": "Novel"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Patrick Warburton",
+      "character": "Richard Hudson",
+      "order": 0
+    },
+    {
+      "name": "Eugene Roche",
+      "character": "Used Car Dealer",
+      "order": 1
+    },
+    {
+      "name": "Ron Morgan",
+      "character": "Bill",
+      "order": 2
+    },
+    {
+      "name": "Emily Newman",
+      "character": "Laura",
+      "order": 3
+    },
+    {
+      "name": "Paul Malevich",
+      "character": "Leo",
+      "order": 4
+    },
+    {
+      "name": "Lynette Bennett",
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "name": "Joe Durrenberger",
+      "character": "Chet",
+      "order": 6
+    },
+    {
+      "name": "Ernie Vincent",
+      "character": "The Man",
+      "order": 7
+    },
+    {
+      "name": "Max Kerstein",
+      "character": "Ruggerio",
+      "order": 8
+    },
+    {
+      "name": "Mel Hampton",
+      "character": "Flaps",
+      "order": 9
+    }
+  ],
+  "poster_path": "/n7YRKEz7wsT11DX9UhLuoyN8NYw.jpg",
+  "backdrop_path": "/aum5OMDC44OqdzOLgKHxphIhCMW.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.1,
+  "vote_count": 13,
+  "imdb_id": "tt0217894",
+  "certifications": [],
+  "status": "Released"
+}

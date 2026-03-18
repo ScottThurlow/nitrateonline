@@ -1,0 +1,128 @@
+{
+  "tmdb_id": 2162,
+  "title": "Chill Factor",
+  "original_title": "Chill Factor",
+  "release_date": "1999-09-01",
+  "runtime": 101,
+  "tagline": "Keeping cool is a matter of life and death.",
+  "overview": "A store clerk and an ice cream truck driver are thrown together when a dying scientist entrusts them with a deadly chemical kept in ice. This chemical will kill every living thing once it melts. They have to take the chemical codenamed 'Elvis' to the next nearest military base while being chased by terrorists who want it to hold the country for ransom.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Morgan Creek Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Hugh Johnson"
+  ],
+  "writers": [
+    {
+      "name": "Drew Gitlin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mike Cheda",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James G. Robinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Bannerman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan A. Zimbert",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Arlo",
+      "order": 0
+    },
+    {
+      "name": "Skeet Ulrich",
+      "character": "Tim Mason",
+      "order": 1
+    },
+    {
+      "name": "Peter Firth",
+      "character": "Col. Andrew Brynner",
+      "order": 2
+    },
+    {
+      "name": "David Paymer",
+      "character": "Dr. Richard Long",
+      "order": 3
+    },
+    {
+      "name": "Hudson Leick",
+      "character": "Vaughn",
+      "order": 4
+    },
+    {
+      "name": "Daniel Hugh Kelly",
+      "character": "Col. Leo Vitelli",
+      "order": 5
+    },
+    {
+      "name": "Kevin J. O'Connor",
+      "character": "Telstar",
+      "order": 6
+    },
+    {
+      "name": "Judson Mills",
+      "character": "Dennis",
+      "order": 7
+    },
+    {
+      "name": "Jordan Mott",
+      "character": "Carl",
+      "order": 8
+    },
+    {
+      "name": "Darcas Macopson",
+      "character": "Burke",
+      "order": 9
+    }
+  ],
+  "poster_path": "/t8Qn1iKnvVOttEqaj6hz9tKGBjD.jpg",
+  "backdrop_path": "/s5kqyWWjuWNNjWEIkPSyqADyjdF.jpg",
+  "budget": 34000000,
+  "revenue": 11263966,
+  "vote_average": 4.885,
+  "vote_count": 144,
+  "imdb_id": "tt0163579",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

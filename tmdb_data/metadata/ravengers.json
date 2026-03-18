@@ -1,0 +1,203 @@
+{
+  "tmdb_id": 9320,
+  "title": "The Avengers",
+  "original_title": "The Avengers",
+  "release_date": "1998-08-13",
+  "runtime": 89,
+  "tagline": "Saving the World in Style.",
+  "overview": "British Ministry agent John Steed, under direction from \"Mother\", investigates a diabolical plot by arch-villain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller",
+    "Science Fiction",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Jerry Weintraub Productions",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jeremiah S. Chechik"
+  ],
+  "writers": [
+    {
+      "name": "Don MacPherson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Susan Ekins",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Weintraub",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ralph Fiennes",
+      "character": "John Steed",
+      "order": 0
+    },
+    {
+      "name": "Uma Thurman",
+      "character": "Emma Peel",
+      "order": 1
+    },
+    {
+      "name": "Sean Connery",
+      "character": "Sir August de Wynter",
+      "order": 2
+    },
+    {
+      "name": "Patrick Macnee",
+      "character": "Invisible Jones (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jim Broadbent",
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "name": "Fiona Shaw",
+      "character": "Father",
+      "order": 5
+    },
+    {
+      "name": "Eddie Izzard",
+      "character": "Bailey",
+      "order": 6
+    },
+    {
+      "name": "Eileen Atkins",
+      "character": "Alice",
+      "order": 7
+    },
+    {
+      "name": "John Wood",
+      "character": "Trubshaw",
+      "order": 8
+    },
+    {
+      "name": "Carmen Ejogo",
+      "character": "Brenda",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1p5thyQ4pCy876HpdvFARqJ62N9.jpg",
+  "backdrop_path": "/nMjfRk5SBNuxT01f5FYO5rJLwnI.jpg",
+  "budget": 60000000,
+  "revenue": 48600000,
+  "vote_average": 4.446,
+  "vote_count": 765,
+  "imdb_id": "tt0118661",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IS",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "G"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

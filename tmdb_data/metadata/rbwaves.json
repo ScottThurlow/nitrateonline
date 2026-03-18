@@ -1,0 +1,207 @@
+{
+  "tmdb_id": 145,
+  "title": "Breaking the Waves",
+  "original_title": "Breaking the Waves",
+  "release_date": "1996-07-05",
+  "runtime": 159,
+  "tagline": "Love is a mighty power.",
+  "overview": "In a small, conservative Scottish village, an oilman is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when he urges her to have sex with another.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Zentropa Entertainments",
+      "country": "DK"
+    },
+    {
+      "name": "Liberator Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Trust Film Svenska",
+      "country": "SE"
+    },
+    {
+      "name": "Argus Film Produktie",
+      "country": "NL"
+    },
+    {
+      "name": "Northern Lights",
+      "country": "NO"
+    },
+    {
+      "name": "SVT Drama",
+      "country": "SE"
+    },
+    {
+      "name": "Nordisk Film & TV Fond",
+      "country": "NO"
+    },
+    {
+      "name": "La Sept Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "VPRO",
+      "country": "NL"
+    },
+    {
+      "name": "Media Investment Club",
+      "country": "DK"
+    }
+  ],
+  "director": [
+    "Lars von Trier"
+  ],
+  "writers": [
+    {
+      "name": "David Pirie",
+      "job": "Co-Writer"
+    },
+    {
+      "name": "Kirsten Bonnén Rask",
+      "job": "Script Consultant"
+    },
+    {
+      "name": "Tómas Gislason",
+      "job": "Script Consultant"
+    },
+    {
+      "name": "Lars von Trier",
+      "job": "Writer"
+    },
+    {
+      "name": "Peter Asmussen",
+      "job": "Co-Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Aalbæk Jensen",
+      "job": "Producer"
+    },
+    {
+      "name": "Vibeke Windeløv",
+      "job": "Producer"
+    },
+    {
+      "name": "Lars Jönsson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emily Watson",
+      "character": "Bess McNeill",
+      "order": 0
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "Jan Nyman",
+      "order": 1
+    },
+    {
+      "name": "Katrin Cartlidge",
+      "character": "Dodo McNeill",
+      "order": 2
+    },
+    {
+      "name": "Jean-Marc Barr",
+      "character": "Terry",
+      "order": 3
+    },
+    {
+      "name": "Adrian Rawlins",
+      "character": "Dr. Richardson",
+      "order": 4
+    },
+    {
+      "name": "Jonathan Hackett",
+      "character": "Priest",
+      "order": 5
+    },
+    {
+      "name": "Sandra Voe",
+      "character": "Mother",
+      "order": 6
+    },
+    {
+      "name": "Udo Kier",
+      "character": "Sadistic Sailor",
+      "order": 7
+    },
+    {
+      "name": "Mikkel Gaup",
+      "character": "Pits",
+      "order": 8
+    },
+    {
+      "name": "Roef Ragas",
+      "character": "Pim",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+  "backdrop_path": "/nY2faCdUVHzuH6FmDI6QsAURE68.jpg",
+  "budget": 7500000,
+  "revenue": 23000000,
+  "vote_average": 7.505,
+  "vote_count": 1099,
+  "imdb_id": "tt0115751",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 15256,
+  "title": "200 Cigarettes",
+  "original_title": "200 Cigarettes",
+  "release_date": "1999-02-26",
+  "runtime": 101,
+  "tagline": "It's 11:59 on New Years Eve... do you know where your date is?",
+  "overview": "In 1981 New York City, a collection of twentysomethings try to cope with relationships, loneliness, desire and their individual neuroses on New Years Eve.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Lakeshore Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Dogstar Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Risa Bramon Garcia"
+  ],
+  "writers": [
+    {
+      "name": "Shana Larsen",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Gale",
+      "job": "Producer"
+    },
+    {
+      "name": "Van Toffler",
+      "job": "Producer"
+    },
+    {
+      "name": "Tom Rosenberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Alan Greenspan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Tannebaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Betsy Beers",
+      "job": "Producer"
+    },
+    {
+      "name": "Sigurjón Sighvatsson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Newell",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "character": "Bartender",
+      "order": 0
+    },
+    {
+      "name": "Casey Affleck",
+      "character": "Tom",
+      "order": 1
+    },
+    {
+      "name": "Dave Chappelle",
+      "character": "Disco Cabbie",
+      "order": 2
+    },
+    {
+      "name": "Guillermo Díaz",
+      "character": "Dave",
+      "order": 3
+    },
+    {
+      "name": "Angela Featherstone",
+      "character": "Caitlyn",
+      "order": 4
+    },
+    {
+      "name": "Janeane Garofalo",
+      "character": "Ellie",
+      "order": 5
+    },
+    {
+      "name": "Gaby Hoffmann",
+      "character": "Stephie",
+      "order": 6
+    },
+    {
+      "name": "Kate Hudson",
+      "character": "Cindy",
+      "order": 7
+    },
+    {
+      "name": "Catherine Kellner",
+      "character": "Hillary",
+      "order": 8
+    },
+    {
+      "name": "Courtney Love",
+      "character": "Lucy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ssbx2Mk5ZCJWpXALuP2AdG0GFIT.jpg",
+  "backdrop_path": "/9mmTUthdFrFfVnE8D9YLY2tvceE.jpg",
+  "budget": 6000000,
+  "revenue": 6852450,
+  "vote_average": 5.793,
+  "vote_count": 176,
+  "imdb_id": "tt0137338",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

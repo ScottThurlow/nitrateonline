@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "4 nominations total",
+  "rated": "R",
+  "released": "16 Mar 2001",
+  "runtime": "101 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Andrzej Bartkowiak",
+  "writer": "Ed Horowitz, Richard D'Ovidio, John Westermann",
+  "actors": "Steven Seagal, DMX, Isaiah Washington",
+  "plot": "Orin Boyd (Seagal) is a Detroit cop who doesn't follow rules. After he saved the Vice President by violating every order he received he is transferred to one of the worst precincts in the city. There he quickly encounters some corrupt cops selling heroin to drug dealers. The problem is, it's very difficult to tell who is the bad guy and who you can trust.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "39",
+  "imdb_rating": "5.6",
+  "imdb_votes": "38,244",
+  "box_office": "$51,758,599",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "35%",
+      "link": "https://www.rottentomatoes.com/search?search=Exit+Wounds"
+    },
+    {
+      "source": "Metacritic",
+      "value": "39/100",
+      "link": "https://www.metacritic.com/search/Exit+Wounds/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0242445/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0242445/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10877"
+  }
+}

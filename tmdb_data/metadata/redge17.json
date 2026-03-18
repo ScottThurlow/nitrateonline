@@ -1,0 +1,231 @@
+{
+  "tmdb_id": 376660,
+  "title": "The Edge of Seventeen",
+  "original_title": "The Edge of Seventeen",
+  "release_date": "2016-11-18",
+  "runtime": 105,
+  "tagline": "You're only young once… is it over yet?",
+  "overview": "Two high school girls are best friends until one dates the other's older brother, who is totally his sister's nemesis.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tang Media Productions",
+      "country": ""
+    },
+    {
+      "name": "Gracie Films",
+      "country": "US"
+    },
+    {
+      "name": "STXfilms",
+      "country": "US"
+    },
+    {
+      "name": "Huayi Brothers Pictures 浙江华谊兄弟影业",
+      "country": "CN"
+    }
+  ],
+  "director": [
+    "Kelly Fremon Craig"
+  ],
+  "writers": [
+    {
+      "name": "Kelly Fremon Craig",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Julie Ansell",
+      "job": "Producer"
+    },
+    {
+      "name": "Oren Aviv",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Pete Corral",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James L. Brooks",
+      "job": "Producer"
+    },
+    {
+      "name": "Wang Zhongjun",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Cathy Schulman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Ye",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Simonds",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Adam Fogelson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brendan Ferguson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Sakai",
+      "job": "Producer"
+    },
+    {
+      "name": "Donald Tang",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wang Zhonglei",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kelly Fremon Craig",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hailee Steinfeld",
+      "character": "Nadine Franklin",
+      "order": 0
+    },
+    {
+      "name": "Woody Harrelson",
+      "character": "Mr. Bruner",
+      "order": 1
+    },
+    {
+      "name": "Haley Lu Richardson",
+      "character": "Krista",
+      "order": 2
+    },
+    {
+      "name": "Blake Jenner",
+      "character": "Darian Franklin",
+      "order": 3
+    },
+    {
+      "name": "Kyra Sedgwick",
+      "character": "Mona Franklin",
+      "order": 4
+    },
+    {
+      "name": "Hayden Szeto",
+      "character": "Erwin Kim",
+      "order": 5
+    },
+    {
+      "name": "Alexander Calvert",
+      "character": "Nick Mossman",
+      "order": 6
+    },
+    {
+      "name": "Eric Keenleyside",
+      "character": "Tom Franklin",
+      "order": 7
+    },
+    {
+      "name": "Nesta Cooper",
+      "character": "Shannon",
+      "order": 8
+    },
+    {
+      "name": "Meredith Monroe",
+      "character": "Greer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iY5UEYuGxHfaYJ3vAUAWwFGMV7V.jpg",
+  "backdrop_path": "/zxQMedIezpcS6Npx8Q5o30WNDhC.jpg",
+  "budget": 9000000,
+  "revenue": 18803648,
+  "vote_average": 7.156,
+  "vote_count": 4214,
+  "imdb_id": "tt1878870",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "t.o.11"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

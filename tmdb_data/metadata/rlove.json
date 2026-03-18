@@ -1,0 +1,214 @@
+{
+  "tmdb_id": 508,
+  "title": "Love Actually",
+  "original_title": "Love Actually",
+  "release_date": "2003-09-07",
+  "runtime": 135,
+  "tagline": "Love actually is all around.",
+  "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Portuguese"
+  ],
+  "production_companies": [
+    {
+      "name": "Working Title Films",
+      "country": "GB"
+    },
+    {
+      "name": "DNA Films",
+      "country": "GB"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Richard Curtis"
+  ],
+  "writers": [
+    {
+      "name": "Richard Curtis",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Emma Freud",
+      "job": "Script Editor"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Tim Bevan",
+      "job": "Producer"
+    },
+    {
+      "name": "Eric Fellner",
+      "job": "Producer"
+    },
+    {
+      "name": "Duncan Kenworthy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Hugh Grant",
+      "character": "The Prime Minister",
+      "order": 0
+    },
+    {
+      "name": "Alan Rickman",
+      "character": "Harry",
+      "order": 1
+    },
+    {
+      "name": "Emma Thompson",
+      "character": "Karen",
+      "order": 2
+    },
+    {
+      "name": "Liam Neeson",
+      "character": "Daniel",
+      "order": 3
+    },
+    {
+      "name": "Martine McCutcheon",
+      "character": "Natalie",
+      "order": 4
+    },
+    {
+      "name": "Colin Firth",
+      "character": "Jamie Bennett",
+      "order": 5
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "Billy Mack",
+      "order": 6
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Sarah",
+      "order": 7
+    },
+    {
+      "name": "Lúcia Moniz",
+      "character": "Aurelia",
+      "order": 8
+    },
+    {
+      "name": "Andrew Lincoln",
+      "character": "Mark",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+  "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+  "budget": 40000000,
+  "revenue": 250779876,
+  "vote_average": 7.095,
+  "vote_count": 7303,
+  "imdb_id": "tt0314331",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "A"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "TW",
+      "rating": "6+"
+    },
+    {
+      "country": "UA",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,193 @@
+{
+  "tmdb_id": 10577,
+  "title": "Dracula 2000",
+  "original_title": "Dracula 2000",
+  "release_date": "2000-12-22",
+  "runtime": 99,
+  "tagline": "The Most Seductive Evil of All Time Has Now Been Unleashed in Ours.",
+  "overview": "When a team of techno-savvy thieves break into a high-security vault, they don't discover priceless works of art... they find a crypt unopened for 100 years.",
+  "genres": [
+    "Thriller",
+    "Horror",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Wes Craven Films",
+      "country": ""
+    },
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Neo Art & Logic",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Patrick Lussier"
+  ],
+  "writers": [
+    {
+      "name": "Joel Soisson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Joel Soisson",
+      "job": "Story"
+    },
+    {
+      "name": "Patrick Lussier",
+      "job": "Story"
+    },
+    {
+      "name": "Bram Stoker",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Wes Craven",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "W.K. Border",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Soisson",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Rona",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marianne Maddalena",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Gerard Butler",
+      "character": "Dracula",
+      "order": 0
+    },
+    {
+      "name": "Christopher Plummer",
+      "character": "Matthew Van Helsing",
+      "order": 1
+    },
+    {
+      "name": "Jonny Lee Miller",
+      "character": "Simon Sheppard",
+      "order": 2
+    },
+    {
+      "name": "Justine Waddell",
+      "character": "Mary Heller",
+      "order": 3
+    },
+    {
+      "name": "Vitamin C",
+      "character": "Lucy Westerman",
+      "order": 4
+    },
+    {
+      "name": "Jennifer Esposito",
+      "character": "Solina",
+      "order": 5
+    },
+    {
+      "name": "Omar Epps",
+      "character": "Marcus",
+      "order": 6
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "character": "Trick",
+      "order": 7
+    },
+    {
+      "name": "Danny Masterson",
+      "character": "Nightshade",
+      "order": 8
+    },
+    {
+      "name": "Lochlyn Munro",
+      "character": "Eddie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jnAfl6GSZbBMigL98RJGbOSk4V1.jpg",
+  "backdrop_path": "/bYaSV1JD9f1FBPrCDTQvFl0wcgb.jpg",
+  "budget": 28000000,
+  "revenue": 47053625,
+  "vote_average": 5.238,
+  "vote_count": 736,
+  "imdb_id": "tt0219653",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

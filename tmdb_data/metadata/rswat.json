@@ -1,0 +1,238 @@
+{
+  "tmdb_id": 9257,
+  "title": "S.W.A.T.",
+  "original_title": "S.W.A.T.",
+  "release_date": "2003-08-08",
+  "runtime": 117,
+  "tagline": "You're either S.W.A.T. or you're not.",
+  "overview": "Hondo Harrelson recruits Jim Street to join an elite unit of the Los Angeles Police Department. Together they seek out more members, including tough Deke Kay and single mom Chris Sanchez. The team's first big assignment is to escort crime boss Alex Montel to prison. It seems routine, but when Montel offers a huge reward to anyone who can break him free, criminals of various stripes step up for the prize.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "Camelot Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Chris Lee Productions",
+      "country": ""
+    },
+    {
+      "name": "Illusion Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Clark Johnson"
+  ],
+  "writers": [
+    {
+      "name": "Robert Hamner",
+      "job": "Characters"
+    },
+    {
+      "name": "David Ayer",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David McKenna",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ron Mita",
+      "job": "Story"
+    },
+    {
+      "name": "Jim McClain",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Todd Black",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Louis D'Esposito",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Dan Halsted",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Shannon Gaulding",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Samuel L. Jackson",
+      "character": "Sgt. Dan 'Hondo' Harrelson",
+      "order": 0
+    },
+    {
+      "name": "Colin Farrell",
+      "character": "Jim Street",
+      "order": 1
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "character": "Chris Sanchez",
+      "order": 2
+    },
+    {
+      "name": "LL Cool J",
+      "character": "Deacon 'Deke' Kaye",
+      "order": 3
+    },
+    {
+      "name": "Josh Charles",
+      "character": "T.J. McCabe",
+      "order": 4
+    },
+    {
+      "name": "Jeremy Renner",
+      "character": "Brian Gamble",
+      "order": 5
+    },
+    {
+      "name": "Brian Van Holt",
+      "character": "Michael Boxer",
+      "order": 6
+    },
+    {
+      "name": "Olivier Martinez",
+      "character": "Alex Montel",
+      "order": 7
+    },
+    {
+      "name": "Domenick Lombardozzi",
+      "character": "GQ",
+      "order": 8
+    },
+    {
+      "name": "Reg E. Cathey",
+      "character": "Lt. Greg Velasquez",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bon63yPVIgUFLP2653Dg9GCOJLJ.jpg",
+  "backdrop_path": "/dfSAFTqNLfB3YAs9Ppy13EUaNYI.jpg",
+  "budget": 80000000,
+  "revenue": 207700000,
+  "vote_average": 6.155,
+  "vote_count": 2662,
+  "imdb_id": "tt0257076",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

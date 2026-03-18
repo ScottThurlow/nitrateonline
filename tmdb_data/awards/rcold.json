@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Won 1 Oscar. 20 wins & 101 nominations total",
+  "rated": "R",
+  "released": "25 Dec 2003",
+  "runtime": "154 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Anthony Minghella",
+  "writer": "Charles Frazier, Anthony Minghella",
+  "actors": "Jude Law, Nicole Kidman, Renée Zellweger",
+  "plot": "This Civil War saga addresses romance, friendship, and the ravages of war - both in the field and on the home front. Captures the horrors of war for both those fighting it, and for those left behind. This is a tale of hope, longing, redemption, second chances, and faith.",
+  "language": "English",
+  "country": "United States, Italy, Romania",
+  "metascore": "73",
+  "imdb_rating": "7.2",
+  "imdb_votes": "163,042",
+  "box_office": "$95,636,509",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Cold+Mountain"
+    },
+    {
+      "source": "Metacritic",
+      "value": "73/100",
+      "link": "https://www.metacritic.com/search/Cold+Mountain/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0159365/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0159365/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2289"
+  }
+}

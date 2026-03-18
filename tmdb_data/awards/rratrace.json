@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "3 nominations total",
+  "rated": "PG-13",
+  "released": "17 Aug 2001",
+  "runtime": "112 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Jerry Zucker",
+  "writer": "Andy Breckman",
+  "actors": "Breckin Meyer, Amy Smart, Whoopi Goldberg",
+  "plot": "Donald P. Sinclair has placed six separate gold coins in different slot machines in his casino. The lucky six who find these coins discover an opportunity of a lifetime: the chance to own $2 million, locked up in a locker in New Mexico. These six contestants must now race each other to be the first to the cash. There are no rules in place and everything that could possibly happen, does. Whilst, behind the scenes, Sinclair's associates are placing their bets.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "6.5",
+  "imdb_votes": "129,879",
+  "box_office": "$56,618,055",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "44%",
+      "link": "https://www.rottentomatoes.com/search?search=Rat+Race"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/Rat+Race/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250687/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250687/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9896"
+  }
+}

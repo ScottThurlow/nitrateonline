@@ -1,0 +1,149 @@
+{
+  "tmdb_id": 20304,
+  "title": "Never Die Alone",
+  "original_title": "Never Die Alone",
+  "release_date": "2004-03-26",
+  "runtime": 88,
+  "tagline": "No King Rules Forever",
+  "overview": "A drug kingpin's rise and tragic fall is witnessed vicariously by a reporter who uses the criminal's diary as the basis for his new book.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "White Orchid Films",
+      "country": ""
+    },
+    {
+      "name": "ContentFilm",
+      "country": "GB"
+    },
+    {
+      "name": "Fearon Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Bloodline Films",
+      "country": ""
+    },
+    {
+      "name": "Visionbox Pictures",
+      "country": ""
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ernest R. Dickerson"
+  ],
+  "writers": [
+    {
+      "name": "Donald Goines",
+      "job": "Novel"
+    },
+    {
+      "name": "James Gibson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Alessandro Camon",
+      "job": "Producer"
+    },
+    {
+      "name": "DMX",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "DMX",
+      "character": "King David",
+      "order": 0
+    },
+    {
+      "name": "David Arquette",
+      "character": "Paul",
+      "order": 1
+    },
+    {
+      "name": "Michael Ealy",
+      "character": "Michael",
+      "order": 2
+    },
+    {
+      "name": "Drew Sidora",
+      "character": "Ella",
+      "order": 3
+    },
+    {
+      "name": "Antwon Tanner",
+      "character": "Blue",
+      "order": 4
+    },
+    {
+      "name": "Luenell",
+      "character": "Jasper",
+      "order": 5
+    },
+    {
+      "name": "Clifton Powell",
+      "character": "Moon",
+      "order": 6
+    },
+    {
+      "name": "Tommy Lister Jr.",
+      "character": "Rockie",
+      "order": 7
+    },
+    {
+      "name": "Aisha Tyler",
+      "character": "Nancy",
+      "order": 8
+    },
+    {
+      "name": "Art Evans",
+      "character": "Mr. Waters",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nLN6zs2ySlekfdXS7mZ6uujTSBi.jpg",
+  "backdrop_path": "/hrM6X1GR5Rvca71gt9WqpFRPzGf.jpg",
+  "budget": 3000000,
+  "revenue": 5923000,
+  "vote_average": 5.5,
+  "vote_count": 130,
+  "imdb_id": "tt0354766",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 wins & 6 nominations total",
+  "rated": "R",
+  "released": "14 Jun 2002",
+  "runtime": "134 min",
+  "genre": "Action, Drama, War",
+  "director": "John Woo",
+  "writer": "John Rice, Joe Batteer",
+  "actors": "Nicolas Cage, Adam Beach, Peter Stormare",
+  "plot": "During World War II when the Americans needed to find a secure method of communicating they devised a code using the Navajo language. So Navajos were recruited to become what they call code talkers. They would be assigned to a unit and would communicate with other units using the code so that even though the enemy could listen they couldn't understand what they were saying. And to insure that the code is protected men are assigned to protect it at all costs. One of these men is Joe Enders, a man who sustained an injury that can make him unfit for duty but he manages to avoid it and is told of his duty and that the man he is suppose to protect is Ben Yahzee. Initially there is tension but the two men learn to get along.",
+  "language": "English, Navajo, Japanese",
+  "country": "United States",
+  "metascore": "51",
+  "imdb_rating": "6.1",
+  "imdb_votes": "76,630",
+  "box_office": "$40,914,068",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "33%",
+      "link": "https://www.rottentomatoes.com/search?search=Windtalkers"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/Windtalkers/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0245562/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0245562/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12100"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "tmdb_id": 382182,
+  "title": "Tosca",
+  "original_title": "Tosca",
+  "release_date": "2012-02-13",
+  "runtime": 140,
+  "tagline": "",
+  "overview": "This production from the historic Teatro Carlo Felice in Genova, Italy, stars the opera worlds power couple, Daniela Dessì and Fabio Armiliato, as lovers Tosca and Cavaradossi. A tragic tale of doomed love interlaced with the age-old themes of jealousy, lust and intrigue, has ensured Tosca its place in the top ten of opera favourites. Probably the best contemporary soprano-tenor combination (a couple in real life, too) Daniela Dessì and Fabio Armiliato are ranged against a worthy opponent in the form of Claudio Sgura as police chief Baron Scarpia.",
+  "genres": [
+    "Music"
+  ],
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "ArtHaus",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Renzo Giacchieri"
+  ],
+  "writers": [
+    {
+      "name": "Giuseppe Giacosa",
+      "job": "Writer"
+    },
+    {
+      "name": "Luigi Illica",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Daniela Dessì",
+      "character": "Floria Tosca",
+      "order": 0
+    },
+    {
+      "name": "Fabio Armiliato",
+      "character": "Mario Cavaradossi",
+      "order": 1
+    },
+    {
+      "name": "Claudio Sgura",
+      "character": "Baron Scarpia",
+      "order": 2
+    },
+    {
+      "name": "Nikolay Bikov",
+      "character": "Angelotti",
+      "order": 3
+    },
+    {
+      "name": "Paolo Maria Orecchia",
+      "character": "Sagrestano",
+      "order": 4
+    },
+    {
+      "name": "Max De Angelis",
+      "character": "Spoletta",
+      "order": 5
+    },
+    {
+      "name": "Marco Boemi",
+      "character": "Conductor",
+      "order": 6
+    }
+  ],
+  "poster_path": "/cejGtNZp4aJrBhTeNClMW8460L2.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt2266522",
+  "certifications": [],
+  "status": "Released"
+}

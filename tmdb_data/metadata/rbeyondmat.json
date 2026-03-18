@@ -1,0 +1,250 @@
+{
+  "tmdb_id": 55931,
+  "title": "The Animatrix",
+  "original_title": "The Animatrix",
+  "release_date": "2003-05-09",
+  "runtime": 102,
+  "tagline": "Free your mind.",
+  "overview": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+  "genres": [
+    "Animation",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Silver Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Square USA",
+      "country": ""
+    },
+    {
+      "name": "STUDIO4℃",
+      "country": "JP"
+    },
+    {
+      "name": "Madhouse",
+      "country": "JP"
+    },
+    {
+      "name": "D N A",
+      "country": "KR"
+    }
+  ],
+  "director": [
+    "Koji Morimoto",
+    "Peter Chung",
+    "Shinichiro Watanabe",
+    "Mahiro Maeda",
+    "Yoshiaki Kawajiri",
+    "Takeshi Koike",
+    "Andrew R. Jones"
+  ],
+  "writers": [
+    {
+      "name": "Shinichiro Watanabe",
+      "job": "Writer"
+    },
+    {
+      "name": "Koji Morimoto",
+      "job": "Writer"
+    },
+    {
+      "name": "Yoshiaki Kawajiri",
+      "job": "Writer"
+    },
+    {
+      "name": "Peter Chung",
+      "job": "Writer"
+    },
+    {
+      "name": "Lana Wachowski",
+      "job": "Story"
+    },
+    {
+      "name": "Lilly Wachowski",
+      "job": "Story"
+    },
+    {
+      "name": "Lilly Wachowski",
+      "job": "Writer"
+    },
+    {
+      "name": "Lana Wachowski",
+      "job": "Writer"
+    },
+    {
+      "name": "Lana Wachowski",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Lilly Wachowski",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eiko Tanaka",
+      "job": "Producer"
+    },
+    {
+      "name": "Joel Silver",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Hiroaki Takeuchi",
+      "job": "Producer"
+    },
+    {
+      "name": "Lana Wachowski",
+      "job": "Producer"
+    },
+    {
+      "name": "Phil Oosterhouse",
+      "job": "Producer"
+    },
+    {
+      "name": "Lilly Wachowski",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Arias",
+      "job": "Producer"
+    },
+    {
+      "name": "Spencer Lamm",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Richards",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "character": "Neo (\"Kid's Story\") (voice)",
+      "order": 0
+    },
+    {
+      "name": "Carrie-Anne Moss",
+      "character": "Trinity (\"Kid's Story\" and \"A Detective Story\") (voice)",
+      "order": 1
+    },
+    {
+      "name": "Clayton Watson",
+      "character": "The Kid (\"Kid's Story\") (voice)",
+      "order": 2
+    },
+    {
+      "name": "Pamela Adlon",
+      "character": "Jue (\"Final Flight of the Osiris\") / Manabu (\"Beyond\") (voice)",
+      "order": 3
+    },
+    {
+      "name": "Melinda Clarke",
+      "character": "Alexa (\"Matriculated\") (voice)",
+      "order": 4
+    },
+    {
+      "name": "John DiMaggio",
+      "character": "Crew Man (\"Final Flight of the Osiris\") / Kaiser (\"Program\") (voice)",
+      "order": 5
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "character": "Thadeus (\"Final Flight of Osiris\") / Cop (\"Kid's Story\") / Agent #2 (\"World Record\")",
+      "order": 6
+    },
+    {
+      "name": "Tom Kenny",
+      "character": "Operator (\"Final Flight of Osiris\")",
+      "order": 7
+    },
+    {
+      "name": "Rick Gomez",
+      "character": "Pilot (\"Final Flight of Osiris\")",
+      "order": 8
+    },
+    {
+      "name": "Tara Strong",
+      "character": "Crew Woman (\"Final Flight of Osiris\") / Nurse (\"World Record\") / Misha (\"Beyond\")",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+  "backdrop_path": "/7a4WHNllmX5ZGR0MfYJDPhV69eM.jpg",
+  "budget": 5000000,
+  "revenue": 68000000,
+  "vote_average": 7.21,
+  "vote_count": 1735,
+  "imdb_id": "tt0328832",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "NR"
+    }
+  ],
+  "status": "Released"
+}

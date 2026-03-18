@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 80243,
+  "title": "Unknown Pleasures",
+  "original_title": "任逍遥",
+  "release_date": "2002-06-06",
+  "runtime": 112,
+  "tagline": "",
+  "overview": "Two disaffected, unemployed Chinese youth drift through life on the streets of their industrial town, their paths crossing with that of a local young singer and dancer working for a liquor company as a spokesmodel.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "T-Mark",
+      "country": "JP"
+    },
+    {
+      "name": "Hu Tong Communications",
+      "country": "HK"
+    },
+    {
+      "name": "Lumen Films",
+      "country": "FR"
+    },
+    {
+      "name": "Office Kitano",
+      "country": "JP"
+    },
+    {
+      "name": "Bitters End",
+      "country": "JP"
+    },
+    {
+      "name": "E-Pictures",
+      "country": "KR"
+    }
+  ],
+  "director": [
+    "Jia Zhangke"
+  ],
+  "writers": [
+    {
+      "name": "Jia Zhangke",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Shôzô Ichiyama",
+      "job": "Producer"
+    },
+    {
+      "name": "Hengameh Panahi",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wang Yu",
+      "job": "Producer"
+    },
+    {
+      "name": "Masayuki Mori",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Li Kit-Ming",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Wei Wei Zhao",
+      "character": "Bin Bin",
+      "order": 0
+    },
+    {
+      "name": "Zhao Tao",
+      "character": "Qiao Qiao",
+      "order": 1
+    },
+    {
+      "name": "Qiong Wu",
+      "character": "Xiao Ji",
+      "order": 2
+    },
+    {
+      "name": "Feng Qing",
+      "character": "Yuan Yuan",
+      "order": 3
+    },
+    {
+      "name": "Wang Hongwei",
+      "character": "Xiao Wu",
+      "order": 4
+    },
+    {
+      "name": "Ru Bai",
+      "character": "Bin Bin's Mother",
+      "order": 5
+    },
+    {
+      "name": "Xi An Liu",
+      "character": "Xiao Ji's Father",
+      "order": 6
+    },
+    {
+      "name": "Shou Lin Xu",
+      "character": "Sister Zhu",
+      "order": 7
+    },
+    {
+      "name": "Dao Xiao",
+      "character": "Mr. Ren",
+      "order": 8
+    },
+    {
+      "name": "Zi Ying",
+      "character": "Concubine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9koydgKSQLs8MjnGilFmjRlhzXA.jpg",
+  "backdrop_path": "/uBuazTEgvWuRY5kYiJhe0gc9sED.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.4,
+  "vote_count": 53,
+  "imdb_id": "tt0318025",
+  "certifications": [
+    {
+      "country": "JP",
+      "rating": "G"
+    }
+  ],
+  "status": "Released"
+}

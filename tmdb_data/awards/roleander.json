@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "3 wins & 7 nominations",
+  "rated": "PG-13",
+  "released": "11 Oct 2002",
+  "runtime": "109 min",
+  "genre": "Drama",
+  "director": "Peter Kosminsky",
+  "writer": "Janet Fitch, Mary Agnes Donoghue",
+  "actors": "Michelle Pfeiffer, Renée Zellweger, Robin Wright",
+  "plot": "Astrid Magnussen (Alison Lohman) is a fifteen-year-old girl, living in California. Her mother, Ingrid (Michelle Pfeiffer), is a beautiful, free-spirited poet and artist who also suffers from a borderline personality disorder (BPD). Their life, though unusual, is satisfying until one day, a man named Barry Kolker (Sir Billy Connolly) (that her mother refers to at first as \"The goat man\") comes into their lives, and Ingrid falls madly in love with him, only to have her heart broken, and her life ruined. For revenge, Ingrid murders Barry with the deadly poison of her favorite flower: the White Oleander. She is sent to prison for life, and Astrid has to go through foster home after foster home. Throughout nearly a decade, she experiences forbidden love, religion, near-death experiences, drugs, starvation, and how it feels to be loved. But throughout these years, she keeps in touch with her mother via letters to prison. And while Ingrid's gift is to give Astrid the power to survive, Astrid's gift is to teach her Mother about love.",
+  "language": "English, Russian",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "7.1",
+  "imdb_votes": "34,623",
+  "box_office": "$16,357,770",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=White+Oleander"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/White+Oleander/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0283139/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0283139/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10994"
+  }
+}

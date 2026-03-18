@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "5 wins & 13 nominations total",
+  "rated": "PG-13",
+  "released": "12 Jan 2001",
+  "runtime": "136 min",
+  "genre": "Drama, Sport",
+  "director": "Gus Van Sant",
+  "writer": "Mike Rich",
+  "actors": "Sean Connery, Rob Brown, F. Murray Abraham",
+  "plot": "Because of scoring exceptionally high on a statewide standardized exam, and being an exceptionally good basketball player, Jamal Wallace is sent to a prestigious prep school in Manhattan. He soon befriends the reclusive writer, William Forrester.",
+  "language": "English, German",
+  "country": "United States, Canada",
+  "metascore": "62",
+  "imdb_rating": "7.3",
+  "imdb_votes": "92,846",
+  "box_office": "$51,804,714",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=Finding+Forrester"
+    },
+    {
+      "source": "Metacritic",
+      "value": "62/100",
+      "link": "https://www.metacritic.com/search/Finding+Forrester/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0181536/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0181536/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/711"
+  }
+}

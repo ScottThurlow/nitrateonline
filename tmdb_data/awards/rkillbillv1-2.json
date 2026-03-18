@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Nominated for 5 BAFTA 30 wins & 103 nominations total",
+  "rated": "R",
+  "released": "10 Oct 2003",
+  "runtime": "111 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino, Uma Thurman",
+  "actors": "Uma Thurman, David Carradine, Daryl Hannah",
+  "plot": "The lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.' Upon realizing she was pregnant with Bill's child, 'The Bride' decided to escape her life as a killer. She fled to Texas, met a young man, who, on the day of their wedding rehearsal was gunned down by an angry and jealous Bill (with the assistance of the Deadly Viper Assassination Squad). Four years later, 'The Bride' wakes from a coma, and discovers her baby is gone. She, then, decides to seek revenge upon the five people who destroyed her life and killed her baby. The saga of Kill Bill Volume I begins.",
+  "language": "English, Japanese, French",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "8.2",
+  "imdb_votes": "1,295,392",
+  "box_office": "$70,099,045",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "85%",
+      "link": "https://www.rottentomatoes.com/search?search=Kill+Bill%3A+Vol.+1"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Kill+Bill%3A+Vol.+1/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0266697/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0266697/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "tmdb_id": 17731,
+  "title": "The Fluffer",
+  "original_title": "The Fluffer",
+  "release_date": "2001-02-11",
+  "runtime": 95,
+  "tagline": "Watch what you wish for.",
+  "overview": "Self-effacing, boyish Sean moves to LA to pursue a career in movies but finds it tougher than he imagined. He stumbles onto porn star Johnny Rebel - a handsome, muscled dream of men and women alike - who awakens Sean’s deep obsession.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fluff and Fold LLC",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Richard Glatzer",
+    "Wash Westmoreland"
+  ],
+  "writers": [
+    {
+      "name": "Wash Westmoreland",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Sylla",
+      "job": "Producer"
+    },
+    {
+      "name": "Victoria Robinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Rose Kuo",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Scott Gurney",
+      "character": "Johnny Rebel",
+      "order": 0
+    },
+    {
+      "name": "Michael Cunio",
+      "character": "Sean McGinnis",
+      "order": 1
+    },
+    {
+      "name": "Roxanne Day",
+      "character": "Babylon",
+      "order": 2
+    },
+    {
+      "name": "Taylor Negron",
+      "character": "Tony Brooks",
+      "order": 3
+    },
+    {
+      "name": "Debbie Harry",
+      "character": "Marcella",
+      "order": 4
+    },
+    {
+      "name": "Penn Badgley",
+      "character": "Young Sean",
+      "order": 5
+    },
+    {
+      "name": "Adina Porter",
+      "character": "Silver",
+      "order": 6
+    },
+    {
+      "name": "Richard Riehle",
+      "character": "Sam Martins",
+      "order": 7
+    },
+    {
+      "name": "Tim Bagley",
+      "character": "Alan Dieser",
+      "order": 8
+    },
+    {
+      "name": "Ruben Madera",
+      "character": "Hector Flores",
+      "order": 9
+    }
+  ],
+  "poster_path": "/h9WPBJnSwb9vhGfOXeH10mXQpO0.jpg",
+  "backdrop_path": "/fXtJPTiyXi57sfirInaerWFXdFn.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.8,
+  "vote_count": 42,
+  "imdb_id": "tt0245115",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

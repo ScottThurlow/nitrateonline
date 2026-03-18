@@ -1,0 +1,220 @@
+{
+  "tmdb_id": 9802,
+  "title": "The Rock",
+  "original_title": "The Rock",
+  "release_date": "1996-06-07",
+  "runtime": 137,
+  "tagline": "Alcatraz. Only one man has ever broken out. Now five million lives depend on two men breaking in.",
+  "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "country": "US"
+    },
+    {
+      "name": "Hollywood Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Buena Vista Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Michael Bay"
+  ],
+  "writers": [
+    {
+      "name": "Douglas S. Cook",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Weisberg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Rosner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jonathan Hensleigh",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean Connery",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Don Simpson",
+      "job": "Producer"
+    },
+    {
+      "name": "William Stuart",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Louis A. Stroller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Connery",
+      "character": "John Patrick Mason",
+      "order": 0
+    },
+    {
+      "name": "Nicolas Cage",
+      "character": "Dr. Stanley Goodspeed",
+      "order": 1
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Brigadier General Francis X. Hummel, USMC",
+      "order": 2
+    },
+    {
+      "name": "John Spencer",
+      "character": "FBI Director James Womack",
+      "order": 3
+    },
+    {
+      "name": "David Morse",
+      "character": "Major Tom Baxter",
+      "order": 4
+    },
+    {
+      "name": "William Forsythe",
+      "character": "Special Agent Ernest Paxton",
+      "order": 5
+    },
+    {
+      "name": "Michael Biehn",
+      "character": "Commander Charles Anderson",
+      "order": 6
+    },
+    {
+      "name": "Vanessa Marcil",
+      "character": "Carla Pestalozzi",
+      "order": 7
+    },
+    {
+      "name": "John C. McGinley",
+      "character": "Marine Captain Hendrix",
+      "order": 8
+    },
+    {
+      "name": "Gregory Sporleder",
+      "character": "Captain Frye",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+  "backdrop_path": "/1SsHEx1sCfVZY6Nj0sMyFTlEDql.jpg",
+  "budget": 75000000,
+  "revenue": 335062621,
+  "vote_average": 7.14,
+  "vote_count": 5102,
+  "imdb_id": "tt0117500",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

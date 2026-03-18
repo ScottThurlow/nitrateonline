@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "01 May 1998",
+  "runtime": "89 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Kevin Hooks",
+  "writer": "William Mickelberry, Dan Vining",
+  "actors": "Patrick Swayze, Randy Travis, Meat Loaf",
+  "plot": "Ex-truck driver Jack Crews (Patrick Swayze) has just been released from prison for vehicular manslaughter after losing control and hitting a stranded motorist. His family is in danger of losing their house, so he takes a job from his boss driving a truck up from Atlanta \"off the books\". Little does he know, the trailer is loaded with illegal artillery, and Red (Meat Loaf) is hell bent on hijacking it. Jack teams up with Earl (Randy Travis) to deliver the load and save his family.",
+  "language": "English",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.5",
+  "imdb_votes": "10,428",
+  "box_office": "$12,951,088",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=Black+Dog"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120610/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120610/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/18316"
+  }
+}

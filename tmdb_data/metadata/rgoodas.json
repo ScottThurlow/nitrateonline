@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 2898,
+  "title": "As Good as It Gets",
+  "original_title": "As Good as It Gets",
+  "release_date": "1997-12-19",
+  "runtime": 139,
+  "tagline": "A comedy from the heart that goes for the throat.",
+  "overview": "A misanthropic author, a single mother and waitress, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Gracie Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "James L. Brooks"
+  ],
+  "writers": [
+    {
+      "name": "Mark Andrus",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James L. Brooks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Andrus",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kristi Zea",
+      "job": "Producer"
+    },
+    {
+      "name": "Laurence Mark",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Sakai",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laura Ziskin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bridget Johnson",
+      "job": "Producer"
+    },
+    {
+      "name": "James L. Brooks",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jack Nicholson",
+      "character": "Melvin Udall",
+      "order": 0
+    },
+    {
+      "name": "Helen Hunt",
+      "character": "Carol Connelly",
+      "order": 1
+    },
+    {
+      "name": "Greg Kinnear",
+      "character": "Simon Bishop",
+      "order": 2
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Frank Sachs",
+      "order": 3
+    },
+    {
+      "name": "Shirley Knight",
+      "character": "Beverly Connelly",
+      "order": 4
+    },
+    {
+      "name": "Jesse James",
+      "character": "Spencer Connelly",
+      "order": 5
+    },
+    {
+      "name": "Yeardley Smith",
+      "character": "Jackie Simpson",
+      "order": 6
+    },
+    {
+      "name": "Lupe Ontiveros",
+      "character": "Nora Manning",
+      "order": 7
+    },
+    {
+      "name": "Skeet Ulrich",
+      "character": "Vincent Lopiano",
+      "order": 8
+    },
+    {
+      "name": "Harold Ramis",
+      "character": "Dr. Bettes",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+  "backdrop_path": "/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+  "budget": 50000000,
+  "revenue": 314178011,
+  "vote_average": 7.403,
+  "vote_count": 4060,
+  "imdb_id": "tt0119822",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

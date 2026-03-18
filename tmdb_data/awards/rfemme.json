@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 4 nominations total",
+  "rated": "R",
+  "released": "06 Nov 2002",
+  "runtime": "114 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Brian De Palma",
+  "writer": "Brian De Palma",
+  "actors": "Rebecca Romijn, Antonio Banderas, Peter Coyote",
+  "plot": "A woman tries to straighten out her life, even as her past as a con-woman comes back to haunt her.",
+  "language": "English, French, Spanish",
+  "country": "France, Switzerland, United States",
+  "metascore": "60",
+  "imdb_rating": "6.2",
+  "imdb_votes": "38,838",
+  "box_office": "$6,630,252",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=Femme+Fatale"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Femme+Fatale/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0280665/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0280665/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9280"
+  }
+}

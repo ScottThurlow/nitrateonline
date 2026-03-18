@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 15813,
+  "title": "Dark Blue World",
+  "original_title": "Tmavomodrý svět",
+  "release_date": "2001-05-17",
+  "runtime": 112,
+  "tagline": "",
+  "overview": "Lt. Franta Slama is a top pilot in the Czech Air Force who is assigned to train a promising young flier, Karel Vojtisek, and they soon become friends. When Nazi Germany invades Czechoslovakia in 1939, they both reject the authority of their new leaders and escape to England where they join other Czech exiles in the RAF. While flying a mission over England, Karel crash lands and happens upon the farmhouse of Susan, a young woman whose husband is in the Navy. Karel soon falls head over heels for Susan but, while they enjoy a brief fling, in time Susan decides she prefers the company of the older and more worldly Franta. As Franta and Karel struggle to maintain their friendship despite their romantic rivalry.",
+  "genres": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "spoken_languages": [
+    "German",
+    "Czech",
+    "Slovak",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Portobello Pictures",
+      "country": "GB"
+    },
+    {
+      "name": "Helkon Media",
+      "country": "DE"
+    },
+    {
+      "name": "Fandango",
+      "country": "IT"
+    },
+    {
+      "name": "Biograf Jan Svěrák",
+      "country": "CZ"
+    },
+    {
+      "name": "Česká televize",
+      "country": "CZ"
+    },
+    {
+      "name": "Phoenix Film Investments",
+      "country": "DK"
+    },
+    {
+      "name": "Tmavomodrý svět",
+      "country": "CZ"
+    }
+  ],
+  "director": [
+    "Jan Svěrák"
+  ],
+  "writers": [
+    {
+      "name": "Zdeněk Svěrák",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Zdeněk Svěrák",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eric Abraham",
+      "job": "Producer"
+    },
+    {
+      "name": "Iva Procházková",
+      "job": "Producer"
+    },
+    {
+      "name": "Jan Svěrák",
+      "job": "Producer"
+    },
+    {
+      "name": "Jaroslav Kučera",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ondřej Vetchý",
+      "character": "František Sláma",
+      "order": 0
+    },
+    {
+      "name": "Kryštof Hádek",
+      "character": "Karel Vojtíšek",
+      "order": 1
+    },
+    {
+      "name": "Tara Fitzgerald",
+      "character": "Susan Whitmore",
+      "order": 2
+    },
+    {
+      "name": "Oldřich Kaiser",
+      "character": "Jan Machatý",
+      "order": 3
+    },
+    {
+      "name": "Linda Rybová",
+      "character": "Hanička Pecharová",
+      "order": 4
+    },
+    {
+      "name": "David Novotný",
+      "character": "Bedřich Mrtvý",
+      "order": 5
+    },
+    {
+      "name": "Charles Dance",
+      "character": "Wing Commander Bentley",
+      "order": 6
+    },
+    {
+      "name": "Jaromír Dulava",
+      "character": "Railwayman Kaňka",
+      "order": 7
+    },
+    {
+      "name": "Lukáš Kantor",
+      "character": "Tamtam",
+      "order": 8
+    },
+    {
+      "name": "Juraj Bernáth",
+      "character": "Jan Gregora",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9vu152xTO89l9UWDcqmE9zVD5xK.jpg",
+  "backdrop_path": "/8DvbkZsU1hjnLz6QUMn6dQHCTV1.jpg",
+  "budget": 5000000,
+  "revenue": 0,
+  "vote_average": 6.85,
+  "vote_count": 90,
+  "imdb_id": "tt0244479",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

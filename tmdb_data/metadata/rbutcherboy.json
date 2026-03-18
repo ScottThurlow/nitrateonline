@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 22797,
+  "title": "The Butcher Boy",
+  "original_title": "The Butcher Boy",
+  "release_date": "1998-02-20",
+  "runtime": 110,
+  "tagline": "This little piggy laughed all the way home!",
+  "overview": "Francie and Joe live the usual playful, fantasy filled childhoods of normal boys. However, with a violent, alcoholic father and a manic depressive, suicidal mother the pressure on Francie to grow up are immense. When Francie's world turns to madness, he tries to counter it with further insanity, with dire consequences.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Irish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Geffen Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Butcher Boy Film Productions",
+      "country": "IE"
+    }
+  ],
+  "director": [
+    "Neil Jordan"
+  ],
+  "writers": [
+    {
+      "name": "Neil Jordan",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pat McCabe",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Pat McCabe",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neil Jordan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stephen Woolley",
+      "job": "Producer"
+    },
+    {
+      "name": "Redmond Morris",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eamonn Owens",
+      "character": "Francie Brady",
+      "order": 0
+    },
+    {
+      "name": "Alan Boyle",
+      "character": "Joe Purcell",
+      "order": 1
+    },
+    {
+      "name": "Fiona Shaw",
+      "character": "Mrs. Nugent",
+      "order": 2
+    },
+    {
+      "name": "Stephen Rea",
+      "character": "Da Brady",
+      "order": 3
+    },
+    {
+      "name": "Ian Hart",
+      "character": "Uncle Arlo",
+      "order": 4
+    },
+    {
+      "name": "Peter Gowen",
+      "character": "Leddy",
+      "order": 5
+    },
+    {
+      "name": "Sean McGinley",
+      "character": "Sergeant",
+      "order": 6
+    },
+    {
+      "name": "Aisling O'Sullivan",
+      "character": "Ma Brady",
+      "order": 7
+    },
+    {
+      "name": "John Kavanagh",
+      "character": "Dr. Boyd",
+      "order": 8
+    },
+    {
+      "name": "Andrew Fullerton",
+      "character": "Phillip Nugent",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9KrClE5Ax6wzCAwgaGRhQI2Eolk.jpg",
+  "backdrop_path": "/bjuH03KlisJ78ssHUzXhruoVulp.jpg",
+  "budget": 0,
+  "revenue": 5000000,
+  "vote_average": 6.831,
+  "vote_count": 121,
+  "imdb_id": "tt0118804",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

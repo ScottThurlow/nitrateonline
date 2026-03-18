@@ -1,0 +1,40 @@
+{
+  "year": "2016",
+  "awards": "8 wins & 29 nominations total",
+  "rated": "R",
+  "released": "18 Nov 2016",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Kelly Fremon Craig",
+  "writer": "Kelly Fremon Craig",
+  "actors": "Hailee Steinfeld, Haley Lu Richardson, Blake Jenner",
+  "plot": "Everyone knows that growing up is hard, and life is no easier for high school junior Nadine (Hailee Steinfeld), who is already at peak awkwardness when her all-star older brother Darian (Blake Jenner) starts dating her best friend Krista (Haley Lu Richardson). All at once, Nadine feels more alone than ever, until the unexpected friendship of a thoughtful boy (Hayden Szeto) gives her a glimmer of hope that things just might not be so terrible after all.",
+  "language": "English",
+  "country": "United States, China",
+  "metascore": "77",
+  "imdb_rating": "7.3",
+  "imdb_votes": "149,555",
+  "box_office": "$14,431,633",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "94%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Edge+of+Seventeen"
+    },
+    {
+      "source": "Metacritic",
+      "value": "77/100",
+      "link": "https://www.metacritic.com/search/The+Edge+of+Seventeen/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt1878870/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt1878870/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/376660"
+  }
+}

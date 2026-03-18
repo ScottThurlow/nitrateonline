@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "4 wins & 8 nominations total",
+  "rated": "R",
+  "released": "11 Apr 2003",
+  "runtime": "89 min",
+  "genre": "Horror",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie",
+  "actors": "Sid Haig, Karen Black, Bill Moseley",
+  "plot": "On the eve of Halloween, on October 1977, four friends--Bill, Jerry, Mary, and Denise--embark on an exciting cross-country road trip to write a guidebook about offbeat roadside attractions in America's less-travelled roads. Before long, the young explorers chance upon Captain Spaulding's Museum of Monsters and Madmen, only to become infatuated with the local legend of a deranged serial-killer doctor, and cross paths with the mysterious hitchhiker, Baby. However, when the unsuspecting group meets Baby's eccentric family after having a flat tyre, an endless night of terror, torture, and murder ensues. Has anyone ever got out alive from the House of Thousand Corpses?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "31",
+  "imdb_rating": "6.0",
+  "imdb_votes": "98,838",
+  "box_office": "$12,634,962",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=House+of+1000+Corpses"
+    },
+    {
+      "source": "Metacritic",
+      "value": "31/100",
+      "link": "https://www.metacritic.com/search/House+of+1000+Corpses/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0251736/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0251736/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2662"
+  }
+}

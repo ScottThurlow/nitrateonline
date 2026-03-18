@@ -1,0 +1,98 @@
+{
+  "tmdb_id": 188608,
+  "title": "The Thin Red Line",
+  "original_title": "The Thin Red Line",
+  "release_date": "1964-05-02",
+  "runtime": 99,
+  "tagline": "It separates the coward from the brave The tough and the tender Sex and Love",
+  "overview": "Set during the Allied invasion of the island of Guadalcanal in the Pacific theater during WWII, this film is based on the novel by James Jones. Keir Dullea is Private Doll, who dreads the invasion and steals a pistol to help him protect himself. Sergeant Welsh (Jack Warden), a caustic, battle-scarred veteran, hates Doll, whom he considers a coward. In battle, Doll kills a Japanese soldier and is filled with remorse, which further angers the sergeant. The next day, an emboldened Doll wipes out an entire enemy machine gun post and begins to feel as sadistic as Welsh. The two must work together to clear away some mines, but as they do, their platoon is surprised by a Japanese raid.",
+  "genres": [
+    "War"
+  ],
+  "spoken_languages": [
+    "Japanese",
+    "English",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Allied Artists",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andrew Marton"
+  ],
+  "writers": [
+    {
+      "name": "James Jones",
+      "job": "Novel"
+    },
+    {
+      "name": "Bernard Gordon",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Keir Dullea",
+      "character": "Pvt. Doll",
+      "order": 0
+    },
+    {
+      "name": "Jack Warden",
+      "character": "First Sgt. Welsh",
+      "order": 1
+    },
+    {
+      "name": "James Philbrook",
+      "character": "Col. Tall",
+      "order": 2
+    },
+    {
+      "name": "Bob Kanter",
+      "character": "Fife",
+      "order": 3
+    },
+    {
+      "name": "Ray Daley",
+      "character": "Capt. Stone",
+      "order": 4
+    },
+    {
+      "name": "Merlyn Yordan",
+      "character": "Judy",
+      "order": 5
+    },
+    {
+      "name": "Kieron Moore",
+      "character": "Lt. Band",
+      "order": 6
+    },
+    {
+      "name": "Jim Gillen",
+      "character": "Capt. Gaff",
+      "order": 7
+    },
+    {
+      "name": "Steve Rowland",
+      "character": "Mazzi",
+      "order": 8
+    },
+    {
+      "name": "Stephen Young",
+      "character": "Stack",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lXsV3ameod1x2LxOtreXqWqB2w3.jpg",
+  "backdrop_path": "/9LpoNN0bGbjJjWdK9kgTYqSDWt5.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.9,
+  "vote_count": 15,
+  "imdb_id": "tt0058648",
+  "certifications": [],
+  "status": "Released"
+}

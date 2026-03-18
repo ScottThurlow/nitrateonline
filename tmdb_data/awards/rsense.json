@@ -1,0 +1,40 @@
+{
+  "year": "1995",
+  "awards": "Won 1 Oscar. 33 wins & 50 nominations total",
+  "rated": "PG",
+  "released": "26 Jan 1996",
+  "runtime": "136 min",
+  "genre": "Drama, Romance",
+  "director": "Ang Lee",
+  "writer": "Jane Austen, Emma Thompson",
+  "actors": "Emma Thompson, Kate Winslet, James Fleet",
+  "plot": "When Mr. Dashwood (Tom Wilkinson) dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and their three daughters Elinor (Dame Emma Thompson), Marianne (Kate Winslet), and Margaret (Emilie François), in straitened circumstances. They are taken in by a kindly cousin, but their lack of fortune affects the marriageability of practical Elinor and romantic Marianne. When Elinor forms an attachment for the wealthy Edward Ferrars (Hugh Grant), his family disapproves and separates them. And though Mrs. Jennings (Elizabeth Spriggs) tries to match the worthy (and rich) Colonel Brandon (Alan Rickman) to her, Marianne finds the dashing and fiery John Willoughby (Greg Wise) more to her taste. Both relationships are sorely tried.",
+  "language": "English, French",
+  "country": "United Kingdom, United States",
+  "metascore": "84",
+  "imdb_rating": "7.7",
+  "imdb_votes": "136,450",
+  "box_office": "$43,436,071",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "97%",
+      "link": "https://www.rottentomatoes.com/search?search=Sense+and+Sensibility"
+    },
+    {
+      "source": "Metacritic",
+      "value": "84/100",
+      "link": "https://www.metacritic.com/search/Sense+and+Sensibility/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0114388/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0114388/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/4584"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "tmdb_id": 9313,
+  "title": "The Man in the Iron Mask",
+  "original_title": "The Man in the Iron Mask",
+  "release_date": "1998-03-12",
+  "runtime": 132,
+  "tagline": "For the honor of a king. And the destiny of a country. All for one.",
+  "overview": "Years have passed since the Three Musketeers, Aramis, Athos and Porthos, have fought together with their friend, D'Artagnan. But with the tyrannical King Louis using his power to wreak havoc in the kingdom while his twin brother, Philippe, remains imprisoned, the Musketeers reunite to abduct Louis and replace him with Philippe.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "United Artists",
+      "country": "US"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "The Ladd Company",
+      "country": "US"
+    },
+    {
+      "name": "UAC",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Randall Wallace"
+  ],
+  "writers": [
+    {
+      "name": "Randall Wallace",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alexandre Dumas",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Paul Hitchcock",
+      "job": "Producer"
+    },
+    {
+      "name": "Randall Wallace",
+      "job": "Producer"
+    },
+    {
+      "name": "René Dupont",
+      "job": "Producer"
+    },
+    {
+      "name": "Alan Ladd Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Russell Smith",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "character": "King Louis XIV / Philippe",
+      "order": 0
+    },
+    {
+      "name": "Gabriel Byrne",
+      "character": "D'Artagnan",
+      "order": 1
+    },
+    {
+      "name": "Jeremy Irons",
+      "character": "Aramis",
+      "order": 2
+    },
+    {
+      "name": "John Malkovich",
+      "character": "Athos",
+      "order": 3
+    },
+    {
+      "name": "Gérard Depardieu",
+      "character": "Porthos",
+      "order": 4
+    },
+    {
+      "name": "Anne Parillaud",
+      "character": "Queen Mother Anne",
+      "order": 5
+    },
+    {
+      "name": "Judith Godrèche",
+      "character": "Christine",
+      "order": 6
+    },
+    {
+      "name": "Edward Atterton",
+      "character": "Lt. Andre",
+      "order": 7
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "character": "Raoul",
+      "order": 8
+    },
+    {
+      "name": "Hugh Laurie",
+      "character": "King's Advisor",
+      "order": 9
+    }
+  ],
+  "poster_path": "/tSLWIX3NzqFPWNMNX7FfeExHCRk.jpg",
+  "backdrop_path": "/uhhtglfXNaTavkKtjer38qHLfVi.jpg",
+  "budget": 35000000,
+  "revenue": 183000000,
+  "vote_average": 6.646,
+  "vote_count": 4082,
+  "imdb_id": "tt0120744",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "PG-13"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

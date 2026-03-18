@@ -1,0 +1,210 @@
+{
+  "tmdb_id": 10330,
+  "title": "Freaky Friday",
+  "original_title": "Freaky Friday",
+  "release_date": "2003-08-05",
+  "runtime": 97,
+  "tagline": "Mondays are manic. Wednesdays are wild. And Fridays are about to get a little freaky.",
+  "overview": "Mother and daughter bicker over everything -- what Anna wears, whom she likes and what she wants to do when she's older. In turn, Anna detests Tess's fiancé. When a magical fortune cookie switches their personalities, they each get a peek at how the other person feels, thinks and lives.",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "Mandarin",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Casual Friday Productions",
+      "country": ""
+    },
+    {
+      "name": "Gunn Films",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mark Waters"
+  ],
+  "writers": [
+    {
+      "name": "Heather Hach",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Leslie Dixon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mary Rodgers",
+      "job": "Book"
+    },
+    {
+      "name": "Mary Rodgers",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Gunn",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Iscovich",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lindsay Lohan",
+      "character": "Anna Coleman",
+      "order": 0
+    },
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Tess Coleman",
+      "order": 1
+    },
+    {
+      "name": "Harold Gould",
+      "character": "Grandpa",
+      "order": 2
+    },
+    {
+      "name": "Chad Michael Murray",
+      "character": "Jake",
+      "order": 3
+    },
+    {
+      "name": "Mark Harmon",
+      "character": "Ryan",
+      "order": 4
+    },
+    {
+      "name": "Stephen Tobolowsky",
+      "character": "Mr. Bates",
+      "order": 5
+    },
+    {
+      "name": "Christina Vidal Mitchell",
+      "character": "Maddie",
+      "order": 6
+    },
+    {
+      "name": "Ryan Malgarini",
+      "character": "Harry Coleman",
+      "order": 7
+    },
+    {
+      "name": "Haley Hudson",
+      "character": "Peg",
+      "order": 8
+    },
+    {
+      "name": "Rosalind Chao",
+      "character": "Pei-Pei",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
+  "backdrop_path": "/aH4MrSu8fwjRiEMGfdRwpsYu2PW.jpg",
+  "budget": 26000000,
+  "revenue": 160846332,
+  "vote_average": 6.575,
+  "vote_count": 4209,
+  "imdb_id": "tt0322330",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "AA"
+    },
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "9"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "PR",
+      "rating": "PG"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    },
+    {
+      "country": "VI",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 10 nominations total",
+  "rated": "PG-13",
+  "released": "27 Apr 2001",
+  "runtime": "116 min",
+  "genre": "Action, Drama, Sport",
+  "director": "Renny Harlin",
+  "writer": "Jan Skrentny, Neal Tabachnick, Sylvester Stallone",
+  "actors": "Sylvester Stallone, Kip Pardue, Til Schweiger",
+  "plot": "Talented rookie race-car driver Jimmy Bly has started losing his focus and begins to slip in the race rankings. It's no wonder, with the immense pressure being shoveled on him by his overly ambitious promoter brother as well as Bly's romance with his arch rival's girlfriend Sophia. With much riding on Bly, car owner Carl Henry brings former racing star Joe Tanto on board to help Bly. To drive Bly back to the top of the rankings, Tanto must first deal with the emotional scars left over from a tragic racing accident which nearly took his life.",
+  "language": "English, German, Spanish",
+  "country": "United States, Canada, Australia",
+  "metascore": "29",
+  "imdb_rating": "4.6",
+  "imdb_votes": "44,996",
+  "box_office": "$32,720,065",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=Driven"
+    },
+    {
+      "source": "Metacritic",
+      "value": "29/100",
+      "link": "https://www.metacritic.com/search/Driven/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0132245/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0132245/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10477"
+  }
+}

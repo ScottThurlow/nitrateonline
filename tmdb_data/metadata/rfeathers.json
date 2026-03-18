@@ -1,0 +1,182 @@
+{
+  "tmdb_id": 9093,
+  "title": "The Four Feathers",
+  "original_title": "The Four Feathers",
+  "release_date": "2002-09-08",
+  "runtime": 132,
+  "tagline": "Freedom. Country. Honor. Passion. To save his best friend, one man must risk everything he loves.",
+  "overview": "A young British officer resigns his post when he learns of his regiment's plan to ship out to the Sudan for the conflict with the Mahdi. His friends and fiancée send him four white feathers as symbols of what they view as his cowardice. To redeem his honor, he disguises himself as an Arab and secretly saves their lives.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Jaffilms Inc.",
+      "country": ""
+    },
+    {
+      "name": "Belhaven Limited",
+      "country": ""
+    },
+    {
+      "name": "Dune Films",
+      "country": "MA"
+    },
+    {
+      "name": "Marty Katz Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Shekhar Kapur"
+  ],
+  "writers": [
+    {
+      "name": "A.E.W. Mason",
+      "job": "Novel"
+    },
+    {
+      "name": "Hossein Amini",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Michael Schiffer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Stanley R. Jaffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Marty Katz",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Jaffe",
+      "job": "Producer"
+    },
+    {
+      "name": "Julie Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Feldsher",
+      "job": "Producer"
+    },
+    {
+      "name": "Allon Reich",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Heath Ledger",
+      "character": "Harry Faversham",
+      "order": 0
+    },
+    {
+      "name": "Wes Bentley",
+      "character": "Jack Durrance",
+      "order": 1
+    },
+    {
+      "name": "Kate Hudson",
+      "character": "Ethne Eustace",
+      "order": 2
+    },
+    {
+      "name": "Djimon Hounsou",
+      "character": "Abou Fatma",
+      "order": 3
+    },
+    {
+      "name": "Alex Jennings",
+      "character": "Colonel Hamilton",
+      "order": 4
+    },
+    {
+      "name": "Michael Sheen",
+      "character": "William Trench",
+      "order": 5
+    },
+    {
+      "name": "Lucy Gordon",
+      "character": "Isabelle",
+      "order": 6
+    },
+    {
+      "name": "James Cosmo",
+      "character": "Col. Sutch",
+      "order": 7
+    },
+    {
+      "name": "Angela Douglas",
+      "character": "Aunt Mary",
+      "order": 8
+    },
+    {
+      "name": "Daniel Caltagirone",
+      "character": "Gustave",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bfmpeRr9LTXzBC2dpC89FE5uavK.jpg",
+  "backdrop_path": "/2IojDzEWedVbre8KZhZPMoP5az4.jpg",
+  "budget": 35000000,
+  "revenue": 29882645,
+  "vote_average": 6.628,
+  "vote_count": 584,
+  "imdb_id": "tt0240510",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

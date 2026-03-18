@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 14195,
+  "title": "Cecil B. Demented",
+  "original_title": "Cecil B. Demented",
+  "release_date": "2000-08-02",
+  "runtime": 88,
+  "tagline": "Demented Forever!",
+  "overview": "A young lunatic director and his devoted cult of cinema terrorists kidnap a Hollywood movie goddess and force her to star in their radical underground movie.",
+  "genres": [
+    "Crime",
+    "Comedy",
+    "Action"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Le Studio Canal+",
+      "country": "FR"
+    },
+    {
+      "name": "Polar Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Waters"
+  ],
+  "writers": [
+    {
+      "name": "John Waters",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Fred Bernstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Anthony DeLorenzo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joseph M. Caracciolo Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Tarlov",
+      "job": "Producer"
+    },
+    {
+      "name": "John Fiedler",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Melanie Griffith",
+      "character": "Honey Whitlock",
+      "order": 0
+    },
+    {
+      "name": "Stephen Dorff",
+      "character": "Cecil B. Demented",
+      "order": 1
+    },
+    {
+      "name": "Alicia Witt",
+      "character": "Cherish",
+      "order": 2
+    },
+    {
+      "name": "Adrian Grenier",
+      "character": "Lyle",
+      "order": 3
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "character": "Raven",
+      "order": 4
+    },
+    {
+      "name": "Lawrence Gilliard Jr.",
+      "character": "Lewis",
+      "order": 5
+    },
+    {
+      "name": "Jack Noseworthy",
+      "character": "Rodney",
+      "order": 6
+    },
+    {
+      "name": "Michael Shannon",
+      "character": "Petie",
+      "order": 7
+    },
+    {
+      "name": "Harry Dodge",
+      "character": "Dinah",
+      "order": 8
+    },
+    {
+      "name": "Eric Barry",
+      "character": "Fidget",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gCXUA9BUOSDmOFVfkVBF4v15Td6.jpg",
+  "backdrop_path": "/cC8Pdc2DMkU7RoHxmGYCQIS8Bm7.jpg",
+  "budget": 10000000,
+  "revenue": 1961544,
+  "vote_average": 6.4,
+  "vote_count": 293,
+  "imdb_id": "tt0173716",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

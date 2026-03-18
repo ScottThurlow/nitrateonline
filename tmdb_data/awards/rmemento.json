@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
+  "rated": "R",
+  "released": "25 May 2001",
+  "runtime": "113 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan, Jonathan Nolan",
+  "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+  "plot": "Memento chronicles two separate stories of Leonard, an ex-insurance investigator who can no longer build new memories, as he attempts to find the murderer of his wife, which is the last thing he remembers. One story line moves forward in time while the other tells the story backwards revealing more each time.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "83",
+  "imdb_rating": "8.4",
+  "imdb_votes": "1,424,930",
+  "box_office": "$25,544,867",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "93%",
+      "link": "https://www.rottentomatoes.com/search?search=Memento"
+    },
+    {
+      "source": "Metacritic",
+      "value": "83/100",
+      "link": "https://www.metacritic.com/search/Memento/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0209144/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0209144/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/77"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 18079,
+  "title": "Nine Queens",
+  "original_title": "Nueve reinas",
+  "release_date": "2000-08-31",
+  "runtime": 114,
+  "tagline": "If you think you've got it figured out... you've been conned.",
+  "overview": "Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps, the \"nine queens\".",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Patagonik",
+      "country": "AR"
+    },
+    {
+      "name": "FX Sound",
+      "country": ""
+    },
+    {
+      "name": "Industrias Audiovisuales Argentinas S.A.",
+      "country": ""
+    },
+    {
+      "name": "J.Z. & Asociados",
+      "country": ""
+    },
+    {
+      "name": "Kodak Argentina S.A.",
+      "country": ""
+    },
+    {
+      "name": "INCAA",
+      "country": "AR"
+    },
+    {
+      "name": "Naya Films SA",
+      "country": "AR"
+    }
+  ],
+  "director": [
+    "Fabián Bielinsky"
+  ],
+  "writers": [
+    {
+      "name": "Fabián Bielinsky",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Pablo E. Bossi",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ricardo Darín",
+      "character": "Marcos",
+      "order": 0
+    },
+    {
+      "name": "Gastón Pauls",
+      "character": "Juan",
+      "order": 1
+    },
+    {
+      "name": "Leticia Brédice",
+      "character": "Valéria",
+      "order": 2
+    },
+    {
+      "name": "Gabo Correa",
+      "character": "Convenience Store Manager",
+      "order": 3
+    },
+    {
+      "name": "Pochi Ducasse",
+      "character": "Aunt",
+      "order": 4
+    },
+    {
+      "name": "Jorge Noya",
+      "character": "Aníbal",
+      "order": 5
+    },
+    {
+      "name": "María Mercedes Villagra",
+      "character": "Convenience Store Employee 2",
+      "order": 6
+    },
+    {
+      "name": "Ignasi Abadal",
+      "character": "Vidal Gandolfo",
+      "order": 7
+    },
+    {
+      "name": "Carlos Lanari",
+      "character": "Man on Cell Phone",
+      "order": 8
+    },
+    {
+      "name": "Tomás Fonzi",
+      "character": "Federico",
+      "order": 9
+    }
+  ],
+  "poster_path": "/u2L4Foderu7SCPci5c3jsUfEJPP.jpg",
+  "backdrop_path": "/e4tZvefBtA6P1T0vAPfeXG4Bj3r.jpg",
+  "budget": 1300000,
+  "revenue": 12413888,
+  "vote_average": 7.757,
+  "vote_count": 801,
+  "imdb_id": "tt0247586",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "PT",
+      "rating": "e 14"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

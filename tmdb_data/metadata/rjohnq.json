@@ -1,0 +1,193 @@
+{
+  "tmdb_id": 8470,
+  "title": "John Q",
+  "original_title": "John Q",
+  "release_date": "2002-02-15",
+  "runtime": 116,
+  "tagline": "Give a father no options and you leave him no choice.",
+  "overview": "John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Evolution Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Burg/Koules Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Nick Cassavetes"
+  ],
+  "writers": [
+    {
+      "name": "James Kearns",
+      "job": "Screenplay"
+    },
+    {
+      "name": "James Kearns",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Burg",
+      "job": "Producer"
+    },
+    {
+      "name": "Oren Koules",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Avram Butch Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Richard Saperstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denzel Washington",
+      "character": "John Quincy Archibald",
+      "order": 0
+    },
+    {
+      "name": "James Woods",
+      "character": "Dr. Raymond Turner",
+      "order": 1
+    },
+    {
+      "name": "Kimberly Elise",
+      "character": "Denise Archibald",
+      "order": 2
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Lt. Frank Grimes",
+      "order": 3
+    },
+    {
+      "name": "Shawn Hatosy",
+      "character": "Mitch Quigley",
+      "order": 4
+    },
+    {
+      "name": "Eddie Griffin",
+      "character": "Lester Matthews",
+      "order": 5
+    },
+    {
+      "name": "Kevin Connolly",
+      "character": "Steve Maguire",
+      "order": 6
+    },
+    {
+      "name": "Ethan Suplee",
+      "character": "Guard Max Conlin",
+      "order": 7
+    },
+    {
+      "name": "Ray Liotta",
+      "character": "Chief Gus Monroe",
+      "order": 8
+    },
+    {
+      "name": "Anne Heche",
+      "character": "Rebecca Payne",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+  "backdrop_path": "/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+  "budget": 36000000,
+  "revenue": 102244770,
+  "vote_average": 7.124,
+  "vote_count": 2567,
+  "imdb_id": "tt0251160",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

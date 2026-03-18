@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 9422,
+  "title": "A Civil Action",
+  "original_title": "A Civil Action",
+  "release_date": "1998-12-25",
+  "runtime": 115,
+  "tagline": "Justice has its price.",
+  "overview": "Jan Schlickmann is a cynical lawyer who goes out to 'get rid of' a case, only to find out it is potentially worth millions. The case becomes his obsession, to the extent that he is willing to give up everything—including his career and his clients' goals—in order to continue the case against all odds.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Wildwood Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Scott Rudin Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Zaillian"
+  ],
+  "writers": [
+    {
+      "name": "Steven Zaillian",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jonathan Harr",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Scott Rudin",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Zaillian",
+      "job": "Producer"
+    },
+    {
+      "name": "Rachel Pfeffer",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Redford",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "John Travolta",
+      "character": "Jan Schlichtmann",
+      "order": 0
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Jerome Facher",
+      "order": 1
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Kevin Conway",
+      "order": 2
+    },
+    {
+      "name": "William H. Macy",
+      "character": "James Gordon",
+      "order": 3
+    },
+    {
+      "name": "Željko Ivanek",
+      "character": "Bill Crowley",
+      "order": 4
+    },
+    {
+      "name": "Bruce Norris",
+      "character": "William Cheeseman",
+      "order": 5
+    },
+    {
+      "name": "John Lithgow",
+      "character": "Judge Walter J. Skinner",
+      "order": 6
+    },
+    {
+      "name": "Kathleen Quinlan",
+      "character": "Anne Anderson",
+      "order": 7
+    },
+    {
+      "name": "Peter Jacobson",
+      "character": "Neil Jacobs",
+      "order": 8
+    },
+    {
+      "name": "Mary Mara",
+      "character": "Kathy Boyer",
+      "order": 9
+    }
+  ],
+  "poster_path": "/2AVF1cjRGOfaB4oteSzxvHiQ3hR.jpg",
+  "backdrop_path": "/vcI8kweLIpGv7jb9NWVunOyZ2O7.jpg",
+  "budget": 70000000,
+  "revenue": 56709981,
+  "vote_average": 6.469,
+  "vote_count": 481,
+  "imdb_id": "tt0120633",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

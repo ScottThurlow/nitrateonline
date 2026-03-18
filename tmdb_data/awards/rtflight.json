@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "2 wins & 1 nomination",
+  "rated": "R",
+  "released": "22 Jan 1999",
+  "runtime": "101 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Paul Greengrass",
+  "writer": "Richard Hawkins",
+  "actors": "Helena Bonham Carter, Kenneth Branagh, Gemma Jones",
+  "plot": "A dreamer who aspires to human flight is assigned public service after one of his attempts off a public building. This leads him to meeting a young woman, who is dying of motor neuron disease. The strong-willed woman admits her wish to be de-flowered before her death. The man, struggling to maintain his relationship with his girlfriend, declines, but offers to help pay for a gigolo to do the deed. The following events play off the inherent comedy and drama of the circumstances.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "48",
+  "imdb_rating": "6.5",
+  "imdb_votes": "2,745",
+  "box_office": "$73,233",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "45%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Theory+of+Flight"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/The+Theory+of+Flight/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120861/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120861/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/76857"
+  }
+}

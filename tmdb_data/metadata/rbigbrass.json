@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 63108,
+  "title": "The Big Brass Ring",
+  "original_title": "The Big Brass Ring",
+  "release_date": "1999-04-20",
+  "runtime": 104,
+  "tagline": "In pursuit of power, the only thing worse than denying the truth - is telling it.",
+  "overview": "Blake Pellarin is on the campaign trail to become president of the United States. While making a stop in St. Louis, a chance encounter brings his past back to haunt him.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [],
+  "director": [
+    "George Hickenlooper"
+  ],
+  "writers": [
+    {
+      "name": "F. X. Feeney",
+      "job": "Screenplay"
+    },
+    {
+      "name": "George Hickenlooper",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Oja Kodar",
+      "job": "Writer"
+    },
+    {
+      "name": "Orson Welles",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Boaz Davidson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Avi Lerner",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Samuel Hadida",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Donald Zuckerman",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Pfeffer",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "William Hurt",
+      "character": "William Blake Pellarin",
+      "order": 0
+    },
+    {
+      "name": "Nigel Hawthorne",
+      "character": "Kim Mennaker",
+      "order": 1
+    },
+    {
+      "name": "Miranda Richardson",
+      "character": "Dinah Pellarin",
+      "order": 2
+    },
+    {
+      "name": "Irène Jacob",
+      "character": "Cela Brandini",
+      "order": 3
+    },
+    {
+      "name": "Ewan Stewart",
+      "character": "Kinzel",
+      "order": 4
+    },
+    {
+      "name": "Gregg Henry",
+      "character": "Billy",
+      "order": 5
+    },
+    {
+      "name": "Ron Livingston",
+      "character": "Sheldon Buckle",
+      "order": 6
+    },
+    {
+      "name": "Jefferson Mays",
+      "character": "Garne Strickland",
+      "order": 7
+    },
+    {
+      "name": "Jim Metzler",
+      "character": "Pacxy Barragan",
+      "order": 8
+    },
+    {
+      "name": "Carmine Giovinazzo",
+      "character": "Young Billy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/bYWX7eCzM08ewfHxSk8MsNTqPRx.jpg",
+  "backdrop_path": "/aZFBiHZTKbdM4eAGQFpJHbVJa5N.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 4.2,
+  "vote_count": 13,
+  "imdb_id": "tt0115675",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

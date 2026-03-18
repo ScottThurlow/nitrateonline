@@ -1,0 +1,271 @@
+{
+  "tmdb_id": 557,
+  "title": "Spider-Man",
+  "original_title": "Spider-Man",
+  "release_date": "2002-05-01",
+  "runtime": 121,
+  "tagline": "Go for the ultimate spin.",
+  "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Marvel Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Laura Ziskin Productions",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Sam Raimi"
+  ],
+  "writers": [
+    {
+      "name": "David Koepp",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steve Montal",
+      "job": "Story Editor"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Comic Book"
+    },
+    {
+      "name": "Steve Ditko",
+      "job": "Comic Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ian Bryce",
+      "job": "Producer"
+    },
+    {
+      "name": "Laura Ziskin",
+      "job": "Producer"
+    },
+    {
+      "name": "Avi Arad",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Stan Lee",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tobey Maguire",
+      "character": "Spider-Man / Peter Parker",
+      "order": 0
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Green Goblin / Norman Osborn",
+      "order": 1
+    },
+    {
+      "name": "Kirsten Dunst",
+      "character": "Mary Jane Watson",
+      "order": 2
+    },
+    {
+      "name": "James Franco",
+      "character": "Harry Osborn",
+      "order": 3
+    },
+    {
+      "name": "Cliff Robertson",
+      "character": "Ben Parker",
+      "order": 4
+    },
+    {
+      "name": "Rosemary Harris",
+      "character": "May Parker",
+      "order": 5
+    },
+    {
+      "name": "J.K. Simmons",
+      "character": "J. Jonah Jameson",
+      "order": 6
+    },
+    {
+      "name": "Joe Manganiello",
+      "character": "Flash Thompson",
+      "order": 7
+    },
+    {
+      "name": "Gerry Becker",
+      "character": "Maximilian Fargas",
+      "order": 8
+    },
+    {
+      "name": "Bill Nunn",
+      "character": "Joseph 'Robbie' Robertson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+  "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+  "budget": 139000000,
+  "revenue": 821708551,
+  "vote_average": 7.323,
+  "vote_count": 20397,
+  "imdb_id": "tt0145487",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HK",
+      "rating": "IIA"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "ID",
+      "rating": "13+"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IL",
+      "rating": "12"
+    },
+    {
+      "country": "IN",
+      "rating": "U"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "MY",
+      "rating": "U"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PR",
+      "rating": "PG"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

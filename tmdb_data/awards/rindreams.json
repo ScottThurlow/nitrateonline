@@ -1,0 +1,35 @@
+{
+  "year": "1999",
+  "awards": "1 win total",
+  "rated": "R",
+  "released": "15 Jan 1999",
+  "runtime": "100 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Neil Jordan",
+  "writer": "Bari Wood, Bruce Robinson, Neil Jordan",
+  "actors": "Annette Bening, Robert Downey Jr., Katie Sagona",
+  "plot": "The housewife Claire Cooper is married to the pilot Paul Cooper and their little daughter Rebecca is their pride and joy. When a stranger kidnaps a girl, Claire dreams about the man but Detective Jack Kay ignores her concerns. But when Rebecca disappears during a school play, Claire learns that her visions were actually premonitions and she is connected to the killer through her dreams. She has a nervous breakdown and tries to commit suicide. Her psychologist Dr. Silverman sends her to a mental institution and soon she finds that her husband will be the next victim of the serial-killer. Further, the serial-killer was interned in the same cell in the hospital where she is. Will Claire be able to save Paul?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.5",
+  "imdb_votes": "14,016",
+  "box_office": "$12,017,369",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "26%",
+      "link": "https://www.rottentomatoes.com/search?search=In+Dreams"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120710/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120710/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/28902"
+  }
+}

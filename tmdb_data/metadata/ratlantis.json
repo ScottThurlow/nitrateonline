@@ -1,0 +1,240 @@
+{
+  "tmdb_id": 10865,
+  "title": "Atlantis: The Lost Empire",
+  "original_title": "Atlantis: The Lost Empire",
+  "release_date": "2001-06-02",
+  "runtime": 95,
+  "tagline": "Unlock the secret to the greatest mystery the world has ever known.",
+  "overview": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Walt Disney Feature Animation",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Trousdale",
+    "Kirk Wise"
+  ],
+  "writers": [
+    {
+      "name": "Tab Murphy",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Bryce Zabel",
+      "job": "Story"
+    },
+    {
+      "name": "Kirk Wise",
+      "job": "Story"
+    },
+    {
+      "name": "Joss Whedon",
+      "job": "Story"
+    },
+    {
+      "name": "Gary Trousdale",
+      "job": "Story"
+    },
+    {
+      "name": "Jackie Zabel",
+      "job": "Story"
+    },
+    {
+      "name": "Tab Murphy",
+      "job": "Story"
+    },
+    {
+      "name": "David Reynolds",
+      "job": "Other"
+    },
+    {
+      "name": "Dean DeBlois",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Plato",
+      "job": "Original Concept"
+    },
+    {
+      "name": "Chris Ure",
+      "job": "Story Artist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Don Hahn",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michael J. Fox",
+      "character": "Milo James Thatch (voice)",
+      "order": 0
+    },
+    {
+      "name": "Cree Summer",
+      "character": "Princess 'Kida' Kidagakash (voice)",
+      "order": 1
+    },
+    {
+      "name": "James Garner",
+      "character": "Commander Lyle Tiberius Rourke (voice)",
+      "order": 2
+    },
+    {
+      "name": "Claudia Christian",
+      "character": "Helga Katrina Sinclair (voice)",
+      "order": 3
+    },
+    {
+      "name": "Corey Burton",
+      "character": "Gaetan 'The Mole' Moliere (voice)",
+      "order": 4
+    },
+    {
+      "name": "Phil Morris",
+      "character": "Dr. Joshua Strongbear Sweet (voice)",
+      "order": 5
+    },
+    {
+      "name": "Jacqueline Obradors",
+      "character": "Audrey Rocio Ramirez (voice)",
+      "order": 6
+    },
+    {
+      "name": "Don Novello",
+      "character": "Vincenzo 'Vinny' Santorini (voice)",
+      "order": 7
+    },
+    {
+      "name": "Jim Varney",
+      "character": "Jebidiah Allardyce 'Cookie' Farnsworth (voice)",
+      "order": 8
+    },
+    {
+      "name": "Florence Stanley",
+      "character": "Wilhelmina Bertha Packard (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg",
+  "backdrop_path": "/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg",
+  "budget": 120000000,
+  "revenue": 186053725,
+  "vote_average": 7.035,
+  "vote_count": 5077,
+  "imdb_id": "tt0230011",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "9"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "APTA"
+    },
+    {
+      "country": "FI",
+      "rating": "S"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "U"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "PL",
+      "rating": "AL"
+    },
+    {
+      "country": "PT",
+      "rating": "M/6"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "0+"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

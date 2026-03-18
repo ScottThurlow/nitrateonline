@@ -1,0 +1,188 @@
+{
+  "tmdb_id": 13572,
+  "title": "Twisted",
+  "original_title": "Twisted",
+  "release_date": "2004-02-27",
+  "runtime": 97,
+  "tagline": "Every murder has a mark.",
+  "overview": "Recently promoted and transferred to the homicide division, Inspector Jessica Shepard feels pressure to prove herself -- and what better way than by solving San Francisco's latest murder? However, as Shepard and her partner, Mike Delmarco, soon discover, the victim shared a romantic connection to her. As more of Shepard's ex-lovers turn up dead, her mind starts to become unstable, and she begins to wonder if she could be the very killer she's trying to track down.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Harlequin Pictures",
+      "country": ""
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Intertainment AG",
+      "country": "DE"
+    },
+    {
+      "name": "Kopelson Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Blackout Productions Inc.",
+      "country": ""
+    },
+    {
+      "name": "Summit Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Philip Kaufman"
+  ],
+  "writers": [
+    {
+      "name": "Sarah Thorp",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry Baeres",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Joel Brown",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Flynn",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robyn Meisinger",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Anne Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Arnold Kopelson",
+      "job": "Producer"
+    },
+    {
+      "name": "Florina Massbaum",
+      "job": "Producer"
+    },
+    {
+      "name": "Linne Radmin",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ashley Judd",
+      "character": "Jessica Shepard",
+      "order": 0
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "character": "John Mills",
+      "order": 1
+    },
+    {
+      "name": "Andy Garcia",
+      "character": "Mike Delmarco",
+      "order": 2
+    },
+    {
+      "name": "David Strathairn",
+      "character": "Dr. Melvin Frank",
+      "order": 3
+    },
+    {
+      "name": "Russell Wong",
+      "character": "Lieutenant Tong",
+      "order": 4
+    },
+    {
+      "name": "Mark Pellegrino",
+      "character": "Jimmy Schmidt",
+      "order": 5
+    },
+    {
+      "name": "Camryn Manheim",
+      "character": "Lisa",
+      "order": 6
+    },
+    {
+      "name": "Titus Welliver",
+      "character": "Dale Becker",
+      "order": 7
+    },
+    {
+      "name": "D.W. Moffett",
+      "character": "Ray Porter",
+      "order": 8
+    },
+    {
+      "name": "Richard T. Jones",
+      "character": "Wilson Jefferson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/nfdfU9tYsEnjlFGoY2HabFMdHLi.jpg",
+  "backdrop_path": "/sFXDOVTlKrfBlRHg8q0ZfdY4q2v.jpg",
+  "budget": 50000000,
+  "revenue": 40954603,
+  "vote_average": 5.578,
+  "vote_count": 592,
+  "imdb_id": "tt0315297",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

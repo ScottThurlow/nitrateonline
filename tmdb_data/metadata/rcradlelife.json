@@ -1,0 +1,241 @@
+{
+  "tmdb_id": 1996,
+  "title": "Lara Croft: Tomb Raider - The Cradle of Life",
+  "original_title": "Lara Croft: Tomb Raider - The Cradle of Life",
+  "release_date": "2003-07-21",
+  "runtime": 117,
+  "tagline": "The lady returns.",
+  "overview": "Off the coast of the volcanic island of Santorini, the intrepid archaeologist Lara Croft makes the unexpected discovery of a pulsating golden orb able to guide its holder to the mythical Pandora's Box. As the legendary artifact contains ancient mysteries of unfathomable power - said to contain one of the deadliest plagues on Earth, Lara is tasked by MI6 to make sure it doesn't fall into the wrong hands. With the aid of former Marine turned mercenary Terry Sheridan, she travels the world in pursuit of the precious item in a race against time; she must beat the unscrupulous Nobel Prize-winning scientist turned bioterrorist, Jonathan Reiss, to it.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Mandarin"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Lawrence Gordon Productions",
+      "country": "US"
+    },
+    {
+      "name": "Eidos Films",
+      "country": "GB"
+    },
+    {
+      "name": "October Pictures",
+      "country": "HK"
+    },
+    {
+      "name": "BBC Film",
+      "country": "GB"
+    },
+    {
+      "name": "Tele München",
+      "country": "DE"
+    },
+    {
+      "name": "TOHO",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Jan de Bont"
+  ],
+  "writers": [
+    {
+      "name": "Dean Georgaris",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven E. de Souza",
+      "job": "Story"
+    },
+    {
+      "name": "James V. Hart",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lloyd Levin",
+      "job": "Producer"
+    },
+    {
+      "name": "Lawrence Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeremy Heath-Smith",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Angelina Jolie",
+      "character": "Lara Croft",
+      "order": 0
+    },
+    {
+      "name": "Gerard Butler",
+      "character": "Terry Sheridan",
+      "order": 1
+    },
+    {
+      "name": "Ciarán Hinds",
+      "character": "Jonathan Reiss",
+      "order": 2
+    },
+    {
+      "name": "Chris Barrie",
+      "character": "Hillary",
+      "order": 3
+    },
+    {
+      "name": "Noah Taylor",
+      "character": "Bryce",
+      "order": 4
+    },
+    {
+      "name": "Djimon Hounsou",
+      "character": "Kosa",
+      "order": 5
+    },
+    {
+      "name": "Til Schweiger",
+      "character": "Sean",
+      "order": 6
+    },
+    {
+      "name": "Simon Yam",
+      "character": "Chen Lo",
+      "order": 7
+    },
+    {
+      "name": "Terence Yin Chi-Wai",
+      "character": "Xien",
+      "order": 8
+    },
+    {
+      "name": "Daniel Caltagirone",
+      "character": "Nicholas Petraki",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ylIEGeAr2ygSClK4FDj9mi2Ah22.jpg",
+  "backdrop_path": "/lyCPWvJJSLgUo62USdnvqOVJfGi.jpg",
+  "budget": 95000000,
+  "revenue": 160099222,
+  "vote_average": 5.761,
+  "vote_count": 4454,
+  "imdb_id": "tt0325703",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "LT",
+      "rating": "V"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,30 @@
+{
+  "year": "2012",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "21 Oct 2014",
+  "runtime": "100 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Eric Wostenberg",
+  "writer": "David Nahmod",
+  "actors": "Travis Van Winkle, John Bregar, Tricia Helfer",
+  "plot": "A couple of college students decide to sign up for pharmaceutical testing of a new allergy drug to make some extra cash for their spring break trip. They quickly discover their two week stay will not be as easy as they first believed and fight to save themselves from the grips of the facility.",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "N/A",
+  "imdb_rating": "5.2",
+  "imdb_votes": "2,513",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.2/10"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt1562567/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt1562567/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/100024"
+  }
+}

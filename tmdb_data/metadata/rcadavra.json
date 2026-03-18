@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 18841,
+  "title": "The Lost Skeleton of Cadavra",
+  "original_title": "The Lost Skeleton of Cadavra",
+  "release_date": "2001-09-12",
+  "runtime": 90,
+  "tagline": "No One Can Stand Its Mental Power!",
+  "overview": "A dedicated scientist, aided by his clueless wife, rolls up his shirt sleeves and tries to save the world from a radioactive monster, curious space aliens, an evil scientist and a crabby skeleton.",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fragmighty",
+      "country": ""
+    },
+    {
+      "name": "Transom Films",
+      "country": ""
+    },
+    {
+      "name": "Valenti Entertainment",
+      "country": ""
+    },
+    {
+      "name": "TriStar Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Larry Blamire"
+  ],
+  "writers": [
+    {
+      "name": "Larry Blamire",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "F. Miguel Valenti",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Fay Masterson",
+      "character": "Betty Armstrong",
+      "order": 0
+    },
+    {
+      "name": "Andrew Parks",
+      "character": "Kro-Bar",
+      "order": 1
+    },
+    {
+      "name": "Susan McConnell",
+      "character": "Lattis",
+      "order": 2
+    },
+    {
+      "name": "Brian Howe",
+      "character": "Dr. Roger Fleming",
+      "order": 3
+    },
+    {
+      "name": "Jennifer Blaire",
+      "character": "Animala",
+      "order": 4
+    },
+    {
+      "name": "Dan Conroy",
+      "character": "Ranger Brad",
+      "order": 5
+    },
+    {
+      "name": "Robert Deveau",
+      "character": "The Farmer",
+      "order": 6
+    },
+    {
+      "name": "Darrin Reed",
+      "character": "The Mutant",
+      "order": 7
+    },
+    {
+      "name": "Larry Blamire",
+      "character": "Dr. Paul Armstrong",
+      "order": 8
+    }
+  ],
+  "poster_path": "/nGUjqu7DotLx6yfakAeqaj8D1FO.jpg",
+  "backdrop_path": "/3oS3h14rd7NjjkNcBydVIzrQuYm.jpg",
+  "budget": 40000,
+  "revenue": 143312,
+  "vote_average": 6.205,
+  "vote_count": 84,
+  "imdb_id": "tt0307109",
+  "certifications": [],
+  "status": "Released"
+}

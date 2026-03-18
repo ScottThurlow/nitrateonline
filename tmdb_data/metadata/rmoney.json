@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 31776,
+  "title": "Where the Money Is",
+  "original_title": "Where the Money Is",
+  "release_date": "2000-04-14",
+  "runtime": 89,
+  "tagline": "Another con. Another sting. Another day.",
+  "overview": "Henry Manning has come up with a new way to break out of prison: fake a stroke and get transferred to a nursing home. It's a perfect plan, except for one thing: the woman assigned to take care of him at the nursing home, Carol Ann McKay, has a plan of her own.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Scott Free Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "IMF Internationale Medien und Film 2 & Produktions",
+      "country": "DE"
+    },
+    {
+      "name": "Gramercy Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Marek Kanievska"
+  ],
+  "writers": [
+    {
+      "name": "E. Max Frye",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Topper Lilien",
+      "job": "Screenplay"
+    },
+    {
+      "name": "E. Max Frye",
+      "job": "Story"
+    },
+    {
+      "name": "Carroll Cartwright",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ridley Scott",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charles Weinstock",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Dorr",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Zarpas",
+      "job": "Producer"
+    },
+    {
+      "name": "Chris Sievernich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tony Scott",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Paul Newman",
+      "character": "Henry",
+      "order": 0
+    },
+    {
+      "name": "Linda Fiorentino",
+      "character": "Carol",
+      "order": 1
+    },
+    {
+      "name": "Dermot Mulroney",
+      "character": "Wayne",
+      "order": 2
+    },
+    {
+      "name": "Susan Barnes",
+      "character": "Mrs. Foster",
+      "order": 3
+    },
+    {
+      "name": "Anne Pitoniak",
+      "character": "Mrs. Tetlow",
+      "order": 4
+    },
+    {
+      "name": "Bruce MacVittie",
+      "character": "Karl",
+      "order": 5
+    },
+    {
+      "name": "Irma St. Paule",
+      "character": "Mrs. Galer",
+      "order": 6
+    },
+    {
+      "name": "Michel Perron",
+      "character": "Guard",
+      "order": 7
+    },
+    {
+      "name": "Dorothy Gordon",
+      "character": "Mrs. Norton",
+      "order": 8
+    },
+    {
+      "name": "Rita Tuckett",
+      "character": "Mrs. Weiler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/s6FODEWgJ9XDwKunGLWEmexguUs.jpg",
+  "backdrop_path": "/9KEMuH2H3eqSvr8bjZikYOUePpt.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.957,
+  "vote_count": 81,
+  "imdb_id": "tt0149367",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

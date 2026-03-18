@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "4 wins & 13 nominations total",
+  "rated": "PG-13",
+  "released": "06 Jun 2003",
+  "runtime": "107 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "John Singleton",
+  "writer": "Gary Scott Thompson, Michael Brandt, Derek Haas",
+  "actors": "Paul Walker, Tyrese Gibson, Cole Hauser",
+  "plot": "EX LAPD cop Brian O'Conner (Paul Walker) teams up with his ex-con friend Roman Pearce (Tyrese Gibson) and works with undercover U.S. Customs Service agent Monica Fuentes (Eva Mendes) to bring Miami-based drug lord Carter Verone (Cole Hauser) down.",
+  "language": "English, Spanish",
+  "country": "United States, Germany",
+  "metascore": "38",
+  "imdb_rating": "5.9",
+  "imdb_votes": "321,217",
+  "box_office": "$127,154,901",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "37%",
+      "link": "https://www.rottentomatoes.com/search?search=2+Fast+2+Furious"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/2+Fast+2+Furious/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0322259/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0322259/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/584"
+  }
+}

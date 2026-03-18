@@ -1,0 +1,116 @@
+{
+  "tmdb_id": 43936,
+  "title": "S21: The Khmer Rouge Killing Machine",
+  "original_title": "S-21, la machine de mort Khmère rouge",
+  "release_date": "2003-05-17",
+  "runtime": 101,
+  "tagline": "",
+  "overview": "Documentary of the S-21 genocide prison in Phnom Penh with interviews of prisoners and guards. On the search for reasons why this could have happened.",
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "spoken_languages": [
+    "French",
+    "Khmer"
+  ],
+  "production_companies": [
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "INA",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Rithy Panh"
+  ],
+  "writers": [
+    {
+      "name": "Rithy Panh",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Liane Willemont",
+      "job": "Producer"
+    },
+    {
+      "name": "Cati Couteau",
+      "job": "Producer"
+    },
+    {
+      "name": "Aline Sasson",
+      "job": "Producer"
+    },
+    {
+      "name": "Dana Hastier",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chum Mey",
+      "character": "Himself (Survivor)",
+      "order": 0
+    },
+    {
+      "name": "Khieu 'Poev' Ches",
+      "character": "Himself (Guard)",
+      "order": 1
+    },
+    {
+      "name": "Yeay Cheu",
+      "character": "Herself - Him Houy's Mother",
+      "order": 2
+    },
+    {
+      "name": "Nhiem Ein",
+      "character": "Himself - Photographer",
+      "order": 3
+    },
+    {
+      "name": "Houy Him",
+      "character": "Himself - Security deputy",
+      "order": 4
+    },
+    {
+      "name": "Ta Him",
+      "character": "Himself - Him Houy's Father",
+      "order": 5
+    },
+    {
+      "name": "Nhieb Ho",
+      "character": "Himself - Guard",
+      "order": 6
+    },
+    {
+      "name": "Prakk Kahn",
+      "character": "Himself - the Torturer",
+      "order": 7
+    },
+    {
+      "name": "Peng Kry",
+      "character": "Himself - Driver",
+      "order": 8
+    },
+    {
+      "name": "Som Meth",
+      "character": "Himself - Guard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/7lkXz41WJjIvoHCnsLtXMqvCeiW.jpg",
+  "backdrop_path": "/sTN649ZUR6AfMvxnTWRCpqMDHyn.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.4,
+  "vote_count": 33,
+  "imdb_id": "tt0368954",
+  "certifications": [],
+  "status": "Released"
+}

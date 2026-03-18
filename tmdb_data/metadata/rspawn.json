@@ -1,0 +1,72 @@
+{
+  "tmdb_id": 1548774,
+  "title": "Todd McFarlane's Spawn 2",
+  "original_title": "Todd McFarlane's Spawn 2",
+  "release_date": "1998-08-25",
+  "runtime": 146,
+  "tagline": "",
+  "overview": "Spawn - having become plagued by nightmares - discovers that his former Special Forces partner, Chapel, was the one who murdered him. Their paths inevitably cross when Chapel attempts to steal military weapons for Jason Wynn.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "spoken_languages": [],
+  "production_companies": [],
+  "director": [
+    "Thomas A. Nelson",
+    "Mike Vosburg",
+    "Jennifer Yuh Nelson"
+  ],
+  "writers": [
+    {
+      "name": "Todd McFarlane",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Keith David",
+      "character": "Spawn",
+      "order": 0
+    },
+    {
+      "name": "Richard Dysart",
+      "character": "Cogliostro",
+      "order": 1
+    },
+    {
+      "name": "Dominique Jennings",
+      "character": "Wanda Blake",
+      "order": 2
+    },
+    {
+      "name": "James Keane",
+      "character": "Sam Burke",
+      "order": 3
+    },
+    {
+      "name": "John Rafter Lee",
+      "character": "Jason Wynn",
+      "order": 4
+    },
+    {
+      "name": "Michael McShane",
+      "character": "Gareb",
+      "order": 5
+    }
+  ],
+  "poster_path": "/mcOAy0G9mfEzvXBQNRnOw30zsqT.jpg",
+  "backdrop_path": "/yHcyqigbdlkeyWnKcerpHfnw6sd.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 8.0,
+  "vote_count": 3,
+  "imdb_id": "tt4641828",
+  "certifications": [],
+  "status": "Released"
+}

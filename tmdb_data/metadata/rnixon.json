@@ -1,0 +1,99 @@
+{
+  "tmdb_id": 45120,
+  "title": "Elvis Meets Nixon",
+  "original_title": "Elvis Meets Nixon",
+  "release_date": "1997-08-12",
+  "runtime": 95,
+  "tagline": "Truth is funnier than fiction!",
+  "overview": "A \"mockumentary\" about Elvis's real-life trip to the White House to become a federal marshal under the DEA",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "TV Movie"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Osiris Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Allan Arkush"
+  ],
+  "writers": [
+    {
+      "name": "Allan Arkush",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Rick Peters",
+      "character": "Elvis Presley",
+      "order": 0
+    },
+    {
+      "name": "Bob Gunton",
+      "character": "Richard M. Nixon",
+      "order": 1
+    },
+    {
+      "name": "Alyson Court",
+      "character": "Priscilla Presley",
+      "order": 2
+    },
+    {
+      "name": "Denny Doherty",
+      "character": "Vernon",
+      "order": 3
+    },
+    {
+      "name": "Jackie Burroughs",
+      "character": "Dodger",
+      "order": 4
+    },
+    {
+      "name": "Curtis Armstrong",
+      "character": "Farley Hall",
+      "order": 5
+    },
+    {
+      "name": "Gabriel Hogan",
+      "character": "Bobby Bishop",
+      "order": 6
+    },
+    {
+      "name": "Robbi Jay Thuet",
+      "character": "Lisa Marie Presley",
+      "order": 7
+    },
+    {
+      "name": "Wayne Ward",
+      "character": "Bodyguard",
+      "order": 8
+    },
+    {
+      "name": "Robyn Stevan",
+      "character": "Karen",
+      "order": 9
+    }
+  ],
+  "poster_path": "/eXiFfze9fHOuxgjf3OP7jbTXZ9E.jpg",
+  "backdrop_path": "/sAv9sSD0e02zgw6UrdpcmucqboJ.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 14,
+  "imdb_id": "tt0122474",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

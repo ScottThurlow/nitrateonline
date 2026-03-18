@@ -1,0 +1,189 @@
+{
+  "tmdb_id": 6415,
+  "title": "Three Kings",
+  "original_title": "Three Kings",
+  "release_date": "1999-09-27",
+  "runtime": 114,
+  "tagline": "It's good to be king.",
+  "overview": "A group of American soldiers stationed in Iraq at the end of the Gulf War find a map they believe will take them to a huge cache of stolen Kuwaiti gold hidden near their base, and they embark on a secret mission that's destined to change everything.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "War"
+  ],
+  "spoken_languages": [
+    "English",
+    "Arabic"
+  ],
+  "production_companies": [
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Atlas Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Village-A.M. Partnership",
+      "country": ""
+    },
+    {
+      "name": "Coast Ridge",
+      "country": ""
+    },
+    {
+      "name": "Junger Witt Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "David O. Russell"
+  ],
+  "writers": [
+    {
+      "name": "David O. Russell",
+      "job": "Screenplay"
+    },
+    {
+      "name": "John Ridley",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Roven",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Junger Witt",
+      "job": "Producer"
+    },
+    {
+      "name": "Edward McDonnell",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "George Clooney",
+      "character": "Archie Gates",
+      "order": 0
+    },
+    {
+      "name": "Mark Wahlberg",
+      "character": "Troy Barlow",
+      "order": 1
+    },
+    {
+      "name": "Ice Cube",
+      "character": "Chief Elgin",
+      "order": 2
+    },
+    {
+      "name": "Spike Jonze",
+      "character": "Conrad Vig",
+      "order": 3
+    },
+    {
+      "name": "Cliff Curtis",
+      "character": "Amir Abdullah",
+      "order": 4
+    },
+    {
+      "name": "Nora Dunn",
+      "character": "Adriana Cruz",
+      "order": 5
+    },
+    {
+      "name": "Jamie Kennedy",
+      "character": "Walter Wogaman",
+      "order": 6
+    },
+    {
+      "name": "Saïd Taghmaoui",
+      "character": "Captain Said",
+      "order": 7
+    },
+    {
+      "name": "Mykelti Williamson",
+      "character": "Colonel Horn",
+      "order": 8
+    },
+    {
+      "name": "Holt McCallany",
+      "character": "Captain Van Meter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+  "backdrop_path": "/gysZn2XnFlDDQROXdBPiku4Aujg.jpg",
+  "budget": 75000000,
+  "revenue": 108000000,
+  "vote_average": 6.641,
+  "vote_count": 2246,
+  "imdb_id": "tt0120188",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

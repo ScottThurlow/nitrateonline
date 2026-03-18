@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 nominations",
+  "rated": "PG-13",
+  "released": "05 May 2000",
+  "runtime": "114 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Hugh Hudson",
+  "writer": "Kuki Gallmann, Paula Milne, Susan Shilliday",
+  "actors": "Kim Basinger, Vincent Perez, Liam Aiken",
+  "plot": "Kuki, a divorced Italian socialite, changes her life after a serious car crash. She accepts a marriage proposal from Paolo Gallmann, a man she doesn't know well, and she moves to Kenya with him and her young son to start a cattle ranch. Challenges beset her, not the least of which is Paulo's love of danger and his leaving for days on end to hunt and fish with pals. She must face fierce storms, roving lions, venomous snakes, and murderous poachers, and she must find accommodation with a neighboring tribe. Her mother entreats her to return home. Can Kuki live her dream, tame Paolo, guide her son safely past the perils and errors of youth, and serve Africa?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "33",
+  "imdb_rating": "5.5",
+  "imdb_votes": "4,973",
+  "box_office": "$6,651,522",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "10%",
+      "link": "https://www.rottentomatoes.com/search?search=I+Dreamed+of+Africa"
+    },
+    {
+      "source": "Metacritic",
+      "value": "33/100",
+      "link": "https://www.metacritic.com/search/I+Dreamed+of+Africa/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0167203/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0167203/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/21311"
+  }
+}

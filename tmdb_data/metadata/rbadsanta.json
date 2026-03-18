@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 10147,
+  "title": "Bad Santa",
+  "original_title": "Bad Santa",
+  "release_date": "2003-11-26",
+  "runtime": 92,
+  "tagline": "He doesn't care if you're naughty or nice.",
+  "overview": "You'd better watch out - Santa Claus Willie T. Soke is coming to town, and he doesn't care if you've been naughty or nice. Wille's favorite holiday tradition is to fill his sacks with loot lifted from shopping malls across the country. But this year his plot gets derailed by a wisecracking store detective, a sexy bartender, and a kid who's convinced Willie is the real Santa Claus.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mike Zoss Productions",
+      "country": "US"
+    },
+    {
+      "name": "Triptych Pictures",
+      "country": "AU"
+    },
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Terry Zwigoff"
+  ],
+  "writers": [
+    {
+      "name": "Glenn Ficarra",
+      "job": "Writer"
+    },
+    {
+      "name": "John Requa",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joel Coen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ethan Coen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Cameron",
+      "job": "Producer"
+    },
+    {
+      "name": "Sarah Aubrey",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Billy Bob Thornton",
+      "character": "Willie",
+      "order": 0
+    },
+    {
+      "name": "Tony Cox",
+      "character": "Marcus",
+      "order": 1
+    },
+    {
+      "name": "Lauren Graham",
+      "character": "Sue",
+      "order": 2
+    },
+    {
+      "name": "Brett Kelly",
+      "character": "The Kid",
+      "order": 3
+    },
+    {
+      "name": "Lauren Tom",
+      "character": "Lois",
+      "order": 4
+    },
+    {
+      "name": "John Ritter",
+      "character": "Bob Chipeska",
+      "order": 5
+    },
+    {
+      "name": "Bernie Mac",
+      "character": "Gin",
+      "order": 6
+    },
+    {
+      "name": "Ajay Naidu",
+      "character": "Hindustani Troublemaker",
+      "order": 7
+    },
+    {
+      "name": "Alex Borstein",
+      "character": "Milwaukee Mom with Photo",
+      "order": 8
+    },
+    {
+      "name": "Lorna Scott",
+      "character": "Milwaukee Mother",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+  "backdrop_path": "/tbmNzJIc7R1MuEweCOThpTzglyx.jpg",
+  "budget": 23000000,
+  "revenue": 76500000,
+  "vote_average": 6.563,
+  "vote_count": 2348,
+  "imdb_id": "tt0307987",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "11"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

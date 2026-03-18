@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 11355,
+  "title": "Never Been Kissed",
+  "original_title": "Never Been Kissed",
+  "release_date": "1999-04-09",
+  "runtime": 107,
+  "tagline": "Some things are worth waiting for.",
+  "overview": "Josie Geller, a baby-faced junior copywriter at the Chicago Sun-Times, must pose as a student at her former high school to research contemporary teenage culture. With the help of her brother, Rob, Josie infiltrates the inner circle of the most popular clique on campus. But she hits a major snag in her investigation -- not to mention her own failed love life -- when she falls for her dreamy English teacher, Sam Coulson.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Bushwood Pictures",
+      "country": ""
+    },
+    {
+      "name": "Flower Films",
+      "country": "US"
+    },
+    {
+      "name": "Never Been Kissed Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Raja Gosnell"
+  ],
+  "writers": [
+    {
+      "name": "Marc Silverstein",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Abby Kohn",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sandy Isaac",
+      "job": "Producer"
+    },
+    {
+      "name": "Nancy Juvonen",
+      "job": "Producer"
+    },
+    {
+      "name": "Drew Barrymore",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Drew Barrymore",
+      "character": "Josie Geller",
+      "order": 0
+    },
+    {
+      "name": "David Arquette",
+      "character": "Rob Geller",
+      "order": 1
+    },
+    {
+      "name": "Molly Shannon",
+      "character": "Anita",
+      "order": 2
+    },
+    {
+      "name": "Michael Vartan",
+      "character": "Sam Coulson",
+      "order": 3
+    },
+    {
+      "name": "Jessica Alba",
+      "character": "Kirsten",
+      "order": 4
+    },
+    {
+      "name": "John C. Reilly",
+      "character": "Gus Strauss",
+      "order": 5
+    },
+    {
+      "name": "James Franco",
+      "character": "Jason",
+      "order": 6
+    },
+    {
+      "name": "Octavia Spencer",
+      "character": "Cynthia",
+      "order": 7
+    },
+    {
+      "name": "Jenny Bicks",
+      "character": "Miss Haskell",
+      "order": 8
+    },
+    {
+      "name": "Garry Marshall",
+      "character": "Rigfort",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6BngDhDNfbBjhVFWDT2yMve32vi.jpg",
+  "backdrop_path": "/vNdulTZXaL11xFs7FWCnxEE7wqR.jpg",
+  "budget": 25000000,
+  "revenue": 84565230,
+  "vote_average": 6.16,
+  "vote_count": 1563,
+  "imdb_id": "tt0151738",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,100 @@
+{
+  "tmdb_id": 10239,
+  "title": "A Tale of Autumn",
+  "original_title": "Conte d'automne",
+  "release_date": "1998-09-07",
+  "runtime": 112,
+  "tagline": "",
+  "overview": "Magali, forty-something, is a winemaker and a widow: she loves her work but feels lonely. Her friends Rosine  and Isabelle both want secretly to find a husband for Magali.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Les Films du Losange",
+      "country": "FR"
+    },
+    {
+      "name": "La Sept Cinéma",
+      "country": "FR"
+    }
+  ],
+  "director": [
+    "Éric Rohmer"
+  ],
+  "writers": [
+    {
+      "name": "Éric Rohmer",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Françoise Etchegaray",
+      "job": "Producer"
+    },
+    {
+      "name": "Margaret Ménégoz",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marie Rivière",
+      "character": "Isabelle",
+      "order": 0
+    },
+    {
+      "name": "Béatrice Romand",
+      "character": "Magali",
+      "order": 1
+    },
+    {
+      "name": "Alain Libolt",
+      "character": "Gérald",
+      "order": 2
+    },
+    {
+      "name": "Didier Sandre",
+      "character": "Étienne",
+      "order": 3
+    },
+    {
+      "name": "Alexia Portal",
+      "character": "Rosine",
+      "order": 4
+    },
+    {
+      "name": "Aurélia Alcaïs",
+      "character": "Émilia",
+      "order": 5
+    },
+    {
+      "name": "Stéphane Darmon",
+      "character": "Léo",
+      "order": 6
+    },
+    {
+      "name": "Matthieu Davette",
+      "character": "Grégoire",
+      "order": 7
+    },
+    {
+      "name": "Yves Alcaïs",
+      "character": "Jean-Jacques",
+      "order": 8
+    }
+  ],
+  "poster_path": "/1DQYFB5DENLWKUYdz5ttaVbDYnk.jpg",
+  "backdrop_path": "/jrbW0IOu7x24qFBSsAakgWOd9c9.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.1,
+  "vote_count": 136,
+  "imdb_id": "tt0137439",
+  "status": "Released"
+}

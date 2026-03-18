@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win",
+  "rated": "R",
+  "released": "15 Dec 2001",
+  "runtime": "93 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Shinsuke Sato",
+  "writer": "Shinsuke Sato, Kei Kunii, Kazuo Koike",
+  "actors": "Yumiko Shaku, Hideaki Itô, Yôichi Numata",
+  "plot": "In the near future, Japan is ruled once more by a monarchy. But, rebels opposed to this rule seek to overthrow the government. The House of Takemikazuchi, a band of assassins is hired by the government to suppress the rebels. As a conspiracy from within signals the shadowy organization's impending demise, Yuki, the last of the Takemikazuchi bloodline befriends one of the rebels and seeks revenge against the group's leader.",
+  "language": "Japanese",
+  "country": "Japan",
+  "metascore": "59",
+  "imdb_rating": "5.6",
+  "imdb_votes": "3,098",
+  "box_office": "$77,567",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "57%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Princess+Blade"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/The+Princess+Blade/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0310149/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0310149/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17180"
+  }
+}

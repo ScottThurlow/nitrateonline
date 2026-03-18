@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Nominated for 1 Oscar. 56 wins & 24 nominations total",
+  "rated": "R",
+  "released": "13 Apr 2001",
+  "runtime": "154 min",
+  "genre": "Drama, Thriller",
+  "director": "Alejandro G. Iñárritu",
+  "writer": "Guillermo Arriaga",
+  "actors": "Emilio Echevarría, Gael García Bernal, Goya Toledo",
+  "plot": "On the brink of the new Millennium in the bustling City of Mexico, one horrible car accident intertwines inextricably the lives of three perfect strangers. Octavio, a rebellious adolescent who is secretly in love with his sister-in-law, dreams of escaping his miserable life, and for this reason, he enters reluctantly the obscure world of dog fighting with his lethal dog Cofi. And then unexpectedly, Valeria, a stunning woman and famous supermodel, will cross paths with Octavio, while in the meantime, her pampered little dog Richie manages to vanish into thin air in the confined space of her apartment. Lastly, Chivo, an ex-guerrilla vagabond, after abandoning his little daughter, unable to make up for lost time, he channels his love to the city's strays and a mortally wounded Rottweiler. In the end, even though all the weary characters, men and beasts, wish for a bright future, in this life-changing journey in the pursuit of love, sometimes infidelity, sin and death can get in the way.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "metascore": "83",
+  "imdb_rating": "8.0",
+  "imdb_votes": "271,447",
+  "box_office": "$5,408,467",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "8.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "93%",
+      "link": "https://www.rottentomatoes.com/search?search=Amores+Perros"
+    },
+    {
+      "source": "Metacritic",
+      "value": "83/100",
+      "link": "https://www.metacritic.com/search/Amores+Perros/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0245712/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0245712/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/55"
+  }
+}

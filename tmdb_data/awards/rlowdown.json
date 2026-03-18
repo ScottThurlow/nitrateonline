@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "2 wins & 5 nominations",
+  "rated": "N/A",
+  "released": "26 Jan 2001",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Jamie Thraves",
+  "writer": "Jamie Thraves",
+  "actors": "Aidan Gillen, Kate Ashfield, Dean Lennox Kelly",
+  "plot": "Relationships as they are really lived.",
+  "language": "English",
+  "country": "United Kingdom",
+  "metascore": "64",
+  "imdb_rating": "5.8",
+  "imdb_votes": "540",
+  "box_office": "$32,395",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Low+Down"
+    },
+    {
+      "source": "Metacritic",
+      "value": "64/100",
+      "link": "https://www.metacritic.com/search/The+Low+Down/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0251191/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0251191/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/153141"
+  }
+}

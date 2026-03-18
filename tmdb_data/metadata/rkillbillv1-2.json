@@ -1,0 +1,297 @@
+{
+  "tmdb_id": 24,
+  "title": "Kill Bill: Vol. 1",
+  "original_title": "Kill Bill: Vol. 1",
+  "release_date": "2003-10-10",
+  "runtime": 111,
+  "tagline": "Here comes the bride.",
+  "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "A Band Apart",
+      "country": "US"
+    },
+    {
+      "name": "Super Cool ManChu",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Quentin Tarantino"
+  ],
+  "writers": [
+    {
+      "name": "Quentin Tarantino",
+      "job": "Writer"
+    },
+    {
+      "name": "Uma Thurman",
+      "job": "Characters"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Bender",
+      "job": "Producer"
+    },
+    {
+      "name": "E. Bennett Walsh",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Erica Steinberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mitsuhisa Ishikawa",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Katsuji Morishita",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Uma Thurman",
+      "character": "The Bride",
+      "order": 0
+    },
+    {
+      "name": "Lucy Liu",
+      "character": "O-Ren Ishii",
+      "order": 1
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Vernita Green",
+      "order": 2
+    },
+    {
+      "name": "Daryl Hannah",
+      "character": "Elle Driver",
+      "order": 3
+    },
+    {
+      "name": "David Carradine",
+      "character": "Bill",
+      "order": 4
+    },
+    {
+      "name": "Michael Madsen",
+      "character": "Budd",
+      "order": 5
+    },
+    {
+      "name": "Julie Dreyfus",
+      "character": "Sofie Fatale",
+      "order": 6
+    },
+    {
+      "name": "Chiaki Kuriyama",
+      "character": "Gogo Yubari",
+      "order": 7
+    },
+    {
+      "name": "Sonny Chiba",
+      "character": "Hattori Hanzo",
+      "order": 8
+    },
+    {
+      "name": "Gordon Liu Chia-Hui",
+      "character": "Johnny Mo",
+      "order": 9
+    }
+  ],
+  "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+  "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+  "budget": 30000000,
+  "revenue": 180906076,
+  "vote_average": 7.971,
+  "vote_count": 18672,
+  "imdb_id": "tt0266697",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+18"
+    },
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "D"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "ID",
+      "rating": "21+"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "LT",
+      "rating": "N-16"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "R21"
+    },
+    {
+      "country": "SK",
+      "rating": "18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

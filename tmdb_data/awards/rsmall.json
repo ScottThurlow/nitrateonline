@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 4 nominations total",
+  "rated": "PG",
+  "released": "19 May 2000",
+  "runtime": "94 min",
+  "genre": "Comedy, Crime",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Woody Allen, Tracey Ullman, Hugh Grant",
+  "plot": "Dishwasher and small-fry criminal Ray hits on a plan with his partners in crime to re-open a local pizza place and dig through to the bank down the street. As his wife can't cook pizza but does great cookies, that's what they sell. While the no-hope tunnellers get lost underground, the cookie operation really takes off and the team find themselves rich business people. But the other local money isn't quite ready to accept them.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "69",
+  "imdb_rating": "6.7",
+  "imdb_votes": "42,254",
+  "box_office": "$17,266,359",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=Small+Time+Crooks"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Small+Time+Crooks/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0196216/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0196216/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10569"
+  }
+}

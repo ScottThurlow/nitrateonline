@@ -1,0 +1,219 @@
+{
+  "tmdb_id": 8427,
+  "title": "I Spy",
+  "original_title": "I Spy",
+  "release_date": "2002-10-31",
+  "runtime": 97,
+  "tagline": "Attitude meets espionage.",
+  "overview": "When the Switchblade, the most sophisticated prototype stealth fighter created yet, is stolen from the U.S. government, one of the United States' top spies, Alex Scott, is called to action. What he doesn't expect is to get teamed up with a cocky civilian, World Class Boxing Champion Kelly Robinson, on a dangerous top secret espionage mission. Their assignment: using equal parts skill and humor, catch Arnold Gundars, one of the world's most successful arms dealers.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hungarian",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Tall Trees Productions",
+      "country": "US"
+    },
+    {
+      "name": "C2 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Sheldon Leonard Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Betty Thomas"
+  ],
+  "writers": [
+    {
+      "name": "David Ronn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Marianne Wibberley",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cormac Wibberley",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cormac Wibberley",
+      "job": "Story"
+    },
+    {
+      "name": "Morton S. Fine",
+      "job": "Characters"
+    },
+    {
+      "name": "Marianne Wibberley",
+      "job": "Story"
+    },
+    {
+      "name": "Jay Scherick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Friedkin",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Betty Thomas",
+      "job": "Producer"
+    },
+    {
+      "name": "Mario Kassar",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Toberoff",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Warren Carr",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew G. Vajna",
+      "job": "Producer"
+    },
+    {
+      "name": "David R. Ginsburg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jenno Topping",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Eddie Murphy",
+      "character": "Kelly Robinson",
+      "order": 0
+    },
+    {
+      "name": "Owen Wilson",
+      "character": "Alexander Scott",
+      "order": 1
+    },
+    {
+      "name": "Famke Janssen",
+      "character": "Rachel",
+      "order": 2
+    },
+    {
+      "name": "Malcolm McDowell",
+      "character": "Gundars",
+      "order": 3
+    },
+    {
+      "name": "Gary Cole",
+      "character": "Carlos",
+      "order": 4
+    },
+    {
+      "name": "Phill Lewis",
+      "character": "Jerry",
+      "order": 5
+    },
+    {
+      "name": "Viv Leacock",
+      "character": "T.J.",
+      "order": 6
+    },
+    {
+      "name": "Keith Dallas",
+      "character": "Lunchbox",
+      "order": 7
+    },
+    {
+      "name": "Tate Taylor",
+      "character": "Lieutenant Percy",
+      "order": 8
+    },
+    {
+      "name": "Lynda Boyd",
+      "character": "Edna",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hmjCMtkeqxruMVocq7iwMx899xi.jpg",
+  "backdrop_path": "/qwGkQpQbDXuHDOq909RQmJPENwN.jpg",
+  "budget": 70000000,
+  "revenue": 51386477,
+  "vote_average": 5.404,
+  "vote_count": 1013,
+  "imdb_id": "tt0297181",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

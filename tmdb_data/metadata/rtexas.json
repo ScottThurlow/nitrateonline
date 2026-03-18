@@ -1,0 +1,270 @@
+{
+  "tmdb_id": 9373,
+  "title": "The Texas Chainsaw Massacre",
+  "original_title": "The Texas Chainsaw Massacre",
+  "release_date": "2003-05-21",
+  "runtime": 98,
+  "tagline": "What you know about fear...doesn't even come close.",
+  "overview": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a chainsaw-wielding killer and his family of equally psychopathic killers.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Next Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Platinum Dunes",
+      "country": "US"
+    },
+    {
+      "name": "Radar Pictures",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Focus Features",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Marcus Nispel"
+  ],
+  "writers": [
+    {
+      "name": "Tobe Hooper",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Kim Henkel",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Scott Kosar",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tobe Hooper",
+      "job": "Characters"
+    },
+    {
+      "name": "Kim Henkel",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Brad Fuller",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ted Field",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Fleiss",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Bay",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Form",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeffrey Allard",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jessica Biel",
+      "character": "Erin Hardesty",
+      "order": 0
+    },
+    {
+      "name": "Jonathan Tucker",
+      "character": "Morgan",
+      "order": 1
+    },
+    {
+      "name": "Andrew Bryniarski",
+      "character": "Thomas Hewitt (Leatherface)",
+      "order": 2
+    },
+    {
+      "name": "Erica Leerhsen",
+      "character": "Pepper",
+      "order": 3
+    },
+    {
+      "name": "Eric Balfour",
+      "character": "Kemper",
+      "order": 4
+    },
+    {
+      "name": "Mike Vogel",
+      "character": "Andy",
+      "order": 5
+    },
+    {
+      "name": "R. Lee Ermey",
+      "character": "Sheriff Hoyt",
+      "order": 6
+    },
+    {
+      "name": "David Dorfman",
+      "character": "Jedidiah",
+      "order": 7
+    },
+    {
+      "name": "Lauren German",
+      "character": "The Hitchhiker",
+      "order": 8
+    },
+    {
+      "name": "Heather Kafka",
+      "character": "Henrietta",
+      "order": 9
+    }
+  ],
+  "poster_path": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+  "backdrop_path": "/joj4ONoHmLGDoNGYph8ZPISphZ.jpg",
+  "budget": 9500000,
+  "revenue": 107385515,
+  "vote_average": 6.302,
+  "vote_count": 2851,
+  "imdb_id": "tt0324216",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AT",
+      "rating": "18"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R-15"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "LT",
+      "rating": "N-16"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

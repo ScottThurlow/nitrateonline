@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 6282,
+  "title": "Coyote Ugly",
+  "original_title": "Coyote Ugly",
+  "release_date": "2000-07-30",
+  "runtime": 100,
+  "tagline": "Tonight, they're calling the shots.",
+  "overview": "Graced with a velvet voice, 21-year-old Violet Sanford heads to New York to pursue her dream of becoming a songwriter only to find her aspirations sidelined by the accolades and notoriety she receives at her \"day\" job as a barmaid at Coyote Ugly. The \"Coyotes\" as they are affectionately called tantalize customers and the media alike with their outrageous antics, making Coyote Ugly the watering hole for guys on the prowl.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jerry Bruckheimer Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "David McNally"
+  ],
+  "writers": [
+    {
+      "name": "Gina Wendkos",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chad Oman",
+      "job": "Producer"
+    },
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Scott Gardenhour",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Piper Perabo",
+      "character": "Violet Sanford (Jersey)",
+      "order": 0
+    },
+    {
+      "name": "Maria Bello",
+      "character": "Lil",
+      "order": 1
+    },
+    {
+      "name": "Bridget Moynahan",
+      "character": "Rachel",
+      "order": 2
+    },
+    {
+      "name": "Tyra Banks",
+      "character": "Zoe",
+      "order": 3
+    },
+    {
+      "name": "Izabella Miko",
+      "character": "Cammie",
+      "order": 4
+    },
+    {
+      "name": "John Goodman",
+      "character": "Bill",
+      "order": 5
+    },
+    {
+      "name": "LeAnn Rimes",
+      "character": "LeAnn Rimes",
+      "order": 6
+    },
+    {
+      "name": "Adam Garcia",
+      "character": "Kevin O'Donnell",
+      "order": 7
+    },
+    {
+      "name": "Sarah Jane Morris",
+      "character": "Girl at the Surprise Party",
+      "order": 8
+    },
+    {
+      "name": "Melanie Lynskey",
+      "character": "Gloria",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg",
+  "backdrop_path": "/f2MzXz3vjuNtSPn17ugFa6oTUmc.jpg",
+  "budget": 45000000,
+  "revenue": 113900000,
+  "vote_average": 6.264,
+  "vote_count": 2246,
+  "imdb_id": "tt0200550",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

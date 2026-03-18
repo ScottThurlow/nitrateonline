@@ -1,0 +1,222 @@
+{
+  "tmdb_id": 6466,
+  "title": "Freddy vs. Jason",
+  "original_title": "Freddy vs. Jason",
+  "release_date": "2003-08-15",
+  "runtime": 97,
+  "tagline": "Even a killer has something to fear.",
+  "overview": "Freddy Krueger and Jason Voorhees return to terrorize the teenagers of Elm Street. Only this time, they're out to get each other, too.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Yannix Technology Corporation",
+      "country": "US"
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Avery Pix",
+      "country": "US"
+    },
+    {
+      "name": "Crystal Lake Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "WTC Productions",
+      "country": "US"
+    },
+    {
+      "name": "Sean S. Cunningham Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ronny Yu"
+  ],
+  "writers": [
+    {
+      "name": "Damian Shannon",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Swift",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Wes Craven",
+      "job": "Characters"
+    },
+    {
+      "name": "Victor Miller",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean S. Cunningham",
+      "job": "Producer"
+    },
+    {
+      "name": "Stokely Chaffin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Renee Witt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Douglas Curtis",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Shaye",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jesse Hutch",
+      "character": "Trey Cooper",
+      "order": 0
+    },
+    {
+      "name": "Robert Englund",
+      "character": "Freddy Krueger",
+      "order": 1
+    },
+    {
+      "name": "Ken Kirzinger",
+      "character": "Jason Voorhees",
+      "order": 2
+    },
+    {
+      "name": "Monica Keena",
+      "character": "Lori Campbell",
+      "order": 3
+    },
+    {
+      "name": "Jason Ritter",
+      "character": "Will Rollins",
+      "order": 4
+    },
+    {
+      "name": "Lochlyn Munro",
+      "character": "Deputy Scott Stubbs",
+      "order": 5
+    },
+    {
+      "name": "Kelly Rowland",
+      "character": "Kia Waterson",
+      "order": 6
+    },
+    {
+      "name": "David Kopp",
+      "character": "Blake",
+      "order": 7
+    },
+    {
+      "name": "Katharine Isabelle",
+      "character": "Gibb",
+      "order": 8
+    },
+    {
+      "name": "Christopher Rodriguez Marquette",
+      "character": "Charlie Linderman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/f9ZASRUfl8Jlco7rgRx3ujPR0P7.jpg",
+  "backdrop_path": "/hCAOQTMRop2fHjsl8n7yNwpkMJn.jpg",
+  "budget": 30000000,
+  "revenue": 116643421,
+  "vote_average": 6.079,
+  "vote_count": 2783,
+  "imdb_id": "tt0329101",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "16"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

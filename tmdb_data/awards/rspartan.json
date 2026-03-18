@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "12 Mar 2004",
+  "runtime": "106 min",
+  "genre": "Action, Crime, Drama",
+  "director": "David Mamet",
+  "writer": "David Mamet",
+  "actors": "Val Kilmer, Derek Luke, William H. Macy",
+  "plot": "In the US-government's special ops, Scott is a shooter, not a planner, doing the job without regard to quaint or obsolete convention. When a Harvard undergrad goes missing (the daughter of a US leader), it's Scott who applies the pressure, first to her boyfriend, then to a madam whose cathouse is the initial stop en route to a white slavery auction in Dubai. The abductors may not know the girl's identity, but once they figure it out, she's doomed. Deadly double crosses force Scott to become a planner. Through it all, earnest TV newscasters read the drivel they're handed.",
+  "language": "English, Russian, Swedish",
+  "country": "Germany, United States",
+  "metascore": "60",
+  "imdb_rating": "6.5",
+  "imdb_votes": "33,333",
+  "box_office": "$4,434,432",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=Spartan"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Spartan/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0360009/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0360009/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11169"
+  }
+}

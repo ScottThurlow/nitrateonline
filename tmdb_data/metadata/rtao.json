@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 20438,
+  "title": "The Tao of Steve",
+  "original_title": "The Tao of Steve",
+  "release_date": "2000-08-04",
+  "runtime": 87,
+  "tagline": "Why do women find this man irresistible?",
+  "overview": "In college, Dex was the big man on campus. Ten years later, now an overweight kindergarten teacher, Dex is immune to the shocked stares of the women who were once his conquests. While trying to pick up the bartender, he is struck by the gorgeous Syd. Through a series of circumstances, Syd and Dex are thrown together and he soon finds himself questioning his belief in all things Steve.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Thunderhead Productions",
+      "country": ""
+    },
+    {
+      "name": "Good Machine",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jenniphr Goodman"
+  ],
+  "writers": [
+    {
+      "name": "Greer Goodman",
+      "job": "Writer"
+    },
+    {
+      "name": "Duncan North",
+      "job": "Idea"
+    },
+    {
+      "name": "Jenniphr Goodman",
+      "job": "Writer"
+    },
+    {
+      "name": "Duncan North",
+      "job": "Writer"
+    },
+    {
+      "name": "Duncan North",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anthony Bregman",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Hope",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Donal Logue",
+      "character": "Dex",
+      "order": 0
+    },
+    {
+      "name": "Ayelet Kaznelson",
+      "character": "Beth",
+      "order": 1
+    },
+    {
+      "name": "John Hines",
+      "character": "Ed",
+      "order": 2
+    },
+    {
+      "name": "John Harrington Bland",
+      "character": "Priest",
+      "order": 3
+    },
+    {
+      "name": "Jessica Gormley",
+      "character": "Gossipy Woman",
+      "order": 4
+    },
+    {
+      "name": "Mercedes Herrero",
+      "character": "Gossipy Woman",
+      "order": 5
+    },
+    {
+      "name": "Cheryl Anne Jaroslaw",
+      "character": "Gossipy Woman",
+      "order": 6
+    },
+    {
+      "name": "Nina Jaroslaw",
+      "character": "Maggie",
+      "order": 7
+    },
+    {
+      "name": "David Aaron Baker",
+      "character": "Rick",
+      "order": 8
+    },
+    {
+      "name": "Dana Goodman",
+      "character": "Julie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/u9z4Qg0KGomhBUerbUzQXeO1ODs.jpg",
+  "backdrop_path": "/Ogf7ovonWJCY1MBXew2YGm7Z2Y.jpg",
+  "budget": 0,
+  "revenue": 4406030,
+  "vote_average": 6.053,
+  "vote_count": 85,
+  "imdb_id": "tt0234853",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

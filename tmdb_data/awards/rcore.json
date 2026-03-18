@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "28 Mar 2003",
+  "runtime": "135 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Jon Amiel",
+  "writer": "Cooper Layne, John Rogers",
+  "actors": "Aaron Eckhart, Hilary Swank, Delroy Lindo",
+  "plot": "The Earth's core has stopped spinning. Disasters are happening around the globe, including; animals acting in bizarre ways, monstrous thunderstorms. Dr. Josh Keyes and his crew of 5 go down to the centre to set off a nuclear device, hoping to make the core start spinning again, or humanity will cease.",
+  "language": "English",
+  "country": "United Kingdom, France, Italy, United States",
+  "metascore": "48",
+  "imdb_rating": "5.5",
+  "imdb_votes": "114,588",
+  "box_office": "$31,186,896",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "39%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Core"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/The+Core/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0298814/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0298814/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9341"
+  }
+}

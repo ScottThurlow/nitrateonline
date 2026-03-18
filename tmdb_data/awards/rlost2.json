@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "Won 1 Oscar. 98 wins & 133 nominations total",
+  "rated": "R",
+  "released": "03 Oct 2003",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama",
+  "director": "Sofia Coppola",
+  "writer": "Sofia Coppola",
+  "actors": "Bill Murray, Scarlett Johansson, Giovanni Ribisi",
+  "plot": "Middle-aged American movie star Bob Harris is in Tokyo to film a personal endorsement Suntory whiskey ad solely for the Japanese market. He is past his movie star prime, but his name and image still have enough cachet for him to have gotten this lucrative $2 million job. He has an unsatisfying home life where his wife Lydia follows him wherever he goes - in the form of messages and faxes - for him to deal with the minutiae of their everyday lives, while she stays at home to look after their kids. Staying at the same upscale hotel is fellow American, twenty-something recent Yale Philosophy graduate Charlotte, her husband John, an entertainment still photographer, who is on assignment in Japan. As such, she is largely left to her own devices in the city, especially when his job takes him out of Tokyo. Both Bob and Charlotte are feeling lost by their current situations, which are not helped by the cultural barriers they feel in Tokyo, those cultural barriers extending far beyond just not knowing the language. After a few chance encounters in the hotel, they end up spending much of their time hanging out together, each helping the other deal with their feelings of loss in their current lives. The friendship that develops between the two, which is not always a bumpy-free one, may be just for this specific place and time, but it may also have long lasting implications.",
+  "language": "English, Japanese, German, French",
+  "country": "United States, Japan",
+  "metascore": "91",
+  "imdb_rating": "7.7",
+  "imdb_votes": "525,233",
+  "box_office": "$44,585,453",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=Lost+in+Translation"
+    },
+    {
+      "source": "Metacritic",
+      "value": "91/100",
+      "link": "https://www.metacritic.com/search/Lost+in+Translation/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0335266/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0335266/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/153"
+  }
+}

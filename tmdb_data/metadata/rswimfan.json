@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 20616,
+  "title": "Swimfan",
+  "original_title": "Swimfan",
+  "release_date": "2002-09-06",
+  "runtime": 84,
+  "tagline": "His biggest fan just became his worst nightmare.",
+  "overview": "Ben Cronin has it all: the admiration of his many friends, a terrific girlfriend, and he's on the fast-track to an athletic scholarship. Ben's rock-solid, promising future and romance are turned upside-down with the arrival of Madison Bell. Madison, the new girl in town, quickly sets her sights on the impressionable Ben. While their first few meetings are innocent enough, the obsessive and seductive Madison wants more ... much more.",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Romance",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Forrest Films",
+      "country": "US"
+    },
+    {
+      "name": "GreeneStreet Films",
+      "country": "US"
+    },
+    {
+      "name": "Cobalt Media Group",
+      "country": "GB"
+    },
+    {
+      "name": "Furthur Films",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Polson"
+  ],
+  "writers": [
+    {
+      "name": "Charles F. Bohl",
+      "job": "Writer"
+    },
+    {
+      "name": "Phillip Schneider",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joseph M. Caracciolo Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "Fisher Stevens",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Allison Lyon Segan",
+      "job": "Producer"
+    },
+    {
+      "name": "John Penotti",
+      "job": "Producer"
+    },
+    {
+      "name": "Tim Williams",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jesse Bradford",
+      "character": "Ben Cronin",
+      "order": 0
+    },
+    {
+      "name": "Erika Christensen",
+      "character": "Madison Bell",
+      "order": 1
+    },
+    {
+      "name": "Shiri Appleby",
+      "character": "Amy Miller",
+      "order": 2
+    },
+    {
+      "name": "Kate Burton",
+      "character": "Carla Cronin",
+      "order": 3
+    },
+    {
+      "name": "Jason Ritter",
+      "character": "Randy",
+      "order": 4
+    },
+    {
+      "name": "Peter Hermann",
+      "character": "ER Doctor",
+      "order": 5
+    },
+    {
+      "name": "Dan Hedaya",
+      "character": "Coach Simkins",
+      "order": 6
+    },
+    {
+      "name": "Nick Sandow",
+      "character": "Detective John Zabel",
+      "order": 7
+    },
+    {
+      "name": "Clayne Crawford",
+      "character": "Josh",
+      "order": 8
+    },
+    {
+      "name": "Phyllis Somerville",
+      "character": "Aunt Gretchen Christopher",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sHSRRxzBeUtxMosSqpCcBiGnPYI.jpg",
+  "backdrop_path": "/asYdN1eS7zvkEJVIQaYqQcqssj6.jpg",
+  "budget": 8500000,
+  "revenue": 34411240,
+  "vote_average": 5.214,
+  "vote_count": 285,
+  "imdb_id": "tt0283026",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

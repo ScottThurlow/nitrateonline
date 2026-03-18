@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 1921,
+  "title": "Sweet November",
+  "original_title": "Sweet November",
+  "release_date": "2001-02-16",
+  "runtime": 119,
+  "tagline": "She Just Needed A Month To Change His Life Forever.",
+  "overview": "Nelson is a man devoted to his advertising career in San Francisco. One day, while taking a driving test at the DMV, he meets Sara. She is very different from the other women in his life. Nelson causes her to miss out on taking the test and later that day she tracks him down. One thing leads to another and Nelson ends up living with her through a November that will change his life forever.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_companies": [
+    {
+      "name": "Bel Air Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "3 Arts Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Pat O'Connor"
+  ],
+  "writers": [
+    {
+      "name": "Herman Raucher",
+      "job": "Original Film Writer"
+    },
+    {
+      "name": "Kurt Voelker",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul Yurick",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Elliott Kastner",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Reuther",
+      "job": "Producer"
+    },
+    {
+      "name": "Deborah Stoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Erwin Stoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Wendy Wanderman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "character": "Nelson Moss",
+      "order": 0
+    },
+    {
+      "name": "Charlize Theron",
+      "character": "Sara Deever",
+      "order": 1
+    },
+    {
+      "name": "Jason Isaacs",
+      "character": "Chaz Watley",
+      "order": 2
+    },
+    {
+      "name": "Greg Germann",
+      "character": "Vince Holland",
+      "order": 3
+    },
+    {
+      "name": "Lauren Graham",
+      "character": "Angelica",
+      "order": 4
+    },
+    {
+      "name": "Michael Rosenbaum",
+      "character": "Brandon / Brandy",
+      "order": 5
+    },
+    {
+      "name": "Frank Langella",
+      "character": "Edgar Price",
+      "order": 6
+    },
+    {
+      "name": "Robert Joy",
+      "character": "Raeford Dunne",
+      "order": 7
+    },
+    {
+      "name": "Liam Aiken",
+      "character": "Abner",
+      "order": 8
+    },
+    {
+      "name": "Jason Kravits",
+      "character": "Manny",
+      "order": 9
+    }
+  ],
+  "poster_path": "/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+  "backdrop_path": "/6KfQTuw4X3LQN11sDA18eYy9HJY.jpg",
+  "budget": 40000000,
+  "revenue": 65754228,
+  "vote_average": 6.867,
+  "vote_count": 1415,
+  "imdb_id": "tt0230838",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

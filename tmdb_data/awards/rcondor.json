@@ -1,0 +1,35 @@
+{
+  "year": "1991",
+  "awards": "1 nomination total",
+  "rated": "PG-13",
+  "released": "18 Jul 1997",
+  "runtime": "80 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Jackie Chan",
+  "writer": "Jackie Chan, Edward Tang",
+  "actors": "Jackie Chan, Do Do Cheng, Eva Cobo",
+  "plot": "Agent Jackie is hired to find World War II Nazi gold hidden in the Sahara desert. He teams up with three bungling women (the three stooges?) who are all connected in some way. However, a team of mercenries have ideas on the ownership of the gold. A battle and chase ensues as to who gets there first. Lots of choregraphed Kung Fu and quirky Chan humor.",
+  "language": "Cantonese",
+  "country": "Hong Kong",
+  "metascore": "N/A",
+  "imdb_rating": "7.2",
+  "imdb_votes": "24,346",
+  "box_office": "$10,405,394",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=Armour+of+God+2%3A+Operation+Condor"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0099558/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0099558/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10975"
+  }
+}

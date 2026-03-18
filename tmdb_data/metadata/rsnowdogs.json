@@ -1,0 +1,176 @@
+{
+  "tmdb_id": 11888,
+  "title": "Snow Dogs",
+  "original_title": "Snow Dogs",
+  "release_date": "2002-01-18",
+  "runtime": 99,
+  "tagline": "Get ready for mush hour!",
+  "overview": "When a Miami dentist inherits a team of sled dogs, he's got to learn the trade or lose his pack to a crusty mountain man.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    },
+    {
+      "name": "The Kerner Entertainment Company",
+      "country": "US"
+    },
+    {
+      "name": "Galapagos Productions",
+      "country": ""
+    },
+    {
+      "name": "Winterdance Productions Ltd.",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Brian Levant"
+  ],
+  "writers": [
+    {
+      "name": "Michael Goldberg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Gibson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Kouf",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tommy Swerdlow",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Philip Halprin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Gary Paulsen",
+      "job": "Author"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jordan Kerner",
+      "job": "Producer"
+    },
+    {
+      "name": "Casey Grant",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Christine Whitaker",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Ted Brooks",
+      "order": 0
+    },
+    {
+      "name": "James Coburn",
+      "character": "Thunder Jack",
+      "order": 1
+    },
+    {
+      "name": "Sisqó",
+      "character": "Dr. Rupert Brooks",
+      "order": 2
+    },
+    {
+      "name": "Nichelle Nichols",
+      "character": "Amelia",
+      "order": 3
+    },
+    {
+      "name": "M. Emmet Walsh",
+      "character": "George",
+      "order": 4
+    },
+    {
+      "name": "Graham Greene",
+      "character": "Peter Yellowbear",
+      "order": 5
+    },
+    {
+      "name": "Brian Doyle-Murray",
+      "character": "Ernie",
+      "order": 6
+    },
+    {
+      "name": "Joanna Bacalso",
+      "character": "Barb",
+      "order": 7
+    },
+    {
+      "name": "Jean Michel Paré",
+      "character": "Olivier",
+      "order": 8
+    },
+    {
+      "name": "Michael Bolton",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8DDC6z1XyLSiNLzKw1pXcYeAOJ3.jpg",
+  "backdrop_path": "/gfwMVCtYjn4VjAQyIZ5bOj6KSu0.jpg",
+  "budget": 35000000,
+  "revenue": 81000000,
+  "vote_average": 5.625,
+  "vote_count": 771,
+  "imdb_id": "tt0281373",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "G"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

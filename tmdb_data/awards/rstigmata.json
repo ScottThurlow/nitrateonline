@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "6 nominations total",
+  "rated": "R",
+  "released": "10 Sep 1999",
+  "runtime": "103 min",
+  "genre": "Horror, Mystery",
+  "director": "Rupert Wainwright",
+  "writer": "Tom Lazarus, Rick Ramage",
+  "actors": "Patricia Arquette, Gabriel Byrne, Jonathan Pryce",
+  "plot": "A priest from the Vatican is sent to Sao Paulo, Brazil to investigate the appearance of the face of the Virgin Mary on the side of a building. While there he hears of a statue of the Virgin Mary bleeding tears in a small town outside of the city. Meanwhile, a young woman in the U.S. begins to show signs of stigmata, the wounds of Christ. The priest from the Vatican links up with her and cares for her as she is increasingly afflicted by the stigmata. Her ranting and raving finally begins to make sense to the priest who starts to question what his religion has stood for for the last 1900 years.",
+  "language": "English, Assyrian Neo-Aramaic, Portuguese, Italian, Aramaic",
+  "country": "United States, Mexico",
+  "metascore": "28",
+  "imdb_rating": "6.2",
+  "imdb_votes": "75,471",
+  "box_office": "$50,046,268",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "22%",
+      "link": "https://www.rottentomatoes.com/search?search=Stigmata"
+    },
+    {
+      "source": "Metacritic",
+      "value": "28/100",
+      "link": "https://www.metacritic.com/search/Stigmata/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0145531/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0145531/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10307"
+  }
+}

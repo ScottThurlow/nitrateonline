@@ -1,0 +1,118 @@
+{
+  "tmdb_id": 496835,
+  "title": "Drifting Clouds",
+  "original_title": "浮浪雲",
+  "release_date": "1982-04-24",
+  "runtime": 91,
+  "tagline": "",
+  "overview": "Retired samurai Kumosuke lives quietly, not to say idly, in Edo (old Tokyo) with his wife and two children, a young boy named Shinnosuke and an infant girl, Ohana. While he nominally runs a courier business to earn a living, he seems to spend most of his time smoking his pipe, drinking sake, and chasing women. The arrival of a Shinsengumi squad led by a young swordswman, Ichimonji Hyougo, disrupts this peaceful routine, forcing Kumosuke to defend himself.",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Toei Company",
+      "country": "JP"
+    },
+    {
+      "name": "Toei Animation",
+      "country": "JP"
+    },
+    {
+      "name": "Madhouse",
+      "country": "JP"
+    }
+  ],
+  "director": [
+    "Mori Masaki"
+  ],
+  "writers": [
+    {
+      "name": "George Akiyama",
+      "job": "Comic Book"
+    },
+    {
+      "name": "Atsushi Yamatoya",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Yoshiaki Kawajiri",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Chiaki Imada",
+      "job": "Producer"
+    },
+    {
+      "name": "Chiaki Imada",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Shingo Yamashiro",
+      "character": "Kumo (voice)",
+      "order": 0
+    },
+    {
+      "name": "Chiyoko Kawashima",
+      "character": "Okiyo (voice)",
+      "order": 1
+    },
+    {
+      "name": "Fuyumi Shiraishi",
+      "character": "O-Hana (voice)",
+      "order": 2
+    },
+    {
+      "name": "Joji Yanami",
+      "character": "Shibusawa Sensei (voice)",
+      "order": 3
+    },
+    {
+      "name": "Kazuhiko Kishino",
+      "character": "Roku (voice)",
+      "order": 4
+    },
+    {
+      "name": "Mami Kumagai",
+      "character": "O-Kame (voice)",
+      "order": 5
+    },
+    {
+      "name": "Masashi Amenomori",
+      "character": "Yokujiro (voice)",
+      "order": 6
+    },
+    {
+      "name": "Noriko Tsukase",
+      "character": "Ango (voice)",
+      "order": 7
+    },
+    {
+      "name": "Yasuo Tanaka",
+      "character": "Sadahachi (voice)",
+      "order": 8
+    },
+    {
+      "name": "Yoshitaka Kase",
+      "character": "Shinnosuke (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lir7GcKLAb3Dnl8VDTHkCSeOdcG.jpg",
+  "backdrop_path": "/kF3cVp72EK7OO4iW1bcGthLEdq0.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.6,
+  "vote_count": 5,
+  "imdb_id": "tt4126876",
+  "certifications": [],
+  "status": "Released"
+}

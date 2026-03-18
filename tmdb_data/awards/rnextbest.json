@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 wins & 10 nominations total",
+  "rated": "PG-13",
+  "released": "03 Mar 2000",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Schlesinger",
+  "writer": "Tom Ropelewski",
+  "actors": "Madonna, Rupert Everett, Benjamin Bratt",
+  "plot": "A comedy-drama about best friends - one a straight woman, Abbie, the other a gay man, Robert - who decide to have a child together. Five years later, Abbie falls in love with a straight man and wants to move away with her and Robert's little boy Sam, and a nasty custody battle ensues.",
+  "language": "English, French",
+  "country": "United States",
+  "metascore": "25",
+  "imdb_rating": "4.7",
+  "imdb_votes": "12,029",
+  "box_office": "$14,990,582",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "19%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Next+Best+Thing"
+    },
+    {
+      "source": "Metacritic",
+      "value": "25/100",
+      "link": "https://www.metacritic.com/search/The+Next+Best+Thing/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0156841/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0156841/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1831"
+  }
+}

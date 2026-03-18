@@ -1,0 +1,251 @@
+{
+  "tmdb_id": 9378,
+  "title": "Thir13en Ghosts",
+  "original_title": "Thir13en Ghosts",
+  "release_date": "2001-10-26",
+  "runtime": 91,
+  "tagline": "Misery loves company.",
+  "overview": "Arthur and his two children inherit his uncle's estate: a glass house that serves as a prison to twelve ghosts. When the family, accompanied by a nanny and an attorney, enter the house they find themselves trapped inside an evil machine 'designed by the Devil and powered by the dead' to open the Eye of Hell. Aided by a ghost hunter and his rival, a ghost rights activist out to set the ghosts free, the group must do what they can to get out of the house alive.",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Dark Castle Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steve Beck"
+  ],
+  "writers": [
+    {
+      "name": "Richard D'Ovidio",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Neal Marshall Stevens",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Todd Alcott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Robb White",
+      "job": "Story"
+    },
+    {
+      "name": "Ling Yang",
+      "job": "Storyboard"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gilbert Adler",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Cracchiolo",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Richards",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Joel Silver",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Zemeckis",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tony Shalhoub",
+      "character": "Arthur",
+      "order": 0
+    },
+    {
+      "name": "Embeth Davidtz",
+      "character": "Kalina",
+      "order": 1
+    },
+    {
+      "name": "Matthew Lillard",
+      "character": "Rafkin",
+      "order": 2
+    },
+    {
+      "name": "Shannon Elizabeth",
+      "character": "Kathy",
+      "order": 3
+    },
+    {
+      "name": "Alec Roberts",
+      "character": "Bobby",
+      "order": 4
+    },
+    {
+      "name": "JR Bourne",
+      "character": "Ben Moss",
+      "order": 5
+    },
+    {
+      "name": "Rah Digga",
+      "character": "Maggie",
+      "order": 6
+    },
+    {
+      "name": "F. Murray Abraham",
+      "character": "Cyrus",
+      "order": 7
+    },
+    {
+      "name": "Matthew Harrison",
+      "character": "Damon",
+      "order": 8
+    },
+    {
+      "name": "Jacob Rupp",
+      "character": "Cyrus Assistant",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6yrrddjIjx0ElCRZp5pTZeqrj3k.jpg",
+  "backdrop_path": "/mUffUjlJ007XAzdogdZqhaqSp4O.jpg",
+  "budget": 42000000,
+  "revenue": 68467960,
+  "vote_average": 6.284,
+  "vote_count": 2322,
+  "imdb_id": "tt0245674",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

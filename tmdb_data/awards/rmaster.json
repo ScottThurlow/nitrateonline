@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 6 nominations total",
+  "rated": "PG",
+  "released": "02 Aug 2002",
+  "runtime": "80 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Perry Andelin Blake",
+  "writer": "Dana Carvey, Harris Goldberg",
+  "actors": "Dana Carvey, Jennifer Esposito, Harold Gould",
+  "plot": "A sweet-natured Italian waiter named Pistachio Disguisey at his father Fabbrizio's restaurant, who happens to be a member of a family with supernatural skills of disguise. But moments later the patriarch of the Disguisey family is kidnapped Fabbrizio's former arch-enemy, Devlin Bowman, a criminal mastermind in an attempt to steal the world's most precious treasures from around the world. And it's up to Pistachio to track down Bowman and save his family before Bowman kills them!",
+  "language": "English",
+  "country": "United States",
+  "metascore": "12",
+  "imdb_rating": "3.3",
+  "imdb_votes": "28,576",
+  "box_office": "$40,388,794",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "1%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Master+of+Disguise"
+    },
+    {
+      "source": "Metacritic",
+      "value": "12/100",
+      "link": "https://www.metacritic.com/search/The+Master+of+Disguise/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295427/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295427/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13908"
+  }
+}

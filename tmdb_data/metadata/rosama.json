@@ -1,0 +1,137 @@
+{
+  "tmdb_id": 14757,
+  "title": "Osama",
+  "original_title": "Osama",
+  "release_date": "2004-03-24",
+  "runtime": 83,
+  "tagline": "To save her family a girl must become a boy",
+  "overview": "After the rise of the Taliban in Afghanistan and the restriction of women in public life, a preteen girl is forced to masquerade as a boy in order to find work to support her mother and grandmother.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Arabic",
+    "Persian",
+    "French",
+    "Pushto",
+    "Hungarian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Hubert Bals Fund",
+      "country": "NL"
+    },
+    {
+      "name": "NHK",
+      "country": "JP"
+    },
+    {
+      "name": "LeBrocquy Fraser Productions",
+      "country": "IE"
+    },
+    {
+      "name": "Barmak Film",
+      "country": "AF"
+    },
+    {
+      "name": "Makhmalbaf Film House Productions",
+      "country": "IR"
+    },
+    {
+      "name": "Swipe Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Siddiq Barmak"
+  ],
+  "writers": [
+    {
+      "name": "Siddiq Barmak",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Siddiq Barmak",
+      "job": "Producer"
+    },
+    {
+      "name": "Julia Fraser",
+      "job": "Producer"
+    },
+    {
+      "name": "Julie LeBrocquy",
+      "job": "Producer"
+    },
+    {
+      "name": "Mohsen Makhmalbaf",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Makoto Ueda",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marina Golbahari",
+      "character": "Osama",
+      "order": 0
+    },
+    {
+      "name": "Arif Herati",
+      "character": "Espandi",
+      "order": 1
+    },
+    {
+      "name": "Zubaida Sahar",
+      "character": "Mother",
+      "order": 2
+    },
+    {
+      "name": "Mohammad Nadir Khwaja",
+      "character": "Mullah",
+      "order": 3
+    },
+    {
+      "name": "Nader Khwaja",
+      "character": "Jadi",
+      "order": 4
+    },
+    {
+      "name": "Malik Akhlaqi",
+      "character": "Ajmal",
+      "order": 5
+    },
+    {
+      "name": "Hamida Refar",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Gol Rahman Ghorbandi",
+      "character": "",
+      "order": 7
+    }
+  ],
+  "poster_path": "/pOKz4zpccIjdib2pfDRkg69Ojej.jpg",
+  "backdrop_path": "/1Xwbli4B20ajKdq4fWSmWavMAds.jpg",
+  "budget": 46000,
+  "revenue": 3910519,
+  "vote_average": 7.0,
+  "vote_count": 129,
+  "imdb_id": "tt0368913",
+  "certifications": [
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

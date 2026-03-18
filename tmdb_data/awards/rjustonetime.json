@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "1 nomination",
+  "rated": "R",
+  "released": "17 Nov 2000",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Lane Janger",
+  "writer": "Lane Janger, Jennifer Vandever",
+  "actors": "Lane Janger, Joelle Carter, Guillermo Diaz",
+  "plot": "When the fiancee of a fireman reluctantly agrees to participate in a menage a trois with another woman, she does so on the condition that he reciprocate the favor with another man, which ultimately puts their impending marriage in jeopardy.",
+  "language": "English",
+  "country": "Canada, United States",
+  "metascore": "34",
+  "imdb_rating": "6.1",
+  "imdb_votes": "784",
+  "box_office": "$23,374",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/Just+One+Time/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0168912/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0168912/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/49267"
+  }
+}

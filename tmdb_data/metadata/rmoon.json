@@ -1,0 +1,179 @@
+{
+  "tmdb_id": 1850,
+  "title": "Man on the Moon",
+  "original_title": "Man on the Moon",
+  "release_date": "1999-12-22",
+  "runtime": 118,
+  "tagline": "Hello, my name is Andy and this is my movie.",
+  "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Mutual Film Company",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jersey Films",
+      "country": "US"
+    },
+    {
+      "name": "Cinehaus",
+      "country": "US"
+    },
+    {
+      "name": "West/Shapiro Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Miloš Forman"
+  ],
+  "writers": [
+    {
+      "name": "Scott Alexander",
+      "job": "Writer"
+    },
+    {
+      "name": "Larry Karaszewski",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Danny DeVito",
+      "job": "Producer"
+    },
+    {
+      "name": "Stacey Sher",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Shamberg",
+      "job": "Producer"
+    },
+    {
+      "name": "George Shapiro",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Hausman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Howard West",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "character": "Andy Kaufman / Tony Clifton",
+      "order": 0
+    },
+    {
+      "name": "Danny DeVito",
+      "character": "George Shapiro",
+      "order": 1
+    },
+    {
+      "name": "Courtney Love",
+      "character": "Lynne Margulies",
+      "order": 2
+    },
+    {
+      "name": "Paul Giamatti",
+      "character": "Bob Zmuda",
+      "order": 3
+    },
+    {
+      "name": "Vincent Schiavelli",
+      "character": "Maynard Smith",
+      "order": 4
+    },
+    {
+      "name": "Peter Bonerz",
+      "character": "Ed Weinberger",
+      "order": 5
+    },
+    {
+      "name": "Jerry Lawler",
+      "character": "Himself",
+      "order": 6
+    },
+    {
+      "name": "Gerry Becker",
+      "character": "Stanley Kaufman",
+      "order": 7
+    },
+    {
+      "name": "Leslie Lyles",
+      "character": "Janice Kaufman",
+      "order": 8
+    },
+    {
+      "name": "Greyson Erik Pendry",
+      "character": "Little Michael Kaufman",
+      "order": 9
+    }
+  ],
+  "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+  "backdrop_path": "/c6jFpztvihsXraV51up2nxXfm5t.jpg",
+  "budget": 82000000,
+  "revenue": 47434430,
+  "vote_average": 7.249,
+  "vote_count": 1948,
+  "imdb_id": "tt0125664",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

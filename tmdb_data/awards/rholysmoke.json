@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 3 nominations",
+  "rated": "R",
+  "released": "26 Dec 1999",
+  "runtime": "115 min",
+  "genre": "Comedy, Drama",
+  "director": "Jane Campion",
+  "writer": "Anna Campion, Jane Campion",
+  "actors": "Kate Winslet, Harvey Keitel, Julie Hamilton",
+  "plot": "While on a journey of discovery in exotic India, beautiful young Ruth Barron falls under the influence of a charismatic religious guru. Her desperate parents then hire P.J. Waters, a macho cult de-programmer who confronts Ruth in a remote desert hideaway. But P.J. quickly learns that he's met his match in the sexy, intelligent, and iron-willed Ruth.",
+  "language": "English, Hindi",
+  "country": "United States, Australia",
+  "metascore": "57",
+  "imdb_rating": "5.9",
+  "imdb_votes": "15,833",
+  "box_office": "$1,765,545",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "47%",
+      "link": "https://www.rottentomatoes.com/search?search=Holy+Smoke"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/Holy+Smoke/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0144715/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0144715/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13787"
+  }
+}

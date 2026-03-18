@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 7 nominations total",
+  "rated": "R",
+  "released": "16 Jul 1999",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Rick Famuyiwa",
+  "writer": "Rick Famuyiwa, Todd Boyd",
+  "actors": "Elayn J. Taylor, Omar Epps, Richard T. Jones",
+  "plot": "On the wedding day of a writer's friend, things aren't looking good when the groom goes missing before the ceremony. During his and his other male friend's effort to retrieve him, that writer named Mike can't help but tell the story of his youth with his friends. Ever since he met them on his first day at a new school, they shared the common experiences of growing up and life's discoveries.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "52",
+  "imdb_rating": "7.0",
+  "imdb_votes": "10,620",
+  "box_office": "$25,059,640",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "61%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Wood"
+    },
+    {
+      "source": "Metacritic",
+      "value": "52/100",
+      "link": "https://www.metacritic.com/search/The+Wood/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0161100/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0161100/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/16158"
+  }
+}

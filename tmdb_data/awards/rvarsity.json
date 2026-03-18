@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "2 wins & 5 nominations total",
+  "rated": "R",
+  "released": "15 Jan 1999",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Brian Robbins",
+  "writer": "W. Peter Iliff",
+  "actors": "James Van Der Beek, Jon Voight, Paul Walker",
+  "plot": "In small-town Texas, high school football is a religion. The head coach is deified, as long as the team is winning and 17-year-old schoolboys carry the hopes of an entire community onto the gridiron every Friday night. In his 30th year as head coach, Bud Kilmer (Jon Voight) is trying to lead his West Canaan Coyotes to their 23rd division title. When star quarterback Lance Harbor (Paul Walker) suffers an injury, the Coyotes are forced to regroup under the questionable leadership of John Moxon (James Van Der Beek), a second-string quarterback with a slightly irreverent approach to the game. \"Varsity Blues\" explores our obsession with sports and how teenage athletes respond to the extraordinary pressures places on them.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "6.6",
+  "imdb_votes": "53,048",
+  "box_office": "$52,894,169",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "46%",
+      "link": "https://www.rottentomatoes.com/search?search=Varsity+Blues"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/Varsity+Blues/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0139699/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0139699/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14709"
+  }
+}

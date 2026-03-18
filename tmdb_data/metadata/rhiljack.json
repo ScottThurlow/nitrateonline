@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 46992,
+  "title": "Hilary and Jackie",
+  "original_title": "Hilary and Jackie",
+  "release_date": "1998-12-30",
+  "runtime": 121,
+  "tagline": "The true story of two sisters who shared a passion, a madness, and a man.",
+  "overview": "The tragic story of world-renowned cellist Jacqueline du Pré, as told from the point of view of her sister, flautist Hilary du Pré-Finzi.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Oxford Films",
+      "country": "GB"
+    },
+    {
+      "name": "Film4 Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Anand Tucker"
+  ],
+  "writers": [
+    {
+      "name": "Frank Cottrell Boyce",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Hilary du Pré",
+      "job": "Novel"
+    },
+    {
+      "name": "Piers du Pré",
+      "job": "Novel"
+    },
+    {
+      "name": "Frank Cottrell Boyce",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Nicolas Kent",
+      "job": "Producer"
+    },
+    {
+      "name": "Andy Paterson",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ruth Jackson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emily Watson",
+      "character": "Jackie Du Pré",
+      "order": 0
+    },
+    {
+      "name": "Rachel Griffiths",
+      "character": "Hilary Du Pré",
+      "order": 1
+    },
+    {
+      "name": "James Frain",
+      "character": "Daniel Barenboim",
+      "order": 2
+    },
+    {
+      "name": "David Morrissey",
+      "character": "Kiffer Finzi",
+      "order": 3
+    },
+    {
+      "name": "Charles Dance",
+      "character": "Derek Du Pré",
+      "order": 4
+    },
+    {
+      "name": "Celia Imrie",
+      "character": "Iris Du Pré",
+      "order": 5
+    },
+    {
+      "name": "Rupert Penry-Jones",
+      "character": "Piers Du Pré",
+      "order": 6
+    },
+    {
+      "name": "Bill Paterson",
+      "character": "Cello Teacher",
+      "order": 7
+    },
+    {
+      "name": "Auriol Evans",
+      "character": "Young Jackie",
+      "order": 8
+    },
+    {
+      "name": "Keylee Jade Flanders",
+      "character": "Young Hilary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aE2NJH2sllQTmbpN6laKuM7NXYy.jpg",
+  "backdrop_path": "/4t9HIVEY6gknmNTAM23rzL1yEyv.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.54,
+  "vote_count": 113,
+  "imdb_id": "tt0150915",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    }
+  ],
+  "status": "Released"
+}

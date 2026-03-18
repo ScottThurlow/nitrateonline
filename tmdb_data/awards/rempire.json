@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "06 Dec 2002",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Franc. Reyes",
+  "writer": "Franc. Reyes",
+  "actors": "John Leguizamo, Peter Sarsgaard, Denise Richards",
+  "plot": "A big time drug dealer Victor Rosa is looking to get out of the game and sees his chance with a big deal and a new friend who happens to be a Wall St. stockbroker. Thinking this will be his chance to go out on top, Victor soon finds out that he has been double crossed and his last option is to get revenge.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "5.9",
+  "imdb_votes": "8,154",
+  "box_office": "$17,600,423",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "21%",
+      "link": "https://www.rottentomatoes.com/search?search=Empire"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Empire/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0262396/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0262396/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13369"
+  }
+}

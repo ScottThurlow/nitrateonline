@@ -1,0 +1,204 @@
+{
+  "tmdb_id": 9451,
+  "title": "Election",
+  "original_title": "Election",
+  "release_date": "1999-04-23",
+  "runtime": 103,
+  "tagline": "Reading. Writing. Revenge.",
+  "overview": "Tracy Flick is running unopposed for this year’s high school student election. But Jim McAllister has a different plan. Partly to establish a more democratic election, and partly to satisfy some deep personal anger toward Tracy, Jim talks football player Paul Metzler to run for president as well.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "MTV Films",
+      "country": "US"
+    },
+    {
+      "name": "Bona Fide Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Alexander Payne"
+  ],
+  "writers": [
+    {
+      "name": "Alexander Payne",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Taylor",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Tom Perrotta",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Van Toffler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Albert Berger",
+      "job": "Producer"
+    },
+    {
+      "name": "Keith Samples",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Yerxa",
+      "job": "Producer"
+    },
+    {
+      "name": "David Gale",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matthew Broderick",
+      "character": "Jim McAllister",
+      "order": 0
+    },
+    {
+      "name": "Reese Witherspoon",
+      "character": "Tracy Enid Flick",
+      "order": 1
+    },
+    {
+      "name": "Chris Klein",
+      "character": "Paul Metzler",
+      "order": 2
+    },
+    {
+      "name": "Jessica Campbell",
+      "character": "Tammy Metzler",
+      "order": 3
+    },
+    {
+      "name": "Mark Harelik",
+      "character": "Dave Novotny",
+      "order": 4
+    },
+    {
+      "name": "Phil Reeves",
+      "character": "Walt Hendricks",
+      "order": 5
+    },
+    {
+      "name": "Molly Hagan",
+      "character": "Diane McAllister",
+      "order": 6
+    },
+    {
+      "name": "Delaney Driscoll",
+      "character": "Linda Novotny",
+      "order": 7
+    },
+    {
+      "name": "Colleen Camp",
+      "character": "Judith R. Flick",
+      "order": 8
+    },
+    {
+      "name": "Frankie Ingrassia",
+      "character": "Lisa Flanagan",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+  "backdrop_path": "/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
+  "budget": 25000000,
+  "revenue": 14902041,
+  "vote_average": 6.9,
+  "vote_count": 1168,
+  "imdb_id": "tt0126886",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+13"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "R16"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

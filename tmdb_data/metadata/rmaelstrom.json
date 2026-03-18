@@ -1,0 +1,137 @@
+{
+  "tmdb_id": 35650,
+  "title": "Maelström",
+  "original_title": "Maelström",
+  "release_date": "2000-09-15",
+  "runtime": 87,
+  "tagline": "",
+  "overview": "A young woman's life spirals into chaos after she is involved in a hit-and-run accident. Then she encounters a mysterious man named Evian who offers her an opportunity for redemption. Narrated by a fish.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Norwegian"
+  ],
+  "production_companies": [
+    {
+      "name": "Téléfilm Canada",
+      "country": "CA"
+    },
+    {
+      "name": "SODEC",
+      "country": "CA"
+    },
+    {
+      "name": "Max Films",
+      "country": "CA"
+    }
+  ],
+  "director": [
+    "Denis Villeneuve"
+  ],
+  "writers": [
+    {
+      "name": "Denis Villeneuve",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Roger Frappier",
+      "job": "Producer"
+    },
+    {
+      "name": "Luc Vandal",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marie-Josée Croze",
+      "character": "Bibiane Champagne",
+      "order": 0
+    },
+    {
+      "name": "Jean-Nicolas Verreault",
+      "character": "Evian",
+      "order": 1
+    },
+    {
+      "name": "Stephanie Morgenstern",
+      "character": "Claire Gunderson",
+      "order": 2
+    },
+    {
+      "name": "Pierre Lebeau",
+      "character": "The Fish (voice)",
+      "order": 3
+    },
+    {
+      "name": "Kliment Denchev",
+      "character": "Head-Annstein Karlsen",
+      "order": 4
+    },
+    {
+      "name": "John Dunn-Hill",
+      "character": "Fishmonger",
+      "order": 5
+    },
+    {
+      "name": "Bobby Beshro",
+      "character": "Philippe Champagne",
+      "order": 6
+    },
+    {
+      "name": "Marie-France Lambert",
+      "character": "Marie-Jeanne Sirois",
+      "order": 7
+    },
+    {
+      "name": "Luis Oliva",
+      "character": "Fishmonger's Employee",
+      "order": 8
+    },
+    {
+      "name": "Robin Aubert",
+      "character": "Gas Station Clerk",
+      "order": 9
+    }
+  ],
+  "poster_path": "/knhWhSDOEPcWed5ljKcJVnXbH7.jpg",
+  "backdrop_path": "/rxaga3bJXuwgHidnTcdwVHifLpH.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.216,
+  "vote_count": 190,
+  "imdb_id": "tt0220627",
+  "certifications": [
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    }
+  ],
+  "status": "Released"
+}

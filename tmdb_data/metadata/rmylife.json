@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 48958,
+  "title": "My Life So Far",
+  "original_title": "My Life So Far",
+  "release_date": "1999-08-25",
+  "runtime": 98,
+  "tagline": "Imagine a summer in paradise with nothing to do except everything your heart desires.",
+  "overview": "A memoir of the lives of a family growing up on a post World War I British estate headed up by a strong disciplinarian, her daughter, her inventor husband, their ten year old son and his older sister. Through the household comes a number of suitors hoping to impress the young woman, including an aviator. When the elder woman's son shows up at the estate with his French fiancé, everything gets thrown into turmoil. The young boy takes a sudden interest in her sexual allure and his father is disturbed by his own non-Victorian feelings.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Enigma Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Hudson Film",
+      "country": ""
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Hugh Hudson"
+  ],
+  "writers": [
+    {
+      "name": "Simon Donald",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Eddie Dick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Webster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "David Puttnam",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Norris",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Colin Firth",
+      "character": "Edward Pettigrew",
+      "order": 0
+    },
+    {
+      "name": "Rosemary Harris",
+      "character": "Gamma MacIntosh",
+      "order": 1
+    },
+    {
+      "name": "Irène Jacob",
+      "character": "Aunt Heloise",
+      "order": 2
+    },
+    {
+      "name": "Mary Elizabeth Mastrantonio",
+      "character": "Moira 'Mumsie' Pettigrew",
+      "order": 3
+    },
+    {
+      "name": "Malcolm McDowell",
+      "character": "Uncle Morris MacIntosh",
+      "order": 4
+    },
+    {
+      "name": "Robert Norman",
+      "character": "Fraser Pettigrew",
+      "order": 5
+    },
+    {
+      "name": "Tchéky Karyo",
+      "character": "Gabriel Chenoux",
+      "order": 6
+    },
+    {
+      "name": "Kelly Macdonald",
+      "character": "Elspeth Pettigrew",
+      "order": 7
+    },
+    {
+      "name": "Roddy McDonald",
+      "character": "Rollo",
+      "order": 8
+    },
+    {
+      "name": "Daniel Baird",
+      "character": "Finlay",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6lXglg96vfFuHCDdmNof1bdyd0F.jpg",
+  "backdrop_path": "/hVQtxvDBppLGmBFgNDOEnDIzrhI.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 34,
+  "imdb_id": "tt0120899",
+  "certifications": [
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

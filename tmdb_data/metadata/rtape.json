@@ -1,0 +1,99 @@
+{
+  "tmdb_id": 23949,
+  "title": "Tape",
+  "original_title": "Tape",
+  "release_date": "2001-11-02",
+  "runtime": 87,
+  "tagline": "Some things can't be erased.",
+  "overview": "Jon, a first-time filmmaker, finds himself in Lansing, Michigan to present his film at a local film festival. Vince, his high school friend who is now a volunteer fireman and small-time drug dealer, also visits the town to support Jon on his big day, or so it seems. After a raucous hello and much backslapping, it appears that there is an undercurrent of tension in the air.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Detour Filmproduction",
+      "country": "US"
+    },
+    {
+      "name": "InDigEnt",
+      "country": "US"
+    },
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Richard Linklater"
+  ],
+  "writers": [
+    {
+      "name": "Stephen Belber",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Stephen Belber",
+      "job": "Theatre Play"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Winick",
+      "job": "Producer"
+    },
+    {
+      "name": "Anne Walker-McBay",
+      "job": "Producer"
+    },
+    {
+      "name": "Alexis Alexanian",
+      "job": "Producer"
+    },
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Sloss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ethan Hawke",
+      "character": "Vin",
+      "order": 0
+    },
+    {
+      "name": "Robert Sean Leonard",
+      "character": "Jon",
+      "order": 1
+    },
+    {
+      "name": "Uma Thurman",
+      "character": "Amy",
+      "order": 2
+    }
+  ],
+  "poster_path": "/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
+  "backdrop_path": "/o6PsWbkPva254PkEaVAnB87wpFH.jpg",
+  "budget": 100000,
+  "revenue": 490475,
+  "vote_average": 6.856,
+  "vote_count": 241,
+  "imdb_id": "tt0275719",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 4 nominations total",
+  "rated": "PG-13",
+  "released": "13 Dec 2002",
+  "runtime": "116 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Stuart Baird",
+  "writer": "Gene Roddenberry, John Logan, Rick Berman",
+  "actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",
+  "plot": "After a joyous wedding between William Riker and Deanna Troi, Captain Picard and the Enterprise crew stumble upon a positronic signature which results in a prototype version of the android Data. Then the Enterprise is invited to Romulus to negotiate a peace treaty with the Romulans by their new leader, Praetor Shinzon. However, Shinzon is revealed to be a clone of Picard who was raised on Remus, a slave planet to the Romulans. Later on, Picard discovers that this peace treaty was nothing more than a set-up on account of the fact that Shinzon needs Picard in order to survive. But little do the Enterprise crew know that Shinzon also plans to do away with the Federation by unleashing a weapon that could destroy a whole planet.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "51",
+  "imdb_rating": "6.4",
+  "imdb_votes": "87,476",
+  "box_office": "$43,254,409",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "37%",
+      "link": "https://www.rottentomatoes.com/search?search=Star+Trek%3A+Nemesis"
+    },
+    {
+      "source": "Metacritic",
+      "value": "51/100",
+      "link": "https://www.metacritic.com/search/Star+Trek%3A+Nemesis/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0253754/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0253754/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/201"
+  }
+}

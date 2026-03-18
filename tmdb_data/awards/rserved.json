@@ -1,0 +1,35 @@
+{
+  "year": "2004",
+  "awards": "1 win & 5 nominations total",
+  "rated": "PG-13",
+  "released": "30 Jan 2004",
+  "runtime": "95 min",
+  "genre": "Drama, Music",
+  "director": "Chris Stokes",
+  "writer": "Chris Stokes",
+  "actors": "Omarion, Jarell Houston, Raz B",
+  "plot": "In order to achieve their dream of opening a recording studio, two friends (Omarion, Houston) must first win their city's dance contest -- a fierce competition that pits them against a group of tough street dancers.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "37",
+  "imdb_rating": "3.9",
+  "imdb_votes": "29,364",
+  "box_office": "$40,363,810",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.9/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/You+Got+Served/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0365957/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0365957/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/14114"
+  }
+}

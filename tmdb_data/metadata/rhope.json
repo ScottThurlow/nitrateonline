@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 9715,
+  "title": "Hope Floats",
+  "original_title": "Hope Floats",
+  "release_date": "1998-05-29",
+  "runtime": 114,
+  "tagline": "When life fell apart, love fell into place.",
+  "overview": "Birdee Pruitt has been humiliated on live television by her best friend, Connie, who's been sleeping with Birdee's husband, Bill. Birdee tries starting over with her daughter, Bernice, by returning to her small Texas hometown, but she's faced with petty old acquaintances who are thrilled to see Birdee unhappy -- except for her friend Justin. As he helps Birdee get back on her feet, love begins to blossom.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fortis Films",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Forest Whitaker"
+  ],
+  "writers": [
+    {
+      "name": "Steven Rogers",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sandra Bullock",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lynda Obst",
+      "job": "Producer"
+    },
+    {
+      "name": "Mary McLaglen",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "character": "Birdee Pruitt",
+      "order": 0
+    },
+    {
+      "name": "Harry Connick Jr.",
+      "character": "Justin Matisse",
+      "order": 1
+    },
+    {
+      "name": "Gena Rowlands",
+      "character": "Ramona Calvert",
+      "order": 2
+    },
+    {
+      "name": "Mae Whitman",
+      "character": "Bernice Pruitt",
+      "order": 3
+    },
+    {
+      "name": "Michael Paré",
+      "character": "Bill Pruitt",
+      "order": 4
+    },
+    {
+      "name": "Cameron Finley",
+      "character": "Travis",
+      "order": 5
+    },
+    {
+      "name": "Kathy Najimy",
+      "character": "Toni Post",
+      "order": 6
+    },
+    {
+      "name": "Bill Cobbs",
+      "character": "Nurse",
+      "order": 7
+    },
+    {
+      "name": "Connie Ray",
+      "character": "Bobbi-Claire",
+      "order": 8
+    },
+    {
+      "name": "Mona Lee Fultz",
+      "character": "Teacher",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6PRFM09xjGSWpXObW87CT5JELGJ.jpg",
+  "backdrop_path": "/9zgnuwIK6JAc6giVsscq9H82li1.jpg",
+  "budget": 30000000,
+  "revenue": 81471882,
+  "vote_average": 6.412,
+  "vote_count": 495,
+  "imdb_id": "tt0119313",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2004",
+  "awards": "1 nomination",
+  "rated": "PG-13",
+  "released": "30 Jan 2004",
+  "runtime": "93 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Brian Robbins",
+  "writer": "Marc Hyman, Jon Zack, Mark Schwahn",
+  "actors": "Scarlett Johansson, Erika Christensen, Chris Evans",
+  "plot": "Six teenagers from diverse backgrounds - among them the school's star basketball player - conspire to break into a SAT testing center to steal the answers in hope of acing their exam. They ultimately realize that the answer to their problems and the key to their happiness may not lie in achieving a perfect score.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "35",
+  "imdb_rating": "5.7",
+  "imdb_votes": "26,497",
+  "box_office": "$10,391,003",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "15%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Perfect+Score"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/The+Perfect+Score/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0314498/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0314498/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13505"
+  }
+}

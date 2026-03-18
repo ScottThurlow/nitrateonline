@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "30 Jan 1998",
+  "runtime": "106 min",
+  "genre": "Action, Adventure, Horror",
+  "director": "Stephen Sommers",
+  "writer": "Stephen Sommers",
+  "actors": "Treat Williams, Famke Janssen, Anthony Heald",
+  "plot": "When a band of ruthless hijackers invade the world's most luxurious cruise ship, they're shocked to discover the passengers have mysteriously vanished! But that doesn't mean they are alone! Something terrifying is lurking just out of sight: a deadly force from the unexplored depths of the ocean that begins to snatch the horrified intruders one by one!",
+  "language": "French, English, Korean",
+  "country": "United States, Canada",
+  "metascore": "N/A",
+  "imdb_rating": "6.1",
+  "imdb_votes": "43,756",
+  "box_office": "$11,203,026",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Deep+Rising"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118956/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118956/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9457"
+  }
+}

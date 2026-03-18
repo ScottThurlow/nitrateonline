@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 10376,
+  "title": "The Legend of 1900",
+  "original_title": "La leggenda del pianista sull'oceano",
+  "release_date": "1998-10-28",
+  "runtime": 170,
+  "tagline": "An epic story of a man who could do anything... except be ordinary",
+  "overview": "The story of a virtuoso piano player who lives his entire life aboard an ocean liner. Born and raised on the ship, 1900 learned about the outside world through interactions with passengers, never setting foot on land, even for the love of his life. Years later, the ship may be destroyed, and a former band member fears that 1900 may still be aboard, willing to go down with the ship.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "production_companies": [
+    {
+      "name": "Medusa Film",
+      "country": "IT"
+    },
+    {
+      "name": "Sciarlò",
+      "country": "IT"
+    }
+  ],
+  "director": [
+    "Giuseppe Tornatore"
+  ],
+  "writers": [
+    {
+      "name": "Giuseppe Tornatore",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alessandro Baricco",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Alessandro Baricco",
+      "job": "Idea"
+    },
+    {
+      "name": "Alessandro Baricco",
+      "job": "Story"
+    },
+    {
+      "name": "Alessandro Baricco",
+      "job": "Novel"
+    },
+    {
+      "name": "Giuseppe Tornatore",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marco Chimenz",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laura Fattori",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Francesco Tornatore",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tim Roth",
+      "character": "Danny Boodmann T.D. Lemon Nineteen Hundred '1900'",
+      "order": 0
+    },
+    {
+      "name": "Pruitt Taylor Vince",
+      "character": "Max Tooney",
+      "order": 1
+    },
+    {
+      "name": "Mélanie Thierry",
+      "character": "The Girl",
+      "order": 2
+    },
+    {
+      "name": "Bill Nunn",
+      "character": "Danny Boodmann",
+      "order": 3
+    },
+    {
+      "name": "Gabriele Lavia",
+      "character": "Farmer",
+      "order": 4
+    },
+    {
+      "name": "Clarence Williams III",
+      "character": "Jelly Roll Morton",
+      "order": 5
+    },
+    {
+      "name": "Peter Vaughan",
+      "character": "'Pops', the Shopkeeper",
+      "order": 6
+    },
+    {
+      "name": "Niall O'Brien",
+      "character": "Harbor Master",
+      "order": 7
+    },
+    {
+      "name": "Alberto Vazquez",
+      "character": "Mexican Stoker",
+      "order": 8
+    },
+    {
+      "name": "Luca De Luigi",
+      "character": "Neapolitan Stoker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+  "backdrop_path": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+  "budget": 9000000,
+  "revenue": 21057208,
+  "vote_average": 8.241,
+  "vote_count": 2413,
+  "imdb_id": "tt0120731",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "TW",
+      "rating": "0+"
+    },
+    {
+      "country": "UA",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

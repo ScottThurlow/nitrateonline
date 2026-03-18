@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "Won 1 Oscar. 11 wins & 23 nominations total",
+  "rated": "G",
+  "released": "18 Jun 1999",
+  "runtime": "88 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Chris Buck, Kevin Lima",
+  "writer": "Tab Murphy, Bob Tzudiker, Noni White",
+  "actors": "Tony Goldwyn, Minnie Driver, Brian Blessed",
+  "plot": "The movie is about the life of Tarzan. Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+  "language": "English",
+  "country": "United States, Japan",
+  "metascore": "80",
+  "imdb_rating": "7.3",
+  "imdb_votes": "265,277",
+  "box_office": "$171,091,819",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Tarzan"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/Tarzan/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120855/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120855/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/37135"
+  }
+}

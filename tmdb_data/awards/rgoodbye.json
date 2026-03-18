@@ -1,0 +1,35 @@
+{
+  "year": "1998",
+  "awards": "2 nominations",
+  "rated": "R",
+  "released": "16 Apr 1999",
+  "runtime": "102 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Roland Joffé",
+  "writer": "Ron Peer, Joel Cohen, Alec Sokolow",
+  "actors": "Patricia Arquette, Dermot Mulroney, Mary-Louise Parker",
+  "plot": "Sandra is married to Jake, an alcoholic executive, but has a secret relationship with her brother-in-law Ben, who is attracted to Peggy, a woman who hides a dark side known to few. When Sandra finds out, Ben mysteriously disappears.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.6",
+  "imdb_votes": "4,404",
+  "box_office": "$1,940,299",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "27%",
+      "link": "https://www.rottentomatoes.com/search?search=Goodbye+Lover"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119219/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119219/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/49981"
+  }
+}

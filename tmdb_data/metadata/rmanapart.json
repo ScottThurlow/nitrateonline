@@ -1,0 +1,205 @@
+{
+  "tmdb_id": 8409,
+  "title": "A Man Apart",
+  "original_title": "A Man Apart",
+  "release_date": "2003-04-04",
+  "runtime": 109,
+  "tagline": "Love changes a man. Revenge tears him apart.",
+  "overview": "When Vetter's wife is killed in a botched hit organized by Diablo, he seeks revenge against those responsible. But in the process, Vetter and Hicks have to fight their way up the chain to get to Diablo but it's easier said than done when all Vetter can focus on is revenge.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Newman/Tooley Films",
+      "country": ""
+    },
+    {
+      "name": "\"DIA\" Productions GmbH & Co. KG",
+      "country": ""
+    },
+    {
+      "name": "Joseph Nittolo Entertainment",
+      "country": ""
+    },
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "F. Gary Gray"
+  ],
+  "writers": [
+    {
+      "name": "Christian Gudegast",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Paul T. Scheuring",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Vin Diesel",
+      "job": "Producer"
+    },
+    {
+      "name": "Bob Degus",
+      "job": "Producer"
+    },
+    {
+      "name": "Joey Nittolo",
+      "job": "Producer"
+    },
+    {
+      "name": "Vincent Newman",
+      "job": "Producer"
+    },
+    {
+      "name": "Tucker Tooley",
+      "job": "Producer"
+    },
+    {
+      "name": "Claire Rudnick Polstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "F. Gary Gray",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vin Diesel",
+      "character": "Sean Vetter",
+      "order": 0
+    },
+    {
+      "name": "Larenz Tate",
+      "character": "Demetrius Hicks",
+      "order": 1
+    },
+    {
+      "name": "Timothy Olyphant",
+      "character": "Hollywood Jack",
+      "order": 2
+    },
+    {
+      "name": "Geno Silva",
+      "character": "Memo Lucero",
+      "order": 3
+    },
+    {
+      "name": "Jacqueline Obradors",
+      "character": "Stacy Vetter",
+      "order": 4
+    },
+    {
+      "name": "Steve Eastin",
+      "character": "Ty Frost",
+      "order": 5
+    },
+    {
+      "name": "Juan Fernández",
+      "character": "Mateo Santos",
+      "order": 6
+    },
+    {
+      "name": "Jeff Kober",
+      "character": "Pomona Joe",
+      "order": 7
+    },
+    {
+      "name": "Marco Rodríguez",
+      "character": "Hondo",
+      "order": 8
+    },
+    {
+      "name": "Mike Moroff",
+      "character": "Gustavo Leon",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mgcGj39KYcyPx6zDiICHsPQNAJQ.jpg",
+  "backdrop_path": "/bPVCkI1NVHNuAdD9OB5NFHgOSXk.jpg",
+  "budget": 36000000,
+  "revenue": 44350926,
+  "vote_average": 6.1,
+  "vote_count": 946,
+  "imdb_id": "tt0266465",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

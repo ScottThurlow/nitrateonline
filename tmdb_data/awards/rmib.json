@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Won 1 Oscar. 23 wins & 39 nominations total",
+  "rated": "PG-13",
+  "released": "02 Jul 1997",
+  "runtime": "98 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Barry Sonnenfeld",
+  "writer": "Lowell Cunningham, Ed Solomon",
+  "actors": "Tommy Lee Jones, Will Smith, Linda Fiorentino",
+  "plot": "Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agency's finest men only going by the name \"K\" (Tommy Lee Jones) , is recruiting for a new addition to the agency. He has chosen James Edwards (Will Smith) of the N.Y.P.D. Then, one day, a flying saucer crashes into Earth. This was an alien a part of the \"Bug\" race. He takes the body of a farmer (Vincent D'Onofrio) and heads to New York. He is searching for a super energy source called \"The Galaxy\". Now, Agents J and K must stop the bug before it can escape with the galaxy.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "72",
+  "imdb_rating": "7.3",
+  "imdb_votes": "658,335",
+  "box_office": "$250,690,539",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Men+in+Black"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/Men+in+Black/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119654/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119654/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/607"
+  }
+}

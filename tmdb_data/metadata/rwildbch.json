@@ -1,0 +1,100 @@
+{
+  "tmdb_id": 61086,
+  "title": "The Wild Bunch: An Album in Montage",
+  "original_title": "The Wild Bunch: An Album in Montage",
+  "release_date": "1996-11-01",
+  "runtime": 34,
+  "tagline": "",
+  "overview": "Oscar nominated \"Making of\" documentary about Peckinpah's The Wild Bunch.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Tyrus Entertainment",
+      "country": ""
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Paul Seydor"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Paul Seydor",
+      "job": "Producer"
+    },
+    {
+      "name": "Nick Redman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ernest Borgnine",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Edmond O'Brien",
+      "character": "Self (archive footage)",
+      "order": 1
+    },
+    {
+      "name": "L.Q. Jones",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Ed Harris",
+      "character": "Sam Peckinpah (Voice)",
+      "order": 3
+    },
+    {
+      "name": "Nick Redman",
+      "character": "Narrator",
+      "order": 4
+    },
+    {
+      "name": "Walon Green",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Newell Alexander",
+      "character": "Cliff Coleman / William Holden (voice)",
+      "order": 6
+    },
+    {
+      "name": "Mitch Carter",
+      "character": "Gordon Dawson / Strother Marlin (voice)",
+      "order": 7
+    },
+    {
+      "name": "Jerry Fielding",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Sharon Peckinpah",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/o6symATz7Ve5dVctPp0iVeqbBli.jpg",
+  "backdrop_path": "/wazPVGbEhlLkDPBlM5dP25AxGhR.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 9,
+  "imdb_id": "tt0118167",
+  "certifications": [],
+  "status": "Released"
+}

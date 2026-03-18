@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "7 wins & 2 nominations",
+  "rated": "TV-G",
+  "released": "07 Mar 2002",
+  "runtime": "90 min",
+  "genre": "Documentary",
+  "director": "Thomas Riedelsheimer",
+  "writer": "Thomas Riedelsheimer",
+  "actors": "Andy Goldsworthy, Anna Goldsworthy, Holly Goldsworthy",
+  "plot": "Portrait of Andy Goldsworthy, an artist whose specialty is ephemeral sculptures made from elements of nature.",
+  "language": "English",
+  "country": "Germany, Finland, United Kingdom, Canada, France",
+  "metascore": "82",
+  "imdb_rating": "7.9",
+  "imdb_votes": "2,488",
+  "box_office": "$2,200,276",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "99%",
+      "link": "https://www.rottentomatoes.com/search?search=Rivers+and+Tides"
+    },
+    {
+      "source": "Metacritic",
+      "value": "82/100",
+      "link": "https://www.metacritic.com/search/Rivers+and+Tides/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0307385/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0307385/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/30140"
+  }
+}

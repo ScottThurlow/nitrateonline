@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "8 wins & 7 nominations total",
+  "rated": "R",
+  "released": "10 Aug 2001",
+  "runtime": "108 min",
+  "genre": "Comedy",
+  "director": "J.B. Rogers",
+  "writer": "Adam Herz, David H. Steinberg",
+  "actors": "Jason Biggs, Shannon Elizabeth, Alyson Hannigan",
+  "plot": "The whole gang are back and as close as ever. They decide to get even closer by spending the summer together at a beach house. They decide to hold the biggest party ever to be seen, even if the preparation doesn't always go to plan. Especially when Stifler, Finch and Jim become more close to each other than they ever want to be and when Jim mistakes super glue for lubricant.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "43",
+  "imdb_rating": "6.5",
+  "imdb_votes": "283,386",
+  "box_office": "$145,103,595",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "51%",
+      "link": "https://www.rottentomatoes.com/search?search=American+Pie+2"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/American+Pie+2/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0252866/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0252866/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2770"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins",
+  "rated": "Not Rated",
+  "released": "28 Feb 2003",
+  "runtime": "80 min",
+  "genre": "Documentary",
+  "director": "Stephanie Black",
+  "writer": "Jamaica Kincaid",
+  "actors": "Belinda Becker, Buju Banton, Horst Köhler",
+  "plot": "Documentary look at the effects of globalization on Jamaican industry and agriculture.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "67",
+  "imdb_rating": "7.4",
+  "imdb_votes": "1,037",
+  "box_office": "$263,107",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "90%",
+      "link": "https://www.rottentomatoes.com/search?search=Life+and+Debt"
+    },
+    {
+      "source": "Metacritic",
+      "value": "67/100",
+      "link": "https://www.metacritic.com/search/Life+and+Debt/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0284262/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0284262/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20303"
+  }
+}

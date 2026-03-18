@@ -1,0 +1,151 @@
+{
+  "tmdb_id": 13476,
+  "title": "Win a Date with Tad Hamilton!",
+  "original_title": "Win a Date with Tad Hamilton!",
+  "release_date": "2004-01-23",
+  "runtime": 95,
+  "tagline": "In every love story, there's only room for one leading man.",
+  "overview": "A small-town girl wins a date with a Hollywood star through a contest. When the date goes better than expected, a love triangle forms between the girl, the celebrity, and the girl's best friend.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Lucy Fisher/Douglas Wick Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Luketic"
+  ],
+  "writers": [
+    {
+      "name": "Victor Levin",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "William S. Beasley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gail Lyon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Douglas Wick",
+      "job": "Producer"
+    },
+    {
+      "name": "Lucy Fisher",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kate Bosworth",
+      "character": "Rosalee Futch",
+      "order": 0
+    },
+    {
+      "name": "Topher Grace",
+      "character": "Pete Monash",
+      "order": 1
+    },
+    {
+      "name": "Josh Duhamel",
+      "character": "Tad Hamilton",
+      "order": 2
+    },
+    {
+      "name": "Nathan Lane",
+      "character": "Richard Levy the Driven",
+      "order": 3
+    },
+    {
+      "name": "Sean Hayes",
+      "character": "Richard Levy the Shameless",
+      "order": 4
+    },
+    {
+      "name": "Gary Cole",
+      "character": "Henry Futch",
+      "order": 5
+    },
+    {
+      "name": "Ginnifer Goodwin",
+      "character": "Cathy Feely",
+      "order": 6
+    },
+    {
+      "name": "Kathryn Hahn",
+      "character": "Angelica",
+      "order": 7
+    },
+    {
+      "name": "Octavia Spencer",
+      "character": "Janine",
+      "order": 8
+    },
+    {
+      "name": "Amy Smart",
+      "character": "Nurse Betty",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5kXxbKlIEgMv0t8hLtZ3hfKLmG7.jpg",
+  "backdrop_path": "/xSQF9wV5geTvcXhKGDpsvJwNEp2.jpg",
+  "budget": 17000000,
+  "revenue": 16980098,
+  "vote_average": 5.719,
+  "vote_count": 509,
+  "imdb_id": "tt0335559",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

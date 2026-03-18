@@ -1,0 +1,174 @@
+{
+  "tmdb_id": 9372,
+  "title": "Super Size Me",
+  "original_title": "Super Size Me",
+  "release_date": "2004-01-17",
+  "runtime": 100,
+  "tagline": "The first ever reality-based movie ... everything begins and ends in 30 days!",
+  "overview": "Morgan Spurlock subjects himself to a diet based only on McDonald's fast food three times a day for thirty days without exercising to try to prove why so many Americans are fat or obese. He submits himself to a complete check-up by three doctors, comparing his weight along the way, resulting in a scary conclusion.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Con",
+      "country": ""
+    },
+    {
+      "name": "Studio On Hudson",
+      "country": ""
+    },
+    {
+      "name": "Showtime Independent Films",
+      "country": ""
+    },
+    {
+      "name": "Fortissimo Films",
+      "country": "NL"
+    },
+    {
+      "name": "Roadside Attractions",
+      "country": "US"
+    },
+    {
+      "name": "Samuel Goldwyn Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Morgan Spurlock"
+  ],
+  "writers": [
+    {
+      "name": "Morgan Spurlock",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Joe Morley",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Morgan Spurlock",
+      "job": "Producer"
+    },
+    {
+      "name": "Heather M. Winters",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Morgan Spurlock",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Daryl Isaacs",
+      "character": "Self - Internal Medicine",
+      "order": 1
+    },
+    {
+      "name": "Lisa Ganjhu",
+      "character": "Self - Gastroenterologist & Hepatologist",
+      "order": 2
+    },
+    {
+      "name": "Stephen Siegel",
+      "character": "Self - Cardiologist",
+      "order": 3
+    },
+    {
+      "name": "Bridget Bennett",
+      "character": "Self - Nutritionist & Dietician",
+      "order": 4
+    },
+    {
+      "name": "Eric Rowley",
+      "character": "Self - Exercise Physiologist",
+      "order": 5
+    },
+    {
+      "name": "Mark Fenton",
+      "character": "Self - Former Editor: Walking Magazine",
+      "order": 6
+    },
+    {
+      "name": "Alexandra Jamieson",
+      "character": "Self - Morgan's girlfriend & Vegan Chef",
+      "order": 7
+    },
+    {
+      "name": "John Banzhaf",
+      "character": "Self - Law Professor, George Washington University",
+      "order": 8
+    },
+    {
+      "name": "David Satcher",
+      "character": "Self - Former U.S. Surgeon General",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zYkbqQaCuIHBxqBDGgnQCwJ9jIG.jpg",
+  "backdrop_path": "/f589RGsnKpDvHu9qvELM6LZBEbG.jpg",
+  "budget": 65000,
+  "revenue": 28575078,
+  "vote_average": 6.725,
+  "vote_count": 1751,
+  "imdb_id": "tt0390521",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "0"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

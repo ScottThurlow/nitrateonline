@@ -1,0 +1,106 @@
+{
+  "tmdb_id": 942012,
+  "title": "Before Night Falls",
+  "original_title": "Menjelang Magrib",
+  "release_date": "2022-03-31",
+  "runtime": 102,
+  "tagline": "Culture, Mythical and Superstition.",
+  "overview": "A reporter and his cameraman investigate Nina, a young woman who is in pasung because she has a mental disorder that turns out to be something mystical.",
+  "genres": [
+    "Horror",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_companies": [
+    {
+      "name": "Silent D Pictures",
+      "country": "GB"
+    },
+    {
+      "name": "Helroad Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Helfi C.H. Kardit"
+  ],
+  "writers": [
+    {
+      "name": "Helfi C.H. Kardit",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Helfi C.H. Kardit",
+      "job": "Producer"
+    },
+    {
+      "name": "Yannie Sukarya",
+      "job": "Producer"
+    },
+    {
+      "name": "Djonny Chen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Annette Edoarda",
+      "character": "Talia",
+      "order": 0
+    },
+    {
+      "name": "Novia Bachmid",
+      "character": "Nina",
+      "order": 1
+    },
+    {
+      "name": "Fajar K. Effendi",
+      "character": "Ahmad",
+      "order": 2
+    },
+    {
+      "name": "Jeffry Reksa",
+      "character": "Erlan",
+      "order": 3
+    },
+    {
+      "name": "Tien Kadaryono",
+      "character": "Nenek Nina",
+      "order": 4
+    },
+    {
+      "name": "Yannie Sukarya",
+      "character": "Ayu",
+      "order": 5
+    },
+    {
+      "name": "Reza Pramez",
+      "character": "Harun",
+      "order": 6
+    },
+    {
+      "name": "Iting Tintin",
+      "character": "Nenek Bongkok",
+      "order": 7
+    }
+  ],
+  "poster_path": "/yL9KFlKIFL8PefqSO3jATeoz7Zd.jpg",
+  "backdrop_path": "/ulhFLDyHUvCsJpJHf1CvqMayv8b.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.5,
+  "vote_count": 8,
+  "imdb_id": "tt14288636",
+  "certifications": [
+    {
+      "country": "ID",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

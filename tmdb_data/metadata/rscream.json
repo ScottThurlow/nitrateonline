@@ -1,0 +1,243 @@
+{
+  "tmdb_id": 4233,
+  "title": "Scream 2",
+  "original_title": "Scream 2",
+  "release_date": "1997-12-12",
+  "runtime": 120,
+  "tagline": "Someone has taken their love of sequels one step too far.",
+  "overview": "Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Konrad Pictures",
+      "country": ""
+    },
+    {
+      "name": "Craven-Maddalena Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Wes Craven"
+  ],
+  "writers": [
+    {
+      "name": "Kevin Williamson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Kevin Williamson",
+      "job": "Characters"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Cathy Konrad",
+      "job": "Producer"
+    },
+    {
+      "name": "Marianne Maddalena",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kevin Williamson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Neve Campbell",
+      "character": "Sidney Prescott",
+      "order": 0
+    },
+    {
+      "name": "Courteney Cox",
+      "character": "Gale Weathers",
+      "order": 1
+    },
+    {
+      "name": "David Arquette",
+      "character": "Dewey Riley",
+      "order": 2
+    },
+    {
+      "name": "Jerry O'Connell",
+      "character": "Derek Feldman",
+      "order": 3
+    },
+    {
+      "name": "Timothy Olyphant",
+      "character": "Mickey Altieri",
+      "order": 4
+    },
+    {
+      "name": "Jamie Kennedy",
+      "character": "Randy Meeks",
+      "order": 5
+    },
+    {
+      "name": "Laurie Metcalf",
+      "character": "Debbie Salt",
+      "order": 6
+    },
+    {
+      "name": "Elise Neal",
+      "character": "Hallie McDaniel",
+      "order": 7
+    },
+    {
+      "name": "Sarah Michelle Gellar",
+      "character": "Cici Cooper",
+      "order": 8
+    },
+    {
+      "name": "Liev Schreiber",
+      "character": "Cotton Weary",
+      "order": 9
+    }
+  ],
+  "poster_path": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+  "backdrop_path": "/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg",
+  "budget": 24000000,
+  "revenue": 172363301,
+  "vote_average": 6.512,
+  "vote_count": 4619,
+  "imdb_id": "tt0120082",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "14+"
+    },
+    {
+      "country": "JP",
+      "rating": "PG12"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "B"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PH",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "NC16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 2 nominations total",
+  "rated": "PG-13",
+  "released": "30 Nov 2001",
+  "runtime": "106 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "John Moore",
+  "writer": "Jim Thomas, John Thomas, David Veloz",
+  "actors": "Gene Hackman, Owen Wilson, Gabriel Macht",
+  "plot": "Fighter navigator Chris Burnett wants out: he was looking for something more than the boring recon missions he's been flying. He finds himself flying the lone Christmas day mission over war-torn Bosnia. But when he talks pilot Stackhouse into flying slightly off-course to check out an interesting target, the two get shot down. Burnett is soon alone, trying to outrun a pursuing army, while commanding officer Reigert finds his rescue operation hamstrung by politics, forcing Burnett to run far out of his way.",
+  "language": "English, Serbo-Croatian, Spanish, Czech",
+  "country": "United States",
+  "metascore": "49",
+  "imdb_rating": "6.4",
+  "imdb_votes": "118,832",
+  "box_office": "$58,856,790",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "36%",
+      "link": "https://www.rottentomatoes.com/search?search=Behind+Enemy+Lines"
+    },
+    {
+      "source": "Metacritic",
+      "value": "49/100",
+      "link": "https://www.metacritic.com/search/Behind+Enemy+Lines/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0159273/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0159273/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8007"
+  }
+}

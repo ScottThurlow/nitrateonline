@@ -1,0 +1,135 @@
+{
+  "tmdb_id": 10988,
+  "title": "Diabolique",
+  "original_title": "Diabolique",
+  "release_date": "1996-03-22",
+  "runtime": 107,
+  "tagline": "Two women. One man. The combination can be murder.",
+  "overview": "The wife and mistress of a cruel school master collaborate in a carefully planned and executed scheme to murder him. The plan goes well until the body, which has been strategically dumped, disappears. The psychological strain starts to weigh on the two women when a retired police investigator begins looking into the man's disappearance on a whim.",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Marvin Worth Productions",
+      "country": "US"
+    },
+    {
+      "name": "Morgan Creek Entertainment",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jeremiah S. Chechik"
+  ],
+  "writers": [
+    {
+      "name": "Thomas Narcejac",
+      "job": "Novel"
+    },
+    {
+      "name": "Pierre Boileau",
+      "job": "Novel"
+    },
+    {
+      "name": "Don Roos",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Henri-Georges Clouzot",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "James G. Robinson",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chuck Binder",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marvin Worth",
+      "job": "Producer"
+    },
+    {
+      "name": "Bill Todman Jr.",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jerry Offsay",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sharon Stone",
+      "character": "Nicole Horner",
+      "order": 0
+    },
+    {
+      "name": "Isabelle Adjani",
+      "character": "Mia Baran",
+      "order": 1
+    },
+    {
+      "name": "Chazz Palminteri",
+      "character": "Guy Baran",
+      "order": 2
+    },
+    {
+      "name": "Kathy Bates",
+      "character": "Det. Shirley Vogel",
+      "order": 3
+    },
+    {
+      "name": "Spalding Gray",
+      "character": "Simon Veatch",
+      "order": 4
+    },
+    {
+      "name": "Shirley Knight",
+      "character": "Edie Danziger",
+      "order": 5
+    },
+    {
+      "name": "Allen Garfield",
+      "character": "Leo Katzman",
+      "order": 6
+    },
+    {
+      "name": "Adam Hann-Byrd",
+      "character": "Erik Pretzer",
+      "order": 7
+    },
+    {
+      "name": "Donal Logue",
+      "character": "Video Photographer #1",
+      "order": 8
+    },
+    {
+      "name": "Diana Bellamy",
+      "character": "Ms. Vawze",
+      "order": 9
+    }
+  ],
+  "poster_path": "/zSW4A35r7Vpz0ainYJGb2QVwCh0.jpg",
+  "backdrop_path": "/ldLhsXf6sCFPi0FIIGgMT0njaZg.jpg",
+  "budget": 45000000,
+  "revenue": 52400000,
+  "vote_average": 5.5,
+  "vote_count": 311,
+  "imdb_id": "tt0116095",
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "Won 1 Oscar. 21 wins & 46 nominations total",
+  "rated": "R",
+  "released": "25 Feb 2000",
+  "runtime": "107 min",
+  "genre": "Comedy, Drama",
+  "director": "Curtis Hanson",
+  "writer": "Michael Chabon, Steve Kloves",
+  "actors": "Michael Douglas, Tobey Maguire, Frances McDormand",
+  "plot": "Grady Tripp is a professor/writer living in Pittsburgh who is struggling with writer's block. Whilst doing this, he also manages to get the chancellor pregnant. In the meantime, he and a college student, James Leer are trying to find a rare jacket once owned by Marilyn Monroe, and a college girl, Hannah Green boarding with Grady has a bit of a crush on him.",
+  "language": "English",
+  "country": "United Kingdom, Germany, Japan, United States",
+  "metascore": "74",
+  "imdb_rating": "7.2",
+  "imdb_votes": "68,520",
+  "box_office": "$19,393,557",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "81%",
+      "link": "https://www.rottentomatoes.com/search?search=Wonder+Boys"
+    },
+    {
+      "source": "Metacritic",
+      "value": "74/100",
+      "link": "https://www.metacritic.com/search/Wonder+Boys/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0185014/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0185014/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11004"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "9 wins & 7 nominations",
+  "rated": "R",
+  "released": "17 May 2001",
+  "runtime": "112 min",
+  "genre": "War, Drama, Action",
+  "director": "Jan Sverák",
+  "writer": "Zdenek Sverák",
+  "actors": "Ondrej Vetchý, Krystof Hádek, Tara Fitzgerald",
+  "plot": "March 15, 1939: Germany invades Czechoslovakia. Czech and Slovak pilots flee to England, joining the RAF. After the war, back home, they are put in labor camps, suspected of anti-Communist ideas. This film cuts between a post-war camp where Franta is a prisoner and England during the war, where Franta is like a big brother to Karel, a very young pilot. On maneuvers, Karel crash lands by the rural home of Susan, an English woman whose husband is MIA. She spends one night with Karel, and he thinks he's found the love of his life. It's complicated by Susan's attraction to Franta. How will the three handle innocence, Eros, friendship, and the heat of battle? When war ends, what then?",
+  "language": "Czech, German, English, Slovak",
+  "country": "Czech Republic, United Kingdom, Germany, Denmark, Italy, France, United States",
+  "metascore": "56",
+  "imdb_rating": "7.1",
+  "imdb_votes": "6,170",
+  "box_office": "$258,771",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "62%",
+      "link": "https://www.rottentomatoes.com/search?search=Dark+Blue+World"
+    },
+    {
+      "source": "Metacritic",
+      "value": "56/100",
+      "link": "https://www.metacritic.com/search/Dark+Blue+World/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0244479/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0244479/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/15813"
+  }
+}

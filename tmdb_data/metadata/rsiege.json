@@ -1,0 +1,211 @@
+{
+  "tmdb_id": 9882,
+  "title": "The Siege",
+  "original_title": "The Siege",
+  "release_date": "1998-11-06",
+  "runtime": 116,
+  "tagline": "An enemy they can't see. A nation under siege. A crisis they can't control.",
+  "overview": "The secret US abduction of a suspected terrorist from his Middle East homeland leads to a wave of terrorist attacks in New York.  An FBI senior agent and his team attempt to locate and decommission the enemy cells, but must also deal with an Army General gone rogue and a female CIA agent of uncertain loyalties.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "Spanish",
+    "English",
+    "Arabic"
+  ],
+  "production_companies": [
+    {
+      "name": "Lynda Obst Productions",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Bedford Falls Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Edward Zwick"
+  ],
+  "writers": [
+    {
+      "name": "Lawrence Wright",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Menno Meyjes",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Edward Zwick",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Peter Schindler",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Edward Zwick",
+      "job": "Producer"
+    },
+    {
+      "name": "Lynda Obst",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denzel Washington",
+      "character": "Anthony 'Hub' Hubbard",
+      "order": 0
+    },
+    {
+      "name": "Annette Bening",
+      "character": "Elise Kraft / Sharon Bridger",
+      "order": 1
+    },
+    {
+      "name": "Bruce Willis",
+      "character": "Major-General William Devereaux",
+      "order": 2
+    },
+    {
+      "name": "Tony Shalhoub",
+      "character": "Agent Frank Haddad",
+      "order": 3
+    },
+    {
+      "name": "Sami Bouajila",
+      "character": "Samir Nazhde",
+      "order": 4
+    },
+    {
+      "name": "Aasif Mandvi",
+      "character": "Khalil Saleh",
+      "order": 5
+    },
+    {
+      "name": "Mark Valley",
+      "character": "FBI Agent Mike Johanssen",
+      "order": 6
+    },
+    {
+      "name": "Jack Gwaltney",
+      "character": "Fred Darius",
+      "order": 7
+    },
+    {
+      "name": "David Proval",
+      "character": "Danny Sussman",
+      "order": 8
+    },
+    {
+      "name": "Lance Reddick",
+      "character": "FBI Agent Floyd Rose",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg",
+  "backdrop_path": "/c2B8gl2ZLbelWxS0ZODPKGJxdWX.jpg",
+  "budget": 70000000,
+  "revenue": 116700000,
+  "vote_average": 6.294,
+  "vote_count": 1454,
+  "imdb_id": "tt0133952",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

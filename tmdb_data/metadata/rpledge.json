@@ -1,0 +1,189 @@
+{
+  "tmdb_id": 5955,
+  "title": "The Pledge",
+  "original_title": "The Pledge",
+  "release_date": "2001-01-19",
+  "runtime": 124,
+  "tagline": "Detective Jerry Black has made a promise he can't break, to catch a killer he can't find.",
+  "overview": "A police chief, about to retire, pledges to help a woman find her daughter's killer.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Franchise Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Clyde Is Hungry Films",
+      "country": "US"
+    },
+    {
+      "name": "Pledge Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Sean Penn"
+  ],
+  "writers": [
+    {
+      "name": "Jerzy Kromolowski",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mary Olson-Kromolowski",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Friedrich Dürrenmatt",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sean Penn",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrew Stevens",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael Fitzgerald",
+      "job": "Producer"
+    },
+    {
+      "name": "Elie Samaha",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Carmody",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jack Nicholson",
+      "character": "Jerry Black",
+      "order": 0
+    },
+    {
+      "name": "Helen Mirren",
+      "character": "Doctor",
+      "order": 1
+    },
+    {
+      "name": "Aaron Eckhart",
+      "character": "Stan Krolak",
+      "order": 2
+    },
+    {
+      "name": "Robin Wright",
+      "character": "Lori",
+      "order": 3
+    },
+    {
+      "name": "Sam Shepard",
+      "character": "Eric Pollack",
+      "order": 4
+    },
+    {
+      "name": "Benicio del Toro",
+      "character": "Toby Jay Wadenah",
+      "order": 5
+    },
+    {
+      "name": "Patricia Clarkson",
+      "character": "Margaret Larsen",
+      "order": 6
+    },
+    {
+      "name": "Mickey Rourke",
+      "character": "Jim Olstad",
+      "order": 7
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "character": "Annalise Hansen",
+      "order": 8
+    },
+    {
+      "name": "Lois Smith",
+      "character": "Helen Jackson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg",
+  "backdrop_path": "/o62VYsoyEUYgYMn21Thd9GHTuUE.jpg",
+  "budget": 35000000,
+  "revenue": 29419291,
+  "vote_average": 6.563,
+  "vote_count": 1198,
+  "imdb_id": "tt0237572",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R18+"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

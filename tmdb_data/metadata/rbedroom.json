@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 1999,
+  "title": "In the Bedroom",
+  "original_title": "In the Bedroom",
+  "release_date": "2001-11-23",
+  "runtime": 131,
+  "tagline": "A young man. An older woman. Her ex-husband. Things are about to explode...",
+  "overview": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Serbo-Croatian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Good Machine",
+      "country": "US"
+    },
+    {
+      "name": "GreeneStreet Films",
+      "country": "US"
+    },
+    {
+      "name": "Standard Film Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Todd Field"
+  ],
+  "writers": [
+    {
+      "name": "Todd Field",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Andre Dubus",
+      "job": "Short Story"
+    },
+    {
+      "name": "Robert Festinger",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Todd Field",
+      "job": "Producer"
+    },
+    {
+      "name": "Graham Leader",
+      "job": "Producer"
+    },
+    {
+      "name": "Ross Katz",
+      "job": "Producer"
+    },
+    {
+      "name": "Ted Hope",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Penotti",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Wilkinson",
+      "character": "Matt Fowler",
+      "order": 0
+    },
+    {
+      "name": "Sissy Spacek",
+      "character": "Ruth Fowler",
+      "order": 1
+    },
+    {
+      "name": "Nick Stahl",
+      "character": "Frank Fowler",
+      "order": 2
+    },
+    {
+      "name": "Marisa Tomei",
+      "character": "Natalie Strout",
+      "order": 3
+    },
+    {
+      "name": "William Mapother",
+      "character": "Richard Strout",
+      "order": 4
+    },
+    {
+      "name": "William Wise",
+      "character": "Willis Grinnel",
+      "order": 5
+    },
+    {
+      "name": "Celia Weston",
+      "character": "Katie Grinnel",
+      "order": 6
+    },
+    {
+      "name": "Karen Allen",
+      "character": "Marla Keyes",
+      "order": 7
+    },
+    {
+      "name": "Frank T. Wells",
+      "character": "Henry",
+      "order": 8
+    },
+    {
+      "name": "W. Clapham Murray",
+      "character": "Carl",
+      "order": 9
+    }
+  ],
+  "poster_path": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+  "backdrop_path": "/r73OdC9TpRIknIsVyGCd5SSwplO.jpg",
+  "budget": 1700000,
+  "revenue": 44800000,
+  "vote_average": 6.9,
+  "vote_count": 395,
+  "imdb_id": "tt0247425",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

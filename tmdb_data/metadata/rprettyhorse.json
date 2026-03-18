@@ -1,0 +1,169 @@
+{
+  "tmdb_id": 21355,
+  "title": "All the Pretty Horses",
+  "original_title": "All the Pretty Horses",
+  "release_date": "2000-12-11",
+  "runtime": 117,
+  "tagline": "Some passions can never be tamed.",
+  "overview": "The year is 1949. A young Texan named John Grady finds himself without a home after his mother sells the ranch where he has spent his entire life. Lured south of the border by the romance of cowboy life and the promise of a fresh start, Cole and his pal embark on an adventure that will test their resilience, define their maturity, and change their lives forever.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Miramax",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Billy Bob Thornton"
+  ],
+  "writers": [
+    {
+      "name": "Ted Tally",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Cormac McCarthy",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Salerno",
+      "job": "Producer"
+    },
+    {
+      "name": "Sally Menke",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jonathan Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Billy Bob Thornton",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "character": "John Grady",
+      "order": 0
+    },
+    {
+      "name": "Henry Thomas",
+      "character": "Rawlins",
+      "order": 1
+    },
+    {
+      "name": "Lucas Black",
+      "character": "Blevins",
+      "order": 2
+    },
+    {
+      "name": "Penélope Cruz",
+      "character": "Alejandra",
+      "order": 3
+    },
+    {
+      "name": "Rubén Blades",
+      "character": "Rocha",
+      "order": 4
+    },
+    {
+      "name": "Robert Patrick",
+      "character": "Cole",
+      "order": 5
+    },
+    {
+      "name": "Julio Oscar Mechoso",
+      "character": "Captain",
+      "order": 6
+    },
+    {
+      "name": "Angelina Torres",
+      "character": "Luisa",
+      "order": 7
+    },
+    {
+      "name": "J.D. Young",
+      "character": "Grandfather",
+      "order": 8
+    },
+    {
+      "name": "Laura Poe",
+      "character": "Mother",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6E4E7wYXw1DE2321F2hVNryLSk7.jpg",
+  "backdrop_path": "/7U6WJ0qri2sACtcGa0wEpM9eAM1.jpg",
+  "budget": 57000000,
+  "revenue": 18133495,
+  "vote_average": 5.7,
+  "vote_count": 235,
+  "imdb_id": "tt0149624",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

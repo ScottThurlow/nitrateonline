@@ -1,0 +1,157 @@
+{
+  "tmdb_id": 10391,
+  "title": "Bless the Child",
+  "original_title": "Bless the Child",
+  "release_date": "2000-08-11",
+  "runtime": 107,
+  "tagline": "Mankind's last hope just turned six.",
+  "overview": "When Maggie's sister Jenna saddles her with an autistic newborn named Cody she touches Maggie's heart and becomes the daughter she has always longed for. But six years later Jenna suddenly re-enters her life and, with her mysterious new husband, Eric Stark, abducts Cody. Despite the fact that Maggie has no legal rights to Cody, FBI agent John Travis takes up her cause when he realizes that Cody shares the same birth date as several other recently murdered children.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Munich Film Partners & Company (MFP) BTC Productions",
+      "country": ""
+    },
+    {
+      "name": "Paramount Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Icon Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Chuck Russell"
+  ],
+  "writers": [
+    {
+      "name": "Cathy Cash Spellman",
+      "job": "Novel"
+    },
+    {
+      "name": "Clifford Green",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ellen Green",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Thomas Rickman",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mace Neufeld",
+      "job": "Producer"
+    },
+    {
+      "name": "Lis Kern",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bruce Davey",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Rehme",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kim Basinger",
+      "character": "Maggie O'Connor",
+      "order": 0
+    },
+    {
+      "name": "Jimmy Smits",
+      "character": "Agent John Travis",
+      "order": 1
+    },
+    {
+      "name": "Rufus Sewell",
+      "character": "Eric Stark",
+      "order": 2
+    },
+    {
+      "name": "Ian Holm",
+      "character": "Reverend Grissom",
+      "order": 3
+    },
+    {
+      "name": "Angela Bettis",
+      "character": "Jenna",
+      "order": 4
+    },
+    {
+      "name": "Holliston Coleman",
+      "character": "Cody",
+      "order": 5
+    },
+    {
+      "name": "Christina Ricci",
+      "character": "Cheri Post",
+      "order": 6
+    },
+    {
+      "name": "Lumi Cavazos",
+      "character": "Sister Rosa",
+      "order": 7
+    },
+    {
+      "name": "Michael Gaston",
+      "character": "Det. Frank Bugatti",
+      "order": 8
+    },
+    {
+      "name": "Eugene Lipinski",
+      "character": "Stuart",
+      "order": 9
+    }
+  ],
+  "poster_path": "/s1RGEF8xIA6ecF8W4do8CaWI0yE.jpg",
+  "backdrop_path": "/oJUk1lRbpGF55f5N4ZUPDAp0F72.jpg",
+  "budget": 40000000,
+  "revenue": 40443010,
+  "vote_average": 5.322,
+  "vote_count": 303,
+  "imdb_id": "tt0163983",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

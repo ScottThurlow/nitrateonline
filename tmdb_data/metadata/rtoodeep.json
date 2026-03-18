@@ -1,0 +1,145 @@
+{
+  "tmdb_id": 22314,
+  "title": "In Too Deep",
+  "original_title": "In Too Deep",
+  "release_date": "1999-08-25",
+  "runtime": 95,
+  "tagline": "He didn't know how far he'd have to go.",
+  "overview": "Drug lord Dwayne Gittens rules Cincinnati with an iron fist. No wonder he's known as \"God\" on the streets. Determined to break Gittens' stranglehold on the city is undercover cop Jeffrey Cole. But as Cole takes on an assumed identity to penetrate Gittens' criminal empire, he makes a disturbing discovery -- he kind of likes being a gangster.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Dimension Films",
+      "country": "US"
+    },
+    {
+      "name": "Suntaur Entertainment Company",
+      "country": ""
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Rymer"
+  ],
+  "writers": [
+    {
+      "name": "Michael Henry Brown",
+      "job": "Writer"
+    },
+    {
+      "name": "Paul Aaron",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Michael Henry Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Paul Aaron",
+      "job": "Producer"
+    },
+    {
+      "name": "Don Carmody",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Amy Slotnick",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jeremy Kramer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Bob Weinstein",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Omar Epps",
+      "character": "Jeff Cole / J. Reid",
+      "order": 0
+    },
+    {
+      "name": "LL Cool J",
+      "character": "Dwayne Gittens / God",
+      "order": 1
+    },
+    {
+      "name": "Nia Long",
+      "character": "Myra",
+      "order": 2
+    },
+    {
+      "name": "Stanley Tucci",
+      "character": "Preston D'Ambrosio",
+      "order": 3
+    },
+    {
+      "name": "Hill Harper",
+      "character": "Breezy T.",
+      "order": 4
+    },
+    {
+      "name": "Jake Weber",
+      "character": "Daniel Connelly",
+      "order": 5
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Det. Angela Wilson",
+      "order": 6
+    },
+    {
+      "name": "Richard Brooks",
+      "character": "Wesley",
+      "order": 7
+    },
+    {
+      "name": "David Patrick Kelly",
+      "character": "Rick Scott",
+      "order": 8
+    },
+    {
+      "name": "Hassan Johnson",
+      "character": "Latique",
+      "order": 9
+    }
+  ],
+  "poster_path": "/mYteXffai9mmShyGCa4nPhfGCLQ.jpg",
+  "backdrop_path": "/vBPR3urSuYheuF8FjY5UZiPzqgV.jpg",
+  "budget": 7000000,
+  "revenue": 14011454,
+  "vote_average": 6.396,
+  "vote_count": 111,
+  "imdb_id": "tt0160401",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

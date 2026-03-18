@@ -1,0 +1,147 @@
+{
+  "tmdb_id": 46993,
+  "title": "Madame Satã",
+  "original_title": "Madame Satã",
+  "release_date": "2002-10-03",
+  "runtime": 105,
+  "tagline": "Hustler, dreamer, devil, saint",
+  "overview": "In the favelas of Rio de Janeiro of the 1930s, João Francisco dos Santos is several things — son of slaves, ex-convict, thug, homosexual and adopted father for a number of pariahs. João expresses himself on the stage of a cabaret as Madame Satã.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "History"
+  ],
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_companies": [
+    {
+      "name": "VideoFilmes",
+      "country": "BR"
+    },
+    {
+      "name": "Wild Bunch",
+      "country": "FR"
+    },
+    {
+      "name": "Lumière",
+      "country": "BR"
+    },
+    {
+      "name": "Dominant 7",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Karim Aïnouz"
+  ],
+  "writers": [
+    {
+      "name": "Karim Aïnouz",
+      "job": "Writer"
+    },
+    {
+      "name": "Marcelo Gomes",
+      "job": "Writer"
+    },
+    {
+      "name": "Sérgio Machado",
+      "job": "Writer"
+    },
+    {
+      "name": "Mauricio Zacharias",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Beauchamps",
+      "job": "Producer"
+    },
+    {
+      "name": "Isabel Diegues",
+      "job": "Producer"
+    },
+    {
+      "name": "Vincent Maraval",
+      "job": "Producer"
+    },
+    {
+      "name": "Mauricio Andrade Ramos",
+      "job": "Producer"
+    },
+    {
+      "name": "Donald Ranvaud",
+      "job": "Producer"
+    },
+    {
+      "name": "Juliette Renaud",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter Salles",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Lázaro Ramos",
+      "character": "João Francisco dos Santos / Madame Satã",
+      "order": 0
+    },
+    {
+      "name": "Marcélia Cartaxo",
+      "character": "Laurita",
+      "order": 1
+    },
+    {
+      "name": "Flávio Bauraqui",
+      "character": "Tabu",
+      "order": 2
+    },
+    {
+      "name": "Renata Sorrah",
+      "character": "Vitória dos Anjos",
+      "order": 3
+    },
+    {
+      "name": "Fellipe Marques",
+      "character": "Renatinho",
+      "order": 4
+    },
+    {
+      "name": "Emiliano Queiroz",
+      "character": "Amador",
+      "order": 5
+    },
+    {
+      "name": "Gero Camilo",
+      "character": "Preso",
+      "order": 6
+    },
+    {
+      "name": "Floriano Peixoto",
+      "character": "Gregório",
+      "order": 7
+    },
+    {
+      "name": "Eduardo Coutinho",
+      "character": "Juiz",
+      "order": 8
+    },
+    {
+      "name": "Ricardo Blat",
+      "character": "José",
+      "order": 9
+    }
+  ],
+  "poster_path": "/rgsrsLJXzzmMiTvatmEhXU8fMY2.jpg",
+  "backdrop_path": "/4xp2igbXfRYa7pWsBfsQQKqRRpE.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.8,
+  "vote_count": 80,
+  "imdb_id": "tt0317887",
+  "status": "Released"
+}

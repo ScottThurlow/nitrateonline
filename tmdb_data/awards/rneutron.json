@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 Oscar. 6 nominations total",
+  "rated": "G",
+  "released": "21 Dec 2001",
+  "runtime": "82 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "John A. Davis",
+  "writer": "John A. Davis, David N. Weiss, J. David Stem",
+  "actors": "Debi Derryberry, Rob Paulsen, Megan Cavanagh",
+  "plot": "Jimmy Neutron is a boy genius and way ahead of his friends, but when it comes to being cool, he's a little behind. All until one day when his parents, and parents all over Earth are kidnapped by aliens, it's up to him to lead all the children of the world to rescue their parents.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "65",
+  "imdb_rating": "6.1",
+  "imdb_votes": "40,408",
+  "box_office": "$80,936,232",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=Jimmy+Neutron%3A+Boy+Genius"
+    },
+    {
+      "source": "Metacritic",
+      "value": "65/100",
+      "link": "https://www.metacritic.com/search/Jimmy+Neutron%3A+Boy+Genius/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0268397/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0268397/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12589"
+  }
+}

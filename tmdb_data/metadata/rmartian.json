@@ -1,0 +1,136 @@
+{
+  "tmdb_id": 9849,
+  "title": "My Favorite Martian",
+  "original_title": "My Favorite Martian",
+  "release_date": "1999-02-11",
+  "runtime": 94,
+  "tagline": "The martian has landed. There goes the neighborhood.",
+  "overview": "Ambitious television reporter Tim O'Hara stumbles upon a martian whose spaceship has accidentally crashed on Earth. Thinking this is his ticket to a Pulitzer Prize, Tim makes plans to expose the martian, who, posing as Tim's Uncle Martin, takes human form and has plans of his own. In fact, all of Tim's efforts to divulge the truth are systematically thwarted by the resourceful alien, who ultimately recruits Tim to help him repair his ship for a return to Mars.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Donald Petrie"
+  ],
+  "writers": [
+    {
+      "name": "Sherri Stoner",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Deanna Oliver",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry Leider",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Toberoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert Shapiro",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Bernardi",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christopher Lloyd",
+      "character": "Uncle Martin",
+      "order": 0
+    },
+    {
+      "name": "Jeff Daniels",
+      "character": "Tim O'Hara",
+      "order": 1
+    },
+    {
+      "name": "Elizabeth Hurley",
+      "character": "Brace Channing",
+      "order": 2
+    },
+    {
+      "name": "Daryl Hannah",
+      "character": "Lizzie",
+      "order": 3
+    },
+    {
+      "name": "Wallace Shawn",
+      "character": "Coleye",
+      "order": 4
+    },
+    {
+      "name": "Christine Ebersole",
+      "character": "Mrs. Brown",
+      "order": 5
+    },
+    {
+      "name": "Michael Lerner",
+      "character": "Mr. Channing",
+      "order": 6
+    },
+    {
+      "name": "Ray Walston",
+      "character": "Armitan",
+      "order": 7
+    },
+    {
+      "name": "Shelley Malil",
+      "character": "Felix",
+      "order": 8
+    },
+    {
+      "name": "Jeremy Hotz",
+      "character": "Billy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pOp4xriDEFUy2uN0BfnHJcjzqWt.jpg",
+  "backdrop_path": "/1viDPGEPpEZBVwuIotnaXBQNyGQ.jpg",
+  "budget": 65000000,
+  "revenue": 36850101,
+  "vote_average": 5.632,
+  "vote_count": 340,
+  "imdb_id": "tt0120764",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

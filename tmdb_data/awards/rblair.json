@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "23 wins & 27 nominations total",
+  "rated": "R",
+  "released": "30 Jul 1999",
+  "runtime": "81 min",
+  "genre": "Horror, Mystery",
+  "director": "Daniel Myrick, Eduardo Sánchez",
+  "writer": "Daniel Myrick, Eduardo Sánchez, Heather Donahue",
+  "actors": "Heather Donahue, Joshua Leonard, Michael C. Williams",
+  "plot": "In search of a local legend, three bold amateur documentarians--director, Heather; cameraman, Josh; sound recorder, Mike--hike into Burkittsville's gloomy Black Hills Forest to find a shadow: the fabled Blair Witch. Now, one long year later--after that fateful October of 1994--there's still no sign of the student filmmakers, apart from the raw footage they left behind. Who knows what truly happened during their creepy five-day journey into the mouth of madness? Was there, indeed, an intangible supernatural presence in the dark woods that led to the team's disappearance? Either way, the missing trio must have seen something. Could the nightmarish myth be real?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "80",
+  "imdb_rating": "6.5",
+  "imdb_votes": "309,752",
+  "box_office": "$140,539,099",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Blair+Witch+Project"
+    },
+    {
+      "source": "Metacritic",
+      "value": "80/100",
+      "link": "https://www.metacritic.com/search/The+Blair+Witch+Project/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0185937/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0185937/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/2667"
+  }
+}

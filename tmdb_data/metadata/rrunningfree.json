@@ -1,0 +1,108 @@
+{
+  "tmdb_id": 120077,
+  "title": "Running Free",
+  "original_title": "Running Free",
+  "release_date": "1999-11-11",
+  "runtime": 81,
+  "tagline": "His Spirit could never be Broken",
+  "overview": "The tale of the extraordinary life and times of Lucky, a horse that was born in captivity but achieves his dream of running free with the help of a stableboy.",
+  "genres": [
+    "Family"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Sergei Bodrov"
+  ],
+  "writers": [
+    {
+      "name": "Jeanne Rosenberg",
+      "job": "Writer"
+    },
+    {
+      "name": "Jean-Jacques Annaud",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jean-Jacques Annaud",
+      "job": "Producer"
+    },
+    {
+      "name": "Alisa Tager",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lloyd Phillips",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Chase Moore",
+      "character": "Young Richard",
+      "order": 0
+    },
+    {
+      "name": "Maria Geelbooi",
+      "character": "Nyka",
+      "order": 1
+    },
+    {
+      "name": "Jan Decleir",
+      "character": "Boss Man",
+      "order": 2
+    },
+    {
+      "name": "Arie Verveen",
+      "character": "Adult Richard",
+      "order": 3
+    },
+    {
+      "name": "Graham Clarke",
+      "character": "Mine Supervisor",
+      "order": 4
+    },
+    {
+      "name": "Patrick Lyster",
+      "character": "Officer",
+      "order": 5
+    },
+    {
+      "name": "Morné Visser",
+      "character": "Groom",
+      "order": 6
+    },
+    {
+      "name": "Dan Robbertse",
+      "character": "Colonel",
+      "order": 7
+    },
+    {
+      "name": "Robin Smith",
+      "character": "Blacksmith",
+      "order": 8
+    },
+    {
+      "name": "Lukas Haas",
+      "character": "Narrator",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ldhNWUUNNk4CdbFKNTYAQFg6uKM.jpg",
+  "backdrop_path": "/7Op42Di66VqkWu2TZfMQVzYGYkQ.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.692,
+  "vote_count": 13,
+  "imdb_id": "tt0173910",
+  "status": "Released"
+}

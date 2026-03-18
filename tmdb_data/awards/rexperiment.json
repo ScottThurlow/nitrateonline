@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "14 wins & 14 nominations total",
+  "rated": "R",
+  "released": "08 Mar 2001",
+  "runtime": "120 min",
+  "genre": "Drama, Thriller",
+  "director": "Oliver Hirschbiegel",
+  "writer": "Mario Giordano, Christoph Darnstädt, Don Bohlinger",
+  "actors": "Moritz Bleibtreu, Christian Berkel, Oliver Stokowski",
+  "plot": "The movie is based on the infamous \"Stanford Prison Experiment\" conducted in 1971. A makeshift prison is set up in a research lab, complete with cells, bars and surveillance cameras. For two weeks 20 male participants are hired to play prisoners and guards. The 'prisoners' are locked up and have to follow seemingly mild rules, and the 'guards' are told simply to retain order without using physical violence. Everybody is free to quit at any time, thereby forfeiting payment. In the beginning the mood between both groups is insecure and rather emphatic. But soon quarrels arise and the wardens employ ever more drastic sanctions to confirm their authority.",
+  "language": "German, English",
+  "country": "Germany",
+  "metascore": "59",
+  "imdb_rating": "7.7",
+  "imdb_votes": "97,690",
+  "box_office": "$144,634",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "72%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Experiment"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/The+Experiment/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0250258/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0250258/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/575"
+  }
+}

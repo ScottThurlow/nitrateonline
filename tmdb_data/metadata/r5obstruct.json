@@ -1,0 +1,154 @@
+{
+  "tmdb_id": 12456,
+  "title": "The Five Obstructions",
+  "original_title": "De fem benspænd",
+  "release_date": "2003-11-07",
+  "runtime": 90,
+  "tagline": "",
+  "overview": "In 1967, experimental filmmaker Jorgen Leth created a striking short film, The Perfect Human, starring a man and women sitting in a box while a narrator poses questions about their relationship and humanity. Years later, Danish director Lars von Trier made a deal with Leth to remake his film five times, each under a different set of circumstances and with von Trier's strictly prescribed rules. As Leth completes each challenge, von Trier creates increasingly further elaborate stipulations.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "Danish",
+    "French",
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Panic Productions",
+      "country": "FR"
+    },
+    {
+      "name": "Wajnbrosse Productions",
+      "country": "BE"
+    },
+    {
+      "name": "Almaz Film Productions",
+      "country": "CH"
+    },
+    {
+      "name": "Zentropa Entertainments",
+      "country": "DK"
+    }
+  ],
+  "director": [
+    "Jørgen Leth",
+    "Lars von Trier"
+  ],
+  "writers": [
+    {
+      "name": "Lars von Trier",
+      "job": "Idea"
+    },
+    {
+      "name": "Lars von Trier",
+      "job": "Writer"
+    },
+    {
+      "name": "Asger Leth",
+      "job": "Writer"
+    },
+    {
+      "name": "Jørgen Leth",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Carsten Holst",
+      "job": "Producer"
+    },
+    {
+      "name": "Peter Aalbæk Jensen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Vibeke Windeløv",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Anders Jacobsen",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jørgen Leth",
+      "character": "Voice-over (from Det perfekte menneske) / Self - Director / +",
+      "order": 0
+    },
+    {
+      "name": "Lars von Trier",
+      "character": "Self / Obstructor (segment \"The Conversations\")",
+      "order": 1
+    },
+    {
+      "name": "Claus Nissen",
+      "character": "The Perfect Man (from Det perfekte menneske) (archive footage)",
+      "order": 2
+    },
+    {
+      "name": "Majken Algren Nielsen",
+      "character": "The Perfect Woman (from Det perfekte menneske) (archive footage)",
+      "order": 3
+    },
+    {
+      "name": "Daniel Hernandez Rodriguez",
+      "character": "The Perfect Man (segment \"Cuba\")",
+      "order": 4
+    },
+    {
+      "name": "Jacqueline Arenal",
+      "character": "The Perfect Woman (segment \"Cuba\")",
+      "order": 5
+    },
+    {
+      "name": "Vivian Rosa",
+      "character": "(segment \"Cuba\")",
+      "order": 6
+    },
+    {
+      "name": "Patrick Bauchau",
+      "character": "The Perfect Man / Voice-over (Brussels) / Speaker (Cartoon)",
+      "order": 7
+    },
+    {
+      "name": "Alexandra Vandernoot",
+      "character": "The Perfect Woman (segment \"Brussels\")",
+      "order": 8
+    },
+    {
+      "name": "Marie Dejaer",
+      "character": "Maid (segment \"Brussels\")",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xMcCmIdos88yd44xqCXj4NUWph3.jpg",
+  "backdrop_path": "/cP31o6Ta11t4PFo7PYvtCOTJJhs.jpg",
+  "budget": 0,
+  "revenue": 279032,
+  "vote_average": 6.924,
+  "vote_count": 170,
+  "imdb_id": "tt0354575",
+  "certifications": [
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NO",
+      "rating": "A"
+    }
+  ],
+  "status": "Released"
+}

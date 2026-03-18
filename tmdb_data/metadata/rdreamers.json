@@ -1,0 +1,85 @@
+{
+  "tmdb_id": 494214,
+  "title": "Cinema, Sex, Politics: Bertolucci Makes ‘The Dreamers’",
+  "original_title": "Cinema, Sex, Politics: Bertolucci Makes ‘The Dreamers’",
+  "release_date": "2004-03-01",
+  "runtime": 52,
+  "tagline": "",
+  "overview": "The making of The Dreamers, its background and relation to the May 1968 student riots in Paris.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [],
+  "production_companies": [
+    {
+      "name": "BBC",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "David M. Thompson"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Bernardo Bertolucci",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Michael Pitt",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Eva Green",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Louis Garrel",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Gilbert Adair",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Fabio Cianchetti",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Jean-Pierre Kalfon",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Jean-Pierre Léaud",
+      "character": "Self (uncredited)",
+      "order": 7
+    },
+    {
+      "name": "Jeremy Thomas",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Jean Rabasse",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hMu5k6SVGMyQvtuLB3Sa4ztipPy.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 2,
+  "imdb_id": "tt0425774",
+  "certifications": [],
+  "status": "Released"
+}

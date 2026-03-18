@@ -1,0 +1,40 @@
+{
+  "year": "1999",
+  "awards": "1 win & 4 nominations total",
+  "rated": "R",
+  "released": "15 Oct 1999",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Rob Reiner",
+  "writer": "Alan Zweibel, Jessie Nelson",
+  "actors": "Bruce Willis, Michelle Pfeiffer, Colleen Rennison",
+  "plot": "Ben and Katie married fifteen years ago and gifted with two children. They stay together but their hearts had separated long back. After the kids are send to summer camp both start living separately and eventually preparing to break news of their separation to the kids. But being alone in each one's own world makes them to think about the other. When the D-day comes Katie and Ben stick together for the good of their children.",
+  "language": "English, Italian",
+  "country": "United States",
+  "metascore": "37",
+  "imdb_rating": "6.0",
+  "imdb_votes": "25,484",
+  "box_office": "$27,100,031",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "25%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Story+of+Us"
+    },
+    {
+      "source": "Metacritic",
+      "value": "37/100",
+      "link": "https://www.metacritic.com/search/The+Story+of+Us/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0160916/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0160916/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12220"
+  }
+}

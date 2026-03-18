@@ -1,0 +1,100 @@
+{
+  "tmdb_id": 673126,
+  "title": "The Nature of Lantana",
+  "original_title": "The Nature of Lantana",
+  "release_date": "2002-08-13",
+  "runtime": 40,
+  "tagline": "",
+  "overview": "The making of Lantana, a 2001 Australian drama film directed by Ray Lawrence and starring Anthony LaPaglia, Kerry Armstrong, Geoffrey Rush and Barbara Hershey.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Jan Chapman Films",
+      "country": ""
+    },
+    {
+      "name": "Oasis DVD",
+      "country": ""
+    },
+    {
+      "name": "Palace Films",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Karl Sodersten"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "David Chambers",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Barbara Hershey",
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "name": "Andrew Bovell",
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "name": "Ray Lawrence",
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "name": "Jan Chapman",
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "name": "Geoffrey Rush",
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "name": "Anthony LaPaglia",
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "name": "Vince Colosimo",
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "name": "Daniela Farinacci",
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "name": "Kim Buddee",
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "name": "Mandy Walker",
+      "character": "Self",
+      "order": 9
+    }
+  ],
+  "poster_path": "/jUnLcibWqdtxpAlXATa4SzVjraU.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "imdb_id": null,
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,132 @@
+{
+  "tmdb_id": 31016,
+  "title": "Sidewalks of New York",
+  "original_title": "Sidewalks of New York",
+  "release_date": "2001-11-23",
+  "runtime": 107,
+  "tagline": "In a city of 8 million people, what are the odds the perfect two will meet?",
+  "overview": "The film follows the marital and dating lives of three men and three women who unknowingly form a tangled web of relationships. Interspersing \"man on the street\" interviews with scenes from the six characters' lives, the film weaves a humorous and biting commentary on the game of love -- easy to start, hard to finish.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Artists Production Group",
+      "country": "US"
+    },
+    {
+      "name": "Marlboro Road Gang Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Edward Burns"
+  ],
+  "writers": [
+    {
+      "name": "Edward Burns",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Edward Burns",
+      "job": "Producer"
+    },
+    {
+      "name": "Cathy Schulman",
+      "job": "Producer"
+    },
+    {
+      "name": "Margot Bridger",
+      "job": "Producer"
+    },
+    {
+      "name": "Rick Yorn",
+      "job": "Producer"
+    },
+    {
+      "name": "Richard Patrick",
+      "job": "Producer"
+    },
+    {
+      "name": "Frank Prinzi",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Edward Burns",
+      "character": "Tommy",
+      "order": 0
+    },
+    {
+      "name": "Heather Graham",
+      "character": "Annie",
+      "order": 1
+    },
+    {
+      "name": "Rosario Dawson",
+      "character": "Maria",
+      "order": 2
+    },
+    {
+      "name": "Dennis Farina",
+      "character": "Carpo",
+      "order": 3
+    },
+    {
+      "name": "Brittany Murphy",
+      "character": "Ashley",
+      "order": 4
+    },
+    {
+      "name": "David Krumholtz",
+      "character": "Ben",
+      "order": 5
+    },
+    {
+      "name": "Stanley Tucci",
+      "character": "Griffin",
+      "order": 6
+    },
+    {
+      "name": "Callie Thorne",
+      "character": "Sue",
+      "order": 7
+    },
+    {
+      "name": "Aida Turturro",
+      "character": "Shari",
+      "order": 8
+    },
+    {
+      "name": "Kathleen Doyle",
+      "character": "Katy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oJuZGjMUKsYJXSkLXdOZ9CePJhg.jpg",
+  "backdrop_path": "/hkRqomcT1A39BtmVU9wjbk8PIq8.jpg",
+  "budget": 1000000,
+  "revenue": 2402459,
+  "vote_average": 5.993,
+  "vote_count": 74,
+  "imdb_id": "tt0239986",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

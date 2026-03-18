@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "2 wins & 8 nominations total",
+  "rated": "PG-13",
+  "released": "28 Sep 2001",
+  "runtime": "101 min",
+  "genre": "Drama, Mystery",
+  "director": "Scott Hicks",
+  "writer": "Stephen King, William Goldman",
+  "actors": "Anthony Hopkins, Anton Yelchin, Hope Davis",
+  "plot": "This is a gentle, innocent movie about the reflections of an aging man (David Morse), who returns to his home town after the death of his best friend. Memories of life at age eleven floods back as it was a magical time that changed his life. Three eleven-year-old children, Bobby Garfield (Anton Yelchin), Carol Gerber (Mika Boorem), and John \"Sully\" Sullivan (Will Rothhaar), share their lives. Carol and Bobby have a special affection for one another including sharing a kiss \"by which all others will be measured.\" Bobby lives with his mother, Liz (Hope Davis), a bitter, vain woman who looks for pleasures for herself without sharing much with her son. Into their lives comes a mysterious new boarder, Ted Brautigan (Sir Anthony Hopkins), who befriends the boy, but generates distrust from the mother. As time passes, the man and boy share confidences, and special powers are revealed. The man warns the boy to be on the lookout for the \"Low Men in Yellow Coats\" who are seeking him. The two share a summer's adventures and come to love one another before the inevitable happens. A confrontation with a school bully also changes everyone.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "55",
+  "imdb_rating": "6.9",
+  "imdb_votes": "41,796",
+  "box_office": "$24,185,781",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=Hearts+in+Atlantis"
+    },
+    {
+      "source": "Metacritic",
+      "value": "55/100",
+      "link": "https://www.metacritic.com/search/Hearts+in+Atlantis/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0252501/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0252501/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11313"
+  }
+}

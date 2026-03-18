@@ -1,0 +1,330 @@
+{
+  "tmdb_id": 592983,
+  "title": "Spellbound",
+  "original_title": "Spellbound",
+  "release_date": "2024-11-22",
+  "runtime": 111,
+  "tagline": "Experience a twist on happily ever after.",
+  "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+  "genres": [
+    "Animation",
+    "Fantasy",
+    "Family",
+    "Adventure",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Skydance Animation",
+      "country": "US"
+    },
+    {
+      "name": "Skydance Animation",
+      "country": "ES"
+    }
+  ],
+  "director": [
+    "Vicky Jenson"
+  ],
+  "writers": [
+    {
+      "name": "Alan Menken",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Glenn Slater",
+      "job": "Lyricist"
+    },
+    {
+      "name": "Elizabeth Martin",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lauren Hynek",
+      "job": "Story"
+    },
+    {
+      "name": "Vicky Jenson",
+      "job": "Story"
+    },
+    {
+      "name": "Elizabeth Martin",
+      "job": "Story"
+    },
+    {
+      "name": "Julia Miranda",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Lauren Hynek",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian Pimental",
+      "job": "Head of Story"
+    },
+    {
+      "name": "Esdras Varagnolo",
+      "job": "Creative Producer"
+    },
+    {
+      "name": "Erik Smitt",
+      "job": "Creative Producer"
+    },
+    {
+      "name": "Abby Davies",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Alberto Rodríguez",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Alex Relloso",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Carlos Zapater",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Clarisse Chua",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Ethan Hegge",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Eric Elrod",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Kendelle Hoyer",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Javier Ledesma Barbolla",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Louie del Carmen",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Max Lang",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Nick Bakker",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Vitor Sérgio Sampaio",
+      "job": "Story Artist"
+    },
+    {
+      "name": "Sasha Schotzko-Harris",
+      "job": "Story Artist"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Lipman",
+      "job": "Producer"
+    },
+    {
+      "name": "David Ellison",
+      "job": "Producer"
+    },
+    {
+      "name": "Dana Goldberg",
+      "job": "Producer"
+    },
+    {
+      "name": "John Lasseter",
+      "job": "Producer"
+    },
+    {
+      "name": "Linda Woolverton",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Anderson",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Rachel Zegler",
+      "character": "Ellian (voice)",
+      "order": 0
+    },
+    {
+      "name": "Miguel Bernardeau",
+      "character": "Chilo (voice)",
+      "order": 1
+    },
+    {
+      "name": "Giovanna Bush",
+      "character": "Orsola (voice)",
+      "order": 2
+    },
+    {
+      "name": "Dennis Stowe",
+      "character": "Lumbrian Soldier (voice)",
+      "order": 3
+    },
+    {
+      "name": "Jenifer Lewis",
+      "character": "Nazara (voice)",
+      "order": 4
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "character": "Flink (voice)",
+      "order": 5
+    },
+    {
+      "name": "Susan Fitzer",
+      "character": "Old Maid (voice)",
+      "order": 6
+    },
+    {
+      "name": "Nicole Kidman",
+      "character": "Queen Ellsmere (voice)",
+      "order": 7
+    },
+    {
+      "name": "Javier Bardem",
+      "character": "King Solon (voice)",
+      "order": 8
+    },
+    {
+      "name": "John Lithgow",
+      "character": "Bolinar (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+  "backdrop_path": "/iqL1ztNeXAXulsZzpJWmyiZdZWc.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.6,
+  "vote_count": 297,
+  "imdb_id": "tt7215232",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "6"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CL",
+      "rating": "TE+7"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-7"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "IE",
+      "rating": "PG"
+    },
+    {
+      "country": "IN",
+      "rating": "U/A 7+"
+    },
+    {
+      "country": "KR",
+      "rating": "ALL"
+    },
+    {
+      "country": "LT",
+      "rating": "N-7"
+    },
+    {
+      "country": "LU",
+      "rating": "6"
+    },
+    {
+      "country": "LV",
+      "rating": "7+"
+    },
+    {
+      "country": "MX",
+      "rating": "A"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NZ",
+      "rating": "PG"
+    },
+    {
+      "country": "PL",
+      "rating": "7"
+    },
+    {
+      "country": "PR",
+      "rating": "PG"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "SG",
+      "rating": "PG"
+    },
+    {
+      "country": "SK",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    },
+    {
+      "country": "VI",
+      "rating": "PG"
+    },
+    {
+      "country": "ZA",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,191 @@
+{
+  "tmdb_id": 4464,
+  "title": "Seabiscuit",
+  "original_title": "Seabiscuit",
+  "release_date": "2003-07-22",
+  "runtime": 141,
+  "tagline": "The hopes of a nation rode on a long shot.",
+  "overview": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Spyglass Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Larger Than Life Productions",
+      "country": "US"
+    },
+    {
+      "name": "The Kennedy/Marshall Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Gary Ross"
+  ],
+  "writers": [
+    {
+      "name": "Gary Ross",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Laura Hillenbrand",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gary Ross",
+      "job": "Producer"
+    },
+    {
+      "name": "Frank Marshall",
+      "job": "Producer"
+    },
+    {
+      "name": "Allison Thomas",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Roger Birnbaum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Jane Sindell",
+      "job": "Producer"
+    },
+    {
+      "name": "Gary Barber",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Tobey Maguire",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robin Bissell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tobey Maguire",
+      "character": "Red Pollard",
+      "order": 0
+    },
+    {
+      "name": "David McCullough",
+      "character": "Narrator",
+      "order": 1
+    },
+    {
+      "name": "Jeff Bridges",
+      "character": "Charles Howard",
+      "order": 2
+    },
+    {
+      "name": "Chris Cooper",
+      "character": "Tom Smith",
+      "order": 3
+    },
+    {
+      "name": "Elizabeth Banks",
+      "character": "Marcela Howard",
+      "order": 4
+    },
+    {
+      "name": "Gary L. Stevens",
+      "character": "George Woolf",
+      "order": 5
+    },
+    {
+      "name": "Eddie Jones",
+      "character": "Samuel D. Riddle",
+      "order": 6
+    },
+    {
+      "name": "William H. Macy",
+      "character": "Tick Tock McGlaughlin",
+      "order": 7
+    },
+    {
+      "name": "Royce D. Applegate",
+      "character": "Dutch Doogan",
+      "order": 8
+    },
+    {
+      "name": "Chris McCarron",
+      "character": "Charley Kurtsinger",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+  "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+  "budget": 87000000,
+  "revenue": 148300000,
+  "vote_average": 7.056,
+  "vote_count": 916,
+  "imdb_id": "tt0329575",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,164 @@
+{
+  "tmdb_id": 6521,
+  "title": "The Contender",
+  "original_title": "The Contender",
+  "release_date": "2000-10-13",
+  "runtime": 126,
+  "tagline": "Sometimes you can assassinate a leader without firing a shot.",
+  "overview": "The vice president is dead, and as the president makes his choice for a replacement, a secret contest of wills is being waged by a formidable rival. When Senator Laine Hanson is nominated as the first woman in history to hold the office, hidden agendas explode into a battle for power.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "German"
+  ],
+  "production_companies": [
+    {
+      "name": "Cinerenta",
+      "country": "DE"
+    },
+    {
+      "name": "Cinecontender Internationale",
+      "country": "DE"
+    },
+    {
+      "name": "Battleplan Productions",
+      "country": "US"
+    },
+    {
+      "name": "SE8 Group",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rod Lurie"
+  ],
+  "writers": [
+    {
+      "name": "Rod Lurie",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Marc Frydman",
+      "job": "Producer"
+    },
+    {
+      "name": "Douglas Urbanski",
+      "job": "Producer"
+    },
+    {
+      "name": "Willi Bär",
+      "job": "Producer"
+    },
+    {
+      "name": "James Spies",
+      "job": "Producer"
+    },
+    {
+      "name": "Rainer Bienger",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Oldman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Maurice Leblond",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Joan Allen",
+      "character": "Laine Hanson",
+      "order": 0
+    },
+    {
+      "name": "Gary Oldman",
+      "character": "Shelly Runyon",
+      "order": 1
+    },
+    {
+      "name": "Jeff Bridges",
+      "character": "President Jackson Evans",
+      "order": 2
+    },
+    {
+      "name": "Christian Slater",
+      "character": "Reginald Webster",
+      "order": 3
+    },
+    {
+      "name": "Sam Elliott",
+      "character": "Kermit Newman",
+      "order": 4
+    },
+    {
+      "name": "William Petersen",
+      "character": "Jack Hathaway",
+      "order": 5
+    },
+    {
+      "name": "Saul Rubinek",
+      "character": "Jerry Tolliver",
+      "order": 6
+    },
+    {
+      "name": "Philip Baker Hall",
+      "character": "Oscar Billings",
+      "order": 7
+    },
+    {
+      "name": "Robin Thomas",
+      "character": "William Hanson",
+      "order": 8
+    },
+    {
+      "name": "Kathryn Morris",
+      "character": "Paige Willomina",
+      "order": 9
+    }
+  ],
+  "poster_path": "/duRe0F2GYHIDvqe2bqIAMP4gWeP.jpg",
+  "backdrop_path": "/9Ozm2xSLu292GTo06JJrlkGGDfq.jpg",
+  "budget": 20000000,
+  "revenue": 22428990,
+  "vote_average": 6.684,
+  "vote_count": 261,
+  "imdb_id": "tt0208874",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 61752,
+  "title": "Girl 6",
+  "original_title": "Girl 6",
+  "release_date": "1996-03-22",
+  "runtime": 108,
+  "tagline": "She's the only thing better than being there.",
+  "overview": "A struggling actress in New York City takes a job as a phone sex operator.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "40 Acres and a Mule Filmworks",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Spike Lee"
+  ],
+  "writers": [
+    {
+      "name": "Suzan-Lori Parks",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Spike Lee",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Kilik",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Theresa Randle",
+      "character": "Girl 6",
+      "order": 0
+    },
+    {
+      "name": "Isaiah Washington",
+      "character": "Shoplifter",
+      "order": 1
+    },
+    {
+      "name": "Spike Lee",
+      "character": "Jimmy",
+      "order": 2
+    },
+    {
+      "name": "Jenifer Lewis",
+      "character": "Boss #1 - Lil",
+      "order": 3
+    },
+    {
+      "name": "Debi Mazar",
+      "character": "Girl #39",
+      "order": 4
+    },
+    {
+      "name": "Peter Berg",
+      "character": "Caller #1 - Bob",
+      "order": 5
+    },
+    {
+      "name": "Michael Imperioli",
+      "character": "Scary Caller #30",
+      "order": 6
+    },
+    {
+      "name": "Dina Pearlman",
+      "character": "Girl #19",
+      "order": 7
+    },
+    {
+      "name": "Maggie Rush",
+      "character": "Girl #42",
+      "order": 8
+    },
+    {
+      "name": "Desi Moreno",
+      "character": "Girl #4",
+      "order": 9
+    }
+  ],
+  "poster_path": "/1SSYCOTrHucd9aBCyTfbLWcJ2zD.jpg",
+  "backdrop_path": "/wZIFAgcy7Hihvo8d0svFKCDlBQR.jpg",
+  "budget": 12000000,
+  "revenue": 4939939,
+  "vote_average": 5.0,
+  "vote_count": 119,
+  "imdb_id": "tt0116414",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "R 18+"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

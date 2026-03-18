@@ -1,0 +1,84 @@
+{
+  "tmdb_id": 354307,
+  "title": "Rain",
+  "original_title": "Rain",
+  "release_date": "2001-08-24",
+  "runtime": 97,
+  "tagline": "",
+  "overview": "A tragedy that tells the story of murder, sex and redemption against the backdrop of a dead-end town.",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Katherine Lindberg"
+  ],
+  "writers": [
+    {
+      "name": "Katherine Lindberg",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jordi Ros",
+      "job": "Producer"
+    },
+    {
+      "name": "Rainer Kölmel",
+      "job": "Producer"
+    },
+    {
+      "name": "Martin Scorsese",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrés Vicente Gómez",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Melora Walters",
+      "character": "Ellen Biddle",
+      "order": 0
+    },
+    {
+      "name": "Kris Park",
+      "character": "Richard Gibson",
+      "order": 1
+    },
+    {
+      "name": "Jamey Sheridan",
+      "character": "Sheriff Tom Gibson",
+      "order": 2
+    },
+    {
+      "name": "Diane Ladd",
+      "character": "Audrey Turnquick",
+      "order": 3
+    },
+    {
+      "name": "Ezra Buzzington",
+      "character": "Officer Ben Patterson",
+      "order": 4
+    },
+    {
+      "name": "Ellen Muth",
+      "character": "Jenny",
+      "order": 5
+    }
+  ],
+  "poster_path": "/edUz4s6cjwOBgkOjksUxssQnOTU.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 3.6,
+  "vote_count": 5,
+  "imdb_id": "tt0276437",
+  "status": "Released"
+}

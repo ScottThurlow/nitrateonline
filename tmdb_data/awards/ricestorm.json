@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Won 1 BAFTA Award9 wins & 33 nominations total",
+  "rated": "R",
+  "released": "26 Nov 1997",
+  "runtime": "112 min",
+  "genre": "Drama",
+  "director": "Ang Lee",
+  "writer": "Rick Moody, James Schamus",
+  "actors": "Kevin Kline, Joan Allen, William Cain",
+  "plot": "During the 1973 Thanksgiving weekend, the Hoods are - relationship-wise, skidding out-of-control, isolated from each other; Benjamin reels from drink-to-drink, His wife, Elena's losing patience with Ben's incessant lies. Home for the holidays, their son, Paul, heads into Manhattan, in search of a rich girl from his prep school. Wendy, the teenage daughter, roams the neighborhood, exploring the liquor and lingerie of her friends' parents, looking for something - anything - new. Then, an ice storm hits, and their problems seem inconsequential, and nothing will ever be the same.",
+  "language": "English",
+  "country": "United States, France",
+  "metascore": "72",
+  "imdb_rating": "7.3",
+  "imdb_votes": "63,025",
+  "box_office": "$8,038,061",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "86%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Ice+Storm"
+    },
+    {
+      "source": "Metacritic",
+      "value": "72/100",
+      "link": "https://www.metacritic.com/search/The+Ice+Storm/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119349/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119349/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/68924"
+  }
+}

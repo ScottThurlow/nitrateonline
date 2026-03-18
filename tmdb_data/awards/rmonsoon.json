@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "Nominated for 1 BAFTA Award7 wins & 12 nominations total",
+  "rated": "R",
+  "released": "26 Apr 2002",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Mira Nair",
+  "writer": "Sabrina Dhawan",
+  "actors": "Naseeruddin Shah, Lillete Dubey, Shefali Shah",
+  "plot": "A story set in the modern upper-middle class of India, where telecommunications and a western lifestyle mix with old traditions, like the arranged wedding young Aditi accepts when she ends the affair with a married TV producer. The groom is an Indian living in Texas, and all relatives from both families, some from distant places like Australia, come to New Delhi during the monsoon season to attend the wedding. The four-day arrangements and celebrations will see clumsy organization, family parties and drama, dangers to the happy end of the wedding, lots of music and even a new romance for the wedding planner Dubey with the housemaid Alice...",
+  "language": "Hindi, English",
+  "country": "India, United States, Italy, Germany, France, United Kingdom",
+  "metascore": "77",
+  "imdb_rating": "7.3",
+  "imdb_votes": "27,605",
+  "box_office": "$13,885,966",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "95%",
+      "link": "https://www.rottentomatoes.com/search?search=Monsoon+Wedding"
+    },
+    {
+      "source": "Metacritic",
+      "value": "77/100",
+      "link": "https://www.metacritic.com/search/Monsoon+Wedding/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0265343/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0265343/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/480"
+  }
+}

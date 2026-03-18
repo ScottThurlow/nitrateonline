@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "3 nominations total",
+  "rated": "R",
+  "released": "09 Aug 1996",
+  "runtime": "101 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "John Carpenter",
+  "writer": "John Carpenter, Nick Castle, Debra Hill",
+  "actors": "Kurt Russell, Steve Buscemi, Stacy Keach",
+  "plot": "The year is 2013 and Snake Plissken is back but this time it's L.A., which through the agency of earthquakes has become an island of the damned. But something has gone wrong in this new moral order, because the President's daughter has absconded to L.A. with a detonation device, and Snake is commandeered to retrieve it. But just below the surface there is a coiled Snake ready to strike.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "54",
+  "imdb_rating": "5.7",
+  "imdb_votes": "85,418",
+  "box_office": "$25,477,365",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "56%",
+      "link": "https://www.rottentomatoes.com/search?search=Escape+from+L.A."
+    },
+    {
+      "source": "Metacritic",
+      "value": "54/100",
+      "link": "https://www.metacritic.com/search/Escape+from+L.A./"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0116225/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0116225/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10061"
+  }
+}

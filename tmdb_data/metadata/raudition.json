@@ -1,0 +1,67 @@
+{
+  "tmdb_id": 483169,
+  "title": "Audition",
+  "original_title": "Audition",
+  "release_date": "2017-04-28",
+  "runtime": 7,
+  "tagline": "",
+  "overview": "A young girl struggles with anxiety and fear as she gets ready for her first audition. Before she is let in to the theater where its at, she stumbles on some strange and excited people. She calls her mum.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "LZ Motion",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Raul Toledo"
+  ],
+  "writers": [
+    {
+      "name": "Austin Harvey",
+      "job": "Writer"
+    }
+  ],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Mauricia Malveaux",
+      "character": "The secretary",
+      "order": 0
+    },
+    {
+      "name": "John W. Iwanonkiw",
+      "character": "Mr Reynolds",
+      "order": 1
+    },
+    {
+      "name": "Josie Albrecht",
+      "character": "A girl",
+      "order": 2
+    },
+    {
+      "name": "Phoebe Nerem",
+      "character": "Madison",
+      "order": 3
+    },
+    {
+      "name": "April Yanko",
+      "character": "Mom",
+      "order": 4
+    }
+  ],
+  "poster_path": "/gh8HwpGmCmlf1dSFQFUSn522BCf.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt6904742",
+  "certifications": [],
+  "status": "Released"
+}

@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 Oscar. 3 wins & 24 nominations total",
+  "rated": "R",
+  "released": "16 Oct 1998",
+  "runtime": "172 min",
+  "genre": "Drama, History, Horror",
+  "director": "Jonathan Demme",
+  "writer": "Toni Morrison, Akosua Busia, Richard LaGravenese",
+  "actors": "Oprah Winfrey, Danny Glover, Yada Beener",
+  "plot": "Haunted by so many painful and well-hidden secrets, former slave Sethe is bent on finding freedom for the sake of her children. Out of the blue, as Sethe struggles to grapple with her troubled past in her humble home somewhere in post-Civil-War Cincinnati, Paul D, an old familiar from the Kentucky farm euphemistically called Sweet Home, re-enters Sethe's life, eager to lend her a hand. Then a stranger arrives in the shape of a mysterious young woman, giving rise to a series of repressed memories. But who is she? Can Paul D help Sethe reinvent herself?",
+  "language": "English, Haitian",
+  "country": "United States",
+  "metascore": "57",
+  "imdb_rating": "6.0",
+  "imdb_votes": "9,677",
+  "box_office": "$22,852,487",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "71%",
+      "link": "https://www.rottentomatoes.com/search?search=Beloved"
+    },
+    {
+      "source": "Metacritic",
+      "value": "57/100",
+      "link": "https://www.metacritic.com/search/Beloved/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120603/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120603/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/39437"
+  }
+}

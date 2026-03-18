@@ -1,0 +1,153 @@
+{
+  "tmdb_id": 10219,
+  "title": "Snow Falling on Cedars",
+  "original_title": "Snow Falling on Cedars",
+  "release_date": "1999-12-22",
+  "runtime": 127,
+  "tagline": "First loves last forever.",
+  "overview": "In the 1950s, a Japanese-American fisherman is suspected of killing his neighbour at sea. For Ishmael, a local reporter, the trial strikes a deep emotional chord when he finds his ex-lover is linked to the case. As he investigates the killing, he uncovers some startling clues that lead him to a shocking discovery.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "German",
+    "Japanese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "The Kennedy/Marshall Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Scott Hicks"
+  ],
+  "writers": [
+    {
+      "name": "David Guterson",
+      "job": "Novel"
+    },
+    {
+      "name": "Scott Hicks",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ronald Bass",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ronald Bass",
+      "job": "Producer"
+    },
+    {
+      "name": "Carol Baum",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "job": "Producer"
+    },
+    {
+      "name": "Frank Marshall",
+      "job": "Producer"
+    },
+    {
+      "name": "Lloyd A. Silverman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Harry J. Ufland",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ethan Hawke",
+      "character": "Ishmael Chambers",
+      "order": 0
+    },
+    {
+      "name": "Youki Kudoh",
+      "character": "Hatsue Miyamoto",
+      "order": 1
+    },
+    {
+      "name": "Reeve Carney",
+      "character": "Young Ishmael Chambers",
+      "order": 2
+    },
+    {
+      "name": "Anne Suzuki",
+      "character": "Young Hatsue Imada",
+      "order": 3
+    },
+    {
+      "name": "Rick Yune",
+      "character": "Kazuo Miyamoto",
+      "order": 4
+    },
+    {
+      "name": "Max von Sydow",
+      "character": "Nels Gudmundsson",
+      "order": 5
+    },
+    {
+      "name": "James Rebhorn",
+      "character": "Alvin Hooks",
+      "order": 6
+    },
+    {
+      "name": "James Cromwell",
+      "character": "Judge Fielding",
+      "order": 7
+    },
+    {
+      "name": "Richard Jenkins",
+      "character": "Sheriff Art Moran",
+      "order": 8
+    },
+    {
+      "name": "Arija Bareikis",
+      "character": "Susan Marie Heine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/h1CujbeKvwkR6LMr4jVuMM0C94X.jpg",
+  "backdrop_path": "/aAIobmR0vHtbmUgVeEBLXrGcipm.jpg",
+  "budget": 35000000,
+  "revenue": 0,
+  "vote_average": 6.0,
+  "vote_count": 144,
+  "imdb_id": "tt0120834",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

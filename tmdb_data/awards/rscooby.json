@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "5 wins & 14 nominations total",
+  "rated": "PG",
+  "released": "14 Jun 2002",
+  "runtime": "86 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Raja Gosnell",
+  "writer": "James Gunn, Craig Titley, William Hanna",
+  "actors": "Matthew Lillard, Freddie Prinze Jr., Sarah Michelle Gellar",
+  "plot": "The Mystery Inc. gang have gone their separate ways and have been apart for two years, until they each receive an invitation to Spooky Island. Not knowing that the others have also been invited, they show up and discover an amusement park that affects young visitors in very strange ways. Fred, Daphne, Velma, Shaggy and Scooby soon realize that they cannot solve this mystery without help from each other.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "35",
+  "imdb_rating": "5.4",
+  "imdb_votes": "138,973",
+  "box_office": "$153,322,074",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "32%",
+      "link": "https://www.rottentomatoes.com/search?search=Scooby-Doo"
+    },
+    {
+      "source": "Metacritic",
+      "value": "35/100",
+      "link": "https://www.metacritic.com/search/Scooby-Doo/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0267913/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0267913/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9637"
+  }
+}

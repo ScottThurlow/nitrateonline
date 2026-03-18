@@ -1,0 +1,224 @@
+{
+  "tmdb_id": 1639,
+  "title": "Speed 2: Cruise Control",
+  "original_title": "Speed 2: Cruise Control",
+  "release_date": "1997-06-13",
+  "runtime": 125,
+  "tagline": "Rush hour hits the water.",
+  "overview": "A disgruntled former employee hijacks the Seabourn Legend cruise liner. Set on a fixed course, without any means of communication and at the mercy of the hijacker, it's up to the one cop on vacation, and his soon to be fiancé (hopefully) Annie, to regain control of it before it kills the passengers and causes an environmental disaster. Insurmountable and daunting tasks await them on their  perilous journey throughout the ship trying to fend off the hijacker and save the passengers.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Portuguese"
+  ],
+  "production_companies": [
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Blue Tulip Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Jan de Bont"
+  ],
+  "writers": [
+    {
+      "name": "Graham Yost",
+      "job": "Characters"
+    },
+    {
+      "name": "Jan de Bont",
+      "job": "Story"
+    },
+    {
+      "name": "Randall McCormick",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jeff Nathanson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Randall McCormick",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jan de Bont",
+      "job": "Producer"
+    },
+    {
+      "name": "Mark Gordon",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steve Perry",
+      "job": "Producer"
+    },
+    {
+      "name": "Michael Peyser",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "character": "Annie",
+      "order": 0
+    },
+    {
+      "name": "Jason Patric",
+      "character": "Alex",
+      "order": 1
+    },
+    {
+      "name": "Willem Dafoe",
+      "character": "Geiger",
+      "order": 2
+    },
+    {
+      "name": "Temuera Morrison",
+      "character": "Juliano",
+      "order": 3
+    },
+    {
+      "name": "Brian McCardie",
+      "character": "Merced",
+      "order": 4
+    },
+    {
+      "name": "Glenn Plummer",
+      "character": "Maurice",
+      "order": 5
+    },
+    {
+      "name": "Colleen Camp",
+      "character": "Debbie",
+      "order": 6
+    },
+    {
+      "name": "Lois Chiles",
+      "character": "Celeste",
+      "order": 7
+    },
+    {
+      "name": "Mike Hagerty",
+      "character": "Harvey",
+      "order": 8
+    },
+    {
+      "name": "Bo Svenson",
+      "character": "Captain Pollard",
+      "order": 9
+    }
+  ],
+  "poster_path": "/gnK1ocpwUTj24zAktzomOJsD2bu.jpg",
+  "backdrop_path": "/wmwEjQpqNXEIadsQoqWUS1pVVBi.jpg",
+  "budget": 160000000,
+  "revenue": 164508066,
+  "vote_average": 4.618,
+  "vote_count": 1771,
+  "imdb_id": "tt0120179",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CA",
+      "rating": "PG"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

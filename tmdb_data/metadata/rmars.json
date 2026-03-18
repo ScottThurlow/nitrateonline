@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 10016,
+  "title": "Ghosts of Mars",
+  "original_title": "Ghosts of Mars",
+  "release_date": "2001-08-14",
+  "runtime": 98,
+  "tagline": "Terror is the same on any planet.",
+  "overview": "In 2176, a Martian police unit is sent to pick up a highly dangerous criminal at a remote mining post. Upon arrival, the cops find the post deserted and something far more dangerous than any criminal — the original inhabitants of Mars, hellbent on getting their planet back.",
+  "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Animationwerks",
+      "country": ""
+    },
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Storm King Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Carpenter"
+  ],
+  "writers": [
+    {
+      "name": "John Carpenter",
+      "job": "Writer"
+    },
+    {
+      "name": "Larry Sulkis",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Sandy King",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Natasha Henstridge",
+      "character": "Lt. Melanie Ballard",
+      "order": 0
+    },
+    {
+      "name": "Ice Cube",
+      "character": "James 'Desolation' Williams",
+      "order": 1
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Commander Helena Braddock",
+      "order": 2
+    },
+    {
+      "name": "Jason Statham",
+      "character": "Sgt. Jericho Butler",
+      "order": 3
+    },
+    {
+      "name": "Clea DuVall",
+      "character": "Bashira Kincaid",
+      "order": 4
+    },
+    {
+      "name": "Joanna Cassidy",
+      "character": "Dr. Arlene Whitlock",
+      "order": 5
+    },
+    {
+      "name": "Richard Cetrone",
+      "character": "Big Daddy Mars",
+      "order": 6
+    },
+    {
+      "name": "Rosemary Forsyth",
+      "character": "Inquisitor",
+      "order": 7
+    },
+    {
+      "name": "Liam Waite",
+      "character": "Michael Descanso",
+      "order": 8
+    },
+    {
+      "name": "Duane Davis",
+      "character": "Uno",
+      "order": 9
+    }
+  ],
+  "poster_path": "/i2zztssCIbahGES1fdfWFmDXian.jpg",
+  "backdrop_path": "/1loG5dSesKgwakjOET0Ll27jKgI.jpg",
+  "budget": 28000000,
+  "revenue": 14010832,
+  "vote_average": 5.138,
+  "vote_count": 1205,
+  "imdb_id": "tt0228333",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/18"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

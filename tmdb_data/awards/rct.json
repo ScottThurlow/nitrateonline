@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "4 wins & 1 nomination total",
+  "rated": "R",
+  "released": "08 Aug 1997",
+  "runtime": "135 min",
+  "genre": "Action, Drama, Mystery",
+  "director": "Richard Donner",
+  "writer": "Brian Helgeland",
+  "actors": "Mel Gibson, Julia Roberts, Patrick Stewart",
+  "plot": "Jerry Fletcher is a man in love with a woman he observes from afar. She works for the government. Fletcher is an outspoken critic of that government. He has conspiracy theories for everything, from aliens to political assassinations. But soon, one of his theories finds itself to be accurate. But which one? Some dangerous people want him dead, and the only person he trusts is the woman he loves, but does not know.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "50",
+  "imdb_rating": "6.7",
+  "imdb_votes": "111,559",
+  "box_office": "$75,982,834",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "59%",
+      "link": "https://www.rottentomatoes.com/search?search=Conspiracy+Theory"
+    },
+    {
+      "source": "Metacritic",
+      "value": "50/100",
+      "link": "https://www.metacritic.com/search/Conspiracy+Theory/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0118883/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0118883/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8834"
+  }
+}

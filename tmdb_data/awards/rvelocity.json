@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "6 wins & 5 nominations total",
+  "rated": "R",
+  "released": "20 Dec 2002",
+  "runtime": "86 min",
+  "genre": "Drama, Romance",
+  "director": "Rebecca Miller",
+  "writer": "Rebecca Miller",
+  "actors": "Kyra Sedgwick, Parker Posey, Fairuza Balk",
+  "plot": "A tale of three women who have reached a turning point in their lives. Delia is a spirited, working-class woman from a small town in New York who leaves her abusive husband and sets out on a journey to reclaim the power she has lost. Greta is a sharp, spunky editor who is rotten with ambition. To spite the hated infidel ways of her father, she has settled into a complacent relationship and is struggling (not too hard) with issues of fidelity to her kind but unexciting husband. Finally Paula, who ran away from home and got pregnant, is now in a relationship she doesn't want. She's a troubled young woman who takes off on a journey with a hitchhiker after a strange, fateful encounter on a New York street.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "70",
+  "imdb_rating": "6.5",
+  "imdb_votes": "4,050",
+  "box_office": "$811,299",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "69%",
+      "link": "https://www.rottentomatoes.com/search?search=Personal+Velocity"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Personal+Velocity/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0295238/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0295238/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/32625"
+  }
+}

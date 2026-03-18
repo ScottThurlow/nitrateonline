@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "8 wins & 13 nominations total",
+  "rated": "R",
+  "released": "14 Nov 2003",
+  "runtime": "81 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Gus Van Sant",
+  "writer": "Gus Van Sant",
+  "actors": "Elias McConnell, Alex Frost, Eric Deulen",
+  "plot": "A day in the lives of a group of average teenage high school students. The film follows every character and shows their daily routines. However two of the students plan to do something that the student body won't forget.",
+  "language": "English, German",
+  "country": "United States",
+  "metascore": "70",
+  "imdb_rating": "7.1",
+  "imdb_votes": "101,816",
+  "box_office": "$1,266,955",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=Elephant"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/Elephant/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0363589/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0363589/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/1807"
+  }
+}

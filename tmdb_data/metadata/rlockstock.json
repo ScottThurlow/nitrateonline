@@ -1,0 +1,195 @@
+{
+  "tmdb_id": 100,
+  "title": "Lock, Stock and Two Smoking Barrels",
+  "original_title": "Lock, Stock and Two Smoking Barrels",
+  "release_date": "1998-08-28",
+  "runtime": 105,
+  "tagline": "A Disgrace to Criminals Everywhere.",
+  "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The Steve Tisch Company",
+      "country": "US"
+    },
+    {
+      "name": "SKA Films",
+      "country": "GB"
+    },
+    {
+      "name": "Handmade Films",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Guy Ritchie"
+  ],
+  "writers": [
+    {
+      "name": "Guy Ritchie",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Matthew Vaughn",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vinnie Jones",
+      "character": "Big Chris",
+      "order": 0
+    },
+    {
+      "name": "Jason Flemyng",
+      "character": "Tom",
+      "order": 1
+    },
+    {
+      "name": "Dexter Fletcher",
+      "character": "Soap",
+      "order": 2
+    },
+    {
+      "name": "Nick Moran",
+      "character": "Eddy",
+      "order": 3
+    },
+    {
+      "name": "Jason Statham",
+      "character": "Bacon",
+      "order": 4
+    },
+    {
+      "name": "Steven Mackintosh",
+      "character": "Winston",
+      "order": 5
+    },
+    {
+      "name": "Nicholas Rowe",
+      "character": "J",
+      "order": 6
+    },
+    {
+      "name": "Nick Marcq",
+      "character": "Charles",
+      "order": 7
+    },
+    {
+      "name": "Charles Forbes",
+      "character": "Willie",
+      "order": 8
+    },
+    {
+      "name": "Lenny McLean",
+      "character": "Barry the Baptist",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+  "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+  "budget": 1350000,
+  "revenue": 28356188,
+  "vote_average": 8.097,
+  "vote_count": 7093,
+  "imdb_id": "tt0120735",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

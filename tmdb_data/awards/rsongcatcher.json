@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "5 wins & 5 nominations total",
+  "rated": "PG-13",
+  "released": "27 Jul 2001",
+  "runtime": "109 min",
+  "genre": "Drama, Music",
+  "director": "Maggie Greenwald",
+  "writer": "Maggie Greenwald",
+  "actors": "Janet McTeer, Michael Harding, Michael Davis",
+  "plot": "After being denied a promotion at the university where she teaches, Doctor Lily Penleric, a brilliant musicologist, impulsively visits her sister, who runs a struggling rural school in Appalachia. There she stumbles upon the discovery of her life - a treasure trove of ancient Scots-Irish ballads, songs that have been handed down from generation to generation, preserved intact by the seclusion of the mountains. With the goal of securing her promotion, Lily ventures into the most isolated areas of the mountains to collect the songs and finds herself increasingly enchanted - not only by the rugged purity of the music, but also by the raw courage and endurance of the local people as they carve out meaningful lives against the harshest conditions. It is not, however, until she meets Tom - a handsome, hardened war veteran and talented musician - that she's forced to examine her motivations. Is the \"Songcatcher,\" as Tom insists, no better than the men who exploit the people and extort their land?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "63",
+  "imdb_rating": "7.2",
+  "imdb_votes": "3,798",
+  "box_office": "$3,059,834",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.2/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "74%",
+      "link": "https://www.rottentomatoes.com/search?search=Songcatcher"
+    },
+    {
+      "source": "Metacritic",
+      "value": "63/100",
+      "link": "https://www.metacritic.com/search/Songcatcher/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0210299/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0210299/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/62677"
+  }
+}

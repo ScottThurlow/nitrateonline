@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "N/A",
+  "rated": "R",
+  "released": "14 Nov 2001",
+  "runtime": "93 min",
+  "genre": "Comedy",
+  "director": "DJ Pooh",
+  "writer": "DJ Pooh",
+  "actors": "Dr. Dre, Snoop Dogg, Anthony Albano",
+  "plot": "With the rent due and his car booted, Sean (Dr. Dre) has to come up with some ends...and fast. When his best buddy and roommate Dee Loc (Snoop Dogg), suggests that Sean get a job busting suds down at the local car wash, the first order of business is impressing Mr. Washington (George Wallace) the gun-toting, dominoes-playing owner of The Wash. Unaware that the two are roomies, Mr. Washington hires Sean as Dee Loc's supervisor. Comic tensions flare between the two, especially when Dee Loc suspects Sean of trying to slow his roll with the side hustles he's got going on in the car wash parking lot...and with the ladies in the locker room. But there are bigger things to worry about at The Wash. One is the menacing phone calls from a disgruntled employee, and the other is figuring out how to get money to pay off the kidnappers who've snatched Mr. Washington! If Sean, Dee Loc, and the rest of the gang don't settle their differences and get Mr. Washington back, the good times at The Wash will soon come to an end",
+  "language": "English",
+  "country": "United States",
+  "metascore": "18",
+  "imdb_rating": "4.8",
+  "imdb_votes": "7,799",
+  "box_office": "$10,097,538",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "8%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Wash"
+    },
+    {
+      "source": "Metacritic",
+      "value": "18/100",
+      "link": "https://www.metacritic.com/search/The+Wash/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0290332/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0290332/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/13408"
+  }
+}

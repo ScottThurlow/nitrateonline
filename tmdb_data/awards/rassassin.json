@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "2 wins & 3 nominations",
+  "rated": "R",
+  "released": "09 May 2002",
+  "runtime": "88 min",
+  "genre": "Drama",
+  "director": "Neil Burger",
+  "writer": "Neil Burger",
+  "actors": "Dylan Haggerty, Raymond J. Barry, Renee Faia",
+  "plot": "Out of work TV cameraman Ron Kobelski is approached by his formerly reclusive neighbor Walter Ohlinger. Ohlinger claims that he was the mysterious \"second gunman\" that shot and killed President Kennedy. Ohlinger has kept quiet all these years, but has decided to tell his story now that he has been diagnosed with terminal cancer. Kobelski is skeptical of his neighbor's story, after his investigations provide ambiguous answers. His attitude changes, however, after he receives threatening messages on his answering machine, and spots shadowy figures in his backyard. Is Ohlinger telling the truth? Or is there a bigger conspiracy at work?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "60",
+  "imdb_rating": "6.5",
+  "imdb_votes": "1,915",
+  "box_office": "$48,058",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "67%",
+      "link": "https://www.rottentomatoes.com/search?search=Interview+with+the+Assassin"
+    },
+    {
+      "source": "Metacritic",
+      "value": "60/100",
+      "link": "https://www.metacritic.com/search/Interview+with+the+Assassin/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0308411/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0308411/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/36584"
+  }
+}

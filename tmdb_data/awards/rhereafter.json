@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "Nominated for 2 Oscars. 34 wins & 56 nominations total",
+  "rated": "R",
+  "released": "21 Nov 1997",
+  "runtime": "112 min",
+  "genre": "Drama",
+  "director": "Atom Egoyan",
+  "writer": "Russell Banks, Atom Egoyan",
+  "actors": "Ian Holm, Sarah Polley, Caerthan Banks",
+  "plot": "A small community is torn apart by a tragic accident which kills most of the town's children. A lawyer visits the victims' parents in order to profit from the tragedy by stirring up their anger and launching a class action suit against anyone they can blame. The community is paralyzed by its anger and cannot let go. All but one young girl, left in a wheelchair after the accident, who finds the courage to lead the way toward healing.",
+  "language": "English",
+  "country": "Canada",
+  "metascore": "91",
+  "imdb_rating": "7.4",
+  "imdb_votes": "37,131",
+  "box_office": "$3,263,585",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "98%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Sweet+Hereafter"
+    },
+    {
+      "source": "Metacritic",
+      "value": "91/100",
+      "link": "https://www.metacritic.com/search/The+Sweet+Hereafter/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120255/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120255/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10217"
+  }
+}

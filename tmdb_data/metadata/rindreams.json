@@ -1,0 +1,140 @@
+{
+  "tmdb_id": 28902,
+  "title": "In Dreams",
+  "original_title": "In Dreams",
+  "release_date": "1999-01-15",
+  "runtime": 100,
+  "tagline": "You don't have to sleep to dream",
+  "overview": "A suburban housewife learns that she has psychic connections to a serial killer, and can predict this person's motives through her dreams.",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Company of Wolves",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Neil Jordan"
+  ],
+  "writers": [
+    {
+      "name": "Bari Wood",
+      "job": "Novel"
+    },
+    {
+      "name": "Bruce Robinson",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Neil Jordan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Charles Burke",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen Woolley",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Annette Bening",
+      "character": "Claire Cooper",
+      "order": 0
+    },
+    {
+      "name": "Aidan Quinn",
+      "character": "Paul Cooper",
+      "order": 1
+    },
+    {
+      "name": "Stephen Rea",
+      "character": "Doctor Silverman",
+      "order": 2
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "character": "Vivian Thompson",
+      "order": 3
+    },
+    {
+      "name": "Paul Guilfoyle",
+      "character": "Detective Jack Kay",
+      "order": 4
+    },
+    {
+      "name": "Dennis Boutsikaris",
+      "character": "Doctor Stevens",
+      "order": 5
+    },
+    {
+      "name": "Krystal Benn",
+      "character": "Ruby",
+      "order": 6
+    },
+    {
+      "name": "Lonnie Farmer",
+      "character": "Nurse Rosco",
+      "order": 7
+    },
+    {
+      "name": "Margo Martindale",
+      "character": "Nurse Floyd",
+      "order": 8
+    },
+    {
+      "name": "Pamela Payton-Wright",
+      "character": "Ethel",
+      "order": 9
+    }
+  ],
+  "poster_path": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg",
+  "backdrop_path": "/opESjJxA10pGES8hod8YK2Gi4ug.jpg",
+  "budget": 30000000,
+  "revenue": 12017369,
+  "vote_average": 5.464,
+  "vote_count": 196,
+  "imdb_id": "tt0120710",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

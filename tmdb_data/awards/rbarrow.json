@@ -1,0 +1,40 @@
+{
+  "year": "1996",
+  "awards": "1 win & 3 nominations total",
+  "rated": "R",
+  "released": "09 Feb 1996",
+  "runtime": "108 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "John Woo",
+  "writer": "Graham Yost",
+  "actors": "John Travolta, Christian Slater, Samantha Mathis",
+  "plot": "\"Broken Arrow\" is the term used to describe a nuclear device that has been lost. In this movie, two nuclear missiles are stolen by rogue US pilot Deakins, but hot on his trail is his co-pilot Hale and a Park Ranger, Terry. The action takes place in Utah's canyon country; a high stakes game of cat and mouse.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "61",
+  "imdb_rating": "6.1",
+  "imdb_votes": "109,219",
+  "box_office": "$70,770,147",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.1/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "53%",
+      "link": "https://www.rottentomatoes.com/search?search=Broken+Arrow"
+    },
+    {
+      "source": "Metacritic",
+      "value": "61/100",
+      "link": "https://www.metacritic.com/search/Broken+Arrow/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0115759/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0115759/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/9208"
+  }
+}

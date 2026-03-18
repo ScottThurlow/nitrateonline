@@ -1,0 +1,214 @@
+{
+  "tmdb_id": 14,
+  "title": "American Beauty",
+  "original_title": "American Beauty",
+  "release_date": "1999-09-15",
+  "runtime": 122,
+  "tagline": "... look closer",
+  "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Jinks/Cohen Company",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Sam Mendes"
+  ],
+  "writers": [
+    {
+      "name": "Alan Ball",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Cohen",
+      "job": "Producer"
+    },
+    {
+      "name": "Dan Jinks",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Katzenberg",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Spacey",
+      "character": "Lester Burnham",
+      "order": 0
+    },
+    {
+      "name": "Annette Bening",
+      "character": "Carolyn Burnham",
+      "order": 1
+    },
+    {
+      "name": "Thora Birch",
+      "character": "Jane Burnham",
+      "order": 2
+    },
+    {
+      "name": "Wes Bentley",
+      "character": "Ricky Fitts",
+      "order": 3
+    },
+    {
+      "name": "Mena Suvari",
+      "character": "Angela Hayes",
+      "order": 4
+    },
+    {
+      "name": "Peter Gallagher",
+      "character": "Buddy Kane",
+      "order": 5
+    },
+    {
+      "name": "Allison Janney",
+      "character": "Barbara Fitts",
+      "order": 6
+    },
+    {
+      "name": "Chris Cooper",
+      "character": "Colonel Fitts",
+      "order": 7
+    },
+    {
+      "name": "Scott Bakula",
+      "character": "Jim Olmeyer",
+      "order": 8
+    },
+    {
+      "name": "Sam Robards",
+      "character": "Jim Berkley",
+      "order": 9
+    }
+  ],
+  "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+  "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+  "budget": 15000000,
+  "revenue": 356296601,
+  "vote_average": 8.0,
+  "vote_count": 12873,
+  "imdb_id": "tt0169547",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "18"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

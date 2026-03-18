@@ -1,0 +1,167 @@
+{
+  "tmdb_id": 10611,
+  "title": "Barbershop",
+  "original_title": "Barbershop",
+  "release_date": "2002-04-01",
+  "runtime": 102,
+  "tagline": "Everyone's gettin' lined up.",
+  "overview": "A day in the life of a barbershop on the south side of Chicago. Calvin, who inherited the struggling business from his deceased father, views the shop as nothing but a burden and waste of his time. After selling the shop to a local loan shark, Calvin slowly begins to see his father's vision and legacy and struggles with the notion that he just sold it out.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    },
+    {
+      "name": "Cube Vision",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Tim Story"
+  ],
+  "writers": [
+    {
+      "name": "Mark Brown",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Don D. Scott",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Marshall Todd",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mark Brown",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Matt Alvarez",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mark Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "Larry Kennar",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Teitel",
+      "job": "Producer"
+    },
+    {
+      "name": "George Tillman Jr.",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ice Cube",
+      "character": "Calvin Palmer",
+      "order": 0
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "J.D.",
+      "order": 1
+    },
+    {
+      "name": "Cedric the Entertainer",
+      "character": "Eddie",
+      "order": 2
+    },
+    {
+      "name": "Sean Patrick Thomas",
+      "character": "Jimmy James",
+      "order": 3
+    },
+    {
+      "name": "Eve",
+      "character": "Terri Jones",
+      "order": 4
+    },
+    {
+      "name": "Troy Garity",
+      "character": "Isaac Rosenberg",
+      "order": 5
+    },
+    {
+      "name": "Michael Ealy",
+      "character": "Ricky Nash",
+      "order": 6
+    },
+    {
+      "name": "Keith David",
+      "character": "Lester Wallace",
+      "order": 7
+    },
+    {
+      "name": "Jazsmin Lewis",
+      "character": "Jennifer Palmer",
+      "order": 8
+    },
+    {
+      "name": "Leonard Earl Howze",
+      "character": "Dinka",
+      "order": 9
+    }
+  ],
+  "poster_path": "/up8cEgEsl2Dq5Djb9lMZYBK0s84.jpg",
+  "backdrop_path": "/zsbmsV4XHyJqG5fD7Vdw4NZbT2Y.jpg",
+  "budget": 12000000,
+  "revenue": 77063924,
+  "vote_average": 6.395,
+  "vote_count": 522,
+  "imdb_id": "tt0303714",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "12A"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "JP",
+      "rating": "R18+"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

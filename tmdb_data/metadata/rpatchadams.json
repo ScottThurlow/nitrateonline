@@ -1,0 +1,203 @@
+{
+  "tmdb_id": 10312,
+  "title": "Patch Adams",
+  "original_title": "Patch Adams",
+  "release_date": "1998-12-25",
+  "runtime": 115,
+  "tagline": "Laughter is contagious.",
+  "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh—even if it meant risking his own career.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Bungalow 78 Productions",
+      "country": ""
+    },
+    {
+      "name": "Blue Wolf",
+      "country": ""
+    },
+    {
+      "name": "Farrell/Minoff",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Tom Shadyac"
+  ],
+  "writers": [
+    {
+      "name": "Patch Adams",
+      "job": "Novel"
+    },
+    {
+      "name": "Steve Oedekerk",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Maureen Mylander",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mike Farrell",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Kemp",
+      "job": "Producer"
+    },
+    {
+      "name": "Marvin Minoff",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Newirth",
+      "job": "Producer"
+    },
+    {
+      "name": "Marsha Garces Williams",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robin Williams",
+      "character": "Hunter 'Patch' Adams",
+      "order": 0
+    },
+    {
+      "name": "Monica Potter",
+      "character": "Carin Fisher",
+      "order": 1
+    },
+    {
+      "name": "Philip Seymour Hoffman",
+      "character": "Mitch Roman",
+      "order": 2
+    },
+    {
+      "name": "Daniel London",
+      "character": "Truman Schiff",
+      "order": 3
+    },
+    {
+      "name": "Bob Gunton",
+      "character": "Dean Walcott",
+      "order": 4
+    },
+    {
+      "name": "Harve Presnell",
+      "character": "Dean Anderson",
+      "order": 5
+    },
+    {
+      "name": "Peter Coyote",
+      "character": "Bill Davis",
+      "order": 6
+    },
+    {
+      "name": "Michael Jeter",
+      "character": "Rudy",
+      "order": 7
+    },
+    {
+      "name": "Josef Sommer",
+      "character": "Dr. Eaton",
+      "order": 8
+    },
+    {
+      "name": "Irma P. Hall",
+      "character": "Joletta",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+  "backdrop_path": "/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+  "budget": 50000000,
+  "revenue": 202292902,
+  "vote_average": 7.306,
+  "vote_count": 3401,
+  "imdb_id": "tt0129290",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CH",
+      "rating": "6"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "9"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

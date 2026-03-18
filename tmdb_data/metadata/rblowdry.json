@@ -1,0 +1,175 @@
+{
+  "tmdb_id": 17203,
+  "title": "Blow Dry",
+  "original_title": "Blow Dry",
+  "release_date": "2001-03-01",
+  "runtime": 91,
+  "tagline": "An outrageous new comedy for anyone who's ever had hair.",
+  "overview": "The annual British Hairdressing Championship comes to Keighley, a town where Phil and son Brian run a barbershop and Phil's ex-wife Shelly and her lover Sandra run a beauty salon.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "IMF",
+      "country": "DE"
+    },
+    {
+      "name": "Mirage Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Intermedia Films",
+      "country": "GB"
+    },
+    {
+      "name": "West Eleven Films",
+      "country": ""
+    },
+    {
+      "name": "Miramax",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Paddy Breathnach"
+  ],
+  "writers": [
+    {
+      "name": "Simon Beaufoy",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "David Rubin",
+      "job": "Producer"
+    },
+    {
+      "name": "William Horberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Ruth Jackson",
+      "job": "Producer"
+    },
+    {
+      "name": "Moritz Borman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Guy East",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Julie Goldstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Sydney Pollack",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Meryl Poster",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Chris Sievernich",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Nigel Sinclair",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alan Rickman",
+      "character": "Phil Allen",
+      "order": 0
+    },
+    {
+      "name": "Natasha Richardson",
+      "character": "Shelley Allen",
+      "order": 1
+    },
+    {
+      "name": "Rachel Griffiths",
+      "character": "Sandra",
+      "order": 2
+    },
+    {
+      "name": "Rachael Leigh Cook",
+      "character": "Christina Robertson",
+      "order": 3
+    },
+    {
+      "name": "Josh Hartnett",
+      "character": "Brian Allen",
+      "order": 4
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "Ray Robertson",
+      "order": 5
+    },
+    {
+      "name": "Warren Clarke",
+      "character": "Tony",
+      "order": 6
+    },
+    {
+      "name": "Rosemary Harris",
+      "character": "Daisy",
+      "order": 7
+    },
+    {
+      "name": "Hugh Bonneville",
+      "character": "Louis",
+      "order": 8
+    },
+    {
+      "name": "Heidi Klum",
+      "character": "Jasmine",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iLGjyrjuOxILTx9FFNm2ktqzaxt.jpg",
+  "backdrop_path": "/t3zwpukBDm3URvXXiPg0wfMkrtV.jpg",
+  "budget": 0,
+  "revenue": 637769,
+  "vote_average": 5.882,
+  "vote_count": 144,
+  "imdb_id": "tt0212380",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "R"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

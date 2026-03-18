@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 6 nominations",
+  "rated": "PG-13",
+  "released": "04 Oct 2002",
+  "runtime": "117 min",
+  "genre": "Drama, Romance",
+  "director": "Brad Silberling",
+  "writer": "Brad Silberling",
+  "actors": "Jake Gyllenhaal, Dustin Hoffman, Susan Sarandon",
+  "plot": "A young man lingers in the family home of his fiancee, after her accidental death. While grieving along with her parents and drawn into legal issues presented by a district attorney seeking justice for the family, he finds himself falling in love with another woman, against his own best intentions.",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "metascore": "59",
+  "imdb_rating": "6.6",
+  "imdb_votes": "14,841",
+  "box_office": "$6,835,856",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "63%",
+      "link": "https://www.rottentomatoes.com/search?search=Moonlight+Mile"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Moonlight+Mile/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0179098/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0179098/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/31005"
+  }
+}

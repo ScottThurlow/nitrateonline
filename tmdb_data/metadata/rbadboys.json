@@ -1,0 +1,241 @@
+{
+  "tmdb_id": 8961,
+  "title": "Bad Boys II",
+  "original_title": "Bad Boys II",
+  "release_date": "2003-07-18",
+  "runtime": 146,
+  "tagline": "If you can't stand the heat, get out of Miami.",
+  "overview": "Detectives Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force are tasked with stopping the flow of the drug Ecstasy into Miami. They track the drugs to the whacked-out Cuban drug lord Johnny Tapia, who is also involved in a bloody war with Russian and Haitian mobsters. If that isn't bad enough, there's tension between the two detectives when Marcus discovers that playboy Mike is secretly romancing Marcus’ sister, Syd.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michael Bay"
+  ],
+  "writers": [
+    {
+      "name": "George Gallo",
+      "job": "Characters"
+    },
+    {
+      "name": "Cormac Wibberley",
+      "job": "Story"
+    },
+    {
+      "name": "Marianne Wibberley",
+      "job": "Story"
+    },
+    {
+      "name": "Ron Shelton",
+      "job": "Story"
+    },
+    {
+      "name": "Ron Shelton",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jerry Stahl",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ronald L. Kaplan",
+      "job": "Other"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jerry Bruckheimer",
+      "job": "Producer"
+    },
+    {
+      "name": "Chad Oman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Barry H. Waldman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mike Stenson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Martin Lawrence",
+      "character": "Detective Marcus Burnett",
+      "order": 0
+    },
+    {
+      "name": "Will Smith",
+      "character": "Detective Mike Lowrey",
+      "order": 1
+    },
+    {
+      "name": "Jordi Mollà",
+      "character": "Hector Juan Carlos 'Johnny' Tapia",
+      "order": 2
+    },
+    {
+      "name": "Gabrielle Union",
+      "character": "Syd",
+      "order": 3
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Alexei",
+      "order": 4
+    },
+    {
+      "name": "Theresa Randle",
+      "character": "Theresa",
+      "order": 5
+    },
+    {
+      "name": "Joe Pantoliano",
+      "character": "Captain Howard",
+      "order": 6
+    },
+    {
+      "name": "Michael Shannon",
+      "character": "Floyd Poteet",
+      "order": 7
+    },
+    {
+      "name": "Jon Seda",
+      "character": "Roberto",
+      "order": 8
+    },
+    {
+      "name": "Yul Vazquez",
+      "character": "Detective Mateo Reyes",
+      "order": 9
+    }
+  ],
+  "poster_path": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+  "backdrop_path": "/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+  "budget": 130000000,
+  "revenue": 273339556,
+  "vote_average": 6.654,
+  "vote_count": 5846,
+  "imdb_id": "tt0172156",
+  "certifications": [
+    {
+      "country": "AE",
+      "rating": "15"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "18A"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "18"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

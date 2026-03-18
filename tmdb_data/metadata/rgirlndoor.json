@@ -1,0 +1,231 @@
+{
+  "tmdb_id": 10591,
+  "title": "The Girl Next Door",
+  "original_title": "The Girl Next Door",
+  "release_date": "2004-04-09",
+  "runtime": 110,
+  "tagline": "Matt never saw her coming... but all his friends had!",
+  "overview": "Exceptionally ambitious high schooler Matthew has aspirations for a career in politics when he falls in love with his gorgeous 19-year-old neighbor, Danielle. But Matthew's bright future is jeopardized when he finds Danielle was once a porn star. As Danielle's past catches up with her, Matthew's love for her forces him to re-evaluate his goals.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Epsilon Motion Pictures",
+      "country": "CH"
+    },
+    {
+      "name": "Regency Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "New Regency Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Daybreak",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Luke Greenfield"
+  ],
+  "writers": [
+    {
+      "name": "David Wagner",
+      "job": "Writer"
+    },
+    {
+      "name": "Stuart Blumberg",
+      "job": "Writer"
+    },
+    {
+      "name": "Brent Goldberg",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Harry Gittes",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Sternberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Gordon",
+      "job": "Producer"
+    },
+    {
+      "name": "Guy Riedel",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Arnon Milchan",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emile Hirsch",
+      "character": "Matthew Kidman",
+      "order": 0
+    },
+    {
+      "name": "Elisha Cuthbert",
+      "character": "Danielle",
+      "order": 1
+    },
+    {
+      "name": "Timothy Olyphant",
+      "character": "Kelly",
+      "order": 2
+    },
+    {
+      "name": "Christopher Rodriguez Marquette",
+      "character": "Eli",
+      "order": 3
+    },
+    {
+      "name": "Paul Dano",
+      "character": "Klitz",
+      "order": 4
+    },
+    {
+      "name": "James Remar",
+      "character": "Hugo Posh",
+      "order": 5
+    },
+    {
+      "name": "Timothy Bottoms",
+      "character": "Mr. Kidman",
+      "order": 6
+    },
+    {
+      "name": "Donna Bullock",
+      "character": "Mrs. Kidman",
+      "order": 7
+    },
+    {
+      "name": "Jacob Young",
+      "character": "Hunter",
+      "order": 8
+    },
+    {
+      "name": "Brian Kolodziej",
+      "character": "Derek",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg",
+  "backdrop_path": "/qvcOovScPoRalRxDy50rYSYFree.jpg",
+  "budget": 21000000,
+  "revenue": 31635150,
+  "vote_average": 6.7,
+  "vote_count": 3927,
+  "imdb_id": "tt0265208",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

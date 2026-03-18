@@ -1,0 +1,148 @@
+{
+  "tmdb_id": 52717,
+  "title": "In Praise of Love",
+  "original_title": "Éloge de l'amour",
+  "release_date": "2001-05-16",
+  "runtime": 99,
+  "tagline": "",
+  "overview": "Someone we hear talking - but whom we do not see - speaks of a project which describes the four key moments of love: meeting, physical passion, arguments/separation and making up. This project is to be told through three couples: young, adult and old. We do not know if the project is for a play, a film, a novel or an opera. The author of the project is always accompanied by a kind of servant. Meanwhile, two years earlier, an American civil servant meets with an elderly French couple who had fought in the Resistance during World War II, brokering a deal with a Hollywood director to buy the rights to tell their story. The members of the old couple's family discuss heatedly questions of nation, memory and history.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "German",
+    "French",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Avventura Films",
+      "country": "FR"
+    },
+    {
+      "name": "Périphéria",
+      "country": "FR"
+    },
+    {
+      "name": "ARTE France Cinéma",
+      "country": "FR"
+    },
+    {
+      "name": "Vega Film",
+      "country": "CH"
+    },
+    {
+      "name": "TSR",
+      "country": "CH"
+    },
+    {
+      "name": "DFI",
+      "country": ""
+    },
+    {
+      "name": "ECM Records",
+      "country": "DE"
+    },
+    {
+      "name": "StudioCanal",
+      "country": "FR"
+    },
+    {
+      "name": "DFF - Deutsches Filminstitut & Filmmuseum",
+      "country": "DE"
+    },
+    {
+      "name": "Studio Images 6",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Jean-Luc Godard"
+  ],
+  "writers": [
+    {
+      "name": "Jean-Luc Godard",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Ruth Waldburger",
+      "job": "Producer"
+    },
+    {
+      "name": "Alain Sarde",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bruno Putzulu",
+      "character": "Edgar",
+      "order": 0
+    },
+    {
+      "name": "Cécile Camp",
+      "character": "Elle",
+      "order": 1
+    },
+    {
+      "name": "Jean Davy",
+      "character": "Grandfather",
+      "order": 2
+    },
+    {
+      "name": "Françoise Verny",
+      "character": "Grandmother",
+      "order": 3
+    },
+    {
+      "name": "Audrey Klebaner",
+      "character": "Eglantine",
+      "order": 4
+    },
+    {
+      "name": "Jérémie Lippmann",
+      "character": "Perceval",
+      "order": 5
+    },
+    {
+      "name": "Claude Baignières",
+      "character": "Mr. Rosenthal",
+      "order": 6
+    },
+    {
+      "name": "Rémo Forlani",
+      "character": "Mayor Forlani",
+      "order": 7
+    },
+    {
+      "name": "Mark Hunter",
+      "character": "U.S. Journalist",
+      "order": 8
+    },
+    {
+      "name": "Jean Lacouture",
+      "character": "Historian",
+      "order": 9
+    }
+  ],
+  "poster_path": "/iOeAn1yxiBypmOVHBFimjnIeqx.jpg",
+  "backdrop_path": "/e8qnYlw9PB1GYQa8zxetPejwZJH.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.63,
+  "vote_count": 44,
+  "imdb_id": "tt0181912",
+  "certifications": [
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

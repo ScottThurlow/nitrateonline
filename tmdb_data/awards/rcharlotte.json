@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "6 nominations total",
+  "rated": "PG-13",
+  "released": "11 Jan 2002",
+  "runtime": "121 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Gillian Armstrong",
+  "writer": "Sebastian Faulks, Jeremy Brock",
+  "actors": "Cate Blanchett, James Fleet, Abigail Cruttenden",
+  "plot": "Charlotte (Cate Blanchett), a young Scottish woman, who has studied in France, is living in London during World War II. Within a few weeks she falls in love with a young pilot and is recruited by the Secret Service to act as a courier for the French Resistance. However, her mission behind enemy lines becomes a personal mission to find her lover who has been shot down. Assigned to a Communist Resistance group, she encounters acts of betrayal from sometimes unexpected sources, but meets the violence of war and her own disappointment with hope.",
+  "language": "English",
+  "country": "United Kingdom, Germany, Australia, United States",
+  "metascore": "48",
+  "imdb_rating": "6.4",
+  "imdb_votes": "13,580",
+  "box_office": "$741,394",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "32%",
+      "link": "https://www.rottentomatoes.com/search?search=Charlotte+Gray"
+    },
+    {
+      "source": "Metacritic",
+      "value": "48/100",
+      "link": "https://www.metacritic.com/search/Charlotte+Gray/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0245046/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0245046/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/12660"
+  }
+}

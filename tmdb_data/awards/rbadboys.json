@@ -1,0 +1,40 @@
+{
+  "year": "2003",
+  "awards": "5 wins & 13 nominations total",
+  "rated": "R",
+  "released": "18 Jul 2003",
+  "runtime": "147 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Michael Bay",
+  "writer": "George Gallo, Marianne Wibberley, Cormac Wibberley",
+  "actors": "Will Smith, Martin Lawrence, Gabrielle Union",
+  "plot": "Miami is being flooded with ecstasy that's coming from Cuba through drug lord Johnny Tapia. Detectives Mike Lowrey and Marcus Burnett are on the case, and are determined to bring the man to justice. Additional drama is provided by friction with the DEA, which counts Marcus' younger sister Sydney among its agents, and from Marcus possibly transferring out of the department, leaving Mike without his longtime partner.",
+  "language": "English, Spanish, Russian",
+  "country": "United States",
+  "metascore": "38",
+  "imdb_rating": "6.6",
+  "imdb_votes": "286,946",
+  "box_office": "$138,608,444",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "23%",
+      "link": "https://www.rottentomatoes.com/search?search=Bad+Boys+II"
+    },
+    {
+      "source": "Metacritic",
+      "value": "38/100",
+      "link": "https://www.metacritic.com/search/Bad+Boys+II/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0172156/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0172156/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8961"
+  }
+}

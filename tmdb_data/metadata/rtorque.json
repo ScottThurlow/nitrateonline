@@ -1,0 +1,213 @@
+{
+  "tmdb_id": 10718,
+  "title": "Torque",
+  "original_title": "Torque",
+  "release_date": "2004-01-16",
+  "runtime": 84,
+  "tagline": "Circuit of Fire",
+  "overview": "Biker Cary Ford is framed by an old rival and biker gang leader for the murder of another gang member who happens to be the brother of Trey, leader of the most feared biker gang in the country. Ford is now on the run trying to clear his name from the murder with Trey and his gang looking for his blood.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "Hungarian"
+  ],
+  "production_companies": [
+    {
+      "name": "Original Film",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Joseph Kahn"
+  ],
+  "writers": [
+    {
+      "name": "Matt Johnson",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Neal H. Moritz",
+      "job": "Producer"
+    },
+    {
+      "name": "Brad Luff",
+      "job": "Producer"
+    },
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael I. Rachmil",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Graham Burke",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Martin Henderson",
+      "character": "Ford",
+      "order": 0
+    },
+    {
+      "name": "Ice Cube",
+      "character": "Trey",
+      "order": 1
+    },
+    {
+      "name": "Monet Mazur",
+      "character": "Shane",
+      "order": 2
+    },
+    {
+      "name": "Jaime Pressly",
+      "character": "China",
+      "order": 3
+    },
+    {
+      "name": "Matt Schulze",
+      "character": "Henry James",
+      "order": 4
+    },
+    {
+      "name": "Jay Hernandez",
+      "character": "Dalton",
+      "order": 5
+    },
+    {
+      "name": "Christina Milian",
+      "character": "Nina",
+      "order": 6
+    },
+    {
+      "name": "Faizon Love",
+      "character": "Sonny",
+      "order": 7
+    },
+    {
+      "name": "Adam Scott",
+      "character": "Jay McPherson",
+      "order": 8
+    },
+    {
+      "name": "Joseph Kahn",
+      "character": "Passenger on Train",
+      "order": 9
+    }
+  ],
+  "poster_path": "/pY35tW8BMAjZewl87OxjXK8ui02.jpg",
+  "backdrop_path": "/giQy3vmsOIbNCMZ9EAZScSQZ3jo.jpg",
+  "budget": 40000000,
+  "revenue": 46546197,
+  "vote_average": 5.29,
+  "vote_count": 621,
+  "imdb_id": "tt0329691",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IT",
+      "rating": "VM14"
+    },
+    {
+      "country": "LT",
+      "rating": "N-7"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/14"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,35 @@
+{
+  "year": "2003",
+  "awards": "12 wins & 13 nominations total",
+  "rated": "R",
+  "released": "01 Aug 2003",
+  "runtime": "121 min",
+  "genre": "Comedy, Crime, Romance",
+  "director": "Martin Brest",
+  "writer": "Martin Brest",
+  "actors": "Ben Affleck, Jennifer Lopez, Justin Bartha",
+  "plot": "Gigli, a lowly and inept hitman, is assigned a job by the mob to kidnap an intellectually disabled brother of a California district attorney. Gigli abducts the brother from his mental hospital and holds him hostage in his apartment. Ricki, a \"lesbian assassin,\" is sent to oversee Gigli's job and make sure he doesn't screw it up. Comedic high jinks ensue as the two go on the lam and start to fall in love.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "18",
+  "imdb_rating": "2.7",
+  "imdb_votes": "51,524",
+  "box_office": "$6,087,542",
+  "dvd": "25 Jan 2005",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "2.7/10"
+    },
+    {
+      "source": "Metacritic",
+      "value": "18/100",
+      "link": "https://www.metacritic.com/search/Gigli/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0299930/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0299930/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/8046"
+  }
+}

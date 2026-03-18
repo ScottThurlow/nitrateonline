@@ -1,0 +1,197 @@
+{
+  "tmdb_id": 11973,
+  "title": "Thirteen Days",
+  "original_title": "Thirteen Days",
+  "release_date": "2000-12-25",
+  "runtime": 145,
+  "tagline": "You'll never believe how close we came.",
+  "overview": "The story of the Cuban Missile Crisis in 1962—the nuclear standoff with the USSR sparked by the discovery by the Americans of missile bases established on the Soviet-allied island of Cuba.",
+  "genres": [
+    "History",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Russian",
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "New Line Cinema",
+      "country": "US"
+    },
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Roger Donaldson"
+  ],
+  "writers": [
+    {
+      "name": "David Self",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Ernest R. May",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Kevin Costner",
+      "job": "Producer"
+    },
+    {
+      "name": "Thomas A. Bliss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Peter O. Almond",
+      "job": "Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Producer"
+    },
+    {
+      "name": "Marc Abraham",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Lope V. Juban Jr.",
+      "job": "Producer"
+    },
+    {
+      "name": "Ilona Herzberg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Michael De Luca",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kevin Costner",
+      "character": "Kenneth O'Donnell",
+      "order": 0
+    },
+    {
+      "name": "Bruce Greenwood",
+      "character": "John F. Kennedy",
+      "order": 1
+    },
+    {
+      "name": "Steven Culp",
+      "character": "Robert F. Kennedy",
+      "order": 2
+    },
+    {
+      "name": "Dylan Baker",
+      "character": "Robert McNamara",
+      "order": 3
+    },
+    {
+      "name": "Michael Fairman",
+      "character": "Adlai Stevenson",
+      "order": 4
+    },
+    {
+      "name": "Henry Strozier",
+      "character": "Dean Rusk",
+      "order": 5
+    },
+    {
+      "name": "Frank Wood",
+      "character": "McGeorge Bundy",
+      "order": 6
+    },
+    {
+      "name": "Kevin Conway",
+      "character": "Gen. Curtis LeMay",
+      "order": 7
+    },
+    {
+      "name": "Tim Kelleher",
+      "character": "Ted Sorensen",
+      "order": 8
+    },
+    {
+      "name": "Len Cariou",
+      "character": "Dean Acheson",
+      "order": 9
+    }
+  ],
+  "poster_path": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+  "backdrop_path": "/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+  "budget": 80000000,
+  "revenue": 34566746,
+  "vote_average": 7.001,
+  "vote_count": 814,
+  "imdb_id": "tt0146309",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "12"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "6"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "SE",
+      "rating": "7"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

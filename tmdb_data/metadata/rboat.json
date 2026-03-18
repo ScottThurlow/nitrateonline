@@ -1,0 +1,160 @@
+{
+  "tmdb_id": 9557,
+  "title": "Boat Trip",
+  "original_title": "Boat Trip",
+  "release_date": "2002-10-01",
+  "runtime": 94,
+  "tagline": "Singles Cruise. Double Trouble.",
+  "overview": "Two guys whose love lives are a wreck look forward to finding ladies on the high seas. Unfortunately, they've mistakenly been booked on a gay cruise.",
+  "genres": [
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish",
+    "Swedish"
+  ],
+  "production_companies": [
+    {
+      "name": "Motion Picture Corporation of America",
+      "country": "US"
+    },
+    {
+      "name": "ApolloMedia",
+      "country": "DE"
+    },
+    {
+      "name": "Gemini Films",
+      "country": "FR"
+    },
+    {
+      "name": "Brad Krevoy Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Mort Nathan"
+  ],
+  "writers": [
+    {
+      "name": "William Bigelow",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Mort Nathan",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Andrew Sugerman",
+      "job": "Producer"
+    },
+    {
+      "name": "Gerhard Schmidt",
+      "job": "Producer"
+    },
+    {
+      "name": "Brad Krevoy",
+      "job": "Producer"
+    },
+    {
+      "name": "Sabine de Mardt",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Frank Hübner",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cuba Gooding Jr.",
+      "character": "Jerry Robinson",
+      "order": 0
+    },
+    {
+      "name": "Horatio Sanz",
+      "character": "Nick Ragoni",
+      "order": 1
+    },
+    {
+      "name": "Roselyn Sánchez",
+      "character": "Gabriella",
+      "order": 2
+    },
+    {
+      "name": "Vivica A. Fox",
+      "character": "Felicia",
+      "order": 3
+    },
+    {
+      "name": "Maurice Godin",
+      "character": "Hector",
+      "order": 4
+    },
+    {
+      "name": "Roger Moore",
+      "character": "Lloyd Faversham",
+      "order": 5
+    },
+    {
+      "name": "Victoria Silvstedt",
+      "character": "Inga",
+      "order": 6
+    },
+    {
+      "name": "Lin Shaye",
+      "character": "Sonya the Coach",
+      "order": 7
+    },
+    {
+      "name": "Jennifer Gareis",
+      "character": "Sheri",
+      "order": 8
+    },
+    {
+      "name": "Zen Gesner",
+      "character": "Ron",
+      "order": 9
+    }
+  ],
+  "poster_path": "/xHFJt9nEfVIUItBfKZr7qhbgveL.jpg",
+  "backdrop_path": "/pVangQxphypCeoH84BY2yq8svMZ.jpg",
+  "budget": 20000000,
+  "revenue": 8586376,
+  "vote_average": 5.257,
+  "vote_count": 685,
+  "imdb_id": "tt0285462",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

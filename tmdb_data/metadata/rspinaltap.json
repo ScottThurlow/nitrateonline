@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 11031,
+  "title": "This Is Spinal Tap",
+  "original_title": "This Is Spinal Tap",
+  "release_date": "1984-03-02",
+  "runtime": 82,
+  "tagline": "Prepare to crank those amps up to eleven.",
+  "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Spinal Tap Prod.",
+      "country": ""
+    },
+    {
+      "name": "Embassy Films Associates",
+      "country": "US"
+    },
+    {
+      "name": "Embassy Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Rob Reiner"
+  ],
+  "writers": [
+    {
+      "name": "Rob Reiner",
+      "job": "Writer"
+    },
+    {
+      "name": "Christopher Guest",
+      "job": "Writer"
+    },
+    {
+      "name": "Michael McKean",
+      "job": "Writer"
+    },
+    {
+      "name": "Harry Shearer",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Karen Murphy",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christopher Guest",
+      "character": "Nigel Tufnel",
+      "order": 0
+    },
+    {
+      "name": "Michael McKean",
+      "character": "David St. Hubbins",
+      "order": 1
+    },
+    {
+      "name": "Harry Shearer",
+      "character": "Derek Smalls",
+      "order": 2
+    },
+    {
+      "name": "Rob Reiner",
+      "character": "Marty DiBergi",
+      "order": 3
+    },
+    {
+      "name": "June Chadwick",
+      "character": "Jeanine Pettibone",
+      "order": 4
+    },
+    {
+      "name": "Tony Hendra",
+      "character": "Ian Faith",
+      "order": 5
+    },
+    {
+      "name": "Bruno Kirby",
+      "character": "Tommy Pischedda",
+      "order": 6
+    },
+    {
+      "name": "Ed Begley Jr.",
+      "character": "John 'Stumpy' Pepys",
+      "order": 7
+    },
+    {
+      "name": "Paul Benedict",
+      "character": "Tucker 'Smitty' Brown",
+      "order": 8
+    },
+    {
+      "name": "Zane Buzby",
+      "character": "Rolling Stone Reporter",
+      "order": 9
+    }
+  ],
+  "poster_path": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+  "backdrop_path": "/a3FaHEGActk76BeCBingyOvEqnm.jpg",
+  "budget": 2500000,
+  "revenue": 6051884,
+  "vote_average": 7.414,
+  "vote_count": 1600,
+  "imdb_id": "tt0088258",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,119 @@
+{
+  "tmdb_id": 11831,
+  "title": "Amistad",
+  "original_title": "Amistad",
+  "release_date": "1997-12-10",
+  "runtime": 155,
+  "tagline": "Freedom is not given. It is our right at birth. But there are moments when it must be taken.",
+  "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+  "genres": [
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "HBO Films",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Spielberg"
+  ],
+  "writers": [
+    {
+      "name": "David Franzoni",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Debbie Allen",
+      "job": "Producer"
+    },
+    {
+      "name": "Colin Wilson",
+      "job": "Producer"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Laurie MacDonald",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Morgan Freeman",
+      "character": "Theodore Joadson",
+      "order": 0
+    },
+    {
+      "name": "Nigel Hawthorne",
+      "character": "Martin Van Buren",
+      "order": 1
+    },
+    {
+      "name": "Anthony Hopkins",
+      "character": "John Quincy Adams",
+      "order": 2
+    },
+    {
+      "name": "Djimon Hounsou",
+      "character": "Cinque",
+      "order": 3
+    },
+    {
+      "name": "Matthew McConaughey",
+      "character": "Roger Sherman Baldwin",
+      "order": 4
+    },
+    {
+      "name": "David Paymer",
+      "character": "Secretary John Forsyth",
+      "order": 5
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "character": "Holabird",
+      "order": 6
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "character": "Tappan",
+      "order": 7
+    },
+    {
+      "name": "Razaaq Adoti",
+      "character": "Yamba",
+      "order": 8
+    },
+    {
+      "name": "Abu Bakaar Fofanah",
+      "character": "Fala",
+      "order": 9
+    }
+  ],
+  "poster_path": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+  "backdrop_path": "/6dTbovP5RdrNjroTpke0DQAvidN.jpg",
+  "budget": 36000000,
+  "revenue": 44229441,
+  "vote_average": 7.01,
+  "vote_count": 1395,
+  "imdb_id": "tt0118607",
+  "status": "Released"
+}

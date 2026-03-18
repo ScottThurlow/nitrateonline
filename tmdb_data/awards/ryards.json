@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "3 wins & 2 nominations total",
+  "rated": "R",
+  "released": "27 Apr 2000",
+  "runtime": "115 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "James Gray",
+  "writer": "James Gray, Matt Reeves",
+  "actors": "Mark Wahlberg, Joaquin Phoenix, Charlize Theron",
+  "plot": "In the rail yards of Queens, contractors repair and rebuild the city's subway cars. These contracts are lucrative, so graft and corruption are rife. When Leo Handler gets out of prison, he finds his aunt married to Frank Olchin, one of the big contractors; he's battling with a minority-owned firm for contracts. Willie Gutierrez, Leo's best friend, is Frank's bag man and heads a crew of midnight saboteurs who ruin the work of the Puerto Rican-owned firm. Leo needs a job, so Willie pays him to be his back-up. Then things go badly wrong one night, a cop IDs Leo, and everyone now wants him out of the picture. Besides his ailing mom and his cousin Erica, to whom can Leo turn?",
+  "language": "English, Spanish",
+  "country": "United States",
+  "metascore": "58",
+  "imdb_rating": "6.4",
+  "imdb_votes": "23,926",
+  "box_office": "$889,352",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.4/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "64%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Yards"
+    },
+    {
+      "source": "Metacritic",
+      "value": "58/100",
+      "link": "https://www.metacritic.com/search/The+Yards/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0138946/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0138946/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/19457"
+  }
+}

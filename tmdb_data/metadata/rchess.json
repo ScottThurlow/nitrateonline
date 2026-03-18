@@ -1,0 +1,123 @@
+{
+  "tmdb_id": 80556,
+  "title": "The Chess Players",
+  "original_title": "शतरंज के खिलाड़ी",
+  "release_date": "1977-10-02",
+  "runtime": 129,
+  "tagline": "Satyajit Ray's First Hindi feature Film",
+  "overview": "In the year 1856, Nawab Wajid Ali Shah is the King of Awadh, one of the last independent kingdoms of India. The British intend to control this rich land and send General Outram to clear way for an annexation. Pressure is mounting amidst intrigue and political maneuvers, but the Nawab whiles away his time in pursuit of pleasure and religious practice. The court is of no help either — noblemen Mir and Mirza ignore all duties and spend their days playing endless games of chess.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "Hindi",
+    "Urdu"
+  ],
+  "production_companies": [
+    {
+      "name": "Devki Chitra",
+      "country": "IN"
+    }
+  ],
+  "director": [
+    "Satyajit Ray"
+  ],
+  "writers": [
+    {
+      "name": "Munshi Premchand",
+      "job": "Short Story"
+    },
+    {
+      "name": "Satyajit Ray",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Munshi Premchand",
+      "job": "Writer"
+    },
+    {
+      "name": "Satyajit Ray",
+      "job": "Dialogue"
+    },
+    {
+      "name": "Shama Zaidi",
+      "job": "Dialogue"
+    },
+    {
+      "name": "Javed Siddiqui",
+      "job": "Dialogue"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Suresh Jindal",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sanjeev Kumar",
+      "character": "Mirza Sajjad Ali",
+      "order": 0
+    },
+    {
+      "name": "Saeed Jaffrey",
+      "character": "Mir Roshan Ali",
+      "order": 1
+    },
+    {
+      "name": "Amjad Khan",
+      "character": "Wajid Ali Shah",
+      "order": 2
+    },
+    {
+      "name": "Shabana Azmi",
+      "character": "Khurshid",
+      "order": 3
+    },
+    {
+      "name": "Farida Jalal",
+      "character": "Nafisa",
+      "order": 4
+    },
+    {
+      "name": "Veena",
+      "character": "Queen Mother",
+      "order": 5
+    },
+    {
+      "name": "David Abraham Cheulkar",
+      "character": "Munshi",
+      "order": 6
+    },
+    {
+      "name": "Victor Banerjee",
+      "character": "Prime Minister",
+      "order": 7
+    },
+    {
+      "name": "Farooq Shaikh",
+      "character": "Aqueel",
+      "order": 8
+    },
+    {
+      "name": "Tom Alter",
+      "character": "Capt. Weston",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fb0gA6K2xyWBuxMOweUmEHTjt6.jpg",
+  "backdrop_path": "/cmWX4yGhcr0VKIHsrnYU0F9Ac4V.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 7.0,
+  "vote_count": 50,
+  "imdb_id": "tt0076696",
+  "certifications": [
+    {
+      "country": "IN",
+      "rating": "U"
+    }
+  ],
+  "status": "Released"
+}

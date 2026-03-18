@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "1 win & 1 nomination total",
+  "rated": "R",
+  "released": "12 Jul 2002",
+  "runtime": "90 min",
+  "genre": "Horror, Thriller",
+  "director": "Rick Rosenthal",
+  "writer": "Debra Hill, John Carpenter, Larry Brand",
+  "actors": "Jamie Lee Curtis, Busta Rhymes, Brad Loree",
+  "plot": "Serial Killer Michael Myers is not finished with Laurie Strode, and their rivalry finally comes to an end. But is this the last we see of Myers? Freddie Harris and Nora Winston are reality programmers at DangerTainment, and are planning to send a group of 6 thrill-seeking teenagers into the childhood home of Myers. Cameras are placed all over the house and no one can get out of the house... and then Michael arrives home!",
+  "language": "English",
+  "country": "United States, Canada",
+  "metascore": "19",
+  "imdb_rating": "3.9",
+  "imdb_votes": "53,453",
+  "box_office": "$30,354,442",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "3.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "10%",
+      "link": "https://www.rottentomatoes.com/search?search=Halloween%3A+Resurrection"
+    },
+    {
+      "source": "Metacritic",
+      "value": "19/100",
+      "link": "https://www.metacritic.com/search/Halloween%3A+Resurrection/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0220506/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0220506/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11442"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "1 win & 5 nominations total",
+  "rated": "R",
+  "released": "27 Apr 2001",
+  "runtime": "104 min",
+  "genre": "Comedy, Romance",
+  "director": "Peter Chelsom",
+  "writer": "Michael Laughlin, Buck Henry",
+  "actors": "Warren Beatty, Diane Keaton, Nastassja Kinski",
+  "plot": "Porter Stoddard is a well-known New York architect who is at a crossroads... a nexus where twists and turns lead to myriad missteps, some with his wife Ellie, others with longtime friends Mona and her husband Griffin. Deciding which direction to take often leads to unexpected encounters with hilarious consequences.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "34",
+  "imdb_rating": "4.5",
+  "imdb_votes": "5,347",
+  "box_office": "$6,719,973",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.5/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "13%",
+      "link": "https://www.rottentomatoes.com/search?search=Town+%26+Country"
+    },
+    {
+      "source": "Metacritic",
+      "value": "34/100",
+      "link": "https://www.metacritic.com/search/Town+%26+Country/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0141907/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0141907/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/24113"
+  }
+}

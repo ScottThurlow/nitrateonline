@@ -1,0 +1,152 @@
+{
+  "tmdb_id": 10385,
+  "title": "Hanging Up",
+  "original_title": "Hanging Up",
+  "release_date": "2000-02-16",
+  "runtime": 94,
+  "tagline": "Every family has a few hang-ups.",
+  "overview": "Three sisters - Georgia, Eve, and Maddy - do what they do best with life, love, and lunacy on the telephone lines that bind - when their curmudgeonly father, Lou, is admitted to a Los Angeles Hospital. After years of wild living, intermittent affection, and constant phoning, he is finally threatening to die.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "spoken_languages": [
+    "Italian",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Nora Ephron Productions",
+      "country": ""
+    },
+    {
+      "name": "Laurence Mark Productions",
+      "country": "US"
+    },
+    {
+      "name": "Columbia Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Diane Keaton"
+  ],
+  "writers": [
+    {
+      "name": "Delia Ephron",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Nora Ephron",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Delia Ephron",
+      "job": "Book"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Delia Ephron",
+      "job": "Producer"
+    },
+    {
+      "name": "Nora Ephron",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Meg Ryan",
+      "character": "Eve Mozell Marks",
+      "order": 0
+    },
+    {
+      "name": "Diane Keaton",
+      "character": "Georgia Mozell",
+      "order": 1
+    },
+    {
+      "name": "Lisa Kudrow",
+      "character": "Maddy Mozell",
+      "order": 2
+    },
+    {
+      "name": "Walter Matthau",
+      "character": "Lou Mozell",
+      "order": 3
+    },
+    {
+      "name": "Adam Arkin",
+      "character": "Joe Marks",
+      "order": 4
+    },
+    {
+      "name": "Jesse James",
+      "character": "Jesse Marks",
+      "order": 5
+    },
+    {
+      "name": "Shaun Duke",
+      "character": "Dr. Omar Kunundar",
+      "order": 6
+    },
+    {
+      "name": "Ann Bortolotti",
+      "character": "Ogmed Kunundar",
+      "order": 7
+    },
+    {
+      "name": "Cloris Leachman",
+      "character": "Pat Mozell",
+      "order": 8
+    },
+    {
+      "name": "Maree Cheatham",
+      "character": "Angie",
+      "order": 9
+    }
+  ],
+  "poster_path": "/lnnFFGhIXi6ZDU3r29eKHKTHdq0.jpg",
+  "backdrop_path": "/9I9VYNau1KU77OQAcF6WnfOtGcU.jpg",
+  "budget": 60000000,
+  "revenue": 51880044,
+  "vote_average": 5.246,
+  "vote_count": 185,
+  "imdb_id": "tt0162983",
+  "certifications": [
+    {
+      "country": "CH",
+      "rating": "0"
+    },
+    {
+      "country": "CZ",
+      "rating": "15+"
+    },
+    {
+      "country": "HU",
+      "rating": "12"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "NL",
+      "rating": "AL"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

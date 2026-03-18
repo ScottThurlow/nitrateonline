@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 18080,
+  "title": "Out to Sea",
+  "original_title": "Out to Sea",
+  "release_date": "1997-07-02",
+  "runtime": 106,
+  "tagline": "Get ready to Rumba!",
+  "overview": "Care-free Charlie cons his widower brother-in-law Herb into an expenses-paid luxury cruise in search of rich, lonely ladies. The catch is that they are required to be dance hosts! With a tyrannical cruise director, and the luscious Liz and lovely Vivian, our heroes have lots of mis-adventures before they finally return to port.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Martha Coolidge"
+  ],
+  "writers": [
+    {
+      "name": "Robert Nelson Jacobs",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry M. Berg",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "David T. Friendly",
+      "job": "Producer"
+    },
+    {
+      "name": "Dylan Sellers",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jack Lemmon",
+      "character": "Herb Sullivan",
+      "order": 0
+    },
+    {
+      "name": "Walter Matthau",
+      "character": "Charlie Gordon",
+      "order": 1
+    },
+    {
+      "name": "Dyan Cannon",
+      "character": "Liz LaBreche",
+      "order": 2
+    },
+    {
+      "name": "Brent Spiner",
+      "character": "Gil Godwyn",
+      "order": 3
+    },
+    {
+      "name": "Gloria DeHaven",
+      "character": "Vivian",
+      "order": 4
+    },
+    {
+      "name": "Elaine Stritch",
+      "character": "Mavis LaBreche",
+      "order": 5
+    },
+    {
+      "name": "Hal Linden",
+      "character": "Mac Valor",
+      "order": 6
+    },
+    {
+      "name": "Donald O'Connor",
+      "character": "Jonathan Devereaux",
+      "order": 7
+    },
+    {
+      "name": "Edward Mulhare",
+      "character": "Cullen Carswell",
+      "order": 8
+    },
+    {
+      "name": "Rue McClanahan",
+      "character": "Mrs. Ellen Carruthers",
+      "order": 9
+    }
+  ],
+  "poster_path": "/de3GHQy3TJAVhgF6ys1aWpe5jWK.jpg",
+  "backdrop_path": "/dTPGduoNN2h9kQdetddVOo8tfKt.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 5.817,
+  "vote_count": 115,
+  "imdb_id": "tt0119848",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "SE",
+      "rating": "Btl"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

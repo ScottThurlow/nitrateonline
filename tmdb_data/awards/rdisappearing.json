@@ -1,0 +1,35 @@
+{
+  "year": "2000",
+  "awards": "9 nominations",
+  "rated": "R",
+  "released": "09 Dec 2000",
+  "runtime": "115 min",
+  "genre": "Drama, Romance",
+  "director": "Gina Prince-Bythewood",
+  "writer": "Terry McMillan, Lisa Jones",
+  "actors": "Sanaa Lathan, Wesley Snipes, Michael Imperioli",
+  "plot": "Zora Banks is a school teacher and aspiring singer hoping to become a successful star while taking a break from heartache. Franklin Swift is a down-on-his-luck construction worker and not-quite divorced father of two hoping to start his own business. The two meet and fall in love and during the course of the stormy relationship, they both come to some startling conclusions about love and each other.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "6.3",
+  "imdb_votes": "1,960",
+  "box_office": "N/A",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.3/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "60%",
+      "link": "https://www.rottentomatoes.com/search?search=Disappearing+Acts"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0243220/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0243220/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/45602"
+  }
+}

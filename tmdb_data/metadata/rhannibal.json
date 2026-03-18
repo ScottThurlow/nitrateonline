@@ -1,0 +1,296 @@
+{
+  "tmdb_id": 9740,
+  "title": "Hannibal",
+  "original_title": "Hannibal",
+  "release_date": "2001-02-08",
+  "runtime": 131,
+  "tagline": "His genius undeniable. His evil unspeakable. His name...Hannibal.",
+  "overview": "After having successfully eluded the authorities for years, Hannibal peacefully lives in Italy in disguise as an art scholar. Trouble strikes again when he's discovered leaving a deserving few dead in the process. He returns to America to make contact with now disgraced Agent Clarice Starling, who is suffering the wrath of a malicious FBI rival as well as the media.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "The De Laurentiis Company",
+      "country": "US"
+    },
+    {
+      "name": "Universal Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Scott Free Productions",
+      "country": "GB"
+    },
+    {
+      "name": "Metro-Goldwyn-Mayer",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Ridley Scott"
+  ],
+  "writers": [
+    {
+      "name": "Thomas Harris",
+      "job": "Novel"
+    },
+    {
+      "name": "David Mamet",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Steven Zaillian",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Martha De Laurentiis",
+      "job": "Producer"
+    },
+    {
+      "name": "Branko Lustig",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ridley Scott",
+      "job": "Producer"
+    },
+    {
+      "name": "Dino De Laurentiis",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anthony Hopkins",
+      "character": "Dr. Hannibal Lecter",
+      "order": 0
+    },
+    {
+      "name": "Julianne Moore",
+      "character": "Clarice M. Starling",
+      "order": 1
+    },
+    {
+      "name": "Gary Oldman",
+      "character": "Mason Verger",
+      "order": 2
+    },
+    {
+      "name": "Ray Liotta",
+      "character": "Paul Krendler",
+      "order": 3
+    },
+    {
+      "name": "Giancarlo Giannini",
+      "character": "Insp. Renaldo Pazzi",
+      "order": 4
+    },
+    {
+      "name": "Željko Ivanek",
+      "character": "Dr. Cordell Doemling",
+      "order": 5
+    },
+    {
+      "name": "Frankie Faison",
+      "character": "Barney Matthews",
+      "order": 6
+    },
+    {
+      "name": "Francesca Neri",
+      "character": "Allegra Pazzi",
+      "order": 7
+    },
+    {
+      "name": "Hazelle Goodman",
+      "character": "Evelda Drumgo",
+      "order": 8
+    },
+    {
+      "name": "David Andrews",
+      "character": "FBI Agent Pearsall",
+      "order": 9
+    }
+  ],
+  "poster_path": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+  "backdrop_path": "/1eMvglbY3wpl4nl09eYLtfstV2I.jpg",
+  "budget": 87000000,
+  "revenue": 351692268,
+  "vote_average": 6.772,
+  "vote_count": 5114,
+  "imdb_id": "tt0212985",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "+16"
+    },
+    {
+      "country": "AT",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "R"
+    },
+    {
+      "country": "CH",
+      "rating": "18"
+    },
+    {
+      "country": "CL",
+      "rating": "18"
+    },
+    {
+      "country": "CZ",
+      "rating": "18+"
+    },
+    {
+      "country": "DE",
+      "rating": "18"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "18"
+    },
+    {
+      "country": "FI",
+      "rating": "K-18"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "18"
+    },
+    {
+      "country": "GR",
+      "rating": "K18"
+    },
+    {
+      "country": "HK",
+      "rating": "III"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "18"
+    },
+    {
+      "country": "IL",
+      "rating": "18"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "MX",
+      "rating": "C"
+    },
+    {
+      "country": "MY",
+      "rating": "18SG"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "18"
+    },
+    {
+      "country": "NZ",
+      "rating": "R18"
+    },
+    {
+      "country": "PH",
+      "rating": "R-18"
+    },
+    {
+      "country": "PL",
+      "rating": "18"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "18+"
+    },
+    {
+      "country": "RU",
+      "rating": "18+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "M18"
+    },
+    {
+      "country": "TH",
+      "rating": "18"
+    },
+    {
+      "country": "TR",
+      "rating": "18+"
+    },
+    {
+      "country": "TW",
+      "rating": "18+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    },
+    {
+      "country": "ZA",
+      "rating": "16"
+    }
+  ],
+  "status": "Released"
+}

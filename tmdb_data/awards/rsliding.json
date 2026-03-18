@@ -1,0 +1,40 @@
+{
+  "year": "1998",
+  "awards": "Nominated for 1 BAFTA Award6 wins & 4 nominations total",
+  "rated": "PG-13",
+  "released": "01 May 1998",
+  "runtime": "99 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Peter Howitt",
+  "writer": "Peter Howitt",
+  "actors": "Gwyneth Paltrow, John Hannah, John Lynch",
+  "plot": "In London, the public relation Helen is fired from her position in a PR company. While returning home, she does not catch the train in the subway. But in another possibility of her life, she catches the train in the subway. The story shows two parallel lives of Helen: in one life, she stays with her boyfriend Gerry, and in the other life, she finds that Gerry cheats her with Lydia and falls in love with James Hammerton.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "metascore": "59",
+  "imdb_rating": "6.7",
+  "imdb_votes": "73,343",
+  "box_office": "$11,841,544",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "65%",
+      "link": "https://www.rottentomatoes.com/search?search=Sliding+Doors"
+    },
+    {
+      "source": "Metacritic",
+      "value": "59/100",
+      "link": "https://www.metacritic.com/search/Sliding+Doors/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120148/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120148/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10215"
+  }
+}

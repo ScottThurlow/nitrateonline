@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "Won 1 Oscar. 47 wins & 47 nominations total",
+  "rated": "R",
+  "released": "14 Feb 2003",
+  "runtime": "112 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Pedro Almodóvar",
+  "writer": "Pedro Almodóvar",
+  "actors": "Rosario Flores, Javier Cámara, Darío Grandinetti",
+  "plot": "After a chance encounter at a theater, two men, Benigno and Marco, meet at a private clinic where Benigno works. Lydia, Marco's girlfriend and a bullfighter by profession, has been gored and is in a coma. It so happens that Benigno is looking after another woman in a coma, Alicia, a young ballet student. The lives of the four characters will flow in all directions, past, present and future, dragging all of them towards an unsuspected destiny.",
+  "language": "Spanish",
+  "country": "Spain, United States",
+  "metascore": "86",
+  "imdb_rating": "7.9",
+  "imdb_votes": "120,861",
+  "box_office": "$9,357,911",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "7.9/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "91%",
+      "link": "https://www.rottentomatoes.com/search?search=Talk+to+Her"
+    },
+    {
+      "source": "Metacritic",
+      "value": "86/100",
+      "link": "https://www.metacritic.com/search/Talk+to+Her/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0287467/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0287467/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/64"
+  }
+}

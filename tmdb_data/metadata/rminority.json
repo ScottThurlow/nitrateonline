@@ -1,0 +1,297 @@
+{
+  "tmdb_id": 180,
+  "title": "Minority Report",
+  "original_title": "Minority Report",
+  "release_date": "2002-06-20",
+  "runtime": 145,
+  "tagline": "Everybody runs.",
+  "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "English",
+    "Swedish"
+  ],
+  "production_companies": [
+    {
+      "name": "Digital Image Associates",
+      "country": "US"
+    },
+    {
+      "name": "Cruise/Wagner Productions",
+      "country": "US"
+    },
+    {
+      "name": "Blue Tulip Productions",
+      "country": "US"
+    },
+    {
+      "name": "Ronald Shusett/Gary Goldman Productions",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Steven Spielberg"
+  ],
+  "writers": [
+    {
+      "name": "Scott Frank",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jon Cohen",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Philip K. Dick",
+      "job": "Short Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jan de Bont",
+      "job": "Producer"
+    },
+    {
+      "name": "Bonnie Curtis",
+      "job": "Producer"
+    },
+    {
+      "name": "Gerald R. Molen",
+      "job": "Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Producer"
+    },
+    {
+      "name": "Ronald Shusett",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Gary Goldman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "character": "Chief John Anderton",
+      "order": 0
+    },
+    {
+      "name": "Samantha Morton",
+      "character": "Agatha",
+      "order": 1
+    },
+    {
+      "name": "Colin Farrell",
+      "character": "Danny Witwer",
+      "order": 2
+    },
+    {
+      "name": "Max von Sydow",
+      "character": "Director Lamar Burgess",
+      "order": 3
+    },
+    {
+      "name": "Kathryn Morris",
+      "character": "Lara Clarke",
+      "order": 4
+    },
+    {
+      "name": "Steve Harris",
+      "character": "Jad",
+      "order": 5
+    },
+    {
+      "name": "Neal McDonough",
+      "character": "Fletcher",
+      "order": 6
+    },
+    {
+      "name": "Patrick Kilpatrick",
+      "character": "Knott",
+      "order": 7
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Dr. Solomon Eddie",
+      "order": 8
+    },
+    {
+      "name": "Jessica Capshaw",
+      "character": "Evanna",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+  "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+  "budget": 102000000,
+  "revenue": 358372926,
+  "vote_average": 7.35,
+  "vote_count": 9458,
+  "imdb_id": "tt0181689",
+  "certifications": [
+    {
+      "country": "AR",
+      "rating": "13"
+    },
+    {
+      "country": "AT",
+      "rating": "14"
+    },
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "K-12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IL",
+      "rating": "PG"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IS",
+      "rating": "14"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B15"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "M"
+    },
+    {
+      "country": "PE",
+      "rating": "14"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SK",
+      "rating": "12"
+    },
+    {
+      "country": "TR",
+      "rating": "16+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

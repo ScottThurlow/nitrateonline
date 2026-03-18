@@ -1,0 +1,173 @@
+{
+  "tmdb_id": 13435,
+  "title": "Antwone Fisher",
+  "original_title": "Antwone Fisher",
+  "release_date": "2002-12-19",
+  "runtime": 120,
+  "tagline": "Antwone Fisher is at war... with himself.",
+  "overview": "A sailor prone to violent outbursts is sent to a naval psychiatrist for help. Refusing at first to open up, the young man eventually breaks down and reveals a horrific childhood. Through the guidance of his doctor, he confronts his painful past and begins a quest to find the family he never knew.",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English",
+    "Japanese"
+  ],
+  "production_companies": [
+    {
+      "name": "Mundy Lane Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Fox Searchlight Pictures",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Denzel Washington"
+  ],
+  "writers": [
+    {
+      "name": "Antwone Fisher",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Todd Black",
+      "job": "Producer"
+    },
+    {
+      "name": "Randa Haines",
+      "job": "Producer"
+    },
+    {
+      "name": "Nancy Paloian",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Denzel Washington",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Denzel Washington",
+      "character": "Dr. Jerome Davenport",
+      "order": 0
+    },
+    {
+      "name": "Derek Luke",
+      "character": "Antwone Fisher",
+      "order": 1
+    },
+    {
+      "name": "Malcolm David Kelley",
+      "character": "Antwone Fisher Age 7",
+      "order": 2
+    },
+    {
+      "name": "Cory Hodges",
+      "character": "Antwone Fisher Age 14",
+      "order": 3
+    },
+    {
+      "name": "Viola Davis",
+      "character": "Eva May",
+      "order": 4
+    },
+    {
+      "name": "Joy Bryant",
+      "character": "Cheryl Smolley",
+      "order": 5
+    },
+    {
+      "name": "Salli Richardson-Whitfield",
+      "character": "Berta Davenport",
+      "order": 6
+    },
+    {
+      "name": "Leonard Earl Howze",
+      "character": "Pork Chop",
+      "order": 7
+    },
+    {
+      "name": "Kente Scott",
+      "character": "Kansas City",
+      "order": 8
+    },
+    {
+      "name": "Kevin Connolly",
+      "character": "Slim",
+      "order": 9
+    }
+  ],
+  "poster_path": "/j9lCK1aFXqMO3hzhGiqCNU8coIX.jpg",
+  "backdrop_path": "/83xzg9g16CulQbYISZRF64EoeSY.jpg",
+  "budget": 12500000,
+  "revenue": 23400000,
+  "vote_average": 6.924,
+  "vote_count": 542,
+  "imdb_id": "tt0168786",
+  "certifications": [
+    {
+      "country": "BR",
+      "rating": "12 anos"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "TR",
+      "rating": "13+"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

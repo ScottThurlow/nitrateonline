@@ -1,0 +1,112 @@
+{
+  "tmdb_id": 25536,
+  "title": "PTU",
+  "original_title": "PTU",
+  "release_date": "2003-04-17",
+  "runtime": 88,
+  "tagline": "Into the Perilous Night...",
+  "overview": "Follows a police tactical unit during one dangerous night on the streets of Hong Kong as they try to recover a cop's stolen gun. Things turn deadly when they run into a web of gangland crimes.",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "spoken_languages": [
+    "Cantonese",
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Milkyway Image",
+      "country": "HK"
+    }
+  ],
+  "director": [
+    "Johnnie To"
+  ],
+  "writers": [
+    {
+      "name": "Yau Nai-Hoi",
+      "job": "Writer"
+    },
+    {
+      "name": "Au Kin-Yee",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Johnnie To",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Simon Yam",
+      "character": "Sgt. Mike Ho",
+      "order": 0
+    },
+    {
+      "name": "Maggie Shiu",
+      "character": "Sgt. Kat",
+      "order": 1
+    },
+    {
+      "name": "Lam Suet",
+      "character": "Sgt. Lo Sa",
+      "order": 2
+    },
+    {
+      "name": "Ruby Wong Cheuk-Ling",
+      "character": "Insp. Leigh Cheng",
+      "order": 3
+    },
+    {
+      "name": "Eddy Ko Hung",
+      "character": "Eye Ball",
+      "order": 4
+    },
+    {
+      "name": "Lo Hoi-Pang",
+      "character": "Bald Head",
+      "order": 5
+    },
+    {
+      "name": "Wong Tin-Lam",
+      "character": "Uncle Cheung",
+      "order": 6
+    },
+    {
+      "name": "Jimmy Wong",
+      "character": "Bill",
+      "order": 7
+    },
+    {
+      "name": "Raymond Ho-Yin Wong",
+      "character": "Mike's Team Member",
+      "order": 8
+    },
+    {
+      "name": "Jerome Fung",
+      "character": "Mike's Team Member",
+      "order": 9
+    }
+  ],
+  "poster_path": "/sTpoWAe5Dx8MNlTOo4t4OXDwoX8.jpg",
+  "backdrop_path": "/xVRhmVxW189omnEjW8LzRX4vBB2.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.95,
+  "vote_count": 170,
+  "imdb_id": "tt0250638",
+  "certifications": [
+    {
+      "country": "HK",
+      "rating": "IIB"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    }
+  ],
+  "status": "Released"
+}

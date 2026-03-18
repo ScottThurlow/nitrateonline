@@ -1,0 +1,172 @@
+{
+  "tmdb_id": 20483,
+  "title": "Catch That Kid",
+  "original_title": "Catch That Kid",
+  "release_date": "2004-02-06",
+  "runtime": 92,
+  "tagline": "They're on a mission without permission.",
+  "overview": "A determined twelve-year-old mountain climber takes drastic action to save her injured father by planning a high-stakes bank heist, using her skills and teamwork to navigate the challenge.",
+  "genres": [
+    "Family",
+    "Action",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Fox 2000 Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Mad Chance",
+      "country": "US"
+    },
+    {
+      "name": "Splendid Productions",
+      "country": ""
+    },
+    {
+      "name": "Nimbus Film",
+      "country": "DK"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    },
+    {
+      "name": "Mediastream Dritte Film",
+      "country": "DE"
+    }
+  ],
+  "director": [
+    "Bart Freundlich"
+  ],
+  "writers": [
+    {
+      "name": "Michael Brandt",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Derek Haas",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Nikolaj Arcel",
+      "job": "Original Film Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Gym Hinderer",
+      "job": "Producer"
+    },
+    {
+      "name": "Jeffrey Graup",
+      "job": "Producer"
+    },
+    {
+      "name": "Damien Saccani",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "James Dodson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Mikkel Bondesen",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Andrew Lazar",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kristen Stewart",
+      "character": "Maddy Phillips",
+      "order": 0
+    },
+    {
+      "name": "Corbin Bleu",
+      "character": "Austin",
+      "order": 1
+    },
+    {
+      "name": "Max Thieriot",
+      "character": "Gus",
+      "order": 2
+    },
+    {
+      "name": "Jennifer Beals",
+      "character": "Molly Phillips",
+      "order": 3
+    },
+    {
+      "name": "Sam Robards",
+      "character": "Tom Phillips",
+      "order": 4
+    },
+    {
+      "name": "John Carroll Lynch",
+      "character": "Mr. Hartman",
+      "order": 5
+    },
+    {
+      "name": "James Le Gros",
+      "character": "Ferrell",
+      "order": 6
+    },
+    {
+      "name": "Michael Des Barres",
+      "character": "Brisbane",
+      "order": 7
+    },
+    {
+      "name": "Stark Sands",
+      "character": "Brad",
+      "order": 8
+    },
+    {
+      "name": "Lennie Loftin",
+      "character": "Flagler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/vNZTtrzrIsIAHzqH3143oWIzFjG.jpg",
+  "backdrop_path": "/pwvjMqOkjTqpCZOd6Gblw9kURoi.jpg",
+  "budget": 18000000,
+  "revenue": 16951702,
+  "vote_average": 5.594,
+  "vote_count": 316,
+  "imdb_id": "tt0337917",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "PG"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "RO",
+      "rating": "AP"
+    },
+    {
+      "country": "SE",
+      "rating": "7 År"
+    },
+    {
+      "country": "US",
+      "rating": "PG"
+    }
+  ],
+  "status": "Released"
+}

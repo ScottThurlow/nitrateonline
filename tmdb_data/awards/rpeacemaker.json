@@ -1,0 +1,40 @@
+{
+  "year": "1997",
+  "awards": "2 nominations total",
+  "rated": "R",
+  "released": "26 Sep 1997",
+  "runtime": "124 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Mimi Leder",
+  "writer": "Leslie Cockburn, Andrew Cockburn, Michael Schiffer",
+  "actors": "George Clooney, Nicole Kidman, Marcel Iures",
+  "plot": "Two trains crash somewhere in Russia, one carrying a nuclear payload. A nuclear explosion follows the crash and the world is on alert... However, White House nuclear expert Dr. Julia Kelly doesn't think it was an accident... Special Operations Intelligence Officer Colonel Thomas Devoe doesn't think so either... Together they must unravel a conspiracy that goes from Europe to New York, to stop a terrorist who has no demands...",
+  "language": "English, Russian, Serbian, Bosnian, Croatian, Polish, German",
+  "country": "United States",
+  "metascore": "43",
+  "imdb_rating": "6.0",
+  "imdb_votes": "65,975",
+  "box_office": "$41,263,140",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "49%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Peacemaker"
+    },
+    {
+      "source": "Metacritic",
+      "value": "43/100",
+      "link": "https://www.metacritic.com/search/The+Peacemaker/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0119874/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0119874/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/6623"
+  }
+}

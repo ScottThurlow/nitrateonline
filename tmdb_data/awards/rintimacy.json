@@ -1,0 +1,40 @@
+{
+  "year": "2001",
+  "awards": "6 wins & 5 nominations total",
+  "rated": "Unrated",
+  "released": "28 Mar 2001",
+  "runtime": "119 min",
+  "genre": "Drama, Romance",
+  "director": "Patrice Chéreau",
+  "writer": "Hanif Kureishi, Anne-Louise Trividic, Patrice Chéreau",
+  "actors": "Mark Rylance, Kerry Fox, Susannah Harker",
+  "plot": "A failed London musician meets once a week with a woman for a series of intense sexual encounters to get away from the realities of life. But when he begins inquiring about her, it puts their relationship at risk.",
+  "language": "English",
+  "country": "France, United Kingdom, Germany",
+  "metascore": "69",
+  "imdb_rating": "6.0",
+  "imdb_votes": "13,626",
+  "box_office": "$405,094",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.0/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "66%",
+      "link": "https://www.rottentomatoes.com/search?search=Intimacy"
+    },
+    {
+      "source": "Metacritic",
+      "value": "69/100",
+      "link": "https://www.metacritic.com/search/Intimacy/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0256103/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0256103/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/11845"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "tmdb_id": 8007,
+  "title": "Behind Enemy Lines",
+  "original_title": "Behind Enemy Lines",
+  "release_date": "2001-11-30",
+  "runtime": 106,
+  "tagline": "His only weapon is his will to survive.",
+  "overview": "While flying a routine reconnaissance mission over Bosnia, fighter pilot Lt. Chris Burnett photographs something he wasn't supposed to see and gets shot down behind enemy lines, where he must outrun an army led by a ruthless Serbian general. With time running out and a deadly tracker on his trail, Burnett's commanding officer, Admiral Reigart, decides to risk his career and launch a renegade rescue mission to save his life.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "spoken_languages": [
+    "Czech",
+    "English",
+    "Spanish",
+    "Serbo-Croatian"
+  ],
+  "production_companies": [
+    {
+      "name": "Davis Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "20th Century Fox",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "John Moore"
+  ],
+  "writers": [
+    {
+      "name": "John Thomas",
+      "job": "Story"
+    },
+    {
+      "name": "Zak Penn",
+      "job": "Screenplay"
+    },
+    {
+      "name": "David Veloz",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Jim Thomas",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "John Davis",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephanie Austin",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Wyck Godfrey",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Owen Wilson",
+      "character": "Lt. Chris 'Longhorn' Burnett",
+      "order": 0
+    },
+    {
+      "name": "Gene Hackman",
+      "character": "Admiral Leslie Reigart, Commander Adriatic Battle Group",
+      "order": 1
+    },
+    {
+      "name": "Gabriel Macht",
+      "character": "Lt. Jeremy 'Smoke' Stackhouse",
+      "order": 2
+    },
+    {
+      "name": "Olek Krupa",
+      "character": "General Miroslav Lokar",
+      "order": 3
+    },
+    {
+      "name": "Vladimir Mashkov",
+      "character": "Tracker (Sasha)",
+      "order": 4
+    },
+    {
+      "name": "Marko Igonda",
+      "character": "Bazda",
+      "order": 5
+    },
+    {
+      "name": "David Keith",
+      "character": "Master Chief Tom O'Malley",
+      "order": 6
+    },
+    {
+      "name": "Charles Malik Whitfield",
+      "character": "Capt. Glen Rodway, USMC",
+      "order": 7
+    },
+    {
+      "name": "Eyal Podell",
+      "character": "Petty Officer Kennedy",
+      "order": 8
+    },
+    {
+      "name": "Joaquim de Almeida",
+      "character": "Admiral Juan-Miguel Piquet, Commander of NATO Naval Command",
+      "order": 9
+    }
+  ],
+  "poster_path": "/fZReMWU3zszvaktDUqOoWCzHssZ.jpg",
+  "backdrop_path": "/lEdy2A62qCwJPffMLVyByRxUpfd.jpg",
+  "budget": 40000000,
+  "revenue": 91753202,
+  "vote_average": 6.416,
+  "vote_count": 1610,
+  "imdb_id": "tt0159273",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "MA 15+"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BG",
+      "rating": "C"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "16"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,127 @@
+{
+  "tmdb_id": 12146,
+  "title": "The Missing",
+  "original_title": "The Missing",
+  "release_date": "2003-11-26",
+  "runtime": 135,
+  "tagline": "How far would you go, how much would you sacrifice to get back what you have lost?",
+  "overview": "When rancher and single mother of two Maggie Gilkeson sees her teenage daughter, Lily, kidnapped by Apache rebels, she reluctantly accepts the help of her estranged father, Samuel, in tracking down the kidnappers. Along the way, the two must learn to reconcile the past and work together if they are going to have any hope of getting Lily back before she is taken over the border and forced to become a prostitute.",
+  "genres": [
+    "Thriller",
+    "Western",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Imagine Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Revolution Studios",
+      "country": "US"
+    },
+    {
+      "name": "Daniel Ostroff Productions",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Ron Howard"
+  ],
+  "writers": [
+    {
+      "name": "Ken Kaufman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Thomas Eidson",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Steve Crystal",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Brian Grazer",
+      "job": "Producer"
+    },
+    {
+      "name": "Todd Hallowell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Ron Howard",
+      "job": "Producer"
+    },
+    {
+      "name": "Daniel Ostroff",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Cate Blanchett",
+      "character": "Maggie Gilkeson",
+      "order": 0
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "character": "Samuel Jones",
+      "order": 1
+    },
+    {
+      "name": "Evan Rachel Wood",
+      "character": "Lilly Gilkeson",
+      "order": 2
+    },
+    {
+      "name": "Jenna Boyd",
+      "character": "Dot Gilkeson",
+      "order": 3
+    },
+    {
+      "name": "Aaron Eckhart",
+      "character": "Brake Baldwin",
+      "order": 4
+    },
+    {
+      "name": "Val Kilmer",
+      "character": "Lt. Jim Ducharme",
+      "order": 5
+    },
+    {
+      "name": "Eric Schweig",
+      "character": "Pesh-Chidin / El Brujo",
+      "order": 6
+    },
+    {
+      "name": "Steve Reevis",
+      "character": "Two Stone",
+      "order": 7
+    },
+    {
+      "name": "Jay Tavare",
+      "character": "Kayitah",
+      "order": 8
+    },
+    {
+      "name": "Simon Baker",
+      "character": "Honesco, Kayitah's son",
+      "order": 9
+    }
+  ],
+  "poster_path": "/86s5nw5F1G8lJtEowO0LBB4hoBW.jpg",
+  "backdrop_path": "/o8bs4oCB3qCooYfpMhXY4evNVLi.jpg",
+  "budget": 60000000,
+  "revenue": 38364277,
+  "vote_average": 6.294,
+  "vote_count": 682,
+  "imdb_id": "tt0338188",
+  "status": "Released"
+}

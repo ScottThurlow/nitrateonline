@@ -1,0 +1,120 @@
+{
+  "tmdb_id": 24071,
+  "title": "Mumford",
+  "original_title": "Mumford",
+  "release_date": "1999-09-24",
+  "runtime": 112,
+  "tagline": "Some towns have all the fun.",
+  "overview": "When a would-be psychologist, curiously named Dr. Mumford, comes to the idyllic town of the same name and offers his talent for listening and a disarming frankness, the town's quirkiest citizens scramble for a seat on his couch. As he lightens hearts darkened by old secrets no one realizes he's hiding a whopper of his own, or that he's fallen head over heels for one of his patients!",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Lawrence Kasdan"
+  ],
+  "writers": [
+    {
+      "name": "Lawrence Kasdan",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Lawrence Kasdan",
+      "job": "Producer"
+    },
+    {
+      "name": "Linda Goldstein Knowlton",
+      "job": "Producer"
+    },
+    {
+      "name": "Charles Okun",
+      "job": "Producer"
+    },
+    {
+      "name": "Stephen P. Dunn",
+      "job": "Producer"
+    },
+    {
+      "name": "Jon Hutman",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Loren Dean",
+      "character": "Mumford",
+      "order": 0
+    },
+    {
+      "name": "Hope Davis",
+      "character": "Sofie Crisp",
+      "order": 1
+    },
+    {
+      "name": "Jason Lee",
+      "character": "Skip Skipperton",
+      "order": 2
+    },
+    {
+      "name": "Alfre Woodard",
+      "character": "Lily",
+      "order": 3
+    },
+    {
+      "name": "Zooey Deschanel",
+      "character": "Nessa Watkins",
+      "order": 4
+    },
+    {
+      "name": "Mary McDonnell",
+      "character": "Althea Brockett",
+      "order": 5
+    },
+    {
+      "name": "Pruitt Taylor Vince",
+      "character": "Henry Follett",
+      "order": 6
+    },
+    {
+      "name": "Martin Short",
+      "character": "Lionel Dillard",
+      "order": 7
+    },
+    {
+      "name": "David Paymer",
+      "character": "Dr. Ernest Delbanco",
+      "order": 8
+    },
+    {
+      "name": "Jane Adams",
+      "character": "Dr. Phyllis Sheeler",
+      "order": 9
+    }
+  ],
+  "poster_path": "/a2uqenG3BZICDrcrr49IZwoHA8Y.jpg",
+  "backdrop_path": "/twcTqKRiAlK6g8CVKHQGOnmxkti.jpg",
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 6.5,
+  "vote_count": 105,
+  "imdb_id": "tt0140397",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

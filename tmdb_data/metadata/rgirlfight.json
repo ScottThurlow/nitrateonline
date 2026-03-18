@@ -1,0 +1,130 @@
+{
+  "tmdb_id": 19348,
+  "title": "Girlfight",
+  "original_title": "Girlfight",
+  "release_date": "2000-05-01",
+  "runtime": 110,
+  "tagline": "Prove them wrong.",
+  "overview": "Diana Guzman, a troubled Brooklyn teenager, decides to channel her aggression by training to become a boxer, all while keeping it a secret from her father.",
+  "genres": [
+    "Drama"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "Green/Renzi",
+      "country": ""
+    },
+    {
+      "name": "IFC Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Karyn Kusama"
+  ],
+  "writers": [
+    {
+      "name": "Karyn Kusama",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jonathan Sehring",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Maggie Renzi",
+      "job": "Producer"
+    },
+    {
+      "name": "Sarah Green",
+      "job": "Producer"
+    },
+    {
+      "name": "Martha Griffin",
+      "job": "Producer"
+    },
+    {
+      "name": "Caroline Kaplan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "John Sayles",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Michelle Rodriguez",
+      "character": "Diana Guzman",
+      "order": 0
+    },
+    {
+      "name": "Jamie Tirelli",
+      "character": "Hector Soto",
+      "order": 1
+    },
+    {
+      "name": "Paul Calderon",
+      "character": "Sandro Guzman",
+      "order": 2
+    },
+    {
+      "name": "Santiago Douglas",
+      "character": "Adrian Sturges",
+      "order": 3
+    },
+    {
+      "name": "Ray Santiago",
+      "character": "Tiny Guzman",
+      "order": 4
+    },
+    {
+      "name": "Víctor Sierra",
+      "character": "Ray Cortez",
+      "order": 5
+    },
+    {
+      "name": "Elisa Bocanegra",
+      "character": "Marisol",
+      "order": 6
+    },
+    {
+      "name": "Herb Lovelle",
+      "character": "Cal",
+      "order": 7
+    },
+    {
+      "name": "Thomas Barbour",
+      "character": "Ira",
+      "order": 8
+    },
+    {
+      "name": "Shannon Walker Williams",
+      "character": "Veronica",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ydHUoYtpZdkwxdroK1rWyEpJrLZ.jpg",
+  "backdrop_path": "/6GHoRivEh6mIm7B3bVPrUA7VeyK.jpg",
+  "budget": 1000000,
+  "revenue": 1700000,
+  "vote_average": 6.513,
+  "vote_count": 191,
+  "imdb_id": "tt0210075",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

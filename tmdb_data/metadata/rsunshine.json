@@ -1,0 +1,212 @@
+{
+  "tmdb_id": 38,
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "original_title": "Eternal Sunshine of the Spotless Mind",
+  "release_date": "2004-03-19",
+  "runtime": 108,
+  "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+  "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+  "genres": [
+    "Science Fiction",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Focus Features",
+      "country": "US"
+    },
+    {
+      "name": "Anonymous Content",
+      "country": "US"
+    },
+    {
+      "name": "This is that",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Michel Gondry"
+  ],
+  "writers": [
+    {
+      "name": "Charlie Kaufman",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Charlie Kaufman",
+      "job": "Story"
+    },
+    {
+      "name": "Michel Gondry",
+      "job": "Story"
+    },
+    {
+      "name": "Pierre Bismuth",
+      "job": "Story"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Anthony Bregman",
+      "job": "Producer"
+    },
+    {
+      "name": "Steve Golin",
+      "job": "Producer"
+    },
+    {
+      "name": "David L. Bushell",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Glenn Williamson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Georges Bermann",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Charlie Kaufman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jim Carrey",
+      "character": "Joel Barish",
+      "order": 0
+    },
+    {
+      "name": "Kate Winslet",
+      "character": "Clementine Kruczynski",
+      "order": 1
+    },
+    {
+      "name": "Kirsten Dunst",
+      "character": "Mary",
+      "order": 2
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Stan",
+      "order": 3
+    },
+    {
+      "name": "Elijah Wood",
+      "character": "Patrick",
+      "order": 4
+    },
+    {
+      "name": "Tom Wilkinson",
+      "character": "Dr. Mierzwiak",
+      "order": 5
+    },
+    {
+      "name": "Jane Adams",
+      "character": "Carrie",
+      "order": 6
+    },
+    {
+      "name": "David Cross",
+      "character": "Rob",
+      "order": 7
+    },
+    {
+      "name": "Deirdre O'Connell",
+      "character": "Hollis",
+      "order": 8
+    },
+    {
+      "name": "Thomas Jay Ryan",
+      "character": "Frank",
+      "order": 9
+    }
+  ],
+  "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+  "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+  "budget": 20000000,
+  "revenue": 72258126,
+  "vote_average": 8.1,
+  "vote_count": 16114,
+  "imdb_id": "tt0338013",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "ES",
+      "rating": "12"
+    },
+    {
+      "country": "FR",
+      "rating": "TP"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "13"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/16"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "R"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

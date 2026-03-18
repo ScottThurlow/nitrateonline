@@ -1,0 +1,137 @@
+{
+  "tmdb_id": 9719,
+  "title": "Pumpkin",
+  "original_title": "Pumpkin",
+  "release_date": "2002-06-28",
+  "runtime": 113,
+  "tagline": "a comedy for the romantically challenged",
+  "overview": "Carolyn's sorority sisters set their sights on the Sorority of the Year award and coaching challenged athletes is their ticket to the trophy. But when the queen of formals finds herself mentoring Pumpkin, a disabled athlete, their two worlds collide.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "American Zoetrope",
+      "country": "US"
+    },
+    {
+      "name": "Bona Fide Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Adam Larson Broder",
+    "Anthony Abrams"
+  ],
+  "writers": [
+    {
+      "name": "Adam Larson Broder",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Karen Barber",
+      "job": "Producer"
+    },
+    {
+      "name": "Ron Yerxa",
+      "job": "Producer"
+    },
+    {
+      "name": "Andrea Sperling",
+      "job": "Producer"
+    },
+    {
+      "name": "Christina Ricci",
+      "job": "Producer"
+    },
+    {
+      "name": "Albert Berger",
+      "job": "Producer"
+    },
+    {
+      "name": "Willi Bär",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Linda Reisman",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Christina Ricci",
+      "character": "Carolyn McDuffy",
+      "order": 0
+    },
+    {
+      "name": "Hank Harris",
+      "character": "Pumpkin Romanoff",
+      "order": 1
+    },
+    {
+      "name": "Brenda Blethyn",
+      "character": "Judy Romanoff",
+      "order": 2
+    },
+    {
+      "name": "Dominique Swain",
+      "character": "Jeanine Kryszinsky",
+      "order": 3
+    },
+    {
+      "name": "Marisa Coughlan",
+      "character": "Julie Thurber",
+      "order": 4
+    },
+    {
+      "name": "Sam Ball",
+      "character": "Kent Woodlands",
+      "order": 5
+    },
+    {
+      "name": "Harry Lennix",
+      "character": "Robert Meary (Poetry teacher)",
+      "order": 6
+    },
+    {
+      "name": "Nina Foch",
+      "character": "Betsy Collander",
+      "order": 7
+    },
+    {
+      "name": "Caroline Aaron",
+      "character": "Claudia Prinsinger",
+      "order": 8
+    },
+    {
+      "name": "Lisa Banes",
+      "character": "Chippy McDuffy",
+      "order": 9
+    }
+  ],
+  "poster_path": "/25qW6cO2zqYBpqTw8BBIhBIUpl4.jpg",
+  "backdrop_path": "/1QQZbcIZU9tF3fOZRV8fr1Wb3De.jpg",
+  "budget": 0,
+  "revenue": 308108,
+  "vote_average": 5.8,
+  "vote_count": 116,
+  "imdb_id": "tt0265591",
+  "certifications": [
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

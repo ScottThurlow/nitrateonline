@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 25462,
+  "title": "Two Can Play That Game",
+  "original_title": "Two Can Play That Game",
+  "release_date": "2001-09-07",
+  "runtime": 90,
+  "tagline": "The rules are simple. There are no rules.",
+  "overview": "Corporate overachiever and all-around fly chick Shanté Smith thinks she's got the goods to keep her slickster boyfriend Keith, from straying—until he discovers a greener pasture, Shanté's archrival, Conny. Scorned, she plans to get her man back by any means necessary.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Screen Gems",
+      "country": "US"
+    },
+    {
+      "name": "C4 Pictures",
+      "country": ""
+    }
+  ],
+  "director": [
+    "Mark Brown"
+  ],
+  "writers": [
+    {
+      "name": "Mark Brown",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Mark Brown",
+      "job": "Producer"
+    },
+    {
+      "name": "Paddy Cullen",
+      "job": "Producer"
+    },
+    {
+      "name": "Doug McHenry",
+      "job": "Producer"
+    },
+    {
+      "name": "Robert N. Fried",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Larry Kennar",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Vivica A. Fox",
+      "character": "Shanté Smith",
+      "order": 0
+    },
+    {
+      "name": "Morris Chestnut",
+      "character": "Keith Fenton",
+      "order": 1
+    },
+    {
+      "name": "Anthony Anderson",
+      "character": "Tony",
+      "order": 2
+    },
+    {
+      "name": "Gabrielle Union",
+      "character": "Conny Spalding",
+      "order": 3
+    },
+    {
+      "name": "Wendy Raquel Robinson",
+      "character": "Karen",
+      "order": 4
+    },
+    {
+      "name": "Tamala Jones",
+      "character": "Tracey Johnson",
+      "order": 5
+    },
+    {
+      "name": "Mo'Nique",
+      "character": "Diedre",
+      "order": 6
+    },
+    {
+      "name": "Bobby Brown",
+      "character": "Michael",
+      "order": 7
+    },
+    {
+      "name": "Dondré Whitfield",
+      "character": "Dwain",
+      "order": 8
+    },
+    {
+      "name": "Ray Wise",
+      "character": "Bill Parker",
+      "order": 9
+    }
+  ],
+  "poster_path": "/oDWVsSJMXvDeX9KohSOtfqCFD7e.jpg",
+  "backdrop_path": "/38mKWUbVaWaMvKHeCNeXRJY5yLW.jpg",
+  "budget": 13000000,
+  "revenue": 22391450,
+  "vote_average": 6.4,
+  "vote_count": 90,
+  "imdb_id": "tt0269341",
+  "certifications": [
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "NL",
+      "rating": "18"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

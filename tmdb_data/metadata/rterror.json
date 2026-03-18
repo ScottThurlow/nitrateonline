@@ -1,0 +1,69 @@
+{
+  "tmdb_id": 202628,
+  "title": "Experiments in Terror",
+  "original_title": "Experiments in Terror",
+  "release_date": "2003-12-11",
+  "runtime": 106,
+  "tagline": "",
+  "overview": "A collection of short experimental horror films, some well-known, some not.",
+  "genres": [
+    "Horror"
+  ],
+  "spoken_languages": [],
+  "production_companies": [],
+  "director": [
+    "Kerry Laitala",
+    "Damon Packard",
+    "Peter Tscherkassky",
+    "J.X. Williams",
+    "Lloyd Michael Williams"
+  ],
+  "writers": [],
+  "producers": [],
+  "cast": [
+    {
+      "name": "Barbara Hershey",
+      "character": "",
+      "order": 0
+    },
+    {
+      "name": "Dorothea Griffin",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Ronald Lacey",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Miles O'Keeffe",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Damon Packard",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "Cesar Romero",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Calvin Waters",
+      "character": "",
+      "order": 6
+    }
+  ],
+  "poster_path": "/gBHuH1Y7I8qLrVTXqH4ZVpYhw2A.jpg",
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 1.0,
+  "vote_count": 1,
+  "imdb_id": "tt0427225",
+  "certifications": [],
+  "status": "Released"
+}

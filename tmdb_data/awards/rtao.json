@@ -1,0 +1,40 @@
+{
+  "year": "2000",
+  "awards": "1 win & 1 nomination",
+  "rated": "R",
+  "released": "01 Sep 2000",
+  "runtime": "87 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jenniphr Goodman",
+  "writer": "Duncan North, Greer Goodman, Jenniphr Goodman",
+  "actors": "Donal Logue, Ayelet Kaznelson, John Hines",
+  "plot": "In his early 30s, the beer-bellied Dex has things figured out. He's widely read in philosophy, he's studied Steve McQueen the prototypical cool American hero, and he's distilled Buddhism and Taoism into three laws that make him a hit with women: don't express desire, do something heroic in front of her, then retreat. A part-time job with young children, beer, guys, Frisbee golf, pool, poker, his dog Astro, and sex: what could be missing? Then, at his ten-year college reunion, Dex meets Syd, and the \"Tao of Steve\" may not be enough to get him what he wants. Plus, Syd remembers something important that Dex has forgotten. Can a cool smart guy, 50 pounds overweight, find his bliss?",
+  "language": "English",
+  "country": "United States",
+  "metascore": "70",
+  "imdb_rating": "6.7",
+  "imdb_votes": "7,844",
+  "box_office": "$4,342,203",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "6.7/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "79%",
+      "link": "https://www.rottentomatoes.com/search?search=The+Tao+of+Steve"
+    },
+    {
+      "source": "Metacritic",
+      "value": "70/100",
+      "link": "https://www.metacritic.com/search/The+Tao+of+Steve/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0234853/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0234853/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/20438"
+  }
+}

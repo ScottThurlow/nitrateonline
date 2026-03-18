@@ -1,0 +1,200 @@
+{
+  "tmdb_id": 547,
+  "title": "The Horse Whisperer",
+  "original_title": "The Horse Whisperer",
+  "release_date": "1998-02-01",
+  "runtime": 169,
+  "tagline": "",
+  "overview": "The mother of a severely traumatized daughter enlists the aid of a unique horse trainer to help the girl's equally injured horse.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Wildwood Enterprises",
+      "country": "US"
+    },
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Robert Redford"
+  ],
+  "writers": [
+    {
+      "name": "Richard LaGravenese",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Eric Roth",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Nick Evans",
+      "job": "Novel"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Robert Redford",
+      "job": "Producer"
+    },
+    {
+      "name": "Joseph P. Reidy",
+      "job": "Producer"
+    },
+    {
+      "name": "Patrick Markey",
+      "job": "Producer"
+    },
+    {
+      "name": "Rachel Pfeffer",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Karen Tenkhoff",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Robert Redford",
+      "character": "Tom Booker",
+      "order": 0
+    },
+    {
+      "name": "Kristin Scott Thomas",
+      "character": "Annie MacLean",
+      "order": 1
+    },
+    {
+      "name": "Sam Neill",
+      "character": "Robert MacLean",
+      "order": 2
+    },
+    {
+      "name": "Scarlett Johansson",
+      "character": "Grace MacLean",
+      "order": 3
+    },
+    {
+      "name": "Dianne Wiest",
+      "character": "Diane Booker",
+      "order": 4
+    },
+    {
+      "name": "Chris Cooper",
+      "character": "Frank Booker",
+      "order": 5
+    },
+    {
+      "name": "Cherry Jones",
+      "character": "Liz Hammond",
+      "order": 6
+    },
+    {
+      "name": "Ty Hillman",
+      "character": "Joe Booker",
+      "order": 7
+    },
+    {
+      "name": "Kate Bosworth",
+      "character": "Judith",
+      "order": 8
+    },
+    {
+      "name": "Austin Schwarz",
+      "character": "Twin #1",
+      "order": 9
+    }
+  ],
+  "poster_path": "/ptkDeHY2mRJVyNRyxb9TgyAjTYs.jpg",
+  "backdrop_path": "/ww9pokP6M6gp2Iu0o3sT5B7eN66.jpg",
+  "budget": 60000000,
+  "revenue": 186883563,
+  "vote_average": 6.893,
+  "vote_count": 1183,
+  "imdb_id": "tt0119314",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "12"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "U"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "FI",
+      "rating": "K-12"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "PG"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15A"
+    },
+    {
+      "country": "JP",
+      "rating": "G"
+    },
+    {
+      "country": "NL",
+      "rating": "14"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}

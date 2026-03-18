@@ -1,0 +1,269 @@
+{
+  "tmdb_id": 322,
+  "title": "Mystic River",
+  "original_title": "Mystic River",
+  "release_date": "2003-10-08",
+  "runtime": 138,
+  "tagline": "We bury our sins, we wash them clean.",
+  "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Village Roadshow Pictures",
+      "country": "US"
+    },
+    {
+      "name": "NPV Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Malpaso Productions",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Clint Eastwood"
+  ],
+  "writers": [
+    {
+      "name": "Dennis Lehane",
+      "job": "Novel"
+    },
+    {
+      "name": "Brian Helgeland",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Bruce Berman",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Robert Lorenz",
+      "job": "Producer"
+    },
+    {
+      "name": "Clint Eastwood",
+      "job": "Producer"
+    },
+    {
+      "name": "Judie Hoyt",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sean Penn",
+      "character": "Jimmy Markum",
+      "order": 0
+    },
+    {
+      "name": "Tim Robbins",
+      "character": "Dave Boyle",
+      "order": 1
+    },
+    {
+      "name": "Kevin Bacon",
+      "character": "Sean Devine",
+      "order": 2
+    },
+    {
+      "name": "Laurence Fishburne",
+      "character": "Whitey Powers",
+      "order": 3
+    },
+    {
+      "name": "Marcia Gay Harden",
+      "character": "Celeste Boyle",
+      "order": 4
+    },
+    {
+      "name": "Laura Linney",
+      "character": "Annabeth Markum",
+      "order": 5
+    },
+    {
+      "name": "Kevin Chapman",
+      "character": "Val Savage",
+      "order": 6
+    },
+    {
+      "name": "Tom Guiry",
+      "character": "Brendan Harris",
+      "order": 7
+    },
+    {
+      "name": "Emmy Rossum",
+      "character": "Katie Markum",
+      "order": 8
+    },
+    {
+      "name": "Spencer Treat Clark",
+      "character": "Silent Ray Harris",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+  "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+  "budget": 25000000,
+  "revenue": 156800000,
+  "vote_average": 7.7,
+  "vote_count": 7315,
+  "imdb_id": "tt0327056",
+  "certifications": [
+    {
+      "country": "AE",
+      "rating": "16+"
+    },
+    {
+      "country": "AR",
+      "rating": "16"
+    },
+    {
+      "country": "AU",
+      "rating": "MA15+"
+    },
+    {
+      "country": "BE",
+      "rating": "18"
+    },
+    {
+      "country": "BR",
+      "rating": "16"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CL",
+      "rating": "14"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "16"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "GR",
+      "rating": "16"
+    },
+    {
+      "country": "HU",
+      "rating": "18"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "IN",
+      "rating": "A"
+    },
+    {
+      "country": "IS",
+      "rating": "16"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "JP",
+      "rating": "PG-12"
+    },
+    {
+      "country": "KR",
+      "rating": "15"
+    },
+    {
+      "country": "MX",
+      "rating": "B-15"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "NZ",
+      "rating": "16"
+    },
+    {
+      "country": "PH",
+      "rating": "R-13"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RU",
+      "rating": "16+"
+    },
+    {
+      "country": "SE",
+      "rating": "15"
+    },
+    {
+      "country": "SG",
+      "rating": "NC-16"
+    },
+    {
+      "country": "SK",
+      "rating": "15"
+    },
+    {
+      "country": "TR",
+      "rating": "15+"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

@@ -1,0 +1,99 @@
+{
+  "tmdb_id": 128624,
+  "title": "The Ballad of Bering Strait",
+  "original_title": "The Ballad of Bering Strait",
+  "release_date": "2003-02-19",
+  "runtime": 98,
+  "tagline": "",
+  "overview": "\"The Ballad of Bering Strait\" is a cinema-verite film following seven Russian teenagers who have come to America to become country music stars. Principle photography began in July 1999 when the band, Bering Strait, entered the United States and began recording their first album in Nashville. The film documents the band responding to the twists and turns of the recording industry, rehearsing for their tour, preparing for their debut concert at the Grand Ole Opry, charting the course for their career with their managers, and living every-day life on the farm where they reside in rural Tennessee. The crew traveled with the band to their homes in Obninsk, Russia and to their music conservatories in Moscow, documenting how these two girls and five boys became so adept at playing American country music.",
+  "genres": [
+    "Documentary"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [],
+  "director": [
+    "Nina Gilden Seavey"
+  ],
+  "writers": [],
+  "producers": [
+    {
+      "name": "Nina Gilden Seavey",
+      "job": "Producer"
+    },
+    {
+      "name": "Barry Rebo",
+      "job": "Producer"
+    },
+    {
+      "name": "Nobuo Isobe",
+      "job": "Producer"
+    },
+    {
+      "name": "Kalindi Corens",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alexei Arzamastsev",
+      "character": "",
+      "order": 0
+    },
+    {
+      "name": "Natasha Borzilova",
+      "character": "",
+      "order": 1
+    },
+    {
+      "name": "Andrei Missikhin",
+      "character": "",
+      "order": 2
+    },
+    {
+      "name": "Sergei 'Spooky' Olkhovsky",
+      "character": "",
+      "order": 3
+    },
+    {
+      "name": "Alexander Ostrovsky",
+      "character": "",
+      "order": 4
+    },
+    {
+      "name": "Sergei Pasov",
+      "character": "",
+      "order": 5
+    },
+    {
+      "name": "Lidia Salnikova",
+      "character": "",
+      "order": 6
+    },
+    {
+      "name": "Ilya Toshinsky",
+      "character": "",
+      "order": 7
+    },
+    {
+      "name": "Mike Kinnamon",
+      "character": "Personal Manager",
+      "order": 8
+    },
+    {
+      "name": "Brent Maher",
+      "character": "Record Producer",
+      "order": 9
+    }
+  ],
+  "poster_path": null,
+  "backdrop_path": null,
+  "budget": 0,
+  "revenue": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "imdb_id": "tt0319029",
+  "certifications": [],
+  "status": "Released"
+}

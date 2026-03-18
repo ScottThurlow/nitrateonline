@@ -1,0 +1,40 @@
+{
+  "year": "2002",
+  "awards": "4 nominations",
+  "rated": "PG-13",
+  "released": "15 Nov 2002",
+  "runtime": "98 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Don Michael Paul",
+  "writer": "Don Michael Paul",
+  "actors": "Morris Chestnut, Steven Seagal, Matt Battaglia",
+  "plot": "A criminal mastermind has set in motion a plan to infiltrate a high tech prison in order to persuade a death row inmate to reveal the whereabouts of $200 million worth of gold. It's up to an undercover FBI agent to stop him before it's too late.",
+  "language": "English",
+  "country": "United States, Germany",
+  "metascore": "23",
+  "imdb_rating": "4.6",
+  "imdb_votes": "17,031",
+  "box_office": "$15,567,860",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "4.6/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "3%",
+      "link": "https://www.rottentomatoes.com/search?search=Half+Past+Dead"
+    },
+    {
+      "source": "Metacritic",
+      "value": "23/100",
+      "link": "https://www.metacritic.com/search/Half+Past+Dead/"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0297162/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0297162/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/10167"
+  }
+}

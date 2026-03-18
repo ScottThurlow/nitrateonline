@@ -1,0 +1,139 @@
+{
+  "tmdb_id": 12628,
+  "title": "Playing God",
+  "original_title": "Playing God",
+  "release_date": "1997-10-17",
+  "runtime": 94,
+  "tagline": "Joining this deadly underworld was easy. But getting out... deadly!",
+  "overview": "Stripped of his medical license after performing an operation while high on amphetamines, famed LA surgeon Dr Eugene Sands abandons his former life only to find himself crossing paths with Raymond Blossom, an infamous counterfeiter. Employed as a \"gun-shot doctor\" when Raymond's associates cannot risk visiting a hospital, Eugene is lured deep into the criminal world and becomes entangled with his boss's girlfriend.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Russian"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Beacon Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Andy Wilson"
+  ],
+  "writers": [
+    {
+      "name": "Mark Haskell Smith",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Laura Bickford",
+      "job": "Producer"
+    },
+    {
+      "name": "Armyan Bernstein",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Thomas A. Bliss",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Marc Abraham",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Duchovny",
+      "character": "Dr. Eugene Sands",
+      "order": 0
+    },
+    {
+      "name": "Timothy Hutton",
+      "character": "Raymond Blossom",
+      "order": 1
+    },
+    {
+      "name": "Angelina Jolie",
+      "character": "Claire",
+      "order": 2
+    },
+    {
+      "name": "Michael Massee",
+      "character": "Gage",
+      "order": 3
+    },
+    {
+      "name": "Stacey Travis",
+      "character": "Nurse",
+      "order": 4
+    },
+    {
+      "name": "Bob Jennings",
+      "character": "Dr. Clifford",
+      "order": 5
+    },
+    {
+      "name": "Peter Stormare",
+      "character": "Vladimir",
+      "order": 6
+    },
+    {
+      "name": "John Hawkes",
+      "character": "Flick",
+      "order": 7
+    },
+    {
+      "name": "Tracey Walter",
+      "character": "Jim",
+      "order": 8
+    },
+    {
+      "name": "Andrew Tiernan",
+      "character": "Cyril",
+      "order": 9
+    }
+  ],
+  "poster_path": "/faYRZjtBMNygM7spt72yrs72hC8.jpg",
+  "backdrop_path": "/gHqEy16wIeGEfoCdROYaTpCcPUb.jpg",
+  "budget": 12000000,
+  "revenue": 4166918,
+  "vote_average": 5.471,
+  "vote_count": 121,
+  "imdb_id": "tt0119906",
+  "certifications": [
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "KR",
+      "rating": "19"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

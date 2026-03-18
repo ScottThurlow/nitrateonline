@@ -1,0 +1,35 @@
+{
+  "year": "1997",
+  "awards": "N/A",
+  "rated": "PG-13",
+  "released": "30 May 1997",
+  "runtime": "98 min",
+  "genre": "Comedy, Romance",
+  "director": "Jonathan Lynn",
+  "writer": "Sara Bernstein, Gregory Bernstein, Cliff Gardner",
+  "actors": "Michael Richards, Jeff Daniels, Charlize Theron",
+  "plot": "Lawyer Charlie Tuttle is defending his wife's relative Benny Gibbs in a class action fraud suit, but when he gets to the city where court takes place, he gets drunk and the following day, when the hearings begin, his friend, actor Richard Rjetti takes his place posing as Charlie. The bad thing is that Richard doesn't know anything about being a lawyer, and Charlie has to teach him as the court goes on.",
+  "language": "English",
+  "country": "United States",
+  "metascore": "N/A",
+  "imdb_rating": "5.8",
+  "imdb_votes": "7,893",
+  "box_office": "$13,602,831",
+  "dvd": "N/A",
+  "ratings": [
+    {
+      "source": "Internet Movie Database",
+      "value": "5.8/10"
+    },
+    {
+      "source": "Rotten Tomatoes",
+      "value": "50%",
+      "link": "https://www.rottentomatoes.com/search?search=Trial+and+Error"
+    }
+  ],
+  "links": {
+    "imdb": "https://www.imdb.com/title/tt0120373/",
+    "imdb_fullcredits": "https://www.imdb.com/title/tt0120373/fullcredits",
+    "tmdb": "https://www.themoviedb.org/movie/17770"
+  }
+}

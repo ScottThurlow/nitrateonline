@@ -1,0 +1,178 @@
+{
+  "tmdb_id": 11545,
+  "title": "Rushmore",
+  "original_title": "Rushmore",
+  "release_date": "1998-12-11",
+  "runtime": 93,
+  "tagline": "Love. Expulsion. Revolution.",
+  "overview": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "spoken_languages": [
+    "French",
+    "English",
+    "Latin",
+    "Spanish"
+  ],
+  "production_companies": [
+    {
+      "name": "Touchstone Pictures",
+      "country": "US"
+    },
+    {
+      "name": "American Empirical Pictures",
+      "country": "US"
+    }
+  ],
+  "director": [
+    "Wes Anderson"
+  ],
+  "writers": [
+    {
+      "name": "Wes Anderson",
+      "job": "Writer"
+    },
+    {
+      "name": "Owen Wilson",
+      "job": "Writer"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Barry Mendel",
+      "job": "Producer"
+    },
+    {
+      "name": "Paul Schiff",
+      "job": "Producer"
+    },
+    {
+      "name": "Wes Anderson",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Owen Wilson",
+      "job": "Executive Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jason Schwartzman",
+      "character": "Max Fischer",
+      "order": 0
+    },
+    {
+      "name": "Bill Murray",
+      "character": "Herman Blume",
+      "order": 1
+    },
+    {
+      "name": "Olivia Williams",
+      "character": "Rosemary Cross",
+      "order": 2
+    },
+    {
+      "name": "Seymour Cassel",
+      "character": "Bert Fischer",
+      "order": 3
+    },
+    {
+      "name": "Brian Cox",
+      "character": "Dr. Nelson Guggenheim",
+      "order": 4
+    },
+    {
+      "name": "Mason Gamble",
+      "character": "Dirk Calloway",
+      "order": 5
+    },
+    {
+      "name": "Sara Tanaka",
+      "character": "Margaret Yang",
+      "order": 6
+    },
+    {
+      "name": "Stephen McCole",
+      "character": "Magnus Buchan",
+      "order": 7
+    },
+    {
+      "name": "Luke Wilson",
+      "character": "Dr. Peter Flynn",
+      "order": 8
+    },
+    {
+      "name": "Dipak Pallana",
+      "character": "Mr. Adams",
+      "order": 9
+    }
+  ],
+  "poster_path": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+  "backdrop_path": "/asC4h9U7pD72bkYcqzgTB7VJYLy.jpg",
+  "budget": 9000000,
+  "revenue": 17096053,
+  "vote_average": 7.394,
+  "vote_count": 2687,
+  "imdb_id": "tt0128445",
+  "certifications": [
+    {
+      "country": "AT",
+      "rating": "6"
+    },
+    {
+      "country": "BE",
+      "rating": "16"
+    },
+    {
+      "country": "BR",
+      "rating": "14"
+    },
+    {
+      "country": "DE",
+      "rating": "6"
+    },
+    {
+      "country": "DK",
+      "rating": "15"
+    },
+    {
+      "country": "ES",
+      "rating": "A"
+    },
+    {
+      "country": "FR",
+      "rating": "U"
+    },
+    {
+      "country": "GB",
+      "rating": "15"
+    },
+    {
+      "country": "IE",
+      "rating": "15"
+    },
+    {
+      "country": "JP",
+      "rating": "R15+"
+    },
+    {
+      "country": "NL",
+      "rating": "16"
+    },
+    {
+      "country": "NO",
+      "rating": "12"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "US",
+      "rating": "R"
+    }
+  ],
+  "status": "Released"
+}

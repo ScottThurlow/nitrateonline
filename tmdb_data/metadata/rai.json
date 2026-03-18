@@ -1,0 +1,240 @@
+{
+  "tmdb_id": 644,
+  "title": "A.I. Artificial Intelligence",
+  "original_title": "A.I. Artificial Intelligence",
+  "release_date": "2001-06-29",
+  "runtime": 146,
+  "tagline": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not.",
+  "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+  "genres": [
+    "Drama",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_companies": [
+    {
+      "name": "Warner Bros. Pictures",
+      "country": "US"
+    },
+    {
+      "name": "DreamWorks Pictures",
+      "country": "US"
+    },
+    {
+      "name": "Amblin Entertainment",
+      "country": "US"
+    },
+    {
+      "name": "Stanley Kubrick Productions",
+      "country": "GB"
+    }
+  ],
+  "director": [
+    "Steven Spielberg"
+  ],
+  "writers": [
+    {
+      "name": "Steven Spielberg",
+      "job": "Screenplay"
+    },
+    {
+      "name": "Brian Aldiss",
+      "job": "Short Story"
+    },
+    {
+      "name": "Ian Watson",
+      "job": "Screenstory"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "job": "Screenplay"
+    }
+  ],
+  "producers": [
+    {
+      "name": "Jan Harlan",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Walter F. Parkes",
+      "job": "Executive Producer"
+    },
+    {
+      "name": "Steven Spielberg",
+      "job": "Producer"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "job": "Producer"
+    },
+    {
+      "name": "Bonnie Curtis",
+      "job": "Producer"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Haley Joel Osment",
+      "character": "David",
+      "order": 0
+    },
+    {
+      "name": "Jude Law",
+      "character": "Gigolo Joe",
+      "order": 1
+    },
+    {
+      "name": "Frances O'Connor",
+      "character": "Monica Swinton",
+      "order": 2
+    },
+    {
+      "name": "Sam Robards",
+      "character": "Henry Swinton",
+      "order": 3
+    },
+    {
+      "name": "Jake Thomas",
+      "character": "Martin Swinton",
+      "order": 4
+    },
+    {
+      "name": "William Hurt",
+      "character": "Prof. Hobby",
+      "order": 5
+    },
+    {
+      "name": "Jack Angel",
+      "character": "Teddy (voice)",
+      "order": 6
+    },
+    {
+      "name": "Robin Williams",
+      "character": "Dr. Know (voice)",
+      "order": 7
+    },
+    {
+      "name": "Ben Kingsley",
+      "character": "Specialist (voice)",
+      "order": 8
+    },
+    {
+      "name": "Meryl Streep",
+      "character": "Blue Mecha (voice)",
+      "order": 9
+    }
+  ],
+  "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+  "backdrop_path": "/2tQ0Uhav10ay7jOX6QoqvbtGljB.jpg",
+  "budget": 100000000,
+  "revenue": 235926552,
+  "vote_average": 7.055,
+  "vote_count": 6558,
+  "imdb_id": "tt0212720",
+  "certifications": [
+    {
+      "country": "AU",
+      "rating": "M"
+    },
+    {
+      "country": "BE",
+      "rating": "14"
+    },
+    {
+      "country": "BR",
+      "rating": "L"
+    },
+    {
+      "country": "CA",
+      "rating": "14A"
+    },
+    {
+      "country": "CH",
+      "rating": "12"
+    },
+    {
+      "country": "CZ",
+      "rating": "12+"
+    },
+    {
+      "country": "DE",
+      "rating": "12"
+    },
+    {
+      "country": "DK",
+      "rating": "11"
+    },
+    {
+      "country": "ES",
+      "rating": "7"
+    },
+    {
+      "country": "FI",
+      "rating": "K-16"
+    },
+    {
+      "country": "FR",
+      "rating": "12"
+    },
+    {
+      "country": "GB",
+      "rating": "12"
+    },
+    {
+      "country": "GR",
+      "rating": "12"
+    },
+    {
+      "country": "HU",
+      "rating": "16"
+    },
+    {
+      "country": "IE",
+      "rating": "12"
+    },
+    {
+      "country": "IT",
+      "rating": "T"
+    },
+    {
+      "country": "KR",
+      "rating": "12"
+    },
+    {
+      "country": "NL",
+      "rating": "12"
+    },
+    {
+      "country": "NO",
+      "rating": "15"
+    },
+    {
+      "country": "PL",
+      "rating": "16"
+    },
+    {
+      "country": "PT",
+      "rating": "M/12"
+    },
+    {
+      "country": "RO",
+      "rating": "15"
+    },
+    {
+      "country": "RU",
+      "rating": "12+"
+    },
+    {
+      "country": "SE",
+      "rating": "11"
+    },
+    {
+      "country": "US",
+      "rating": "PG-13"
+    }
+  ],
+  "status": "Released"
+}
