@@ -1,0 +1,36 @@
+# .htaccess for Nitrate Online Legacy Branch
+# This file prevents search engine indexing of the legacy archive content
+# Created: March 18, 2026
+
+# Set X-Robots-Tag header to prevent all search engine indexing
+<FilesMatch "\.(html|htm|php|asp)$">
+    Header always set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex"
+</FilesMatch>
+
+# Alternative method for all files
+Header always set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex"
+
+# Prevent crawling via robots.txt directive (if robots.txt doesn't exist)
+<Files "robots.txt">
+    Header unset X-Robots-Tag
+</Files>
+
+# Set cache control for legacy content
+<FilesMatch "\.(html|htm|css|js|jpg|jpeg|png|gif|ico)$">
+    Header always set Cache-Control "public, max-age=86400"
+    Header always append Vary "Accept-Encoding"
+</FilesMatch>
+
+# Security headers for legacy content
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+# Legacy notification header for debugging
+Header always set X-Nitrate-Branch "legacy"
+Header always set X-Archive-Status "no-index"
+
+# Error pages
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+ErrorDocument 500 /404.html

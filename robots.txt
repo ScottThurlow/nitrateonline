@@ -1,9 +1,9 @@
-User-agent: *
-Disallow: /_private
-Disallow: /_borders
-Disallow: /_errors
-Disallow: /mediabar
-Disallow: /search
-Disallow: /BingSiteAuth.xml
+# robots.txt for Nitrate Online Legacy Branch
+# This legacy archive branch is not intended for search indexing
+# All crawling is blocked on this branch
 
-Sitemap: https://nitrateonline.com/sitemap.xml
+User-agent: *
+Disallow: /
+
+# Legacy branch - complete crawling prevention
+# This preserves the historical archive without search engine exposure
