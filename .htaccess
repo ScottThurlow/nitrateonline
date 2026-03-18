@@ -1,3 +1,11 @@
+
+# Duplicate review consolidation redirects
+Redirect 301 /1996/revita.html /1997/revita.html
+Redirect 301 /1996/rnixon.html /1997/rnixon.html
+Redirect 301 /1997/rspawn.html /1998/rspawn.html
+Redirect 301 /2003/rdancer.html /2000/rdancer.html
+Redirect 301 /2004/ranimal.html /2001/ranimal.html
+
 RewriteEngine On
 
 # Block search engine indexing on PPE
