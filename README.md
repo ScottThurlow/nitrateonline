@@ -35,10 +35,12 @@ The name refers to the nitrate film stock used in cinema's early decades — a m
 
 ```text
 /                   Site root with original index and navigation
-/1999–2004/         Complete article archives by year
+/                   Reviews and features at root level (1996–1998)
+/1999–2004/         Article archives organized by year (starting 1999)
 /images/            Original photos and graphics (legacy formats)
 /cgi-bin/           Historical CGI scripts and server-side components
-carrie.html         Author bio pages in original format
+*.asp               Classic ASP files for headers and dynamic content
+carrie.html         Author bio pages in original format  
 eddie.html          Contributor profiles
 archive*.html       Year-specific archive pages
 .htaccess           Search engine blocking configuration
@@ -47,10 +49,13 @@ robots.txt          Complete crawl prevention
 
 ## Technology Stack (Legacy)
 
+- **Classic ASP (Active Server Pages)** for dynamic headers and Amazon store integration
 - **Static HTML** with original table-based layouts and period CSS
+- **Server-side includes** for common navigation and footer elements
+- **CGI scripts** for search functionality and form processing
+- **Amazon Associates integration** via ASP-powered product links
 - **Classic color scheme** and typography from the original design
-- **Server-side includes** and CGI integration for dynamic elements
-- **No modern frameworks** — pure 1990s/2000s web development practices
+- **No modern frameworks** — pure 1990s/early 2000s web development practices
 - **Search indexing blocked** via multiple prevention mechanisms
 
 ## Branch Purpose
