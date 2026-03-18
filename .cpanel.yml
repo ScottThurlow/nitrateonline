@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export BRANCH=$(git rev-parse --abbrev-ref HEAD) && if [ "$BRANCH" = "legacy" ]; then export DEPLOYPATH=$HOME/public_html/legacy.nitrateonline.com/; elif [ "$BRANCH" = "ppe" ]; then export DEPLOYPATH=$HOME/public_html/ppe.nitrateonline.com/; else export DEPLOYPATH=$HOME/public_html/nitrateonline.com/; fi 
+    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -R .htaccess $DEPLOYPATH 2>/dev/null || :
+    - echo "Deployed $BRANCH branch to $DEPLOYPATH" > $DEPLOYPATH/deploy.log
