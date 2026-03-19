@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="260" viewBox="0 0 250 260" role="img" aria-label="Nitrate Online">
-  <title>Nitrate Online</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250" role="img" aria-label="Nitrate Online PPE">
+  <title>Nitrate Online PPE</title>
 
   <!-- Black background -->
-  <rect width="250" height="260" fill="#0d0d0d"/>
+  <rect width="250" height="250" fill="#0d0d0d"/>
 
   <defs>
     <rect id="sp2" x="-1.4" y="-2.2" width="2.8" height="4.4" rx="0.6"/>
   </defs>
 
   <!-- ── REEL (centered horizontally, scaled up) ── -->
-  <g transform="translate(125,90) scale(2.2)">
+  <g transform="translate(125,85) scale(2.2)">
     <!-- Body -->
     <circle cx="0" cy="0" r="33" fill="#0d0d0d"/>
 
@@ -54,7 +54,7 @@
 
   <!-- "NITRATE" -->
   <text
-    x="125" y="210"
+    x="125" y="200"
     text-anchor="middle"
     font-family="'Playfair Display', Georgia, 'Times New Roman', serif"
     font-size="30"
@@ -64,11 +64,11 @@
   >NITRATE</text>
 
   <!-- Art-deco rule -->
-  <line x1="30" y1="219" x2="220" y2="219" stroke="#c9a84c" stroke-width="0.5" opacity="0.6"/>
+  <line x1="30" y1="209" x2="220" y2="209" stroke="#c9a84c" stroke-width="0.5" opacity="0.6"/>
 
   <!-- "ONLINE" -->
   <text
-    x="125" y="240"
+    x="125" y="230"
     text-anchor="middle"
     font-family="'Raleway', 'Arial', Helvetica, sans-serif"
     font-size="13"
@@ -78,6 +78,20 @@
   >ONLINE</text>
 
   <!-- Decorative dots flanking "ONLINE" -->
-  <circle cx="60" cy="236" r="1.5" fill="#7a6428"/>
-  <circle cx="190" cy="236" r="1.5" fill="#7a6428"/>
+  <circle cx="60" cy="226" r="1.5" fill="#7a6428"/>
+  <circle cx="190" cy="226" r="1.5" fill="#7a6428"/>
+
+  <!-- ── PPE BADGE (top-right corner) ── -->
+  <g transform="translate(250,0)">
+    <rect x="-58" y="6" width="50" height="22" rx="3" fill="#b8860b" opacity="0.9"/>
+    <text
+      x="-33" y="21"
+      text-anchor="middle"
+      font-family="'Raleway', 'Arial', Helvetica, sans-serif"
+      font-size="12"
+      font-weight="700"
+      letter-spacing="3"
+      fill="#0d0d0d"
+    >PPE</text>
+  </g>
 </svg>
