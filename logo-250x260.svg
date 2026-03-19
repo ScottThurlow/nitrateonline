@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="260" viewBox="0 0 250 260" role="img" aria-label="Nitrate Online">
+  <title>Nitrate Online</title>
+
+  <!-- Black background -->
+  <rect width="250" height="260" fill="#0d0d0d"/>
+
+  <defs>
+    <rect id="sp2" x="-1.4" y="-2.2" width="2.8" height="4.4" rx="0.6"/>
+  </defs>
+
+  <!-- ── REEL (centered horizontally, scaled up) ── -->
+  <g transform="translate(125,90) scale(2.2)">
+    <!-- Body -->
+    <circle cx="0" cy="0" r="33" fill="#0d0d0d"/>
+
+    <!-- Outer rim -->
+    <circle cx="0" cy="0" r="33" fill="none" stroke="#c9a84c" stroke-width="1.75"/>
+
+    <!-- Thin inner accent ring -->
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#c9a84c" stroke-width="0.4" opacity="0.5"/>
+
+    <!-- Sprocket holes at r=27 — 8 evenly spaced, tangential -->
+    <g fill="#c9a84c">
+      <use href="#sp2" transform="translate(27,0)       rotate(0)"/>
+      <use href="#sp2" transform="translate(19.09,19.09) rotate(45)"/>
+      <use href="#sp2" transform="translate(0,27)       rotate(90)"/>
+      <use href="#sp2" transform="translate(-19.09,19.09) rotate(135)"/>
+      <use href="#sp2" transform="translate(-27,0)        rotate(180)"/>
+      <use href="#sp2" transform="translate(-19.09,-19.09) rotate(225)"/>
+      <use href="#sp2" transform="translate(0,-27)        rotate(270)"/>
+      <use href="#sp2" transform="translate(19.09,-19.09) rotate(315)"/>
+    </g>
+
+    <!-- Decorative inner ring -->
+    <circle cx="0" cy="0" r="21" fill="none" stroke="#c9a84c" stroke-width="0.75"/>
+
+    <!-- Six spokes -->
+    <g fill="#c9a84c">
+      <rect x="7" y="-0.875" width="12" height="1.75" rx="0.5" transform="rotate(0)"/>
+      <rect x="7" y="-0.875" width="12" height="1.75" rx="0.5" transform="rotate(60)"/>
+      <rect x="7" y="-0.875" width="12" height="1.75" rx="0.5" transform="rotate(120)"/>
+      <rect x="7" y="-0.875" width="12" height="1.75" rx="0.5" transform="rotate(180)"/>
+      <rect x="7" y="-0.875" width="12" height="1.75" rx="0.5" transform="rotate(240)"/>
+      <rect x="7" y="-0.875" width="12" height="1.75" rx="0.5" transform="rotate(300)"/>
+    </g>
+
+    <!-- Hub -->
+    <circle cx="0" cy="0" r="6.5"  fill="#c9a84c"/>
+    <circle cx="0" cy="0" r="3.25" fill="#0d0d0d"/>
+    <circle cx="0" cy="0" r="1.4"  fill="#c9a84c" opacity="0.4"/>
+  </g>
+
+  <!-- ── WORDMARK TEXT (centered below reel) ── -->
+
+  <!-- "NITRATE" -->
+  <text
+    x="125" y="210"
+    text-anchor="middle"
+    font-family="'Playfair Display', Georgia, 'Times New Roman', serif"
+    font-size="30"
+    font-weight="900"
+    letter-spacing="5"
+    fill="#f5eed8"
+  >NITRATE</text>
+
+  <!-- Art-deco rule -->
+  <line x1="30" y1="219" x2="220" y2="219" stroke="#c9a84c" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- "ONLINE" -->
+  <text
+    x="125" y="240"
+    text-anchor="middle"
+    font-family="'Raleway', 'Arial', Helvetica, sans-serif"
+    font-size="13"
+    font-weight="500"
+    letter-spacing="9"
+    fill="#c9a84c"
+  >ONLINE</text>
+
+  <!-- Decorative dots flanking "ONLINE" -->
+  <circle cx="60" cy="236" r="1.5" fill="#7a6428"/>
+  <circle cx="190" cy="236" r="1.5" fill="#7a6428"/>
+</svg>
