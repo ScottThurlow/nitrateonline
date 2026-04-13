@@ -27,9 +27,13 @@
     "status": "fetched"
   },
   "raceven": {
-    "title": "Ace Ventura II - When Nature Calls",
+    "title": "Ace Ventura: When Nature Calls",
     "year": 1997,
-    "status": "not_found"
+    "tmdb_id": 9273,
+    "tmdb_title": "Ace Ventura: When Nature Calls",
+    "poster_path": "/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+    "file": "raceven-poster.jpg",
+    "status": "fetched"
   },
   "rbatman": {
     "title": "Batman &amp; Robin",
@@ -71,9 +75,12 @@
     "status": "no_poster"
   },
   "rtowong": {
-    "title": "Too Wong Foo",
+    "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
     "year": 1997,
-    "status": "not_found"
+    "tmdb_id": 9090,
+    "tmdb_title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "file": "rtowong-poster.jpg",
+    "status": "fetched"
   },
   "rvampires": {
     "title": "John Carpenter&#x27;s Vampires",
@@ -121,9 +128,12 @@
     "status": "fetched"
   },
   "rsamuri": {
-    "title": "Six-String Samuri",
+    "title": "Six-String Samurai",
     "year": 1998,
-    "status": "not_found"
+    "tmdb_id": 24746,
+    "tmdb_title": "Six-String Samurai",
+    "file": "rsamuri-poster.jpg",
+    "status": "fetched"
   },
   "rsoldersd": {
     "title": "A Soldier&#x27;s Daughter Never Cries",
@@ -401,9 +411,13 @@
     "status": "fetched"
   },
   "rnewgrv": {
-    "title": "The Emporer&#x27;s New Groove",
+    "title": "The Emperor&#x27;s New Groove",
     "year": 2000,
-    "status": "not_found"
+    "tmdb_id": 11688,
+    "tmdb_title": "The Emperor's New Groove",
+    "poster_path": "/isA0acj3ONKBLp1pKadUNzxEPFv.jpg",
+    "file": "rnewgrv-poster.jpg",
+    "status": "fetched"
   },
   "roneday": {
     "title": "One Day in September",
@@ -559,9 +573,12 @@
     "status": "not_found"
   },
   "rwiser": {
-    "title": "W.I.S.E.R./Chain Camera",
+    "title": "Chain Camera",
     "year": 2001,
-    "status": "not_found"
+    "tmdb_id": 87945,
+    "tmdb_title": "Chain Camera",
+    "file": null,
+    "status": "no_poster"
   },
   "rworst": {
     "title": "What&#x27;s the Worst that Could Happen?",
@@ -582,9 +599,13 @@
     "status": "fetched"
   },
   "rblindspot": {
-    "title": "Blind Spot: Hilter&#x27;s Secretary",
+    "title": "Blind Spot: Hitler&#x27;s Secretary",
     "year": 2002,
-    "status": "not_found"
+    "tmdb_id": 9082,
+    "tmdb_title": "Blind Spot: Hitler's Secretary",
+    "poster_path": "/4FyWb8uQsC2qj8o7rMiJgicZvy0.jpg",
+    "file": "rblindspot-poster.jpg",
+    "status": "fetched"
   },
   "rcatsmeow": {
     "title": "The Cat&#x27;s Meow",
@@ -596,14 +617,21 @@
     "status": "fetched"
   },
   "remperor": {
-    "title": "The Emporer&#x27;s Club",
+    "title": "The Emperor&#x27;s Club",
     "year": 2002,
-    "status": "not_found"
+    "tmdb_id": 17187,
+    "tmdb_title": "The Emperor's Club",
+    "poster_path": "/s7BRKAq0DNcXe8Bphm6Wd5KnvlF.jpg",
+    "file": "remperor-poster.jpg",
+    "status": "fetched"
   },
   "rjasonx": {
-    "title": "Jasonn X",
+    "title": "Jason X",
     "year": 2002,
-    "status": "not_found"
+    "tmdb_id": 11470,
+    "tmdb_title": "Jason X",
+    "file": "rjasonx-poster.jpg",
+    "status": "fetched"
   },
   "rjasper": {
     "title": "The Two Towns of Jasper",
@@ -611,14 +639,21 @@
     "status": "not_found"
   },
   "rkidpic": {
-    "title": "The Kids Stays in the Picture",
+    "title": "The Kid Stays in the Picture",
     "year": 2002,
-    "status": "not_found"
+    "tmdb_id": 29047,
+    "tmdb_title": "The Kid Stays in the Picture",
+    "poster_path": "/wQd4tf308KGwbUZeoDLPxgYqhiv.jpg",
+    "file": "rkidpic-poster.jpg",
+    "status": "fetched"
   },
   "rparadiso": {
-    "title": "Cinema Paradiso: The New Version",
+    "title": "Cinema Paradiso",
     "year": 2002,
-    "status": "not_found"
+    "tmdb_id": 11216,
+    "tmdb_title": "Cinema Paradiso",
+    "file": "rparadiso-poster.jpg",
+    "status": "fetched"
   },
   "rpauline": {
     "title": "Pauline &amp; Paulette",
