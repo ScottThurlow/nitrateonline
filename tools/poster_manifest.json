@@ -1,0 +1,2960 @@
+{
+  "rjumanji": {
+    "title": "Review: Jumanji",
+    "year": 1996,
+    "tmdb_id": 8844,
+    "tmdb_title": "Jumanji",
+    "poster_path": "/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
+    "file": "rjumanji-poster.jpg",
+    "status": "fetched"
+  },
+  "rpreach": {
+    "title": "The Preacher&#x27;s Wife",
+    "year": 1996,
+    "tmdb_id": 21539,
+    "tmdb_title": "The Preacher's Wife",
+    "poster_path": "/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg",
+    "file": "rpreach-poster.jpg",
+    "status": "fetched"
+  },
+  "rtodiefor": {
+    "title": "Review: To Die For",
+    "year": 1996,
+    "tmdb_id": 23416,
+    "tmdb_title": "A Face to Die For",
+    "poster_path": "/zwSCboQrfRvOTo0NvkYppnxI7gI.jpg",
+    "file": "rtodiefor-poster.jpg",
+    "status": "fetched"
+  },
+  "raceven": {
+    "title": "Ace Ventura II - When Nature Calls",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "rbatman": {
+    "title": "Batman &amp; Robin",
+    "year": 1997,
+    "tmdb_id": 415,
+    "tmdb_title": "Batman & Robin",
+    "poster_path": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+    "file": "rbatman-poster.jpg",
+    "status": "fetched"
+  },
+  "rdevilo": {
+    "title": "The Devil&#x27;s Own",
+    "year": 1997,
+    "tmdb_id": 4477,
+    "tmdb_title": "The Devil's Own",
+    "poster_path": "/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg",
+    "file": "rdevilo-poster.jpg",
+    "status": "fetched"
+  },
+  "repub": {
+    "title": "Nitrate Online Syndicate",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "rinout": {
+    "title": "In &amp; Out",
+    "year": 1997,
+    "tmdb_id": 10806,
+    "tmdb_title": "In & Out",
+    "poster_path": "/jUTQp6cPgfOX4St2WfaeUvxZCts.jpg",
+    "file": "rinout-poster.jpg",
+    "status": "fetched"
+  },
+  "rsmoke": {
+    "title": "Smoke",
+    "year": 1997,
+    "tmdb_id": 1270176,
+    "tmdb_title": "Bitter Smoke of Autumn",
+    "status": "no_poster"
+  },
+  "rtowong": {
+    "title": "Too Wong Foo",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "rvampires": {
+    "title": "John Carpenter&#x27;s Vampires",
+    "year": 1997,
+    "tmdb_id": 9945,
+    "tmdb_title": "Vampires",
+    "poster_path": "/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg",
+    "file": "rvampires-poster.jpg",
+    "status": "fetched"
+  },
+  "rbillyshw": {
+    "title": "Billy&#x27;s Hollywood Screen Kiss",
+    "year": 1998,
+    "tmdb_id": 17539,
+    "tmdb_title": "Billy's Hollywood Screen Kiss",
+    "poster_path": "/dUj3KciCFdOPnyavPzhYbbpIHv5.jpg",
+    "file": "rbillyshw-poster.jpg",
+    "status": "fetched"
+  },
+  "rbugslife": {
+    "title": "A Bug&#x27;s Life",
+    "year": 1998,
+    "tmdb_id": 9487,
+    "tmdb_title": "A Bug's Life",
+    "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+    "file": "rbugslife-poster.jpg",
+    "status": "fetched"
+  },
+  "rhomexmas": {
+    "title": "I&#x27;ll Be Home for Christmas",
+    "year": 1998,
+    "tmdb_id": 17037,
+    "tmdb_title": "I'll Be Home for Christmas",
+    "poster_path": "/9hTYFvEDnajUIbpdfc3fO6bZq2Y.jpg",
+    "file": "rhomexmas-poster.jpg",
+    "status": "fetched"
+  },
+  "rmafia": {
+    "title": "Jane Austen&#x27;s Mafia!",
+    "year": 1998,
+    "tmdb_id": 9835,
+    "tmdb_title": "Jane Austen's Mafia!",
+    "poster_path": "/gGgirOcInrfjWgemKMjvZc3fGtU.jpg",
+    "file": "rmafia-poster.jpg",
+    "status": "fetched"
+  },
+  "rsamuri": {
+    "title": "Six-String Samuri",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "rsoldersd": {
+    "title": "A Soldier&#x27;s Daughter Never Cries",
+    "year": 1998,
+    "tmdb_id": 72987,
+    "tmdb_title": "A Soldier's Daughter Never Cries",
+    "poster_path": "/k3DmaY20ynkRTE17Oe1dR8pZWaR.jpg",
+    "file": "rsoldersd-poster.jpg",
+    "status": "fetched"
+  },
+  "ryfriends": {
+    "title": "Your Friends &amp; Neighbors",
+    "year": 1998,
+    "tmdb_id": 77469,
+    "tmdb_title": "Your Friends & Neighbors",
+    "poster_path": "/aEocqXBt4P6E8cWH00nPNu1Wsfj.jpg",
+    "file": "ryfriends-poster.jpg",
+    "status": "fetched"
+  },
+  "rygmail": {
+    "title": "You&#x27;ve Got Mail",
+    "year": 1998,
+    "tmdb_id": 9489,
+    "tmdb_title": "You've Got Mail",
+    "poster_path": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+    "file": "rygmail-poster.jpg",
+    "status": "fetched"
+  },
+  "rastro": {
+    "title": "The Astronaut&#x27;s Wife",
+    "year": 1999,
+    "tmdb_id": 2900,
+    "tmdb_title": "The Astronaut's Wife",
+    "poster_path": "/54RGJ6INW9ERG8IaalmMKbbDgwH.jpg",
+    "file": "rastro-poster.jpg",
+    "status": "fetched"
+  },
+  "rboys": {
+    "title": "Boys Don&#x27;t Cry",
+    "year": 1999,
+    "tmdb_id": 226,
+    "tmdb_title": "Boys Don't Cry",
+    "poster_path": "/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+    "file": "rboys-poster.jpg",
+    "status": "fetched"
+  },
+  "rcookie": {
+    "title": "Cookie&#x27;s Fortune - Cookie&#x27;s Fortune",
+    "year": 1999,
+    "tmdb_id": 9465,
+    "tmdb_title": "Cookie's Fortune",
+    "poster_path": "/tskbsm57aWqU4wsf8sX4ClM77Kf.jpg",
+    "file": "rcookie-poster.jpg",
+    "status": "fetched"
+  },
+  "rdoug": {
+    "title": "Doug&#x27;s 1st Movie",
+    "year": 1999,
+    "tmdb_id": 16508,
+    "tmdb_title": "Doug's 1st Movie",
+    "poster_path": "/hZduJdSSWCkmvnBpNyRaIszubVm.jpg",
+    "file": "rdoug-poster.jpg",
+    "status": "fetched"
+  },
+  "rfelicia": {
+    "title": "Felicia&#x27;s Journey",
+    "year": 1999,
+    "tmdb_id": 47692,
+    "tmdb_title": "Felicia's Journey",
+    "poster_path": "/itqEwiINuYvaqvFKw5YWitnqAUc.jpg",
+    "file": "rfelicia-poster.jpg",
+    "status": "fetched"
+  },
+  "rgalapagos": {
+    "title": "Galapagos",
+    "year": 1999,
+    "tmdb_id": 17701,
+    "tmdb_title": "IMAX: Galapagos 3D",
+    "poster_path": "/aad6cWJKlOzv2Dip3jE3b5Qcz6K.jpg",
+    "file": "rgalapagos-poster.jpg",
+    "status": "fetched"
+  },
+  "rgendaught": {
+    "title": "The General&#x27;s Daughter",
+    "year": 1999,
+    "tmdb_id": 2275,
+    "tmdb_title": "The General's Daughter",
+    "poster_path": "/w8CMN81n7SON7ALPMlxZtOzBZB.jpg",
+    "file": "rgendaught-poster.jpg",
+    "status": "fetched"
+  },
+  "rinstinct": {
+    "title": "Instinct - Nitate Online Review",
+    "year": 1999,
+    "tmdb_id": 12117,
+    "tmdb_title": "Instinct",
+    "poster_path": "/8EKmzia6awjsqFxgBk5a82aTmb6.jpg",
+    "file": "rinstinct-poster.jpg",
+    "status": "fetched"
+  },
+  "rlostfound": {
+    "title": "Lost &amp; Found",
+    "year": 1999,
+    "tmdb_id": 39964,
+    "tmdb_title": "Lost & Found",
+    "poster_path": "/jaylLo7TsJrJriNVGf72Asen1Fr.jpg",
+    "file": "rlostfound-poster.jpg",
+    "status": "fetched"
+  },
+  "rmessage": {
+    "title": "Review: Message in a Bottle",
+    "year": 1999,
+    "tmdb_id": 10207,
+    "tmdb_title": "Message in a Bottle",
+    "poster_path": "/ulUjszY6YJFsDUd0E3WolJg6sOp.jpg",
+    "file": "rmessage-poster.jpg",
+    "status": "fetched"
+  },
+  "rmidsummer": {
+    "title": "A Midsummer Night&#x27;s Dream",
+    "year": 1999,
+    "tmdb_id": 10210,
+    "tmdb_title": "A Midsummer Night's Dream",
+    "poster_path": "/5KTYh2gXmsHUzsRsrstBGy0QfXf.jpg",
+    "file": "rmidsummer-poster.jpg",
+    "status": "fetched"
+  },
+  "rsat": {
+    "title": "She&#x27;s All That",
+    "year": 1999,
+    "tmdb_id": 10314,
+    "tmdb_title": "She's All That",
+    "poster_path": "/a0pepZNFCjggc7Na9gEwbTI1f46.jpg",
+    "file": "rsat-poster.jpg",
+    "status": "fetched"
+  },
+  "rtrippin": {
+    "title": "Trippin&#x27;",
+    "year": 1999,
+    "tmdb_id": 53862,
+    "tmdb_title": "Trippin'",
+    "poster_path": "/gKdbdPg6Ye8TOpGGDFQ0NeVVSSI.jpg",
+    "file": "rtrippin-poster.jpg",
+    "status": "fetched"
+  },
+  "rwindhorse": {
+    "title": "Windhorse",
+    "year": 1999,
+    "tmdb_id": 169627,
+    "tmdb_title": "Windhorse",
+    "status": "no_poster"
+  },
+  "raimee": {
+    "title": "Aimée &amp; Jaguar",
+    "year": 2000,
+    "tmdb_id": 2211,
+    "tmdb_title": "Aimée & Jaguar",
+    "poster_path": "/vd6c4PliEGXgtWTzq1iFxnXIE5H.jpg",
+    "file": "raimee-poster.jpg",
+    "status": "fetched"
+  },
+  "rbigmom": {
+    "title": "Big Momma&#x27;s House",
+    "year": 2000,
+    "tmdb_id": 9600,
+    "tmdb_title": "Big Momma's House",
+    "poster_path": "/5YoSFqpTz5qIxsX61CPMGKONQIY.jpg",
+    "file": "rbigmom-poster.jpg",
+    "status": "fetched"
+  },
+  "rcheerleader": {
+    "title": "But I&#x27;m a Cheerleader",
+    "year": 2000,
+    "tmdb_id": 20770,
+    "tmdb_title": "But I'm a Cheerleader",
+    "poster_path": "/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+    "file": "rcheerleader-poster.jpg",
+    "status": "fetched"
+  },
+  "rchuck": {
+    "title": "Chuck &amp; Buck",
+    "year": 2000,
+    "tmdb_id": 44490,
+    "tmdb_title": "Chuck & Buck",
+    "poster_path": "/k0GY9haWiwZtBOf2T7winwNcsep.jpg",
+    "file": "rchuck-poster.jpg",
+    "status": "fetched"
+  },
+  "rcleo": {
+    "title": "Cleopatra&#x27;s Second Husband",
+    "year": 2000,
+    "tmdb_id": 121881,
+    "tmdb_title": "Cleopatra's Second Husband",
+    "poster_path": "/v8jY5ts7fmV1desG32CrwCobwcN.jpg",
+    "file": "rcleo-poster.jpg",
+    "status": "fetched"
+  },
+  "rgodsarmy": {
+    "title": "God&#x27;s Army",
+    "year": 2000,
+    "tmdb_id": 18778,
+    "tmdb_title": "God's Army",
+    "poster_path": "/m7UfcHtoWnfdptmpT7zuqOLqAlg.jpg",
+    "file": "rgodsarmy-poster.jpg",
+    "status": "fetched"
+  },
+  "rgould": {
+    "title": "Joe Gould&#x27;s Secret",
+    "year": 2000,
+    "tmdb_id": 125709,
+    "tmdb_title": "Joe Gould's Secret",
+    "poster_path": "/n7X4jmmRIRtqNQWXJt8LxZcS1Ja.jpg",
+    "file": "rgould-poster.jpg",
+    "status": "fetched"
+  },
+  "rhardday": {
+    "title": "A Hard Day&#x27;s Night",
+    "year": 2000,
+    "tmdb_id": 704,
+    "tmdb_title": "A Hard Day's Night",
+    "poster_path": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+    "file": "rhardday-poster.jpg",
+    "status": "fetched"
+  },
+  "rirene": {
+    "title": "Me, Myself &amp; Irene",
+    "year": 2000,
+    "tmdb_id": 2123,
+    "tmdb_title": "Me, Myself & Irene",
+    "poster_path": "/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
+    "file": "rirene-poster.jpg",
+    "status": "fetched"
+  },
+  "rjesus": {
+    "title": "Jesus&#x27; Son",
+    "year": 2000,
+    "tmdb_id": 25636,
+    "tmdb_title": "Jesus' Son",
+    "poster_path": "/A2lVDbF1oTuCMlh69vLnqugWEAM.jpg",
+    "file": "rjesus-poster.jpg",
+    "status": "fetched"
+  },
+  "rkid": {
+    "title": "Disney&#x27;s The Kid",
+    "year": 2000,
+    "tmdb_id": 4244,
+    "tmdb_title": "The Kid",
+    "poster_path": "/kMRZhiF08nDiO5aRb81Np5a4d6p.jpg",
+    "file": "rkid-poster.jpg",
+    "status": "fetched"
+  },
+  "rlatrav": {
+    "title": "La Traviata",
+    "year": 2000,
+    "tmdb_id": 1103851,
+    "tmdb_title": "La traviata",
+    "status": "no_poster"
+  },
+  "rlb": {
+    "title": "Love &amp; Basketball",
+    "year": 2000,
+    "tmdb_id": 14736,
+    "tmdb_title": "Love & Basketball",
+    "poster_path": "/zNZWNX19FZ5QyedprVM0ldsXFiP.jpg",
+    "file": "rlb-poster.jpg",
+    "status": "fetched"
+  },
+  "rlovelost": {
+    "title": "Love&#x27;s Labour Lost",
+    "year": 2000,
+    "tmdb_id": 51333,
+    "tmdb_title": "Love's Labour's Lost",
+    "poster_path": "/7rJr9b0Mc8wEAqzuDUkz0zg1BX7.jpg",
+    "file": "rlovelost-poster.jpg",
+    "status": "fetched"
+  },
+  "rnewgrv": {
+    "title": "The Emporer&#x27;s New Groove",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "roneday": {
+    "title": "One Day in September",
+    "year": 2000,
+    "tmdb_id": 34039,
+    "tmdb_title": "One Day In September",
+    "status": "no_poster"
+  },
+  "rbridget": {
+    "title": "Bridget Jones&#x27;s Diary",
+    "year": 2001,
+    "tmdb_id": 634,
+    "tmdb_title": "Bridget Jones's Diary",
+    "poster_path": "/dkauRl9TosBFikftrC3OVcKWDoz.jpg",
+    "file": "rbridget-poster.jpg",
+    "status": "fetched"
+  },
+  "rcapcor": {
+    "title": "Captain Corelli&#x27;s Mandolin",
+    "year": 2001,
+    "tmdb_id": 1722,
+    "tmdb_title": "Captain Corelli's Mandolin",
+    "poster_path": "/9YahF8HFypIKFTvOTiYzObA0hom.jpg",
+    "file": "rcapcor-poster.jpg",
+    "status": "fetched"
+  },
+  "rcaveman": {
+    "title": "The Caveman&#x27;s Valentine",
+    "year": 2001,
+    "tmdb_id": 25208,
+    "tmdb_title": "The Caveman's Valentine",
+    "poster_path": "/xWjoiGvFZPXuBi93reGblvDHIax.jpg",
+    "file": "rcaveman-poster.jpg",
+    "status": "fetched"
+  },
+  "rdevils": {
+    "title": "The Devil&#x27;s Backbone",
+    "year": 2001,
+    "tmdb_id": 1433,
+    "tmdb_title": "The Devil's Backbone",
+    "poster_path": "/iP1z1aJzPnkP8FHg77TS7ukqoEZ.jpg",
+    "file": "rdevils-poster.jpg",
+    "status": "fetched"
+  },
+  "rdont": {
+    "title": "Don&#x27;t Say a Word",
+    "year": 2001,
+    "tmdb_id": 12103,
+    "tmdb_title": "Don't Say a Word",
+    "poster_path": "/mDawnZWQnePqQbiisEWZaY9e4UI.jpg",
+    "file": "rdont-poster.jpg",
+    "status": "fetched"
+  },
+  "reloge": {
+    "title": "Éloge de l&#x27;amour",
+    "year": 2001,
+    "tmdb_id": 52717,
+    "tmdb_title": "In Praise of Love",
+    "poster_path": "/iOeAn1yxiBypmOVHBFimjnIeqx.jpg",
+    "file": "reloge-poster.jpg",
+    "status": "fetched"
+  },
+  "rfulltime": {
+    "title": "Full Time Killer",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "rhpotter": {
+    "title": "Harry Potter and the Sorcerer&#x27;s Stone",
+    "year": 2001,
+    "tmdb_id": 671,
+    "tmdb_title": "Harry Potter and the Philosopher's Stone",
+    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "file": "rhpotter-poster.jpg",
+    "status": "fetched"
+  },
+  "rkate": {
+    "title": "Kate &amp; Leopold",
+    "year": 2001,
+    "tmdb_id": 11232,
+    "tmdb_title": "Kate & Leopold",
+    "poster_path": "/fbWYmlGvQXmmZEr4bMeJFjWfFXZ.jpg",
+    "file": "rkate-poster.jpg",
+    "status": "fetched"
+  },
+  "rknight": {
+    "title": "A Knight&#x27;s Tale",
+    "year": 2001,
+    "tmdb_id": 9476,
+    "tmdb_title": "A Knight's Tale",
+    "poster_path": "/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+    "file": "rknight-poster.jpg",
+    "status": "fetched"
+  },
+  "rliam": {
+    "title": "Liam/A Love Divided",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "rmccool": {
+    "title": "One Night at McCool&#x27;s",
+    "year": 2001,
+    "tmdb_id": 2144,
+    "tmdb_title": "One Night at McCool's",
+    "poster_path": "/aIJAjhdMqraB1tkSii9BWuUXd8q.jpg",
+    "file": "rmccool-poster.jpg",
+    "status": "fetched"
+  },
+  "rnomans": {
+    "title": "No Man&#x27;s Land",
+    "year": 2001,
+    "tmdb_id": 8342,
+    "tmdb_title": "No Man's Land",
+    "poster_path": "/oTEmaYRKqWig5lhmwEQE0ZU3SRl.jpg",
+    "file": "rnomans-poster.jpg",
+    "status": "fetched"
+  },
+  "roceans11": {
+    "title": "Ocean&#x27;s Eleven",
+    "year": 2001,
+    "tmdb_id": 161,
+    "tmdb_title": "Ocean's Eleven",
+    "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+    "file": "roceans11-poster.jpg",
+    "status": "fetched"
+  },
+  "rsay": {
+    "title": "Say It Isn&#x27;t So",
+    "year": 2001,
+    "tmdb_id": 20309,
+    "tmdb_title": "Say It Isn't So",
+    "poster_path": "/gHEI41EWj9dEscfEiKgw6a2uUez.jpg",
+    "file": "rsay-poster.jpg",
+    "status": "fetched"
+  },
+  "rsweethearts": {
+    "title": "America&#x27;s Sweethearts",
+    "year": 2001,
+    "tmdb_id": 11467,
+    "tmdb_title": "America's Sweethearts",
+    "poster_path": "/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg",
+    "file": "rsweethearts-poster.jpg",
+    "status": "fetched"
+  },
+  "rvacuum": {
+    "title": "Vacuuming Completely Nude in Paradise/Strumpet",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "rwidow": {
+    "title": "The Widow of St. Pierre",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "rwiser": {
+    "title": "W.I.S.E.R./Chain Camera",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "rworst": {
+    "title": "What&#x27;s the Worst that Could Happen?",
+    "year": 2001,
+    "tmdb_id": 14034,
+    "tmdb_title": "What's the Worst That Could Happen?",
+    "poster_path": "/dF9vz1LB6078ULfweT2vxdWZzos.jpg",
+    "file": "rworst-poster.jpg",
+    "status": "fetched"
+  },
+  "r8nights": {
+    "title": "Adam Sandler&#x27;s 8 Crazy Nights",
+    "year": 2002,
+    "tmdb_id": 13376,
+    "tmdb_title": "Eight Crazy Nights",
+    "poster_path": "/k25VkKJjo52vuo4rUKEG4qFLQjL.jpg",
+    "file": "r8nights-poster.jpg",
+    "status": "fetched"
+  },
+  "rblindspot": {
+    "title": "Blind Spot: Hilter&#x27;s Secretary",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rcatsmeow": {
+    "title": "The Cat&#x27;s Meow",
+    "year": 2002,
+    "tmdb_id": 1139933,
+    "tmdb_title": "It Ain't As Easy As It Looks... (...a.k.a. the Making of 'The Cat's Meow')",
+    "poster_path": "/mWyZT70HYfPZpMYawegXmWwwDJ0.jpg",
+    "file": "rcatsmeow-poster.jpg",
+    "status": "fetched"
+  },
+  "remperor": {
+    "title": "The Emporer&#x27;s Club",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rjasonx": {
+    "title": "Jasonn X",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rjasper": {
+    "title": "The Two Towns of Jasper",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rkidpic": {
+    "title": "The Kids Stays in the Picture",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rparadiso": {
+    "title": "Cinema Paradiso: The New Version",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rpauline": {
+    "title": "Pauline &amp; Paulette",
+    "year": 2002,
+    "tmdb_id": 25110,
+    "tmdb_title": "Pauline & Paulette",
+    "poster_path": "/d4uhUCENFLXauTEcpAkZqoNVYct.jpg",
+    "file": "rpauline-poster.jpg",
+    "status": "fetched"
+  },
+  "rsad": {
+    "title": "I Will Not Be Sad in This World",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "rsonsroom": {
+    "title": "The Son&#x27;s Room",
+    "year": 2002,
+    "tmdb_id": 11447,
+    "tmdb_title": "The Son's Room",
+    "poster_path": "/e9s1Hvw9TcVZspbkq2V8Bmvhky1.jpg",
+    "file": "rsonsroom-poster.jpg",
+    "status": "fetched"
+  },
+  "ralex": {
+    "title": "Alex &amp; Emma",
+    "year": 2003,
+    "tmdb_id": 17813,
+    "tmdb_title": "Alex & Emma",
+    "poster_path": "/1CVw4MMqeBdkUs3DfCDWkaP6O3U.jpg",
+    "file": "ralex-poster.jpg",
+    "status": "fetched"
+  },
+  "rballad": {
+    "title": "The Ballad of Bering Strait",
+    "year": 2003,
+    "tmdb_id": 128624,
+    "tmdb_title": "The Ballad of Bering Strait",
+    "status": "no_poster"
+  },
+  "rblonde2": {
+    "title": "Legally Blonde 2: Red, White, &amp; Blonde",
+    "year": 2003,
+    "tmdb_id": 10327,
+    "tmdb_title": "Legally Blonde 2: Red, White & Blonde",
+    "poster_path": "/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg",
+    "file": "rblonde2-poster.jpg",
+    "status": "fetched"
+  },
+  "rboss": {
+    "title": "My Boss&#x27;s Daughter",
+    "year": 2003,
+    "tmdb_id": 2830,
+    "tmdb_title": "My Boss's Daughter",
+    "poster_path": "/6z6ehjP1GyMLFeja9pHGGZb9B2.jpg",
+    "file": "rboss-poster.jpg",
+    "status": "fetched"
+  },
+  "rcaft": {
+    "title": "Charlie&#x27;s Angels: Full Throttle",
+    "year": 2003,
+    "tmdb_id": 9471,
+    "tmdb_title": "Charlie's Angels: Full Throttle",
+    "poster_path": "/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg",
+    "file": "rcaft-poster.jpg",
+    "status": "fetched"
+  },
+  "rdada": {
+    "title": "Dada Changed My Life",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "rdracula": {
+    "title": "Dracula: Pages from a Virgin&#x27;s Diary",
+    "year": 2003,
+    "tmdb_id": 55616,
+    "tmdb_title": "Dracula: Pages from a Virgin's Diary",
+    "poster_path": "/qioaICsGsr8Bu8yr6UGPLmV9crX.jpg",
+    "file": "rdracula-poster.jpg",
+    "status": "fetched"
+  },
+  "rdrivein": {
+    "title": "Drive-In Discs: Volume Three",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "respagnole": {
+    "title": "L&#x27;Auberge Espagnole",
+    "year": 2003,
+    "tmdb_id": 1555,
+    "tmdb_title": "The Spanish Apartment",
+    "poster_path": "/baDm4V3Dqx2hNh7WF1NvGrHGgqQ.jpg",
+    "file": "respagnole-poster.jpg",
+    "status": "fetched"
+  },
+  "rfellini": {
+    "title": "Fellini: I&#x27;m a Born Liar",
+    "year": 2003,
+    "tmdb_id": 203252,
+    "tmdb_title": "Fellini: I'm a Born Liar",
+    "poster_path": "/57HGqJWJ7K2Ca9C2REHheqcQeWl.jpg",
+    "file": "rfellini-poster.jpg",
+    "status": "fetched"
+  },
+  "rlchayim": {
+    "title": "L&#x27;Chayim, Comrade Stalin",
+    "year": 2003,
+    "tmdb_id": 579164,
+    "tmdb_title": "L'Chayim, Comrade Stalin",
+    "status": "no_poster"
+  },
+  "rlovecosts": {
+    "title": "Love Don&#x27;t Cost a Thing",
+    "year": 2003,
+    "tmdb_id": 21542,
+    "tmdb_title": "Love Don't Co$t a Thing",
+    "poster_path": "/88zspc72LIkfiuMnGpHnsWCuqEH.jpg",
+    "file": "rlovecosts-poster.jpg",
+    "status": "fetched"
+  },
+  "rmalibu": {
+    "title": "Malibu&#x27;s Most Wanted",
+    "year": 2003,
+    "tmdb_id": 13411,
+    "tmdb_title": "Malibu's Most Wanted",
+    "poster_path": "/bjYuoz2S8S1AED5QIMvmAi21drc.jpg",
+    "file": "rmalibu-poster.jpg",
+    "status": "fetched"
+  },
+  "rnaughty": {
+    "title": "Good Old Naughty Days",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "rpiglet": {
+    "title": "Piglet&#x27;s Big Movie",
+    "year": 2003,
+    "tmdb_id": 13691,
+    "tmdb_title": "Piglet's Big Movie",
+    "poster_path": "/cytspPjtacOInHroA6h2dIekDrp.jpg",
+    "file": "rpiglet-poster.jpg",
+    "status": "fetched"
+  },
+  "rsomething": {
+    "title": "Something&#x27;s Gotta Give",
+    "year": 2003,
+    "tmdb_id": 6964,
+    "tmdb_title": "Something's Gotta Give",
+    "poster_path": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+    "file": "rsomething-poster.jpg",
+    "status": "fetched"
+  },
+  "rsucker": {
+    "title": "Super Suckers",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "rtogether": {
+    "title": "Together",
+    "year": 2003,
+    "tmdb_id": 1245760,
+    "tmdb_title": "Babb Bird Bird Show #8/2003 Together",
+    "poster_path": "/xRoHjvwViyJyxcRzsbCz1oQT5Ok.jpg",
+    "file": "rtogether-poster.jpg",
+    "status": "fetched"
+  },
+  "rtomdowd": {
+    "title": "Tom Dowd and the Language of Music",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "rwhite": {
+    "title": "Interview with Mike White",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "ryossi": {
+    "title": "Yossi &amp; Jagger",
+    "year": 2003,
+    "tmdb_id": 17614,
+    "tmdb_title": "Yossi & Jagger",
+    "poster_path": "/iAaoY66dkJiZftsj3bmbWLeNgRt.jpg",
+    "file": "ryossi-poster.jpg",
+    "status": "fetched"
+  },
+  "ryoung": {
+    "title": "The Young Unknowns",
+    "year": 2003,
+    "tmdb_id": 146269,
+    "tmdb_title": "The Young Unknowns",
+    "status": "no_poster"
+  },
+  "rburning": {
+    "title": "The Burning Wall",
+    "year": 2004,
+    "tmdb_id": 658290,
+    "tmdb_title": "The Burning Wall",
+    "status": "no_poster"
+  },
+  "rscared": {
+    "title": "I&#x27;m Not Scared",
+    "year": 2004,
+    "tmdb_id": 25300,
+    "tmdb_title": "I'm Not Scared",
+    "poster_path": "/vTf4qR0OSuV4qBT8As4QoWxSJSq.jpg",
+    "file": "rscared-poster.jpg",
+    "status": "fetched"
+  },
+  "rteachers": {
+    "title": "Teacher&#x27;s Pet",
+    "year": 2004,
+    "tmdb_id": 24034,
+    "tmdb_title": "Teacher's Pet",
+    "poster_path": "/3IiwOT4QF4beOOdCLbJxdw7xzH1.jpg",
+    "file": "rteachers-poster.jpg",
+    "status": "fetched"
+  },
+  "fberlin96-1": {
+    "title": "Berlin &#x27;96 - Building a Better Berlin",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fberlin96-2": {
+    "title": "Berlin &#x27;96 - Berlin at 24 Frames a Second",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fberlin96-3": {
+    "title": "Berlin &#x27;96 - Berlin Bears Down",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fberlin96-4": {
+    "title": "Berlin &#x27;96 - Snapshots from Berlin",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fberlin96-5": {
+    "title": "Berlin &#x27;96 - The Bounty of Berlin",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fberlin96": {
+    "title": "46th Berlin International Film Festival",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "ffilmfest": {
+    "title": "Film Festivals Page",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "foscar": {
+    "title": "Academy Awards - Oscar Nominations Announced",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "foscar96": {
+    "title": "Academy Awards - 68th Oscar Preview",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fsiff96-1": {
+    "title": "SIFF &#x27;96 - Welcome to Seattle",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fsiff96-2": {
+    "title": "SIFF &#x27;96 - Docudramas and Love Tales",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fsiff96-3": {
+    "title": "SIFF &#x27;96 - Failing Independents, Bad &#x27;Toons, and More",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fsiff96-4": {
+    "title": "SIFF &#x27;96 - Women&#x27;s Lot and the Movie Auction",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fsiff96-5": {
+    "title": "SIFF &#x27;96 - Bugs in the System (the Dolby Test), The Winners and Losers",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "fsiff96": {
+    "title": "22nd Seattle International Film Festival",
+    "year": 1996,
+    "status": "not_found"
+  },
+  "f1997recap": {
+    "title": "1997 Top Ten",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fberlin97": {
+    "title": "47th Berlin International Film Festival",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fccloset": {
+    "title": "The Celluloid Closet",
+    "year": 1997,
+    "tmdb_id": 32562,
+    "tmdb_title": "The Celluloid Closet",
+    "poster_path": "/x0DSh3uMeQk6EG1DHjGJUywN7C0.jpg",
+    "file": "fccloset-poster.jpg",
+    "status": "fetched"
+  },
+  "fcinefest18-1": {
+    "title": "Cinefest 98",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fcinefest18-2": {
+    "title": "Cinefest 98",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "ffastcheap": {
+    "title": "Fast, Cheap, and Out of Control - Errol Morris&#x27;s Rag and Bone Shop",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "flicensed": {
+    "title": "Licensed to Kill - Going Through the Hellfire - An Interview with Arthur Dong",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "foscar-cover": {
+    "title": "Academy Awards - 69th Oscar Awards",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "foscar2": {
+    "title": "Academy Awards - Oscar&#x27;s New Era",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fsiff97-1": {
+    "title": "SIFF &#x27;97 - The Festivities Begin",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fsiff97-2": {
+    "title": "SIFF &#x27;97 - Common Themes",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fsiff97-3": {
+    "title": "SIFF &#x27;97 - Winners, Losers, and Closing Thoughts",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "fsiff97": {
+    "title": "23rd Seattle International Film Festival",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "ftaxi": {
+    "title": "Taxi Driver",
+    "year": 1997,
+    "tmdb_id": 103,
+    "tmdb_title": "Taxi Driver",
+    "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "file": "ftaxi-poster.jpg",
+    "status": "fetched"
+  },
+  "ftiff97-1": {
+    "title": "TIFF &#x27;97 - Kinky Canadians",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "ftiff97-2": {
+    "title": "TIFF &#x27;97 - The Festival Explained",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "ftiff97-3": {
+    "title": "TIFF &#x27;97 - Glimmering in the Dark",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "ftiff97": {
+    "title": "22nd Toronto International Film Festival",
+    "year": 1997,
+    "status": "not_found"
+  },
+  "ftitanic": {
+    "title": "Titanic",
+    "year": 1997,
+    "tmdb_id": 597,
+    "tmdb_title": "Titanic",
+    "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "file": "ftitanic-poster.jpg",
+    "status": "fetched"
+  },
+  "f1998recap": {
+    "title": "1998 Top Ten",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "faptpupil": {
+    "title": "Apt Pupil - One Good Hard Step Beyond Innonence",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fberlin98-1": {
+    "title": "Berlin &#x27;98 - Courage to Watch",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fberlin98-2": {
+    "title": "Berlin &#x27;98 - Halfway Home",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fberlin98-3": {
+    "title": "Berlin &#x27;98 - The F-Word",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fberlin98-4": {
+    "title": "Berlin &#x27;98 - Courage Rewarded",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fberlin98-5": {
+    "title": "Berlin &#x27;98 - Notes from the Festival",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fberlin98": {
+    "title": "48th Berlin International Film Festival",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fcinefest98": {
+    "title": "Cinefest 98",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fgodmon": {
+    "title": "Gods and Monsters - A Son of Frankenstein Speaks",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fgodmon2": {
+    "title": "Gods and Monstes - Whale Redux",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fhappiness": {
+    "title": "Happiness - A Chat with Todd Solondz",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fofcs1998": {
+    "title": "Online Film Critics Society 1998 Awards",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "foscar98-1": {
+    "title": "Academy Awards - Praise the Titanic!",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "foscar98-2": {
+    "title": "Academy Awards - A Night to Remember",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "foscar98": {
+    "title": "Academy Awards - 70th Academy Awards",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fsiff98-1": {
+    "title": "SIFF &#x27;98 - Fools for Love",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fsiff98-2": {
+    "title": "SIFF &#x27;98 - Weekend Pick",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fsiff98-3": {
+    "title": "SIFF &#x27;98 - Weekend Pick",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fsiff98-4": {
+    "title": "SIFF &#x27;98 - Weekend Pick",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fsiff98-5": {
+    "title": "SIFF &#x27;98 - Gods, Demons, Heaven, and So On",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "fsiff98": {
+    "title": "24th Seattle International Film Festival",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "ftiff98-1": {
+    "title": "TIFF &#x27;98 - Toronto Believes in Tiers",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "ftiff98-2": {
+    "title": "TIFF &#x27;98 - Cold, Dark Rooms",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "ftiff98-3": {
+    "title": "TIFF &#x27;98 - Days and Nights in the Forest of Film",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "ftiff98": {
+    "title": "23rd Toronto International Film Festival",
+    "year": 1998,
+    "status": "not_found"
+  },
+  "ftwoorphans": {
+    "title": "Feature: Les Deux Orphelines Vampires",
+    "year": 1998,
+    "tmdb_id": 116636,
+    "tmdb_title": "Two Orphan Vampires",
+    "poster_path": "/f59yQmmPGOAlxAItBROboaac9JQ.jpg",
+    "file": "ftwoorphans-poster.jpg",
+    "status": "fetched"
+  },
+  "fabel": {
+    "title": "Abel Ferrara, The King of New York",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fberlin99-1": {
+    "title": "Berlin &#x27;99 - Urban Feel",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fberlin99-2": {
+    "title": "Berlin &#x27;99 - Hollywood, History, and Sex",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fberlin99-3": {
+    "title": "Berlin &#x27;99 - Berlin Draws Line",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fberlin99": {
+    "title": "49th Berlin International Film Festival",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fbestman": {
+    "title": "Best Man",
+    "year": 1999,
+    "tmdb_id": 572347,
+    "tmdb_title": "Man's Best Friend",
+    "poster_path": "/giJFNPSYUuTkojPaReOGuyHk0Yz.jpg",
+    "file": "fbestman-poster.jpg",
+    "status": "fetched"
+  },
+  "fboys": {
+    "title": "Boys Don&#x27;t Cry",
+    "year": 1999,
+    "tmdb_id": 226,
+    "tmdb_title": "Boys Don't Cry",
+    "poster_path": "/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+    "file": "fboys-poster.jpg",
+    "status": "fetched"
+  },
+  "fexistenz": {
+    "title": "eXistenZ - And Then I Woke Up",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "ffelicia": {
+    "title": "Felicia&#x27;s Journey",
+    "year": 1999,
+    "tmdb_id": 47692,
+    "tmdb_title": "Felicia's Journey",
+    "poster_path": "/itqEwiINuYvaqvFKw5YWitnqAUc.jpg",
+    "file": "ffelicia-poster.jpg",
+    "status": "fetched"
+  },
+  "fhitch100-1": {
+    "title": "Hitchcock at 100: The Beginnings",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fhitch100-2": {
+    "title": "Hitchcock at 100: The Early Films",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fhitch100-3": {
+    "title": "Hitchcock at 100: His Best Work",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fhitch100-4": {
+    "title": "Hitchcock at 100: And Then Came Psycho",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fhitch100-5": {
+    "title": "Hitchcock at 100: The Final Days",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fhitch100": {
+    "title": "Hitchcock at 100: There are many such stories",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fkubrick": {
+    "title": "Kubrick - Interview with Jan Harlan",
+    "year": 2001,
+    "tmdb_id": 30416,
+    "tmdb_title": "Stanley Kubrick: A Life in Pictures",
+    "poster_path": "/yGrzFNyc9ztyAJejneh9734Y9Uj.jpg",
+    "file": "fkubrick-poster.jpg",
+    "status": "fetched"
+  },
+  "flastnight": {
+    "title": "Last Night, First Film, Canadian Career",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fmontreal99-1": {
+    "title": "Montreal 99 - Notes from Montreal",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fmontreal99-2": {
+    "title": "Montreal 99 - Montreal Prizes",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fmontreal99-3": {
+    "title": "Montreal 99 - Selection of Films",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fmontreal99": {
+    "title": "1999 Montreal World Film Festival",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fnosferatu": {
+    "title": "Nosferatu",
+    "year": 1999,
+    "tmdb_id": 1489038,
+    "tmdb_title": "Nosferatu 2000",
+    "poster_path": "/dSig3IDmAdIsX9aJ0WcWO57SrZL.jpg",
+    "file": "fnosferatu-poster.jpg",
+    "status": "fetched"
+  },
+  "fnosferatu1": {
+    "title": "Valentino: The Beginnings",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fnosferatu2": {
+    "title": "Valentino: The Beginnings",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fnosferatu3": {
+    "title": "Valentino: The Beginnings",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "foscar99-1": {
+    "title": "71st Academy Awards Nominations",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "foscar99": {
+    "title": "71st Academy Awards",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fpaganini": {
+    "title": "Paganini",
+    "year": 1999,
+    "tmdb_id": 62734,
+    "tmdb_title": "Paganini",
+    "poster_path": "/mDjPdNgI8xTvm2sjyYCcsJRgO35.jpg",
+    "file": "fpaganini-poster.jpg",
+    "status": "fetched"
+  },
+  "fprovidence": {
+    "title": "Outside Providence",
+    "year": 1999,
+    "tmdb_id": 14578,
+    "tmdb_title": "Outside Providence",
+    "poster_path": "/xSqewkFWR0zs7OkXLOd10VnxFPN.jpg",
+    "file": "fprovidence-poster.jpg",
+    "status": "fetched"
+  },
+  "fredviolin": {
+    "title": "The Red Violin -  A Few Minutes with Francois Girard",
+    "year": 1999,
+    "tmdb_id": 712637,
+    "tmdb_title": "The Red Violin",
+    "poster_path": "/ytwlKaa8kgs32OPKNPM7KSJA2e2.jpg",
+    "file": "fredviolin-poster.jpg",
+    "status": "fetched"
+  },
+  "frudy-1": {
+    "title": "Valentino: The Beginnings",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "frudy-2": {
+    "title": "Valentino: The End",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "frudy-3": {
+    "title": "The Lady in Black",
+    "year": 1999,
+    "tmdb_id": 1007206,
+    "tmdb_title": "The Lady in Black",
+    "status": "no_poster"
+  },
+  "frudy": {
+    "title": "Valentino and the Lady in Black",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fsiff99-1": {
+    "title": "SIFF &#x27;99 - I&#x27;ll Need a Double",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fsiff99-2": {
+    "title": "SIFF &#x27;99 - Films Caught ...",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fsiff99-3": {
+    "title": "SIFF &#x27;99 - Truth ...",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fsiff99": {
+    "title": "25th Seattle International Film Festival",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "ftaos99": {
+    "title": "Taos Talking Pictures &#x27;99",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "ftiff99-1": {
+    "title": "TIFF 99 - Toronto&#x27;s Best",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "ftiff99": {
+    "title": "1999 Toronto International Film Festival",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fwalkmoon": {
+    "title": "A Walk on the Moon - A Few Minutes with Tony Goldwyn",
+    "year": 1999,
+    "tmdb_id": 28029,
+    "tmdb_title": "A Walk on the Moon",
+    "poster_path": "/6aNMyAP82sDoVFmopFzGDWeVVne.jpg",
+    "file": "fwalkmoon-poster.jpg",
+    "status": "fetched"
+  },
+  "fwif": {
+    "title": "Women in Cinema 1999",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "fwoo": {
+    "title": "John Woo Revisited",
+    "year": 1999,
+    "status": "not_found"
+  },
+  "f1999recap": {
+    "title": "1999&#x27;s Best Movies",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "f5senses": {
+    "title": "The Five Senses - Interview with Jeremy Podeswa",
+    "year": 2000,
+    "tmdb_id": 47585,
+    "tmdb_title": "The Five Senses",
+    "poster_path": "/y4UjdQJYxQEhenI7DFIM301Df7d.jpg",
+    "file": "f5senses-poster.jpg",
+    "status": "fetched"
+  },
+  "f9thgate": {
+    "title": "The Ninth Gate - The Emotion and Style - A Conversation with Roman Polanski",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fampsycho": {
+    "title": "American Psycho",
+    "year": 2000,
+    "tmdb_id": 1359,
+    "tmdb_title": "American Psycho",
+    "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "file": "fampsycho-poster.jpg",
+    "status": "fetched"
+  },
+  "fbambooz": {
+    "title": "Bamboozled - The Bigger Picture",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fberlin2K-1": {
+    "title": "Berlin &#x27;2000 - Everything Old is New Again",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fberlin2K-2": {
+    "title": "Berlin &#x27;2000 - Magnolia Blooms in Berlin",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fberlin2K": {
+    "title": "50th Berlin International Film Festival",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fbestinshow": {
+    "title": "Best in Show",
+    "year": 2000,
+    "tmdb_id": 13785,
+    "tmdb_title": "Best in Show",
+    "poster_path": "/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+    "file": "fbestinshow-poster.jpg",
+    "status": "fetched"
+  },
+  "fcannes-1": {
+    "title": "Cannes Film Festival - Festival History",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fcannes-2": {
+    "title": "Cannes Film Festival - This Year",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fcannes": {
+    "title": "Cannes Film Festival",
+    "year": 2000,
+    "tmdb_id": 1017815,
+    "tmdb_title": "Murder at the Cannes Film Festival",
+    "poster_path": "/4V8vwDDcfw0zYf4ITcpCfcYRgUO.jpg",
+    "file": "fcannes-poster.jpg",
+    "status": "fetched"
+  },
+  "fcecil": {
+    "title": "Cecil B. Demented - Interview with John Waters",
+    "year": 2000,
+    "tmdb_id": 14195,
+    "tmdb_title": "Cecil B. Demented",
+    "poster_path": "/gCXUA9BUOSDmOFVfkVBF4v15Td6.jpg",
+    "file": "fcecil-poster.jpg",
+    "status": "fetched"
+  },
+  "fcheerleader": {
+    "title": "But I&#x27;m a Cheerlead - Interview with Jamie Babbit",
+    "year": 2000,
+    "tmdb_id": 20770,
+    "tmdb_title": "But I'm a Cheerleader",
+    "poster_path": "/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+    "file": "fcheerleader-poster.jpg",
+    "status": "fetched"
+  },
+  "fcommitted": {
+    "title": "Committed - Interview with Lisa Krueger",
+    "year": 2000,
+    "tmdb_id": 40562,
+    "tmdb_title": "Committed",
+    "poster_path": "/10vXic9IMUTW5FrB1ivmieM2ydY.jpg",
+    "file": "fcommitted-poster.jpg",
+    "status": "fetched"
+  },
+  "fcorman": {
+    "title": "Fifty Years of Roger Corman",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fcwo-1": {
+    "title": "A Clockwork Orange - Backgrounder",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fcwo-2": {
+    "title": "A Clockwork Orange - Droogs",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fcwo-3": {
+    "title": "A Clockwork Orange - Coming Home",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fcwo": {
+    "title": "A Clockwork Orange Unbound",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fdeath": {
+    "title": "Mr. Death - Making Sense - A Conversation with Erol Morris",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "ffassbinder": {
+    "title": "Fassbinder",
+    "year": 2000,
+    "tmdb_id": 402221,
+    "tmdb_title": "Fassbinder's Women",
+    "poster_path": "/3ilQqDsIReh9IiDvKi2vb2SGRb1.jpg",
+    "file": "ffassbinder-poster.jpg",
+    "status": "fetched"
+  },
+  "ffassbinder1": {
+    "title": "Fassbinder - 1982",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "ffassbinder2": {
+    "title": "Fassbinder - Germany in Autumn",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "ffassbinder3": {
+    "title": "Fassbinder - Veronika Voss",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "ffassbinder4": {
+    "title": "Fassbinder - Is he Fassbinder?",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fghostdog": {
+    "title": "Ghost Dog - This Maze Called Life - A Conversation with Forest Whitaker",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fgirlfight": {
+    "title": "Girlfight - Where are the Girls",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fgirlfight2": {
+    "title": "Girlfight - Wham, bam, thank you ma&#x27;am",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fgodsarmy": {
+    "title": "God&#x27;s Army - Interview with Richard Dutcher",
+    "year": 2000,
+    "tmdb_id": 18778,
+    "tmdb_title": "God's Army",
+    "poster_path": "/m7UfcHtoWnfdptmpT7zuqOLqAlg.jpg",
+    "file": "fgodsarmy-poster.jpg",
+    "status": "fetched"
+  },
+  "fgriffith": {
+    "title": "D.W. Griffith - The Scourging",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fgun": {
+    "title": "The Way of the Gun - Interview with Ryan Phillippe",
+    "year": 2000,
+    "tmdb_id": 1619,
+    "tmdb_title": "The Way of the Gun",
+    "poster_path": "/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
+    "file": "fgun-poster.jpg",
+    "status": "fetched"
+  },
+  "fhuman": {
+    "title": "Human Traffic - Inteview with Justin Kerrigan",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fjesus": {
+    "title": "Jesus&#x27; Son - Interview with Alison Maclean",
+    "year": 2000,
+    "tmdb_id": 25636,
+    "tmdb_title": "Jesus' Son",
+    "poster_path": "/A2lVDbF1oTuCMlh69vLnqugWEAM.jpg",
+    "file": "fjesus-poster.jpg",
+    "status": "fetched"
+  },
+  "fjudyberlin": {
+    "title": "Judy Berlin - Alone Inside Our Own Skins - A Conversation with Eric Mendelson",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fkindertrans": {
+    "title": "Into the Arms of Strangers - Interview",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fkv00": {
+    "title": "Karlovy Vary 2000",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "flb": {
+    "title": "Love &amp; Basketball - The Eyes Never Lie",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fluis": {
+    "title": "The Films of Luis Buñuel",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "flyingdown": {
+    "title": "Without Lying Down - Interview with Cari Beauchamp",
+    "year": 2000,
+    "tmdb_id": 205608,
+    "tmdb_title": "Without Lying Down: Frances Marion and the Power of Women in Hollywood",
+    "poster_path": "/bPGwdXXYXIFrcjMKnqzowagcwy3.jpg",
+    "file": "flyingdown-poster.jpg",
+    "status": "fetched"
+  },
+  "fmagnolia": {
+    "title": "Magnolia",
+    "year": 2000,
+    "tmdb_id": 44387,
+    "tmdb_title": "That Moment: Magnolia Diary",
+    "poster_path": "/vlOelEmKcvlKjkf01Elk9vGXnm5.jpg",
+    "file": "fmagnolia-poster.jpg",
+    "status": "fetched"
+  },
+  "fmansfield": {
+    "title": "The Wild Wild World of Jayne Mansfield",
+    "year": 2001,
+    "tmdb_id": 93911,
+    "tmdb_title": "The Wild, Wild World of Jayne Mansfield",
+    "poster_path": "/Xf9LNvQcEMtcjvyaotQgR3mVDQ.jpg",
+    "file": "fmansfield-poster.jpg",
+    "status": "fetched"
+  },
+  "foneday": {
+    "title": "One Day in September - Gripped by the Story - Interview with Kevin Macdonald",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "foscar2K-1": {
+    "title": "7nd Academy Award - Oscar - Nominations",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "foscar2K-2": {
+    "title": "7nd Academy Award - Oscar - Awards",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "foscar2K": {
+    "title": "72nd Academy Awards (Oscars)",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fpatriot": {
+    "title": "The Patriot - Interview with Jason Isaacs",
+    "year": 2000,
+    "tmdb_id": 2024,
+    "tmdb_title": "The Patriot",
+    "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+    "file": "fpatriot-poster.jpg",
+    "status": "fetched"
+  },
+  "fprice": {
+    "title": "The Price of Glory - That Hero Mentality",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "freindeer": {
+    "title": "Reindeer Games - A Conversation with John Frankenheimer",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "freplace": {
+    "title": "The Replacements - Interview with Orlando Jones",
+    "year": 2000,
+    "tmdb_id": 10393,
+    "tmdb_title": "The Replacements",
+    "poster_path": "/6qerI41HqkdRlio1sG0d5HLZcFN.jpg",
+    "file": "freplace-poster.jpg",
+    "status": "fetched"
+  },
+  "fromeob": {
+    "title": "A Room for Romeo Brass - Interview with Shane Meadows",
+    "year": 2000,
+    "tmdb_id": 22908,
+    "tmdb_title": "A Room for Romeo Brass",
+    "poster_path": "/gLpv2UUf5We4sXDKdo11aFfnKgw.jpg",
+    "file": "fromeob-poster.jpg",
+    "status": "fetched"
+  },
+  "froswell": {
+    "title": "Six Days in Roswell - Interview with Tim Johnson",
+    "year": 2000,
+    "tmdb_id": 245260,
+    "tmdb_title": "Six Days in Roswell",
+    "poster_path": "/54g4zADDCFUD0gAcIiGcVBL7ye8.jpg",
+    "file": "froswell-poster.jpg",
+    "status": "fetched"
+  },
+  "fsiff00-1": {
+    "title": "SIFF 2000 - Sex, Drugs, and Raging Bull",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fsiff00-2": {
+    "title": "SIFF 2000 - Laughter, Tears, and Sore Tushes",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fsiff00": {
+    "title": "SIFF 2000",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fsjff": {
+    "title": "Seattle Jewish Film Festival",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fspike": {
+    "title": "Spike and Mike&#x27;s 2000 Classic Festival of Animation - Interview",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "ftao": {
+    "title": "The Tao of Steve - Interview with Donal Logue",
+    "year": 2000,
+    "tmdb_id": 20438,
+    "tmdb_title": "The Tao of Steve",
+    "poster_path": "/u9z4Qg0KGomhBUerbUzQXeO1ODs.jpg",
+    "file": "ftao-poster.jpg",
+    "status": "fetched"
+  },
+  "ftiff00-1": {
+    "title": "TIFF 2000",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fu571": {
+    "title": "U-571 - A Conversation with Jonathan Mostow",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "furban": {
+    "title": "Urban Legends - Interview",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "furbania": {
+    "title": "Urbania - Surrealism and hyperrrealism - Interview with Jon Shear",
+    "year": 2000,
+    "status": "not_found"
+  },
+  "fwomanchaser": {
+    "title": "The Woman Chaser - Interview with Robinson Devor",
+    "year": 2000,
+    "tmdb_id": 28666,
+    "tmdb_title": "The Woman Chaser",
+    "poster_path": "/n7YRKEz7wsT11DX9UhLuoyN8NYw.jpg",
+    "file": "fwomanchaser-poster.jpg",
+    "status": "fetched"
+  },
+  "f13days": {
+    "title": "Thirteen Days - Interview with Bruce Greenwood",
+    "year": 2001,
+    "tmdb_id": 11973,
+    "tmdb_title": "Thirteen Days",
+    "poster_path": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+    "file": "f13days-poster.jpg",
+    "status": "fetched"
+  },
+  "fbabyboy": {
+    "title": "Baby Boy - Interview with John Singleton",
+    "year": 2001,
+    "tmdb_id": 16161,
+    "tmdb_title": "Baby Boy",
+    "poster_path": "/2zhkM2rxCPVLxuZRYejcTiOhzfU.jpg",
+    "file": "fbabyboy-poster.jpg",
+    "status": "fetched"
+  },
+  "fbefore": {
+    "title": "Before Night Falls - Interview with Julian Schnabel",
+    "year": 2001,
+    "tmdb_id": 5001,
+    "tmdb_title": "Before Night Falls",
+    "poster_path": "/kb2dqj73cfmt6qHAh1ySIlVm6v0.jpg",
+    "file": "fbefore-poster.jpg",
+    "status": "fetched"
+  },
+  "fbeineix": {
+    "title": "Jean-Jacques Beineix - Interview",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fberlin01": {
+    "title": "Berlin Gets Intimate - 51st Berlin International Film Festival",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fbrothers": {
+    "title": "The Brothers - Interview with Morris Chestnut",
+    "year": 2001,
+    "tmdb_id": 20322,
+    "tmdb_title": "The Brothers",
+    "poster_path": "/342I0mOBCNTzx4ls4GvIagfzu2m.jpg",
+    "file": "fbrothers-poster.jpg",
+    "status": "fetched"
+  },
+  "fbudd": {
+    "title": "Ride Lonesome - The Bullfighting Budd Boetticher",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fcaveman": {
+    "title": "Caveman&#x27;s Valentine - Interview with Kasi Lemmons",
+    "year": 2001,
+    "tmdb_id": 25208,
+    "tmdb_title": "The Caveman's Valentine",
+    "poster_path": "/xWjoiGvFZPXuBi93reGblvDHIax.jpg",
+    "file": "fcaveman-poster.jpg",
+    "status": "fetched"
+  },
+  "fdeepend": {
+    "title": "The Deep End - Interview with Tilda Swinton",
+    "year": 2001,
+    "tmdb_id": 24936,
+    "tmdb_title": "The Deep End",
+    "poster_path": "/sWRTQpTb65Itp4bdNas3W4a1QHy.jpg",
+    "file": "fdeepend-poster.jpg",
+    "status": "fetched"
+  },
+  "fdish": {
+    "title": "The Dish - Interview with Rob Sitch",
+    "year": 2001,
+    "tmdb_id": 1095298,
+    "tmdb_title": "Things & Dishes",
+    "poster_path": "/1yncsEQWpcm1tAPXezjk8VdWbNH.jpg",
+    "file": "fdish-poster.jpg",
+    "status": "fetched"
+  },
+  "fdown": {
+    "title": "Down to Earth - Interview with Chris Rock",
+    "year": 2001,
+    "tmdb_id": 16300,
+    "tmdb_title": "Down to Earth",
+    "poster_path": "/w2XM4YCfBOOWEL4a0abQji7QxwI.jpg",
+    "file": "fdown-poster.jpg",
+    "status": "fetched"
+  },
+  "fevolution": {
+    "title": "Evolution - Interview with David Duchovny",
+    "year": 2001,
+    "tmdb_id": 9397,
+    "tmdb_title": "Evolution",
+    "poster_path": "/dwIrP544LxJtXToLpzkEa08pIMm.jpg",
+    "file": "fevolution-poster.jpg",
+    "status": "fetched"
+  },
+  "ffamous": {
+    "title": "Everybody&#x27;s Famous - Interview with Dominique Deruddere",
+    "year": 2001,
+    "tmdb_id": 58886,
+    "tmdb_title": "Everybody's Famous!",
+    "poster_path": "/iPVRGoOQ6N9sMYYJW8OLT2CqDnO.jpg",
+    "file": "ffamous-poster.jpg",
+    "status": "fetched"
+  },
+  "ffromhell": {
+    "title": "From Hell",
+    "year": 2001,
+    "tmdb_id": 768,
+    "tmdb_title": "From Hell",
+    "poster_path": "/t2WpWM8nBO4sULXr2bDfNEt4qgr.jpg",
+    "file": "ffromhell-poster.jpg",
+    "status": "fetched"
+  },
+  "fharry": {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "tmdb_id": 672,
+    "tmdb_title": "Harry Potter and the Chamber of Secrets",
+    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+    "file": "fharry-poster.jpg",
+    "status": "fetched"
+  },
+  "fheavy": {
+    "title": "Heavy Metal Parking Lot",
+    "year": 2001,
+    "tmdb_id": 54642,
+    "tmdb_title": "Heavy Metal Parking Lot",
+    "poster_path": "/q8rvA1e1oNQhO9hjiJu2ip34VdX.jpg",
+    "file": "fheavy-poster.jpg",
+    "status": "fetched"
+  },
+  "fjackpot": {
+    "title": "Jackpot - Interview with the Polish Brothers",
+    "year": 2001,
+    "tmdb_id": 196859,
+    "tmdb_title": "Jackpot",
+    "poster_path": "/1R5qXlAyewFIXM7WRgQb4nplINp.jpg",
+    "file": "fjackpot-poster.jpg",
+    "status": "fetched"
+  },
+  "fknight": {
+    "title": "A Knight&#x27;s Tale - Interview with Heath Ledger",
+    "year": 2001,
+    "tmdb_id": 9476,
+    "tmdb_title": "A Knight's Tale",
+    "poster_path": "/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+    "file": "fknight-poster.jpg",
+    "status": "fetched"
+  },
+  "fknight2": {
+    "title": "A Knight&#x27;s Tale - Interview with Paul Bettany",
+    "year": 2001,
+    "tmdb_id": 9476,
+    "tmdb_title": "A Knight's Tale",
+    "poster_path": "/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+    "file": "fknight2-poster.jpg",
+    "status": "fetched"
+  },
+  "flastdance": {
+    "title": "Save the Last Dance - Interview with Sean Patrick Thomas",
+    "year": 2001,
+    "tmdb_id": 9816,
+    "tmdb_title": "Save the Last Dance",
+    "poster_path": "/sV8GIxT3BjHIiwgKUNwk1S8VSLa.jpg",
+    "file": "flastdance-poster.jpg",
+    "status": "fetched"
+  },
+  "flie": {
+    "title": "L.I.E. - Interview with Michael Cuesta",
+    "year": 2001,
+    "tmdb_id": 18734,
+    "tmdb_title": "L.I.E.",
+    "poster_path": "/ck5Tkq17M6khEN7JQlQznoYl37L.jpg",
+    "file": "flie-poster.jpg",
+    "status": "fetched"
+  },
+  "flifedebt": {
+    "title": "Life and Debt - Interview with Stephanie Black",
+    "year": 2001,
+    "tmdb_id": 20303,
+    "tmdb_title": "Life and Debt",
+    "poster_path": "/5IYvqrrDRtEUiGS8M6w1GxGDdrM.jpg",
+    "file": "flifedebt-poster.jpg",
+    "status": "fetched"
+  },
+  "fmade": {
+    "title": "Made - Interview with Jon Favreau",
+    "year": 2001,
+    "tmdb_id": 15745,
+    "tmdb_title": "Made",
+    "poster_path": "/4HC6ieptXO2gjqbSEsfkOwsGubN.jpg",
+    "file": "fmade-poster.jpg",
+    "status": "fetched"
+  },
+  "fmulholland": {
+    "title": "Mulholland Drive - Interview with Justinn Theroux",
+    "year": 2001,
+    "tmdb_id": 1018,
+    "tmdb_title": "Mulholland Drive",
+    "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+    "file": "fmulholland-poster.jpg",
+    "status": "fetched"
+  },
+  "foscar01-1": {
+    "title": "73nd Academy Awards (Oscars)",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "foscar01-2": {
+    "title": "73nd Academy Awards (Oscars)",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "foscar01": {
+    "title": "73nd Academy Awards (Oscars)",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fothers": {
+    "title": "The Others - Interview with Alejandro Amenabar",
+    "year": 2001,
+    "tmdb_id": 1933,
+    "tmdb_title": "The Others",
+    "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+    "file": "fothers-poster.jpg",
+    "status": "fetched"
+  },
+  "fotik": {
+    "title": "Little Otik",
+    "year": 2001,
+    "tmdb_id": 18939,
+    "tmdb_title": "Little Otik",
+    "poster_path": "/86uoXmcgXKZQa35V1AsKVXY3NvX.jpg",
+    "file": "fotik-poster.jpg",
+    "status": "fetched"
+  },
+  "fpanic": {
+    "title": "Panic",
+    "year": 2001,
+    "tmdb_id": 585486,
+    "tmdb_title": "Bus Panic!!!",
+    "poster_path": "/xhpw4hpO15FirDh1UW0S1dBc42h.jpg",
+    "file": "fpanic-poster.jpg",
+    "status": "fetched"
+  },
+  "fpollock": {
+    "title": "Pollock - Interview with Ed Harris",
+    "year": 2001,
+    "tmdb_id": 12509,
+    "tmdb_title": "Pollock",
+    "poster_path": "/azsBSw2zw2uNHiCjTnbe9TJVEDB.jpg",
+    "file": "fpollock-poster.jpg",
+    "status": "fetched"
+  },
+  "fpordenone-1": {
+    "title": "Prodenone 2001 - Introduction",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-2": {
+    "title": "Pordenone 2001 - Opening Night",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-3": {
+    "title": "Pordenone - Special Presentations",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-4": {
+    "title": "Pordenone 2001 - Cinema Giappones",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-5": {
+    "title": "Prodenone 2001 - Oscar Micheaux And His Circle",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-6": {
+    "title": "Prodenone 2001 - Griffith: 1911",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-7": {
+    "title": "Pordenone 2001 - Odds and Ends",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-8": {
+    "title": "Pordenone 2001 - Eventi Musicale",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone-9": {
+    "title": "Pordenone 2001 - Closing Night Event",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fpordenone": {
+    "title": "Pordenone 2001",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fprincess": {
+    "title": "The Princess and the Warrior - Interview with Tom Tykwer and Franka Potente",
+    "year": 2001,
+    "tmdb_id": 9301,
+    "tmdb_title": "The Princess and the Warrior",
+    "poster_path": "/z0dMG2C4GvIObHAcOjW9r61WIJF.jpg",
+    "file": "fprincess-poster.jpg",
+    "status": "fetched"
+  },
+  "fptff01": {
+    "title": "Port Townsend Film Festival 2001",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fratcatcher": {
+    "title": "Ratcatcher - Interview with Lynne Ramsey",
+    "year": 2001,
+    "tmdb_id": 29698,
+    "tmdb_title": "Ratcatcher",
+    "poster_path": "/dvrN33jql75Bd0I0i75oSJ9pXzX.jpg",
+    "file": "fratcatcher-poster.jpg",
+    "status": "fetched"
+  },
+  "fratrace": {
+    "title": "Rat Race - Interview with Jerry Zucker",
+    "year": 2001,
+    "tmdb_id": 9896,
+    "tmdb_title": "Rat Race",
+    "poster_path": "/3dpim9bLdi5uh55idJ6HxA7eZH4.jpg",
+    "file": "fratrace-poster.jpg",
+    "status": "fetched"
+  },
+  "frudolph": {
+    "title": "Investigating Alan Rudolph",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fscary2": {
+    "title": "Scary Movie 2 - Interview with Shawn and Marlon Wayans",
+    "year": 2001,
+    "tmdb_id": 4248,
+    "tmdb_title": "Scary Movie 2",
+    "poster_path": "/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
+    "file": "fscary2-poster.jpg",
+    "status": "fetched"
+  },
+  "fseries7": {
+    "title": "Series 7: The Contender - Q&amp;A with Dan Minahan and Brooke Smith",
+    "year": 2001,
+    "tmdb_id": 19513,
+    "tmdb_title": "Series 7: The Contenders",
+    "poster_path": "/85tuJxQdjQcec3DTMc9dxwlYYfi.jpg",
+    "file": "fseries7-poster.jpg",
+    "status": "fetched"
+  },
+  "fsexy": {
+    "title": "Sexy Beast - Interview with Ben Kingsley",
+    "year": 2001,
+    "tmdb_id": 11826,
+    "tmdb_title": "Sexy Beast",
+    "poster_path": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+    "file": "fsexy-poster.jpg",
+    "status": "fetched"
+  },
+  "fshadow": {
+    "title": "Shadow of the Vampire - Interview with Eddie Izzard",
+    "year": 2001,
+    "tmdb_id": 10873,
+    "tmdb_title": "Shadow of the Vampire",
+    "poster_path": "/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
+    "file": "fshadow-poster.jpg",
+    "status": "fetched"
+  },
+  "fsidewalk": {
+    "title": "Sidewalks of New York - Interview with Edward Burns",
+    "year": 2001,
+    "tmdb_id": 31016,
+    "tmdb_title": "Sidewalks of New York",
+    "poster_path": "/oJuZGjMUKsYJXSkLXdOZ9CePJhg.jpg",
+    "file": "fsidewalk-poster.jpg",
+    "status": "fetched"
+  },
+  "fsiff01-1": {
+    "title": "SIFF 2001 - Violet Kids! Terrorists! Delusional Inmates! Tarantino!",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fsiff01-2": {
+    "title": "SIFF 2001 - The Great Cinema Gorge",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fsiff01": {
+    "title": "SIFF 2001",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fsnatch": {
+    "title": "Snatch - Interview with Dennis Farina",
+    "year": 2001,
+    "tmdb_id": 357659,
+    "tmdb_title": "Making 'Snatch'",
+    "poster_path": "/hDpAqVdBVAjRepOHGn1EngI8FSH.jpg",
+    "file": "fsnatch-poster.jpg",
+    "status": "fetched"
+  },
+  "fsomeone": {
+    "title": "Someone Like You - Interview with Tony Goldwyn",
+    "year": 2001,
+    "tmdb_id": 12658,
+    "tmdb_title": "Someone Like You...",
+    "poster_path": "/9cMkJSl2TI4xe8lKNFduinafKpe.jpg",
+    "file": "fsomeone-poster.jpg",
+    "status": "fetched"
+  },
+  "fstartup": {
+    "title": "Startup.com - Interview with Jehane Noujaim and Chris Hegedus",
+    "year": 2001,
+    "tmdb_id": 14268,
+    "tmdb_title": "Startup.com",
+    "poster_path": "/ognPQebXUCRfKwAyRodR0j0xLjd.jpg",
+    "file": "fstartup-poster.jpg",
+    "status": "fetched"
+  },
+  "fsugar": {
+    "title": "Sugar &amp; Spice - Interview with Marla Sokoloff",
+    "year": 2001,
+    "tmdb_id": 16723,
+    "tmdb_title": "Sugar & Spice",
+    "poster_path": "/etRwjWRjKrXYc7r1vpQLYwVu4ls.jpg",
+    "file": "fsugar-poster.jpg",
+    "status": "fetched"
+  },
+  "ftiff01-2": {
+    "title": "TIFF 2001 - Toronto International Film Festival Contents",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "ftiff01": {
+    "title": "TIFF 2001",
+    "year": 2001,
+    "status": "not_found"
+  },
+  "fwedding": {
+    "title": "The Wedding Planner - Interview with Matthew McConaughey",
+    "year": 2001,
+    "tmdb_id": 2018,
+    "tmdb_title": "The Wedding Planner",
+    "poster_path": "/meq4bLUPcBlOG3Z5YdiWuBMlpO.jpg",
+    "file": "fwedding-poster.jpg",
+    "status": "fetched"
+  },
+  "f13conv": {
+    "title": "Thirteen Conversations about One Thing - Interview with Jill Sprecher",
+    "year": 2002,
+    "tmdb_id": 17734,
+    "tmdb_title": "Thirteen Conversations About One Thing",
+    "poster_path": "/mb3mEfzAudrPpQIxRzpLM12aiMV.jpg",
+    "file": "f13conv-poster.jpg",
+    "status": "fetched"
+  },
+  "f9queens": {
+    "title": "Gosford Park - Conversation with Robert Altman",
+    "year": 2002,
+    "tmdb_id": 777027,
+    "tmdb_title": "The Making of Gosford Park",
+    "poster_path": "/g9kce3P9ft35vB6kXrAdAAO92VR.jpg",
+    "file": "f9queens-poster.jpg",
+    "status": "fetched"
+  },
+  "faboutaboy": {
+    "title": "About a Boy",
+    "year": 2002,
+    "tmdb_id": 245,
+    "tmdb_title": "About a Boy",
+    "poster_path": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+    "file": "faboutaboy-poster.jpg",
+    "status": "fetched"
+  },
+  "faboutaboy1": {
+    "title": "The Cat&#x27;s Meow - Interview with Peter Bogdanovich",
+    "year": 2002,
+    "tmdb_id": 1139933,
+    "tmdb_title": "It Ain't As Easy As It Looks... (...a.k.a. the Making of 'The Cat's Meow')",
+    "poster_path": "/mWyZT70HYfPZpMYawegXmWwwDJ0.jpg",
+    "file": "faboutaboy1-poster.jpg",
+    "status": "fetched"
+  },
+  "fagitator": {
+    "title": "Agitator - Interview with Takashi Miike",
+    "year": 2002,
+    "tmdb_id": 38957,
+    "tmdb_title": "Kamen Rider Ryuki Hyper Battle Video: Ryuki vs. Kamen Rider Agito",
+    "poster_path": "/b39dQA3O9IAYLf7IJpEptqTVA87.jpg",
+    "file": "fagitator-poster.jpg",
+    "status": "fetched"
+  },
+  "famericangun": {
+    "title": "American Gun - Interview with James Coburn",
+    "year": 2002,
+    "tmdb_id": 62190,
+    "tmdb_title": "American Gun",
+    "poster_path": "/7oJNiMYFQsn992Tm0fVFCmvMytx.jpg",
+    "file": "famericangun-poster.jpg",
+    "status": "fetched"
+  },
+  "fararat": {
+    "title": "Ararat - At the Mercy of Viewers - Interview with Atom Egoyan",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fbeckett": {
+    "title": "Beckett on Film",
+    "year": 2002,
+    "tmdb_id": 99163,
+    "tmdb_title": "Not I",
+    "status": "no_poster"
+  },
+  "fbiggie": {
+    "title": "Biggie and Tupac - Interview with Nick Broomfield",
+    "year": 2003,
+    "tmdb_id": 1024568,
+    "tmdb_title": "Who Killed Biggie and Tupac?",
+    "poster_path": "/oniO4o4XLTu20MdvBQ2Li7TKCjd.jpg",
+    "file": "fbiggie-poster.jpg",
+    "status": "fetched"
+  },
+  "fcatsmeow": {
+    "title": "The Cat&#x27;s Meow - Interview with Peter Bogdanovich",
+    "year": 2002,
+    "tmdb_id": 1139933,
+    "tmdb_title": "It Ain't As Easy As It Looks... (...a.k.a. the Making of 'The Cat's Meow')",
+    "poster_path": "/mWyZT70HYfPZpMYawegXmWwwDJ0.jpg",
+    "file": "fcatsmeow-poster.jpg",
+    "status": "fetched"
+  },
+  "fdagon": {
+    "title": "Dagon - Interview with Stuart Gordon",
+    "year": 2002,
+    "tmdb_id": 10836,
+    "tmdb_title": "Dagon",
+    "poster_path": "/8S648eMKObi8ERFS7cSYDocxSaZ.jpg",
+    "file": "fdagon-poster.jpg",
+    "status": "fetched"
+  },
+  "fdodger": {
+    "title": "The Cat&#x27;s Meow - Interview with Peter Bogdanovich",
+    "year": 2002,
+    "tmdb_id": 1139933,
+    "tmdb_title": "It Ain't As Easy As It Looks... (...a.k.a. the Making of 'The Cat's Meow')",
+    "poster_path": "/mWyZT70HYfPZpMYawegXmWwwDJ0.jpg",
+    "file": "fdodger-poster.jpg",
+    "status": "fetched"
+  },
+  "fdrumline": {
+    "title": "Drumline - Chemical Reactions - Interview with Charles Stone III",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fearnest": {
+    "title": "The Importance of Being Earnest",
+    "year": 2002,
+    "tmdb_id": 9026,
+    "tmdb_title": "The Importance of Being Earnest",
+    "poster_path": "/87r4e4pL4STfpdjtqNZxlyjvcMd.jpg",
+    "file": "fearnest-poster.jpg",
+    "status": "fetched"
+  },
+  "ffamily": {
+    "title": "Family Fundamentals",
+    "year": 2002,
+    "tmdb_id": 269101,
+    "tmdb_title": "Family Fundamentals",
+    "poster_path": "/huClRJHegW6DmNBTW4uZI0skcly.jpg",
+    "file": "ffamily-poster.jpg",
+    "status": "fetched"
+  },
+  "ffast": {
+    "title": "The Fast Runner - Interview with Zacharias Kunuk and Norman Cohn",
+    "year": 2002,
+    "tmdb_id": 13245,
+    "tmdb_title": "Atanarjuat: The Fast Runner",
+    "poster_path": "/jSGiFOTwosoiAAXLTLHtzMUCVUN.jpg",
+    "file": "ffast-poster.jpg",
+    "status": "fetched"
+  },
+  "ffears": {
+    "title": "The Sum of All Fears - Conversation with Liev Schreiber",
+    "year": 2002,
+    "tmdb_id": 4614,
+    "tmdb_title": "The Sum of All Fears",
+    "poster_path": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+    "file": "ffears-poster.jpg",
+    "status": "fetched"
+  },
+  "ffears2": {
+    "title": "The Sum of All Fears - Interview with Phil Alden Robinson",
+    "year": 2002,
+    "tmdb_id": 4614,
+    "tmdb_title": "The Sum of All Fears",
+    "poster_path": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+    "file": "ffears2-poster.jpg",
+    "status": "fetched"
+  },
+  "ffocus": {
+    "title": "In and Out of Focus - Interview with Jacqueline Liebman",
+    "year": 2002,
+    "tmdb_id": 598643,
+    "tmdb_title": "Anya (In and Out of Focus)",
+    "status": "no_poster"
+  },
+  "fgoodgirl": {
+    "title": "The Good Girl - Interview with Migual Arteta",
+    "year": 2002,
+    "tmdb_id": 9962,
+    "tmdb_title": "The Good Girl",
+    "poster_path": "/jpRumFobwgPzxj5YH33Wswnxdam.jpg",
+    "file": "fgoodgirl-poster.jpg",
+    "status": "fetched"
+  },
+  "fgosford": {
+    "title": "Gosford Park - Conversation with Robert Altman",
+    "year": 2002,
+    "tmdb_id": 777027,
+    "tmdb_title": "The Making of Gosford Park",
+    "poster_path": "/g9kce3P9ft35vB6kXrAdAAO92VR.jpg",
+    "file": "fgosford-poster.jpg",
+    "status": "fetched"
+  },
+  "fhow": {
+    "title": "James Wong How",
+    "year": 2002,
+    "tmdb_id": 453804,
+    "tmdb_title": "James Wong Howe: Cinematographer",
+    "poster_path": "/54G3cUCoZXU0fuJ8D5jAH5sLgku.jpg",
+    "file": "fhow-poster.jpg",
+    "status": "fetched"
+  },
+  "finsomnia": {
+    "title": "Insomnia",
+    "year": 2002,
+    "tmdb_id": 320,
+    "tmdb_title": "Insomnia",
+    "poster_path": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+    "file": "finsomnia-poster.jpg",
+    "status": "fetched"
+  },
+  "fkv02": {
+    "title": "The Stars Come Out in Karlovy Vary",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "flastorders": {
+    "title": "Last Orders - A Mosaic Technique - Interview with Fred Schepisi",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fmedem": {
+    "title": "Interview with Julio Medem",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "foscar02-1": {
+    "title": "Berlin Wins Oscar - 74th Academy Awards Nominations",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "foscar02-2": {
+    "title": "Dignity, Always Dignity - 74th Academy Awards",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "foscar02": {
+    "title": "74th Academy Awards (Oscars)",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fpianist": {
+    "title": "The Pianist - The Freedom to Wait - Interview with Adrien Brody",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fpraise": {
+    "title": "In Praise of Love",
+    "year": 2002,
+    "tmdb_id": 52717,
+    "tmdb_title": "In Praise of Love",
+    "poster_path": "/iOeAn1yxiBypmOVHBFimjnIeqx.jpg",
+    "file": "fpraise-poster.jpg",
+    "status": "fetched"
+  },
+  "froyalt": {
+    "title": "The Royal Tenenbaums",
+    "year": 2002,
+    "tmdb_id": 687170,
+    "tmdb_title": "The Peter Bradley Show: 'The Royal Tenenbaums'",
+    "poster_path": "/2H0tDTOaplSXMgBsg64e79J1cWp.jpg",
+    "file": "froyalt-poster.jpg",
+    "status": "fetched"
+  },
+  "fsebastian-1": {
+    "title": "San Sebastian 2002 - I, the Jury",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fsebastian-2": {
+    "title": "San Sebastian 2002 - The Jury Deliberates",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fsebastian-3": {
+    "title": "San Sebastian 2002 - A Good Time Was Had By All",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fsebastian": {
+    "title": "SIFF 2001",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fsiff02-indx": {
+    "title": "SIFF 2002 - Seattle International Film Festival Coverage",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fsiff02": {
+    "title": "SIFF 2003",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "fspykids2": {
+    "title": "Spy Kids 2 - The Island of Lost Dreams",
+    "year": 2002,
+    "tmdb_id": 9488,
+    "tmdb_title": "Spy Kids 2: The Island of Lost Dreams",
+    "poster_path": "/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg",
+    "file": "fspykids2-poster.jpg",
+    "status": "fetched"
+  },
+  "fstanding": {
+    "title": "Standing in the Shadows of Motown",
+    "year": 2002,
+    "tmdb_id": 30192,
+    "tmdb_title": "Standing in the Shadows of Motown",
+    "poster_path": "/rsOTrPTRhBgw5eWAgJISBMiIg5m.jpg",
+    "file": "fstanding-poster.jpg",
+    "status": "fetched"
+  },
+  "fstein": {
+    "title": "Kissing Jessica Stein - Interview with Jennifer Westfeldt and Heather Juergensen",
+    "year": 2002,
+    "tmdb_id": 15647,
+    "tmdb_title": "Kissing Jessica Stein",
+    "poster_path": "/8b2g8QZRLTJMYyzc3HirTSRQpLW.jpg",
+    "file": "fstein-poster.jpg",
+    "status": "fetched"
+  },
+  "fsunshine": {
+    "title": "Sunshine State - Interview with John Sayles and Maggie Renzi",
+    "year": 2002,
+    "tmdb_id": 57022,
+    "tmdb_title": "Sunshine State",
+    "poster_path": "/8OsgdG53vzF5uC8pCE61SA1tiNF.jpg",
+    "file": "fsunshine-poster.jpg",
+    "status": "fetched"
+  },
+  "ftadpole": {
+    "title": "Tadpole - Interview with Gary Winick and Aaron Stanford",
+    "year": 2002,
+    "tmdb_id": 39141,
+    "tmdb_title": "Tadpole",
+    "poster_path": "/r7wCSE5Hj82GHywm2evC1ERmK0E.jpg",
+    "file": "ftadpole-poster.jpg",
+    "status": "fetched"
+  },
+  "ftiff02-indx": {
+    "title": "TIFF 2002 - Toronto International Film Festival Coverage",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "ftiff02": {
+    "title": "SIFF 2001",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "ftime": {
+    "title": "Gosford Park - Conversation with Robert Altman",
+    "year": 2002,
+    "tmdb_id": 777027,
+    "tmdb_title": "The Making of Gosford Park",
+    "poster_path": "/g9kce3P9ft35vB6kXrAdAAO92VR.jpg",
+    "file": "ftime-poster.jpg",
+    "status": "fetched"
+  },
+  "ftopten": {
+    "title": "A Good Year for the Grosses - 2001&#x27;s Best Films",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "ftroma": {
+    "title": "Citizen Kaufman",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "funfaithful": {
+    "title": "Unfaithful",
+    "year": 2002,
+    "tmdb_id": 2251,
+    "tmdb_title": "Unfaithful",
+    "poster_path": "/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+    "file": "funfaithful-poster.jpg",
+    "status": "fetched"
+  },
+  "fwic02": {
+    "title": "2002 Women in Cinema",
+    "year": 2002,
+    "status": "not_found"
+  },
+  "f13": {
+    "title": "Thirteen - Interview with Catherine Hardwicke",
+    "year": 2003,
+    "tmdb_id": 11023,
+    "tmdb_title": "Thirteen",
+    "poster_path": "/uzTLlZrNF6rMPBh5mUQu6vLnTtX.jpg",
+    "file": "f13-poster.jpg",
+    "status": "fetched"
+  },
+  "famandla": {
+    "title": "Amandla! - Interview with Lee Hirsch",
+    "year": 2003,
+    "tmdb_id": 926180,
+    "tmdb_title": "Amandla",
+    "poster_path": "/qrT3Y0ERClIKCeq025L5rN1xgzr.jpg",
+    "file": "famandla-poster.jpg",
+    "status": "fetched"
+  },
+  "fanimatrix": {
+    "title": "Animatrix - Interview with Andy Harbeck",
+    "year": 2003,
+    "tmdb_id": 55931,
+    "tmdb_title": "The Animatrix",
+    "poster_path": "/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+    "file": "fanimatrix-poster.jpg",
+    "status": "fetched"
+  },
+  "fbarbarian-1": {
+    "title": "The Barbarian Invasions - Interview with Remy Girard",
+    "year": 2003,
+    "tmdb_id": 11042,
+    "tmdb_title": "The Barbarian Invasions",
+    "poster_path": "/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg",
+    "file": "fbarbarian-1-poster.jpg",
+    "status": "fetched"
+  },
+  "fbarbarian-2": {
+    "title": "The Barbarian Invasions - Interview with Remy Girard",
+    "year": 2003,
+    "tmdb_id": 11042,
+    "tmdb_title": "The Barbarian Invasions",
+    "poster_path": "/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg",
+    "file": "fbarbarian-2-poster.jpg",
+    "status": "fetched"
+  },
+  "fbarbarian": {
+    "title": "The Barbarian Invasions",
+    "year": 2003,
+    "tmdb_id": 11042,
+    "tmdb_title": "The Barbarian Invasions",
+    "poster_path": "/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg",
+    "file": "fbarbarian-poster.jpg",
+    "status": "fetched"
+  },
+  "fbetterluck": {
+    "title": "Better Luck Tomorrow - Interview with Justin Lin",
+    "year": 2003,
+    "tmdb_id": 14290,
+    "tmdb_title": "Better Luck Tomorrow",
+    "poster_path": "/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg",
+    "file": "fbetterluck-poster.jpg",
+    "status": "fetched"
+  },
+  "fbonhoeffer": {
+    "title": "Bonhoeffer - Interview with Martin Dobmeier",
+    "year": 2003,
+    "tmdb_id": 206065,
+    "tmdb_title": "Bonhoeffer",
+    "poster_path": "/5rwm6aD1336BvHPdH2rIgh5er3J.jpg",
+    "file": "fbonhoeffer-poster.jpg",
+    "status": "fetched"
+  },
+  "fcharlie": {
+    "title": "Charlies: The LIfe and Art of Charles Chaplin - Interview with Richard Schickel",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fcold": {
+    "title": "Cold Mountain - Interview with Charlie Hunnam",
+    "year": 2003,
+    "tmdb_id": 2289,
+    "tmdb_title": "Cold Mountain",
+    "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+    "file": "fcold-poster.jpg",
+    "status": "fetched"
+  },
+  "fconfidence": {
+    "title": "Confidence",
+    "year": 2003,
+    "tmdb_id": 10743,
+    "tmdb_title": "Confidence",
+    "poster_path": "/yJzmAtY9DmhhjJwFnW0Zjlvz6yg.jpg",
+    "file": "fconfidence-poster.jpg",
+    "status": "fetched"
+  },
+  "fcruelty": {
+    "title": "Intolerable Cruelty",
+    "year": 2003,
+    "tmdb_id": 11775,
+    "tmdb_title": "Intolerable Cruelty",
+    "poster_path": "/7K8hDwOWsZv0MluyrB8nWlhJOgB.jpg",
+    "file": "fcruelty-poster.jpg",
+    "status": "fetched"
+  },
+  "fdevil": {
+    "title": "Devil Talks - Interview with Illeana Douglas",
+    "year": 2003,
+    "tmdb_id": 938614,
+    "tmdb_title": "Late Night with the Devil",
+    "poster_path": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "file": "fdevil-poster.jpg",
+    "status": "fetched"
+  },
+  "ffriedmans": {
+    "title": "Capturing the Friedmans - Interview with Andrew Jarecki",
+    "year": 2003,
+    "tmdb_id": 2260,
+    "tmdb_title": "Capturing the Friedmans",
+    "poster_path": "/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+    "file": "ffriedmans-poster.jpg",
+    "status": "fetched"
+  },
+  "fgloomy": {
+    "title": "Gloomy Sunday",
+    "year": 2003,
+    "tmdb_id": 1277,
+    "tmdb_title": "Gloomy Sunday",
+    "poster_path": "/7cjNxmJUmz3gaaN6LYRJuEYtaKe.jpg",
+    "file": "fgloomy-poster.jpg",
+    "status": "fetched"
+  },
+  "fharryhausen": {
+    "title": "Modesty is a Dirty Word in Hollywood - Interview with Ray Harryhausen",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fitalian": {
+    "title": "The Italian Job - Interview with F. Gary Gray",
+    "year": 2003,
+    "tmdb_id": 9654,
+    "tmdb_title": "The Italian Job",
+    "poster_path": "/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+    "file": "fitalian-poster.jpg",
+    "status": "fetched"
+  },
+  "fkillbillv1": {
+    "title": "Kill Bill Vol. 1",
+    "year": 2003,
+    "tmdb_id": 24,
+    "tmdb_title": "Kill Bill: Vol. 1",
+    "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "file": "fkillbillv1-poster.jpg",
+    "status": "fetched"
+  },
+  "flost": {
+    "title": "Lost in Translation",
+    "year": 2003,
+    "tmdb_id": 153,
+    "tmdb_title": "Lost in Translation",
+    "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+    "file": "flost-poster.jpg",
+    "status": "fetched"
+  },
+  "fmanic": {
+    "title": "Manic - Interview with Jordan Melamed and Joseph Gordon-Levitt",
+    "year": 2003,
+    "tmdb_id": 677896,
+    "tmdb_title": "El matrimonio es como el manicomio",
+    "poster_path": "/2MCKRii4gzkbg4YBqPkexcoimrL.jpg",
+    "file": "fmanic-poster.jpg",
+    "status": "fetched"
+  },
+  "fmcghee": {
+    "title": "Disney&#x27;s First Star - Interview with Virginia Davis McGhee",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fnarc": {
+    "title": "NARC - Interview with Ray Liotta",
+    "year": 2003,
+    "tmdb_id": 677913,
+    "tmdb_title": "Y tu mamá... también es narca",
+    "poster_path": "/qkQHiUmOJ899Ingelq3Bg2x0Xp0.jpg",
+    "file": "fnarc-poster.jpg",
+    "status": "fetched"
+  },
+  "foscar03-1": {
+    "title": "Why and Why Nots - 75th Academy Awards Nominations",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fsiff03-indx": {
+    "title": "SIFF 2003 - Seattle International Film Festival Coverage Index",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fsiff03": {
+    "title": "SIFF 2003",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fspider": {
+    "title": "Spider",
+    "year": 2003,
+    "tmdb_id": 296486,
+    "tmdb_title": "Miss Spider's Sunny Patch Kids",
+    "poster_path": "/h3N9KkRndQdTT3BUV4qGj9NMmt8.jpg",
+    "file": "fspider-poster.jpg",
+    "status": "fetched"
+  },
+  "fspykids3": {
+    "title": "Spy Kids 3-D: Game Over",
+    "year": 2003,
+    "tmdb_id": 12279,
+    "tmdb_title": "Spy Kids 3-D: Game Over",
+    "poster_path": "/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg",
+    "file": "fspykids3-poster.jpg",
+    "status": "fetched"
+  },
+  "fstate": {
+    "title": "Head of State",
+    "year": 2003,
+    "tmdb_id": 9776,
+    "tmdb_title": "Head of State",
+    "poster_path": "/5itBve85q2oXmiQ3SkgCJa5Asxq.jpg",
+    "file": "fstate-poster.jpg",
+    "status": "fetched"
+  },
+  "fsucker": {
+    "title": "Super Sucker - Interview with Jeff Daniels",
+    "year": 2003,
+    "tmdb_id": 41846,
+    "tmdb_title": "Super Sucker",
+    "poster_path": "/3gYAYVISAi77rswJgGm70GYsgkZ.jpg",
+    "file": "fsucker-poster.jpg",
+    "status": "fetched"
+  },
+  "fthief": {
+    "title": "The Good Thief - Interview with Neil Jordan",
+    "year": 2003,
+    "tmdb_id": 6016,
+    "tmdb_title": "The Good Thief",
+    "poster_path": "/TMlSiPuj9LymfwPiKFiRRnhkRq.jpg",
+    "file": "fthief-poster.jpg",
+    "status": "fetched"
+  },
+  "ftiff03-indx": {
+    "title": "TIFF 2003 - Toronto International Film Festival Coverage",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "ftiff03": {
+    "title": "Toronto International Film Festival 2003",
+    "year": 2003,
+    "status": "not_found"
+  },
+  "fbonvoyage": {
+    "title": "Bon Voyage - Interview with Jean-Paul Rappeneau",
+    "year": 2004,
+    "tmdb_id": 14652,
+    "tmdb_title": "Bon Voyage",
+    "poster_path": "/2pP1STSvXOv6jITKQnaZfI1xXB6.jpg",
+    "file": "fbonvoyage-poster.jpg",
+    "status": "fetched"
+  },
+  "fcityofgod": {
+    "title": "City of God - Interview with Fernando Meirelles",
+    "year": 2004,
+    "tmdb_id": 598,
+    "tmdb_title": "City of God",
+    "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+    "file": "fcityofgod-poster.jpg",
+    "status": "fetched"
+  },
+  "fkillbill": {
+    "title": "Kill Bill - Interview with David Carradine",
+    "year": 2004,
+    "tmdb_id": 393,
+    "tmdb_title": "Kill Bill: Vol. 2",
+    "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+    "file": "fkillbill-poster.jpg",
+    "status": "fetched"
+  },
+  "floos": {
+    "title": "Anita Loos - Interview with Cari Beauchamp",
+    "year": 2004,
+    "status": "not_found"
+  },
+  "fmeangirls": {
+    "title": "Mean Girls - Interview with Mark Waters",
+    "year": 2004,
+    "tmdb_id": 10625,
+    "tmdb_title": "Mean Girls",
+    "poster_path": "/fXm3YKXAEjx7d2tIWDg9TfRZtsU.jpg",
+    "file": "fmeangirls-poster.jpg",
+    "status": "fetched"
+  },
+  "fpassion": {
+    "title": "The Passion of the Christ",
+    "year": 2004,
+    "tmdb_id": 615,
+    "tmdb_title": "The Passion of the Christ",
+    "poster_path": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+    "file": "fpassion-poster.jpg",
+    "status": "fetched"
+  },
+  "fprince": {
+    "title": "The Prince &amp; Me - Interview with Martha Coolidge",
+    "year": 2004,
+    "tmdb_id": 11137,
+    "tmdb_title": "The Prince & Me",
+    "poster_path": "/2voUK98TW1cJ3w0qmDIdB16A3x6.jpg",
+    "file": "fprince-poster.jpg",
+    "status": "fetched"
+  },
+  "ftwisted": {
+    "title": "Twisted",
+    "year": 2004,
+    "tmdb_id": 13572,
+    "tmdb_title": "Twisted",
+    "poster_path": "/nfdfU9tYsEnjlFGoY2HabFMdHLi.jpg",
+    "file": "ftwisted-poster.jpg",
+    "status": "fetched"
+  }
+}
