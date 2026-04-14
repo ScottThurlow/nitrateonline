@@ -38,21 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Thirteen - Interview with Catherine Hardwicke",
-    "description": "Words tend to tumble when Catherine Hardwicke starts talking. In her sundress and long blond braids, she looks bright and breathless, not unlike the subjects of her first feature, Thirteen.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/f13.html",
-    "image": "https://nitrateonline.com/images/f13-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "5 September 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Thirteen - Interview with Catherine Hardwicke",
+            "description": "Words tend to tumble when Catherine Hardwicke starts talking. In her sundress and long blond braids, she looks bright and breathless, not unlike the subjects of her first feature, Thirteen.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/f13.html",
+            "image": "https://nitrateonline.com/images/f13-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "5 September 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "Thirteen",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/f13-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Catherine Hardwicke"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Evan Rachel Wood"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nikki Reed"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Holly Hunter"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brady Corbet"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jeremy Sisto"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Michael London Productions"
+            },
+            "duration": "PT100M",
+            "genre": [
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0328538/"
+        }
+    ]
 }
   </script>
 </head>

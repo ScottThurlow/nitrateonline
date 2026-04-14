@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Prince & Me - Interview with Martha Coolidge",
-    "description": "Director Martha Coolidge has several notable achievements, but she's best remembered for a couple of films she directed two decades ago.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2004/fprince.html",
-    "image": "https://nitrateonline.com/images/fprince-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "16 April 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Prince & Me - Interview with Martha Coolidge",
+            "description": "Director Martha Coolidge has several notable achievements, but she's best remembered for a couple of films she directed two decades ago.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2004/fprince.html",
+            "image": "https://nitrateonline.com/images/fprince-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "16 April 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Prince & Me",
+            "dateCreated": "2004",
+            "image": "https://nitrateonline.com/images/fprince-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Martha Coolidge"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Julia Stiles"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Luke Mably"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ben Miller"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Miranda Richardson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "James Fox"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Stillking Films"
+            },
+            "duration": "PT111M",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0337697/"
+        }
+    ]
 }
   </script>
 </head>

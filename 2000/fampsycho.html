@@ -38,20 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "American Psycho",
-    "description": "American Psycho — Feature article on Mary Harron's 2000 film adaptation of Bret Easton Ellis' controversial novel, starring Christian Bale as Patrick Bateman.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fampsycho.html",
-    "image": "https://nitrateonline.com/images/fampsycho-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "American Psycho",
+            "description": "American Psycho — Feature article on Mary Harron's 2000 film adaptation of Bret Easton Ellis' controversial novel, starring Christian Bale as Patrick Bateman.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fampsycho.html",
+            "image": "https://nitrateonline.com/images/fampsycho-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "American Psycho",
+            "dateCreated": "2000",
+            "image": "https://nitrateonline.com/images/fampsycho-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Mary Harron"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Christian Bale"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Justin Theroux"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Josh Lucas"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bill Sage"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chloë Sevigny"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Lionsgate"
+            },
+            "duration": "PT102M",
+            "genre": [
+                "Thriller",
+                "Drama",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0144084/"
+        }
+    ]
 }
   </script>
 </head>

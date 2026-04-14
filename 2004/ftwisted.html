@@ -38,20 +38,69 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Twisted",
-    "description": "Twisted — A 2004 feature article on the crime thriller Twisted, starring Ashley Judd as a San Francisco homicide detective investigating a series of murders.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2004/ftwisted.html",
-    "image": "https://nitrateonline.com/images/ftwisted-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Twisted",
+            "description": "Twisted — A 2004 feature article on the crime thriller Twisted, starring Ashley Judd as a San Francisco homicide detective investigating a series of murders.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2004/ftwisted.html",
+            "image": "https://nitrateonline.com/images/ftwisted-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Twisted",
+            "dateCreated": "2004",
+            "image": "https://nitrateonline.com/images/ftwisted-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Philip Kaufman"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Ashley Judd"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Samuel L. Jackson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Andy Garcia"
+                },
+                {
+                    "@type": "Person",
+                    "name": "David Strathairn"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Russell Wong"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Harlequin Pictures"
+            },
+            "duration": "PT97M",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0315297/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "24th Seattle International Film Festival",
-    "description": "SIFF '98 - Nitrate Online takes you behind the scenes at the largest film festival in the U.S.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1998/fsiff98.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Lyall Bush"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "24th Seattle International Film Festival",
+            "description": "SIFF '98 - Nitrate Online takes you behind the scenes at the largest film festival in the U.S.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1998/fsiff98.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Lyall Bush"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "24th Seattle International Film Festival",
+            "dateCreated": "1998"
+        }
+    ]
 }
   </script>
 </head>

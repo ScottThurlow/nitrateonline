@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Montreal 99 - Selection of Films",
-    "description": "Montreal 99 - What follows are brief impressions of a selection of films caught during the Montreal World Film Festival from among the over 400 on offer:",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fmontreal99-3.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    },
-    "datePublished": "10 September 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Montreal 99 - Selection of Films",
+            "description": "Montreal 99 - What follows are brief impressions of a selection of films caught during the Montreal World Film Festival from among the over 400 on offer:",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fmontreal99-3.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            },
+            "datePublished": "10 September 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Montreal 99 - Selection of Films",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

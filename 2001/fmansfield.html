@@ -38,21 +38,62 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Wild Wild World of Jayne Mansfield",
-    "description": "The Wild Wild World of Jayne Mansfield - In this wacky, yet poignant documentary, Jayne Mansfield's career is revealed for what it might have been.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fmansfield.html",
-    "image": "https://nitrateonline.com/images/fmansfield-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "30 November 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Wild Wild World of Jayne Mansfield",
+            "description": "The Wild Wild World of Jayne Mansfield - In this wacky, yet poignant documentary, Jayne Mansfield's career is revealed for what it might have been.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fmansfield.html",
+            "image": "https://nitrateonline.com/images/fmansfield-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "30 November 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Wild, Wild World of Jayne Mansfield",
+            "dateCreated": "1968",
+            "image": "https://nitrateonline.com/images/fmansfield-poster.jpg",
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Jayne Mansfield"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Robert Jason"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fernand Aubrey"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Monte Duro"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lino Enner"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Parnass Film"
+            },
+            "duration": "PT99M",
+            "genre": [
+                "Documentary"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0063809/"
+        }
+    ]
 }
   </script>
 </head>

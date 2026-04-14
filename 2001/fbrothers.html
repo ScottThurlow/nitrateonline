@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Brothers - Interview with Morris Chestnut",
-    "description": "The Brothers - In person, Morris Chestnut looks a lot like he does on magazine covers and on movie screens -- good-looking of course, but also self-confident and relaxed. He sits sort of next to and sort of across from me on a couch that's way too overstuffed, and we sink deeply into it at first. Th",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fbrothers.html",
-    "image": "https://nitrateonline.com/images/fbrothers-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "23 March 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Brothers - Interview with Morris Chestnut",
+            "description": "The Brothers - In person, Morris Chestnut looks a lot like he does on magazine covers and on movie screens -- good-looking of course, but also self-confident and relaxed. He sits sort of next to and sort of across from me on a couch that's way too overstuffed, and we sink deeply into it at first. Th",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fbrothers.html",
+            "image": "https://nitrateonline.com/images/fbrothers-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "23 March 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Brothers",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fbrothers-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Gary Hardwick"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Morris Chestnut"
+                },
+                {
+                    "@type": "Person",
+                    "name": "D.L. Hughley"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bill Bellamy"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Shemar Moore"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tatyana Ali"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Screen Gems"
+            },
+            "duration": "PT106M",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0250274/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "SIFF 2003 - Seattle International Film Festival Coverage Index",
-    "description": "Seattle International Film Festival 2003 coverage index: My Architect, L'Auberge Espagnole, Capturing the Friedmans, Le Cercle Rouge, My Dinner with Jimi, and more.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fsiff03-indx.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "SIFF 2003 - Seattle International Film Festival Coverage Index",
+            "description": "Seattle International Film Festival 2003 coverage index: My Architect, L'Auberge Espagnole, Capturing the Friedmans, Le Cercle Rouge, My Dinner with Jimi, and more.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fsiff03-indx.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "SIFF 2003 Index",
+            "dateCreated": "2003"
+        }
+    ]
 }
   </script>
 </head>

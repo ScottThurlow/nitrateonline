@@ -38,21 +38,63 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Bon Voyage - Interview with Jean-Paul Rappeneau",
-    "description": "Jean-Paul Rappeneau helps warm up American audiences to his new historical farce.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2004/fbonvoyage.html",
-    "image": "https://nitrateonline.com/images/fbonvoyage-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Elias Savada"
-    },
-    "datePublished": "7 May 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Bon Voyage - Interview with Jean-Paul Rappeneau",
+            "description": "Jean-Paul Rappeneau helps warm up American audiences to his new historical farce.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2004/fbonvoyage.html",
+            "image": "https://nitrateonline.com/images/fbonvoyage-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Elias Savada"
+            },
+            "datePublished": "7 May 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "Bon Voyage",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fbonvoyage-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Jean-Paul Rappeneau"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Grégori Derangère"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Isabelle Adjani"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gérard Depardieu"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Virginie Ledoyen"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Yvan Attal"
+                }
+            ],
+            "duration": "PT114M",
+            "genre": [
+                "Drama",
+                "Comedy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0310778/"
+        }
+    ]
 }
   </script>
 </head>

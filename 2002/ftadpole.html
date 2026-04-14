@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Tadpole - Interview with Gary Winick and Aaron Stanford",
-    "description": "Sean Axmaker chats with Gary Winick and Aaron Stanford about their new film, Tadpole.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/ftadpole.html",
-    "image": "https://nitrateonline.com/images/ftadpole-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Sean Axmaker"
-    },
-    "datePublished": "2 August 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Tadpole - Interview with Gary Winick and Aaron Stanford",
+            "description": "Sean Axmaker chats with Gary Winick and Aaron Stanford about their new film, Tadpole.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/ftadpole.html",
+            "image": "https://nitrateonline.com/images/ftadpole-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Sean Axmaker"
+            },
+            "datePublished": "2 August 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Tadpole",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/ftadpole-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Gary Winick"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Aaron Stanford"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sigourney Weaver"
+                },
+                {
+                    "@type": "Person",
+                    "name": "John Ritter"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bebe Neuwirth"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Robert Iler"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Dolly Hall Productions"
+            },
+            "duration": "PT79M",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0271219/"
+        }
+    ]
 }
   </script>
 </head>

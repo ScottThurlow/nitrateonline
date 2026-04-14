@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Hitchcock at 100: The Early Films",
-    "description": "Hitchcock at 100 - In 1929, Hitchcock directed his (and Britain's) first talking picture, Blackmail, about a young woman who stabs a man in self-defense; her boyfriend, a Scotland Yard detective, who is assigned to the case, and who conceals evidence of his girlfriend's involvement; and a third part",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fhitch100-2.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Hitchcock at 100: The Early Films",
+            "description": "Hitchcock at 100 - In 1929, Hitchcock directed his (and Britain's) first talking picture, Blackmail, about a young woman who stabs a man in self-defense; her boyfriend, a Scotland Yard detective, who is assigned to the case, and who conceals evidence of his girlfriend's involvement; and a third part",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fhitch100-2.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Hitchcock at 100: The Early Films",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

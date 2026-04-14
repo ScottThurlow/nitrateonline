@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Hitchcock at 100: There are many such stories",
-    "description": "Gregory Avery takes a look at Alfred Hitchcock's contributions to cinema in the 100th year after his birth.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fhitch100.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Hitchcock at 100: There are many such stories",
+            "description": "Gregory Avery takes a look at Alfred Hitchcock's contributions to cinema in the 100th year after his birth.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fhitch100.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Hitchcock at 100: There are many such stories",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

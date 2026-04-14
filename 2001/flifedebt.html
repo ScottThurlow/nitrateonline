@@ -38,21 +38,50 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Life and Debt - Interview with Stephanie Black",
-    "description": "Life and Debt - Stephanie Black's new documentary, Life and Debt, explores the economic and political fallout of globalization in Jamaica.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/flifedebt.html",
-    "image": "https://nitrateonline.com/images/flifedebt-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "14 December 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Life and Debt - Interview with Stephanie Black",
+            "description": "Life and Debt - Stephanie Black's new documentary, Life and Debt, explores the economic and political fallout of globalization in Jamaica.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/flifedebt.html",
+            "image": "https://nitrateonline.com/images/flifedebt-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "14 December 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Life and Debt",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/flifedebt-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Stephanie Black"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Belinda Becker"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Tuff Gong Pictures"
+            },
+            "duration": "PT86M",
+            "genre": [
+                "Documentary"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0284262/"
+        }
+    ]
 }
   </script>
 </head>

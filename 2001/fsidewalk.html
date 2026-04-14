@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Sidewalks of New York - Interview with Edward Burns",
-    "description": "Sidewalks of New York - It's a Different Language - Interview with Edward Burns",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fsidewalk.html",
-    "image": "https://nitrateonline.com/images/fsidewalk-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "23 November 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Sidewalks of New York - Interview with Edward Burns",
+            "description": "Sidewalks of New York - It's a Different Language - Interview with Edward Burns",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fsidewalk.html",
+            "image": "https://nitrateonline.com/images/fsidewalk-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "23 November 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Sidewalks of New York",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fsidewalk-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Edward Burns"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Edward Burns"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Heather Graham"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rosario Dawson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dennis Farina"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brittany Murphy"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Artists Production Group"
+            },
+            "duration": "PT107M",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0239986/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Paganini",
-    "description": "Paganini - Some people have come to see the film as being more about Kinski (the director) than Paganini.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fpaganini.html",
-    "image": "https://nitrateonline.com/images/fpaganini-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "23 November 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Paganini",
+            "description": "Paganini - Some people have come to see the film as being more about Kinski (the director) than Paganini.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fpaganini.html",
+            "image": "https://nitrateonline.com/images/fpaganini-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "23 November 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Paganini",
+            "dateCreated": "1990",
+            "image": "https://nitrateonline.com/images/fpaganini-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Klaus Kinski"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Klaus Kinski"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Debora Caprioglio"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nikolai Kinski"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dalila Di Lazzaro"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tosca D'Aquino"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Scena Film"
+            },
+            "duration": "PT85M",
+            "genre": [
+                "Drama",
+                "Music"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0098052/"
+        }
+    ]
 }
   </script>
 </head>

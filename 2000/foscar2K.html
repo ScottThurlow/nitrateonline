@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "72nd Academy Awards (Oscars)",
-    "description": "Nitrate Online's coverage of the 72nd Academy Awards (2000 Oscars), featuring predictions, analysis, and reaction to Oscar night.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/foscar2K.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "72nd Academy Awards (Oscars)",
+            "description": "Nitrate Online's coverage of the 72nd Academy Awards (2000 Oscars), featuring predictions, analysis, and reaction to Oscar night.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/foscar2K.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "72nd Academy Awards (Oscars)",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

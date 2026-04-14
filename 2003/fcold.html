@@ -38,21 +38,69 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Cold Mountain - Interview with Charlie Hunnam",
-    "description": "Cold Mountain has more layers than a flaky slice of baklava tempting customers from a bakery display case.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fcold.html",
-    "image": "https://nitrateonline.com/images/fcold-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "KJ Doughton"
-    },
-    "datePublished": "26 December 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Cold Mountain - Interview with Charlie Hunnam",
+            "description": "Cold Mountain has more layers than a flaky slice of baklava tempting customers from a bakery display case.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fcold.html",
+            "image": "https://nitrateonline.com/images/fcold-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "KJ Doughton"
+            },
+            "datePublished": "26 December 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "Cold Mountain",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fcold-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Anthony Minghella"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Jude Law"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicole Kidman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Renée Zellweger"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Eileen Atkins"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brendan Gleeson"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Miramax"
+            },
+            "duration": "PT154M",
+            "genre": [
+                "War",
+                "History",
+                "Adventure",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0159365/"
+        }
+    ]
 }
   </script>
 </head>

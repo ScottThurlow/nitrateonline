@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "71st Academy Awards",
-    "description": "Nitrate Online's coverage of the 71st Academy Awards (1999 Oscars), featuring predictions, analysis, and reaction to Oscar night.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/foscar99.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "71st Academy Awards",
+            "description": "Nitrate Online's coverage of the 71st Academy Awards (1999 Oscars), featuring predictions, analysis, and reaction to Oscar night.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/foscar99.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "71st Academy Awards",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

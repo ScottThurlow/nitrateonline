@@ -38,21 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Stanley Kubrick",
-    "description": "Stanley Kubrick Retrospective - If it had not been for a visit to a movie theater at the Treasure Island Naval Base, in San Francisco, California in 1969, you would not be reading these words.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fkubrick.html",
-    "image": "https://nitrateonline.com/images/fkubrick-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "12 March 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Stanley Kubrick",
+            "description": "Stanley Kubrick Retrospective - If it had not been for a visit to a movie theater at the Treasure Island Naval Base, in San Francisco, California in 1969, you would not be reading these words.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fkubrick.html",
+            "image": "https://nitrateonline.com/images/fkubrick-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "12 March 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Stanley Kubrick: A Life in Pictures",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fkubrick-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Jan Harlan"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Tom Cruise"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Barbara Kroner"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Steven Marcus"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Alexander Singer"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Paul Mazursky"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Warner Bros. Pictures"
+            },
+            "duration": "PT141M",
+            "genre": [
+                "Documentary"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0278736/"
+        }
+    ]
 }
   </script>
 </head>

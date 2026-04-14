@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Boys Don't Cry",
-    "description": "Best Man - Malcolm Lee looks relaxed. He sprawls across the couch in his hotel room and smiles, confident in the appeal of his first movie, The Best Man",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fboys.html",
-    "image": "https://nitrateonline.com/images/fboys-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "22 October 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Boys Don't Cry",
+            "description": "Best Man - Malcolm Lee looks relaxed. He sprawls across the couch in his hotel room and smiles, confident in the appeal of his first movie, The Best Man",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fboys.html",
+            "image": "https://nitrateonline.com/images/fboys-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "22 October 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Boys Don't Cry",
+            "dateCreated": "1999",
+            "image": "https://nitrateonline.com/images/fboys-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Kimberly Peirce"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Hilary Swank"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chloë Sevigny"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peter Sarsgaard"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brendan Sexton III"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Alicia Goranson"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Fox Searchlight Pictures"
+            },
+            "duration": "PT118M",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0171804/"
+        }
+    ]
 }
   </script>
 </head>

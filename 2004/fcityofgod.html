@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "City of God - Interview with Fernando Meirelles",
-    "description": "Not long ago, Brazilian filmmaker Fernando Meirelles almost abandoned his cinematic career to farm chickens in Australia.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2004/fcityofgod.html",
-    "image": "https://nitrateonline.com/images/fcityofgod-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "KJ Doughton"
-    },
-    "datePublished": "5 March 2004"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "City of God - Interview with Fernando Meirelles",
+            "description": "Not long ago, Brazilian filmmaker Fernando Meirelles almost abandoned his cinematic career to farm chickens in Australia.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2004/fcityofgod.html",
+            "image": "https://nitrateonline.com/images/fcityofgod-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "KJ Doughton"
+            },
+            "datePublished": "5 March 2004"
+        },
+        {
+            "@type": "Movie",
+            "name": "City of God",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fcityofgod-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Fernando Meirelles"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Alexandre Rodrigues"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Leandro Firmino"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Phellipe Haagensen"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Douglas Silva"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jonathan Haagensen"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "O2 Filmes"
+            },
+            "duration": "PT129M",
+            "genre": [
+                "Drama",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0317248/"
+        }
+    ]
 }
   </script>
 </head>

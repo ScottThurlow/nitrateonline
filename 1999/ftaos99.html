@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Taos Talking Pictures '99",
-    "description": "Taos '99 - New Mexico’s Taos Talking Pictures Festival (15-18 April), in its five short years of existence, has developed a reputation as one of the premiere meeting place for American independent film makers. While they feature foreign work, a lecture series (which this year included radical histor",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/ftaos99.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Jerry White"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Taos Talking Pictures '99",
+            "description": "Taos '99 - New Mexico’s Taos Talking Pictures Festival (15-18 April), in its five short years of existence, has developed a reputation as one of the premiere meeting place for American independent film makers. While they feature foreign work, a lecture series (which this year included radical histor",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/ftaos99.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Jerry White"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Taos Talking Pictures '99",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

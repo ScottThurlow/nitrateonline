@@ -38,20 +38,64 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Lady in Black",
-    "description": "In 1930, while claimants and litigants were still contesting over the late actor's estate, one of the most compelling aspects of the Valentino legend first came into being when a solitary woman, wearing a veil and dressed in mourning, came to the actor's crypt on the anniversary of his death, to lay",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/frudy-3.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Lady in Black",
+            "description": "In 1930, while claimants and litigants were still contesting over the late actor's estate, one of the most compelling aspects of the Valentino legend first came into being when a solitary woman, wearing a veil and dressed in mourning, came to the actor's crypt on the anniversary of his death, to lay",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/frudy-3.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "The Lady in Black",
+            "dateCreated": "1913",
+            "director": {
+                "@type": "Person",
+                "name": "Dell Henderson"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Charles Murray"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gertrude Bambrick"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorothy Gish"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Edward Dillon"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dave Morris"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "American Mutoscope & Biograph"
+            },
+            "duration": "PT12M",
+            "genre": [
+                "Comedy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0003047/"
+        }
+    ]
 }
   </script>
 </head>

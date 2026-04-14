@@ -38,20 +38,71 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "In Praise of Love",
-    "description": "In Praise of Love — A feature article on Jean-Luc Godard's 2001 film, a meditation on the nature of love told in two contrasting parts.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fpraise.html",
-    "image": "https://nitrateonline.com/images/fpraise-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "In Praise of Love",
+            "description": "In Praise of Love — A feature article on Jean-Luc Godard's 2001 film, a meditation on the nature of love told in two contrasting parts.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fpraise.html",
+            "image": "https://nitrateonline.com/images/fpraise-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Gregory Avery"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                }
+            ]
+        },
+        {
+            "@type": "Movie",
+            "name": "In Praise of Love",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fpraise-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Jean-Luc Godard"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Bruno Putzulu"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cécile Camp"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jean Davy"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Françoise Verny"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Audrey Klebaner"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Avventura Films"
+            },
+            "duration": "PT99M",
+            "genre": [
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0181912/"
+        }
+    ]
 }
   </script>
 </head>
@@ -89,7 +140,7 @@
     <div class="article-header-inner">
       <p class="article-eyebrow">Feature &nbsp;·&nbsp; 2002</p>
       <h1 class="article-title"><em>In Praise of Love</em></h1>
-      <p class="article-meta"><span class="meta-byline">Feature by <a href="/carrie.html">Carrie Gorringe</a></span></p>
+      <p class="article-meta"><span class="meta-byline">Feature by <a href="/gregory.html">Gregory Avery</a> and <a href="/carrie.html">Carrie Gorringe</a></span></p>
 
     </div>
   </div>

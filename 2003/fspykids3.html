@@ -38,20 +38,75 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Spy Kids 3-D: Game Over",
-    "description": "Spy Kids 3-D: Game Over — Feature article on Robert Rodriguez's 2003 3D adventure in which young Juni Cortez must enter a video game to rescue his sister.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fspykids3.html",
-    "image": "https://nitrateonline.com/images/fspykids3-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "KJ Doughton"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Spy Kids 3-D: Game Over",
+            "description": "Spy Kids 3-D: Game Over — Feature article on Robert Rodriguez's 2003 3D adventure in which young Juni Cortez must enter a video game to rescue his sister.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fspykids3.html",
+            "image": "https://nitrateonline.com/images/fspykids3-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "KJ Doughton"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dan Lybarger"
+                }
+            ]
+        },
+        {
+            "@type": "Movie",
+            "name": "Spy Kids 3-D: Game Over",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fspykids3-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Robert Rodriguez"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Daryl Sabara"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ricardo Montalban"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Alexa PenaVega"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sylvester Stallone"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Courtney Jines"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Dimension Films"
+            },
+            "duration": "PT84M",
+            "genre": [
+                "Family",
+                "Action",
+                "Comedy",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0338459/"
+        }
+    ]
 }
   </script>
 </head>
@@ -89,7 +144,7 @@
     <div class="article-header-inner">
       <p class="article-eyebrow">Feature &nbsp;·&nbsp; 2003</p>
       <h1 class="article-title"><em>Spy Kids 3-D: Game Over</em></h1>
-      <p class="article-meta"><span class="meta-byline">Feature by <a href="/kj.html">KJ Doughton</a></span></p>
+      <p class="article-meta"><span class="meta-byline">Feature by <a href="/kj.html">KJ Doughton</a> and <a href="/dan.html">Dan Lybarger</a></span></p>
 
     </div>
   </div>

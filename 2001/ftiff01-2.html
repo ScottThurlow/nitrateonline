@@ -38,16 +38,25 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "TIFF 2001 - Toronto International Film Festival Contents",
-    "description": "Toronto International Film Festival 2001 coverage contents: The Devil's Backbone, Ichi the Killer, Full Time Killer, and more films reviewed by Nitrate Online.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/ftiff01-2.html",
-    "image": "https://nitrateonline.com/images/og-default.png"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "TIFF 2001 - Toronto International Film Festival Contents",
+            "description": "Toronto International Film Festival 2001 coverage contents: The Devil's Backbone, Ichi the Killer, Full Time Killer, and more films reviewed by Nitrate Online.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/ftiff01-2.html",
+            "image": "https://nitrateonline.com/images/og-default.png"
+        },
+        {
+            "@type": "Movie",
+            "name": "Tiff Contents",
+            "dateCreated": "2001"
+        }
+    ]
 }
   </script>
 </head>

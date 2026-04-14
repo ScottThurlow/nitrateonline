@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Film Festivals Page",
-    "description": "Film Festivals - Click on the links below to read Nitrate Online's film festival reports",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1996/ffilmfest.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    },
-    "datePublished": "11 June 2004"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Film Festivals Page",
+            "description": "Film Festivals - Click on the links below to read Nitrate Online's film festival reports",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1996/ffilmfest.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            },
+            "datePublished": "11 June 2004"
+        },
+        {
+            "@type": "Movie",
+            "name": "Film Festivals Page",
+            "dateCreated": "1996"
+        }
+    ]
 }
   </script>
 </head>

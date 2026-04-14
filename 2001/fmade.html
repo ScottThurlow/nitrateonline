@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Made - Interview with Jon Favreau",
-    "description": "Made - When you hear the name Jon Favreau, you'll probably remember that he's the guy who wrote and starred in Swingers (directed by Doug Liman), the movie that, back in 1996 (was it that long ago already?), made \"You're so money\" a commonplace and his friend and co-star Vince Vaughan something of a",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fmade.html",
-    "image": "https://nitrateonline.com/images/fmade-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "13 July 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Made - Interview with Jon Favreau",
+            "description": "Made - When you hear the name Jon Favreau, you'll probably remember that he's the guy who wrote and starred in Swingers (directed by Doug Liman), the movie that, back in 1996 (was it that long ago already?), made \"You're so money\" a commonplace and his friend and co-star Vince Vaughan something of a",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fmade.html",
+            "image": "https://nitrateonline.com/images/fmade-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "13 July 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Made",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fmade-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Jon Favreau"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Vince Vaughn"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jon Favreau"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sean Combs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Famke Janssen"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peter Falk"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Artisan Entertainment"
+            },
+            "duration": "PT95M",
+            "genre": [
+                "Comedy",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0227005/"
+        }
+    ]
 }
   </script>
 </head>

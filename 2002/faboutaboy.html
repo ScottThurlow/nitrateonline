@@ -38,20 +38,73 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "About a Boy",
-    "description": "About a Boy — Feature article on the 2002 film starring Hugh Grant, based on Nick Hornby's novel about a commitment-phobic man befriending a troubled boy.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/faboutaboy.html",
-    "image": "https://nitrateonline.com/images/faboutaboy-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "About a Boy",
+            "description": "About a Boy — Feature article on the 2002 film starring Hugh Grant, based on Nick Hornby's novel about a commitment-phobic man befriending a troubled boy.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/faboutaboy.html",
+            "image": "https://nitrateonline.com/images/faboutaboy-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gregory Avery"
+                }
+            ]
+        },
+        {
+            "@type": "Movie",
+            "name": "About a Boy",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/faboutaboy-poster.jpg",
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Hugh Grant"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicholas Hoult"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Toni Collette"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rachel Weisz"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Natalia Tena"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Universal Pictures"
+            },
+            "duration": "PT101M",
+            "genre": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0276751/"
+        }
+    ]
 }
   </script>
 </head>
@@ -89,7 +142,7 @@
     <div class="article-header-inner">
       <p class="article-eyebrow">Feature &nbsp;·&nbsp; 2002</p>
       <h1 class="article-title"><em>About a Boy</em></h1>
-      <p class="article-meta"><span class="meta-byline">Feature by <a href="/carrie.html">Carrie Gorringe</a></span></p>
+      <p class="article-meta"><span class="meta-byline">Feature by <a href="/cynthia.html">Cynthia Fuchs</a>, <a href="/carrie.html">Carrie Gorringe</a>, and <a href="/gregory.html">Gregory Avery</a></span></p>
 
     </div>
   </div>

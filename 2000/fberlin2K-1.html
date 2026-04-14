@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Berlin '2000 - Everything Old is New Again",
-    "description": "Berlin 2000 - Berlin, Germany (08 February) With about sixteen hours to go until the doors open for registration, the sounds of hammering and drilling -- not to mention the sizzle and flash of a guy soldering something on an elevated staircase -- echo about the massive Berlinale-Palast, which houses",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fberlin2K-1.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    },
-    "datePublished": "11 February 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Berlin '2000 - Everything Old is New Again",
+            "description": "Berlin 2000 - Berlin, Germany (08 February) With about sixteen hours to go until the doors open for registration, the sounds of hammering and drilling -- not to mention the sizzle and flash of a guy soldering something on an elevated staircase -- echo about the massive Berlinale-Palast, which houses",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fberlin2K-1.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            },
+            "datePublished": "11 February 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "Berlin '2000 - Everything Old is New Again",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

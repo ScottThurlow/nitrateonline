@@ -38,20 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "46th Berlin International Film Festival",
-    "description": "Berlin '96 - Eddie Cockrell brings you the latest from the screening rooms in Berlin, including the results of the competition section, announced on February 26th.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1996/fberlin96.html",
-    "image": "https://nitrateonline.com/images/fberlin96-2.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "46th Berlin International Film Festival",
+            "description": "Berlin '96 - Eddie Cockrell brings you the latest from the screening rooms in Berlin, including the results of the competition section, announced on February 26th.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1996/fberlin96.html",
+            "image": "https://nitrateonline.com/images/fberlin96-2.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "46th Berlin International Film Festival",
+            "dateCreated": "1996",
+            "image": "https://nitrateonline.com/images/fberlin96-2.jpg"
+        }
+    ]
 }
   </script>
 </head>

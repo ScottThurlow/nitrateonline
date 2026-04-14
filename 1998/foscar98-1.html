@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Academy Awards - Praise the Titanic!",
-    "description": "Academy Awards - While most Oscar prognosticators saw Titanic getting a Best Picture nod, few industry watchers were prepared for the wave of nominations the blockbuster epic received as actress Geena Davis read the Academy Awards roster from Los Angeles this morning (10 February).",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1998/foscar98-1.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Academy Awards - Praise the Titanic!",
+            "description": "Academy Awards - While most Oscar prognosticators saw Titanic getting a Best Picture nod, few industry watchers were prepared for the wave of nominations the blockbuster epic received as actress Geena Davis read the Academy Awards roster from Los Angeles this morning (10 February).",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1998/foscar98-1.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Academy Awards - Praise the Titanic!",
+            "dateCreated": "1998"
+        }
+    ]
 }
   </script>
 </head>

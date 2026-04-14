@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "L.I.E. - Interview with Michael Cuesta",
-    "description": "Thirty-eight-year-old Michael Cuesta changed careers after a successful run as a commercials filmmaker and still photographer working alongside his mentor, legendary fashion photographer Irving Penn.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/flie.html",
-    "image": "https://nitrateonline.com/images/flie-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Paula Nechak"
-    },
-    "datePublished": "28 September 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "L.I.E. - Interview with Michael Cuesta",
+            "description": "Thirty-eight-year-old Michael Cuesta changed careers after a successful run as a commercials filmmaker and still photographer working alongside his mentor, legendary fashion photographer Irving Penn.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/flie.html",
+            "image": "https://nitrateonline.com/images/flie-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Paula Nechak"
+            },
+            "datePublished": "28 September 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "L.I.E.",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/flie-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Michael Cuesta"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Paul Dano"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bruce Altman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brian Cox"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Billy Kay"
+                },
+                {
+                    "@type": "Person",
+                    "name": "James Costa"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Alter Ego Entertainment"
+            },
+            "duration": "PT97M",
+            "genre": [
+                "Drama",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0242587/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,20 +38,72 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Gloomy Sunday",
-    "description": "Gloomy Sunday — Feature article on the 1999 German-Hungarian film based on the haunting love ballad said to have inspired suicides across Europe.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fgloomy.html",
-    "image": "https://nitrateonline.com/images/fgloomy-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Gloomy Sunday",
+            "description": "Gloomy Sunday — Feature article on the 1999 German-Hungarian film based on the haunting love ballad said to have inspired suicides across Europe.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fgloomy.html",
+            "image": "https://nitrateonline.com/images/fgloomy-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Elias Savada"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gregory Avery"
+                }
+            ]
+        },
+        {
+            "@type": "Movie",
+            "name": "Gloomy Sunday",
+            "dateCreated": "1999",
+            "image": "https://nitrateonline.com/images/fgloomy-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Rolf Schübel"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Marozsán Erika"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Joachim Król"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ben Becker"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stefano Dionisi"
+                },
+                {
+                    "@type": "Person",
+                    "name": "András Bálint"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Studio Hamburg Filmproduktion"
+            },
+            "duration": "PT112M",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0155722/"
+        }
+    ]
 }
   </script>
 </head>
@@ -89,7 +141,7 @@
     <div class="article-header-inner">
       <p class="article-eyebrow">Feature &nbsp;·&nbsp; 2003</p>
       <h1 class="article-title"><em>Gloomy Sunday</em></h1>
-      <p class="article-meta"><span class="meta-byline">Feature by <a href="/gregory.html">Gregory Avery</a></span></p>
+      <p class="article-meta"><span class="meta-byline">Feature by <a href="/elias.html">Elias Savada</a> and <a href="/gregory.html">Gregory Avery</a></span></p>
 
     </div>
   </div>

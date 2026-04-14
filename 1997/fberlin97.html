@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "47th Berlin International Film Festival",
-    "description": "Berlin '97 - It was no contest, really. From the moment director Milos Forman arrived at Berlin's recently-expanded Tegel Airport on opening day to a frenzy of flashbulbs and two journalists squared off in front of a startled Courtney Love over five minutes of encroached interview time a few days la",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1997/fberlin97.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "47th Berlin International Film Festival",
+            "description": "Berlin '97 - It was no contest, really. From the moment director Milos Forman arrived at Berlin's recently-expanded Tegel Airport on opening day to a frenzy of flashbulbs and two journalists squared off in front of a startled Courtney Love over five minutes of encroached interview time a few days la",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1997/fberlin97.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "47th Berlin International Film Festival",
+            "dateCreated": "1997"
+        }
+    ]
 }
   </script>
 </head>

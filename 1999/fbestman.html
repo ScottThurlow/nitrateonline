@@ -38,21 +38,62 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Best Man",
-    "description": "Best Man - Malcolm Lee looks relaxed. He sprawls across the couch in his hotel room and smiles, confident in the appeal of his first movie, The Best Man",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fbestman.html",
-    "image": "https://nitrateonline.com/images/fbestman-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "22 October 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Best Man",
+            "description": "Best Man - Malcolm Lee looks relaxed. He sprawls across the couch in his hotel room and smiles, confident in the appeal of his first movie, The Best Man",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fbestman.html",
+            "image": "https://nitrateonline.com/images/fbestman-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "22 October 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Man's Best Friend",
+            "dateCreated": "1999",
+            "image": "https://nitrateonline.com/images/fbestman-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Philippe Galland"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Yolande Moreau"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Geno Lechner"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Atmen Kelif"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jean Benguigui"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Laurent Olmedo"
+                }
+            ],
+            "duration": "PT90M",
+            "genre": [
+                "Comedy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0143657/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,21 +38,50 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Nosferatu",
-    "description": "Gregory Avery takes a look at Rudloph Valentino's short but spectular career. Follow the links below ...",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fnosferatu.html",
-    "image": "https://nitrateonline.com/images/fnosferatu-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "29 October 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Nosferatu",
+            "description": "Gregory Avery takes a look at Rudloph Valentino's short but spectular career. Follow the links below ...",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fnosferatu.html",
+            "image": "https://nitrateonline.com/images/fnosferatu-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "29 October 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Nosferatu 2000",
+            "dateCreated": "1999",
+            "image": "https://nitrateonline.com/images/fnosferatu-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Daniela Cugliandolo"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Javier Alonso"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Roxana González"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Leandro Riccieri"
+                }
+            ],
+            "sameAs": "https://www.imdb.com/title/tt1015390/"
+        }
+    ]
 }
   </script>
 </head>

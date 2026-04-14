@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Sum of All Fears - Conversation with Liev Schreiber",
-    "description": "Direct. It's a good word for Schreiber, who wastes no time on frills and polite banter in the interview.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/ffears.html",
-    "image": "https://nitrateonline.com/images/ffears-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Paula Nechak"
-    },
-    "datePublished": "31 May 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Sum of All Fears - Conversation with Liev Schreiber",
+            "description": "Direct. It's a good word for Schreiber, who wastes no time on frills and polite banter in the interview.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/ffears.html",
+            "image": "https://nitrateonline.com/images/ffears-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Paula Nechak"
+            },
+            "datePublished": "31 May 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Sum of All Fears",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/ffears-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Phil Alden Robinson"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Ben Affleck"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Morgan Freeman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "James Cromwell"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Liev Schreiber"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bridget Moynahan"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Paramount Pictures"
+            },
+            "duration": "PT124M",
+            "genre": [
+                "Thriller",
+                "Action",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0164184/"
+        }
+    ]
 }
   </script>
 </head>

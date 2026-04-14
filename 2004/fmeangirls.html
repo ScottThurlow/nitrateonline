@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Mean Girls - Interview with Mark Waters",
-    "description": "Director Mark S. Waters seems an unlikely candidate to be directing a movie about misfit high school girls. With his polished appearance and confident manner, its easy to believe that the Mean Girls helmer was a basketball player and a valedictorian.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2004/fmeangirls.html",
-    "image": "https://nitrateonline.com/images/fmeangirls-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "21 May 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Mean Girls - Interview with Mark Waters",
+            "description": "Director Mark S. Waters seems an unlikely candidate to be directing a movie about misfit high school girls. With his polished appearance and confident manner, its easy to believe that the Mean Girls helmer was a basketball player and a valedictorian.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2004/fmeangirls.html",
+            "image": "https://nitrateonline.com/images/fmeangirls-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "21 May 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "Mean Girls",
+            "dateCreated": "2004",
+            "image": "https://nitrateonline.com/images/fmeangirls-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Mark Waters"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Lindsay Lohan"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rachel McAdams"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lizzy Caplan"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lacey Chabert"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Amanda Seyfried"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Broadway Video"
+            },
+            "duration": "PT97M",
+            "genre": [
+                "Drama",
+                "Comedy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0377092/"
+        }
+    ]
 }
   </script>
 </head>

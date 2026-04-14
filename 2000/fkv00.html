@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Karlovy Vary 2000",
-    "description": "Karlovy Vary 2000 - The Pilgrimage to Karlovy Vary for the International Film Festival: A Report on the Parties and the Guests (and the Films).",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fkv00.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Karlovy Vary 2000",
+            "description": "Karlovy Vary 2000 - The Pilgrimage to Karlovy Vary for the International Film Festival: A Report on the Parties and the Guests (and the Films).",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fkv00.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Karlovy Vary 2000",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

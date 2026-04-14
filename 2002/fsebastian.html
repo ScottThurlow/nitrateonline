@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "SIFF 2001",
-    "description": "SIFF 2000 - Carrie Gorringe and KJ Doughton bring you the latest from the screening rooms in Seattle.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fsebastian.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Elias Savada"
-    },
-    "datePublished": "11 October 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "SIFF 2001",
+            "description": "SIFF 2000 - Carrie Gorringe and KJ Doughton bring you the latest from the screening rooms in Seattle.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fsebastian.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Elias Savada"
+            },
+            "datePublished": "11 October 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "SIFF 2001",
+            "dateCreated": "2002"
+        }
+    ]
 }
   </script>
 </head>
