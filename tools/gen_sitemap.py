@@ -21,8 +21,10 @@ root_pages = [
     ('', 1.0, 'monthly'),
     ('index.html', 1.0, 'monthly'),
     ('archive.html', 0.9, 'monthly'),
+    ('imdb-reviews.html', 0.8, 'monthly'),
     ('aboutus.html', 0.7, 'yearly'),
     ('links.html', 0.5, 'yearly'),
+    ('license.html', 0.3, 'yearly'),
 ]
 for page, priority, freq in root_pages:
     loc = f'{BASE}/{page}' if page else BASE + '/'
