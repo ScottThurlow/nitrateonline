@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Drumline - Chemical Reactions - Interview with Charles Stone III",
-    "description": "Charles Stone III sits at a long table in one of those fancy hotel \"meeting rooms.\" He smiles immediately.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fdrumline.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "13 December 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Drumline - Chemical Reactions - Interview with Charles Stone III",
+            "description": "Charles Stone III sits at a long table in one of those fancy hotel \"meeting rooms.\" He smiles immediately.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fdrumline.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "13 December 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Drumline - Chemical Reactions - Interview with Charles Stone III",
+            "dateCreated": "2002"
+        }
+    ]
 }
   </script>
 </head>

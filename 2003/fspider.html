@@ -38,28 +38,75 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Spider",
-    "description": "Spider — A feature article on David Cronenberg's 2002 film. A wonderful study of character and fantasy that results in tragedy, starring Ralph Fiennes.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fspider.html",
-    "image": "https://nitrateonline.com/images/fspider-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Carrie Gorringe"
+            "@type": "Article",
+            "headline": "Spider",
+            "description": "Spider — A feature article on David Cronenberg's 2002 film. A wonderful study of character and fantasy that results in tragedy, starring Ralph Fiennes.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fspider.html",
+            "image": "https://nitrateonline.com/images/fspider-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Paula Nechak"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicholas Schager"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Paula Nechak"
-        },
-        {
-            "@type": "Person",
-            "name": "Nicholas Schager"
+            "@type": "Movie",
+            "name": "Miss Spider's Sunny Patch Kids",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fspider-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Mike Fallows"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Brooke Shields"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rick Moranis"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tony Jay"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Scott Beaudin"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rebecca Brenner"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Nelvana"
+            },
+            "duration": "PT50M",
+            "genre": [
+                "Animation",
+                "Family",
+                "TV Movie"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0358594/"
         }
     ]
 }

@@ -38,21 +38,62 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Royal Tenenbaums",
-    "description": "The Royal Tenenbaums — A feature article on Wes Anderson's 2001 film about a family of former child prodigies reunited by their father's announcement of terminal illness.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/froyalt.html",
-    "image": "https://nitrateonline.com/images/froyalt-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "11 June 2004"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Royal Tenenbaums",
+            "description": "The Royal Tenenbaums — A feature article on Wes Anderson's 2001 film about a family of former child prodigies reunited by their father's announcement of terminal illness.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/froyalt.html",
+            "image": "https://nitrateonline.com/images/froyalt-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "11 June 2004"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Peter Bradley Show: 'The Royal Tenenbaums'",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/froyalt-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Antonio Ferrera"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Kumar Pallana"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dipak Pallana"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stephen Dignan"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brian Tenenbaum"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sanjay Mathew"
+                }
+            ],
+            "duration": "PT26M",
+            "genre": [
+                "Documentary",
+                "Comedy"
+            ]
+        }
+    ]
 }
   </script>
 </head>

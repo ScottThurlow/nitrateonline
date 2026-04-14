@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Valentino and the Lady in Black",
-    "description": "Gregory Avery takes a look at Rudloph Valentino's short but spectular career. Follow the links below ...",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/frudy.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Valentino and the Lady in Black",
+            "description": "Gregory Avery takes a look at Rudloph Valentino's short but spectular career. Follow the links below ...",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/frudy.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Valentino and the Lady in Black",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

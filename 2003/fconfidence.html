@@ -38,24 +38,73 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Confidence",
-    "description": "Confidence — Feature article on the 2003 crime thriller starring Edward Burns as a con man who must do a job for a Los Angeles mob boss.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fconfidence.html",
-    "image": "https://nitrateonline.com/images/fconfidence-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Article",
+            "headline": "Confidence",
+            "description": "Confidence — Feature article on the 2003 crime thriller starring Edward Burns as a con man who must do a job for a Los Angeles mob boss.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fconfidence.html",
+            "image": "https://nitrateonline.com/images/fconfidence-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "KJ Doughton"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "KJ Doughton"
+            "@type": "Movie",
+            "name": "Confidence",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fconfidence-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "James Foley"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Edward Burns"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rachel Weisz"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Andy Garcia"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Paul Giamatti"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Morris Chestnut"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Ignite Entertainment"
+            },
+            "duration": "PT97M",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Thriller",
+                "Crime",
+                "Mystery"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0310910/"
         }
     ]
 }

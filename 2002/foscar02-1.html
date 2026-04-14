@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Berlin Wins Oscar - 74th Academy Awards Nominations",
-    "description": "74th Academy Awards (2002) - (Berlin, February 12) The Oscars invaded Berlin today, giving newly-minted festival director Dieter Kosslick a boost with rank-and-file German moviegoers and accredited guests as well in the midst of his first, pivotal year at the helm.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/foscar02-1.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Berlin Wins Oscar - 74th Academy Awards Nominations",
+            "description": "74th Academy Awards (2002) - (Berlin, February 12) The Oscars invaded Berlin today, giving newly-minted festival director Dieter Kosslick a boost with rank-and-file German moviegoers and accredited guests as well in the midst of his first, pivotal year at the helm.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/foscar02-1.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Berlin Wins Oscar - 74th Academy Awards Nominations",
+            "dateCreated": "2002"
+        }
+    ]
 }
   </script>
 </head>

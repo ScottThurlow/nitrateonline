@@ -38,24 +38,70 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Head of State",
-    "description": "Head of State — Feature article on Chris Rock's 2003 comedy about an alderman who unexpectedly becomes the first African-American presidential candidate.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fstate.html",
-    "image": "https://nitrateonline.com/images/fstate-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Article",
+            "headline": "Head of State",
+            "description": "Head of State — Feature article on Chris Rock's 2003 comedy about an alderman who unexpectedly becomes the first African-American presidential candidate.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fstate.html",
+            "image": "https://nitrateonline.com/images/fstate-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicholas Schager"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Nicholas Schager"
+            "@type": "Movie",
+            "name": "Head of State",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fstate-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Chris Rock"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Chris Rock"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bernie Mac"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dylan Baker"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nick Searcy"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lynn Whitfield"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "3 Arts Entertainment"
+            },
+            "duration": "PT95M",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0325537/"
         }
     ]
 }

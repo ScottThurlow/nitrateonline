@@ -38,24 +38,70 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Kill Bill Vol. 1",
-    "description": "Kill Bill Vol. 1 — Feature article on Quentin Tarantino's 2003 action film about a former assassin seeking revenge on her ex-colleagues.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fkillbillv1.html",
-    "image": "https://nitrateonline.com/images/fkillbillv1-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "KJ Doughton"
+            "@type": "Article",
+            "headline": "Kill Bill Vol. 1",
+            "description": "Kill Bill Vol. 1 — Feature article on Quentin Tarantino's 2003 action film about a former assassin seeking revenge on her ex-colleagues.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fkillbillv1.html",
+            "image": "https://nitrateonline.com/images/fkillbillv1-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "KJ Doughton"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Movie",
+            "name": "Kill Bill: Vol. 1",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fkillbillv1-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Quentin Tarantino"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Uma Thurman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lucy Liu"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vivica A. Fox"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Daryl Hannah"
+                },
+                {
+                    "@type": "Person",
+                    "name": "David Carradine"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Miramax"
+            },
+            "duration": "PT111M",
+            "genre": [
+                "Action",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0266697/"
         }
     ]
 }

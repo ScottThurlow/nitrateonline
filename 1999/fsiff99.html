@@ -38,24 +38,33 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "25th Seattle International Film Festival",
-    "description": "SIFF '99 - Nitrate Online takes you behind the scenes at the largest film festival in the U.S.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fsiff99.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Eddie Cockrell"
+            "@type": "Article",
+            "headline": "25th Seattle International Film Festival",
+            "description": "SIFF '99 - Nitrate Online takes you behind the scenes at the largest film festival in the U.S.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fsiff99.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Eddie Cockrell"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Carrie Gorringe"
+            "@type": "Movie",
+            "name": "25th Seattle International Film Festival",
+            "dateCreated": "1999"
         }
     ]
 }

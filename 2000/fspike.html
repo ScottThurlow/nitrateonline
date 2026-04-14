@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Spike and Mike's 2000 Classic Festival of Animation - Interview",
-    "description": "Spike and Mike - That's not all folks. Turn off your computers and head off to the theater now. Subvert yourselves.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fspike.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Elias Savada"
-    },
-    "datePublished": "13 October 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Spike and Mike's 2000 Classic Festival of Animation - Interview",
+            "description": "Spike and Mike - That's not all folks. Turn off your computers and head off to the theater now. Subvert yourselves.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fspike.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Elias Savada"
+            },
+            "datePublished": "13 October 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "Spike and Mike's 2000 Classic Festival of Animation - Interview",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,24 +38,72 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Importance of Being Earnest",
-    "description": "The Importance of Being Earnest",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fearnest.html",
-    "image": "https://nitrateonline.com/images/fearnest-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Elias Savada"
+            "@type": "Article",
+            "headline": "The Importance of Being Earnest",
+            "description": "The Importance of Being Earnest",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fearnest.html",
+            "image": "https://nitrateonline.com/images/fearnest-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Elias Savada"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gianni Truzzi"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Gianni Truzzi"
+            "@type": "Movie",
+            "name": "The Importance of Being Earnest",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fearnest-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Oliver Parker"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Rupert Everett"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Colin Firth"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Reese Witherspoon"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Judi Dench"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tom Wilkinson"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Ealing Studios"
+            },
+            "duration": "PT97M",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "History",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0278500/"
         }
     ]
 }

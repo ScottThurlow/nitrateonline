@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Amandla! - Interview with Lee Hirsch",
-    "description": "When I met first-time documentarian Lee Hirsch in Kansas City last October, he looked a bit tired.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/famandla.html",
-    "image": "https://nitrateonline.com/images/famandla-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "17 January 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Amandla! - Interview with Lee Hirsch",
+            "description": "When I met first-time documentarian Lee Hirsch in Kansas City last October, he looked a bit tired.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/famandla.html",
+            "image": "https://nitrateonline.com/images/famandla-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "17 January 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "Amandla",
+            "dateCreated": "2022",
+            "image": "https://nitrateonline.com/images/famandla-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Nerina de Jager"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Lemogang Tsipa"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Thabo Rametsi"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Thabiso Masoti"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bahle Hadebe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Israel Makoe"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "M4gic-J Entertainment"
+            },
+            "duration": "PT106M",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt5343008/"
+        }
+    ]
 }
   </script>
 </head>

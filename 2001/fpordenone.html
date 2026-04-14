@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Pordenone 2001",
-    "description": "Pordenone 2001 - Sean Axmaker reports from the screening rooms at the Pordenone Silent Film Festival in Sacile, Italy.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fpordenone.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Sean Axmaker"
-    },
-    "datePublished": "7 December 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Pordenone 2001",
+            "description": "Pordenone 2001 - Sean Axmaker reports from the screening rooms at the Pordenone Silent Film Festival in Sacile, Italy.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fpordenone.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Sean Axmaker"
+            },
+            "datePublished": "7 December 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Pordenone 2001",
+            "dateCreated": "2001"
+        }
+    ]
 }
   </script>
 </head>

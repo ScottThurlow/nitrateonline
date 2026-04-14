@@ -38,24 +38,70 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Harry Potter and the Chamber of Secrets",
-    "description": "Harry Potter and the Chamber of Secrets",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fharry.html",
-    "image": "https://nitrateonline.com/images/fharry-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "KJ Doughton"
+            "@type": "Article",
+            "headline": "Harry Potter and the Chamber of Secrets",
+            "description": "Harry Potter and the Chamber of Secrets",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fharry.html",
+            "image": "https://nitrateonline.com/images/fharry-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "KJ Doughton"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Movie",
+            "name": "Harry Potter and the Chamber of Secrets",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fharry-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Chris Columbus"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Daniel Radcliffe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rupert Grint"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Emma Watson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kenneth Branagh"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Toby Jones"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Warner Bros. Pictures"
+            },
+            "duration": "PT161M",
+            "genre": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0295297/"
         }
     ]
 }

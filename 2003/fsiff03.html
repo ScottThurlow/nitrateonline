@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "SIFF 2003",
-    "description": "SIFF 2003 - This year's Seattle International Film Festival can best be summed up in the phrase \"a victim of its own success.\"",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fsiff03.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "SIFF 2003",
+            "description": "SIFF 2003 - This year's Seattle International Film Festival can best be summed up in the phrase \"a victim of its own success.\"",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fsiff03.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "SIFF 2003",
+            "dateCreated": "2003"
+        }
+    ]
 }
   </script>
 </head>

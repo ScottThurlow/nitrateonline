@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "SIFF '99 - Films Caught ...",
-    "description": "SIFF '99 - Capsules of Films Caught at the 1999 Seattle International Film Festival",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fsiff99-2.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    },
-    "datePublished": "18 June 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "SIFF '99 - Films Caught ...",
+            "description": "SIFF '99 - Capsules of Films Caught at the 1999 Seattle International Film Festival",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fsiff99-2.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            },
+            "datePublished": "18 June 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "SIFF '99 - Films Caught ...",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

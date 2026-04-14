@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Waking Life - Interview with Richard Linklater",
-    "description": "Waking Life - Richard Linklater's movies feature lots of conversation, sometimes serving as plot, taking you places that you don't quite expect, then turning again. The writer-director of the groundbreaking Slacker discusses his animated film Waking Life.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fwaking.html",
-    "image": "https://nitrateonline.com/images/fwaking-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "2 November 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Waking Life - Interview with Richard Linklater",
+            "description": "Waking Life - Richard Linklater's movies feature lots of conversation, sometimes serving as plot, taking you places that you don't quite expect, then turning again. The writer-director of the groundbreaking Slacker discusses his animated film Waking Life.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fwaking.html",
+            "image": "https://nitrateonline.com/images/fwaking-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "2 November 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Waking Life",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fwaking-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Richard Linklater"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Wiley Wiggins"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Trevor Jack Brooks"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lorelei Linklater"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Glover Gill"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lara Hicks"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "IFC Productions"
+            },
+            "duration": "PT101M",
+            "genre": [
+                "Animation",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0243017/"
+        }
+    ]
 }
   </script>
 </head>

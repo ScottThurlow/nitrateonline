@@ -38,20 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Barbarian Invasions",
-    "description": "Denys Arcand's Oscar-winning sequel follows a dying intellectual and his estranged son who reunites old friends for a final gathering in a Montreal hospital.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fbarbarian.html",
-    "image": "https://nitrateonline.com/images/fbarbarian-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Barbarian Invasions",
+            "description": "Denys Arcand's Oscar-winning sequel follows a dying intellectual and his estranged son who reunites old friends for a final gathering in a Montreal hospital.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fbarbarian.html",
+            "image": "https://nitrateonline.com/images/fbarbarian-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "The Barbarian Invasions",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fbarbarian-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Denys Arcand"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Rémy Girard"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stéphane Rousseau"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Marie-Josée Croze"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorothée Berryman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Louise Portal"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Pyramide Productions"
+            },
+            "duration": "PT99M",
+            "genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0338135/"
+        }
+    ]
 }
   </script>
 </head>

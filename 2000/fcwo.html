@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "A Clockwork Orange Unbound",
-    "description": "Gregory Avery takes a look at A Clockwork Orange as it is released in the UK for the first time in 26 years.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fcwo.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "A Clockwork Orange Unbound",
+            "description": "Gregory Avery takes a look at A Clockwork Orange as it is released in the UK for the first time in 26 years.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fcwo.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "A Clockwork Orange Unbound",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

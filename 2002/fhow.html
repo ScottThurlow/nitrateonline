@@ -38,21 +38,54 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "James Wong How",
-    "description": "A well-earned retrospective of the work of master cinematographer James Wong Howe (1899-1976) was on display at this year's SIFF.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fhow.html",
-    "image": "https://nitrateonline.com/images/fhow-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    },
-    "datePublished": "11 June 2004"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "James Wong How",
+            "description": "A well-earned retrospective of the work of master cinematographer James Wong Howe (1899-1976) was on display at this year's SIFF.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fhow.html",
+            "image": "https://nitrateonline.com/images/fhow-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            },
+            "datePublished": "11 June 2004"
+        },
+        {
+            "@type": "Movie",
+            "name": "James Wong Howe: Cinematographer",
+            "dateCreated": "1973",
+            "image": "https://nitrateonline.com/images/fhow-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Arthur M. Kaye"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "James Wong Howe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Martin Ritt"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Davidson Films"
+            },
+            "duration": "PT21M",
+            "genre": [
+                "Documentary"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt6823376/"
+        }
+    ]
 }
   </script>
 </head>

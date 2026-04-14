@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Academy Awards - 68th Oscar Preview",
-    "description": "Academy Awards - There's only one word that adequately sums up the majority of this year's Oscar nominations: grim. True, the number of potential choices this year seemed unusually limited, but when a film about a talking pig can garner nine nominations, including Best Picture, no less, something is",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1996/foscar96.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Academy Awards - 68th Oscar Preview",
+            "description": "Academy Awards - There's only one word that adequately sums up the majority of this year's Oscar nominations: grim. True, the number of potential choices this year seemed unusually limited, but when a film about a talking pig can garner nine nominations, including Best Picture, no less, something is",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1996/foscar96.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Academy Awards - 68th Oscar Preview",
+            "dateCreated": "1996"
+        }
+    ]
 }
   </script>
 </head>

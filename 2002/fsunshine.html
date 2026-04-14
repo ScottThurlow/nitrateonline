@@ -38,21 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Sunshine State - Interview with John Sayles and Maggie Renzi",
-    "description": "Writer/editor/director John Sayles and producer/actor Maggie Renzi have been living their lives and making films together for a long time.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fsunshine.html",
-    "image": "https://nitrateonline.com/images/fsunshine-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "21 June 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Sunshine State - Interview with John Sayles and Maggie Renzi",
+            "description": "Writer/editor/director John Sayles and producer/actor Maggie Renzi have been living their lives and making films together for a long time.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fsunshine.html",
+            "image": "https://nitrateonline.com/images/fsunshine-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "21 June 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Sunshine State",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fsunshine-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "John Sayles"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Jane Alexander"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mary Alice"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Angela Bassett"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gordon Clapp"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bill Cobbs"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Anarchist's Convention Films"
+            },
+            "duration": "PT141M",
+            "genre": [
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0286179/"
+        }
+    ]
 }
   </script>
 </head>

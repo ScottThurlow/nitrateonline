@@ -38,24 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Biggie and Tupac",
-    "description": "Nick Broomfield's documentary investigating the murders of rappers Biggie Smalls and Tupac Shakur and their alleged connection to corrupt LAPD officers.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fbiggie.html",
-    "image": "https://nitrateonline.com/images/fbiggie-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Carrie Gorringe"
+            "@type": "Article",
+            "headline": "Biggie and Tupac",
+            "description": "Nick Broomfield's documentary investigating the murders of rappers Biggie Smalls and Tupac Shakur and their alleged connection to corrupt LAPD officers.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fbiggie.html",
+            "image": "https://nitrateonline.com/images/fbiggie-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Movie",
+            "name": "Who Killed Biggie and Tupac?",
+            "dateCreated": "2022",
+            "image": "https://nitrateonline.com/images/fbiggie-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Kim Duke"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Stephanie A. Frederic"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greg Kading"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Robert Ladd"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cathy Scott"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lil' Cease"
+                }
+            ],
+            "duration": "PT135M",
+            "genre": [
+                "Documentary",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt21801944/"
         }
     ]
 }

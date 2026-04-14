@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Academy Awards - 70th Academy Awards",
-    "description": "Academy Awards - Coverage of Annual Academy Awards",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1998/foscar98.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Academy Awards - 70th Academy Awards",
+            "description": "Academy Awards - Coverage of Annual Academy Awards",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1998/foscar98.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Academy Awards - 70th Academy Awards",
+            "dateCreated": "1998"
+        }
+    ]
 }
   </script>
 </head>

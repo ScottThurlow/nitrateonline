@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "1999 Toronto International Film Festival",
-    "description": "Toronto 99 - Nitrate Online brings you the latest from the screening rooms in Toronto",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/ftiff99.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Nitrate Productions"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "1999 Toronto International Film Festival",
+            "description": "Toronto 99 - Nitrate Online brings you the latest from the screening rooms in Toronto",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/ftiff99.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Nitrate Productions"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "1999 Toronto International Film Festival",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

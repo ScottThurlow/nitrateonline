@@ -38,21 +38,46 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Beckett on Film",
-    "description": "For the most part, the films in the Beckett on Film series (which have been brought out on home video in the U.S. by Ambrose Video this past fall) are splendid and have made the transition from stage to screen quite nicely.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fbeckett.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "13 December 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Beckett on Film",
+            "description": "For the most part, the films in the Beckett on Film series (which have been brought out on home video in the U.S. by Ambrose Video this past fall) are splendid and have made the transition from stage to screen quite nicely.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fbeckett.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "13 December 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Not I",
+            "dateCreated": "2000",
+            "director": {
+                "@type": "Person",
+                "name": "Neil Jordan"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Julianne Moore"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Tyrone Productions"
+            },
+            "duration": "PT14M",
+            "sameAs": "https://www.imdb.com/title/tt0282029/"
+        }
+    ]
 }
   </script>
 </head>

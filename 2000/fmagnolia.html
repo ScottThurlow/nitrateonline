@@ -38,21 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Magnolia",
-    "description": "Magnolia: It's a Weeping Movie - Paul Thomas Anderson describes his new film, Magnolia, in language that only seems simple",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fmagnolia.html",
-    "image": "https://nitrateonline.com/images/fmagnolia-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "7 January 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Magnolia",
+            "description": "Magnolia: It's a Weeping Movie - Paul Thomas Anderson describes his new film, Magnolia, in language that only seems simple",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fmagnolia.html",
+            "image": "https://nitrateonline.com/images/fmagnolia-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "7 January 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "That Moment: Magnolia Diary",
+            "dateCreated": "2000",
+            "image": "https://nitrateonline.com/images/fmagnolia-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Mark Rance"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Paul Thomas Anderson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Philip Seymour Hoffman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "William H. Macy"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Julianne Moore"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fiona Apple"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "New Line Home Entertainment"
+            },
+            "duration": "PT73M",
+            "genre": [
+                "Documentary"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0358205/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Sexy Beast - Interview with Ben Kingsley",
-    "description": "Sexy Beast - Ben Kingsley has a very proper, perfectly cadenced, and unmistakable voice. The fifty-eight-year-old actor discusses his role in the crime thriller Sexy Beast with Cynthia Fuchs.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fsexy.html",
-    "image": "https://nitrateonline.com/images/fsexy-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "13 July 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Sexy Beast - Interview with Ben Kingsley",
+            "description": "Sexy Beast - Ben Kingsley has a very proper, perfectly cadenced, and unmistakable voice. The fifty-eight-year-old actor discusses his role in the crime thriller Sexy Beast with Cynthia Fuchs.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fsexy.html",
+            "image": "https://nitrateonline.com/images/fsexy-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "13 July 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Sexy Beast",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fsexy-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Jonathan Glazer"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Ray Winstone"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ben Kingsley"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ian McShane"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Amanda Redman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "James Fox"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Recorded Picture Company"
+            },
+            "duration": "PT89M",
+            "genre": [
+                "Crime",
+                "Thriller",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0203119/"
+        }
+    ]
 }
   </script>
 </head>

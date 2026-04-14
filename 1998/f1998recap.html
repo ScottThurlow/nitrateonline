@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "1998 Top Ten",
-    "description": "Maybe that headline should be changed to read ten favorite movies: in a year where the return of the cool tough guy ran a distant second to lowest common denominator comedy in the hearts, minds and wallets of most American moviegoers, this list opts for the likes of Ronin and Out of Sight over There",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1998/f1998recap.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    },
-    "datePublished": "1 January 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "1998 Top Ten",
+            "description": "Maybe that headline should be changed to read ten favorite movies: in a year where the return of the cool tough guy ran a distant second to lowest common denominator comedy in the hearts, minds and wallets of most American moviegoers, this list opts for the likes of Ronin and Out of Sight over There",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1998/f1998recap.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            },
+            "datePublished": "1 January 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "1998 Top Ten",
+            "dateCreated": "1998"
+        }
+    ]
 }
   </script>
 </head>

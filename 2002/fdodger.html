@@ -38,21 +38,61 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Cat's Meow - Interview with Peter Bogdanovich",
-    "description": "A High-Wire Act - Interview with Peter Bogdanovich",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fdodger.html",
-    "image": "https://nitrateonline.com/images/fdodger-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "25 October 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Cat's Meow - Interview with Peter Bogdanovich",
+            "description": "A High-Wire Act - Interview with Peter Bogdanovich",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fdodger.html",
+            "image": "https://nitrateonline.com/images/fdodger-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "25 October 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "It Ain't As Easy As It Looks... (...a.k.a. the Making of 'The Cat's Meow')",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fdodger-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Sashy Bogdanovich"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Peter Bogdanovich"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Steven Peros"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Eddie Izzard"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kirsten Dunst"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cary Elwes"
+                }
+            ],
+            "duration": "PT20M",
+            "genre": [
+                "Documentary"
+            ]
+        }
+    ]
 }
   </script>
 </head>

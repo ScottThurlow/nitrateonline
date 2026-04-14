@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Italian Job - Interview with F. Gary Gray",
-    "description": "Remaking the delightfully droll 1968 caper film The Italian Job would seem career suicide for any filmmaker. It features an unforgettable chase involving Cooper Minis tearing through the scenic streets of Turin, Italy and a typically charming Michael Caine.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fitalian.html",
-    "image": "https://nitrateonline.com/images/fitalian-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "30 May 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Italian Job - Interview with F. Gary Gray",
+            "description": "Remaking the delightfully droll 1968 caper film The Italian Job would seem career suicide for any filmmaker. It features an unforgettable chase involving Cooper Minis tearing through the scenic streets of Turin, Italy and a typically charming Michael Caine.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fitalian.html",
+            "image": "https://nitrateonline.com/images/fitalian-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "30 May 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Italian Job",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fitalian-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "F. Gary Gray"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Mark Wahlberg"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Charlize Theron"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Edward Norton"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Seth Green"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jason Statham"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "De Line Pictures"
+            },
+            "duration": "PT110M",
+            "genre": [
+                "Action",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0317740/"
+        }
+    ]
 }
   </script>
 </head>

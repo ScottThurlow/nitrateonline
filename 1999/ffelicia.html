@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Felicia's Journey",
-    "description": "Felicia's Journey - Atom Egoyan speaks softly and carefully, in complex sentences. Unexpectedly, this makes our interview difficult, because we're stuck with a phone line that cuts in and out, so that our voices intersect and overlap. (\"Hello?\" \"Are you still there?\")",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/ffelicia.html",
-    "image": "https://nitrateonline.com/images/ffelicia-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "19 November 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Felicia's Journey",
+            "description": "Felicia's Journey - Atom Egoyan speaks softly and carefully, in complex sentences. Unexpectedly, this makes our interview difficult, because we're stuck with a phone line that cuts in and out, so that our voices intersect and overlap. (\"Hello?\" \"Are you still there?\")",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/ffelicia.html",
+            "image": "https://nitrateonline.com/images/ffelicia-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "19 November 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "Felicia's Journey",
+            "dateCreated": "1999",
+            "image": "https://nitrateonline.com/images/ffelicia-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Atom Egoyan"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Bob Hoskins"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Elaine Cassidy"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arsinée Khanjian"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peter McDonald"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gerard McSorley"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Alliance Atlantis"
+            },
+            "duration": "PT116M",
+            "genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0165773/"
+        }
+    ]
 }
   </script>
 </head>

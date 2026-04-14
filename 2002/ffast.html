@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Fast Runner - Interview with Zacharias Kunuk and Norman Cohn",
-    "description": "Cynthis Fuchs discusses The Fast Runner with Director/Producer/Writer Zacharias Kunuk and Norman Cohn",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/ffast.html",
-    "image": "https://nitrateonline.com/images/ffast-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "21 June 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Fast Runner - Interview with Zacharias Kunuk and Norman Cohn",
+            "description": "Cynthis Fuchs discusses The Fast Runner with Director/Producer/Writer Zacharias Kunuk and Norman Cohn",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/ffast.html",
+            "image": "https://nitrateonline.com/images/ffast-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "21 June 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Atanarjuat: The Fast Runner",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/ffast-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Zacharias Kunuk"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Natar Ungalaaq"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sylvia Ivalu"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peter-Henry Arnatsiaq"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lucy Tulugarjuk"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pakak Innuksuk"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Isuma Productions"
+            },
+            "duration": "PT172M",
+            "genre": [
+                "Fantasy",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0285441/"
+        }
+    ]
 }
   </script>
 </head>

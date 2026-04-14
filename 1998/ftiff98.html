@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "23rd Toronto International Film Festival",
-    "description": "TIFF '98 - Carrie Gorringe and Eddie Cockrell take you behind the scenes at Toronto International Film Festival.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1998/ftiff98.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Nitrate Productions"
-    },
-    "datePublished": "11 June 2004"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "23rd Toronto International Film Festival",
+            "description": "TIFF '98 - Carrie Gorringe and Eddie Cockrell take you behind the scenes at Toronto International Film Festival.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1998/ftiff98.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Nitrate Productions"
+            },
+            "datePublished": "11 June 2004"
+        },
+        {
+            "@type": "Movie",
+            "name": "23rd Toronto International Film Festival",
+            "dateCreated": "1998"
+        }
+    ]
 }
   </script>
 </head>

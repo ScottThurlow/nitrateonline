@@ -38,20 +38,72 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Taxi Driver",
-    "description": "Taxi Driver - In 1976, Martin Scorsese's Taxi Driver was released and became his first financially successful feature. Five years later, the film found itself in the unfortunate position of being swallowed whole by the controversy surrounding the link between would-be presidential assassin Hinckley ",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1997/ftaxi.html",
-    "image": "https://nitrateonline.com/images/ftaxi-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Taxi Driver",
+            "description": "Taxi Driver - In 1976, Martin Scorsese's Taxi Driver was released and became his first financially successful feature. Five years later, the film found itself in the unfortunate position of being swallowed whole by the controversy surrounding the link between would-be presidential assassin Hinckley ",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1997/ftaxi.html",
+            "image": "https://nitrateonline.com/images/ftaxi-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Taxi Driver",
+            "dateCreated": "1976",
+            "image": "https://nitrateonline.com/images/ftaxi-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Martin Scorsese"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Robert De Niro"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jodie Foster"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cybill Shepherd"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Harvey Keitel"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peter Boyle"
+                }
+            ],
+            "productionCompany": [
+                {
+                    "@type": "Organization",
+                    "name": "Italo"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Judeo Productions"
+                }
+            ],
+            "duration": "PT114M",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0075314/"
+        }
+    ]
 }
   </script>
 </head>

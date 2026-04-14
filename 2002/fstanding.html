@@ -38,21 +38,67 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Standing in the Shadows of Motown",
-    "description": "Dan Lybarger chats with Slutsky, Babbit, and Jones about the new film \"Standing in the Shadows of Motown.\"",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fstanding.html",
-    "image": "https://nitrateonline.com/images/fstanding-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "15 November 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Standing in the Shadows of Motown",
+            "description": "Dan Lybarger chats with Slutsky, Babbit, and Jones about the new film \"Standing in the Shadows of Motown.\"",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fstanding.html",
+            "image": "https://nitrateonline.com/images/fstanding-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "15 November 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Standing in the Shadows of Motown",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fstanding-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Paul Justman"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Richard 'Pistol' Allen"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jack Ashford"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bob Babbitt"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Benny 'Papa Zita' Benjamin"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Eddie 'Bongo' Brown"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Elliott Scott Productions"
+            },
+            "duration": "PT116M",
+            "genre": [
+                "Documentary",
+                "Music"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0314725/"
+        }
+    ]
 }
   </script>
 </head>

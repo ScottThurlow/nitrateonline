@@ -38,21 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Super Sucker - Interview with Jeff Daniels",
-    "description": "When I met first-time documentarian Lee Hirsch in Kansas City last October, he looked a bit tired.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fsucker.html",
-    "image": "https://nitrateonline.com/images/fsucker-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "24 January 2003"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Super Sucker - Interview with Jeff Daniels",
+            "description": "When I met first-time documentarian Lee Hirsch in Kansas City last October, he looked a bit tired.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fsucker.html",
+            "image": "https://nitrateonline.com/images/fsucker-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "24 January 2003"
+        },
+        {
+            "@type": "Movie",
+            "name": "Super Sucker",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/fsucker-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Jeff Daniels"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Jeff Daniels"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Matt Letscher"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Harve Presnell"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dawn Wells"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Guy Sanville"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Purple Rose Productions"
+            },
+            "duration": "PT93M",
+            "genre": [
+                "Comedy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0293624/"
+        }
+    ]
 }
   </script>
 </head>

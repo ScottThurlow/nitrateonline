@@ -38,21 +38,66 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Gosford Park - Conversation with Robert Altman",
-    "description": "In this year's voting by the Kansas City Film Critics Circle, hometown director Robert Altman lost out to The Lord of the Rings helmer Peter Jackson.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/f9queens.html",
-    "image": "https://nitrateonline.com/images/f9queens-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "19 April 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Gosford Park - Conversation with Robert Altman",
+            "description": "In this year's voting by the Kansas City Film Critics Circle, hometown director Robert Altman lost out to The Lord of the Rings helmer Peter Jackson.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/f9queens.html",
+            "image": "https://nitrateonline.com/images/f9queens-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "19 April 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Making of Gosford Park",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/f9queens-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Danny Miller"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Robert Altman"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Julian Fellowes"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Emily Watson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Alan Bates"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Eileen Atkins"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "KG Productions, Inc."
+            },
+            "duration": "PT20M",
+            "genre": [
+                "Documentary"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0338223/"
+        }
+    ]
 }
   </script>
 </head>

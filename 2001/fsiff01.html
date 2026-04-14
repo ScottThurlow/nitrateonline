@@ -38,24 +38,33 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "SIFF 2001",
-    "description": "SIFF 2000 - Carrie Gorringe and KJ Doughton bring you the latest from the screening rooms in Seattle.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fsiff01.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "KJ Doughton"
+            "@type": "Article",
+            "headline": "SIFF 2001",
+            "description": "SIFF 2000 - Carrie Gorringe and KJ Doughton bring you the latest from the screening rooms in Seattle.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fsiff01.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "KJ Doughton"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Carrie Gorringe"
+            "@type": "Movie",
+            "name": "SIFF 2001",
+            "dateCreated": "2001"
         }
     ]
 }

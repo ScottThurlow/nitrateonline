@@ -38,7 +38,24 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Movie",
+        "name": "Jazz",
+        "dateCreated": "2001",
+        "image": "https://nitrateonline.com/images/rjazz-poster.jpg",
+        "director": {
+            "@type": "Person",
+            "name": "Ken Burns"
+        },
+        "productionCompany": {
+            "@type": "Organization",
+            "name": "PBS"
+        },
+        "genre": [
+            "Documentary"
+        ]
+    },
     "headline": "Jazz",
     "description": "Jazz - Within seventeen-and-a-half hours, Ken Burns provides a fascinating, basic, primer for this impeccable and uniquely American art form.",
     "publisher": {
@@ -52,8 +69,8 @@
         "@type": "Person",
         "name": "Gregory Avery"
     },
-    "datePublished": "5 January
-            2001"
+    "datePublished": "5 January             2001",
+    "name": "Jazz"
 }
   </script>
 </head>

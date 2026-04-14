@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "D.W. Griffith - The Scourging",
-    "description": "DW Griffith - When the Directors' Guild of America announces their annual award nominations on January 24, there will be one name that will not be among them.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fgriffith.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "21 January 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "D.W. Griffith - The Scourging",
+            "description": "DW Griffith - When the Directors' Guild of America announces their annual award nominations on January 24, there will be one name that will not be among them.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fgriffith.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "21 January 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "D.W. Griffith - The Scourging",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

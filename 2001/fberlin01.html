@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Berlin Gets Intimate - 51st Berlin International Film Festival",
-    "description": "Berlin Film Festival - Director Patrice Chereaus sexually explicit drama Intimacy won the Golden Berlin Bear for best film from the International Jury of the fifty-first International Filmfestspiele Berlin this afternoon, besting Steven Soderberghs odds-on favorite Traffic and such other Hollywood",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fberlin01.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Berlin Gets Intimate - 51st Berlin International Film Festival",
+            "description": "Berlin Film Festival - Director Patrice Chereaus sexually explicit drama Intimacy won the Golden Berlin Bear for best film from the International Jury of the fifty-first International Filmfestspiele Berlin this afternoon, besting Steven Soderberghs odds-on favorite Traffic and such other Hollywood",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fberlin01.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Berlin Gets Intimate - 51st Berlin International Film Festival",
+            "dateCreated": "2001"
+        }
+    ]
 }
   </script>
 </head>

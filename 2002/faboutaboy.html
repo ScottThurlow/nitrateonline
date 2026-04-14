@@ -38,28 +38,71 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "About a Boy",
-    "description": "About a Boy — Feature article on the 2002 film starring Hugh Grant, based on Nick Hornby's novel about a commitment-phobic man befriending a troubled boy.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/faboutaboy.html",
-    "image": "https://nitrateonline.com/images/faboutaboy-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Article",
+            "headline": "About a Boy",
+            "description": "About a Boy — Feature article on the 2002 film starring Hugh Grant, based on Nick Hornby's novel about a commitment-phobic man befriending a troubled boy.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/faboutaboy.html",
+            "image": "https://nitrateonline.com/images/faboutaboy-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gregory Avery"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Carrie Gorringe"
-        },
-        {
-            "@type": "Person",
-            "name": "Gregory Avery"
+            "@type": "Movie",
+            "name": "About a Boy",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/faboutaboy-poster.jpg",
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Hugh Grant"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicholas Hoult"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Toni Collette"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rachel Weisz"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Natalia Tena"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Universal Pictures"
+            },
+            "duration": "PT101M",
+            "genre": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0276751/"
         }
     ]
 }

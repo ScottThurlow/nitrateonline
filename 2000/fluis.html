@@ -38,22 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Films of Luis Buñuel",
-    "description": "The Films of Luis Buñuel - The Seattle Art Museums film series features Buñuel classics, rare films from his exile years in Mexico and his later work when he worked with the legendary Catherine Deneuve and Fernando Rey.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fluis.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Patty-Lynne Herlevi"
-    },
-    "datePublished": "14 April
-2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Films of Luis Buñuel",
+            "description": "The Films of Luis Buñuel - The Seattle Art Museums film series features Buñuel classics, rare films from his exile years in Mexico and his later work when he worked with the legendary Catherine Deneuve and Fernando Rey.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fluis.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Patty-Lynne Herlevi"
+            },
+            "datePublished": "14 April 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Films of Luis Buñuel",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

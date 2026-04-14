@@ -38,24 +38,71 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Insomnia",
-    "description": "Insomnia — A feature article on Christopher Nolan's 2002 thriller starring Al Pacino and Robin Williams as a killer, a noble nail-biter that blurs the lines between trusted cop and conniving criminal.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/finsomnia.html",
-    "image": "https://nitrateonline.com/images/finsomnia-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Elias Savada"
+            "@type": "Article",
+            "headline": "Insomnia",
+            "description": "Insomnia — A feature article on Christopher Nolan's 2002 thriller starring Al Pacino and Robin Williams as a killer, a noble nail-biter that blurs the lines between trusted cop and conniving criminal.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/finsomnia.html",
+            "image": "https://nitrateonline.com/images/finsomnia-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Elias Savada"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gregory Avery"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Gregory Avery"
+            "@type": "Movie",
+            "name": "Insomnia",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/finsomnia-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Christopher Nolan"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Al Pacino"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Robin Williams"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hilary Swank"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Martin Donovan"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicky Katt"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Alcon Entertainment"
+            },
+            "duration": "PT118M",
+            "genre": [
+                "Thriller",
+                "Crime",
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0278504/"
         }
     ]
 }

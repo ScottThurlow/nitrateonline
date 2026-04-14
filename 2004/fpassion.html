@@ -38,20 +38,65 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Passion of the Christ",
-    "description": "The Passion of the Christ — Feature article on Mel Gibson's 2004 film depicting the last hours of Jesus Christ, a controversial and powerful cinematic experience.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2004/fpassion.html",
-    "image": "https://nitrateonline.com/images/fpassion-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Passion of the Christ",
+            "description": "The Passion of the Christ — Feature article on Mel Gibson's 2004 film depicting the last hours of Jesus Christ, a controversial and powerful cinematic experience.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2004/fpassion.html",
+            "image": "https://nitrateonline.com/images/fpassion-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "The Passion of the Christ",
+            "dateCreated": "2004",
+            "image": "https://nitrateonline.com/images/fpassion-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Mel Gibson"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Jim Caviezel"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Maia Morgenstern"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Christo Jivkov"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Francesco De Vito"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Monica Bellucci"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Icon Productions"
+            },
+            "duration": "PT127M",
+            "genre": [
+                "Drama"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0335345/"
+        }
+    ]
 }
   </script>
 </head>

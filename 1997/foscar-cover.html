@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Academy Awards - 69th Oscar Awards",
-    "description": "Nitrate Online's coverage of the 69th Academy Awards, featuring predictions, analysis, and reaction to Oscar night 1997.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1997/foscar-cover.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Academy Awards - 69th Oscar Awards",
+            "description": "Nitrate Online's coverage of the 69th Academy Awards, featuring predictions, analysis, and reaction to Oscar night 1997.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1997/foscar-cover.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Academy Awards - 69th Oscar Awards",
+            "dateCreated": "1997"
+        }
+    ]
 }
   </script>
 </head>

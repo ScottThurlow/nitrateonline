@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "73nd Academy Awards (Oscars)",
-    "description": "Coverage of 2001 Academy Awards",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/foscar01.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Eddie Cockrell"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "73nd Academy Awards (Oscars)",
+            "description": "Coverage of 2001 Academy Awards",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/foscar01.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Eddie Cockrell"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "73nd Academy Awards (Oscars)",
+            "dateCreated": "2001"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,20 +38,36 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Heavy Metal Parking Lot",
-    "description": "Heavy Metal Parking Lot — Feature article on John Heyn and Jeff Krulik's cult 1986 documentary filmed in a parking lot before a Judas Priest concert.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/fheavy.html",
-    "image": "https://nitrateonline.com/images/fheavy-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "KJ Doughton"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Heavy Metal Parking Lot",
+            "description": "Heavy Metal Parking Lot — Feature article on John Heyn and Jeff Krulik's cult 1986 documentary filmed in a parking lot before a Judas Priest concert.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/fheavy.html",
+            "image": "https://nitrateonline.com/images/fheavy-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "KJ Doughton"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Heavy Metal Parking Lot",
+            "dateCreated": "1986",
+            "image": "https://nitrateonline.com/images/fheavy-poster.jpg",
+            "duration": "PT17M",
+            "genre": [
+                "Documentary",
+                "Music"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0322526/"
+        }
+    ]
 }
   </script>
 </head>

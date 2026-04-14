@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Cannes Film Festival",
-    "description": "Gregory Avery takes a look at the Cannes Film Festival. Follow the links below ...",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fcannes.html",
-    "image": "https://nitrateonline.com/images/fcannes-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "5 May 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Cannes Film Festival",
+            "description": "Gregory Avery takes a look at the Cannes Film Festival. Follow the links below ...",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fcannes.html",
+            "image": "https://nitrateonline.com/images/fcannes-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "5 May 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "Murder at the Cannes Film Festival",
+            "dateCreated": "2000",
+            "image": "https://nitrateonline.com/images/fcannes-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Harvey Frost"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "French Stewart"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Karina Lombard"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Michael Lerner"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jay Brazeau"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brian George"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Exclamation Productions"
+            },
+            "duration": "PT100M",
+            "genre": [
+                "Comedy",
+                "Mystery",
+                "TV Movie"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0245301/"
+        }
+    ]
 }
   </script>
 </head>

@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Cinefest 98",
-    "description": "Cinefest 98 - I've been wrangling with my approach to this final piece documenting the 18th annual Cinefest I attended last weekend in Syracuse, New York. Procrastination is, regrettably, one of my finer points. I did, after all, have tons of spam I had to answer.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1997/fcinefest18-2.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Elias Savada"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Cinefest 98",
+            "description": "Cinefest 98 - I've been wrangling with my approach to this final piece documenting the 18th annual Cinefest I attended last weekend in Syracuse, New York. Procrastination is, regrettably, one of my finer points. I did, after all, have tons of spam I had to answer.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1997/fcinefest18-2.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Elias Savada"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Cinefest 98",
+            "dateCreated": "1997"
+        }
+    ]
 }
   </script>
 </head>

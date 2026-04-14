@@ -38,24 +38,71 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Lost in Translation",
-    "description": "Lost in Translation — Feature article on Sofia Coppola's 2003 film about an unlikely friendship between two Americans adrift in Tokyo, starring Bill Murray and Scarlett Johansson.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/flost.html",
-    "image": "https://nitrateonline.com/images/flost-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Article",
+            "headline": "Lost in Translation",
+            "description": "Lost in Translation — Feature article on Sofia Coppola's 2003 film about an unlikely friendship between two Americans adrift in Tokyo, starring Bill Murray and Scarlett Johansson.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/flost.html",
+            "image": "https://nitrateonline.com/images/flost-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Elias Savada"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Elias Savada"
+            "@type": "Movie",
+            "name": "Lost in Translation",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/flost-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Sofia Coppola"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Bill Murray"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Scarlett Johansson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Giovanni Ribisi"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Anna Faris"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Akiko Takeshita"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "American Zoetrope"
+            },
+            "duration": "PT102M",
+            "genre": [
+                "Drama",
+                "Comedy",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0335266/"
         }
     ]
 }

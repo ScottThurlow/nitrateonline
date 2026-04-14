@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "SIFF '96 - Women's Lot and the Movie Auction",
-    "description": "SIFF '96 - Another special feature of SIFF is the annual poster auction, which was held this past Sunday. Festival Director MacDonald and company bring back selections, many of them rarities, from their many travels throughout the year and offer them up at this benefit event for SIFF. Auctioneer Ken",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1996/fsiff96-4.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "SIFF '96 - Women's Lot and the Movie Auction",
+            "description": "SIFF '96 - Another special feature of SIFF is the annual poster auction, which was held this past Sunday. Festival Director MacDonald and company bring back selections, many of them rarities, from their many travels throughout the year and offer them up at this benefit event for SIFF. Auctioneer Ken",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1996/fsiff96-4.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "SIFF '96 - Women's Lot and the Movie Auction",
+            "dateCreated": "1996"
+        }
+    ]
 }
   </script>
 </head>

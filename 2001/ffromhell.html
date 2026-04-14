@@ -38,21 +38,64 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "From Hell",
-    "description": "From Hell — A feature article on the 2001 horror film From Hell, starring Johnny Depp, directed by the Hughes Brothers, based on Alan Moore's graphic novel about Jack the Ripper.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/ffromhell.html",
-    "image": "https://nitrateonline.com/images/ffromhell-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Joe Barlow"
-    },
-    "datePublished": "11 June 2004"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "From Hell",
+            "description": "From Hell — A feature article on the 2001 horror film From Hell, starring Johnny Depp, directed by the Hughes Brothers, based on Alan Moore's graphic novel about Jack the Ripper.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/ffromhell.html",
+            "image": "https://nitrateonline.com/images/ffromhell-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Joe Barlow"
+            },
+            "datePublished": "11 June 2004"
+        },
+        {
+            "@type": "Movie",
+            "name": "From Hell",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/ffromhell-poster.jpg",
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Johnny Depp"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Heather Graham"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ian Holm"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Robbie Coltrane"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ian Richardson"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Underworld Pictures"
+            },
+            "duration": "PT122M",
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0120681/"
+        }
+    ]
 }
   </script>
 </head>

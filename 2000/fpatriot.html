@@ -38,21 +38,69 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "The Patriot - Interview with Jason Isaacs",
-    "description": "The Patriot - Jason Isaacs has a kind of energy that you don't see every day. He's certainly enthusiastic  he likes his work, which is acting on stage and in movies, and he likes the traveling that goes with it, which he's doing presently to promote The Patriot, in which he co-stars with Mel Gibson",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fpatriot.html",
-    "image": "https://nitrateonline.com/images/fpatriot-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Cynthia Fuchs"
-    },
-    "datePublished": "7 July 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "The Patriot - Interview with Jason Isaacs",
+            "description": "The Patriot - Jason Isaacs has a kind of energy that you don't see every day. He's certainly enthusiastic  he likes his work, which is acting on stage and in movies, and he likes the traveling that goes with it, which he's doing presently to promote The Patriot, in which he co-stars with Mel Gibson",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fpatriot.html",
+            "image": "https://nitrateonline.com/images/fpatriot-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Fuchs"
+            },
+            "datePublished": "7 July 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "The Patriot",
+            "dateCreated": "2000",
+            "image": "https://nitrateonline.com/images/fpatriot-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Roland Emmerich"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Mel Gibson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Heath Ledger"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Joely Richardson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jason Isaacs"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chris Cooper"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Columbia Pictures"
+            },
+            "duration": "PT165M",
+            "genre": [
+                "Drama",
+                "History",
+                "War",
+                "Action"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0187393/"
+        }
+    ]
 }
   </script>
 </head>

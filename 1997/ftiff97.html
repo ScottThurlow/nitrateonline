@@ -38,24 +38,33 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "22nd Toronto International Film Festival",
-    "description": "TIFF '97 - Carrie Gorringe and Eddie Cockrell take you behind the scenes at Toronto International Film Festival.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1997/ftiff97.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Eddie Cockrell"
+            "@type": "Article",
+            "headline": "22nd Toronto International Film Festival",
+            "description": "TIFF '97 - Carrie Gorringe and Eddie Cockrell take you behind the scenes at Toronto International Film Festival.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1997/ftiff97.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Eddie Cockrell"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carrie Gorringe"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Carrie Gorringe"
+            "@type": "Movie",
+            "name": "22nd Toronto International Film Festival",
+            "dateCreated": "1997"
         }
     ]
 }

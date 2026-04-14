@@ -38,20 +38,29 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Hitchcock at 100: His Best Work",
-    "description": "Hitchcock at 100 - Hitchcock did most of his best work in the Forties while on-loan to other studios. Notorious was one picture where he, the writer Ben Hecht, and Ingrid Bergman were \"packaged\" by Selznick, then \"sold\" to RKO., where the movie was made.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/fhitch100-3.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Hitchcock at 100: His Best Work",
+            "description": "Hitchcock at 100 - Hitchcock did most of his best work in the Forties while on-loan to other studios. Notorious was one picture where he, the writer Ben Hecht, and Ingrid Bergman were \"packaged\" by Selznick, then \"sold\" to RKO., where the movie was made.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/fhitch100-3.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "Hitchcock at 100: His Best Work",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

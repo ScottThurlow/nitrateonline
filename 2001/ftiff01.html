@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "TIFF 2001",
-    "description": "TIFF 2001 - For all of the wonderful cinematic moments at the 2001 Toronto International Film Festival, it will probably be remembered, unfortunately, more as a time of misery.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/ftiff01.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    },
-    "datePublished": "21 September 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "TIFF 2001",
+            "description": "TIFF 2001 - For all of the wonderful cinematic moments at the 2001 Toronto International Film Festival, it will probably be remembered, unfortunately, more as a time of misery.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/ftiff01.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            },
+            "datePublished": "21 September 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "TIFF 2001",
+            "dateCreated": "2001"
+        }
+    ]
 }
   </script>
 </head>

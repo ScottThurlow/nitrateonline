@@ -38,24 +38,71 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Intolerable Cruelty",
-    "description": "Intolerable Cruelty — Feature article on the Coen Brothers' 2003 romantic comedy starring George Clooney as a divorce attorney and Catherine Zeta-Jones.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2003/fcruelty.html",
-    "image": "https://nitrateonline.com/images/fcruelty-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Gregory Avery"
+            "@type": "Article",
+            "headline": "Intolerable Cruelty",
+            "description": "Intolerable Cruelty — Feature article on the Coen Brothers' 2003 romantic comedy starring George Clooney as a divorce attorney and Catherine Zeta-Jones.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2003/fcruelty.html",
+            "image": "https://nitrateonline.com/images/fcruelty-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Gregory Avery"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nicholas Schager"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Nicholas Schager"
+            "@type": "Movie",
+            "name": "Intolerable Cruelty",
+            "dateCreated": "2003",
+            "image": "https://nitrateonline.com/images/fcruelty-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Joel Coen"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "George Clooney"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Catherine Zeta-Jones"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Geoffrey Rush"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cedric the Entertainer"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Edward Herrmann"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Universal Pictures"
+            },
+            "duration": "PT100M",
+            "genre": [
+                "Comedy",
+                "Romance",
+                "Crime"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0138524/"
         }
     ]
 }

@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Cannes Film Festival - Festival History",
-    "description": "Cannes - For several weeks, I kept checking my mailbox to see if my invitation to sit on the jury for the 53rd Cannes Film Festival had arrived, yet. Alas! it failed to materialize. But I still figured that, with Luc Besson serving as jury president this year, anything could happen. And may still.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2000/fcannes-1.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Gregory Avery"
-    },
-    "datePublished": "5 May 2000"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Cannes Film Festival - Festival History",
+            "description": "Cannes - For several weeks, I kept checking my mailbox to see if my invitation to sit on the jury for the 53rd Cannes Film Festival had arrived, yet. Alas! it failed to materialize. But I still figured that, with Luc Besson serving as jury president this year, anything could happen. And may still.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2000/fcannes-1.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Avery"
+            },
+            "datePublished": "5 May 2000"
+        },
+        {
+            "@type": "Movie",
+            "name": "Cannes Film Festival - Festival History",
+            "dateCreated": "2000"
+        }
+    ]
 }
   </script>
 </head>

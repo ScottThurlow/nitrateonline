@@ -38,24 +38,71 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Unfaithful",
-    "description": "Unfaithful — Feature article on Adrian Lyne's 2002 thriller about a suburban wife who has an affair with a stranger, starring Diane Lane and Richard Gere.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/funfaithful.html",
-    "image": "https://nitrateonline.com/images/funfaithful-poster.jpg",
-    "author": [
+    "@graph": [
         {
-            "@type": "Person",
-            "name": "Paula Nechak"
+            "@type": "Article",
+            "headline": "Unfaithful",
+            "description": "Unfaithful — Feature article on Adrian Lyne's 2002 thriller about a suburban wife who has an affair with a stranger, starring Diane Lane and Richard Gere.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/funfaithful.html",
+            "image": "https://nitrateonline.com/images/funfaithful-poster.jpg",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Paula Nechak"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cynthia Fuchs"
+                }
+            ]
         },
         {
-            "@type": "Person",
-            "name": "Cynthia Fuchs"
+            "@type": "Movie",
+            "name": "Unfaithful",
+            "dateCreated": "2002",
+            "image": "https://nitrateonline.com/images/funfaithful-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Adrian Lyne"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Richard Gere"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Diane Lane"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Olivier Martinez"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Erik Per Sullivan"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Željko Ivanek"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Fox 2000 Pictures"
+            },
+            "duration": "PT124M",
+            "genre": [
+                "Thriller",
+                "Drama",
+                "Romance"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0250797/"
         }
     ]
 }

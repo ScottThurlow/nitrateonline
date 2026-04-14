@@ -38,21 +38,68 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Dagon - Interview with Stuart Gordon",
-    "description": "KJ Doughton talks with Stuart Gordon at the Seattle premiere of his new film, Dagon.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2002/fdagon.html",
-    "image": "https://nitrateonline.com/images/fdagon-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "KJ Doughton"
-    },
-    "datePublished": "21 June 2002"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Dagon - Interview with Stuart Gordon",
+            "description": "KJ Doughton talks with Stuart Gordon at the Seattle premiere of his new film, Dagon.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2002/fdagon.html",
+            "image": "https://nitrateonline.com/images/fdagon-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "KJ Doughton"
+            },
+            "datePublished": "21 June 2002"
+        },
+        {
+            "@type": "Movie",
+            "name": "Dagon",
+            "dateCreated": "2001",
+            "image": "https://nitrateonline.com/images/fdagon-poster.jpg",
+            "director": {
+                "@type": "Person",
+                "name": "Stuart Gordon"
+            },
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Ezra Godden"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Francisco Rabal"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Raquel Meroño"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Macarena Gómez"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brendan Price"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Castelao Productions"
+            },
+            "duration": "PT95M",
+            "genre": [
+                "Fantasy",
+                "Horror",
+                "Thriller"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0264508/"
+        }
+    ]
 }
   </script>
 </head>

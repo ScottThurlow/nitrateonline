@@ -38,21 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "TIFF 99 - Toronto's Best",
-    "description": "Toronto 99 - Carrie Gorringe takes you into the screening rooms of the Toronto International Film Festival.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1999/ftiff99-1.html",
-    "image": "https://nitrateonline.com/images/og-default.png",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    },
-    "datePublished": "10 October 1999"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "TIFF 99 - Toronto's Best",
+            "description": "Toronto 99 - Carrie Gorringe takes you into the screening rooms of the Toronto International Film Festival.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1999/ftiff99-1.html",
+            "image": "https://nitrateonline.com/images/og-default.png",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            },
+            "datePublished": "10 October 1999"
+        },
+        {
+            "@type": "Movie",
+            "name": "TIFF 99 - Toronto's Best",
+            "dateCreated": "1999"
+        }
+    ]
 }
   </script>
 </head>

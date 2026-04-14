@@ -38,21 +38,73 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Aardman Vs. Bolex - Interview with Dave Borthwick and Alex Riddett",
-    "description": "Aardman Vs. Bolex: Bristol, England is blessed with two of the finest animation studios in the world: Bolex Brothers and Aardman. The two have created 3-D stop-motion cartoons that push the media into new and fascinating directions, even if the products from the two shops could not be more diverse.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/2001/faardman.html",
-    "image": "https://nitrateonline.com/images/faardman-poster.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Dan Lybarger"
-    },
-    "datePublished": "26 October 2001"
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Aardman Vs. Bolex - Interview with Dave Borthwick and Alex Riddett",
+            "description": "Aardman Vs. Bolex: Bristol, England is blessed with two of the finest animation studios in the world: Bolex Brothers and Aardman. The two have created 3-D stop-motion cartoons that push the media into new and fascinating directions, even if the products from the two shops could not be more diverse.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/2001/faardman.html",
+            "image": "https://nitrateonline.com/images/faardman-poster.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Lybarger"
+            },
+            "datePublished": "26 October 2001"
+        },
+        {
+            "@type": "Movie",
+            "name": "Chicken Run",
+            "dateCreated": "2000",
+            "image": "https://nitrateonline.com/images/faardman-poster.jpg",
+            "director": [
+                {
+                    "@type": "Person",
+                    "name": "Peter Lord"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nick Park"
+                }
+            ],
+            "actor": [
+                {
+                    "@type": "Person",
+                    "name": "Julia Sawalha"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mel Gibson"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Imelda Staunton"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jane Horrocks"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lynn Ferguson"
+                }
+            ],
+            "productionCompany": {
+                "@type": "Organization",
+                "name": "Aardman Animations"
+            },
+            "duration": "PT84M",
+            "genre": [
+                "Animation",
+                "Comedy"
+            ],
+            "sameAs": "https://www.imdb.com/title/tt0120630/"
+        }
+    ]
 }
   </script>
 </head>

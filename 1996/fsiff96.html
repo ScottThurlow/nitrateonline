@@ -38,20 +38,30 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "22nd Seattle International Film Festival",
-    "description": "SIFF '96 - Carrie Gorringe brings you the latest from the screening rooms of the 22nd Seattle International Film Festival.",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Nitrate Online",
-        "url": "https://nitrateonline.com/"
-    },
-    "url": "https://nitrateonline.com/1996/fsiff96.html",
-    "image": "https://nitrateonline.com/images/fsiff96-6.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Carrie Gorringe"
-    }
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "22nd Seattle International Film Festival",
+            "description": "SIFF '96 - Carrie Gorringe brings you the latest from the screening rooms of the 22nd Seattle International Film Festival.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Nitrate Online",
+                "url": "https://nitrateonline.com/"
+            },
+            "url": "https://nitrateonline.com/1996/fsiff96.html",
+            "image": "https://nitrateonline.com/images/fsiff96-6.jpg",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie Gorringe"
+            }
+        },
+        {
+            "@type": "Movie",
+            "name": "22nd Seattle International Film Festival",
+            "dateCreated": "1996",
+            "image": "https://nitrateonline.com/images/fsiff96-6.jpg"
+        }
+    ]
 }
   </script>
 </head>
