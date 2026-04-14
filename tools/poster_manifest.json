@@ -2991,5 +2991,23 @@
     "poster_path": "/nfdfU9tYsEnjlFGoY2HabFMdHLi.jpg",
     "file": "ftwisted-poster.jpg",
     "status": "fetched"
+  },
+  "rblast": {
+    "title": "Blast From the Past",
+    "year": 1999,
+    "tmdb_id": 11622,
+    "tmdb_title": "Blast from the Past",
+    "poster_path": "/qVN4bbVX2tzaNbAdEJT5eOPq26c.jpg",
+    "file": "rblast-poster.jpg",
+    "status": "fetched"
+  },
+  "rdancing": {
+    "title": "Dirty Dancing: Havana Nights",
+    "year": 2004,
+    "tmdb_id": 10677,
+    "tmdb_title": "Dirty Dancing: Havana Nights",
+    "poster_path": "/5FnSCH592YIivbKtotq7YQanvmu.jpg",
+    "file": "rdancing-poster.jpg",
+    "status": "fetched"
   }
 }
