@@ -94,6 +94,12 @@ FIXES = [
     # 2004
     ('2004/rbaby.html', "My Baby's Daddy", 2004),
     # 2004/rfight.html — "Fight Circle" ultra-low-budget online film, not on TMDB, skip
+    # Round 2 fixes
+    ('2002/rmetropolis.html', 'Metropolis', 2001),  # Anime version, not "Leaving Metropolis"
+    ('2000/r28days.html', '28 Days', 2000),  # Sandra Bullock film, not "Making of 28 Days Later"
+    ('2003/fdevil.html', 'Devil Talk', 2003),  # Illeana Douglas short film
+    # 2003/rdominoes.html — indie Seattle film "Dominoes" by Cole Drumb, not on TMDB
+    # 2003/rproof.html — "The Naked Proof" documentary, not on TMDB
 ]
 
 
