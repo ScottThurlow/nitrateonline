@@ -33,6 +33,7 @@ Outputs:
 
 import argparse
 import glob
+import html
 import json
 import os
 import re
@@ -111,8 +112,8 @@ def download_image(url, dest_path):
         return False
 
 
-def find_review_files(single_file=None):
-    """Find all review HTML files."""
+def find_review_files(single_file=None, include_features=False):
+    """Find all review (and optionally feature) HTML files."""
     if single_file:
         path = os.path.join(ROOT, single_file)
         if os.path.exists(path):
@@ -124,6 +125,10 @@ def find_review_files(single_file=None):
     for year_dir in sorted(glob.glob(os.path.join(ROOT, '[12][0-9][0-9][0-9]'))):
         for f in sorted(glob.glob(os.path.join(year_dir, 'r*.html'))):
             files.append(f)
+        if include_features:
+            for f in sorted(glob.glob(os.path.join(year_dir, 'f*.html'))):
+                if not f.endswith('index.html'):
+                    files.append(f)
     return files
 
 
@@ -181,14 +186,27 @@ def clean_title(title):
     if not title:
         return ''
 
+    # Decode HTML entities (&#x27; -> ', &amp; -> &, etc.)
+    title = html.unescape(title)
+
     # Remove common suffixes added by the site
     title = re.sub(r'\s*[-–—]\s*Nitrate Online\s*$', '', title, flags=re.I)
+    title = re.sub(r'\s*[-–—]\s*Nitrate Online (Review|Feature|Interview)\s*$', '', title, flags=re.I)
+
+    # Remove "Review: " or "Feature: " prefixes
+    title = re.sub(r'^(?:Review|Feature|Interview):\s*', '', title, flags=re.I)
 
     # Remove parenthetical year references
     title = re.sub(r'\s*\(\d{4}\)\s*', ' ', title)
 
     # Remove "A Film by..." or "Directed by..." suffixes
     title = re.sub(r'\s*[-–—:]\s*(?:A Film|Directed)\s+by.*$', '', title, flags=re.I)
+
+    # Remove interview/feature suffixes like "- Interview with ..."
+    title = re.sub(r'\s*[-–—]\s*(?:Interview|Conversation|A Few Minutes|Q&A)\s+with.*$', '', title, flags=re.I)
+
+    # Remove "Nitate" typo variant
+    title = re.sub(r'\s*[-–—]\s*Nitate Online.*$', '', title, flags=re.I)
 
     return title.strip()
 
@@ -290,6 +308,8 @@ def main():
                         help='Verbose output')
     parser.add_argument('--limit', type=int, default=0,
                         help='Limit number of downloads (0 = unlimited)')
+    parser.add_argument('--include-features', action='store_true',
+                        help='Also process feature files (f*.html)')
     args = parser.parse_args()
 
     if not args.dry_run:
@@ -298,7 +318,7 @@ def main():
         api_key = os.environ.get('TMDB_API_KEY', 'dry-run')
 
     # Find review files
-    files = find_review_files(args.file)
+    files = find_review_files(args.file, include_features=args.include_features)
     print(f"Found {len(files)} review files")
 
     # Load existing manifest

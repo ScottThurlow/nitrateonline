@@ -16,7 +16,18 @@
       "Bash(git -C /Users/scott/Code/nitrateonline status --short)",
       "Bash(git branch:*)",
       "Bash(grep -E '^[rf][a-z].*\\\\.html?$')",
-      "Bash(grep -E '^[rf].*\\\\.html?$')"
+      "Bash(grep -E '^[rf].*\\\\.html?$')",
+      "Bash(grep -i \"favicon\\\\|\\\\.ico$\")",
+      "Bash(sips -g all /dev/stdin)",
+      "Bash(sips -g pixelWidth -g pixelHeight /tmp/banner.gif)",
+      "Bash(rsvg-convert -w 250 -h 260 /Users/scott/Code/nitrateonline/tools/logo-250x260-ppe.svg -o /tmp/logo-ppe-preview.png)",
+      "Bash(rsvg-convert -w 250 -h 260 /Users/scott/Code/nitrateonline/tools/logo-250x260-legacy.svg -o /tmp/logo-legacy-preview.png)",
+      "Bash(rsvg-convert -w 250 -h 250 /Users/scott/Code/nitrateonline/logo-square.svg -o /tmp/logo-sq.png)",
+      "Bash(rsvg-convert -w 250 -h 250 /Users/scott/Code/nitrateonline/tools/logo-square-ppe.svg -o /tmp/logo-sq-ppe.png)",
+      "Bash(rsvg-convert -w 250 -h 250 /Users/scott/Code/nitrateonline/tools/logo-square-legacy.svg -o /tmp/logo-sq-legacy.png)"
+    ],
+    "additionalDirectories": [
+      "/tmp"
     ]
   }
 }
