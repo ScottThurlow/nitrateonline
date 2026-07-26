@@ -1,0 +1,34 @@
+name: Deploy PPE (opus)
+
+# On push to `ppe`, the self-hosted runner on opus (label `opus`, running as the
+# `deploy` user) mirrors the branch into the nginx docroot. The shared staging
+# nginx (infra: opus/www) serves it live from the bind mount — no restart needed.
+
+on:
+  push:
+    branches: [ppe]
+  workflow_dispatch:
+
+concurrency:
+  group: ppe-opus-nitrateonline
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: [self-hosted, opus]
+    steps:
+      - name: Checkout ppe
+        uses: actions/checkout@v4
+
+      - name: Sync ppe -> /var/www/ppe.nitrateonline.com/html
+        run: |
+          set -euo pipefail
+          DEST=/var/www/ppe.nitrateonline.com/html
+          mkdir -p "$DEST"
+          # Mirror the site; drop repo plumbing and legacy host configs.
+          rsync -a --delete \
+            --exclude='.git' --exclude='.github' --exclude='.claude' --exclude='.gitignore' \
+            --exclude='.htaccess' --exclude='.cpanel.yml' --exclude='web.config' \
+            --exclude='README.md' --exclude='LICENSE' \
+            ./ "$DEST/"
+          echo "Deployed $GITHUB_SHA -> $DEST"
