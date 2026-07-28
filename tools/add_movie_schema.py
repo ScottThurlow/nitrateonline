@@ -70,18 +70,6 @@ def extract_film_card(content):
         elif label == 'Box Office':
             data['box_office'] = value
 
-    # Ratings
-    for m in re.finditer(
-        r'film-rating"[^>]*>(\w+)\s+([\d.]+%?)', content):
-        source = m.group(1)
-        val = m.group(2)
-        if source == 'IMDB':
-            data['imdb_rating'] = val
-        elif source == 'RT':
-            data['rt_rating'] = val
-        elif source == 'MC':
-            data['mc_rating'] = val
-
     # IMDB URL
     m = re.search(r'href="(https://www\.imdb\.com/title/tt\d+/)"', content)
     if m:
@@ -161,15 +149,10 @@ def build_movie_jsonld(data, page_url):
     if 'imdb_url' in data:
         movie['sameAs'] = data['imdb_url']
 
-    # Aggregate ratings — use IMDB as the primary since it has a numeric scale
-    if 'imdb_rating' in data:
-        movie['aggregateRating'] = {
-            '@type': 'AggregateRating',
-            'ratingValue': data['imdb_rating'],
-            'bestRating': '10',
-            'worstRating': '1',
-            'ratingSource': 'IMDb',
-        }
+    # Deliberately no aggregateRating: we only have a rating value scraped
+    # from IMDb/RT/MC, never the underlying vote count, and schema.org's
+    # AggregateRating requires ratingCount or reviewCount to be valid.
+    # Fabricating a count would violate Google's structured data guidelines.
 
     return movie
 
