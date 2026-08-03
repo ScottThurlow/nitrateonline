@@ -27,7 +27,7 @@ The name refers to the nitrate film stock used in cinema's early decades — a m
 - Static HTML site with a shared CSS design system (`nitrate.css`)
 - Art-deco visual theme with gold/dark palette
 - Responsive layout, semantic HTML, and accessibility features
-- Deployed via cPanel with branch-based environments (main = production, ppe = staging)
+- Deployed via Cloudflare Pages with branch-based environments (main = production, ppe = staging)
 
 ## Environments
 

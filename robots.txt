@@ -3,7 +3,6 @@ Disallow: /_private
 Disallow: /_borders
 Disallow: /_errors
 Disallow: /mediabar
-Disallow: /cgi-bin
 Disallow: /designs
 Disallow: /tools
 Disallow: /BingSiteAuth.xml
