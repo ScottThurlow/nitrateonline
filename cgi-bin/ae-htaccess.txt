@@ -1,5 +1,0 @@
-RewriteEngine on
-RewriteBase /
-RewriteRule ^(amazon)$  $1/  [R,L]
-RewriteRule ^(amazon)/(.*)(\.[a-z]+)$  cgi-bin/ae.pl?virtual=$2&virtual.dir=$1  [L]
-RewriteRule ^(amazon)/(.*)$  cgi-bin/ae.pl?virtual=$2&virtual.dir=$1  [L]
